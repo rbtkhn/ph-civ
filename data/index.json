@@ -1,0 +1,1281 @@
+{
+  "card_count": 140,
+  "cards": [
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-01.md",
+      "placement_weight": "strong",
+      "review_status": "calibration_seed",
+      "series": "civilization",
+      "source_id": "civ-01",
+      "title": "Civilization #1: Explaining Humanity's Transition to Agriculture"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-02.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-02",
+      "title": "Civilization #2: Religion and the Dawn of Society"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-03.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-03",
+      "title": "Civilization #3: The Religious Imagination"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-04.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-04",
+      "title": "Civilization #4: The Paradise Lost of Marija Gimbutas"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-05.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-05",
+      "title": "Civilization #5: The Yamnaya Conquest of Europe"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-06.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-06",
+      "title": "Civilization #6: Elite Overproduction and the Bronze Age Collapse"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-07.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-07",
+      "title": "Civilization #7: Homer's Iliad and the Birth of Greek Civilization"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-08.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-08",
+      "title": "Civilization #8: Rat Utopia and the Peloponnesian War"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-09.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-09",
+      "title": "Civilization #9: Aeschylus, Sophocles, and Euripides as Prophets of Democracy"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-10.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-10",
+      "title": "Civilization #10: The Trial of Socrates and Plato's Allegory of the Cave"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-11.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-11",
+      "title": "Civilization #11: The Greatness of Philip II of Macedon"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-12.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-12",
+      "title": "Civilization #12: The Tyranny of Alexander the Great"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-13.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-13",
+      "title": "Civilization #13: Aristotle and the Greek Legacy"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-14.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-14",
+      "title": "Civilization #14: Hannibal Barca, Lucius Brutus, and the Triumph of Rome"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-15.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-15",
+      "title": "Civilization #15: The Myth-Making Genius of Julius Caesar"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-16.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-16",
+      "title": "Civilization #16: Julius Caesar's Will and Octavian's Birth of Empire"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-17.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-17",
+      "title": "Civilization #17: Homer, Virgil, and the War for the Soul of Rome"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-18.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-18",
+      "title": "Civilization #18: The Great Pyramid as Ancient Egypt's Manhattan Project"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-19.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-19",
+      "title": "Civilization #19: Gilgamesh and Mesopotamia's Quest for Immortality"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-20.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-20",
+      "title": "Civilization #20: The Proto-Buddhists of the Indus Valley (Harappan) Civilization"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-21.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-21",
+      "title": "Civilization #21: The Apology of King David of Israel"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-22.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-22",
+      "title": "Civilization #22: The Literary Genesis of the Yahwist"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-23.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-23",
+      "title": "Civilization #23: Cyrus the Great as Messiah"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-24.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-24",
+      "title": "Civilization #24: Resurrecting the Gnostic Jesus"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-25.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-25",
+      "title": "Civilization #25: Paul of Tarsus, Messiah of Rome"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-26.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-26",
+      "title": "Civilization #26: Constantine's Monotheistic Revolution"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-27.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-27",
+      "title": "Civilization #27: Augustine's Empire of God"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-28.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-28",
+      "title": "Civilization #28: Muhammad's Revolution of God"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-29.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-29",
+      "title": "Civilization #29: Dante's Divine Comedy and the Liberation of the Human Imagination"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-30.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-30",
+      "title": "Civilization #30: Dante as the Second Coming of Homer"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-31.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-31",
+      "title": "Civilization #31: The Oceanic Currents of History"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-32.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-32",
+      "title": "Civilization #32: Rome's Rise, Fall, and Legacy"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-33.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-33",
+      "title": "Civilization #33: The Rise and Fall of the Byzantine Empire"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-34.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-34",
+      "title": "Civilization #34: The Useful Fiction of the Holy Roman Empire"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-35.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-35",
+      "title": "Civilization #35: The Viking Legacy"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-36.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-36",
+      "title": "Civilization #36: Memory of the Norse"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-37.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-37",
+      "title": "Civilization #37: The Golden Age of Islam"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-38.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-38",
+      "title": "Civilization #38: Twilight of the Middle Kingdom"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-39.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-39",
+      "title": "Civilization #39: Genghis Khan, World Shatterer"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-40.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-40",
+      "title": "Civilization #40: Church and Empire"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-41.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-41",
+      "title": "Civilization #41: Dante's Quiet Revolution"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-42.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-42",
+      "title": "Civilization #42: The Protestant Reformation and the Birth of Capitalism"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-43.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-43",
+      "title": "Civilization #43: The Structure of Scientific Revolutions"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-44.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-44",
+      "title": "Civilization #44: The Spanish Conquest of the New World"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-45.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-45",
+      "title": "Civilization #45: The Gunpowder Revolution"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-46.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-46",
+      "title": "Civilization #46: The Revolution of Reason"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-47.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-47",
+      "title": "Civilization #47: The Passion of Robespierre"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-48.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-48",
+      "title": "Civilization #48: Napoleon's Empire of Myth"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-49.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-49",
+      "title": "Civilization #49: The Dutch Golden Age and the Rise of the Middle Class"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-50.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-50",
+      "title": "Civilization #50: Rule, Britannia!"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-51.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-51",
+      "title": "Civilization #51: Shakespeare's Language of Empire"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-52.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-52",
+      "title": "Civilization #52: Empire of Democracy"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-53.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-53",
+      "title": "Civilization #53: Dostoevsky and the Soul of Russia"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-54.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-54",
+      "title": "Civilization #54: The German Will to Power"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-55.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-55",
+      "title": "Civilization #55: Kant, Hegel, and the Theory of Everything"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-56.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-56",
+      "title": "Civilization #56: What Marx Got Wrong"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-57.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-57",
+      "title": "Civilization #57: How Modernism Ruined Everything (Re-upload AUDIO FIXED -- Thanks to Gabriel Bessa)"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-58.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-58",
+      "title": "Civilization #58: Birth of the Nation-State"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-59.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-59",
+      "title": "Civilization #59: The Man of Steel"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/civ-60.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "civilization",
+      "source_id": "civ-60",
+      "title": "Civilization #60: The Decline and Fall of the American Empire"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/gb-01.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "great-books",
+      "source_id": "gb-01",
+      "title": "Great Books #1: Secrets of the Universe"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/gb-02.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "great-books",
+      "source_id": "gb-02",
+      "title": "Great Books #2: Homer and the Invention of the Human"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/gb-03.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "great-books",
+      "source_id": "gb-03",
+      "title": "Great Books #3: Poets and Prophets"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/gb-04.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "great-books",
+      "source_id": "gb-04",
+      "title": "Great Books #4: The Conscious Universe"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/gb-05.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "great-books",
+      "source_id": "gb-05",
+      "title": "Great Books #5: The Odyssey"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/gb-06.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "great-books",
+      "source_id": "gb-06",
+      "title": "Great Books #6: The Intimacy of Love"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/gb-07.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "great-books",
+      "source_id": "gb-07",
+      "title": "Great Books #7: The Anti-Homer"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/gb-08.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "great-books",
+      "source_id": "gb-08",
+      "title": "Great Books #8: The Poetry of Empire"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/gb-09.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "great-books",
+      "source_id": "gb-09",
+      "title": "Great Books #9: Dante (Re-Upload with Audio Fixed)"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/gb-10.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "great-books",
+      "source_id": "gb-10",
+      "title": "Great Books #10: Dante's Hierarchy of Hell"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-01.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-01",
+      "title": "Geo-Strategy #1: Iran’s Strategy Matrix"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-02.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-02",
+      "title": "Geo-Strategy #2: Christian Zionism and the Middle East Conflict"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-03.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-03",
+      "title": "Geo-Strategy #3: How Empire Is Destroying America"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-04.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-04",
+      "title": "Geo-Strategy #4: Saudi Arabia’s Trump Card Against Iran"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-05.md",
+      "placement_weight": "light",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-05",
+      "title": "Geo-Strategy #5: Why Trump Will Win (And Pick Nikki Haley as VP)"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-06.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-06",
+      "title": "Geo-Strategy #6: America's Imperial Hubris"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-07.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-07",
+      "title": "Geo-Strategy #7: Who Killed Iranian President Ebrahim Raisi?"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-08.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-08",
+      "title": "Geo-Strategy #8: The Iran Trap"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-09.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-09",
+      "title": "Geo-Strategy #9: Putin's War for the Soul of Russia"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-10.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-10",
+      "title": "Geo-Strategy #10: Putin's Strategic Imagination"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-11.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-11",
+      "title": "Geo-Strategy #11: The Second American Civil War"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-12.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-12",
+      "title": "Geo-Strategy #12 (END): Psychohistory (The Science of Imagining the Future)"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-13.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-13",
+      "title": "Geo-Strategy #13: US-Iran War Incoming"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-14.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-14",
+      "title": "Geo-Strategy #14: WWIII Begins, Let's Game Theory"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-15.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-15",
+      "title": "Geo-Strategy #15: The Messianic Calling"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-16.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-16",
+      "title": "Geo-Strategy #16: Newton's Divine Plan"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-17.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-17",
+      "title": "Geo-Strategy #17: The Universal Law of Game Theory"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-18.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-18",
+      "title": "Geo-Strategy #18: Is Putin the Ubermensch?"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-19.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-19",
+      "title": "Geo-Strategy #19: When Eschatologies Converge"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/geo-20.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "geo-strategy",
+      "source_id": "geo-20",
+      "title": "Geo-Strategy #20: Why the West is Doomed"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-01.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-01",
+      "title": "Game Theory #1: The Dating Game"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-02.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-02",
+      "title": "Game Theory #2: Why Schools Suck"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-03.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-03",
+      "title": "Game Theory #3: Rich Dad, Poor Dad"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-04.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-04",
+      "title": "Game Theory #4: The Immigration Trap"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-05.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-05",
+      "title": "Game Theory #5: The World Game"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-06.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-06",
+      "title": "Game Theory #6: The World's Bank"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-07.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-07",
+      "title": "Game Theory #7: America's Game"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-08.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-08",
+      "title": "Game Theory #8: Communist Specter"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-09.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-09",
+      "title": "Game Theory #9: The US-Iran War"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-10.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-10",
+      "title": "Game Theory #10: The Law of Asymmetry"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-11.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-11",
+      "title": "Game Theory #11: The Law of Escalation"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-12.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-12",
+      "title": "Game Theory #12: The Law of Eschatological Convergence"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-13.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-13",
+      "title": "Game Theory #13: Epstein's World"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-14.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-14",
+      "title": "Game Theory #14: The Law of Proximity"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-15.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-15",
+      "title": "Game Theory #15: The Return of History"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-16.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-16",
+      "title": "Game Theory #16: Pax Judaica Rising"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-17.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-17",
+      "title": "Game Theory #17: The Great Reset"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-18.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-18",
+      "title": "Game Theory #18: Trump World Order"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-19.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-19",
+      "title": "Game Theory #19: The Hollywood-Pentagon Complex"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-20.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-20",
+      "title": "Game Theory #20: Mid-Term Examination"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-21.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-21",
+      "title": "Game Theory #21: World War Trump"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-22.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "game-theory",
+      "source_id": "gt-22",
+      "title": "Game Theory #22: Twilight of the Nation-State"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-01.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-01",
+      "title": "Secret History #1: How Power Works (4K Re-Upload with Audio Fixed)"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-02.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-02",
+      "title": "Secret History #2: How Societies Collapse"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-03.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-03",
+      "title": "Secret History #3: Death by Gerontocracy"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-04.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-04",
+      "title": "Secret History #4: How Evil Triumphs"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-05.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-05",
+      "title": "Secret History #5: The Birth of Evil"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-06.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-06",
+      "title": "Secret History #6: The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-07.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-07",
+      "title": "Secret History #7: Death by Meritocracy"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-08.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-08",
+      "title": "Secret History #8: Death by Bureaucracy"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-09.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-09",
+      "title": "Secret History #9: The Theory of Everything"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-10.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-10",
+      "title": "Secret History #10: The Conspiracy of Evil"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-11.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-11",
+      "title": "Secret History #11: Dawn of the Human Imagination"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-12.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-12",
+      "title": "Secret History #12: Heaven on Earth"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-13.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-13",
+      "title": "Secret History #13: Mandate of Heaven"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-14.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-14",
+      "title": "Secret History #14: Legacy of the Steppes"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-15.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-15",
+      "title": "Secret History #15: Capital and the Bronze Age Collapse"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-16.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-16",
+      "title": "Secret History #16: The Big Bang of Greek Civilization"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-17.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-17",
+      "title": "Secret History #17: Literary Genesis"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-18.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-18",
+      "title": "Secret History #18: Thus Spoke Zarathustra"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-19.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-19",
+      "title": "Secret History #19: Dawn of the Jews"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-20.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-20",
+      "title": "Secret History #20: The Hellenistic World"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-21.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-21",
+      "title": "Secret History #21: Roman Anti-Civilization"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-22.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-22",
+      "title": "Secret History #22: The Divine Spark of Jesus"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-23.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-23",
+      "title": "Secret History #23: The Organization of Evil"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-24.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-24",
+      "title": "Secret History #24: Empire of Church"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-25.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-25",
+      "title": "Secret History #25: Capital of Evil"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-26.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-26",
+      "title": "Secret History #26: Faith of Evil"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-27.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-27",
+      "title": "Secret History #27: Empire of Evil"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/sh-28.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "secret-history",
+      "source_id": "sh-28",
+      "title": "Secret History #28: Pax Judaica"
+    }
+  ],
+  "name": "civ-ph",
+  "part_counts": {
+    "civilization": 70,
+    "world-war": 70
+  },
+  "series_counts": {
+    "civilization": 60,
+    "game-theory": 22,
+    "geo-strategy": 20,
+    "great-books": 10,
+    "secret-history": 28
+  },
+  "source_snapshot": {
+    "commit": "56a4a08",
+    "repo": "rbtkhn/predictive-history"
+  }
+}

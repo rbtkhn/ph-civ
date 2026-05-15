@@ -1,0 +1,17 @@
+{
+  "source_id": "civ-07",
+  "bucket": "entry_object",
+  "item_title": "Example museum object title",
+  "source_url": "https://example.org/object",
+  "image_or_thumbnail_url": "https://example.org/object.jpg",
+  "source_name": "Example Museum",
+  "item_type": "artifact",
+  "date_or_period": "Classical period",
+  "place_or_culture": "Greek",
+  "one_sentence_description": "A concise factual description of the object.",
+  "what_to_notice": "What the object helps a student see before reading.",
+  "lecture_connection": "How it connects to this civ-ph card's orientation.",
+  "limit_or_caution": "What the object does not prove or where the analogy stops.",
+  "curator_fit_score": 5,
+  "curator_note": "Why this is a strong candidate."
+}

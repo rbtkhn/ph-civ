@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "civ-ph"
+version = "0.1.0"
+description = "Provider-neutral civ-ph orientation cards and study prompts."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Predictive History contributors" }]
+classifiers = ["Programming Language :: Python :: 3", "Topic :: Education"]
+
+[project.scripts]
+civ-ph = "civ_ph.cli:main"
+ph-civ = "civ_ph.cli:deprecated_main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
