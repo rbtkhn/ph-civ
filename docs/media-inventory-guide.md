@@ -1,34 +1,55 @@
-# Media Inventory Guide
+# Predictive History Museum Exhibit Guide
 
-The media inventory is a corpus-scale search and curation project. Curators collect candidate public references for every civ-ph card. Maintainers and agents later normalize, caption, validate, and render final media packs.
+The Predictive History Museum is a chapter-exhibit project. Curators assemble stored artifacts, metadata, and visitor paths for chapters in Predictive History: Civilization and Predictive History: Apocalypse.
+
+Flat inventories can be useful as temporary imports, exports, or review checklists. They are not the museum source of truth.
 
 ## Scope
 
-- Civilization: `civ-01` through `civ-60`
-- Great Books: routed `gb-*` entries
-- Geo-Strategy: `geo-01` through `geo-20`
-- Game Theory: `gt-01` through `gt-22`
-- Secret History: `sh-01` through `sh-28`
+- Predictive History: Civilization chapter exhibits
+- Predictive History: Apocalypse chapter exhibits
+- Public museum manifests and generated exhibit pages
 
-Current scope: 140 civ-ph entries.
+Each chapter should have one exhibit.
 
-## Per-Entry Inventory Target
+## Exhibit Target
 
-Collect 15-25 candidate items per source ID. Final media packs may use fewer.
+Each finished exhibit should contain a curated set of artifacts, usually 5-15, arranged into rooms.
 
-Buckets:
+Rooms:
 
-- `entry_object`
-- `context_anchor`
-- `primary_object_or_text`
-- `comparison_object`
-- `pressure_or_structure`
-- `limit_or_caution`
+- `entrance_artifact`
+- `context_room`
+- `primary_artifacts_and_texts`
+- `comparison_artifacts`
+- `pressure_systems`
+- `caution_room`
 
 ## Required Fields
 
-See `schemas/media-inventory-item.schema.json` and `data/media-inventory/template.csv`.
+See `schemas/museum-exhibit.schema.json` and `schemas/museum-artifact.schema.json`.
+
+Every accepted artifact needs:
+
+- stable artifact ID
+- chapter ID
+- room
+- title
+- artifact type
+- local vault path
+- shared cloud path
+- provenance URL or citation
+- source name
+- rights status
+- what to notice
+- lecture connection
+- limit or caution
+- curator note
+
+URLs are provenance, not storage.
 
 ## Quality Standard
 
-Good items are not merely related. They help a student notice a pattern: inheritance, pressure, transformation, analogy, rupture, geography, institution, technology, imagination, limit, or return path.
+Good artifacts are not merely related. They help a visitor notice a pattern: inheritance, pressure, transformation, analogy, rupture, geography, institution, technology, imagination, limit, or return path.
+
+The best exhibit has a clear path: an opening object, context, primary evidence, comparison, pressure systems, and a caution that prevents overclaiming.

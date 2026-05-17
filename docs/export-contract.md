@@ -1,4 +1,4 @@
-# civ-ph Export Contract
+# Public Export Contract
 
 Source authority: `rbtkhn/predictive-history` snapshot `56a4a08`.
 
@@ -9,7 +9,8 @@ Exported:
 - Public cross-volume corridor text where already present.
 - Lightweight source path metadata back to Predictive History.
 - Provider-neutral prompt templates.
-- Media-inventory schemas and contribution instructions.
+- Predictive History Museum schemas and contribution instructions.
+- Public museum exhibit manifests when reviewed for publication.
 
 Not exported:
 
@@ -19,5 +20,9 @@ Not exported:
 - Strategy-Codex transfer paths.
 - Raw media binaries.
 - Claims of final scholarly review.
+- Private museum vault files.
+- Shared-cloud artifact archives.
 
 Boundary: civ-ph cards orient study. They do not replace the source lecture, transcript, commentary, or external verification.
+
+Museum boundary: this repository publishes the public museum interface, schemas, and manifests. It is not the primary storage system for large artifact files.

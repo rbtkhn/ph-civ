@@ -1,74 +1,63 @@
-# Open Source Media Curation Bounty: 0.01 BTC
+# Predictive History Museum Curation Bounty
 
-Predictive History is building civ-ph, an open-source study system for historical orientation across Civilization and World War.
+Status: superseded draft.
 
-We are seeking a human curator to build the full civ-ph media inventory: public links to artifacts, maps, manuscripts, artworks, documents, diagrams, places, people, institutions, timelines, and other visual/reference materials that help students see what to notice before entering each lecture.
+This document preserves the original media-inventory bounty language for continuity, but the project direction has changed. Predictive History Museum work is no longer accepted as a flat list of public links. The public-facing unit is now the chapter exhibit, and every accepted artifact must be stored both locally and in a shared document cloud workspace.
 
-This is search and curation work only. You are not responsible for legal rights review, final captions, YAML formatting, repo integration, or writing analysis.
+See `docs/public-repo-contract.md` and `docs/media-inventory-guide.md` for the current museum model.
 
 ## Bounty
 
-0.01 BTC upon accepted completion of the full civ-ph media inventory.
+The original 0.01 BTC bounty is not payable for URL-only or row-only submissions. Any active bounty must be accepted against the current chapter-exhibit standard.
 
 ## Scope
 
-Curate media inventories for the entire civ-ph corpus:
+Curate museum exhibits for Predictive History chapters:
 
-- Civilization: `civ-01` through `civ-60`
-- Great Books: all routed `gb-*` entries
-- Geo-Strategy: `geo-01` through `geo-20`
-- Game Theory: `gt-01` through `gt-22`
-- Secret History: `sh-01` through `sh-28`
+- Predictive History: Civilization
+- Predictive History: Apocalypse
 
-Current expected total: 140 civ-ph entries.
+Each chapter should have one exhibit. The exhibit, not the artifact row, is the primary deliverable.
 
 ## Deliverable
 
-For every civ-ph entry, provide 15-25 candidate media/reference items.
+For each completed chapter exhibit, provide:
 
-Expected total: approximately 2,100-3,500 candidate items.
-
-Each item must include:
-
-- source ID
-- bucket
-- item title
-- source URL
-- image/thumbnail URL if available
-- source name
-- item type
-- date or period
-- place or culture
-- one-sentence description
-- what to notice
-- lecture connection
-- limit or caution
-- curator fit score from 1-5
+- exhibit manifest
+- artifact folders or shared-cloud equivalents
+- local file path for each artifact
+- shared cloud path for each artifact
+- provenance URL or citation for each artifact
+- rights status
+- room placement
 - curator note
+- limit or caution
 
-## Required Buckets Per Entry
+Candidate links can support the work, but they do not complete it.
 
-Each entry should include candidates across these buckets:
+## Required Rooms Per Exhibit
 
-- entry object
-- context anchors
-- primary objects/texts
-- comparison objects
-- pressure/structure items
-- limits/caution items
+Each exhibit should arrange artifacts across these rooms as appropriate:
+
+- entrance artifact
+- context room
+- primary artifacts and texts
+- comparison artifacts
+- pressure systems
+- caution room
 
 ## Minimum Acceptance Standard
 
-Each civ-ph entry must have:
+Each submitted exhibit must:
 
-- at least 15 candidate items
-- at least 1 entry object candidate
-- at least 3 context anchors
-- at least 3 primary objects/texts
-- at least 2 limits/caution items
-- at least 1 item with curator fit score `5`
-- stable public source URLs
-- no obvious padding or low-quality filler
+- map to a specific chapter
+- contain a coherent visitor path
+- store every accepted artifact locally and in shared cloud storage
+- include rights status for every artifact
+- include provenance for every artifact
+- include a clear reason each artifact belongs
+- include limits or cautions
+- avoid padding, filler, and generic image-search results
 
 ## Source Quality
 
@@ -88,7 +77,7 @@ Avoid:
 - random image-search reposts
 - Pinterest-style aggregators
 - unsourced social media images
-- AI-generated images
+- AI-generated images unless explicitly marked and justified as interpretive, not evidentiary
 - commercial stock images
 - weak blog posts unless no better public source exists
 
@@ -110,23 +99,8 @@ Good items are not merely related. They help a student recognize the lecture's p
 
 ## Human Role Boundary
 
-The curator does:
-
-- search
-- selection
-- source judgment
-- fit scoring
-- short explanatory notes
-
-The project maintainers/agents do:
-
-- rights-status labeling
-- final pack selection
-- caption writing
-- YAML/Markdown formatting
-- repo integration
-- validation
+The curator does more than search. The curator is responsible for selection judgment, source judgment, rights awareness, exhibit coherence, cultural balance, and short explanatory notes. Maintainers and agents may help normalize files and run validators, but they cannot replace the human act of deciding what belongs in the exhibit.
 
 ## Acceptance
 
-The bounty is paid after the submitted inventory is reviewed and accepted as complete against the standards above. Submissions may be returned for revision if entries are padded, missing required buckets, or rely heavily on unstable/low-quality sources.
+The bounty is paid only after submitted exhibits are reviewed and accepted against the current museum standard. Submissions may be returned for revision if they are URL-only, row-only, padded, missing stored artifacts, missing rights status, or organized around inventories rather than chapter exhibits.
