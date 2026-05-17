@@ -47,9 +47,27 @@ def test_public_surfaces_are_named(capsys):
     assert "Predictive History: Civilization" in capsys.readouterr().out
 
 
-def test_reserved_surface_commands(capsys):
+def test_surface_scoped_commands(capsys):
     from civ_ph.cli import apo_main, mus_main
+    assert main(["list"]) == 0
+    assert "civ-07" in capsys.readouterr().out
+    assert apo_main(["list"]) == 0
+    out = capsys.readouterr().out
+    assert "gt-16" in out
+    assert "civ-07" not in out
     assert apo_main(["status"]) == 0
     assert "ph-apo" in capsys.readouterr().out
-    assert mus_main(["status"]) == 0
-    assert "ph-mus" in capsys.readouterr().out
+    assert mus_main(["list"]) == 0
+    assert "gt-16" in capsys.readouterr().out
+
+
+def test_public_routes(capsys):
+    from civ_ph.cli import apo_main, mus_main
+    assert main(["route", "civ-07", "--json"]) == 0
+    out = capsys.readouterr().out
+    assert "\"museum\"" in out
+    assert "corpus/media-packs/civ-07.md" in out
+    assert apo_main(["route", "gt-16", "--json"]) == 0
+    assert "corpus/media-packs/gt-16.md" in capsys.readouterr().out
+    assert mus_main(["route", "civ-07", "--json"]) == 0
+    assert "corpus/media-packs/civ-07.md" in capsys.readouterr().out

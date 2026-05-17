@@ -5,7 +5,7 @@ This repository is the public-facing distribution layer for `ph-civ`, `ph-apo`, 
 ## Public Surfaces
 
 - `ph-civ`: **Predictive History: Civilization** public orientation cards, paths, prompts, and study navigation.
-- `ph-apo`: **Predictive History: Apocalypse** public orientation cards, paths, prompts, and study navigation as that surface is prepared.
+- `ph-apo`: **Predictive History: Apocalypse** public orientation cards, paths, prompts, and study navigation over Apocalypse / World War-facing cards.
 - `ph-mus`: **Predictive History Museum** public exhibit manifests, artifact metadata, schemas, validation rules, and generated reader-facing exhibit pages.
 
 ## Source Of Truth Boundary
@@ -44,6 +44,8 @@ Each exhibit should map to one chapter in `ph-civ` or `ph-apo`. A useful exhibit
 - `caution_room`
 
 Flat item inventories may be useful as imports or review exports, but they are not the museum source of truth.
+
+The current public choreography export is `data/routes/choreography.json`; the public museum exhibit index is `data/museum/index.json`. These files expose only safe routing metadata and manifest pointers, not artifact binaries.
 
 ## Human Curator Role
 

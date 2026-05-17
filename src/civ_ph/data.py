@@ -38,3 +38,22 @@ def load_spine(spine_id: str = "homer-to-tolstoy") -> dict:
     if not path.exists():
         raise KeyError(spine_id)
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+def load_surfaces() -> dict:
+    return json.loads((DATA_ROOT / "surfaces.json").read_text(encoding="utf-8"))
+
+
+def load_choreography() -> list[dict]:
+    return json.loads((DATA_ROOT / "routes" / "choreography.json").read_text(encoding="utf-8"))["routes"]
+
+
+def get_route(source_id: str) -> dict:
+    for route in load_choreography():
+        if route["source_id"] == source_id:
+            return route
+    raise KeyError(source_id)
+
+
+def load_museum_index() -> list[dict]:
+    return json.loads((DATA_ROOT / "museum" / "index.json").read_text(encoding="utf-8"))["exhibits"]

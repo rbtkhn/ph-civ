@@ -1,0 +1,77 @@
+{
+  "source": "corpus/media-packs/index.md",
+  "exhibits": [
+    {
+      "source_id": "civ-07",
+      "surface": "ph-civ",
+      "title": "Civilization #7: Homer's Iliad and the Birth of Greek Civilization",
+      "part": "civilization",
+      "museum_status": "curated_draft",
+      "item_count": 5,
+      "museum_exhibit_path": "corpus/media-packs/civ-07.md"
+    },
+    {
+      "source_id": "civ-29",
+      "surface": "ph-civ",
+      "title": "Civilization #29: Dante's Divine Comedy and the Liberation of the Human Imagination",
+      "part": "civilization",
+      "museum_status": "curated_draft",
+      "item_count": 5,
+      "museum_exhibit_path": "corpus/media-packs/civ-29.md"
+    },
+    {
+      "source_id": "civ-51",
+      "surface": "ph-civ",
+      "title": "Civilization #51: Shakespeare's Language of Empire",
+      "part": "civilization",
+      "museum_status": "curated_draft",
+      "item_count": 5,
+      "museum_exhibit_path": "corpus/media-packs/civ-51.md"
+    },
+    {
+      "source_id": "gb-02",
+      "surface": "ph-civ",
+      "title": "Great Books #2: Homer and the Invention of the Human",
+      "part": "civilization",
+      "museum_status": "curated_draft",
+      "item_count": 5,
+      "museum_exhibit_path": "corpus/media-packs/gb-02.md"
+    },
+    {
+      "source_id": "gb-09",
+      "surface": "ph-civ",
+      "title": "Great Books #9: Dante (Re-Upload with Audio Fixed)",
+      "part": "civilization",
+      "museum_status": "curated_draft",
+      "item_count": 5,
+      "museum_exhibit_path": "corpus/media-packs/gb-09.md"
+    },
+    {
+      "source_id": "geo-14",
+      "surface": "ph-apo",
+      "title": "Geo-Strategy #14: WWIII Begins, Let's Game Theory",
+      "part": "world-war",
+      "museum_status": "curated_draft",
+      "item_count": 5,
+      "museum_exhibit_path": "corpus/media-packs/geo-14.md"
+    },
+    {
+      "source_id": "gt-16",
+      "surface": "ph-apo",
+      "title": "Game Theory #16: Pax Judaica Rising",
+      "part": "world-war",
+      "museum_status": "curated_draft",
+      "item_count": 5,
+      "museum_exhibit_path": "corpus/media-packs/gt-16.md"
+    },
+    {
+      "source_id": "sh-28",
+      "surface": "ph-apo",
+      "title": "Secret History #28: Pax Judaica",
+      "part": "world-war",
+      "museum_status": "curated_draft",
+      "item_count": 5,
+      "museum_exhibit_path": "corpus/media-packs/sh-28.md"
+    }
+  ]
+}

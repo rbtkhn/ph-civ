@@ -1,0 +1,23 @@
+{
+  "source_snapshot": {
+    "repo": "rbtkhn/predictive-history",
+    "commit": "9d8eabc"
+  },
+  "surfaces": {
+    "ph-civ": {
+      "title": "Predictive History: Civilization",
+      "status": "active",
+      "description": "Historical pattern formation through public orientation cards, study prompts, paths, and routes."
+    },
+    "ph-apo": {
+      "title": "Predictive History: Apocalypse",
+      "status": "active",
+      "description": "Pressure application through public World War / Apocalypse-facing cards and routes."
+    },
+    "ph-mus": {
+      "title": "Predictive History Museum",
+      "status": "active_manifest_index",
+      "description": "Public exhibit manifests and artifact metadata routes. Large artifact files live outside Git."
+    }
+  }
+}

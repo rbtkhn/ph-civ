@@ -55,8 +55,13 @@ ph-civ spark gt-16 --count 5
 ph-civ spine
 ph-civ path homer-to-tolstoy
 ph-civ validate
+ph-civ route civ-07 --json
+ph-apo list
 ph-apo status
+ph-apo route gt-16 --json
+ph-mus list
 ph-mus status
+ph-mus route civ-07 --json
 ```
 
 All prompt and spark commands are template-only. They do not call an AI provider. The older `civ-ph` command is kept as a compatibility alias for `ph-civ`.
@@ -72,6 +77,8 @@ Tolstoy is routed through `sh-16`, where *Anna Karenina* appears as a source-bac
 ## Predictive History Museum
 
 The museum is organized around chapter exhibits, not flat item rows. Each chapter in Predictive History: Civilization and Predictive History: Apocalypse should eventually have one exhibit with stored artifacts, rights notes, room placement, and a clear visitor path.
+
+The current public route export lives in `data/routes/choreography.json`, with the public museum manifest index in `data/museum/index.json`.
 
 See `docs/public-repo-contract.md`, `docs/media-inventory-guide.md`, `schemas/museum-exhibit.schema.json`, and `schemas/museum-artifact.schema.json`.
 
