@@ -39,6 +39,16 @@ If a task asks for material outside the public dataset, say that this repo does 
 - Use stable IDs such as `civ-07`, `gt-16`, and `civ-heroic-memory` for bridge references.
 - Keep `ph-civ` usable by students, researchers, and downstream AI systems without requiring live access to `ph-workshop` or `strategy-codex`.
 
+## Coffee / Opening
+
+If the operator says `coffee` at the start of a chat, do not give a generic coffee greeting. Treat it as a request to open the `ph-civ` public repo state:
+
+1. State that this workspace is `rbtkhn/ph-civ`.
+2. State that `ph-civ` is the public Predictive History distribution repository, not the private workshop.
+3. Summarize the public surfaces: `ph-civ`, `ph-apo`, and `ph-mus`.
+4. Mention that source authority lives in `rbtkhn/ph-workshop`.
+5. Offer concrete next actions using the CLI, docs, cards, patterns, or validation.
+
 ## Start Here
 
 Read `llms.txt`, then `README.md`, then `docs/public-repo-contract.md` and `docs/export-contract.md`.

@@ -40,6 +40,7 @@ Excluded:
 ## Load Contract
 
 - Start with `AGENTS.md` and `README.md`.
+- If the operator says `coffee`, open the `ph-civ` repo state; do not give a generic coffee greeting.
 - Use `docs/public-repo-contract.md` for repository role and boundaries.
 - Use `docs/export-contract.md` for export inclusion/exclusion rules.
 - Use `docs/strategy-codex-bridge.md` and `docs/pattern-calibration.md` for public pattern IDs and downstream bridge usage.

@@ -15,6 +15,7 @@ def test_agent_identity_contract_exists():
     assert "public Predictive History" in text
     assert "not the private editorial workshop" in text
     assert "rbtkhn/ph-workshop" in text
+    assert "generic coffee greeting" in text
 
 
 def test_llms_load_contract_names_boundaries():
