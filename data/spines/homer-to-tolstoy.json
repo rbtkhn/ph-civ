@@ -2,7 +2,7 @@
   "spine_id": "homer-to-tolstoy",
   "title": "Homer to Tolstoy",
   "status": "in_review",
-  "description": "Primary literary spine for the public civ-ph package.",
+  "description": "Primary literary spine for the public ph-civ package.",
   "guardrail": "This is a guided literary orientation path, not a claim that literature alone drives history.",
   "sequence": [
     {

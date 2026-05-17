@@ -1,6 +1,6 @@
 # Contributing
 
-Predictive History welcomes focused public contributions that improve study orientation, data quality, validation, public navigation, and museum exhibit curation.
+Predictive History welcomes focused public contributions that improve `ph-civ`, `ph-apo`, and `ph-mus`: study orientation, data quality, validation, public navigation, and museum exhibit curation.
 
 Do not add transcripts, full commentary bodies, private notes, or unsourced claims. Keep contributions provider-neutral and source-grounded.
 

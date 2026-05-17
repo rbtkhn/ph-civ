@@ -3,17 +3,19 @@ requires = ["setuptools>=69", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "civ-ph"
+name = "ph-civ"
 version = "0.1.0"
-description = "Provider-neutral civ-ph orientation cards and study prompts."
+description = "Provider-neutral Predictive History public surfaces, beginning with ph-civ orientation cards."
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [{ name = "Predictive History contributors" }]
 classifiers = ["Programming Language :: Python :: 3", "Topic :: Education"]
 
 [project.scripts]
-civ-ph = "civ_ph.cli:main"
-ph-civ = "civ_ph.cli:deprecated_main"
+ph-civ = "civ_ph.cli:main"
+civ-ph = "civ_ph.cli:compat_main"
+ph-apo = "civ_ph.cli:apo_main"
+ph-mus = "civ_ph.cli:mus_main"
 
 [tool.setuptools]
 package-dir = {"" = "src"}

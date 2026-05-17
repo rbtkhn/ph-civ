@@ -36,7 +36,20 @@ def test_literary_spine_ends_with_tolstoy():
     assert spine["sequence"][-1]["source_ids"] == ["sh-16"]
 
 
-def test_deprecated_alias_warns(capsys):
-    from civ_ph.cli import deprecated_main
-    assert deprecated_main(["validate"]) == 0
-    assert "ph-civ is deprecated; use civ-ph" in capsys.readouterr().err
+def test_compat_alias_still_works(capsys):
+    from civ_ph.cli import compat_main
+    assert compat_main(["validate"]) == 0
+    assert capsys.readouterr().err == ""
+
+
+def test_public_surfaces_are_named(capsys):
+    assert main(["surface", "ph-civ"]) == 0
+    assert "Predictive History: Civilization" in capsys.readouterr().out
+
+
+def test_reserved_surface_commands(capsys):
+    from civ_ph.cli import apo_main, mus_main
+    assert apo_main(["status"]) == 0
+    assert "ph-apo" in capsys.readouterr().out
+    assert mus_main(["status"]) == 0
+    assert "ph-mus" in capsys.readouterr().out

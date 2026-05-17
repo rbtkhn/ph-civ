@@ -2,11 +2,11 @@
 
 This repository is the public-facing home for three related Predictive History surfaces:
 
-- **Predictive History: Civilization**
-- **Predictive History: Apocalypse**
-- **Predictive History Museum**
+- `ph-civ`: **Predictive History: Civilization**
+- `ph-apo`: **Predictive History: Apocalypse**
+- `ph-mus`: **Predictive History Museum**
 
-It also contains `civ-ph`, a lightweight, provider-neutral study tool for public Predictive History orientation cards. The package lets students and AI systems explore historical placement, reading posture, pressure points, limits, return paths, and guided prompts without importing transcripts or commentary bodies.
+It also contains `ph-civ`, a lightweight, provider-neutral study tool for public Predictive History orientation cards. The package lets students and AI systems explore historical placement, reading posture, pressure points, limits, return paths, and guided prompts without importing transcripts or commentary bodies.
 
 This package is independent educational infrastructure. It is not official course material, not endorsement, and not a substitute for the source lectures, transcripts, commentary, or external verification.
 
@@ -18,7 +18,7 @@ It should not become the large-media vault. Museum artifacts must be stored in a
 
 ## What Is Included
 
-- 140 public civ-ph cards from Predictive History snapshot `56a4a08`.
+- 140 public `ph-civ` cards from Predictive History snapshot `56a4a08`.
 - Two course parts: Civilization and World War.
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, and Secret History.
 - The Homer-to-Tolstoy literary spine.
@@ -45,19 +45,21 @@ python -m pip install -e .
 ## CLI
 
 ```bash
-civ-ph list
-civ-ph list --part civilization
-civ-ph list --series game-theory --json
-civ-ph show civ-41 --format json
-civ-ph search Dante
-civ-ph prompt gb-01 --mode creative
-civ-ph spark gt-16 --count 5
-civ-ph spine
-civ-ph path homer-to-tolstoy
-civ-ph validate
+ph-civ list
+ph-civ list --part civilization
+ph-civ list --series game-theory --json
+ph-civ show civ-41 --format json
+ph-civ search Dante
+ph-civ prompt gb-01 --mode creative
+ph-civ spark gt-16 --count 5
+ph-civ spine
+ph-civ path homer-to-tolstoy
+ph-civ validate
+ph-apo status
+ph-mus status
 ```
 
-All prompt and spark commands are template-only. They do not call an AI provider. The old `ph-civ` command is kept only as a temporary deprecated alias for `civ-ph`.
+All prompt and spark commands are template-only. They do not call an AI provider. The older `civ-ph` command is kept as a compatibility alias for `ph-civ`.
 
 ## Literary Spine
 

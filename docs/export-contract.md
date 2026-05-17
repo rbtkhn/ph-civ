@@ -2,9 +2,15 @@
 
 Source authority: `rbtkhn/predictive-history` snapshot `56a4a08`.
 
+Public namespaces:
+
+- `ph-civ`: Predictive History: Civilization
+- `ph-apo`: Predictive History: Apocalypse
+- `ph-mus`: Predictive History Museum
+
 Exported:
 
-- civ-ph public card frontmatter and rendered public sections.
+- `ph-civ` public card frontmatter and rendered public sections.
 - Source IDs, titles, part labels, series labels, placement weights, and review status.
 - Public cross-volume corridor text where already present.
 - Lightweight source path metadata back to Predictive History.
@@ -23,6 +29,6 @@ Not exported:
 - Private museum vault files.
 - Shared-cloud artifact archives.
 
-Boundary: civ-ph cards orient study. They do not replace the source lecture, transcript, commentary, or external verification.
+Boundary: `ph-civ` cards orient study. They do not replace the source lecture, transcript, commentary, or external verification.
 
 Museum boundary: this repository publishes the public museum interface, schemas, and manifests. It is not the primary storage system for large artifact files.

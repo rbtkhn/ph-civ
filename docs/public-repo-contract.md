@@ -1,12 +1,12 @@
 # Public Repository Contract
 
-This repository is the public-facing distribution layer for Predictive History: Civilization, Predictive History: Apocalypse, and the Predictive History Museum.
+This repository is the public-facing distribution layer for `ph-civ`, `ph-apo`, and `ph-mus`.
 
 ## Public Surfaces
 
-- **Predictive History: Civilization**: public orientation cards, paths, prompts, and study navigation.
-- **Predictive History: Apocalypse**: public orientation cards, paths, prompts, and study navigation as that surface is prepared.
-- **Predictive History Museum**: public exhibit manifests, artifact metadata, schemas, validation rules, and generated reader-facing exhibit pages.
+- `ph-civ`: **Predictive History: Civilization** public orientation cards, paths, prompts, and study navigation.
+- `ph-apo`: **Predictive History: Apocalypse** public orientation cards, paths, prompts, and study navigation as that surface is prepared.
+- `ph-mus`: **Predictive History Museum** public exhibit manifests, artifact metadata, schemas, validation rules, and generated reader-facing exhibit pages.
 
 ## Source Of Truth Boundary
 
@@ -34,7 +34,7 @@ Git should track manifests, metadata, schemas, small generated pages, and valida
 
 The primary museum unit is the chapter exhibit.
 
-Each exhibit should map to one chapter in Predictive History: Civilization or Predictive History: Apocalypse. A useful exhibit contains a small curated set of artifacts arranged into rooms:
+Each exhibit should map to one chapter in `ph-civ` or `ph-apo`. A useful exhibit contains a small curated set of artifacts arranged into rooms:
 
 - `entrance_artifact`
 - `context_room`

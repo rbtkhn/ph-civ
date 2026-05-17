@@ -6,7 +6,7 @@
   "required": [
     "exhibit_id",
     "chapter_id",
-    "series",
+    "surface",
     "title",
     "status",
     "visitor_path",
@@ -21,11 +21,11 @@
       "type": "string",
       "pattern": "^[a-z]+-[0-9]{2,3}$"
     },
-    "series": {
+    "surface": {
       "type": "string",
       "enum": [
-        "predictive-history-civilization",
-        "predictive-history-apocalypse"
+        "ph-civ",
+        "ph-apo"
       ]
     },
     "title": {

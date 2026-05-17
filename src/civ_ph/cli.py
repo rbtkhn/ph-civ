@@ -9,10 +9,28 @@ from collections import Counter
 from .data import card_markdown, get_card, load_cards, load_spine
 
 PROMPT_MODES = {
-    "study": "Create a study plan that helps me understand this civ-ph orientation card without treating it as a substitute for the source lecture.",
+    "study": "Create a study plan that helps me understand this ph-civ orientation card without treating it as a substitute for the source lecture.",
     "seminar": "Write seminar questions that test the card's framing, pressure points, and limits.",
     "creative": "Generate creative project prompts inspired by this card, preserving the card's limits and avoiding unsupported claims.",
     "counter-reading": "Develop counter-readings and skeptical questions that keep the card grounded in its stated limits.",
+}
+
+SURFACES = {
+    "ph-civ": {
+        "title": "Predictive History: Civilization",
+        "status": "active",
+        "description": "Public orientation cards, study prompts, paths, and card validation.",
+    },
+    "ph-apo": {
+        "title": "Predictive History: Apocalypse",
+        "status": "reserved",
+        "description": "Public Apocalypse cards and paths are reserved here and will be populated from reviewed exports.",
+    },
+    "ph-mus": {
+        "title": "Predictive History Museum",
+        "status": "reserved",
+        "description": "Public exhibit manifests, artifact metadata, schemas, and generated museum pages. Large artifact files live outside Git.",
+    },
 }
 
 
@@ -155,8 +173,18 @@ def cmd_validate(args) -> int:
     return 0
 
 
+def cmd_surface(args) -> int:
+    surface = SURFACES[args.surface]
+    if args.json:
+        return emit_json({"surface": args.surface, **surface})
+    print(f"{args.surface}: {surface['title']}")
+    print(f"status: {surface['status']}")
+    print(surface["description"])
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(prog="civ-ph", description="Provider-neutral civ-ph study cards and prompts.")
+    parser = argparse.ArgumentParser(prog="ph-civ", description="Provider-neutral Predictive History study cards and prompts.")
     sub = parser.add_subparsers(dest="command", required=True)
 
     p = sub.add_parser("list", help="List cards.")
@@ -200,6 +228,11 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("validate", help="Validate packaged cards.")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_validate)
+
+    p = sub.add_parser("surface", help="Show public surface metadata.")
+    p.add_argument("surface", choices=sorted(SURFACES), nargs="?", default="ph-civ")
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_surface)
     return parser
 
 
@@ -207,9 +240,26 @@ def main(argv: list[str] | None = None) -> int:
     args = build_parser().parse_args(argv)
     return args.func(args)
 
-def deprecated_main(argv: list[str] | None = None) -> int:
-    print("Warning: ph-civ is deprecated; use civ-ph.", file=sys.stderr)
+def compat_main(argv: list[str] | None = None) -> int:
     return main(argv)
+
+
+def reserved_surface_main(surface: str, argv: list[str] | None = None) -> int:
+    args = list(argv or sys.argv[1:])
+    if args in ([], ["status"]):
+        return cmd_surface(argparse.Namespace(surface=surface, json=False))
+    if args == ["--json"] or args == ["status", "--json"]:
+        return cmd_surface(argparse.Namespace(surface=surface, json=True))
+    print(f"{surface} currently supports: status [--json]", file=sys.stderr)
+    return 2
+
+
+def apo_main(argv: list[str] | None = None) -> int:
+    return reserved_surface_main("ph-apo", argv)
+
+
+def mus_main(argv: list[str] | None = None) -> int:
+    return reserved_surface_main("ph-mus", argv)
 
 
 if __name__ == "__main__":
