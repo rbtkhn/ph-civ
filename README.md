@@ -1,5 +1,7 @@
 # Predictive History Public Repository
 
+For AI agents and new chats: start with `AGENTS.md` and `llms.txt`. This repo is the public Predictive History distribution layer, not the private editorial workshop.
+
 This repository is the public-facing home for three related Predictive History surfaces:
 
 - `ph-civ`: **Predictive History: Civilization**

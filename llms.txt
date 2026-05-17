@@ -1,0 +1,55 @@
+# ph-civ
+
+> Public Predictive History context-pack and study-orientation repository.
+
+## Workspace Identity
+
+This workspace is `rbtkhn/ph-civ`, the public distribution layer for Predictive History.
+
+It exists to provide public, provider-neutral orientation cards, civilizational pattern IDs, routes, prompts, museum schemas, and validation tooling. It helps students, researchers, and downstream AI systems navigate Predictive History without importing private workshop material.
+
+## Public Surfaces
+
+- `ph-civ`: Predictive History: Civilization public orientation cards and study navigation.
+- `ph-apo`: Predictive History: Apocalypse / World War public orientation surfaces.
+- `ph-mus`: Predictive History Museum public exhibit manifests, artifact metadata, schemas, and contribution rules.
+
+## Boundary
+
+Source authority lives in `rbtkhn/ph-workshop`. This repository is the public consumption layer, not the private editorial workspace.
+
+Included:
+
+- public card frontmatter and public card sections
+- source IDs, titles, parts, series, placement weights, and review status
+- provider-neutral prompts and spark templates
+- public pattern IDs and bridge responses
+- museum schemas, public manifests, and contribution instructions
+
+Excluded:
+
+- transcript bodies
+- commentary bodies
+- private notes
+- Strategy-Codex paths
+- raw media binaries
+- private museum vault files
+- shared-cloud artifact archives
+- final scholarly-review claims
+
+## Load Contract
+
+- Start with `AGENTS.md` and `README.md`.
+- Use `docs/public-repo-contract.md` for repository role and boundaries.
+- Use `docs/export-contract.md` for export inclusion/exclusion rules.
+- Use `docs/strategy-codex-bridge.md` and `docs/pattern-calibration.md` for public pattern IDs and downstream bridge usage.
+- Use `data/cards.jsonl`, `data/patterns.json`, and `data/routes/choreography.json` as public data sources.
+- Do not answer as if this repo owns live workshop editorial state.
+
+## Useful Commands
+
+```powershell
+python -m pytest
+PYTHONPATH=src python -m civ_ph.cli validate
+PYTHONPATH=src python -m civ_ph.cli bridge civ-07 --format markdown
+```
