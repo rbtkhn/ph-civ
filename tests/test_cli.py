@@ -37,6 +37,9 @@ def test_exported_source_repo_uses_workshop():
 
 def test_literary_spine_ends_with_tolstoy():
     spine = load_spine()
+    assert spine["spine_id"] == "homer-to-tolstoy"
+    assert spine["structural_role"] == "volume_i_literary_spine"
+    assert spine["routing_role"] == "cross_volume_exposure"
     assert spine["sequence"][-1]["author"] == "Tolstoy"
     assert spine["sequence"][-1]["source_ids"] == ["sh-16"]
 
