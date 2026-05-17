@@ -6,7 +6,21 @@ import random
 import sys
 from collections import Counter
 
-from .data import DATA_ROOT, card_markdown, get_card, get_route, load_cards, load_choreography, load_museum_index, load_spine, load_surfaces
+from .data import (
+    DATA_ROOT,
+    card_markdown,
+    get_card,
+    get_pattern,
+    get_route,
+    load_cards,
+    load_choreography,
+    load_museum_index,
+    load_patterns,
+    load_spine,
+    load_surfaces,
+    pattern_markdown,
+    patterns_for_source,
+)
 
 EXPECTED_SOURCE_REPO = "rbtkhn/ph-workshop"
 
@@ -130,6 +144,58 @@ def cmd_route(args) -> int:
     return 0
 
 
+def cmd_patterns(args) -> int:
+    patterns = load_patterns()
+    rows = [
+        {
+            "pattern_id": pattern["pattern_id"],
+            "title": pattern["title"],
+            "source_ids": pattern["source_ids"],
+            "public_status": pattern["public_status"],
+        }
+        for pattern in patterns
+    ]
+    if args.json:
+        return emit_json(rows)
+    for row in rows:
+        print(
+            f"{row['pattern_id']}\t{row['public_status']}\t"
+            f"{','.join(row['source_ids'])}\t{row['title']}"
+        )
+    return 0
+
+
+def cmd_pattern(args) -> int:
+    try:
+        pattern = get_pattern(args.pattern_id)
+        if args.format == "json":
+            return emit_json(pattern)
+        print(pattern_markdown(args.pattern_id), end="")
+        return 0
+    except KeyError:
+        print(f"Unknown pattern_id: {args.pattern_id}", file=sys.stderr)
+        return 2
+
+
+def cmd_bridge(args) -> int:
+    try:
+        card = get_card(args.source_id)
+    except KeyError:
+        print(f"Unknown source_id: {args.source_id}", file=sys.stderr)
+        return 2
+    payload = {
+        "source_id": card["source_id"],
+        "title": card["title"],
+        "patterns": patterns_for_source(card["source_id"]),
+    }
+    if args.json:
+        return emit_json(payload)
+    print(f"{payload['source_id']}\t{payload['title']}")
+    for pattern in payload["patterns"]:
+        print(f"{pattern['pattern_id']}\t{pattern['title']}")
+    return 0
+
+
 def cmd_museum_list(args) -> int:
     exhibits = load_museum_index()
     if args.json:
@@ -240,6 +306,7 @@ def cmd_validate(args) -> int:
         source_repo = metadata.get("source_snapshot", {}).get("repo")
         if source_repo != EXPECTED_SOURCE_REPO:
             errors.append(f"{metadata_path.relative_to(DATA_ROOT)} invalid source repo: {source_repo}")
+    errors.extend(validate_patterns(load_patterns(), cards))
     series = Counter(card["series"] for card in cards)
     result = {"status": "valid" if not errors else "invalid", "card_count": len(cards), "series_counts": dict(sorted(series.items())), "errors": errors}
     if args.json:
@@ -254,6 +321,41 @@ def cmd_validate(args) -> int:
             print(f"error: {error}", file=sys.stderr)
         return 1
     return 0
+
+
+def validate_patterns(patterns: list[dict], cards: list[dict]) -> list[str]:
+    errors: list[str] = []
+    pattern_ids: set[str] = set()
+    source_ids = {card["source_id"] for card in cards}
+    required = {
+        "pattern_id",
+        "title",
+        "summary",
+        "strategy_use",
+        "source_ids",
+        "tags",
+        "limits",
+        "public_status",
+    }
+    allowed_status = {"seed", "in_review", "stable"}
+    for pattern in patterns:
+        pattern_id = pattern.get("pattern_id")
+        if not pattern_id:
+            errors.append("pattern missing pattern_id")
+            continue
+        if pattern_id in pattern_ids:
+            errors.append(f"duplicate pattern_id: {pattern_id}")
+        pattern_ids.add(pattern_id)
+        for field in sorted(required):
+            if field not in pattern or pattern.get(field) in ("", [], None):
+                errors.append(f"{pattern_id} missing field: {field}")
+        status = pattern.get("public_status")
+        if status not in allowed_status:
+            errors.append(f"{pattern_id} invalid public_status: {status}")
+        for source_id in pattern.get("source_ids", []):
+            if source_id not in source_ids:
+                errors.append(f"{pattern_id} unknown source_id: {source_id}")
+    return errors
 
 
 def cmd_surface(args) -> int:
@@ -299,6 +401,20 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("source_id")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_route)
+
+    p = sub.add_parser("patterns", help="List strategy-codex-facing public pattern IDs.")
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_patterns)
+
+    p = sub.add_parser("pattern", help="Show one public pattern card.")
+    p.add_argument("pattern_id")
+    p.add_argument("--format", choices=["markdown", "json"], default="markdown")
+    p.set_defaults(func=cmd_pattern)
+
+    p = sub.add_parser("bridge", help="Show public patterns attached to one source ID.")
+    p.add_argument("source_id")
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_bridge)
 
     p = sub.add_parser("prompt", help="Render a provider-neutral prompt template for one card.")
     p.add_argument("source_id")

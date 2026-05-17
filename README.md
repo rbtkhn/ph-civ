@@ -23,6 +23,7 @@ It should not become the large-media vault. Museum artifacts must be stored in a
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, and Secret History.
 - The Homer-to-Tolstoy literary spine.
 - Provider-neutral prompt templates.
+- Eight public civilizational pattern IDs for strategy-codex-facing reference.
 - Public museum exhibit and artifact schemas.
 - Curator instructions for chapter-level exhibit assembly.
 
@@ -56,6 +57,9 @@ ph-civ spine
 ph-civ path homer-to-tolstoy
 ph-civ validate
 ph-civ route civ-07 --json
+ph-civ patterns
+ph-civ pattern civ-chokepoint-pressure --format json
+ph-civ bridge gt-16 --json
 ph-apo list
 ph-apo status
 ph-apo route gt-16 --json
@@ -64,7 +68,7 @@ ph-mus status
 ph-mus route civ-07 --json
 ```
 
-All prompt and spark commands are template-only. They do not call an AI provider. The older `civ-ph` command is kept as a compatibility alias for `ph-civ`.
+All prompt and spark commands are template-only. They do not call an AI provider. Pattern commands expose public civilizational frames for citation by downstream work such as strategy-codex; they do not import live strategy workspace material. The older `civ-ph` command is kept as a compatibility alias for `ph-civ`.
 
 ## Literary Spine
 

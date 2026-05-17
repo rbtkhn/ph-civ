@@ -33,6 +33,35 @@ def card_markdown(source_id: str) -> str:
     return path.read_text(encoding="utf-8")
 
 
+@lru_cache(maxsize=1)
+def load_patterns() -> list[dict]:
+    path = DATA_ROOT / "patterns.json"
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return data["patterns"]
+
+
+def get_pattern(pattern_id: str) -> dict:
+    for pattern in load_patterns():
+        if pattern["pattern_id"] == pattern_id:
+            return pattern
+    raise KeyError(pattern_id)
+
+
+def pattern_markdown(pattern_id: str) -> str:
+    path = DATA_ROOT / "patterns" / f"{pattern_id}.md"
+    if not path.exists():
+        raise KeyError(pattern_id)
+    return path.read_text(encoding="utf-8")
+
+
+def patterns_for_source(source_id: str) -> list[dict]:
+    return [
+        pattern
+        for pattern in load_patterns()
+        if source_id in pattern.get("source_ids", [])
+    ]
+
+
 def load_spine(spine_id: str = "homer-to-tolstoy") -> dict:
     path = DATA_ROOT / "spines" / f"{spine_id}.json"
     if not path.exists():
