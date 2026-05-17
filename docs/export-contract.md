@@ -1,6 +1,6 @@
 # Public Export Contract
 
-Source authority: `rbtkhn/predictive-history` snapshot `56a4a08`.
+Source authority: `rbtkhn/ph-workshop` snapshot `56a4a08`.
 
 Public namespaces:
 

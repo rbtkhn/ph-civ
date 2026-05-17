@@ -30,6 +30,11 @@ def test_validate_passes(capsys):
     assert "card_count: 140" in capsys.readouterr().out
 
 
+def test_exported_source_repo_uses_workshop():
+    cards = load_cards()
+    assert {card["source_snapshot"]["repo"] for card in cards} == {"rbtkhn/ph-workshop"}
+
+
 def test_literary_spine_ends_with_tolstoy():
     spine = load_spine()
     assert spine["sequence"][-1]["author"] == "Tolstoy"

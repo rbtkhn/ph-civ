@@ -6,7 +6,9 @@ import random
 import sys
 from collections import Counter
 
-from .data import card_markdown, get_card, get_route, load_cards, load_choreography, load_museum_index, load_spine, load_surfaces
+from .data import DATA_ROOT, card_markdown, get_card, get_route, load_cards, load_choreography, load_museum_index, load_spine, load_surfaces
+
+EXPECTED_SOURCE_REPO = "rbtkhn/ph-workshop"
 
 PROMPT_MODES = {
     "study": "Create a study plan that helps me understand this ph-civ orientation card without treating it as a substitute for the source lecture.",
@@ -226,6 +228,18 @@ def cmd_validate(args) -> int:
                 errors.append(f"{source_id} missing section: {section}")
         if card.get("placement_weight") not in {"strong", "medium", "light"}:
             errors.append(f"{source_id} invalid placement_weight: {card.get('placement_weight')}")
+        source_repo = card.get("source_snapshot", {}).get("repo")
+        if source_repo != EXPECTED_SOURCE_REPO:
+            errors.append(f"{source_id} invalid source repo: {source_repo}")
+    for metadata_path in [
+        DATA_ROOT / "index.json",
+        DATA_ROOT / "surfaces.json",
+        DATA_ROOT / "routes" / "choreography.json",
+    ]:
+        metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
+        source_repo = metadata.get("source_snapshot", {}).get("repo")
+        if source_repo != EXPECTED_SOURCE_REPO:
+            errors.append(f"{metadata_path.relative_to(DATA_ROOT)} invalid source repo: {source_repo}")
     series = Counter(card["series"] for card in cards)
     result = {"status": "valid" if not errors else "invalid", "card_count": len(cards), "series_counts": dict(sorted(series.items())), "errors": errors}
     if args.json:
