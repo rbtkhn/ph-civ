@@ -19,6 +19,14 @@ sources: geo-14, gt-16
 use: public frame for Hormuz / shipping / energy pressure
 ```
 
+Candidate rehearsal example:
+
+```text
+source_id: civ-07
+pattern_id: civ-heroic-memory
+use: public orientation frame for inherited heroic memory, not proof of a live strategic claim
+```
+
 ## Boundary
 
 Do not use `ph-civ` as a strategy inbox, raw-input store, or private editorial workspace. If a strategy-codex page needs a civilizational frame, cite the pattern and continue the live analysis in strategy-codex.

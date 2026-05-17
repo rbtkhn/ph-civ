@@ -60,6 +60,7 @@ ph-civ route civ-07 --json
 ph-civ patterns
 ph-civ pattern civ-chokepoint-pressure --format json
 ph-civ bridge gt-16 --json
+ph-civ bridge civ-07 --format markdown
 ph-apo list
 ph-apo status
 ph-apo route gt-16 --json

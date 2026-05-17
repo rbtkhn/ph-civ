@@ -29,6 +29,26 @@ def test_bridge_source_returns_linked_patterns(capsys):
     ]
 
 
+def test_bridge_markdown_includes_linked_pattern(capsys):
+    assert main(["bridge", "civ-07", "--format", "markdown"]) == 0
+    out = capsys.readouterr().out
+    assert "# civ-07 - Civilization #7" in out
+    assert "`civ-heroic-memory`" in out
+
+
+def test_bridge_format_json_matches_json_alias(capsys):
+    assert main(["bridge", "civ-07", "--format", "json"]) == 0
+    format_payload = json.loads(capsys.readouterr().out)
+
+    assert main(["bridge", "civ-07", "--json"]) == 0
+    alias_payload = json.loads(capsys.readouterr().out)
+
+    assert format_payload == alias_payload
+    assert [p["pattern_id"] for p in format_payload["patterns"]] == [
+        "civ-heroic-memory"
+    ]
+
+
 def test_validate_patterns_rejects_duplicate_and_unknown_source():
     cards = load_cards()
     base = dict(load_patterns()[0])

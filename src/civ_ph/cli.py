@@ -188,11 +188,16 @@ def cmd_bridge(args) -> int:
         "title": card["title"],
         "patterns": patterns_for_source(card["source_id"]),
     }
-    if args.json:
+    output_format = "json" if args.json else args.format
+    if output_format == "json":
         return emit_json(payload)
-    print(f"{payload['source_id']}\t{payload['title']}")
+    print(f"# {payload['source_id']} - {payload['title']}")
+    print()
+    print("Public bridge patterns:")
     for pattern in payload["patterns"]:
-        print(f"{pattern['pattern_id']}\t{pattern['title']}")
+        print(f"- `{pattern['pattern_id']}` - {pattern['title']}")
+    if not payload["patterns"]:
+        print("- No public bridge patterns currently cite this source.")
     return 0
 
 
@@ -413,6 +418,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     p = sub.add_parser("bridge", help="Show public patterns attached to one source ID.")
     p.add_argument("source_id")
+    p.add_argument("--format", choices=["markdown", "json"], default="markdown")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_bridge)
 
