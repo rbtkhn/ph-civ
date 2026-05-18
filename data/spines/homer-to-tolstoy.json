@@ -4,7 +4,7 @@
   "status": "in_review",
   "structural_role": "volume_i_literary_spine",
   "routing_role": "cross_volume_exposure",
-  "description": "Volume I literary spine for the two-volume public PH-CIV artifact, exposed through cross-volume routing.",
+  "description": "Volume I literary spine for the two-volume public ph-civ artifact, exposed through cross-volume routing.",
   "guardrail": "This is a guided literary orientation path, not a claim that literature alone drives history.",
   "sequence": [
     {

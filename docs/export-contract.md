@@ -4,7 +4,7 @@ Legacy import provenance: `rbtkhn/ph-workshop` snapshot `56a4a08`.
 
 Public artifact:
 
-- `ph-civ` repo: the two-volume public PH-CIV artifact.
+- `ph-civ` repo: the two-volume public ph-civ artifact.
 
 Public namespaces:
 
@@ -16,7 +16,7 @@ Exported:
 
 - `ph-civ` public card frontmatter and rendered public sections.
 - Public lecture transcript bodies.
-- Public companion commentary bodies.
+- Public companion commentary bodies, seeded as open Project Canvas surfaces.
 - Source IDs, titles, part labels, series labels, placement weights, and review status.
 - Public cross-volume corridor text where already present, including the Homer-to-Tolstoy Volume I literary spine with cross-volume routing exposure.
 - Lightweight source path metadata back to Predictive History.

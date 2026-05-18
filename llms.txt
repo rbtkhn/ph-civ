@@ -4,7 +4,7 @@
 
 ## Workspace Identity
 
-This workspace is `rbtkhn/ph-civ`, the public distribution layer for the two-volume PH-CIV artifact.
+This workspace is `rbtkhn/ph-civ`, the public distribution layer for the two-volume ph-civ artifact.
 
 It exists to provide public lecture transcripts, companion commentaries, orientation cards, civilizational pattern IDs, routes, prompts, museum schemas, and validation tooling. It helps students, researchers, and downstream AI systems navigate Predictive History without importing private notes or raw media archives.
 
@@ -18,7 +18,7 @@ It exists to provide public lecture transcripts, companion commentaries, orienta
 
 ## Boundary
 
-`rbtkhn/ph-workshop` is legacy import provenance for the current source snapshot. This repository is the public consumption layer and contains the chapter transcripts and commentaries. Physical source series remain provenance metadata; the official public reader architecture is the two-volume PH-CIV rollup.
+`rbtkhn/ph-workshop` is legacy import provenance for the current source snapshot. This repository is the public consumption layer and contains the chapter transcripts and commentaries. Physical source series remain provenance metadata; the official public reader architecture is the two-volume ph-civ rollup.
 
 Included:
 

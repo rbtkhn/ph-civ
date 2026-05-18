@@ -12,7 +12,7 @@ def test_agent_identity_contract_exists():
     text = read_text("AGENTS.md")
 
     assert "rbtkhn/ph-civ" in text
-    assert "two-volume PH-CIV artifact" in text
+    assert "two-volume ph-civ artifact" in text
     assert "lecture transcript" in text
     assert "companion commentary" in text
     assert "rbtkhn/ph-workshop" in text
@@ -33,3 +33,30 @@ def test_readme_points_new_chats_to_identity_contract():
 
     assert "AGENTS.md" in text
     assert "llms.txt" in text
+
+
+def test_ph_civ_name_stays_lowercase():
+    checked_suffixes = {".json", ".jsonl", ".md", ".py", ".txt", ".yaml"}
+    forbidden = tuple(
+        left + "-" + right
+        for left, right in (
+            ("PH", "CIV"),
+            ("Ph", "Civ"),
+            ("Ph", "civ"),
+            ("ph", "CIV"),
+        )
+    )
+    offenders = []
+
+    for path in ROOT.rglob("*"):
+        if not path.is_file() or path.suffix not in checked_suffixes:
+            continue
+        if any(part in {".git", ".pytest_cache", "__pycache__"} for part in path.parts):
+            continue
+        if path.name.endswith("-transcript.md"):
+            continue
+        text = path.read_text(encoding="utf-8")
+        if any(token in text for token in forbidden):
+            offenders.append(str(path.relative_to(ROOT)))
+
+    assert offenders == []

@@ -1,12 +1,12 @@
 # AGENTS.md - ph-civ Guardrails
 
-This repository is `rbtkhn/ph-civ`: the public-facing two-volume PH-CIV artifact and study-orientation layer.
+This repository is `rbtkhn/ph-civ`: the public-facing two-volume ph-civ artifact and study-orientation layer.
 
 ## Specific Project Identity
 
 When asked what project this workspace is for, answer specifically:
 
-`ph-civ` is the public Predictive History distribution repository for the two-volume PH-CIV artifact. It contains three public surfaces:
+`ph-civ` is the public Predictive History distribution repository for the two-volume ph-civ artifact. It contains three public surfaces:
 
 - `ph-civ`: Volume I / Predictive History: Civilization orientation cards, patterns, prompts, routes, and study navigation; discovers the laws of history.
 - `ph-apo`: Volume II / Predictive History: Apocalypse / World War orientation surfaces; applies the laws of history.
@@ -18,7 +18,7 @@ The active task in this repo is maintaining public, provider-neutral educational
 
 ## Source Boundary
 
-`rbtkhn/ph-workshop` is legacy import provenance for the current source snapshot. Physical source series are provenance metadata; the official public reader architecture is the two-volume PH-CIV rollup.
+`rbtkhn/ph-workshop` is legacy import provenance for the current source snapshot. Physical source series are provenance metadata; the official public reader architecture is the two-volume ph-civ rollup.
 
 Do not import, invent, or paste:
 

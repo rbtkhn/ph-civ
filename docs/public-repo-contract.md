@@ -1,6 +1,6 @@
 # Public Repository Contract
 
-This repository is the public-facing distribution layer for the two-volume PH-CIV artifact: `ph-civ`, `ph-apo`, and `ph-mus`.
+This repository is the public-facing distribution layer for the two-volume ph-civ artifact: `ph-civ`, `ph-apo`, and `ph-mus`.
 
 ## Public Surfaces
 
@@ -14,13 +14,15 @@ This repository is the public-facing distribution layer for the two-volume PH-CI
 
 This repo publishes public-facing material, including chapter transcripts, chapter commentaries, public cards, routes, prompts, schemas, and manifests. It is not a private notes workspace and not the large artifact archive.
 
-The current chapter corpus was imported from the maintained Predictive History workspace and keeps that snapshot as provenance. Physical source series and folder labels are provenance metadata; the public reader architecture is the two-volume PH-CIV rollup.
+The current chapter corpus was imported from the maintained Predictive History workspace and keeps that snapshot as provenance. Physical source series and folder labels are provenance metadata; the public reader architecture is the two-volume ph-civ rollup.
 
 Each public chapter consists of:
 
 - lecture transcript
-- companion commentary
+- companion commentary as an open project canvas
 - public orientation/navigation metadata
+
+Commentaries are not presumed complete at seed time. Each commentary must carry the shared Project Canvas scaffold so the chapter can be enhanced one by one without losing its role in the larger ph-civ project.
 
 ## Museum Storage Boundary
 

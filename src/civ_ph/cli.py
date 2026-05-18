@@ -41,6 +41,24 @@ VOLUME_ALIASES = {
     "volume_ii": "volume_ii",
 }
 
+COMMENTARY_CANVAS_FIELDS = {
+    "canvas_status": "open",
+    "analysis_depth": "seed",
+    "scaffold_version": "ph_civ_commentary_canvas_v1",
+}
+
+COMMENTARY_CANVAS_HEADINGS = [
+    "## Project Canvas",
+    "### Project Leverage",
+    "### Laws / Patterns Exposed",
+    "### Volume Role",
+    "### Museum Hooks",
+    "### Strategy / Present-Day Application",
+    "### Counter-Readings",
+    "### Open Questions",
+    "### Build Notes / Future Enhancements",
+]
+
 
 def card_surface(card: dict) -> str:
     return "ph-civ" if card["part"] == "civilization" else "ph-apo"
@@ -70,6 +88,36 @@ def cards_for_volume(volume_id: str) -> list[dict]:
     if not canonical:
         raise KeyError(volume_id)
     return [card for card in load_cards() if canonical in conceptual_volume_ids(card)]
+
+
+def markdown_frontmatter(text: str) -> dict[str, str]:
+    if not text.startswith("---\n"):
+        return {}
+    end = text.find("\n---\n", 4)
+    if end == -1:
+        return {}
+    fields: dict[str, str] = {}
+    for line in text[4:end].splitlines():
+        if ":" not in line or line.startswith(" "):
+            continue
+        key, value = line.split(":", 1)
+        fields[key.strip()] = value.strip().strip('"')
+    return fields
+
+
+def validate_commentary_canvas(source_id: str, commentary_path) -> list[str]:
+    text = commentary_path.read_text(encoding="utf-8").replace("\r\n", "\n")
+    frontmatter = markdown_frontmatter(text)
+    errors: list[str] = []
+    if "commentary_status" not in frontmatter:
+        errors.append(f"{source_id} missing commentary_status")
+    for key, expected in COMMENTARY_CANVAS_FIELDS.items():
+        if frontmatter.get(key) != expected:
+            errors.append(f"{source_id} invalid {key}: {frontmatter.get(key)}")
+    for heading in COMMENTARY_CANVAS_HEADINGS:
+        if heading not in text:
+            errors.append(f"{source_id} missing commentary canvas heading: {heading}")
+    return errors
 
 
 def visible_cards(surface_scope: str | None = None, include_all: bool = False) -> list[dict]:
@@ -351,6 +399,8 @@ def cmd_validate(args) -> int:
             chapter_path = DATA_ROOT.parent / relative_path
             if not chapter_path.exists():
                 errors.append(f"{source_id} missing {label} file: {relative_path}")
+            elif label == "commentary":
+                errors.extend(validate_commentary_canvas(source_id, chapter_path))
     for metadata_path in [
         DATA_ROOT / "index.json",
         DATA_ROOT / "surfaces.json",
@@ -609,7 +659,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_status)
 
-    p = sub.add_parser("volumes", help="Show the two-volume PH-CIV architecture.")
+    p = sub.add_parser("volumes", help="Show the two-volume ph-civ architecture.")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_volumes)
 

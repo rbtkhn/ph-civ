@@ -1,10 +1,10 @@
 # Book
 
-This folder holds the public chapter corpus for the two-volume PH-CIV artifact.
+This folder holds the public chapter corpus for the two-volume ph-civ artifact.
 
 The book surface should not outrun the source surface. Public book material should be added only when the underlying corpus items, annotations, and source statuses are clear enough for readers to verify.
 
-The default reading unit is one chapter at a time: open the lecture transcript for fidelity, the companion commentary for study, and the PH-CIV placement card for civilizational orientation.
+The default reading unit is one chapter at a time: open the lecture transcript for fidelity, the companion commentary for study, and the ph-civ placement card for civilizational orientation.
 
 Source transcripts are governed by transcript fidelity: preserve the source wording rather than applying interpretive guardrails inside the transcript body. Commentaries are where guardrails belong, including uncertainty labels, counter-readings, limits, representation-not-endorsement, and warnings around high-risk claims.
 
@@ -25,5 +25,5 @@ Future priorities:
 - reading paths by interest
 - volume orientation notes
 - chapter-level transcript/commentary QA
-- PH-CIV placement cards across the routed Civilization and Apocalypse spines
+- ph-civ placement cards across the routed Civilization and Apocalypse spines
 - a compact review packet suitable for showing to Professor Jiang after standards plus a small pilot

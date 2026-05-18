@@ -29,6 +29,28 @@ def test_all_cards_have_local_transcript_and_commentary():
     assert len(set(commentary_paths)) == 140
 
 
+def test_all_commentaries_have_open_project_canvas():
+    required = [
+        "canvas_status: open",
+        "analysis_depth: seed",
+        "scaffold_version: ph_civ_commentary_canvas_v1",
+        "## Project Canvas",
+        "### Project Leverage",
+        "### Laws / Patterns Exposed",
+        "### Volume Role",
+        "### Museum Hooks",
+        "### Strategy / Present-Day Application",
+        "### Counter-Readings",
+        "### Open Questions",
+        "### Build Notes / Future Enhancements",
+    ]
+    for card in load_cards():
+        commentary_path = ROOT / card["source_paths"]["commentary_path"]
+        text = commentary_path.read_text(encoding="utf-8")
+        for marker in required:
+            assert marker in text, f"{card['source_id']} missing {marker}"
+
+
 def test_show_known_card_json(capsys):
     assert main(["show", "civ-41", "--format", "json"]) == 0
     assert "\"source_id\": \"civ-41\"" in capsys.readouterr().out

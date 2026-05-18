@@ -13,6 +13,9 @@ template_family: world-war-strategic-commentary
 part: world-war
 part_role: world-war
 representation_not_endorsement: true
+canvas_status: open
+analysis_depth: seed
+scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
 # Secret History #5: The Birth of Evil
@@ -53,3 +56,57 @@ This entry is in review and preserves the lecture's interpretive frame without t
 - Identify which claims are descriptive, interpretive, predictive, or rhetorical.
 - Add external bibliography before treating this commentary as final.
 - Preserve exact transcript wording when quoting; do not smooth ASR or lecture phrasing into stronger claims.
+
+---
+
+## Project Canvas
+
+This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
+
+### Project Leverage
+
+- What this chapter can unlock for the broader ph-civ project:
+- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
+- What should become easier after this chapter is developed:
+
+### Laws / Patterns Exposed
+
+- Candidate law or pattern:
+- Supporting transcript evidence to extract later:
+- Related public pattern IDs or future pattern candidates:
+
+### Volume Role
+
+- Conceptual volume role:
+- Relationship to Volume I law discovery or Volume II law application:
+- Bridge/support role, if any:
+
+### Museum Hooks
+
+- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
+- Suggested exhibit rooms or visitor path:
+- Rights/provenance cautions:
+
+### Strategy / Present-Day Application
+
+- Possible present-day analogy or strategic use:
+- Evidence needed before using the analogy operationally:
+- Risks of overextension:
+
+### Counter-Readings
+
+- Strongest alternative explanation:
+- External sources or schools of thought to consult:
+- What would weaken the chapter's current framing:
+
+### Open Questions
+
+- Questions for close rereading:
+- Questions for external verification:
+- Questions for cross-volume comparison:
+
+### Build Notes / Future Enhancements
+
+- Next concrete enhancement pass:
+- Needed links, manifests, patterns, or museum entries:
+- Completion blockers:

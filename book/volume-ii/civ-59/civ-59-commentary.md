@@ -25,6 +25,9 @@ source_reviewed_at: 2026-05-13
 exported_from_strategy_codex_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
+canvas_status: open
+analysis_depth: seed
+scaffold_version: ph_civ_commentary_canvas_v1
 ---
 # Commentary - Civilization
 The source transcript is civ-59-transcript.md. This commentary uses the multi-layer scaffold below. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim source transcript body.
@@ -104,3 +107,57 @@ The Tolstoy Lens does not overrule Jiang's interpretation. It asks a second-orde
 - Recheck high-risk claims against external sources before final synthesis.
 - Preserve representation_not_endorsement; this commentary documents and tests the lecture's claims.
 - Keep this unit at in-review until external-source validation and final line-reference review are complete.
+
+---
+
+## Project Canvas
+
+This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
+
+### Project Leverage
+
+- What this chapter can unlock for the broader ph-civ project:
+- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
+- What should become easier after this chapter is developed:
+
+### Laws / Patterns Exposed
+
+- Candidate law or pattern:
+- Supporting transcript evidence to extract later:
+- Related public pattern IDs or future pattern candidates:
+
+### Volume Role
+
+- Conceptual volume role:
+- Relationship to Volume I law discovery or Volume II law application:
+- Bridge/support role, if any:
+
+### Museum Hooks
+
+- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
+- Suggested exhibit rooms or visitor path:
+- Rights/provenance cautions:
+
+### Strategy / Present-Day Application
+
+- Possible present-day analogy or strategic use:
+- Evidence needed before using the analogy operationally:
+- Risks of overextension:
+
+### Counter-Readings
+
+- Strongest alternative explanation:
+- External sources or schools of thought to consult:
+- What would weaken the chapter's current framing:
+
+### Open Questions
+
+- Questions for close rereading:
+- Questions for external verification:
+- Questions for cross-volume comparison:
+
+### Build Notes / Future Enhancements
+
+- Next concrete enhancement pass:
+- Needed links, manifests, patterns, or museum entries:
+- Completion blockers:

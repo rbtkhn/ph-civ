@@ -2,7 +2,7 @@
 
 For AI agents and new chats: start with `AGENTS.md` and `llms.txt`. This repo is the public Predictive History distribution layer, not the private editorial workshop.
 
-This repository is the public-facing home for the two-volume PH-CIV artifact. It contains three related Predictive History surfaces:
+This repository is the public-facing home for the two-volume ph-civ artifact. It contains three related Predictive History surfaces:
 
 - `ph-civ`: **Volume I / Predictive History: Civilization** - discovers the laws of history.
 - `ph-apo`: **Volume II / Predictive History: Apocalypse** - applies the laws of history.
@@ -24,7 +24,7 @@ It should not become the large-media vault. Museum artifacts must be stored in a
 
 - 140 public cards from Predictive History snapshot `56a4a08`.
 - 140 lecture transcripts under `book/`.
-- 140 chapter commentaries under `book/`.
+- 140 chapter commentaries under `book/`, each seeded as an open commentary canvas.
 - Two conceptual volumes: Volume I / Civilization / `ph-civ`, and Volume II / Apocalypse / `ph-apo`.
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, and Secret History.
 - The Homer-to-Tolstoy literary spine as the Volume I literary spine with cross-volume routing exposure.
@@ -77,6 +77,12 @@ ph-mus route civ-07 --json
 ```
 
 All prompt and spark commands are template-only. They do not call an AI provider. Pattern commands expose public civilizational frames for citation by downstream work such as strategy-codex; they do not import live strategy workspace material. The older `civ-ph` command is kept as a compatibility alias for `ph-civ`.
+
+## Commentary Canvas
+
+The chapter commentaries are the project canvas. They are seeded for all chapters, but they are not treated as complete analysis. Each commentary has a shared `Project Canvas` scaffold for later chapter-by-chapter development: project leverage, laws and patterns, volume role, museum hooks, strategy application, counter-readings, open questions, and build notes.
+
+See `docs/commentary-canvas.md`.
 
 ## Literary Spine
 
