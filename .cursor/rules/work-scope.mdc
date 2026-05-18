@@ -1,0 +1,22 @@
+---
+description: >-
+  Primary work in Cursor is ph-civ; strategy-codex stays readable for context,
+  skills, and mirror checks—edits there only when explicitly requested.
+alwaysApply: true
+---
+
+# Work surface: Cursor + ph-civ
+
+**Chosen mode (“sweet spot”):** Cursor defaults to **ph-civ-first** shipping, with **read** access to strategy-codex for context and scripts. Optionally add **`strategy-codex` as a second folder** (multi-root workspace) **only during cross-repo sprints**, then slim back to ph-civ-only when done. Codex stays available for strategy-codex–heavy lanes without mirroring everything in Cursor.
+
+- **Cursor (this workspace):** treat **`c:\dev\ph-civ`** as the default place to **edit, commit, and ship** unless the operator names another root.
+- **Codex:** use for whatever lanes suit you; when the session runs in **this** Cursor project, still **prioritize ph-civ edits** unless the operator widens scope (e.g. multi-root or explicit “edit strategy-codex”).
+
+## strategy-codex read access
+
+- Assume **`C:\dev\strategy-codex`** (and paths reached via linked skills under `.cursor/skills/`) is **readable** for orientation, audits, ingest docs, submodule mirror checks, and cross-repo truth.
+- **Do not modify** strategy-codex (writes, deletes, commits, merges) **from this Cursor workspace** unless the operator **explicitly** asks to change that repo.
+
+## Linked skills
+
+- Junctioned skills under **`.cursor/skills/`** point at strategy-codex; reading them is intentional. Commands and file paths inside those SKILLs usually assume execution from **strategy-codex** — say so when proposing shell steps.

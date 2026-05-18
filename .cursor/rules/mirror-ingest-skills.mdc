@@ -1,0 +1,14 @@
+---
+description: Junctioned SKILL index; strategy-codex is default cwd for paths in those skills unless multi-root.
+alwaysApply: true
+---
+
+# Mirrored strategy-codex skills (ph-civ)
+
+Under **`.cursor/skills/`**, these folders are **local directory junctions** to **`C:\dev\strategy-codex\.cursor\skills\<name>`** — machine-specific mirrors of the canonical skill dirs; `.gitignore` excludes them in this repo.
+
+**Junction names:** academy-mirror-sync, check-streams, coffee, handoff-check, portable-skills-sync, repo-feedback-prompt, repo-hygiene-pass, transcript-cleanup, transcript-proper-noun-normalization, youtube-raw-input-transcript.
+
+**Default cwd:** Paths and snippets inside those SKILLs (e.g. **`scripts/`**, **`codex/`**, inventories, audits) assume execution from **`C:\dev\strategy-codex`** when this workspace is **ph-civ-only**. If Cursor is **multi-root** and strategy-codex is a workspace folder, use that root’s paths instead. State which root you assumed when proposing commands.
+
+Writes to strategy-codex remain **off** from ph-civ unless the operator explicitly widens scope (see **work-scope**).

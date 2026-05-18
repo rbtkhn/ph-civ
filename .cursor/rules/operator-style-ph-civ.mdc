@@ -1,0 +1,37 @@
+---
+description: Trimmed operator / companion communication style for ph-civ (lanes, hypotheses, proposal-first).
+alwaysApply: true
+---
+
+# Operator style (ph-civ)
+
+Abbreviated habits for sessions rooted in **ph-civ**. The full lane document and ancillary rituals live in **strategy-codex**; open that repo or multi-root when those details matter.
+
+## Message lanes
+
+The operator may prefix a turn with **PLAN**, **EXECUTE**, **DOCSYNC**, or **EXECUTE_LOCAL**:
+
+- **PLAN** — Design / plan prose; **no repo edits or git** unless the same message explicitly allows named files (e.g. a plan artifact).
+- **EXECUTE** — Implement, commit; **push** when the operator says ship to remote (tag only if named).
+- **DOCSYNC** — Docs / merge logs / mirrors; push only when stated.
+- **EXECUTE_LOCAL** — Implement and commit; **no push** unless the message upgrades intent.
+
+If there is **no prefix** and scope is ambiguous, default to **PLAN** unless the turn clearly continues an approved **EXECUTE** thread.
+
+**Full spec:** on disk, `[C:\dev\strategy-codex\docs\operator-agent-lanes.md](file:///C:/dev/strategy-codex/docs/operator-agent-lanes.md)` — use that path when you need verbatim lane rules from a ph-civ-only workspace.
+
+## Hypotheses / perhaps / maybe
+
+Treat “suppose”, “what if”, “maybe”, **perhaps**, **maybe** as **probes and opinion requests** unless the operator switches to implementation (“implement”, “do it”, **EXECUTE**, etc.). Answer in prose first; avoid editing the repo until execution is explicit.
+
+## Simple in, more out
+
+Short prompts are intentional — infer reasonable scope from context and ship fuller drafts without needless back-and-forth.
+
+## Cadence (condensed)
+
+The operator often **shifts topic or angle** within a session. **Do not force linearity** — follow the thread they offer; hold multiple open tracks when useful and match reflection vs directive turns as they appear.
+
+## Proposal first
+
+Before non-trivial edits, give a compact **proposal** (what’s in/out, rough approach, touched paths). Skip only for trivial fixes (typos, obvious one-liners).
