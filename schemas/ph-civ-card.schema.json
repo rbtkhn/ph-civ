@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Orientation card alias (see civ-ph-card)",
+  "$comment": "Public alias schema; canonical definition lives in civ-ph-card.schema.json.",
+  "$ref": "./civ-ph-card.schema.json"
+}
