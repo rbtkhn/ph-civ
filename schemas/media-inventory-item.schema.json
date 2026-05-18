@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Legacy civ-ph Media Inventory Item",
+  "title": "Legacy media inventory row (museum superseded)",
   "description": "Legacy candidate-row schema retained for import/export compatibility. Predictive History Museum source-of-truth work should use museum-exhibit and museum-artifact schemas.",
   "type": "object",
   "required": [

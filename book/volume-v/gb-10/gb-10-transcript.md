@@ -29,7 +29,7 @@ commentary_path: ./gb-10-commentary.md
 
 Part I contains the lecture transcript imported from YouTube auto captions. Part II is kept in the companion commentary file.
 
-This transcript is machine-derived and needs fidelity review before being treated as a curated transcript. Interpretive guardrails belong in the commentary and civ-ph surfaces, not by rewriting this transcript body.
+This transcript is machine-derived and needs fidelity review before being treated as a curated transcript. Interpretive guardrails belong in the commentary and ph-civ surfaces, not by rewriting this transcript body.
 
 ## Part I: Full transcript
 

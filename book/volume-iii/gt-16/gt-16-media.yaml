@@ -22,7 +22,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Geography constrains strategy but does not determine outcomes alone."
     related_paths:
-      civ_ph_path: corpus/civ-ph/gt-16.md
+      orientation_card_path: data/cards/gt-16.md
       transcript_path: book/volume-iii/gt-16/gt-16-transcript.md
       commentary_path: book/volume-iii/gt-16/gt-16-commentary.md
   - id: 02
@@ -37,7 +37,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Illustrative shipping images are not evidence of any specific incident."
     related_paths:
-      civ_ph_path: corpus/civ-ph/gt-16.md
+      orientation_card_path: data/cards/gt-16.md
       transcript_path: book/volume-iii/gt-16/gt-16-transcript.md
       commentary_path: book/volume-iii/gt-16/gt-16-commentary.md
   - id: 03
@@ -52,7 +52,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "A platform's presence does not settle strategic intent."
     related_paths:
-      civ_ph_path: corpus/civ-ph/gt-16.md
+      orientation_card_path: data/cards/gt-16.md
       transcript_path: book/volume-iii/gt-16/gt-16-transcript.md
       commentary_path: book/volume-iii/gt-16/gt-16-commentary.md
   - id: 04
@@ -67,7 +67,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Boundary and regional maps carry political sensitivities and need careful reading."
     related_paths:
-      civ_ph_path: corpus/civ-ph/gt-16.md
+      orientation_card_path: data/cards/gt-16.md
       transcript_path: book/volume-iii/gt-16/gt-16-transcript.md
       commentary_path: book/volume-iii/gt-16/gt-16-commentary.md
   - id: 05
@@ -82,6 +82,6 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Agency explainers are date-sensitive and should be checked at time of use."
     related_paths:
-      civ_ph_path: corpus/civ-ph/gt-16.md
+      orientation_card_path: data/cards/gt-16.md
       transcript_path: book/volume-iii/gt-16/gt-16-transcript.md
       commentary_path: book/volume-iii/gt-16/gt-16-commentary.md

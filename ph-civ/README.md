@@ -6,4 +6,4 @@ This surface discovers the laws of history through the Civilization-facing chapt
 
 The repository is also named `ph-civ`; the repo as a whole is the two-volume ph-civ artifact containing `ph-civ`, `ph-apo`, and `ph-mus`.
 
-The Python package still imports as `civ_ph` internally for compatibility, but the public command is `ph-civ`.
+The public CLI command is `ph-civ`. The Python import path remains `civ_ph` because module names cannot use hyphens.

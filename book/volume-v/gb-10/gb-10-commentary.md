@@ -83,7 +83,7 @@ The auto-caption transcript may contain recognition errors, missing punctuation,
 
 ## Cross-Series Links
 
-- Extends [gb-09](../../../corpus/civ-ph/gb-09.md) from Dante overview into Inferno's hierarchy of punishment.
+- Extends [gb-09](../../../data/cards/gb-09.md) from Dante overview into Inferno's hierarchy of punishment.
 - Connects back to Homeric material through Odyssey, Iliad, Achilles, Priam, Odysseus, love, trauma, and forgiveness.
 - Strengthens the [Homer to Dante](../../../corpus/cross-volume/homer-to-dante.md) corridor before the broader literary arc turns toward Shakespeare and Dostoevsky.
 

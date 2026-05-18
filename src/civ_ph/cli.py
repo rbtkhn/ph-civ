@@ -856,11 +856,6 @@ def main(argv: list[str] | None = None) -> int:
     args.surface_scope = "ph-civ"
     return args.func(args)
 
-def compat_main(argv: list[str] | None = None) -> int:
-    args = build_parser().parse_args(argv)
-    args.surface_scope = None
-    return args.func(args)
-
 
 def apo_main(argv: list[str] | None = None) -> int:
     args = build_parser().parse_args(argv or ["list"])

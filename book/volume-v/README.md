@@ -23,4 +23,4 @@ The Great Books commentary scaffold is literary and philosophical rather than Ci
 
 The first ten-chapter spine lives in `gb-01/` through `gb-10/`. `gb-01` through `gb-09` are in review after initial public scaffold commentary analysis; `gb-10` is in review after direct public-channel import and needs transcript fidelity review.
 
-For civ-ph placement, use the derived civ-ph corpus in [corpus/civ-ph/](../../corpus/civ-ph/) and check each entry's `review_status`.
+For ph-civ placement, use the derived ph-civ corpus in [data/cards/](../../data/cards/) and check each entry's `review_status`.

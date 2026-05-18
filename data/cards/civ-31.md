@@ -30,4 +30,4 @@ This entry is in review after initial commentary analysis. The placement is stro
 
 ## Return Path
 
-Return here whenever later chapters use oceanic currents, borderlands, empire collapse, or prediction as their frame. For current-events claims, move from the civ-ph entry into the transcript and commentary, and keep model, analogy, and forecast separate.
+Return here whenever later chapters use oceanic currents, borderlands, empire collapse, or prediction as their frame. For current-events claims, move from the ph-civ entry into the transcript and commentary, and keep model, analogy, and forecast separate.

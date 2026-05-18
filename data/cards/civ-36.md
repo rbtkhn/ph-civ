@@ -30,4 +30,4 @@ This entry is in review after initial commentary analysis. The placement is stro
 
 ## Return Path
 
-Return here when later chapters discuss cultural memory, oral tradition, myth loss, creativity, shame, or the cost of civilization. For claims about Norse evidence, move from the civ-ph entry into the commentary and keep archaeology, saga memory, and lecture hypothesis distinct.
+Return here when later chapters discuss cultural memory, oral tradition, myth loss, creativity, shame, or the cost of civilization. For claims about Norse evidence, move from the ph-civ entry into the commentary and keep archaeology, saga memory, and lecture hypothesis distinct.

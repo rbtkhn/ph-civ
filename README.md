@@ -77,7 +77,7 @@ ph-mus status
 ph-mus route civ-07 --json
 ```
 
-All prompt and spark commands are template-only. They do not call an AI provider. Pattern commands expose public civilizational frames for downstream strategy analysis; they do not import live strategy workspace material. The older `civ-ph` command is kept as a compatibility alias for `ph-civ`.
+All prompt and spark commands are template-only. They do not call an AI provider. Pattern commands expose public civilizational frames for downstream strategy analysis; they do not import live strategy workspace material. Use **`ph-civ`** as the public CLI (`python -m civ_ph.cli …` invokes the same code when running from source).
 
 ## Commentary Canvas
 

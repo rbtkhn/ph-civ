@@ -118,12 +118,6 @@ def test_two_volume_architecture_is_primary():
     assert architecture["bridge_support_nodes"] == ["sh-11", "sh-16", "sh-17", "sh-18"]
 
 
-def test_compat_alias_still_works(capsys):
-    from civ_ph.cli import compat_main
-    assert compat_main(["validate"]) == 0
-    assert capsys.readouterr().err == ""
-
-
 def test_public_surfaces_are_named(capsys):
     assert main(["surface", "ph-civ"]) == 0
     assert "Predictive History: Civilization" in capsys.readouterr().out
