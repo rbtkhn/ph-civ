@@ -15,6 +15,7 @@ from .data import (
     load_cards,
     load_choreography,
     load_course_architecture,
+    load_growth_goals,
     load_museum_index,
     load_patterns,
     load_spine,
@@ -489,6 +490,31 @@ def cmd_validate(args) -> int:
         errors.append("museum layer must use chapter_exhibit_layer role")
     if architecture.get("bridge_support_nodes") != ["sh-11", "sh-16", "sh-17", "sh-18"]:
         errors.append("bridge_support_nodes invariant changed")
+    growth_goals = load_growth_goals()
+    policy = growth_goals.get("agent_goal_policy", {})
+    if growth_goals.get("goal_system") != "ph_civ_public_growth":
+        errors.append("growth-goals.json invalid goal_system")
+    if policy.get("must_translate_outcome_to_machinery") is not True:
+        errors.append("growth goals must translate outcome goals into machinery")
+    required_outputs = {
+        "README and public contract explain the two-volume ph-civ artifact within one screen",
+        "analytics plan defines what counts as a view across GitHub, web, video, social, and document surfaces",
+        "distribution calendar converts the target into weekly and monthly milestones",
+    }
+    campaigns = growth_goals.get("campaigns", [])
+    if not campaigns:
+        errors.append("growth-goals.json must define at least one campaign")
+    for campaign in campaigns:
+        if campaign.get("success_requires_external_audience_behavior") is not True:
+            errors.append(f"{campaign.get('campaign_id')} must mark external audience dependency")
+        wedge = campaign.get("first_live_wedge", {})
+        if wedge.get("wedge_id") != "launch_volume_i_spine":
+            errors.append(f"{campaign.get('campaign_id')} must name the first live publishing wedge")
+        if "without claiming views have already been earned" not in wedge.get("done_when", ""):
+            errors.append(f"{campaign.get('campaign_id')} must forbid fake reach completion")
+        outputs = set(campaign.get("measurable_agent_outputs", []))
+        if not required_outputs <= outputs:
+            errors.append(f"{campaign.get('campaign_id')} missing measurable growth outputs")
     errors.extend(validate_patterns(load_patterns(), cards))
     errors.extend(validate_public_boundary())
     series = Counter(card["series"] for card in cards)
@@ -648,6 +674,28 @@ def cmd_volume(args) -> int:
     return 0
 
 
+def cmd_growth(args) -> int:
+    growth_goals = load_growth_goals()
+    if args.json:
+        return emit_json(growth_goals)
+    print("ph-civ public growth")
+    print(growth_goals["principle"])
+    print("")
+    print("Agent goal rule:")
+    print(f"- {growth_goals['agent_goal_policy']['forbidden_completion_claim']}")
+    print("- Translate reach ambitions into repo quality, assets, cadence, metrics, and human-approved distribution.")
+    print("")
+    for campaign in growth_goals["campaigns"]:
+        print(f"{campaign['campaign_id']}: {campaign['title']}")
+        print(f"status: {campaign['status']}")
+        print(f"target: {campaign['target_count']} {campaign['target_metric']} by {campaign['target_date']}")
+        print(f"agent work: {campaign['agent_executable_translation']}")
+        wedge = campaign.get("first_live_wedge")
+        if wedge:
+            print(f"first wedge: {wedge['wedge_id']} - {wedge['title']}")
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="ph-civ", description="Provider-neutral Predictive History study cards and prompts.")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -728,6 +776,10 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("volume_id", choices=sorted(VOLUME_ALIASES))
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_volume)
+
+    p = sub.add_parser("growth", help="Show public-growth goals and agent-executable translation rules.")
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_growth)
 
     p = sub.add_parser("surface", help="Show public surface metadata.")
     p.add_argument("surface", choices=sorted(SURFACES), nargs="?", default="ph-civ")

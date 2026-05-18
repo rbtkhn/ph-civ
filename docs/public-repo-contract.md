@@ -24,6 +24,22 @@ Each public chapter consists of:
 
 Commentaries are not presumed complete at seed time. Each commentary must carry the shared Project Canvas scaffold so the chapter can be enhanced one by one without losing its role in the larger ph-civ project.
 
+## Public Growth Goals
+
+Public reach goals belong in this repository only as strategy-facing ambitions and planning metadata. They are not proof that attention has been earned, and they are not directly completable by an agent.
+
+When a public-growth ambition is stated, convert it into measurable project machinery:
+
+- repo narrative and first-screen clarity
+- shareable volume, chapter, spine, route, and museum surfaces
+- transcript/commentary/card readiness
+- ph-mus exhibit readiness
+- analytics definitions and view-count boundaries
+- distribution calendar and weekly review loop
+- launch copy or assets staged for human approval
+
+The canonical growth guardrail is `data/growth-goals.json`.
+
 ## Museum Storage Boundary
 
 Museum artifacts must not be represented by URLs alone.

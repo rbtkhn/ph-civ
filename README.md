@@ -61,6 +61,7 @@ ph-civ spine
 ph-civ path homer-to-tolstoy
 ph-civ validate
 ph-civ status
+ph-civ growth
 ph-civ volumes
 ph-civ volume volume-i --json
 ph-civ route civ-07 --json
@@ -83,6 +84,18 @@ All prompt and spark commands are template-only. They do not call an AI provider
 The chapter commentaries are the project canvas. They are seeded for all chapters, but they are not treated as complete analysis. Each commentary has a shared `Project Canvas` scaffold for later chapter-by-chapter development: project leverage, laws and patterns, volume role, museum hooks, strategy application, counter-readings, open questions, and build notes.
 
 See `docs/commentary-canvas.md`.
+
+## Public Growth
+
+Large reach targets, such as one million public views by the end of 2026, are strategic ambitions rather than directly executable agent tasks. Treat them as campaign pressure: convert the ambition into one live publishing wedge, then ship only human-approved assets with clear metrics.
+
+The first live wedge is the Volume I literary spine: make the Homer-to-Tolstoy route shareable, connect it to the two-volume ph-civ narrative, pair it with one publishable chapter/commentary/museum path sample, and define what counts as a view before public distribution.
+
+The canonical growth guardrail lives in `data/growth-goals.json` and is exposed with:
+
+```bash
+ph-civ growth --json
+```
 
 ## Literary Spine
 

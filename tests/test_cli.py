@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 from civ_ph.cli import main
-from civ_ph.data import load_cards, load_course_architecture, load_spine
+from civ_ph.data import load_cards, load_course_architecture, load_growth_goals, load_spine
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -144,6 +144,33 @@ def test_volume_command_lists_conceptual_membership(capsys):
     volume_ii_ids = {card["source_id"] for card in volume_ii["cards"]}
     assert {"geo-01", "gt-01", "sh-01", "sh-28"} <= volume_ii_ids
     assert volume_ii["role"] == "law_application"
+
+
+def test_growth_goals_translate_outcomes_to_agent_machinery():
+    growth_goals = load_growth_goals()
+    assert growth_goals["goal_system"] == "ph_civ_public_growth"
+    assert growth_goals["agent_goal_policy"]["must_translate_outcome_to_machinery"] is True
+    campaign = growth_goals["campaigns"][0]
+    assert campaign["campaign_id"] == "one_million_views_2026"
+    assert campaign["status"] == "strategic_ambition"
+    assert campaign["target_count"] == 1000000
+    assert campaign["target_date"] == "2026-12-31"
+    assert campaign["success_requires_external_audience_behavior"] is True
+    assert campaign["human_approval_required_for_publication"] is True
+    assert "achieved" not in campaign["status"]
+    assert campaign["first_live_wedge"]["wedge_id"] == "launch_volume_i_spine"
+    assert "Homer-to-Tolstoy route" in campaign["first_live_wedge"]["scope"]
+    assert "without claiming views have already been earned" in campaign["first_live_wedge"]["done_when"]
+    assert "analytics plan defines what counts as a view across GitHub, web, video, social, and document surfaces" in campaign["measurable_agent_outputs"]
+    assert "distribution calendar converts the target into weekly and monthly milestones" in campaign["measurable_agent_outputs"]
+
+
+def test_growth_command_returns_agent_goal_policy(capsys):
+    assert main(["growth", "--json"]) == 0
+    payload = json.loads(capsys.readouterr().out)
+    assert payload["agent_goal_policy"]["must_translate_outcome_to_machinery"] is True
+    assert payload["campaigns"][0]["campaign_id"] == "one_million_views_2026"
+    assert payload["campaigns"][0]["first_live_wedge"]["wedge_id"] == "launch_volume_i_spine"
 
 
 def test_surface_scoped_commands(capsys):

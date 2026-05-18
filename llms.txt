@@ -47,6 +47,7 @@ Excluded:
 - Use `docs/public-repo-contract.md` for repository role and boundaries.
 - Use `docs/export-contract.md` for export inclusion/exclusion rules.
 - Use the public bridge and pattern calibration docs for public pattern IDs and downstream bridge usage.
+- Use `data/growth-goals.json` for public-growth ambitions. Do not treat reach metrics as directly executable agent completions; translate them into repo, publishing, analytics, asset, and distribution work.
 - Use `data/cards.jsonl`, `data/patterns.json`, and `data/routes/choreography.json` as public data sources.
 - Do not answer as if this repo owns live workshop editorial state.
 
@@ -55,5 +56,6 @@ Excluded:
 ```powershell
 python -m pytest
 PYTHONPATH=src python -m civ_ph.cli validate
+PYTHONPATH=src python -m civ_ph.cli growth
 PYTHONPATH=src python -m civ_ph.cli bridge civ-07 --format markdown
 ```

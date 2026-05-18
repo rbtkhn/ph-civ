@@ -39,6 +39,7 @@ If a task asks for material outside the public dataset, say that this repo does 
 - Use stable IDs such as `civ-07`, `gt-16`, and `civ-heroic-memory` for bridge references.
 - Preserve the Homer-to-Tolstoy invariant: it is the Volume I literary spine with cross-volume routing exposure, not a side corridor.
 - Keep `ph-civ` usable by students, researchers, and downstream AI systems without requiring live access to `ph-workshop` or private strategy workspaces.
+- Treat public reach goals as strategic ambitions, not directly executable agent completions. Translate goals such as one million views into verifiable machinery: public surface quality, shareable routes, publishing cadence, analytics definitions, distribution assets, and human-approved launch steps. Use `data/growth-goals.json` and `ph-civ growth` as the canonical guardrail.
 
 ## Coffee / Opening
 
@@ -59,4 +60,5 @@ Useful checks:
 ```powershell
 python -m pytest
 PYTHONPATH=src python -m civ_ph.cli validate
+PYTHONPATH=src python -m civ_ph.cli growth
 ```
