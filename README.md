@@ -57,6 +57,8 @@ ph-civ show civ-41 --format json
 ph-civ search Dante
 ph-civ prompt gb-01 --mode creative
 ph-civ spark gt-16 --count 5
+ph-civ media-gather civ-41
+ph-civ media-gather civ-41 --json --output media-gather-civ-41.json
 ph-civ spine
 ph-civ path homer-to-tolstoy
 ph-civ validate

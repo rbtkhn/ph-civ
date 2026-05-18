@@ -5,6 +5,7 @@ import json
 import random
 import sys
 from collections import Counter
+from pathlib import Path
 
 from .data import (
     DATA_ROOT,
@@ -24,6 +25,8 @@ from .data import (
     pattern_markdown,
     patterns_for_source,
 )
+
+from .media_gather import emit_media_gather_json, render_media_gather_text
 
 EXPECTED_SOURCE_REPO = "rbtkhn/ph-workshop"
 
@@ -414,6 +417,28 @@ def cmd_spark(args) -> int:
     random.seed(card["source_id"])
     for index, prompt in enumerate(random.sample(seeds, k=min(args.count, len(seeds))), start=1):
         print(f"{index}. {prompt}")
+    return 0
+
+
+def cmd_media_gather(args) -> int:
+    try:
+        card = get_card(args.source_id)
+    except KeyError:
+        print(f"Unknown source_id: {args.source_id}", file=sys.stderr)
+        return 2
+    if args.json:
+        body = emit_media_gather_json(card)
+    else:
+        body = render_media_gather_text(card)
+    if getattr(args, "output", None) is not None:
+        path = Path(args.output).expanduser()
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(body, encoding="utf-8")
+        return 0
+    if args.json:
+        print(body.rstrip())
+        return 0
+    sys.stdout.write(body)
     return 0
 
 
@@ -812,6 +837,24 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("source_id")
     p.add_argument("--count", type=int, default=3)
     p.set_defaults(func=cmd_spark)
+
+    p = sub.add_parser(
+        "media-gather",
+        help="Emit bucket-aligned search prompts for ph-mus / media inventory gatherers.",
+    )
+    p.add_argument("source_id")
+    p.add_argument("--json", action="store_true")
+    p.add_argument(
+        "--output",
+        metavar="PATH",
+        type=Path,
+        default=None,
+        help=(
+            "Write UTF-8 output to PATH instead of stdout. On Windows/PowerShell, prefer reading this file "
+            "in Python JSON over piping ph-civ --json into python -c."
+        ),
+    )
+    p.set_defaults(func=cmd_media_gather)
 
     p = sub.add_parser("spine", help="Show a spine.")
     p.add_argument("spine_id", nargs="?", default="homer-to-tolstoy")

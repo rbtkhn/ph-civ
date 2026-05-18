@@ -266,3 +266,46 @@ def test_ten_route_spine_seed_guardrails():
     assert sh16["surface"] == "ph-apo"
     assert "Anna Karenina coda" in sh16["caveat"]
     assert "not a dedicated Tolstoy lecture" in sh16["caveat"]
+
+
+def test_media_gather_text_stable(capsys):
+    assert main(["media-gather", "civ-01"]) == 0
+    first = capsys.readouterr().out
+    assert main(["media-gather", "civ-01"]) == 0
+    second = capsys.readouterr().out
+    assert first == second
+    assert "### entry_object" in first
+
+
+def test_media_gather_json_buckets(capsys):
+    assert main(["media-gather", "geo-07", "--json"]) == 0
+    payload = json.loads(capsys.readouterr().out)
+    assert payload["source_id"] == "geo-07"
+    assert set(payload["buckets"]) == {
+        "entry_object",
+        "context_anchor",
+        "primary_object_or_text",
+        "comparison_object",
+        "pressure_or_structure",
+        "limit_or_caution",
+    }
+    assert len(payload["buckets"]["entry_object"]) == 5
+
+
+def test_media_gather_json_to_file(tmp_path):
+    target = tmp_path / "mg.json"
+    assert main(["media-gather", "civ-01", "--json", "--output", str(target)]) == 0
+    payload = json.loads(target.read_text(encoding="utf-8"))
+    assert payload["source_id"] == "civ-01"
+    assert len(payload["buckets"]["entry_object"]) == 5
+
+
+def test_media_gather_five_templates_per_bucket():
+    import civ_ph.media_gather as media_gather
+
+    assert media_gather.PROMPTS_PER_EXHIBIT_BUCKET == 5
+    for bucket in media_gather.BUCKET_ORDER:
+        assert (
+            len(media_gather._TEMPLATE_BANK[bucket])
+            >= media_gather.PROMPTS_PER_EXHIBIT_BUCKET
+        ), bucket
