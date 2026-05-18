@@ -1,18 +1,26 @@
 # Public Repository Contract
 
-This repository is the public-facing distribution layer for `ph-civ`, `ph-apo`, and `ph-mus`.
+This repository is the public-facing distribution layer for the two-volume PH-CIV artifact: `ph-civ`, `ph-apo`, and `ph-mus`.
 
 ## Public Surfaces
 
-- `ph-civ`: **Predictive History: Civilization** public orientation cards, paths, prompts, and study navigation.
-- `ph-apo`: **Predictive History: Apocalypse** public orientation cards, paths, prompts, and study navigation over Apocalypse / World War-facing cards.
-- `ph-mus`: **Predictive History Museum** public exhibit manifests, artifact metadata, schemas, validation rules, and generated reader-facing exhibit pages.
+- `ph-civ`: **Volume I / Predictive History: Civilization** public orientation cards, paths, prompts, and study navigation for discovering the laws of history.
+- `ph-apo`: **Volume II / Predictive History: Apocalypse** public orientation cards, paths, prompts, and study navigation for applying the laws of history.
+- `ph-mus`: **Predictive History Museum** public exhibit manifests, artifact metadata, schemas, validation rules, and generated reader-facing exhibit pages for both volumes.
+
+`ph-mus` is not a third volume. It is the chapter exhibit layer corresponding to chapters across Volume I and Volume II.
 
 ## Source Of Truth Boundary
 
-This repo can publish public-facing material, but it is not the private editorial workspace and not the large artifact archive.
+This repo publishes public-facing material, including chapter transcripts, chapter commentaries, public cards, routes, prompts, schemas, and manifests. It is not a private notes workspace and not the large artifact archive.
 
-The canonical private editorial source remains the maintained Predictive History workspace. This public repository receives exported, reviewed, or deliberately public materials from that source.
+The current chapter corpus was imported from the maintained Predictive History workspace and keeps that snapshot as provenance. Physical source series and folder labels are provenance metadata; the public reader architecture is the two-volume PH-CIV rollup.
+
+Each public chapter consists of:
+
+- lecture transcript
+- companion commentary
+- public orientation/navigation metadata
 
 ## Museum Storage Boundary
 
@@ -34,7 +42,7 @@ Git should track manifests, metadata, schemas, small generated pages, and valida
 
 The primary museum unit is the chapter exhibit.
 
-Each exhibit should map to one chapter in `ph-civ` or `ph-apo`. A useful exhibit contains a small curated set of artifacts arranged into rooms:
+Each exhibit should map to one chapter in `ph-civ` or `ph-apo`. Every chapter should eventually have a corresponding `ph-mus` exhibit. A useful exhibit contains a small curated set of artifacts arranged into rooms:
 
 - `entrance_artifact`
 - `context_room`

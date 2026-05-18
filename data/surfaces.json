@@ -1,23 +1,51 @@
 {
+  "repo_identity": "ph-civ",
+  "primary_artifact": "two_volume_ph_civ",
   "source_snapshot": {
     "repo": "rbtkhn/ph-workshop",
     "commit": "9d8eabc"
   },
+  "volumes": {
+    "volume_i": {
+      "surface": "ph-civ",
+      "title": "Civilization",
+      "role": "law_discovery",
+      "description": "Volume I discovers the laws of history through the Civilization-facing public orientation layer."
+    },
+    "volume_ii": {
+      "surface": "ph-apo",
+      "title": "Apocalypse",
+      "role": "law_application",
+      "description": "Volume II applies the laws of history through the Apocalypse / World War-facing public orientation layer."
+    }
+  },
+  "museum": {
+    "surface": "ph-mus",
+    "title": "Predictive History Museum",
+    "role": "chapter_exhibit_layer",
+    "description": "Museum exhibits correspond to chapters across both conceptual volumes; ph-mus is not a third volume."
+  },
+  "bridge_support_nodes": [
+    "sh-11",
+    "sh-16",
+    "sh-17",
+    "sh-18"
+  ],
   "surfaces": {
     "ph-civ": {
       "title": "Predictive History: Civilization",
       "status": "active",
-      "description": "Historical pattern formation through public orientation cards, study prompts, paths, and routes."
+      "description": "Volume I public surface: historical pattern formation and discovery of the laws of history through orientation cards, study prompts, paths, and routes."
     },
     "ph-apo": {
       "title": "Predictive History: Apocalypse",
       "status": "active",
-      "description": "Pressure application through public World War / Apocalypse-facing cards and routes."
+      "description": "Volume II public surface: application of the laws of history through World War / Apocalypse-facing cards and routes."
     },
     "ph-mus": {
       "title": "Predictive History Museum",
       "status": "active_manifest_index",
-      "description": "Public exhibit manifests and artifact metadata routes. Large artifact files live outside Git."
+      "description": "Chapter exhibit layer for both volumes. Large artifact files live outside Git."
     }
   }
 }

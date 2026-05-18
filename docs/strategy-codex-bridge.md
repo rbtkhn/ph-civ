@@ -2,7 +2,7 @@
 
 `ph-civ` is the public civilizational reference layer. `strategy-codex` is the live workshop where current-event analysis, raw inputs, operator judgment, and work-in-progress synthesis happen.
 
-The bridge between them is intentionally small: strategy-codex may cite public `pattern_id` values and public `source_id` cards from this repository. It should not import private notes, transcripts, commentary bodies, or workshop paths into `ph-civ`.
+The bridge between them is intentionally small: strategy-codex may cite public `pattern_id` values, public `source_id` cards, and public chapter bodies from this repository. It should not import private notes, raw inputs, or live strategy workspace paths into `ph-civ`.
 
 ## How To Use Patterns
 

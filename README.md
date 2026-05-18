@@ -2,13 +2,15 @@
 
 For AI agents and new chats: start with `AGENTS.md` and `llms.txt`. This repo is the public Predictive History distribution layer, not the private editorial workshop.
 
-This repository is the public-facing home for three related Predictive History surfaces:
+This repository is the public-facing home for the two-volume PH-CIV artifact. It contains three related Predictive History surfaces:
 
-- `ph-civ`: **Predictive History: Civilization**
-- `ph-apo`: **Predictive History: Apocalypse**
-- `ph-mus`: **Predictive History Museum**
+- `ph-civ`: **Volume I / Predictive History: Civilization** - discovers the laws of history.
+- `ph-apo`: **Volume II / Predictive History: Apocalypse** - applies the laws of history.
+- `ph-mus`: **Predictive History Museum** - chapter exhibit layer for both volumes.
 
-It also contains `ph-civ`, a lightweight, provider-neutral study tool for public Predictive History orientation cards. The package lets students and AI systems explore historical placement, reading posture, pressure points, limits, return paths, and guided prompts without importing transcripts or commentary bodies.
+The repo name `ph-civ` names the public repository and the Volume I surface. The repo as a whole is the two-volume public artifact: `ph-civ`, `ph-apo`, and `ph-mus` together.
+
+It also contains the chapter body for each source item. In this repo, one chapter consists of the lecture transcript, companion commentary, and public orientation/navigation metadata. The package lets students and AI systems explore historical placement, reading posture, pressure points, limits, return paths, and guided prompts alongside the chapter text.
 
 This package is independent educational infrastructure. It is not official course material, not endorsement, and not a substitute for the source lectures, transcripts, commentary, or external verification.
 
@@ -20,19 +22,19 @@ It should not become the large-media vault. Museum artifacts must be stored in a
 
 ## What Is Included
 
-- 140 public `ph-civ` cards from Predictive History snapshot `56a4a08`.
-- Two course parts: Civilization and World War.
+- 140 public cards from Predictive History snapshot `56a4a08`.
+- 140 lecture transcripts under `book/`.
+- 140 chapter commentaries under `book/`.
+- Two conceptual volumes: Volume I / Civilization / `ph-civ`, and Volume II / Apocalypse / `ph-apo`.
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, and Secret History.
-- The Homer-to-Tolstoy literary spine.
+- The Homer-to-Tolstoy literary spine as the Volume I literary spine with cross-volume routing exposure.
 - Provider-neutral prompt templates.
 - Eight public civilizational pattern IDs for strategy-codex-facing reference.
 - Public museum exhibit and artifact schemas.
-- Curator instructions for chapter-level exhibit assembly.
+- Curator instructions for chapter-level exhibit assembly across both volumes.
 
 ## What Is Excluded
 
-- Full transcripts.
-- Commentary bodies.
 - Private notes or Strategy-Codex paths.
 - External-source bibliography claims beyond the orientation cards.
 - LLM provider integrations, API calls, or hidden model dependencies.
@@ -58,6 +60,9 @@ ph-civ spark gt-16 --count 5
 ph-civ spine
 ph-civ path homer-to-tolstoy
 ph-civ validate
+ph-civ status
+ph-civ volumes
+ph-civ volume volume-i --json
 ph-civ route civ-07 --json
 ph-civ patterns
 ph-civ pattern civ-chokepoint-pressure --format json
@@ -79,11 +84,11 @@ All prompt and spark commands are template-only. They do not call an AI provider
 Homer -> Virgil -> Dante -> Shakespeare -> Dostoevsky -> Tolstoy
 ```
 
-Tolstoy is routed through `sh-16`, where *Anna Karenina* appears as a source-backed coda rather than a dedicated Tolstoy lecture.
+Homer to Tolstoy is the Volume I literary spine, not a side corridor. It uses cross-volume routing exposure where needed. Tolstoy is routed through `sh-16`, where *Anna Karenina* appears as a source-backed coda rather than a dedicated Tolstoy lecture.
 
 ## Predictive History Museum
 
-The museum is organized around chapter exhibits, not flat item rows. Each chapter in Predictive History: Civilization and Predictive History: Apocalypse should eventually have one exhibit with stored artifacts, rights notes, room placement, and a clear visitor path.
+The museum is organized around chapter exhibits, not flat item rows. Each chapter in Predictive History: Civilization and Predictive History: Apocalypse should eventually have one corresponding `ph-mus` exhibit with stored artifacts, rights notes, room placement, and a clear visitor path.
 
 The current public route export lives in `data/routes/choreography.json`, with the public museum manifest index in `data/museum/index.json`.
 

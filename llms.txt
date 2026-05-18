@@ -4,32 +4,35 @@
 
 ## Workspace Identity
 
-This workspace is `rbtkhn/ph-civ`, the public distribution layer for Predictive History.
+This workspace is `rbtkhn/ph-civ`, the public distribution layer for the two-volume PH-CIV artifact.
 
-It exists to provide public, provider-neutral orientation cards, civilizational pattern IDs, routes, prompts, museum schemas, and validation tooling. It helps students, researchers, and downstream AI systems navigate Predictive History without importing private workshop material.
+It exists to provide public lecture transcripts, companion commentaries, orientation cards, civilizational pattern IDs, routes, prompts, museum schemas, and validation tooling. It helps students, researchers, and downstream AI systems navigate Predictive History without importing private notes or raw media archives.
+
+`ph-civ` is both the repo name and the Volume I surface name. The repo as a whole contains the two-volume public artifact: `ph-civ`, `ph-apo`, and `ph-mus`.
 
 ## Public Surfaces
 
-- `ph-civ`: Predictive History: Civilization public orientation cards and study navigation.
-- `ph-apo`: Predictive History: Apocalypse / World War public orientation surfaces.
-- `ph-mus`: Predictive History Museum public exhibit manifests, artifact metadata, schemas, and contribution rules.
+- `ph-civ`: Volume I / Predictive History: Civilization public orientation cards and study navigation; discovers the laws of history.
+- `ph-apo`: Volume II / Predictive History: Apocalypse public orientation surfaces; applies the laws of history.
+- `ph-mus`: Predictive History Museum public exhibit manifests, artifact metadata, schemas, and contribution rules for both volumes.
 
 ## Boundary
 
-Source authority lives in `rbtkhn/ph-workshop`. This repository is the public consumption layer, not the private editorial workspace.
+`rbtkhn/ph-workshop` is legacy import provenance for the current source snapshot. This repository is the public consumption layer and contains the chapter transcripts and commentaries. Physical source series remain provenance metadata; the official public reader architecture is the two-volume PH-CIV rollup.
 
 Included:
 
 - public card frontmatter and public card sections
+- public lecture transcript bodies
+- public companion commentary bodies
 - source IDs, titles, parts, series, placement weights, and review status
 - provider-neutral prompts and spark templates
 - public pattern IDs and bridge responses
 - museum schemas, public manifests, and contribution instructions
+- the Homer-to-Tolstoy Volume I literary spine with cross-volume routing exposure
 
 Excluded:
 
-- transcript bodies
-- commentary bodies
 - private notes
 - Strategy-Codex paths
 - raw media binaries

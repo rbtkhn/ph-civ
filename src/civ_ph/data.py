@@ -73,6 +73,17 @@ def load_surfaces() -> dict:
     return json.loads((DATA_ROOT / "surfaces.json").read_text(encoding="utf-8"))
 
 
+def load_course_architecture() -> dict:
+    data = load_surfaces()
+    return {
+        "repo_identity": data["repo_identity"],
+        "primary_artifact": data["primary_artifact"],
+        "volumes": data["volumes"],
+        "museum": data["museum"],
+        "bridge_support_nodes": data["bridge_support_nodes"],
+    }
+
+
 def load_choreography() -> list[dict]:
     return json.loads((DATA_ROOT / "routes" / "choreography.json").read_text(encoding="utf-8"))["routes"]
 

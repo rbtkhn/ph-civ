@@ -14,6 +14,7 @@ from .data import (
     get_route,
     load_cards,
     load_choreography,
+    load_course_architecture,
     load_museum_index,
     load_patterns,
     load_spine,
@@ -33,9 +34,42 @@ PROMPT_MODES = {
 
 SURFACES = load_surfaces()["surfaces"]
 
+VOLUME_ALIASES = {
+    "volume-i": "volume_i",
+    "volume-ii": "volume_ii",
+    "volume_i": "volume_i",
+    "volume_ii": "volume_ii",
+}
+
 
 def card_surface(card: dict) -> str:
     return "ph-civ" if card["part"] == "civilization" else "ph-apo"
+
+
+def bridge_support_ids() -> set[str]:
+    return set(load_course_architecture()["bridge_support_nodes"])
+
+
+def conceptual_volume_ids(card: dict) -> list[str]:
+    volumes: list[str] = []
+    if card["part"] == "civilization" or card["source_id"] in bridge_support_ids():
+        volumes.append("volume_i")
+    if card["part"] == "world-war":
+        volumes.append("volume_ii")
+    return volumes
+
+
+def conceptual_bridge_role(card: dict) -> str | None:
+    if card["source_id"] in bridge_support_ids():
+        return "volume_i_bridge_support"
+    return None
+
+
+def cards_for_volume(volume_id: str) -> list[dict]:
+    canonical = VOLUME_ALIASES.get(volume_id)
+    if not canonical:
+        raise KeyError(volume_id)
+    return [card for card in load_cards() if canonical in conceptual_volume_ids(card)]
 
 
 def visible_cards(surface_scope: str | None = None, include_all: bool = False) -> list[dict]:
@@ -57,6 +91,8 @@ def route_public_payload(route: dict) -> dict:
         "surface": route["surface"],
         "part": card["part"],
         "series": card["series"],
+        "conceptual_volumes": conceptual_volume_ids(card),
+        "bridge_role": conceptual_bridge_role(card),
         "what_changes_here": route["what_changes_here"],
         "card": {
             "path": route["card_path"],
@@ -302,6 +338,19 @@ def cmd_validate(args) -> int:
         source_repo = card.get("source_snapshot", {}).get("repo")
         if source_repo != EXPECTED_SOURCE_REPO:
             errors.append(f"{source_id} invalid source repo: {source_repo}")
+        source_paths = card.get("source_paths", {})
+        transcript_path = source_paths.get("source_chapter_path")
+        commentary_path = source_paths.get("commentary_path")
+        for label, relative_path in [
+            ("transcript", transcript_path),
+            ("commentary", commentary_path),
+        ]:
+            if not relative_path:
+                errors.append(f"{source_id} missing {label} path")
+                continue
+            chapter_path = DATA_ROOT.parent / relative_path
+            if not chapter_path.exists():
+                errors.append(f"{source_id} missing {label} file: {relative_path}")
     for metadata_path in [
         DATA_ROOT / "index.json",
         DATA_ROOT / "surfaces.json",
@@ -311,6 +360,25 @@ def cmd_validate(args) -> int:
         source_repo = metadata.get("source_snapshot", {}).get("repo")
         if source_repo != EXPECTED_SOURCE_REPO:
             errors.append(f"{metadata_path.relative_to(DATA_ROOT)} invalid source repo: {source_repo}")
+    architecture = load_course_architecture()
+    if architecture.get("repo_identity") != "ph-civ":
+        errors.append("surfaces.json invalid repo_identity")
+    if architecture.get("primary_artifact") != "two_volume_ph_civ":
+        errors.append("surfaces.json invalid primary_artifact")
+    if architecture.get("volumes", {}).get("volume_i", {}).get("surface") != "ph-civ":
+        errors.append("volume_i must route through ph-civ")
+    if architecture.get("volumes", {}).get("volume_i", {}).get("role") != "law_discovery":
+        errors.append("volume_i must use law_discovery role")
+    if architecture.get("volumes", {}).get("volume_ii", {}).get("surface") != "ph-apo":
+        errors.append("volume_ii must route through ph-apo")
+    if architecture.get("volumes", {}).get("volume_ii", {}).get("role") != "law_application":
+        errors.append("volume_ii must use law_application role")
+    if architecture.get("museum", {}).get("surface") != "ph-mus":
+        errors.append("museum layer must route through ph-mus")
+    if architecture.get("museum", {}).get("role") != "chapter_exhibit_layer":
+        errors.append("museum layer must use chapter_exhibit_layer role")
+    if architecture.get("bridge_support_nodes") != ["sh-11", "sh-16", "sh-17", "sh-18"]:
+        errors.append("bridge_support_nodes invariant changed")
     errors.extend(validate_patterns(load_patterns(), cards))
     series = Counter(card["series"] for card in cards)
     result = {"status": "valid" if not errors else "invalid", "card_count": len(cards), "series_counts": dict(sorted(series.items())), "errors": errors}
@@ -374,8 +442,99 @@ def cmd_surface(args) -> int:
 
 
 def cmd_status(args) -> int:
-    surface = getattr(args, "surface_scope", None) or "ph-civ"
-    return cmd_surface(argparse.Namespace(surface=surface, json=args.json))
+    architecture = load_course_architecture()
+    if args.json:
+        return emit_json(
+            {
+                "repo_identity": architecture["repo_identity"],
+                "primary_artifact": architecture["primary_artifact"],
+                "volumes": architecture["volumes"],
+                "museum": architecture["museum"],
+                "surfaces": SURFACES,
+                "unique_card_count": len(load_cards()),
+            }
+        )
+    print("ph-civ: two-volume public Predictive History artifact")
+    print(f"primary_artifact: {architecture['primary_artifact']}")
+    print(
+        "Volume I / ph-civ / Civilization: "
+        f"{architecture['volumes']['volume_i']['role']}"
+    )
+    print(
+        "Volume II / ph-apo / Apocalypse: "
+        f"{architecture['volumes']['volume_ii']['role']}"
+    )
+    print("ph-mus: chapter_exhibit_layer for both volumes")
+    return 0
+
+
+def volume_payload(volume_id: str, include_cards: bool = False) -> dict:
+    canonical = VOLUME_ALIASES[volume_id]
+    architecture = load_course_architecture()
+    volume = architecture["volumes"][canonical]
+    cards = cards_for_volume(canonical)
+    payload = {
+        "volume_id": canonical,
+        "surface": volume["surface"],
+        "title": volume["title"],
+        "role": volume["role"],
+        "description": volume["description"],
+        "card_count": len(cards),
+        "bridge_support_nodes": architecture["bridge_support_nodes"]
+        if canonical == "volume_i"
+        else [],
+    }
+    if include_cards:
+        payload["cards"] = [
+            {
+                "source_id": card["source_id"],
+                "title": card["title"],
+                "series": card["series"],
+                "part": card["part"],
+                "bridge_role": conceptual_bridge_role(card),
+            }
+            for card in cards
+        ]
+    return payload
+
+
+def cmd_volumes(args) -> int:
+    architecture = load_course_architecture()
+    payload = {
+        "repo_identity": architecture["repo_identity"],
+        "primary_artifact": architecture["primary_artifact"],
+        "volumes": {
+            "volume_i": volume_payload("volume_i"),
+            "volume_ii": volume_payload("volume_ii"),
+        },
+        "museum": architecture["museum"],
+        "unique_card_count": len(load_cards()),
+    }
+    if args.json:
+        return emit_json(payload)
+    for volume in payload["volumes"].values():
+        print(f"{volume['volume_id']}\t{volume['surface']}\t{volume['role']}\t{volume['card_count']}")
+    print(f"ph-mus\t{payload['museum']['role']}\t{payload['museum']['description']}")
+    print(f"unique_card_count\t{payload['unique_card_count']}")
+    return 0
+
+
+def cmd_volume(args) -> int:
+    try:
+        payload = volume_payload(args.volume_id, include_cards=True)
+    except KeyError:
+        print(f"Unknown volume: {args.volume_id}", file=sys.stderr)
+        return 2
+    if args.json:
+        return emit_json(payload)
+    print(f"# {payload['title']} ({payload['volume_id']})")
+    print(f"surface: {payload['surface']}")
+    print(f"role: {payload['role']}")
+    print(f"card_count: {payload['card_count']}")
+    for card in payload["cards"]:
+        bridge = f"\t{card['bridge_role']}" if card["bridge_role"] else ""
+        print(f"{card['source_id']}\t{card['series']}\t{card['title']}{bridge}")
+    return 0
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -449,6 +608,15 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("status", help="Show the current public surface status.")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_status)
+
+    p = sub.add_parser("volumes", help="Show the two-volume PH-CIV architecture.")
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_volumes)
+
+    p = sub.add_parser("volume", help="Show cards for one conceptual volume.")
+    p.add_argument("volume_id", choices=sorted(VOLUME_ALIASES))
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_volume)
 
     p = sub.add_parser("surface", help="Show public surface metadata.")
     p.add_argument("surface", choices=sorted(SURFACES), nargs="?", default="ph-civ")

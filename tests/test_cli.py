@@ -1,11 +1,32 @@
+import json
+from pathlib import Path
+
 from civ_ph.cli import main
-from civ_ph.data import load_cards, load_spine
+from civ_ph.data import load_cards, load_course_architecture, load_spine
+
+ROOT = Path(__file__).resolve().parents[1]
 
 
 def test_loads_all_seeded_cards():
     cards = load_cards()
     assert len(cards) == 140
     assert {"civilization", "world-war"} <= {card["part"] for card in cards}
+
+
+def test_all_cards_have_local_transcript_and_commentary():
+    cards = load_cards()
+    transcript_paths = []
+    commentary_paths = []
+    for card in cards:
+        transcript_path = ROOT / card["source_paths"]["source_chapter_path"]
+        commentary_path = ROOT / card["source_paths"]["commentary_path"]
+        assert transcript_path.exists(), card["source_id"]
+        assert commentary_path.exists(), card["source_id"]
+        transcript_paths.append(transcript_path)
+        commentary_paths.append(commentary_path)
+
+    assert len(set(transcript_paths)) == 140
+    assert len(set(commentary_paths)) == 140
 
 
 def test_show_known_card_json(capsys):
@@ -44,6 +65,19 @@ def test_literary_spine_ends_with_tolstoy():
     assert spine["sequence"][-1]["source_ids"] == ["sh-16"]
 
 
+def test_two_volume_architecture_is_primary():
+    architecture = load_course_architecture()
+    assert architecture["primary_artifact"] == "two_volume_ph_civ"
+    assert architecture["volumes"]["volume_i"]["surface"] == "ph-civ"
+    assert architecture["volumes"]["volume_i"]["role"] == "law_discovery"
+    assert architecture["volumes"]["volume_ii"]["surface"] == "ph-apo"
+    assert architecture["volumes"]["volume_ii"]["role"] == "law_application"
+    assert architecture["museum"]["surface"] == "ph-mus"
+    assert architecture["museum"]["role"] == "chapter_exhibit_layer"
+    assert "ph-mus" not in {volume["surface"] for volume in architecture["volumes"].values()}
+    assert architecture["bridge_support_nodes"] == ["sh-11", "sh-16", "sh-17", "sh-18"]
+
+
 def test_compat_alias_still_works(capsys):
     from civ_ph.cli import compat_main
     assert compat_main(["validate"]) == 0
@@ -53,6 +87,41 @@ def test_compat_alias_still_works(capsys):
 def test_public_surfaces_are_named(capsys):
     assert main(["surface", "ph-civ"]) == 0
     assert "Predictive History: Civilization" in capsys.readouterr().out
+
+
+def test_status_leads_with_two_volume_artifact(capsys):
+    assert main(["status"]) == 0
+    out = capsys.readouterr().out
+    assert "two-volume public Predictive History artifact" in out
+    assert "Volume I / ph-civ / Civilization" in out
+    assert "Volume II / ph-apo / Apocalypse" in out
+
+
+def test_volumes_command_returns_architecture(capsys):
+    assert main(["volumes", "--json"]) == 0
+    payload = json.loads(capsys.readouterr().out)
+    assert payload["primary_artifact"] == "two_volume_ph_civ"
+    assert payload["volumes"]["volume_i"]["surface"] == "ph-civ"
+    assert payload["volumes"]["volume_i"]["role"] == "law_discovery"
+    assert payload["volumes"]["volume_ii"]["surface"] == "ph-apo"
+    assert payload["volumes"]["volume_ii"]["role"] == "law_application"
+    assert payload["museum"]["surface"] == "ph-mus"
+    assert payload["museum"]["role"] == "chapter_exhibit_layer"
+    assert payload["unique_card_count"] == 140
+
+
+def test_volume_command_lists_conceptual_membership(capsys):
+    assert main(["volume", "volume-i", "--json"]) == 0
+    volume_i = json.loads(capsys.readouterr().out)
+    volume_i_ids = {card["source_id"] for card in volume_i["cards"]}
+    assert {"civ-01", "gb-01", "sh-11", "sh-16", "sh-17", "sh-18"} <= volume_i_ids
+    assert volume_i["role"] == "law_discovery"
+
+    assert main(["volume", "volume-ii", "--json"]) == 0
+    volume_ii = json.loads(capsys.readouterr().out)
+    volume_ii_ids = {card["source_id"] for card in volume_ii["cards"]}
+    assert {"geo-01", "gt-01", "sh-01", "sh-28"} <= volume_ii_ids
+    assert volume_ii["role"] == "law_application"
 
 
 def test_surface_scoped_commands(capsys):
