@@ -40,6 +40,8 @@ When a public-growth ambition is stated, convert it into measurable project mach
 
 The canonical growth guardrail is `data/growth-goals.json`.
 
+Defined public-growth machinery is not the same as launch readiness. A route is launch-ready only when it can serve a first public reader without relying on private context, unsupported scholarly claims, or metric pressure to supply meaning.
+
 ## Museum Storage Boundary
 
 Museum artifacts must not be represented by URLs alone.

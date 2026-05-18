@@ -83,8 +83,18 @@ def test_literary_spine_ends_with_tolstoy():
     assert spine["spine_id"] == "homer-to-tolstoy"
     assert spine["structural_role"] == "volume_i_literary_spine"
     assert spine["routing_role"] == "cross_volume_exposure"
+    assert spine["launch_readiness"] == "defined_not_launch_ready"
+    assert "first public reader" in spine["first_reader_gap"]
     assert spine["sequence"][-1]["author"] == "Tolstoy"
     assert spine["sequence"][-1]["source_ids"] == ["sh-16"]
+
+
+def test_literary_spine_path_surfaces_launch_readiness(capsys):
+    assert main(["path", "homer-to-tolstoy"]) == 0
+    out = capsys.readouterr().out
+    assert "launch_readiness: defined_not_launch_ready" in out
+    assert "first_reader_gap:" in out
+    assert "guardrail:" in out
 
 
 def test_two_volume_architecture_is_primary():
@@ -155,10 +165,13 @@ def test_growth_goals_translate_outcomes_to_agent_machinery():
     assert campaign["status"] == "strategic_ambition"
     assert campaign["target_count"] == 1000000
     assert campaign["target_date"] == "2026-12-31"
+    assert "source-disciplined educational trust" in campaign["unresolved_tension"]
     assert campaign["success_requires_external_audience_behavior"] is True
     assert campaign["human_approval_required_for_publication"] is True
     assert "achieved" not in campaign["status"]
     assert campaign["first_live_wedge"]["wedge_id"] == "launch_volume_i_spine"
+    assert campaign["first_live_wedge"]["launch_readiness"] == "defined_not_launch_ready"
+    assert "deserves audience growth" in campaign["first_live_wedge"]["readiness_question"]
     assert "Homer-to-Tolstoy route" in campaign["first_live_wedge"]["scope"]
     assert "without claiming views have already been earned" in campaign["first_live_wedge"]["done_when"]
     assert "analytics plan defines what counts as a view across GitHub, web, video, social, and document surfaces" in campaign["measurable_agent_outputs"]
@@ -171,6 +184,7 @@ def test_growth_command_returns_agent_goal_policy(capsys):
     assert payload["agent_goal_policy"]["must_translate_outcome_to_machinery"] is True
     assert payload["campaigns"][0]["campaign_id"] == "one_million_views_2026"
     assert payload["campaigns"][0]["first_live_wedge"]["wedge_id"] == "launch_volume_i_spine"
+    assert payload["campaigns"][0]["first_live_wedge"]["launch_readiness"] == "defined_not_launch_ready"
 
 
 def test_surface_scoped_commands(capsys):

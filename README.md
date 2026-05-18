@@ -91,6 +91,8 @@ Large reach targets, such as one million public views by the end of 2026, are st
 
 The first live wedge is the Volume I literary spine: make the Homer-to-Tolstoy route shareable, connect it to the two-volume ph-civ narrative, pair it with one publishable chapter/commentary/museum path sample, and define what counts as a view before public distribution.
 
+This wedge is defined, not automatically launch-ready. The unresolved tension is whether the route has enough source-disciplined educational trust to deserve audience growth, not only whether the CLI can render it.
+
 The canonical growth guardrail lives in `data/growth-goals.json` and is exposed with:
 
 ```bash

@@ -6,6 +6,8 @@
   "routing_role": "cross_volume_exposure",
   "description": "Volume I literary spine for the two-volume public ph-civ artifact, exposed through cross-volume routing.",
   "guardrail": "This is a guided literary orientation path, not a claim that literature alone drives history.",
+  "launch_readiness": "defined_not_launch_ready",
+  "first_reader_gap": "The route is structurally correct, but a first public reader still needs a launch packet that explains why this spine matters before audience growth is pursued.",
   "sequence": [
     {
       "author": "Homer",

@@ -411,6 +411,13 @@ def cmd_spine(args) -> int:
         return emit_json(spine)
     print(f"# {spine['title']}\n")
     print(spine["description"])
+    if spine.get("guardrail"):
+        print("")
+        print(f"guardrail: {spine['guardrail']}")
+    if spine.get("launch_readiness"):
+        print(f"launch_readiness: {spine['launch_readiness']}")
+    if spine.get("first_reader_gap"):
+        print(f"first_reader_gap: {spine['first_reader_gap']}")
     print("")
     for index, node in enumerate(spine["sequence"], start=1):
         print(f"{index}. {node['author']}: {', '.join(node['source_ids'])}")
@@ -490,6 +497,11 @@ def cmd_validate(args) -> int:
         errors.append("museum layer must use chapter_exhibit_layer role")
     if architecture.get("bridge_support_nodes") != ["sh-11", "sh-16", "sh-17", "sh-18"]:
         errors.append("bridge_support_nodes invariant changed")
+    literary_spine = load_spine("homer-to-tolstoy")
+    if literary_spine.get("launch_readiness") != "defined_not_launch_ready":
+        errors.append("homer-to-tolstoy spine must preserve launch readiness tension")
+    if "first public reader" not in literary_spine.get("first_reader_gap", ""):
+        errors.append("homer-to-tolstoy spine must name the first-reader gap")
     growth_goals = load_growth_goals()
     policy = growth_goals.get("agent_goal_policy", {})
     if growth_goals.get("goal_system") != "ph_civ_public_growth":
@@ -505,11 +517,15 @@ def cmd_validate(args) -> int:
     if not campaigns:
         errors.append("growth-goals.json must define at least one campaign")
     for campaign in campaigns:
+        if "source-disciplined educational trust" not in campaign.get("unresolved_tension", ""):
+            errors.append(f"{campaign.get('campaign_id')} must preserve the growth-vs-trust tension")
         if campaign.get("success_requires_external_audience_behavior") is not True:
             errors.append(f"{campaign.get('campaign_id')} must mark external audience dependency")
         wedge = campaign.get("first_live_wedge", {})
         if wedge.get("wedge_id") != "launch_volume_i_spine":
             errors.append(f"{campaign.get('campaign_id')} must name the first live publishing wedge")
+        if wedge.get("launch_readiness") != "defined_not_launch_ready":
+            errors.append(f"{campaign.get('campaign_id')} must distinguish defined wedge from launch readiness")
         if "without claiming views have already been earned" not in wedge.get("done_when", ""):
             errors.append(f"{campaign.get('campaign_id')} must forbid fake reach completion")
         outputs = set(campaign.get("measurable_agent_outputs", []))
@@ -689,10 +705,12 @@ def cmd_growth(args) -> int:
         print(f"{campaign['campaign_id']}: {campaign['title']}")
         print(f"status: {campaign['status']}")
         print(f"target: {campaign['target_count']} {campaign['target_metric']} by {campaign['target_date']}")
+        print(f"tension: {campaign['unresolved_tension']}")
         print(f"agent work: {campaign['agent_executable_translation']}")
         wedge = campaign.get("first_live_wedge")
         if wedge:
             print(f"first wedge: {wedge['wedge_id']} - {wedge['title']}")
+            print(f"readiness: {wedge['launch_readiness']}")
     return 0
 
 
