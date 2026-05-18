@@ -1,6 +1,6 @@
 # Predictive History Public Repository
 
-For AI agents and new chats: start with `AGENTS.md` and `llms.txt`. This repo is the public Predictive History distribution layer, not the private editorial workshop.
+For AI agents and new chats: start with `START-HERE.md`, then `AGENTS.md` and `llms.txt`. If a user pastes `https://github.com/rbtkhn/ph-civ` into an LLM chat, use `START-HERE.md` and `data/llm-experience.json` as the unfolding map. This repo is the public Predictive History distribution layer, not the private editorial workshop.
 
 This repository is the public-facing home for the two-volume ph-civ artifact. It contains three related Predictive History surfaces:
 
@@ -61,6 +61,8 @@ ph-civ spine
 ph-civ path homer-to-tolstoy
 ph-civ validate
 ph-civ status
+ph-civ start
+ph-civ start --json
 ph-civ growth
 ph-civ volumes
 ph-civ volume volume-i --json

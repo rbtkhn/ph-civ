@@ -1,0 +1,110 @@
+{
+  "experience_id": "ph_civ_llm_native_bootloader",
+  "repo_identity": "ph-civ",
+  "github_url": "https://github.com/rbtkhn/ph-civ",
+  "primary_artifact": "two_volume_ph_civ",
+  "start_here": "START-HERE.md",
+  "public_surfaces": {
+    "volume_i": {
+      "surface": "ph-civ",
+      "title": "Predictive History: Civilization",
+      "role": "law_discovery"
+    },
+    "volume_ii": {
+      "surface": "ph-apo",
+      "title": "Predictive History: Apocalypse",
+      "role": "law_application"
+    },
+    "museum": {
+      "surface": "ph-mus",
+      "title": "Predictive History Museum",
+      "role": "chapter_exhibit_layer",
+      "not_a_volume": true
+    }
+  },
+  "first_seed": {
+    "seed_id": "ten_route_spine_seed",
+    "route_ids": [
+      "civ-07",
+      "civ-17",
+      "civ-29",
+      "civ-51",
+      "gb-02",
+      "gb-09",
+      "geo-14",
+      "gt-16",
+      "sh-16",
+      "sh-28"
+    ],
+    "starting_path": "homer-to-tolstoy",
+    "data_files": [
+      "data/routes/seed.json",
+      "data/routes/choreography.json",
+      "data/spines/homer-to-tolstoy.json"
+    ]
+  },
+  "modes": [
+    {
+      "mode": "first_tour",
+      "instruction": "Orient the reader to the two volumes, the museum layer, and the 10-route seed before opening individual chapters.",
+      "start_files": ["START-HERE.md", "README.md", "data/routes/seed.json"]
+    },
+    {
+      "mode": "study",
+      "instruction": "Study one chapter through its card, transcript, commentary, limits, and return path.",
+      "start_files": ["data/cards.jsonl", "book/"]
+    },
+    {
+      "mode": "seminar",
+      "instruction": "Generate discussion questions grounded in public card limits and source chapter text.",
+      "start_files": ["prompts/seminar.md", "data/cards.jsonl", "book/"]
+    },
+    {
+      "mode": "commentary_canvas",
+      "instruction": "Use the commentary scaffold as a project-development canvas, not as finished analysis.",
+      "start_files": ["docs/commentary-canvas.md", "book/"]
+    },
+    {
+      "mode": "pattern_bridge",
+      "instruction": "Connect chapters to public pattern IDs without importing private strategy notes.",
+      "start_files": ["data/patterns.json", "docs/pattern-calibration.md"]
+    },
+    {
+      "mode": "museum_room",
+      "instruction": "Design or review chapter exhibits through ph-mus schemas and manifest boundaries.",
+      "start_files": ["ph-mus/README.md", "schemas/museum-exhibit.schema.json", "schemas/museum-artifact.schema.json"]
+    },
+    {
+      "mode": "bounded_application",
+      "instruction": "Apply patterns to present-day questions only as orientation and with explicit evidentiary limits.",
+      "start_files": ["data/routes/choreography.json", "data/patterns.json", "docs/public-repo-contract.md"]
+    }
+  ],
+  "guardrails": [
+    "Homer to Tolstoy is the Volume I literary spine, not a side corridor.",
+    "sh-16 is a routed Tolstoy endpoint via an Anna Karenina coda, not a dedicated Tolstoy lecture.",
+    "ph-mus is not a third volume.",
+    "Application routes are public orientation only, not quotation-grade live operational analysis.",
+    "Commentaries are open project canvases and should not be treated as final scholarly review.",
+    "Public growth goals are ambitions; do not claim views, attention, or launch readiness has already been earned."
+  ],
+  "do_not_claim": [
+    "Do not claim this repo is official course material or endorsement.",
+    "Do not claim live geopolitical certainty from orientation routes.",
+    "Do not claim museum artifact binaries are stored in Git.",
+    "Do not claim commentaries are complete final analysis.",
+    "Do not claim ph-mus is a third volume."
+  ],
+  "unfolding_map": [
+    "START-HERE.md",
+    "llms.txt",
+    "README.md",
+    "AGENTS.md",
+    "docs/public-repo-contract.md",
+    "docs/export-contract.md",
+    "data/routes/seed.json",
+    "data/routes/choreography.json",
+    "data/cards.jsonl",
+    "data/patterns.json"
+  ]
+}

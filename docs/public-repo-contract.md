@@ -2,6 +2,8 @@
 
 This repository is the public-facing distribution layer for the two-volume ph-civ artifact: `ph-civ`, `ph-apo`, and `ph-mus`.
 
+If a reader pastes the GitHub URL into an LLM chat, the repo should unfold from `START-HERE.md` and `data/llm-experience.json`. Those files define the provider-neutral first-tour flow, reader modes, 10-route spine seed, and guardrails for using public transcripts, commentaries, routes, patterns, and museum manifests.
+
 ## Public Surfaces
 
 - `ph-civ`: **Volume I / Predictive History: Civilization** public orientation cards, paths, prompts, and study navigation for discovering the laws of history.
@@ -74,6 +76,8 @@ Each exhibit should map to one chapter in `ph-civ` or `ph-apo`. Every chapter sh
 Flat item inventories may be useful as imports or review exports, but they are not the museum source of truth.
 
 The current public choreography export is `data/routes/choreography.json`; the public museum exhibit index is `data/museum/index.json`. These files expose only safe routing metadata and manifest pointers, not artifact binaries.
+
+The LLM-native unfolding map is `data/llm-experience.json`; it must stay aligned with `data/routes/seed.json`, `data/cards.jsonl`, `data/patterns.json`, and `data/routes/choreography.json`.
 
 ## Human Curator Role
 

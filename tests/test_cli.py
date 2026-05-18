@@ -7,6 +7,7 @@ from civ_ph.data import (
     load_choreography,
     load_course_architecture,
     load_growth_goals,
+    load_llm_experience,
     load_museum_index,
     load_route_seed,
     load_spine,
@@ -129,6 +130,33 @@ def test_status_leads_with_two_volume_artifact(capsys):
     assert "two-volume public Predictive History artifact" in out
     assert "Volume I / ph-civ / Civilization" in out
     assert "Volume II / ph-apo / Apocalypse" in out
+
+
+def test_llm_native_bootloader_contract(capsys):
+    start_here = ROOT / "START-HERE.md"
+    assert start_here.exists()
+    start_text = start_here.read_text(encoding="utf-8")
+    assert "pastes `https://github.com/rbtkhn/ph-civ` into a ChatGPT chat or any other LLM" in start_text
+    assert "Homer to Tolstoy is the Volume I literary spine" in start_text
+    assert "Anna Karenina coda" in start_text
+    assert "ph-mus` is not a third volume" in start_text
+
+    experience = load_llm_experience()
+    assert experience["start_here"] == "START-HERE.md"
+    assert experience["public_surfaces"]["volume_i"]["surface"] == "ph-civ"
+    assert experience["public_surfaces"]["volume_ii"]["surface"] == "ph-apo"
+    assert experience["public_surfaces"]["museum"]["surface"] == "ph-mus"
+    assert experience["public_surfaces"]["museum"]["not_a_volume"] is True
+    assert experience["first_seed"]["route_ids"] == load_route_seed()["route_ids"]
+    guardrails = "\n".join(experience["guardrails"])
+    assert "Homer to Tolstoy" in guardrails
+    assert "Anna Karenina coda" in guardrails
+    assert "ph-mus is not a third volume" in guardrails
+
+    assert main(["start", "--json"]) == 0
+    payload = json.loads(capsys.readouterr().out)
+    assert payload["experience_id"] == "ph_civ_llm_native_bootloader"
+    assert payload["first_seed"]["route_ids"] == load_route_seed()["route_ids"]
 
 
 def test_volumes_command_returns_architecture(capsys):

@@ -16,6 +16,7 @@ from .data import (
     load_choreography,
     load_course_architecture,
     load_growth_goals,
+    load_llm_experience,
     load_museum_index,
     load_patterns,
     load_route_seed,
@@ -64,6 +65,7 @@ COMMENTARY_CANVAS_HEADINGS = [
 PUBLIC_BOUNDARY_SCAN_PATHS = [
     "AGENTS.md",
     "README.md",
+    "START-HERE.md",
     "llms.txt",
     "book",
     "data",
@@ -509,6 +511,32 @@ def cmd_validate(args) -> int:
         errors.append("route seed must be ten_route_spine_seed")
     if seed_route_ids != route_ids:
         errors.append("route seed IDs must match choreography route IDs in order")
+    llm_experience = load_llm_experience()
+    if not (DATA_ROOT.parent / "START-HERE.md").exists():
+        errors.append("START-HERE.md must exist as the LLM bootloader")
+    if llm_experience.get("start_here") != "START-HERE.md":
+        errors.append("llm-experience.json must point to START-HERE.md")
+    if llm_experience.get("primary_artifact") != "two_volume_ph_civ":
+        errors.append("llm-experience.json invalid primary_artifact")
+    if llm_experience.get("first_seed", {}).get("route_ids") != seed_route_ids:
+        errors.append("llm-experience route IDs must match route seed")
+    llm_surfaces = llm_experience.get("public_surfaces", {})
+    if llm_surfaces.get("volume_i", {}).get("surface") != "ph-civ":
+        errors.append("llm-experience volume_i must use ph-civ")
+    if llm_surfaces.get("volume_ii", {}).get("surface") != "ph-apo":
+        errors.append("llm-experience volume_ii must use ph-apo")
+    if llm_surfaces.get("museum", {}).get("surface") != "ph-mus":
+        errors.append("llm-experience museum must use ph-mus")
+    if llm_surfaces.get("museum", {}).get("not_a_volume") is not True:
+        errors.append("llm-experience must mark ph-mus as not a volume")
+    guardrails = "\n".join(llm_experience.get("guardrails", []))
+    for marker in [
+        "Homer to Tolstoy",
+        "Anna Karenina coda",
+        "ph-mus is not a third volume",
+    ]:
+        if marker not in guardrails:
+            errors.append(f"llm-experience missing guardrail: {marker}")
     museum_ids = [exhibit.get("source_id") for exhibit in load_museum_index()]
     if set(museum_ids) != set(seed_route_ids):
         errors.append("museum index must contain the same route IDs as the seed")
@@ -759,6 +787,28 @@ def cmd_growth(args) -> int:
     return 0
 
 
+def cmd_start(args) -> int:
+    experience = load_llm_experience()
+    if args.json:
+        return emit_json(experience)
+    print("ph-civ: LLM-native two-volume Predictive History bootloader")
+    print(f"github_url: {experience['github_url']}")
+    print(f"start_here: {experience['start_here']}")
+    print(f"primary_artifact: {experience['primary_artifact']}")
+    print("surfaces:")
+    for key, surface in experience["public_surfaces"].items():
+        print(f"- {key}: {surface['surface']} - {surface['role']}")
+    print("first_seed:")
+    print(f"- {experience['first_seed']['seed_id']}: {', '.join(experience['first_seed']['route_ids'])}")
+    print("modes:")
+    for mode in experience["modes"]:
+        print(f"- {mode['mode']}: {mode['instruction']}")
+    print("guardrails:")
+    for guardrail in experience["guardrails"]:
+        print(f"- {guardrail}")
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="ph-civ", description="Provider-neutral Predictive History study cards and prompts.")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -830,6 +880,10 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("status", help="Show the current public surface status.")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_status)
+
+    p = sub.add_parser("start", help="Show the LLM-native start-here bootloader.")
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_start)
 
     p = sub.add_parser("volumes", help="Show the two-volume ph-civ architecture.")
     p.add_argument("--json", action="store_true")

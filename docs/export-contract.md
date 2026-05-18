@@ -5,6 +5,7 @@ Legacy import provenance: `rbtkhn/ph-workshop` snapshot `56a4a08`.
 Public artifact:
 
 - `ph-civ` repo: the two-volume public ph-civ artifact.
+- `START-HERE.md` and `data/llm-experience.json`: provider-neutral bootloader surfaces for users who paste the GitHub URL into any LLM chat.
 
 Public namespaces:
 
@@ -23,6 +24,7 @@ Exported:
 - Provider-neutral prompt templates.
 - Predictive History Museum schemas and contribution instructions.
 - Public museum exhibit manifests when reviewed for publication.
+- The LLM-native unfolding map that points to public routes, cards, patterns, prompts, transcripts, commentaries, and museum boundaries.
 
 Not exported:
 

@@ -38,6 +38,7 @@ If a task asks for material outside the public dataset, say that this repo does 
 - Treat prompt and spark commands as provider-neutral templates; this repo does not call AI providers.
 - Use stable IDs such as `civ-07`, `gt-16`, and `civ-heroic-memory` for bridge references.
 - Preserve the Homer-to-Tolstoy invariant: it is the Volume I literary spine with cross-volume routing exposure, not a side corridor.
+- If a user pastes the GitHub URL into an LLM chat, start with `START-HERE.md` and `data/llm-experience.json` so the experience unfolds from public files without private context.
 - Keep `ph-civ` usable by students, researchers, and downstream AI systems without requiring live access to `ph-workshop` or private strategy workspaces.
 - Treat public reach goals as strategic ambitions, not directly executable agent completions. Translate goals such as one million views into verifiable machinery: public surface quality, shareable routes, publishing cadence, analytics definitions, distribution assets, and human-approved launch steps. Use `data/growth-goals.json` and `ph-civ growth` as the canonical guardrail.
 
@@ -53,12 +54,13 @@ If the operator says `coffee` at the start of a chat, do not give a generic coff
 
 ## Start Here
 
-Read `llms.txt`, then `README.md`, then `docs/public-repo-contract.md` and `docs/export-contract.md`.
+Read `START-HERE.md`, then `llms.txt`, then `README.md`, then `docs/public-repo-contract.md` and `docs/export-contract.md`.
 
 Useful checks:
 
 ```powershell
 python -m pytest
 PYTHONPATH=src python -m civ_ph.cli validate
+PYTHONPATH=src python -m civ_ph.cli start --json
 PYTHONPATH=src python -m civ_ph.cli growth
 ```
