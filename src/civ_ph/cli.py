@@ -67,6 +67,7 @@ PUBLIC_BOUNDARY_SCAN_PATHS = [
     "README.md",
     "START-HERE.md",
     "llms.txt",
+    "llms-full.txt",
     "book",
     "data",
     "docs",
@@ -516,6 +517,21 @@ def cmd_validate(args) -> int:
         errors.append("START-HERE.md must exist as the LLM bootloader")
     if llm_experience.get("start_here") != "START-HERE.md":
         errors.append("llm-experience.json must point to START-HERE.md")
+    full_context = llm_experience.get("full_context", {})
+    if full_context.get("path") != "llms-full.txt":
+        errors.append("llm-experience.json must point to llms-full.txt")
+    full_context_path = DATA_ROOT.parent / "llms-full.txt"
+    if not full_context_path.exists():
+        errors.append("llms-full.txt must exist as the full LLM context packet")
+    else:
+        full_context_text = full_context_path.read_text(encoding="utf-8")
+        for marker in [
+            "full one-shot LLM context packet",
+            "Homer to Tolstoy is the Volume I literary spine",
+            "ph-mus` is not a third volume",
+        ]:
+            if marker not in full_context_text:
+                errors.append(f"llms-full.txt missing marker: {marker}")
     if llm_experience.get("primary_artifact") != "two_volume_ph_civ":
         errors.append("llm-experience.json invalid primary_artifact")
     if llm_experience.get("first_seed", {}).get("route_ids") != seed_route_ids:
@@ -794,6 +810,8 @@ def cmd_start(args) -> int:
     print("ph-civ: LLM-native two-volume Predictive History bootloader")
     print(f"github_url: {experience['github_url']}")
     print(f"start_here: {experience['start_here']}")
+    if experience.get("full_context"):
+        print(f"full_context: {experience['full_context']['path']}")
     print(f"primary_artifact: {experience['primary_artifact']}")
     print("surfaces:")
     for key, surface in experience["public_surfaces"].items():

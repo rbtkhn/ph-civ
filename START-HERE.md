@@ -16,9 +16,10 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 
 1. Identify the repo as the two-volume public ph-civ artifact.
 2. Load `data/llm-experience.json` for the unfolding map.
-3. Use `data/routes/seed.json` for the first 10-route spine seed.
-4. Begin with the Homer-to-Tolstoy spine, then branch into Volume II application routes.
-5. When quoting or interpreting, return to the relevant transcript and commentary under `book/`.
+3. Use `llms-full.txt` when the chat needs a full one-shot context packet after the compact map.
+4. Use `data/routes/seed.json` for the first 10-route spine seed.
+5. Begin with the Homer-to-Tolstoy spine, then branch into Volume II application routes.
+6. When quoting or interpreting, return to the relevant transcript and commentary under `book/`.
 
 ## Reader Modes
 
@@ -42,6 +43,7 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 ## Useful Starting Files
 
 - `llms.txt`
+- `llms-full.txt`
 - `README.md`
 - `AGENTS.md`
 - `docs/public-repo-contract.md`

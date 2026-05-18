@@ -1,6 +1,6 @@
 # Predictive History Public Repository
 
-For AI agents and new chats: start with `START-HERE.md`, then `AGENTS.md` and `llms.txt`. If a user pastes `https://github.com/rbtkhn/ph-civ` into an LLM chat, use `START-HERE.md` and `data/llm-experience.json` as the unfolding map. This repo is the public Predictive History distribution layer, not the private editorial workshop.
+For AI agents and new chats: start with `START-HERE.md`, then `AGENTS.md` and `llms.txt`. If a user pastes `https://github.com/rbtkhn/ph-civ` into an LLM chat, use `START-HERE.md`, `data/llm-experience.json`, and `llms-full.txt` as the unfolding map and one-shot context packet. This repo is the public Predictive History distribution layer, not the private editorial workshop.
 
 This repository is the public-facing home for the two-volume ph-civ artifact. It contains three related Predictive History surfaces:
 

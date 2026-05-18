@@ -44,6 +44,7 @@ Excluded:
 
 - If this repository URL was pasted into an LLM chat, start with `START-HERE.md`.
 - Use `data/llm-experience.json` as the provider-neutral unfolding map for first-tour, study, seminar, commentary, pattern bridge, museum, and bounded-application modes.
+- Use `llms-full.txt` when the LLM needs a complete one-shot context packet after the compact map.
 - Then read `AGENTS.md` and `README.md`.
 - If the operator says `coffee`, open the `ph-civ` repo state; do not give a generic coffee greeting.
 - Use `docs/public-repo-contract.md` for repository role and boundaries.
