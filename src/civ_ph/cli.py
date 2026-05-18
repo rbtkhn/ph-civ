@@ -18,6 +18,7 @@ from .data import (
     load_growth_goals,
     load_museum_index,
     load_patterns,
+    load_route_seed,
     load_spine,
     load_surfaces,
     pattern_markdown,
@@ -94,6 +95,8 @@ PUBLIC_BOUNDARY_FORBIDDEN_MARKERS = [
     "C:\\",
     "C:/",
 ]
+
+ALLOWED_ROUTE_TYPES = {"spine", "paired_close_reading", "application", "coda"}
 
 
 def card_surface(card: dict) -> str:
@@ -202,6 +205,8 @@ def route_public_payload(route: dict) -> dict:
         "series": card["series"],
         "conceptual_volumes": conceptual_volume_ids(card),
         "bridge_role": conceptual_bridge_role(card),
+        "route_type": route["route_type"],
+        "caveat": route.get("caveat", ""),
         "what_changes_here": route["what_changes_here"],
         "card": {
             "path": route["card_path"],
@@ -277,14 +282,21 @@ def cmd_route(args) -> int:
         return 2
 
     scope = getattr(args, "surface_scope", None)
-    if scope in {"ph-civ", "ph-apo"} and route["surface"] != scope:
+    if (
+        scope in {"ph-civ", "ph-apo"}
+        and route["surface"] != scope
+        and not (scope == "ph-civ" and route["source_id"] in bridge_support_ids())
+    ):
         print(f"{args.source_id} is routed through {route['surface']}, not {scope}", file=sys.stderr)
         return 2
     payload = route_public_payload(route)
     if args.json:
         return emit_json(payload)
     print(f"{payload['source_id']}\t{payload['surface']}\t{payload['title']}")
+    print(f"route_type: {payload['route_type']}")
     print(f"museum: {payload['museum']['status']}\t{payload['museum']['exhibit_path']}")
+    if payload.get("caveat"):
+        print(f"caveat: {payload['caveat']}")
     print(f"what changes here: {payload['what_changes_here']}")
     return 0
 
@@ -478,6 +490,39 @@ def cmd_validate(args) -> int:
         source_repo = metadata.get("source_snapshot", {}).get("repo")
         if source_repo != EXPECTED_SOURCE_REPO:
             errors.append(f"{metadata_path.relative_to(DATA_ROOT)} invalid source repo: {source_repo}")
+    choreography = load_choreography()
+    route_ids = [route.get("source_id") for route in choreography]
+    if len(choreography) != 10:
+        errors.append(f"choreography route count must be 10: {len(choreography)}")
+    if len(set(route_ids)) != len(route_ids):
+        errors.append("choreography route IDs must be unique")
+    for route in choreography:
+        source_id = route.get("source_id")
+        route_type = route.get("route_type")
+        if route_type not in ALLOWED_ROUTE_TYPES:
+            errors.append(f"{source_id} invalid route_type: {route_type}")
+        if not route.get("caveat"):
+            errors.append(f"{source_id} missing route caveat")
+    route_seed = load_route_seed()
+    seed_route_ids = route_seed.get("route_ids", [])
+    if route_seed.get("seed_id") != "ten_route_spine_seed":
+        errors.append("route seed must be ten_route_spine_seed")
+    if seed_route_ids != route_ids:
+        errors.append("route seed IDs must match choreography route IDs in order")
+    museum_ids = [exhibit.get("source_id") for exhibit in load_museum_index()]
+    if set(museum_ids) != set(seed_route_ids):
+        errors.append("museum index must contain the same route IDs as the seed")
+    sh16_route = next((route for route in choreography if route.get("source_id") == "sh-16"), None)
+    if not sh16_route:
+        errors.append("choreography must include sh-16")
+    else:
+        if sh16_route.get("surface") != "ph-apo":
+            errors.append("sh-16 route must remain on ph-apo")
+        if sh16_route.get("route_type") != "coda":
+            errors.append("sh-16 route must use coda route_type")
+        caveat = sh16_route.get("caveat", "")
+        if "Anna Karenina coda" not in caveat or "not a dedicated Tolstoy lecture" not in caveat:
+            errors.append("sh-16 route must preserve the Tolstoy caveat")
     architecture = load_course_architecture()
     if architecture.get("repo_identity") != "ph-civ":
         errors.append("surfaces.json invalid repo_identity")

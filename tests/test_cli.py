@@ -2,7 +2,15 @@ import json
 from pathlib import Path
 
 from civ_ph.cli import main
-from civ_ph.data import load_cards, load_course_architecture, load_growth_goals, load_spine
+from civ_ph.data import (
+    load_cards,
+    load_choreography,
+    load_course_architecture,
+    load_growth_goals,
+    load_museum_index,
+    load_route_seed,
+    load_spine,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -204,10 +212,57 @@ def test_surface_scoped_commands(capsys):
 def test_public_routes(capsys):
     from civ_ph.cli import apo_main, mus_main
     assert main(["route", "civ-07", "--json"]) == 0
-    out = capsys.readouterr().out
-    assert "\"museum\"" in out
-    assert "corpus/media-packs/civ-07.md" in out
+    payload = json.loads(capsys.readouterr().out)
+    assert payload["route_type"] == "spine"
+    assert "literature alone drives history" in payload["caveat"]
+    assert payload["museum"]["exhibit_path"] == "corpus/media-packs/civ-07.md"
+    assert main(["route", "civ-17", "--json"]) == 0
+    payload = json.loads(capsys.readouterr().out)
+    assert payload["route_type"] == "spine"
+    assert "Virgil and Rome" in payload["what_changes_here"]
     assert apo_main(["route", "gt-16", "--json"]) == 0
-    assert "corpus/media-packs/gt-16.md" in capsys.readouterr().out
+    payload = json.loads(capsys.readouterr().out)
+    assert payload["route_type"] == "application"
+    assert payload["museum"]["exhibit_path"] == "corpus/media-packs/gt-16.md"
+    assert main(["route", "sh-16", "--json"]) == 0
+    payload = json.loads(capsys.readouterr().out)
+    assert payload["surface"] == "ph-apo"
+    assert payload["route_type"] == "coda"
+    assert "Anna Karenina coda" in payload["caveat"]
+    assert "not a dedicated Tolstoy lecture" in payload["caveat"]
+    assert apo_main(["route", "sh-16", "--json"]) == 0
+    assert json.loads(capsys.readouterr().out)["route_type"] == "coda"
     assert mus_main(["route", "civ-07", "--json"]) == 0
-    assert "corpus/media-packs/civ-07.md" in capsys.readouterr().out
+    assert json.loads(capsys.readouterr().out)["museum"]["exhibit_path"] == "corpus/media-packs/civ-07.md"
+
+
+def test_ten_route_spine_seed_guardrails():
+    routes = load_choreography()
+    route_ids = [route["source_id"] for route in routes]
+    assert route_ids == [
+        "civ-07",
+        "civ-17",
+        "civ-29",
+        "civ-51",
+        "gb-02",
+        "gb-09",
+        "geo-14",
+        "gt-16",
+        "sh-16",
+        "sh-28",
+    ]
+    assert load_route_seed()["seed_id"] == "ten_route_spine_seed"
+    assert load_route_seed()["route_ids"] == route_ids
+    assert set(route_ids) == {exhibit["source_id"] for exhibit in load_museum_index()}
+    route_types = {route["source_id"]: route["route_type"] for route in routes}
+    assert route_types["civ-17"] == "spine"
+    assert route_types["gb-02"] == "paired_close_reading"
+    assert route_types["gb-09"] == "paired_close_reading"
+    assert route_types["geo-14"] == "application"
+    assert route_types["gt-16"] == "application"
+    assert route_types["sh-28"] == "application"
+    assert route_types["sh-16"] == "coda"
+    sh16 = next(route for route in routes if route["source_id"] == "sh-16")
+    assert sh16["surface"] == "ph-apo"
+    assert "Anna Karenina coda" in sh16["caveat"]
+    assert "not a dedicated Tolstoy lecture" in sh16["caveat"]

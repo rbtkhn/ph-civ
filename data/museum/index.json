@@ -11,6 +11,15 @@
       "museum_exhibit_path": "corpus/media-packs/civ-07.md"
     },
     {
+      "source_id": "civ-17",
+      "surface": "ph-civ",
+      "title": "Civilization #17: Homer, Virgil, and the War for the Soul of Rome",
+      "part": "civilization",
+      "museum_status": "curated_draft",
+      "item_count": 5,
+      "museum_exhibit_path": "corpus/media-packs/civ-17.md"
+    },
+    {
       "source_id": "civ-29",
       "surface": "ph-civ",
       "title": "Civilization #29: Dante's Divine Comedy and the Liberation of the Human Imagination",
@@ -63,6 +72,15 @@
       "museum_status": "curated_draft",
       "item_count": 5,
       "museum_exhibit_path": "corpus/media-packs/gt-16.md"
+    },
+    {
+      "source_id": "sh-16",
+      "surface": "ph-apo",
+      "title": "Secret History #16: The Big Bang of Greek Civilization",
+      "part": "world-war",
+      "museum_status": "curated_draft",
+      "item_count": 5,
+      "museum_exhibit_path": "corpus/media-packs/sh-16.md"
     },
     {
       "source_id": "sh-28",
