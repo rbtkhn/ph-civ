@@ -27,7 +27,7 @@ Exported:
 Not exported:
 
 - Private notes.
-- Strategy-Codex transfer paths.
+- Private transfer paths.
 - Raw media binaries.
 - Claims of final scholarly review.
 - Private museum vault files.

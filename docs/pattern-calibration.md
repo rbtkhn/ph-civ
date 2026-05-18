@@ -15,7 +15,7 @@ Each pattern must have:
 - `limits`
 - `public_status`
 
-`source_ids` must point to existing public cards and chapter bodies. Pattern records should summarize and cite; they must not duplicate long transcript passages, private notes, strategy-codex paths, hidden bibliography claims, or live current-event assertions.
+`source_ids` must point to existing public cards and chapter bodies. Pattern records should summarize and cite; they must not duplicate long transcript passages, private notes, private workspace paths, hidden bibliography claims, or live current-event assertions.
 
 ## Status Values
 

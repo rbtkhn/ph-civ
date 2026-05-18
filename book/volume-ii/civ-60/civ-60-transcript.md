@@ -14,17 +14,16 @@ transcript_status: curated_transcript_pending_rights_review
 annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-05-13
-exported_from_strategy_codex_at: 2026-05-13
+public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 transcript_fidelity: exact_body_match
 corpus_path: ../../../corpus/civilization/civ-60.md
 commentary_path: ./civ-60-commentary.md
-strategy_codex_lecture_path: ../../../../strategy-codex/codex/predictive-history/lectures/civilization-60-the-decline-and-fall-of-the-american-empire.md
 ---
 # Part I - Civilization #60: The Decline and Fall of the American Empire
 
-Part I contains the full lecture transcript imported from the strategy-codex transfer surface. Part II is kept in the companion commentary file and is in review after initial analysis.
+Part I contains the full lecture transcript imported from the public import snapshot. Part II is kept in the companion commentary file and is in review after initial analysis.
 ## Part I: Full transcript
 
 Okay, welcome to the very last class, the grand finale. Today we do the American Empire. July 1944, this is the Brenon Woods Hotel in New Hampshire. 40 nations get together and they discuss what the post-war peace will look like. Um, everyone knows that Nazi Germany will eventually be defeated as well as Japan.

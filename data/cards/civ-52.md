@@ -26,7 +26,7 @@ Read it as a strong, high-risk capstone. The chapter is most useful when its Ame
 
 ## Limits of the Frame
 
-This entry is in review after initial commentary analysis. The placement is strong, but American exceptionalism, anti-civilization framing, Native genocide, Civil War causation, slavery/state-rights claims, democratic empire, and modern political analogy require especially explicit external review. The operator-supplied transcript body remains the transfer-authority text.
+This entry is in review after initial commentary analysis. The placement is strong, but American exceptionalism, anti-civilization framing, Native genocide, Civil War causation, slavery/state-rights claims, democratic empire, and modern political analogy require especially explicit external review. The public transcript body remains the fidelity authority text.
 
 ## Return Path
 

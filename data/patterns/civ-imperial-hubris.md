@@ -15,7 +15,7 @@ An empire can mistake its inherited reach for permanent capacity, overreading co
 
 ## Strategy Use
 
-Use when strategy-codex needs a public frame for overextension, failed coercion, reputation loss, or mismatch between imperial narrative and material capacity.
+Use when downstream strategy analysis needs a public frame for overextension, failed coercion, reputation loss, or mismatch between imperial narrative and material capacity.
 
 ## Source Cards
 

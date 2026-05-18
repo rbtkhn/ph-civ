@@ -5,10 +5,9 @@ source_series: "Secret History"
 publication_date: 2025-09-05
 source_url: "https://www.youtube.com/watch?v=EgGfQdv_rPc"
 video_id: "EgGfQdv_rPc"
-transfer_lecture_path: "lectures/secret-history-05-the-birth-of-evil.md"
 transcript_status: curated_transcript_pending_rights_review
 transcript_fidelity: exact_body_match
-transcript_source: strategy_codex_transfer
+transcript_source: public_import_snapshot
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 review_status: source_reviewed

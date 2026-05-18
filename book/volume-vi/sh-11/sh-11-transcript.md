@@ -5,10 +5,9 @@ source_series: "Secret History"
 publication_date: 2025-10-21
 source_url: "https://www.youtube.com/watch?v=LvHsg5qtDs8"
 video_id: "LvHsg5qtDs8"
-transfer_lecture_path: "lectures/secret-history-11-dawn-of-the-human-imagination.md"
 transcript_status: curated_transcript_pending_rights_review
 transcript_fidelity: exact_body_match
-transcript_source: strategy_codex_transfer
+transcript_source: public_import_snapshot
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 review_status: source_reviewed

@@ -22,7 +22,7 @@ transcript_fidelity: exact_body_match
 annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-05-13
-exported_from_strategy_codex_at: 2026-05-13
+public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open

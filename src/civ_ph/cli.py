@@ -59,6 +59,41 @@ COMMENTARY_CANVAS_HEADINGS = [
     "### Build Notes / Future Enhancements",
 ]
 
+PUBLIC_BOUNDARY_SCAN_PATHS = [
+    "AGENTS.md",
+    "README.md",
+    "llms.txt",
+    "book",
+    "data",
+    "docs",
+    "ph-civ",
+    "ph-apo",
+    "ph-mus",
+    "prompts",
+    "schemas",
+]
+
+PUBLIC_BOUNDARY_SCAN_EXCLUDES = {
+    "docs/strategy-codex-bridge.md",
+}
+
+PUBLIC_BOUNDARY_FORBIDDEN_MARKERS = [
+    "strategy_codex",
+    "strategy-codex",
+    "Strategy-Codex",
+    "transfer_lecture_path",
+    "strategy_codex_lecture_path",
+    "strategy_codex_analysis_path",
+    "strategy_codex_evidence_pack_path",
+    "exported_from_strategy_codex_at",
+    "raw-input",
+    "recursion-gate",
+    "self-memory",
+    "session-log",
+    "C:\\",
+    "C:/",
+]
+
 
 def card_surface(card: dict) -> str:
     return "ph-civ" if card["part"] == "civilization" else "ph-apo"
@@ -117,6 +152,31 @@ def validate_commentary_canvas(source_id: str, commentary_path) -> list[str]:
     for heading in COMMENTARY_CANVAS_HEADINGS:
         if heading not in text:
             errors.append(f"{source_id} missing commentary canvas heading: {heading}")
+    return errors
+
+
+def validate_public_boundary() -> list[str]:
+    root = DATA_ROOT.parent
+    errors: list[str] = []
+    for relative_root in PUBLIC_BOUNDARY_SCAN_PATHS:
+        scan_root = root / relative_root
+        if not scan_root.exists():
+            continue
+        paths = [scan_root] if scan_root.is_file() else scan_root.rglob("*")
+        for path in paths:
+            if not path.is_file():
+                continue
+            relative_path = path.relative_to(root).as_posix()
+            if relative_path in PUBLIC_BOUNDARY_SCAN_EXCLUDES:
+                continue
+            if path.suffix not in {".json", ".jsonl", ".md", ".py", ".txt", ".yaml", ".yml"}:
+                continue
+            text = path.read_text(encoding="utf-8")
+            for marker in PUBLIC_BOUNDARY_FORBIDDEN_MARKERS:
+                if marker in text:
+                    errors.append(
+                        f"public boundary leak: {relative_path} contains {marker}"
+                    )
     return errors
 
 
@@ -430,6 +490,7 @@ def cmd_validate(args) -> int:
     if architecture.get("bridge_support_nodes") != ["sh-11", "sh-16", "sh-17", "sh-18"]:
         errors.append("bridge_support_nodes invariant changed")
     errors.extend(validate_patterns(load_patterns(), cards))
+    errors.extend(validate_public_boundary())
     series = Counter(card["series"] for card in cards)
     result = {"status": "valid" if not errors else "invalid", "card_count": len(cards), "series_counts": dict(sorted(series.items())), "errors": errors}
     if args.json:
@@ -616,7 +677,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_route)
 
-    p = sub.add_parser("patterns", help="List strategy-codex-facing public pattern IDs.")
+    p = sub.add_parser("patterns", help="List downstream strategy-facing public pattern IDs.")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_patterns)
 

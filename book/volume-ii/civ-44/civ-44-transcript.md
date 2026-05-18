@@ -1,4 +1,4 @@
-﻿---
+---
 source_id: civ-44
 public_slug: civ-44-the-spanish-conquest-of-the-new-world
 title: "Civilization #44: The Spanish Conquest of the New World"
@@ -14,18 +14,17 @@ transcript_status: curated_transcript_pending_rights_review
 annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-05-13
-exported_from_strategy_codex_at: 2026-05-13
+public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 transcript_fidelity: exact_body_match
 corpus_path: ../../../corpus/civilization/civ-44.md
 commentary_path: ./civ-44-commentary.md
-strategy_codex_lecture_path: ../../../../strategy-codex/codex/predictive-history/lectures/civilization-44-the-spanish-conquest-of-the-new-world.md
 ---
 
 # Part I - Civilization #44: The Spanish Conquest of the New World
 
-Part I contains the full lecture transcript imported from the strategy-codex transfer surface. Part II is kept in the companion commentary file and is in review after initial analysis.
+Part I contains the full lecture transcript imported from the public import snapshot. Part II is kept in the companion commentary file and is in review after initial analysis.
 
 ## Part I: Full transcript
 

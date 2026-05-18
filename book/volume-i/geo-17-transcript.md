@@ -5,10 +5,9 @@ source_series: "Geo-Strategy"
 publication_date: 2025-07-11
 source_url: "https://www.youtube.com/watch?v=5I2VPYPJJ68"
 video_id: "5I2VPYPJJ68"
-transfer_lecture_path: "lectures/geo-strategy-17-the-universal-law-of-game-theory.md"
 transcript_status: curated_transcript_pending_rights_review
 transcript_fidelity: exact_body_match
-transcript_source: strategy_codex_transfer
+transcript_source: public_import_snapshot
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 review_status: source_reviewed

@@ -24,11 +24,9 @@ transcript_fidelity: exact_body_match
 annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-05-14
-exported_from_strategy_codex_at: 2026-05-14
+public_imported_at: 2026-05-14
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
-strategy_codex_analysis_path: ../../../strategy-codex/codex/predictive-history/analysis/Ft2CuowGuYc-great-books-02-analysis.md
-strategy_codex_evidence_pack_path: ../../../strategy-codex/codex/predictive-history/evidence-packs/gb-ch02.md
 canvas_status: open
 analysis_depth: seed
 scaffold_version: ph_civ_commentary_canvas_v1
@@ -41,14 +39,14 @@ The source transcript is gb-02-transcript.md. This commentary uses a Great Books
 
 - Core thesis: This lecture moves from the course frame into Homer as the invention of a human world in which heroic action, mortality, speech, and memory become readable as literature.
 - Reading problem: Read it as a literary-origin chapter that turns the canon from an abstract promise into a concrete encounter with Homeric humanity.
-- Transfer analysis summary: The transfer analysis and evidence pack place this chapter around Homer, epic origin, heroic humanity, mortality, oral memory, speech, action, and the literary invention of the human.
+- Public scaffold summary: The public scaffold places this chapter around Homer, epic origin, heroic humanity, mortality, oral memory, speech, action, and the literary invention of the human.
 - Completeness state: in-review
 
 ## Neutral Lecture Summary
 
 The lecture is treated here as a Great Books source unit whose first task is to place students before a text, problem, or reading posture. For this chapter, the working focus is Homer, epic origin, heroic humanity, mortality, oral memory, speech, action, and the literary invention of the human.
 
-The transfer lecture and analysis identify this as part of Volume V's classroom sequence. This commentary preserves the chapter's claims as represented claims, then marks the interpretive and evidentiary limits that need later review.
+The public transcript and commentary scaffold identify this as part of Volume V's classroom sequence. This commentary preserves the chapter's claims as represented claims, then marks the interpretive and evidentiary limits that need later review.
 
 ## Key Terms, Texts, and Interpretive Claims
 
@@ -61,7 +59,7 @@ The transfer lecture and analysis identify this as part of Volume V's classroom 
 - **oral memory:** Requires final close-reading definition against the transcript and relevant primary texts.
 - **human interiority:** Requires final close-reading definition against the transcript and relevant primary texts.
 
-### Transfer-Backed Claims
+### Public Scaffold Claims
 
 1. The lecture uses Homer as a key entry point into the Great Books course.
 2. The chapter frames Homer, epic origin, heroic humanity, mortality, oral memory, speech, action, and the literary invention of the human as a reading problem rather than as mere topic coverage.
@@ -70,9 +68,7 @@ The transfer lecture and analysis identify this as part of Volume V's classroom 
 
 ## Passage / Argument Anchors
 
-- Transcript authority: gb-02-transcript.md contains the transferred `## Full transcript` body from strategy-codex.
-- Transfer analysis authority: `analysis/Ft2CuowGuYc-great-books-02-analysis.md` provides the first-pass analysis used to shape this in-review commentary.
-- Evidence-pack authority: `evidence-packs/gb-ch02.md` provides the book-track source and claim routing for `gb-ch02`.
+- Transcript authority: gb-02-transcript.md contains the public `## Full transcript` body from the import snapshot.
 - Rights guardrail: avoid long quotation until source-text rights review is complete.
 
 ## Counter-Readings & Limits

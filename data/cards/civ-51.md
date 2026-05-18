@@ -26,7 +26,7 @@ Read it as a strong but high-risk cultural chapter. Its central value is the cla
 
 ## Limits of the Frame
 
-This entry is in review after initial commentary analysis. The placement is strong, but Shakespeare-as-founder claims, neuroscience-style language, imperial soft-power claims, race and Othello readings, cultural superiority language, and modern civilizational ranking must remain bounded. The operator-supplied transcript body remains the transfer-authority text.
+This entry is in review after initial commentary analysis. The placement is strong, but Shakespeare-as-founder claims, neuroscience-style language, imperial soft-power claims, race and Othello readings, cultural superiority language, and modern civilizational ranking must remain bounded. The public transcript body remains the fidelity authority text.
 
 ## Return Path
 

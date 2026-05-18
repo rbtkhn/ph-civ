@@ -34,7 +34,7 @@ Included:
 Excluded:
 
 - private notes
-- Strategy-Codex paths
+- private workspace paths
 - raw media binaries
 - private museum vault files
 - shared-cloud artifact archives
@@ -46,7 +46,7 @@ Excluded:
 - If the operator says `coffee`, open the `ph-civ` repo state; do not give a generic coffee greeting.
 - Use `docs/public-repo-contract.md` for repository role and boundaries.
 - Use `docs/export-contract.md` for export inclusion/exclusion rules.
-- Use `docs/strategy-codex-bridge.md` and `docs/pattern-calibration.md` for public pattern IDs and downstream bridge usage.
+- Use the public bridge and pattern calibration docs for public pattern IDs and downstream bridge usage.
 - Use `data/cards.jsonl`, `data/patterns.json`, and `data/routes/choreography.json` as public data sources.
 - Do not answer as if this repo owns live workshop editorial state.
 

@@ -14,7 +14,7 @@ A social order becomes brittle when status, offices, and elite pathways cannot a
 
 ## Strategy Use
 
-Use when strategy-codex needs a public frame for status blockage, factional rivalry, or institutional crowding without treating any current case as a direct Bronze Age replay.
+Use when downstream strategy analysis needs a public frame for status blockage, factional rivalry, or institutional crowding without treating any current case as a direct Bronze Age replay.
 
 ## Source Cards
 

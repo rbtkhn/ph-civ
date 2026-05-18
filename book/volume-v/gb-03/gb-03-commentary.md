@@ -24,11 +24,9 @@ transcript_fidelity: exact_body_match
 annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-05-14
-exported_from_strategy_codex_at: 2026-05-14
+public_imported_at: 2026-05-14
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
-strategy_codex_analysis_path: ../../../strategy-codex/codex/predictive-history/analysis/XRP407WsA0w-great-books-03-analysis.md
-strategy_codex_evidence_pack_path: ../../../strategy-codex/codex/predictive-history/evidence-packs/gb-ch03.md
 canvas_status: open
 analysis_depth: seed
 scaffold_version: ph_civ_commentary_canvas_v1
@@ -41,14 +39,14 @@ The source transcript is gb-03-transcript.md. This commentary uses a Great Books
 
 - Core thesis: This lecture places poets and prophets together as rival and overlapping voices that disclose worlds, found communities, and give language to invisible or sacred experience.
 - Reading problem: Read it as a comparison of literary and prophetic imagination, with the emphasis on how language creates public meaning.
-- Transfer analysis summary: The transfer analysis and evidence pack place this chapter around poets, prophets, sacred speech, literary authority, communal memory, religion, and world-making language.
+- Public scaffold summary: The public scaffold places this chapter around poets, prophets, sacred speech, literary authority, communal memory, religion, and world-making language.
 - Completeness state: in-review
 
 ## Neutral Lecture Summary
 
 The lecture is treated here as a Great Books source unit whose first task is to place students before a text, problem, or reading posture. For this chapter, the working focus is poets, prophets, sacred speech, literary authority, communal memory, religion, and world-making language.
 
-The transfer lecture and analysis identify this as part of Volume V's classroom sequence. This commentary preserves the chapter's claims as represented claims, then marks the interpretive and evidentiary limits that need later review.
+The public transcript and commentary scaffold identify this as part of Volume V's classroom sequence. This commentary preserves the chapter's claims as represented claims, then marks the interpretive and evidentiary limits that need later review.
 
 ## Key Terms, Texts, and Interpretive Claims
 
@@ -61,7 +59,7 @@ The transfer lecture and analysis identify this as part of Volume V's classroom 
 - **canon:** Requires final close-reading definition against the transcript and relevant primary texts.
 - **authority:** Requires final close-reading definition against the transcript and relevant primary texts.
 
-### Transfer-Backed Claims
+### Public Scaffold Claims
 
 1. The lecture uses poet as a key entry point into the Great Books course.
 2. The chapter frames poets, prophets, sacred speech, literary authority, communal memory, religion, and world-making language as a reading problem rather than as mere topic coverage.
@@ -70,9 +68,7 @@ The transfer lecture and analysis identify this as part of Volume V's classroom 
 
 ## Passage / Argument Anchors
 
-- Transcript authority: gb-03-transcript.md contains the transferred `## Full transcript` body from strategy-codex.
-- Transfer analysis authority: `analysis/XRP407WsA0w-great-books-03-analysis.md` provides the first-pass analysis used to shape this in-review commentary.
-- Evidence-pack authority: `evidence-packs/gb-ch03.md` provides the book-track source and claim routing for `gb-ch03`.
+- Transcript authority: gb-03-transcript.md contains the public `## Full transcript` body from the import snapshot.
 - Rights guardrail: avoid long quotation until source-text rights review is complete.
 
 ## Counter-Readings & Limits

@@ -1,4 +1,4 @@
-﻿---
+---
 source_id: civ-01
 public_slug: civ-01-explaining-humanitys-transition-to-agriculture
 title: "Civilization #1: Explaining Humanity's Transition to Agriculture"
@@ -14,7 +14,7 @@ transcript_status: curated_transcript_pending_rights_review
 annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-05-13
-exported_from_strategy_codex_at: 2026-05-13
+public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 transcript_fidelity: exact_body_match

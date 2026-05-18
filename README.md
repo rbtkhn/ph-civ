@@ -29,13 +29,13 @@ It should not become the large-media vault. Museum artifacts must be stored in a
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, and Secret History.
 - The Homer-to-Tolstoy literary spine as the Volume I literary spine with cross-volume routing exposure.
 - Provider-neutral prompt templates.
-- Eight public civilizational pattern IDs for strategy-codex-facing reference.
+- Eight public civilizational pattern IDs for downstream strategy-facing reference.
 - Public museum exhibit and artifact schemas.
 - Curator instructions for chapter-level exhibit assembly across both volumes.
 
 ## What Is Excluded
 
-- Private notes or Strategy-Codex paths.
+- Private notes or private workspace paths.
 - External-source bibliography claims beyond the orientation cards.
 - LLM provider integrations, API calls, or hidden model dependencies.
 - Large image, audio, video, document, or scan archives.
@@ -76,7 +76,7 @@ ph-mus status
 ph-mus route civ-07 --json
 ```
 
-All prompt and spark commands are template-only. They do not call an AI provider. Pattern commands expose public civilizational frames for citation by downstream work such as strategy-codex; they do not import live strategy workspace material. The older `civ-ph` command is kept as a compatibility alias for `ph-civ`.
+All prompt and spark commands are template-only. They do not call an AI provider. Pattern commands expose public civilizational frames for downstream strategy analysis; they do not import live strategy workspace material. The older `civ-ph` command is kept as a compatibility alias for `ph-civ`.
 
 ## Commentary Canvas
 

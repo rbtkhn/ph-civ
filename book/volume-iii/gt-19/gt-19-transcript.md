@@ -5,10 +5,9 @@ source_series: "Game Theory"
 publication_date: 2026-04-07
 source_url: "https://www.youtube.com/watch?v=0HYET47Cc-E"
 video_id: "0HYET47Cc-E"
-transfer_lecture_path: "lectures/game-theory-19-the-hollywood-pentagon-complex.md"
 transcript_status: curated_transcript_pending_rights_review
 transcript_fidelity: exact_body_match
-transcript_source: strategy_codex_transfer
+transcript_source: public_import_snapshot
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 review_status: source_reviewed

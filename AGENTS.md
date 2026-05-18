@@ -23,7 +23,7 @@ The active task in this repo is maintaining public, provider-neutral educational
 Do not import, invent, or paste:
 
 - private notes
-- Strategy-Codex workspace paths
+- private workspace paths
 - raw media binaries
 - private museum vault files
 - shared-cloud artifact archives
@@ -38,7 +38,7 @@ If a task asks for material outside the public dataset, say that this repo does 
 - Treat prompt and spark commands as provider-neutral templates; this repo does not call AI providers.
 - Use stable IDs such as `civ-07`, `gt-16`, and `civ-heroic-memory` for bridge references.
 - Preserve the Homer-to-Tolstoy invariant: it is the Volume I literary spine with cross-volume routing exposure, not a side corridor.
-- Keep `ph-civ` usable by students, researchers, and downstream AI systems without requiring live access to `ph-workshop` or `strategy-codex`.
+- Keep `ph-civ` usable by students, researchers, and downstream AI systems without requiring live access to `ph-workshop` or private strategy workspaces.
 
 ## Coffee / Opening
 
