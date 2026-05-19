@@ -77,6 +77,10 @@ def load_growth_goals() -> dict:
     return json.loads((DATA_ROOT / "growth-goals.json").read_text(encoding="utf-8"))
 
 
+def load_bilingual_loop() -> dict:
+    return json.loads((DATA_ROOT / "bilingual-loop.json").read_text(encoding="utf-8"))
+
+
 def load_llm_experience() -> dict:
     return json.loads((DATA_ROOT / "llm-experience.json").read_text(encoding="utf-8"))
 

@@ -14,6 +14,8 @@ It also contains the chapter body for each source item. In this repo, one chapte
 
 This package is independent educational infrastructure. It is not official course material, not endorsement, and not a substitute for the source lectures, transcripts, commentary, or external verification.
 
+The repo also carries a bilingual civilizational bridge ambition: English and Chinese readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through the same source-bounded route system. This is ambition metadata, not a Chinese translation launch; see `docs/bilingual-civilizational-bridge.md`.
+
 ## Repository Role
 
 This repo is the public distribution layer. It should contain public cards, public navigation, schemas, prompts, contribution instructions, generated manifests, and small text metadata.
@@ -65,6 +67,8 @@ ph-civ start
 ph-civ start --json
 ph-civ tour
 ph-civ tour --json
+ph-civ bilingual
+ph-civ bilingual --json
 ph-civ growth
 ph-civ volumes
 ph-civ volume volume-i --json

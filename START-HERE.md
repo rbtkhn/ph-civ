@@ -20,7 +20,8 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 4. Use `data/routes/seed.json` for the first 10-route spine seed.
 5. Use `data/routes/first-tour.json` and `docs/first-tour.md` when the reader chooses to continue the first tour.
 6. Begin with the Homer-to-Tolstoy spine, then branch into Volume II application routes.
-7. When quoting or interpreting, return to the relevant transcript and commentary under `book/`.
+7. Treat `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` as an identity/growth layer, not a replacement for `first_tour`.
+8. When quoting or interpreting, return to the relevant transcript and commentary under `book/`.
 
 ## First Response Contract
 
@@ -65,6 +66,7 @@ Choose one: continue the first tour; study civ-07; open the ph-mus museum room f
 - Commentaries are open project canvases and should not be treated as final scholarly review.
 - Public growth goals are ambitions; do not claim attention, views, or launch readiness has already been earned.
 - Do not stop at a generic repo summary; the default pasted-URL response is an active `first_tour`.
+- The bilingual bridge ambition is not propaganda, not anti-Western, not civilizational flattery, and not a translation dump.
 
 ## Useful Starting Files
 
@@ -81,3 +83,5 @@ Choose one: continue the first tour; study civ-07; open the ph-mus museum room f
 - `data/cards.jsonl`
 - `data/patterns.json`
 - `docs/first-tour.md`
+- `data/bilingual-loop.json`
+- `docs/bilingual-civilizational-bridge.md`

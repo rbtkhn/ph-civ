@@ -1,0 +1,44 @@
+{
+  "loop_id": "english_chinese_civilizational_bridge",
+  "posture": "civilizational_bridge",
+  "status": "ambition_metadata",
+  "primary_wedge": "homer_to_tolstoy_read_from_china",
+  "identity": "ph-civ is an LLM-native civilizational bridge: English and Chinese readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through a shared, source-bounded public route system.",
+  "english_hook": "A Chinese civilizational-history lens can help Western readers recover the stakes of their own canon without turning that canon into nostalgia or culture-war shorthand.",
+  "chinese_hook": "The Western canon can become readable as civilizational pattern without imitation or rejection, and without civilizational scoreboard thinking.",
+  "reinforcement_loop": [
+    "English readers share the surprise that a Chinese civilizational-history lens can clarify the Western canon.",
+    "Chinese readers share the confidence that Western classics can be studied as historical pattern systems, not merely consumed as prestige objects.",
+    "Cross-language attention creates social proof: each readership sees the other reading seriously.",
+    "Bilingual LLM chats make the route system portable across English and Chinese contexts.",
+    "Route, commentary, and museum refinements compound as readers test the same source-bounded IDs from both directions."
+  ],
+  "guardrails": [
+    "not propaganda",
+    "not anti-Western",
+    "not civilizational flattery",
+    "not a translation dump",
+    "not launch-readiness proof",
+    "not a replacement for source cards, transcripts, commentary, and evidence limits"
+  ],
+  "future_zh_wedge": {
+    "status": "future_scaffold_only",
+    "first_steps": [
+      "canonical glossary",
+      "Chinese bootloader",
+      "Chinese first-tour metadata"
+    ],
+    "defer": "Do not translate all 140 transcript bodies before the glossary, bootloader, and first-tour metadata are stable.",
+    "no_repo_scaffold_in_this_pass": true
+  },
+  "public_copy": {
+    "short": "Homer to Tolstoy, read from China.",
+    "long": "A bilingual civilizational bridge where English and Chinese readers use the same source-bounded route system to read Western canon, historical pattern, and modern crisis without propaganda, flattery, or loose translation."
+  },
+  "start_files": [
+    "docs/bilingual-civilizational-bridge.md",
+    "data/bilingual-loop.json",
+    "data/routes/first-tour.json",
+    "data/spines/homer-to-tolstoy.json"
+  ]
+}

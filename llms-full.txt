@@ -22,9 +22,10 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 2. Load `data/llm-experience.json` as the structured unfolding map.
 3. Use `data/routes/seed.json` for the first public 10-route seed.
 4. Use `data/routes/first-tour.json` and `docs/first-tour.md` when the reader chooses to continue the first tour.
-5. Use `data/routes/choreography.json` for route details, caveats, and museum pointers.
-6. Use `data/cards.jsonl` for public card metadata and source paths.
-7. Return to `book/` for the relevant transcript and commentary before making chapter-specific claims.
+5. Use `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` for the English-Chinese civilizational bridge ambition.
+6. Use `data/routes/choreography.json` for route details, caveats, and museum pointers.
+7. Use `data/cards.jsonl` for public card metadata and source paths.
+8. Return to `book/` for the relevant transcript and commentary before making chapter-specific claims.
 
 ## First Response Contract
 
@@ -73,6 +74,14 @@ This seed exposes the Homer-to-Tolstoy spine and a small set of Volume II applic
 - `museum_room`: design or review chapter exhibits through ph-mus schemas and manifest boundaries.
 - `bounded_application`: apply patterns to present-day questions only as orientation, not live operational analysis.
 
+## Bilingual Civilizational Bridge
+
+`ph-civ` also carries an ambition layer: English and Chinese readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through the same source-bounded route system.
+
+The first wedge is **Homer to Tolstoy, read from China.**
+
+This bridge is not a second default mode. The pasted-URL default remains `first_tour`. The bridge is a future-facing identity and growth layer for possible `ph-civ-zh` work.
+
 ## Guardrails
 
 - Homer to Tolstoy is the Volume I literary spine, not a side corridor.
@@ -83,6 +92,7 @@ This seed exposes the Homer-to-Tolstoy spine and a small set of Volume II applic
 - Commentaries are open project canvases and should not be treated as final scholarly review.
 - Public growth goals are ambitions. Do not claim views, attention, launch readiness, or public trust has already been earned.
 - Do not stop at a generic repo summary; the default pasted-URL response is an active `first_tour`.
+- The bilingual bridge ambition is not propaganda, not anti-Western, not civilizational flattery, and not a translation dump.
 
 ## Useful Files
 
@@ -101,6 +111,8 @@ This seed exposes the Homer-to-Tolstoy spine and a small set of Volume II applic
 - `data/cards.jsonl`: public card index.
 - `data/patterns.json`: public pattern IDs.
 - `docs/first-tour.md`: reader-facing first-tour response shape.
+- `data/bilingual-loop.json`: English-Chinese civilizational bridge ambition metadata.
+- `docs/bilingual-civilizational-bridge.md`: public explanation of the bridge ambition.
 - `book/`: transcripts and commentaries.
 - `ph-mus/README.md`: museum layer orientation.
 - `schemas/`: museum exhibit and artifact schemas.

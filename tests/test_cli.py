@@ -3,6 +3,7 @@ from pathlib import Path
 
 from civ_ph.cli import main
 from civ_ph.data import (
+    load_bilingual_loop,
     load_cards,
     load_choreography,
     load_course_architecture,
@@ -162,6 +163,11 @@ def test_llm_native_bootloader_contract(capsys):
     assert experience["first_tour"]["path"] == "data/routes/first-tour.json"
     assert experience["first_tour"]["reader_doc"] == "docs/first-tour.md"
     assert experience["first_tour"]["opening_route"] == "civ-07"
+    assert experience["bilingual_bridge"]["path"] == "data/bilingual-loop.json"
+    assert experience["bilingual_bridge"]["reader_doc"] == "docs/bilingual-civilizational-bridge.md"
+    assert experience["bilingual_bridge"]["posture"] == "civilizational_bridge"
+    assert experience["bilingual_bridge"]["status"] == "ambition_metadata"
+    assert experience["bilingual_bridge"]["primary_wedge"] == "homer_to_tolstoy_read_from_china"
     assert experience["public_surfaces"]["volume_i"]["surface"] == "ph-civ"
     assert experience["public_surfaces"]["volume_ii"]["surface"] == "ph-apo"
     assert experience["public_surfaces"]["museum"]["surface"] == "ph-mus"
@@ -178,6 +184,7 @@ def test_llm_native_bootloader_contract(capsys):
     assert payload["full_context"]["path"] == "llms-full.txt"
     assert payload["first_response_contract"]["default_mode"] == "first_tour"
     assert payload["first_tour"]["path"] == "data/routes/first-tour.json"
+    assert payload["bilingual_bridge"]["path"] == "data/bilingual-loop.json"
     assert payload["first_seed"]["route_ids"] == load_route_seed()["route_ids"]
 
 
@@ -195,6 +202,58 @@ def test_llms_full_context_packet_exists():
     assert "Anna Karenina coda" in text
     assert "`ph-mus` is not a third volume" in text
     assert "Do not claim live geopolitical certainty" in text
+    assert "Bilingual Civilizational Bridge" in text
+    assert "Homer to Tolstoy, read from China." in text
+    assert "Default mode: `first_tour`" in text
+    assert "not a translation dump" in text
+
+
+def test_bilingual_bridge_contract(capsys):
+    bridge = load_bilingual_loop()
+    assert bridge["loop_id"] == "english_chinese_civilizational_bridge"
+    assert bridge["posture"] == "civilizational_bridge"
+    assert bridge["status"] == "ambition_metadata"
+    assert bridge["primary_wedge"] == "homer_to_tolstoy_read_from_china"
+    assert "Chinese civilizational-history lens" in bridge["english_hook"]
+    assert "without imitation or rejection" in bridge["chinese_hook"]
+    guardrails = "\n".join(bridge["guardrails"])
+    assert "not propaganda" in guardrails
+    assert "not anti-Western" in guardrails
+    assert "not a translation dump" in guardrails
+    assert bridge["future_zh_wedge"]["first_steps"] == [
+        "canonical glossary",
+        "Chinese bootloader",
+        "Chinese first-tour metadata",
+    ]
+    assert "140 transcript bodies" in bridge["future_zh_wedge"]["defer"]
+    assert bridge["future_zh_wedge"]["no_repo_scaffold_in_this_pass"] is True
+
+    doc = (ROOT / "docs" / "bilingual-civilizational-bridge.md").read_text(encoding="utf-8")
+    assert "Homer to Tolstoy, read from China." in doc
+    assert "Volume I literary spine" in doc
+    assert "paired mirrors" in doc
+    assert "not propaganda" in doc
+    assert "not anti-Western" in doc
+    assert "not a translation dump" in doc
+
+    start_here = (ROOT / "START-HERE.md").read_text(encoding="utf-8")
+    assert "Default mode: first_tour" in start_here
+    assert "identity/growth layer" in start_here
+    assert "not a replacement for `first_tour`" in start_here
+
+    assert main(["bilingual", "--json"]) == 0
+    payload = json.loads(capsys.readouterr().out)
+    assert payload["loop_id"] == "english_chinese_civilizational_bridge"
+    assert payload["posture"] == "civilizational_bridge"
+    assert payload["future_zh_wedge"]["first_steps"][0] == "canonical glossary"
+
+    assert main(["bilingual"]) == 0
+    out = capsys.readouterr().out
+    assert "primary_wedge: homer_to_tolstoy_read_from_china" in out
+    assert "English hook:" in out
+    assert "Chinese hook:" in out
+    assert "not propaganda" in out
+    assert "canonical glossary" in out
 
 
 def test_first_tour_contract(capsys):

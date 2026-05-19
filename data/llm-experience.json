@@ -73,6 +73,13 @@
     "opening_path": "homer-to-tolstoy",
     "continue_prompt": "Continue the first_tour by opening civ-07 as the Homeric memory system: explain why it matters, how to read it, what not to overclaim, and where the reader can go next."
   },
+  "bilingual_bridge": {
+    "path": "data/bilingual-loop.json",
+    "reader_doc": "docs/bilingual-civilizational-bridge.md",
+    "posture": "civilizational_bridge",
+    "status": "ambition_metadata",
+    "primary_wedge": "homer_to_tolstoy_read_from_china"
+  },
   "modes": [
     {
       "mode": "first_tour",
@@ -138,6 +145,8 @@
     "data/routes/first-tour.json",
     "data/routes/choreography.json",
     "docs/first-tour.md",
+    "data/bilingual-loop.json",
+    "docs/bilingual-civilizational-bridge.md",
     "data/cards.jsonl",
     "data/patterns.json"
   ]

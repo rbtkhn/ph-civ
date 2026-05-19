@@ -12,6 +12,7 @@ from .data import (
     get_card,
     get_pattern,
     get_route,
+    load_bilingual_loop,
     load_cards,
     load_choreography,
     load_course_architecture,
@@ -619,6 +620,45 @@ def cmd_validate(args) -> int:
         errors.append("llm-experience first_tour must point to docs/first-tour.md")
     if llm_first_tour.get("opening_route") != "civ-07":
         errors.append("llm-experience first_tour must open at civ-07")
+    bilingual = load_bilingual_loop()
+    if bilingual.get("loop_id") != "english_chinese_civilizational_bridge":
+        errors.append("bilingual-loop.json invalid loop_id")
+    if bilingual.get("posture") != "civilizational_bridge":
+        errors.append("bilingual-loop.json invalid posture")
+    if bilingual.get("status") != "ambition_metadata":
+        errors.append("bilingual-loop.json invalid status")
+    if bilingual.get("primary_wedge") != "homer_to_tolstoy_read_from_china":
+        errors.append("bilingual-loop.json invalid primary_wedge")
+    bilingual_guardrails = "\n".join(bilingual.get("guardrails", []))
+    for marker in ["not propaganda", "not anti-Western", "not a translation dump"]:
+        if marker not in bilingual_guardrails:
+            errors.append(f"bilingual-loop.json missing guardrail: {marker}")
+    future_zh = bilingual.get("future_zh_wedge", {})
+    future_steps = future_zh.get("first_steps", [])
+    if future_steps != ["canonical glossary", "Chinese bootloader", "Chinese first-tour metadata"]:
+        errors.append("bilingual-loop.json future_zh_wedge must start with glossary, bootloader, first-tour metadata")
+    if "140 transcript bodies" not in future_zh.get("defer", ""):
+        errors.append("bilingual-loop.json future_zh_wedge must defer transcript translation")
+    llm_bilingual = llm_experience.get("bilingual_bridge", {})
+    if llm_bilingual.get("path") != "data/bilingual-loop.json":
+        errors.append("llm-experience bilingual_bridge must point to data/bilingual-loop.json")
+    if llm_bilingual.get("reader_doc") != "docs/bilingual-civilizational-bridge.md":
+        errors.append("llm-experience bilingual_bridge must point to docs/bilingual-civilizational-bridge.md")
+    bilingual_doc = DATA_ROOT.parent / "docs" / "bilingual-civilizational-bridge.md"
+    if not bilingual_doc.exists():
+        errors.append("docs/bilingual-civilizational-bridge.md must exist")
+    else:
+        bilingual_doc_text = bilingual_doc.read_text(encoding="utf-8")
+        for marker in [
+            "Homer to Tolstoy, read from China.",
+            "paired mirrors",
+            "not propaganda",
+            "not a translation dump",
+            "not anti-Western",
+            "Volume I literary spine",
+        ]:
+            if marker not in bilingual_doc_text:
+                errors.append(f"docs/bilingual-civilizational-bridge.md missing marker: {marker}")
     if llm_experience.get("first_seed", {}).get("route_ids") != seed_route_ids:
         errors.append("llm-experience route IDs must match route seed")
     llm_surfaces = llm_experience.get("public_surfaces", {})
@@ -888,6 +928,29 @@ def cmd_growth(args) -> int:
     return 0
 
 
+def cmd_bilingual(args) -> int:
+    bilingual = load_bilingual_loop()
+    if args.json:
+        return emit_json(bilingual)
+    print(f"{bilingual['loop_id']}: {bilingual['posture']}")
+    print(f"status: {bilingual['status']}")
+    print(f"primary_wedge: {bilingual['primary_wedge']}")
+    print("")
+    print(f"English hook: {bilingual['english_hook']}")
+    print(f"Chinese hook: {bilingual['chinese_hook']}")
+    print("")
+    print("Guardrails:")
+    for guardrail in bilingual["guardrails"]:
+        print(f"- {guardrail}")
+    print("")
+    future = bilingual["future_zh_wedge"]
+    print("future_zh_wedge:")
+    print(f"- status: {future['status']}")
+    print(f"- first_steps: {', '.join(future['first_steps'])}")
+    print(f"- defer: {future['defer']}")
+    return 0
+
+
 def cmd_start(args) -> int:
     experience = load_llm_experience()
     if args.json:
@@ -908,6 +971,8 @@ def cmd_start(args) -> int:
     print(f"- {experience['first_seed']['seed_id']}: {', '.join(experience['first_seed']['route_ids'])}")
     if experience.get("first_tour"):
         print(f"first_tour: {experience['first_tour']['path']}")
+    if experience.get("bilingual_bridge"):
+        print(f"bilingual_bridge: {experience['bilingual_bridge']['path']}")
     print("modes:")
     for mode in experience["modes"]:
         print(f"- {mode['mode']}: {mode['instruction']}")
@@ -1036,6 +1101,10 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("growth", help="Show public-growth goals and agent-executable translation rules.")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_growth)
+
+    p = sub.add_parser("bilingual", help="Show the English-Chinese civilizational bridge ambition.")
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_bilingual)
 
     p = sub.add_parser("surface", help="Show public surface metadata.")
     p.add_argument("surface", choices=sorted(SURFACES), nargs="?", default="ph-civ")
