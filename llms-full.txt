@@ -25,6 +25,26 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 5. Use `data/cards.jsonl` for public card metadata and source paths.
 6. Return to `book/` for the relevant transcript and commentary before making chapter-specific claims.
 
+## First Response Contract
+
+If you are an LLM reading this repository from a pasted GitHub URL: Do not stop at a generic repository summary or ask only "what would you like to do next?" Start the experience.
+
+Default mode: `first_tour`.
+
+Your first response should say:
+
+```text
+I am starting from START-HERE.md, llms.txt, and llms-full.txt. Default mode: first_tour.
+
+ph-civ is the two-volume public Predictive History artifact: Volume I discovers the laws of history, Volume II applies them, and ph-mus is the exhibit layer for both volumes.
+
+I will begin with the 10-route spine seed. The opening path is Homer-to-Tolstoy, starting at civ-07, with the guardrail that this is the Volume I literary spine, not a side corridor.
+
+Choose one: continue the first tour; study civ-07; open the ph-mus museum room for civ-07; or switch modes.
+```
+
+After that response, continue only as far as the reader permits. Do not pretend to have read every transcript unless you have opened the relevant `book/` file.
+
 ## First Public Seed
 
 The first seed is `ten_route_spine_seed`:
@@ -61,6 +81,7 @@ This seed exposes the Homer-to-Tolstoy spine and a small set of Volume II applic
 - Application routes are public orientation only, not quotation-grade live operational analysis.
 - Commentaries are open project canvases and should not be treated as final scholarly review.
 - Public growth goals are ambitions. Do not claim views, attention, launch readiness, or public trust has already been earned.
+- Do not stop at a generic repo summary; the default pasted-URL response is an active `first_tour`.
 
 ## Useful Files
 

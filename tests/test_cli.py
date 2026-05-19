@@ -137,6 +137,9 @@ def test_llm_native_bootloader_contract(capsys):
     assert start_here.exists()
     start_text = start_here.read_text(encoding="utf-8")
     assert "pastes `https://github.com/rbtkhn/ph-civ` into a ChatGPT chat or any other LLM" in start_text
+    assert "First Response Contract" in start_text
+    assert "Do not stop at a generic repository summary" in start_text
+    assert "Default mode: first_tour" in start_text
     assert "Homer to Tolstoy is the Volume I literary spine" in start_text
     assert "Anna Karenina coda" in start_text
     assert "ph-mus` is not a third volume" in start_text
@@ -145,6 +148,16 @@ def test_llm_native_bootloader_contract(capsys):
     assert experience["start_here"] == "START-HERE.md"
     assert experience["full_context"]["path"] == "llms-full.txt"
     assert experience["full_context"]["purpose"] == "one_shot_llm_context_packet"
+    assert experience["first_response_contract"]["default_mode"] == "first_tour"
+    assert "generic repository summary" in experience["first_response_contract"]["anti_pattern"]
+    assert experience["first_response_contract"]["required_opening_files"] == [
+        "START-HERE.md",
+        "llms.txt",
+        "llms-full.txt",
+    ]
+    assert experience["first_response_contract"]["opening_route"] == "civ-07"
+    assert experience["first_response_contract"]["opening_path"] == "homer-to-tolstoy"
+    assert any("Choose one:" in line for line in experience["first_response_contract"]["template"])
     assert experience["public_surfaces"]["volume_i"]["surface"] == "ph-civ"
     assert experience["public_surfaces"]["volume_ii"]["surface"] == "ph-apo"
     assert experience["public_surfaces"]["museum"]["surface"] == "ph-mus"
@@ -159,6 +172,7 @@ def test_llm_native_bootloader_contract(capsys):
     payload = json.loads(capsys.readouterr().out)
     assert payload["experience_id"] == "ph_civ_llm_native_bootloader"
     assert payload["full_context"]["path"] == "llms-full.txt"
+    assert payload["first_response_contract"]["default_mode"] == "first_tour"
     assert payload["first_seed"]["route_ids"] == load_route_seed()["route_ids"]
 
 
@@ -168,6 +182,10 @@ def test_llms_full_context_packet_exists():
     text = packet.read_text(encoding="utf-8")
     assert "full one-shot LLM context packet" in text
     assert "https://github.com/rbtkhn/ph-civ" in text
+    assert "First Response Contract" in text
+    assert "Do not stop at a generic repository summary" in text
+    assert "Default mode: `first_tour`" in text
+    assert "starting at civ-07" in text
     assert "Homer to Tolstoy is the Volume I literary spine" in text
     assert "Anna Karenina coda" in text
     assert "`ph-mus` is not a third volume" in text

@@ -9,6 +9,23 @@
     "purpose": "one_shot_llm_context_packet",
     "use_after": "START-HERE.md"
   },
+  "first_response_contract": {
+    "default_mode": "first_tour",
+    "anti_pattern": "Do not stop at a generic repository summary or ask only what the reader would like to do next.",
+    "required_opening_files": [
+      "START-HERE.md",
+      "llms.txt",
+      "llms-full.txt"
+    ],
+    "opening_route": "civ-07",
+    "opening_path": "homer-to-tolstoy",
+    "template": [
+      "I am starting from START-HERE.md, llms.txt, and llms-full.txt. Default mode: first_tour.",
+      "ph-civ is the two-volume public Predictive History artifact: Volume I discovers the laws of history, Volume II applies them, and ph-mus is the exhibit layer for both volumes.",
+      "I will begin with the 10-route spine seed. The opening path is Homer-to-Tolstoy, starting at civ-07, with the guardrail that this is the Volume I literary spine, not a side corridor.",
+      "Choose one: continue the first tour; study civ-07; open the ph-mus museum room for civ-07; or switch modes."
+    ]
+  },
   "public_surfaces": {
     "volume_i": {
       "surface": "ph-civ",
@@ -91,7 +108,8 @@
     "ph-mus is not a third volume.",
     "Application routes are public orientation only, not quotation-grade live operational analysis.",
     "Commentaries are open project canvases and should not be treated as final scholarly review.",
-    "Public growth goals are ambitions; do not claim views, attention, or launch readiness has already been earned."
+    "Public growth goals are ambitions; do not claim views, attention, or launch readiness has already been earned.",
+    "Do not stop at a generic repo summary; the default pasted-URL response is an active first_tour."
   ],
   "do_not_claim": [
     "Do not claim this repo is official course material or endorsement.",

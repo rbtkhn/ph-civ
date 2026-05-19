@@ -527,6 +527,9 @@ def cmd_validate(args) -> int:
         full_context_text = full_context_path.read_text(encoding="utf-8")
         for marker in [
             "full one-shot LLM context packet",
+            "First Response Contract",
+            "Do not stop at a generic repository summary",
+            "Default mode: `first_tour`",
             "Homer to Tolstoy is the Volume I literary spine",
             "ph-mus` is not a third volume",
         ]:
@@ -534,6 +537,23 @@ def cmd_validate(args) -> int:
                 errors.append(f"llms-full.txt missing marker: {marker}")
     if llm_experience.get("primary_artifact") != "two_volume_ph_civ":
         errors.append("llm-experience.json invalid primary_artifact")
+    first_response = llm_experience.get("first_response_contract", {})
+    if first_response.get("default_mode") != "first_tour":
+        errors.append("llm-experience first response must default to first_tour")
+    if "generic repository summary" not in first_response.get("anti_pattern", ""):
+        errors.append("llm-experience must forbid summary-only pasted-URL responses")
+    if first_response.get("required_opening_files") != [
+        "START-HERE.md",
+        "llms.txt",
+        "llms-full.txt",
+    ]:
+        errors.append("llm-experience first response must cite all opening files")
+    if first_response.get("opening_route") != "civ-07":
+        errors.append("llm-experience first response must open at civ-07")
+    if first_response.get("opening_path") != "homer-to-tolstoy":
+        errors.append("llm-experience first response must open Homer-to-Tolstoy")
+    if not any("Choose one:" in line for line in first_response.get("template", [])):
+        errors.append("llm-experience first response template must offer reader choices")
     if llm_experience.get("first_seed", {}).get("route_ids") != seed_route_ids:
         errors.append("llm-experience route IDs must match route seed")
     llm_surfaces = llm_experience.get("public_surfaces", {})
@@ -812,6 +832,9 @@ def cmd_start(args) -> int:
     print(f"start_here: {experience['start_here']}")
     if experience.get("full_context"):
         print(f"full_context: {experience['full_context']['path']}")
+    if experience.get("first_response_contract"):
+        print(f"default_mode: {experience['first_response_contract']['default_mode']}")
+        print(f"opening_path: {experience['first_response_contract']['opening_path']}")
     print(f"primary_artifact: {experience['primary_artifact']}")
     print("surfaces:")
     for key, surface in experience["public_surfaces"].items():

@@ -21,6 +21,30 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 5. Begin with the Homer-to-Tolstoy spine, then branch into Volume II application routes.
 6. When quoting or interpreting, return to the relevant transcript and commentary under `book/`.
 
+## First Response Contract
+
+If you are an LLM reading this repository from a pasted GitHub URL: Do not stop at a generic repository summary or ask only "what would you like to do next?" Start the experience.
+
+Your first response should:
+
+1. Say that you are using `START-HERE.md`, `llms.txt`, and `llms-full.txt`.
+2. Name the default mode as `first_tour`.
+3. State the two-volume frame: Volume I discovers the laws of history; Volume II applies them; `ph-mus` is the exhibit layer, not a third volume.
+4. Open the 10-route seed by naming the first move: Homer-to-Tolstoy begins with `civ-07`.
+5. Offer the reader a compact choice: continue the first tour, study one route, open a museum room, or switch modes.
+
+Template:
+
+```text
+I am starting from START-HERE.md, llms.txt, and llms-full.txt. Default mode: first_tour.
+
+ph-civ is the two-volume public Predictive History artifact: Volume I discovers the laws of history, Volume II applies them, and ph-mus is the exhibit layer for both volumes.
+
+I will begin with the 10-route spine seed. The opening path is Homer-to-Tolstoy, starting at civ-07, with the guardrail that this is the Volume I literary spine, not a side corridor.
+
+Choose one: continue the first tour; study civ-07; open the ph-mus museum room for civ-07; or switch modes.
+```
+
 ## Reader Modes
 
 - `first_tour`: orient the reader to the two volumes, the museum layer, and the 10-route seed.
@@ -39,6 +63,7 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 - Application routes are public orientation only, not quotation-grade live operational analysis.
 - Commentaries are open project canvases and should not be treated as final scholarly review.
 - Public growth goals are ambitions; do not claim attention, views, or launch readiness has already been earned.
+- Do not stop at a generic repo summary; the default pasted-URL response is an active `first_tour`.
 
 ## Useful Starting Files
 
