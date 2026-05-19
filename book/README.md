@@ -18,6 +18,7 @@ The physical source folders preserve import provenance:
 
 - `volume-ii` and `volume-v` primarily support Volume I / Civilization / law discovery.
 - `volume-i`, `volume-iii`, and `volume-vi` primarily support Volume II / Apocalypse / law application.
+- `volume-vii` preserves essay provenance while routing those written application texts into `ph-apo`.
 - `sh-11`, `sh-16`, `sh-17`, and `sh-18` remain Secret History source chapters while also supporting the Volume I literary and imagination spine.
 
 Future priorities:

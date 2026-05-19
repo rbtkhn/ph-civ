@@ -57,7 +57,7 @@
       "Chinese bootloader",
       "Chinese first-tour metadata"
     ],
-    "defer": "Do not translate all 140 transcript bodies before the glossary, bootloader, and first-tour metadata are stable.",
+    "defer": "Do not translate all 145 source chapters before the glossary, bootloader, and first-tour metadata are stable.",
     "no_repo_scaffold_in_this_pass": true
   },
   "future_ru_wedge": {
@@ -79,7 +79,7 @@
       "not live war analysis",
       "not a translation dump"
     ],
-    "defer": "Do not translate all 140 transcript bodies or create ph-civ-ru commands before the glossary, bootloader, first-tour metadata, and Russia-specific guardrails are stable.",
+    "defer": "Do not translate all 145 source chapters or create ph-civ-ru commands before the glossary, bootloader, first-tour metadata, and Russia-specific guardrails are stable.",
     "no_repo_scaffold_in_this_pass": true
   },
   "localization_roadmap": [

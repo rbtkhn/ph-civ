@@ -24,11 +24,11 @@ It should not become the large-media vault. Museum artifacts must be stored in a
 
 ## What Is Included
 
-- 140 public cards from Predictive History snapshot `56a4a08`.
-- 140 lecture transcripts under `book/`.
-- 140 chapter commentaries under `book/`, each seeded as an open commentary canvas.
+- 145 public cards from Predictive History snapshot `56a4a08`, including the first `sub-*` essay lane.
+- 145 public source chapters under `book/`, including the first Apocalypse-facing essay transfers.
+- 145 chapter commentaries under `book/`, each seeded as an open commentary canvas.
 - Two conceptual volumes: Volume I / Civilization / `ph-civ`, and Volume II / Apocalypse / `ph-apo`.
-- Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, and Secret History.
+- Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, Secret History, and Essays.
 - The Homer-to-Tolstoy literary spine as the Volume I literary spine with cross-volume routing exposure.
 - Provider-neutral prompt templates.
 - Eight public civilizational pattern IDs for downstream strategy-facing reference.

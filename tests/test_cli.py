@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def test_loads_all_seeded_cards():
     cards = load_cards()
-    assert len(cards) == 140
+    assert len(cards) == 145
     assert {"civilization", "world-war"} <= {card["part"] for card in cards}
 
 
@@ -36,8 +36,8 @@ def test_all_cards_have_local_transcript_and_commentary():
         transcript_paths.append(transcript_path)
         commentary_paths.append(commentary_path)
 
-    assert len(set(transcript_paths)) == 140
-    assert len(set(commentary_paths)) == 140
+    assert len(set(transcript_paths)) == 145
+    assert len(set(commentary_paths)) == 145
 
 
 def test_all_commentaries_have_open_project_canvas():
@@ -81,7 +81,7 @@ def test_prompt_creative_contains_boundaries(capsys):
 
 def test_validate_passes(capsys):
     assert main(["validate"]) == 0
-    assert "card_count: 140" in capsys.readouterr().out
+    assert "card_count: 145" in capsys.readouterr().out
 
 
 def test_exported_source_repo_uses_workshop():
@@ -257,7 +257,7 @@ def test_bilingual_bridge_contract(capsys):
     ]
     assert bridge["future_zh_wedge"]["upstream_source"] == "ph-civ"
     assert bridge["future_zh_wedge"]["dependency_role"] == "downstream_localization_mirror"
-    assert "140 transcript bodies" in bridge["future_zh_wedge"]["defer"]
+    assert "145 source chapters" in bridge["future_zh_wedge"]["defer"]
     assert bridge["future_zh_wedge"]["no_repo_scaffold_in_this_pass"] is True
     assert bridge["future_ru_wedge"]["future_surface"] == "ph-civ-ru"
     assert bridge["future_ru_wedge"]["status"] == "roadmap_candidate"
@@ -273,7 +273,7 @@ def test_bilingual_bridge_contract(capsys):
     assert "not anti-Ukrainian" in ru_guardrails
     assert "not live war analysis" in ru_guardrails
     assert "not a translation dump" in ru_guardrails
-    assert "140 transcript bodies" in bridge["future_ru_wedge"]["defer"]
+    assert "145 source chapters" in bridge["future_ru_wedge"]["defer"]
     assert "ph-civ-ru commands" in bridge["future_ru_wedge"]["defer"]
     assert bridge["future_ru_wedge"]["no_repo_scaffold_in_this_pass"] is True
     assert [item["future_surface"] for item in bridge["localization_roadmap"]] == [
@@ -392,7 +392,7 @@ def test_volumes_command_returns_architecture(capsys):
     assert payload["volumes"]["volume_ii"]["role"] == "law_application"
     assert payload["museum"]["surface"] == "ph-mus"
     assert payload["museum"]["role"] == "chapter_exhibit_layer"
-    assert payload["unique_card_count"] == 140
+    assert payload["unique_card_count"] == 145
 
 
 def test_volume_command_lists_conceptual_membership(capsys):

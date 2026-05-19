@@ -38,7 +38,7 @@ The Chinese path should begin with:
 - a Chinese bootloader;
 - Chinese first-tour metadata.
 
-It should not begin by translating all 140 transcript bodies.
+It should not begin by translating all 145 source chapters.
 
 ## Localization Roadmap
 
@@ -54,7 +54,7 @@ The Russian path should begin with:
 - a Russian bootloader;
 - Russian first-tour metadata.
 
-It should not begin by translating all 140 transcript bodies or by creating `ph-civ-ru` commands before the glossary, bootloader, first-tour metadata, and Russia-specific guardrails are stable.
+It should not begin by translating all 145 source chapters or by creating `ph-civ-ru` commands before the glossary, bootloader, first-tour metadata, and Russia-specific guardrails are stable.
 
 ## Cautions
 

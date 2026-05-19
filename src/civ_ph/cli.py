@@ -662,7 +662,7 @@ def cmd_validate(args) -> int:
     future_steps = future_zh.get("first_steps", [])
     if future_steps != ["canonical glossary", "Chinese bootloader", "Chinese first-tour metadata"]:
         errors.append("bilingual-loop.json future_zh_wedge must start with glossary, bootloader, first-tour metadata")
-    if "140 transcript bodies" not in future_zh.get("defer", ""):
+    if "145 source chapters" not in future_zh.get("defer", ""):
         errors.append("bilingual-loop.json future_zh_wedge must defer transcript translation")
     future_ru = bilingual.get("future_ru_wedge", {})
     if future_ru.get("upstream_source") != "ph-civ":
@@ -679,7 +679,7 @@ def cmd_validate(args) -> int:
     for marker in ["not Russian-state apologetics", "not anti-Ukrainian", "not live war analysis", "not a translation dump"]:
         if marker not in ru_guardrails:
             errors.append(f"bilingual-loop.json future_ru_wedge missing guardrail: {marker}")
-    if "140 transcript bodies" not in future_ru.get("defer", "") or "ph-civ-ru commands" not in future_ru.get("defer", ""):
+    if "145 source chapters" not in future_ru.get("defer", "") or "ph-civ-ru commands" not in future_ru.get("defer", ""):
         errors.append("bilingual-loop.json future_ru_wedge must defer transcript translation and commands")
     roadmap = bilingual.get("localization_roadmap", [])
     roadmap_surfaces = [item.get("future_surface") for item in roadmap]
