@@ -6,6 +6,7 @@ from civ_ph.data import (
     load_cards,
     load_choreography,
     load_course_architecture,
+    load_first_tour,
     load_growth_goals,
     load_llm_experience,
     load_museum_index,
@@ -158,6 +159,9 @@ def test_llm_native_bootloader_contract(capsys):
     assert experience["first_response_contract"]["opening_route"] == "civ-07"
     assert experience["first_response_contract"]["opening_path"] == "homer-to-tolstoy"
     assert any("Choose one:" in line for line in experience["first_response_contract"]["template"])
+    assert experience["first_tour"]["path"] == "data/routes/first-tour.json"
+    assert experience["first_tour"]["reader_doc"] == "docs/first-tour.md"
+    assert experience["first_tour"]["opening_route"] == "civ-07"
     assert experience["public_surfaces"]["volume_i"]["surface"] == "ph-civ"
     assert experience["public_surfaces"]["volume_ii"]["surface"] == "ph-apo"
     assert experience["public_surfaces"]["museum"]["surface"] == "ph-mus"
@@ -173,6 +177,7 @@ def test_llm_native_bootloader_contract(capsys):
     assert payload["experience_id"] == "ph_civ_llm_native_bootloader"
     assert payload["full_context"]["path"] == "llms-full.txt"
     assert payload["first_response_contract"]["default_mode"] == "first_tour"
+    assert payload["first_tour"]["path"] == "data/routes/first-tour.json"
     assert payload["first_seed"]["route_ids"] == load_route_seed()["route_ids"]
 
 
@@ -190,6 +195,44 @@ def test_llms_full_context_packet_exists():
     assert "Anna Karenina coda" in text
     assert "`ph-mus` is not a third volume" in text
     assert "Do not claim live geopolitical certainty" in text
+
+
+def test_first_tour_contract(capsys):
+    tour = load_first_tour()
+    seed_ids = load_route_seed()["route_ids"]
+    assert tour["tour_id"] == "first_tour_ten_route_spine"
+    assert tour["mode"] == "first_tour"
+    assert tour["seed_id"] == "ten_route_spine_seed"
+    assert tour["opening_route"] == "civ-07"
+    assert tour["opening_path"] == "homer-to-tolstoy"
+    assert [stop["source_id"] for stop in tour["stops"]] == seed_ids
+    assert [
+        source_id
+        for phase in tour["phases"]
+        for source_id in phase["route_ids"]
+    ] == seed_ids
+    assert "Homeric memory system" in tour["continue_prompt"]
+    assert "Anna Karenina coda" in "\n".join(tour["guardrails"])
+
+    first_tour_doc = ROOT / "docs" / "first-tour.md"
+    text = first_tour_doc.read_text(encoding="utf-8")
+    assert "First-Tour Response Shape" in text
+    assert "First tour, stop 1: civ-07" in text
+    assert "Continue to civ-17" in text
+    assert "`ph-mus` is not a third volume" in text
+
+    assert main(["tour", "--json"]) == 0
+    payload = json.loads(capsys.readouterr().out)
+    assert payload["opening_route"] == "civ-07"
+    assert payload["stops"][0]["source_id"] == "civ-07"
+    assert payload["stops"][0]["title"]
+    assert payload["stops"][0]["transcript_path"].endswith("civ-07-transcript.md")
+
+    assert main(["tour"]) == 0
+    out = capsys.readouterr().out
+    assert "First tour" not in out  # Keep command output compact and data-first.
+    assert "opening_route: civ-07" in out
+    assert "Continue" in out
 
 
 def test_volumes_command_returns_architecture(capsys):

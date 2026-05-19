@@ -18,8 +18,9 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 2. Load `data/llm-experience.json` for the unfolding map.
 3. Use `llms-full.txt` when the chat needs a full one-shot context packet after the compact map.
 4. Use `data/routes/seed.json` for the first 10-route spine seed.
-5. Begin with the Homer-to-Tolstoy spine, then branch into Volume II application routes.
-6. When quoting or interpreting, return to the relevant transcript and commentary under `book/`.
+5. Use `data/routes/first-tour.json` and `docs/first-tour.md` when the reader chooses to continue the first tour.
+6. Begin with the Homer-to-Tolstoy spine, then branch into Volume II application routes.
+7. When quoting or interpreting, return to the relevant transcript and commentary under `book/`.
 
 ## First Response Contract
 
@@ -75,6 +76,8 @@ Choose one: continue the first tour; study civ-07; open the ph-mus museum room f
 - `docs/export-contract.md`
 - `data/llm-experience.json`
 - `data/routes/seed.json`
+- `data/routes/first-tour.json`
 - `data/routes/choreography.json`
 - `data/cards.jsonl`
 - `data/patterns.json`
+- `docs/first-tour.md`

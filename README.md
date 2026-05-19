@@ -63,6 +63,8 @@ ph-civ validate
 ph-civ status
 ph-civ start
 ph-civ start --json
+ph-civ tour
+ph-civ tour --json
 ph-civ growth
 ph-civ volumes
 ph-civ volume volume-i --json

@@ -61,15 +61,23 @@
     "starting_path": "homer-to-tolstoy",
     "data_files": [
       "data/routes/seed.json",
+      "data/routes/first-tour.json",
       "data/routes/choreography.json",
       "data/spines/homer-to-tolstoy.json"
     ]
+  },
+  "first_tour": {
+    "path": "data/routes/first-tour.json",
+    "reader_doc": "docs/first-tour.md",
+    "opening_route": "civ-07",
+    "opening_path": "homer-to-tolstoy",
+    "continue_prompt": "Continue the first_tour by opening civ-07 as the Homeric memory system: explain why it matters, how to read it, what not to overclaim, and where the reader can go next."
   },
   "modes": [
     {
       "mode": "first_tour",
       "instruction": "Orient the reader to the two volumes, the museum layer, and the 10-route seed before opening individual chapters.",
-      "start_files": ["START-HERE.md", "README.md", "data/routes/seed.json"]
+      "start_files": ["START-HERE.md", "README.md", "data/routes/seed.json", "data/routes/first-tour.json", "docs/first-tour.md"]
     },
     {
       "mode": "study",
@@ -127,7 +135,9 @@
     "docs/public-repo-contract.md",
     "docs/export-contract.md",
     "data/routes/seed.json",
+    "data/routes/first-tour.json",
     "data/routes/choreography.json",
+    "docs/first-tour.md",
     "data/cards.jsonl",
     "data/patterns.json"
   ]

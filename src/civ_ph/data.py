@@ -100,6 +100,10 @@ def load_route_seed() -> dict:
     return json.loads((DATA_ROOT / "routes" / "seed.json").read_text(encoding="utf-8"))
 
 
+def load_first_tour() -> dict:
+    return json.loads((DATA_ROOT / "routes" / "first-tour.json").read_text(encoding="utf-8"))
+
+
 def get_route(source_id: str) -> dict:
     for route in load_choreography():
         if route["source_id"] == source_id:

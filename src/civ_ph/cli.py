@@ -16,6 +16,7 @@ from .data import (
     load_choreography,
     load_course_architecture,
     load_growth_goals,
+    load_first_tour,
     load_llm_experience,
     load_museum_index,
     load_patterns,
@@ -223,6 +224,31 @@ def route_public_payload(route: dict) -> dict:
         "pressure_echoes": route.get("pressure_echoes", []),
         "civilization_roots": route.get("civilization_roots", []),
     }
+
+
+def first_tour_payload() -> dict:
+    tour = load_first_tour()
+    routes_by_id = {route["source_id"]: route for route in load_choreography()}
+    stops = []
+    for stop in tour["stops"]:
+        source_id = stop["source_id"]
+        card = get_card(source_id)
+        route = routes_by_id[source_id]
+        stops.append(
+            {
+                **stop,
+                "title": card["title"],
+                "surface": route["surface"],
+                "route_type": route["route_type"],
+                "caveat": route.get("caveat", ""),
+                "what_changes_here": route["what_changes_here"],
+                "card_path": route["card_path"],
+                "transcript_path": route["transcript_path"],
+                "commentary_path": route["commentary_path"],
+                "museum_exhibit_path": route.get("museum_exhibit_path"),
+            }
+        )
+    return {**tour, "stops": stops}
 
 
 def emit_json(data) -> int:
@@ -512,6 +538,38 @@ def cmd_validate(args) -> int:
         errors.append("route seed must be ten_route_spine_seed")
     if seed_route_ids != route_ids:
         errors.append("route seed IDs must match choreography route IDs in order")
+    first_tour = load_first_tour()
+    if first_tour.get("tour_id") != "first_tour_ten_route_spine":
+        errors.append("first tour must use first_tour_ten_route_spine")
+    if first_tour.get("mode") != "first_tour":
+        errors.append("first tour must use first_tour mode")
+    if first_tour.get("seed_id") != route_seed.get("seed_id"):
+        errors.append("first tour seed_id must match route seed")
+    if first_tour.get("opening_route") != "civ-07":
+        errors.append("first tour must open at civ-07")
+    if first_tour.get("opening_path") != "homer-to-tolstoy":
+        errors.append("first tour must open Homer-to-Tolstoy")
+    tour_stop_ids = [stop.get("source_id") for stop in first_tour.get("stops", [])]
+    if tour_stop_ids != seed_route_ids:
+        errors.append("first tour stops must match route seed order")
+    phase_ids = [source_id for phase in first_tour.get("phases", []) for source_id in phase.get("route_ids", [])]
+    if phase_ids != seed_route_ids:
+        errors.append("first tour phases must cover route seed in order")
+    if "civ-07" not in first_tour.get("continue_prompt", ""):
+        errors.append("first tour continue prompt must open civ-07")
+    first_tour_doc = DATA_ROOT.parent / "docs" / "first-tour.md"
+    if not first_tour_doc.exists():
+        errors.append("docs/first-tour.md must exist")
+    else:
+        first_tour_text = first_tour_doc.read_text(encoding="utf-8")
+        for marker in [
+            "First-Tour Response Shape",
+            "First tour, stop 1: civ-07",
+            "Continue to civ-17",
+            "`ph-mus` is not a third volume",
+        ]:
+            if marker not in first_tour_text:
+                errors.append(f"docs/first-tour.md missing marker: {marker}")
     llm_experience = load_llm_experience()
     if not (DATA_ROOT.parent / "START-HERE.md").exists():
         errors.append("START-HERE.md must exist as the LLM bootloader")
@@ -554,6 +612,13 @@ def cmd_validate(args) -> int:
         errors.append("llm-experience first response must open Homer-to-Tolstoy")
     if not any("Choose one:" in line for line in first_response.get("template", [])):
         errors.append("llm-experience first response template must offer reader choices")
+    llm_first_tour = llm_experience.get("first_tour", {})
+    if llm_first_tour.get("path") != "data/routes/first-tour.json":
+        errors.append("llm-experience first_tour must point to data/routes/first-tour.json")
+    if llm_first_tour.get("reader_doc") != "docs/first-tour.md":
+        errors.append("llm-experience first_tour must point to docs/first-tour.md")
+    if llm_first_tour.get("opening_route") != "civ-07":
+        errors.append("llm-experience first_tour must open at civ-07")
     if llm_experience.get("first_seed", {}).get("route_ids") != seed_route_ids:
         errors.append("llm-experience route IDs must match route seed")
     llm_surfaces = llm_experience.get("public_surfaces", {})
@@ -841,12 +906,41 @@ def cmd_start(args) -> int:
         print(f"- {key}: {surface['surface']} - {surface['role']}")
     print("first_seed:")
     print(f"- {experience['first_seed']['seed_id']}: {', '.join(experience['first_seed']['route_ids'])}")
+    if experience.get("first_tour"):
+        print(f"first_tour: {experience['first_tour']['path']}")
     print("modes:")
     for mode in experience["modes"]:
         print(f"- {mode['mode']}: {mode['instruction']}")
     print("guardrails:")
     for guardrail in experience["guardrails"]:
         print(f"- {guardrail}")
+    return 0
+
+
+def cmd_tour(args) -> int:
+    payload = first_tour_payload()
+    if args.json:
+        return emit_json(payload)
+    print(f"# {payload['tour_id']}")
+    print(f"mode: {payload['mode']}")
+    print(f"opening_path: {payload['opening_path']}")
+    print(f"opening_route: {payload['opening_route']}")
+    print("")
+    print(payload["reader_promise"])
+    print("")
+    print("Phases:")
+    for phase in payload["phases"]:
+        print(f"- {phase['title']}: {', '.join(phase['route_ids'])}")
+        print(f"  {phase['function']}")
+    print("")
+    print("Stops:")
+    for index, stop in enumerate(payload["stops"], start=1):
+        print(f"{index}. {stop['source_id']} - {stop['title']} [{stop['route_type']}]")
+        print(f"   question: {stop['reader_question']}")
+        print(f"   next: {stop['next_action']}")
+    print("")
+    print("Opening move:")
+    print(payload["continue_prompt"])
     return 0
 
 
@@ -925,6 +1019,10 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("start", help="Show the LLM-native start-here bootloader.")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_start)
+
+    p = sub.add_parser("tour", help="Show the first-tour route experience.")
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_tour)
 
     p = sub.add_parser("volumes", help="Show the two-volume ph-civ architecture.")
     p.add_argument("--json", action="store_true")

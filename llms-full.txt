@@ -21,9 +21,10 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 1. Start with `START-HERE.md`.
 2. Load `data/llm-experience.json` as the structured unfolding map.
 3. Use `data/routes/seed.json` for the first public 10-route seed.
-4. Use `data/routes/choreography.json` for route details, caveats, and museum pointers.
-5. Use `data/cards.jsonl` for public card metadata and source paths.
-6. Return to `book/` for the relevant transcript and commentary before making chapter-specific claims.
+4. Use `data/routes/first-tour.json` and `docs/first-tour.md` when the reader chooses to continue the first tour.
+5. Use `data/routes/choreography.json` for route details, caveats, and museum pointers.
+6. Use `data/cards.jsonl` for public card metadata and source paths.
+7. Return to `book/` for the relevant transcript and commentary before making chapter-specific claims.
 
 ## First Response Contract
 
@@ -94,10 +95,12 @@ This seed exposes the Homer-to-Tolstoy spine and a small set of Volume II applic
 - `docs/export-contract.md`: export inclusion and exclusion rules.
 - `data/llm-experience.json`: structured LLM-native experience metadata.
 - `data/routes/seed.json`: ordered first public seed.
+- `data/routes/first-tour.json`: first-tour route experience.
 - `data/routes/choreography.json`: typed route layer.
 - `data/spines/homer-to-tolstoy.json`: literary spine metadata.
 - `data/cards.jsonl`: public card index.
 - `data/patterns.json`: public pattern IDs.
+- `docs/first-tour.md`: reader-facing first-tour response shape.
 - `book/`: transcripts and commentaries.
 - `ph-mus/README.md`: museum layer orientation.
 - `schemas/`: museum exhibit and artifact schemas.
