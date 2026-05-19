@@ -623,10 +623,31 @@ def cmd_validate(args) -> int:
     bilingual = load_bilingual_loop()
     if bilingual.get("loop_id") != "english_chinese_civilizational_bridge":
         errors.append("bilingual-loop.json invalid loop_id")
+    if bilingual.get("bridge_id") != "trilingual_civilizational_bridge":
+        errors.append("bilingual-loop.json invalid bridge_id")
+    if bilingual.get("language_scope") != "trilingual":
+        errors.append("bilingual-loop.json must be trilingual")
     if bilingual.get("posture") != "civilizational_bridge":
         errors.append("bilingual-loop.json invalid posture")
     if bilingual.get("status") != "ambition_metadata":
         errors.append("bilingual-loop.json invalid status")
+    if bilingual.get("canonical_source") != "ph-civ":
+        errors.append("bilingual-loop.json must name ph-civ as canonical_source")
+    canonical_surface = bilingual.get("canonical_language_surface", {})
+    if canonical_surface.get("surface") != "ph-civ" or canonical_surface.get("locale") != "en":
+        errors.append("bilingual-loop.json must name English ph-civ as the canonical language surface")
+    if bilingual.get("downstream_mirrors") != ["ph-civ-zh", "ph-civ-ru"]:
+        errors.append("bilingual-loop.json downstream_mirrors must list ph-civ-zh then ph-civ-ru")
+    downstream_language_surfaces = bilingual.get("downstream_language_surfaces", [])
+    downstream_pairs = [(item.get("surface"), item.get("locale"), item.get("role")) for item in downstream_language_surfaces]
+    if downstream_pairs != [
+        ("ph-civ-zh", "zh", "downstream_localization_mirror"),
+        ("ph-civ-ru", "ru", "downstream_localization_mirror"),
+    ]:
+        errors.append("bilingual-loop.json downstream_language_surfaces must define zh and ru downstream mirrors")
+    authority_model = bilingual.get("authority_model", "")
+    if "downstream localization mirrors" not in authority_model or "source of truth" not in authority_model:
+        errors.append("bilingual-loop.json must state localization mirrors are downstream of ph-civ")
     if bilingual.get("primary_wedge") != "homer_to_tolstoy_read_from_china":
         errors.append("bilingual-loop.json invalid primary_wedge")
     bilingual_guardrails = "\n".join(bilingual.get("guardrails", []))
@@ -634,16 +655,54 @@ def cmd_validate(args) -> int:
         if marker not in bilingual_guardrails:
             errors.append(f"bilingual-loop.json missing guardrail: {marker}")
     future_zh = bilingual.get("future_zh_wedge", {})
+    if future_zh.get("upstream_source") != "ph-civ":
+        errors.append("bilingual-loop.json future_zh_wedge must be downstream of ph-civ")
+    if future_zh.get("dependency_role") != "downstream_localization_mirror":
+        errors.append("bilingual-loop.json future_zh_wedge must use downstream mirror dependency role")
     future_steps = future_zh.get("first_steps", [])
     if future_steps != ["canonical glossary", "Chinese bootloader", "Chinese first-tour metadata"]:
         errors.append("bilingual-loop.json future_zh_wedge must start with glossary, bootloader, first-tour metadata")
     if "140 transcript bodies" not in future_zh.get("defer", ""):
         errors.append("bilingual-loop.json future_zh_wedge must defer transcript translation")
+    future_ru = bilingual.get("future_ru_wedge", {})
+    if future_ru.get("upstream_source") != "ph-civ":
+        errors.append("bilingual-loop.json future_ru_wedge must be downstream of ph-civ")
+    if future_ru.get("dependency_role") != "downstream_localization_mirror":
+        errors.append("bilingual-loop.json future_ru_wedge must use downstream mirror dependency role")
+    if future_ru.get("future_surface") != "ph-civ-ru":
+        errors.append("bilingual-loop.json future_ru_wedge must reserve ph-civ-ru")
+    if future_ru.get("status") != "roadmap_candidate":
+        errors.append("bilingual-loop.json future_ru_wedge must be a roadmap candidate")
+    if future_ru.get("first_steps", []) != ["Russian glossary", "Russian bootloader", "Russian first-tour metadata"]:
+        errors.append("bilingual-loop.json future_ru_wedge must start with Russian glossary, bootloader, first-tour metadata")
+    ru_guardrails = "\n".join(future_ru.get("guardrails", []))
+    for marker in ["not Russian-state apologetics", "not anti-Ukrainian", "not live war analysis", "not a translation dump"]:
+        if marker not in ru_guardrails:
+            errors.append(f"bilingual-loop.json future_ru_wedge missing guardrail: {marker}")
+    if "140 transcript bodies" not in future_ru.get("defer", "") or "ph-civ-ru commands" not in future_ru.get("defer", ""):
+        errors.append("bilingual-loop.json future_ru_wedge must defer transcript translation and commands")
+    roadmap = bilingual.get("localization_roadmap", [])
+    roadmap_surfaces = [item.get("future_surface") for item in roadmap]
+    if roadmap_surfaces != ["ph-civ-zh", "ph-civ-ru"]:
+        errors.append("bilingual-loop.json localization_roadmap must list ph-civ-zh then ph-civ-ru")
+    for item in roadmap:
+        if item.get("upstream_source") != "ph-civ" or item.get("dependency_role") != "downstream_localization_mirror":
+            errors.append("bilingual-loop.json localization_roadmap entries must be downstream of ph-civ")
     llm_bilingual = llm_experience.get("bilingual_bridge", {})
     if llm_bilingual.get("path") != "data/bilingual-loop.json":
         errors.append("llm-experience bilingual_bridge must point to data/bilingual-loop.json")
     if llm_bilingual.get("reader_doc") != "docs/bilingual-civilizational-bridge.md":
         errors.append("llm-experience bilingual_bridge must point to docs/bilingual-civilizational-bridge.md")
+    if llm_bilingual.get("bridge_id") != "trilingual_civilizational_bridge":
+        errors.append("llm-experience bilingual_bridge must expose the trilingual bridge ID")
+    if llm_bilingual.get("language_scope") != "trilingual":
+        errors.append("llm-experience bilingual_bridge must expose trilingual scope")
+    if llm_bilingual.get("localization_roadmap") != ["ph-civ-zh", "ph-civ-ru"]:
+        errors.append("llm-experience bilingual_bridge must expose ph-civ-zh and ph-civ-ru roadmap")
+    if llm_bilingual.get("canonical_source") != "ph-civ":
+        errors.append("llm-experience bilingual_bridge must keep ph-civ as canonical source")
+    if "downstream mirrors" not in llm_bilingual.get("authority_model", ""):
+        errors.append("llm-experience bilingual_bridge must state localization mirrors are downstream")
     bilingual_doc = DATA_ROOT.parent / "docs" / "bilingual-civilizational-bridge.md"
     if not bilingual_doc.exists():
         errors.append("docs/bilingual-civilizational-bridge.md must exist")
@@ -651,11 +710,18 @@ def cmd_validate(args) -> int:
         bilingual_doc_text = bilingual_doc.read_text(encoding="utf-8")
         for marker in [
             "Homer to Tolstoy, read from China.",
+            "Trilingual Civilizational Bridge",
+            "`ph-civ` / English / canonical public artifact",
             "paired mirrors",
             "not propaganda",
             "not a translation dump",
             "not anti-Western",
             "Volume I literary spine",
+            "ph-civ-ru",
+            "Russian glossary",
+            "not live war analysis",
+            "downstream of `ph-civ`",
+            "not become sibling authorities",
         ]:
             if marker not in bilingual_doc_text:
                 errors.append(f"docs/bilingual-civilizational-bridge.md missing marker: {marker}")
@@ -932,9 +998,13 @@ def cmd_bilingual(args) -> int:
     bilingual = load_bilingual_loop()
     if args.json:
         return emit_json(bilingual)
-    print(f"{bilingual['loop_id']}: {bilingual['posture']}")
+    print(f"{bilingual['bridge_id']}: {bilingual['posture']}")
+    print(f"legacy_loop_id: {bilingual['loop_id']}")
+    print(f"language_scope: {bilingual['language_scope']}")
     print(f"status: {bilingual['status']}")
+    print(f"canonical_source: {bilingual['canonical_source']}")
     print(f"primary_wedge: {bilingual['primary_wedge']}")
+    print(f"downstream_mirrors: {', '.join(bilingual['downstream_mirrors'])}")
     print("")
     print(f"English hook: {bilingual['english_hook']}")
     print(f"Chinese hook: {bilingual['chinese_hook']}")
@@ -948,7 +1018,20 @@ def cmd_bilingual(args) -> int:
     print(f"- status: {future['status']}")
     print(f"- first_steps: {', '.join(future['first_steps'])}")
     print(f"- defer: {future['defer']}")
+    ru_future = bilingual.get("future_ru_wedge")
+    if ru_future:
+        print()
+        print("future_ru_wedge:")
+        print(f"- future_surface: {ru_future['future_surface']}")
+        print(f"- status: {ru_future['status']}")
+        print(f"- primary_wedge: {ru_future['primary_wedge']}")
+        print(f"- first_steps: {', '.join(ru_future['first_steps'])}")
+        print(f"- defer: {ru_future['defer']}")
     return 0
+
+
+def cmd_trilingual(args) -> int:
+    return cmd_bilingual(args)
 
 
 def cmd_start(args) -> int:
@@ -1102,7 +1185,11 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_growth)
 
-    p = sub.add_parser("bilingual", help="Show the English-Chinese civilizational bridge ambition.")
+    p = sub.add_parser("trilingual", help="Show the trilingual civilizational bridge ambition.")
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_trilingual)
+
+    p = sub.add_parser("bilingual", help="Compatibility alias for the trilingual bridge roadmap.")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_bilingual)
 

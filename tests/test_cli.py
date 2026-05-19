@@ -166,8 +166,13 @@ def test_llm_native_bootloader_contract(capsys):
     assert experience["bilingual_bridge"]["path"] == "data/bilingual-loop.json"
     assert experience["bilingual_bridge"]["reader_doc"] == "docs/bilingual-civilizational-bridge.md"
     assert experience["bilingual_bridge"]["posture"] == "civilizational_bridge"
+    assert experience["bilingual_bridge"]["bridge_id"] == "trilingual_civilizational_bridge"
+    assert experience["bilingual_bridge"]["language_scope"] == "trilingual"
     assert experience["bilingual_bridge"]["status"] == "ambition_metadata"
+    assert experience["bilingual_bridge"]["canonical_source"] == "ph-civ"
     assert experience["bilingual_bridge"]["primary_wedge"] == "homer_to_tolstoy_read_from_china"
+    assert experience["bilingual_bridge"]["localization_roadmap"] == ["ph-civ-zh", "ph-civ-ru"]
+    assert "downstream mirrors" in experience["bilingual_bridge"]["authority_model"]
     assert experience["public_surfaces"]["volume_i"]["surface"] == "ph-civ"
     assert experience["public_surfaces"]["volume_ii"]["surface"] == "ph-apo"
     assert experience["public_surfaces"]["museum"]["surface"] == "ph-mus"
@@ -202,20 +207,45 @@ def test_llms_full_context_packet_exists():
     assert "Anna Karenina coda" in text
     assert "`ph-mus` is not a third volume" in text
     assert "Do not claim live geopolitical certainty" in text
-    assert "Bilingual Civilizational Bridge" in text
+    assert "Trilingual Civilizational Bridge" in text
+    assert "canonical English `ph-civ`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`" in text
     assert "Homer to Tolstoy, read from China." in text
     assert "Default mode: `first_tour`" in text
     assert "not a translation dump" in text
+    assert "ph-civ-ru" in text
+    assert "Russian glossary" in text
+    assert "not live war analysis" in text
 
 
 def test_bilingual_bridge_contract(capsys):
     bridge = load_bilingual_loop()
+    assert bridge["bridge_id"] == "trilingual_civilizational_bridge"
     assert bridge["loop_id"] == "english_chinese_civilizational_bridge"
+    assert bridge["language_scope"] == "trilingual"
     assert bridge["posture"] == "civilizational_bridge"
     assert bridge["status"] == "ambition_metadata"
+    assert bridge["canonical_source"] == "ph-civ"
+    assert "English, Chinese, and Russian readerships" in bridge["identity"]
+    assert bridge["canonical_language_surface"] == {
+        "surface": "ph-civ",
+        "locale": "en",
+        "role": "canonical_source",
+    }
+    assert bridge["downstream_mirrors"] == ["ph-civ-zh", "ph-civ-ru"]
+    assert [
+        (item["surface"], item["locale"], item["role"])
+        for item in bridge["downstream_language_surfaces"]
+    ] == [
+        ("ph-civ-zh", "zh", "downstream_localization_mirror"),
+        ("ph-civ-ru", "ru", "downstream_localization_mirror"),
+    ]
+    assert "downstream localization mirrors" in bridge["authority_model"]
+    assert "source of truth" in bridge["authority_model"]
     assert bridge["primary_wedge"] == "homer_to_tolstoy_read_from_china"
     assert "Chinese civilizational-history lens" in bridge["english_hook"]
     assert "without imitation or rejection" in bridge["chinese_hook"]
+    assert any("Russian readers add a third reinforcement line" in item for item in bridge["reinforcement_loop"])
+    assert any("Trilingual LLM chats" in item for item in bridge["reinforcement_loop"])
     guardrails = "\n".join(bridge["guardrails"])
     assert "not propaganda" in guardrails
     assert "not anti-Western" in guardrails
@@ -225,35 +255,93 @@ def test_bilingual_bridge_contract(capsys):
         "Chinese bootloader",
         "Chinese first-tour metadata",
     ]
+    assert bridge["future_zh_wedge"]["upstream_source"] == "ph-civ"
+    assert bridge["future_zh_wedge"]["dependency_role"] == "downstream_localization_mirror"
     assert "140 transcript bodies" in bridge["future_zh_wedge"]["defer"]
     assert bridge["future_zh_wedge"]["no_repo_scaffold_in_this_pass"] is True
+    assert bridge["future_ru_wedge"]["future_surface"] == "ph-civ-ru"
+    assert bridge["future_ru_wedge"]["status"] == "roadmap_candidate"
+    assert bridge["future_ru_wedge"]["upstream_source"] == "ph-civ"
+    assert bridge["future_ru_wedge"]["dependency_role"] == "downstream_localization_mirror"
+    assert bridge["future_ru_wedge"]["first_steps"] == [
+        "Russian glossary",
+        "Russian bootloader",
+        "Russian first-tour metadata",
+    ]
+    ru_guardrails = "\n".join(bridge["future_ru_wedge"]["guardrails"])
+    assert "not Russian-state apologetics" in ru_guardrails
+    assert "not anti-Ukrainian" in ru_guardrails
+    assert "not live war analysis" in ru_guardrails
+    assert "not a translation dump" in ru_guardrails
+    assert "140 transcript bodies" in bridge["future_ru_wedge"]["defer"]
+    assert "ph-civ-ru commands" in bridge["future_ru_wedge"]["defer"]
+    assert bridge["future_ru_wedge"]["no_repo_scaffold_in_this_pass"] is True
+    assert [item["future_surface"] for item in bridge["localization_roadmap"]] == [
+        "ph-civ-zh",
+        "ph-civ-ru",
+    ]
+    assert {item["upstream_source"] for item in bridge["localization_roadmap"]} == {"ph-civ"}
+    assert {item["dependency_role"] for item in bridge["localization_roadmap"]} == {
+        "downstream_localization_mirror"
+    }
 
     doc = (ROOT / "docs" / "bilingual-civilizational-bridge.md").read_text(encoding="utf-8")
+    assert "Trilingual Civilizational Bridge" in doc
+    assert "`ph-civ` / English / canonical public artifact" in doc
     assert "Homer to Tolstoy, read from China." in doc
     assert "Volume I literary spine" in doc
     assert "paired mirrors" in doc
     assert "not propaganda" in doc
     assert "not anti-Western" in doc
     assert "not a translation dump" in doc
+    assert "ph-civ-ru" in doc
+    assert "Russian glossary" in doc
+    assert "not live war analysis" in doc
+    assert "downstream of `ph-civ`" in doc
+    assert "not become sibling authorities" in doc
 
     start_here = (ROOT / "START-HERE.md").read_text(encoding="utf-8")
     assert "Default mode: first_tour" in start_here
-    assert "identity/growth layer" in start_here
+    assert "trilingual identity/growth layer" in start_here
     assert "not a replacement for `first_tour`" in start_here
+    assert "downstream mirrors of canonical `ph-civ`" in start_here
 
     assert main(["bilingual", "--json"]) == 0
     payload = json.loads(capsys.readouterr().out)
+    assert payload["bridge_id"] == "trilingual_civilizational_bridge"
     assert payload["loop_id"] == "english_chinese_civilizational_bridge"
+    assert payload["language_scope"] == "trilingual"
     assert payload["posture"] == "civilizational_bridge"
+    assert payload["canonical_source"] == "ph-civ"
+    assert payload["downstream_mirrors"] == ["ph-civ-zh", "ph-civ-ru"]
     assert payload["future_zh_wedge"]["first_steps"][0] == "canonical glossary"
+    assert payload["future_ru_wedge"]["future_surface"] == "ph-civ-ru"
+    assert payload["localization_roadmap"][1]["future_surface"] == "ph-civ-ru"
+
+    assert main(["trilingual", "--json"]) == 0
+    payload = json.loads(capsys.readouterr().out)
+    assert payload["bridge_id"] == "trilingual_civilizational_bridge"
+    assert payload["downstream_mirrors"] == ["ph-civ-zh", "ph-civ-ru"]
 
     assert main(["bilingual"]) == 0
     out = capsys.readouterr().out
+    assert "trilingual_civilizational_bridge: civilizational_bridge" in out
+    assert "legacy_loop_id: english_chinese_civilizational_bridge" in out
+    assert "language_scope: trilingual" in out
     assert "primary_wedge: homer_to_tolstoy_read_from_china" in out
+    assert "canonical_source: ph-civ" in out
+    assert "downstream_mirrors: ph-civ-zh, ph-civ-ru" in out
     assert "English hook:" in out
     assert "Chinese hook:" in out
     assert "not propaganda" in out
     assert "canonical glossary" in out
+    assert "future_ru_wedge:" in out
+    assert "future_surface: ph-civ-ru" in out
+    assert "Russian glossary" in out
+
+    assert main(["trilingual"]) == 0
+    out = capsys.readouterr().out
+    assert "trilingual_civilizational_bridge: civilizational_bridge" in out
 
 
 def test_first_tour_contract(capsys):

@@ -14,7 +14,7 @@ It also contains the chapter body for each source item. In this repo, one chapte
 
 This package is independent educational infrastructure. It is not official course material, not endorsement, and not a substitute for the source lectures, transcripts, commentary, or external verification.
 
-The repo also carries a bilingual civilizational bridge ambition: English and Chinese readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through the same source-bounded route system. This is ambition metadata, not a Chinese translation launch; see `docs/bilingual-civilizational-bridge.md`.
+The repo also carries a trilingual civilizational bridge ambition: English, Chinese, and Russian readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through the same source-bounded route system. This is ambition metadata, not a Chinese or Russian translation launch. Both `ph-civ-zh` and `ph-civ-ru` would be downstream mirrors of canonical `ph-civ`, not sibling sources of truth; see `docs/bilingual-civilizational-bridge.md`.
 
 ## Repository Role
 
@@ -67,6 +67,8 @@ ph-civ start
 ph-civ start --json
 ph-civ tour
 ph-civ tour --json
+ph-civ trilingual
+ph-civ trilingual --json
 ph-civ bilingual
 ph-civ bilingual --json
 ph-civ growth

@@ -77,8 +77,16 @@
     "path": "data/bilingual-loop.json",
     "reader_doc": "docs/bilingual-civilizational-bridge.md",
     "posture": "civilizational_bridge",
+    "bridge_id": "trilingual_civilizational_bridge",
+    "language_scope": "trilingual",
     "status": "ambition_metadata",
-    "primary_wedge": "homer_to_tolstoy_read_from_china"
+    "canonical_source": "ph-civ",
+    "primary_wedge": "homer_to_tolstoy_read_from_china",
+    "localization_roadmap": [
+      "ph-civ-zh",
+      "ph-civ-ru"
+    ],
+    "authority_model": "ph-civ-zh and ph-civ-ru are downstream mirrors of canonical ph-civ, not sibling sources of truth."
   },
   "modes": [
     {
