@@ -6,6 +6,10 @@ This chapter folder is a public study doorway for `sh-28`.
 
 Use this folder when someone shares the GitHub chapter link in a YouTube comment or an LLM chat. Start with the transcript, then use the commentary canvas and orientation card to keep the reading bounded.
 
+## Source Video
+
+- YouTube: https://www.youtube.com/watch?v=WFWizN3QoPg
+
 ## Files
 
 - [Transcript](sh-28-transcript.md)

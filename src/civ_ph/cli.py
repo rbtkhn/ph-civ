@@ -232,6 +232,12 @@ def chapter_folder_link_payload(card: dict) -> dict:
     paths = card.get("source_paths", {})
     transcript_path = paths.get("source_chapter_path", "")
     commentary_path = paths.get("commentary_path", "")
+    transcript_file = DATA_ROOT.parent / transcript_path
+    source_video_url = None
+    if transcript_file.exists():
+        source_video_url = markdown_frontmatter(
+            transcript_file.read_text(encoding="utf-8")
+        ).get("source_url")
     folder_path = "/".join(transcript_path.split("/")[:-1])
     folder_ready = bool(
         folder_path
@@ -273,6 +279,7 @@ def chapter_folder_link_payload(card: dict) -> dict:
         "folder_ready": folder_ready,
         "chapter_folder_path": folder_path if folder_ready else None,
         "github_folder_url": github_folder_url,
+        "source_video_url": source_video_url,
         "transcript_path": transcript_path,
         "commentary_path": commentary_path,
         "card_path": f"data/cards/{card['source_id']}.md",
@@ -398,6 +405,8 @@ def cmd_link(args) -> int:
         print(f"{args.source_id} does not have a dedicated chapter folder yet.", file=sys.stderr)
         return 2
     print(f"{payload['source_id']}\t{payload['title']}")
+    if payload.get("source_video_url"):
+        print(f"source_video: {payload['source_video_url']}")
     print(f"folder: {payload['github_folder_url']}")
     print(f"review_status: {payload['review_status']}")
     print("")
@@ -597,6 +606,14 @@ def cmd_validate(args) -> int:
                     errors.append(f"{source_id} missing chapter folder README: {folder_path}/README.md")
                 else:
                     readme_text = readme_path.read_text(encoding="utf-8")
+                    transcript_file = DATA_ROOT.parent / transcript_path
+                    source_url = ""
+                    if transcript_file.exists():
+                        source_url = markdown_frontmatter(
+                            transcript_file.read_text(encoding="utf-8")
+                        ).get("source_url", "")
+                    if source_url and ("## Source Video" not in readme_text or source_url not in readme_text):
+                        errors.append(f"{source_id} chapter folder README must surface source video URL")
                     for marker in [
                         "public study doorway",
                         "Paste this folder link into ChatGPT, Claude, or Grok",
@@ -735,6 +752,19 @@ def cmd_validate(args) -> int:
         ]:
             if marker not in chapter_folder_text:
                 errors.append(f"docs/chapter-folder-links.md missing marker: {marker}")
+    source_video_doc = DATA_ROOT.parent / "docs" / "source-video-index.md"
+    if not source_video_doc.exists():
+        errors.append("docs/source-video-index.md must exist")
+    else:
+        source_video_text = source_video_doc.read_text(encoding="utf-8")
+        for marker in [
+            "Source Video Index",
+            "Predictive History YouTube source URLs",
+            "https://www.youtube.com/watch?v=8nsxuB3Vsts",
+            "book/volume-iii/gt-24/gt-24-transcript.md",
+        ]:
+            if marker not in source_video_text:
+                errors.append(f"docs/source-video-index.md missing marker: {marker}")
     bilingual = load_bilingual_loop()
     if bilingual.get("loop_id") != "english_chinese_civilizational_bridge":
         errors.append("bilingual-loop.json invalid loop_id")

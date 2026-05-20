@@ -6,6 +6,10 @@ This chapter folder is a public study doorway for `sh-14`.
 
 Use this folder when someone shares the GitHub chapter link in a YouTube comment or an LLM chat. Start with the transcript, then use the commentary canvas and orientation card to keep the reading bounded.
 
+## Source Video
+
+- YouTube: https://www.youtube.com/watch?v=JpTI2gFYWrU
+
 ## Files
 
 - [Transcript](sh-14-transcript.md)

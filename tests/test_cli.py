@@ -76,6 +76,15 @@ def test_folder_backed_chapters_have_reader_doorways():
         assert "Paste this folder link into ChatGPT, Claude, or Grok" in text
         assert Path(transcript_path).name in text
         assert Path(commentary_path).name in text
+        transcript_text = (ROOT / transcript_path).read_text(encoding="utf-8")
+        if "source_url:" in transcript_text:
+            source_url = next(
+                line.split(":", 1)[1].strip().strip('"')
+                for line in transcript_text.splitlines()
+                if line.startswith("source_url:")
+            )
+            assert "## Source Video" in text
+            assert source_url in text
 
 
 def test_latest_game_theory_chapters_are_provisional_source_first(capsys):
@@ -100,12 +109,14 @@ def test_latest_game_theory_chapters_are_provisional_source_first(capsys):
     assert payload["source_id"] == "gt-24"
     assert payload["folder_ready"] is True
     assert payload["github_folder_url"].endswith("/book/volume-iii/gt-24")
+    assert payload["source_video_url"] == "https://www.youtube.com/watch?v=8nsxuB3Vsts"
     assert "ChatGPT, Claude, or Grok" in payload["suggested_youtube_comment"]
     assert "provisional" in payload["suggested_youtube_comment"]
 
     assert main(["link", "gt-24"]) == 0
     out = capsys.readouterr().out
     assert "YouTube comment:" in out
+    assert "source_video: https://www.youtube.com/watch?v=8nsxuB3Vsts" in out
     assert "https://github.com/rbtkhn/ph-civ/tree/main/book/volume-iii/gt-24" in out
     assert "public LLM-native Predictive History reader" in out
 
@@ -269,6 +280,18 @@ def test_llms_full_context_packet_exists():
     assert "not live war analysis" in text
     assert "Chapter-Folder Links" in text
     assert "not a replacement for `first_tour`" in text
+    assert "docs/source-video-index.md" in text
+
+
+def test_source_video_index_surfaces_youtube_urls():
+    index = ROOT / "docs" / "source-video-index.md"
+    assert index.exists()
+    text = index.read_text(encoding="utf-8")
+    assert "Source Video Index" in text
+    assert "Predictive History YouTube source URLs" in text
+    assert "https://www.youtube.com/watch?v=8nsxuB3Vsts" in text
+    assert "book/volume-iii/gt-24/gt-24-transcript.md" in text
+    assert "https://www.youtube.com/watch?v=RG1clZlrfOo" in text
 
 
 def test_bilingual_bridge_contract(capsys):

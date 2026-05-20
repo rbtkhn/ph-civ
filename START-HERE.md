@@ -90,3 +90,4 @@ Choose one: continue the first tour; study civ-07; open the ph-mus museum room f
 - `data/bilingual-loop.json`
 - `docs/bilingual-civilizational-bridge.md`
 - `docs/chapter-folder-links.md`
+- `docs/source-video-index.md`

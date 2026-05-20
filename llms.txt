@@ -56,6 +56,7 @@ Excluded:
 - Use `data/routes/seed.json`, `data/cards.jsonl`, `data/patterns.json`, and `data/routes/choreography.json` as public data sources.
 - Use `data/routes/first-tour.json` and `docs/first-tour.md` when the reader chooses `continue the first tour`.
 - Use `docs/chapter-folder-links.md` and `ph-civ link <source_id>` for YouTube comment handoffs built around exact chapter-folder URLs.
+- Use `docs/source-video-index.md` when a reader needs the public Predictive History YouTube source URLs in one place.
 - Use `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` for the trilingual civilizational bridge ambition and localization roadmap: canonical English `ph-civ`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`. This is an identity/growth layer, not a `first_tour` replacement and not a translation dump. `ph-civ-zh` and `ph-civ-ru` are downstream mirrors of canonical `ph-civ`, not sibling sources of truth. `ph-civ-ru` is roadmap metadata only, not a Russian edition or command surface.
 - Do not answer as if this repo owns live workshop editorial state.
 

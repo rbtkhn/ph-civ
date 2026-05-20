@@ -6,6 +6,10 @@ This chapter folder is a public study doorway for `gt-15`.
 
 Use this folder when someone shares the GitHub chapter link in a YouTube comment or an LLM chat. Start with the transcript, then use the commentary canvas and orientation card to keep the reading bounded.
 
+## Source Video
+
+- YouTube: https://www.youtube.com/watch?v=zAer-Mqe7tQ
+
 ## Files
 
 - [Transcript](gt-15-transcript.md)

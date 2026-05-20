@@ -28,6 +28,7 @@ It should not become the large-media vault. Museum artifacts must be stored in a
 - 149 public source chapters under `book/`, including the first Apocalypse-facing essay transfers.
 - 149 chapter commentaries under `book/`, each seeded as an open commentary canvas.
 - Chapter-folder `README.md` doorways for folder-backed chapters, designed for direct GitHub links in YouTube comments and LLM chats.
+- A source video index at `docs/source-video-index.md` so Predictive History YouTube URLs are visible from one public file.
 - Two conceptual volumes: Volume I / Civilization / `ph-civ`, and Volume II / Apocalypse / `ph-apo`.
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, Secret History, and Essays.
 - The Homer-to-Tolstoy literary spine as the Volume I literary spine with cross-volume routing exposure.

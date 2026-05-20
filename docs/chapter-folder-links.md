@@ -4,6 +4,8 @@ Each chapter-folder URL handoff lets a reader move from a Predictive History You
 
 The repository root URL still defaults to `first_tour`. A chapter-folder URL defaults to `study`: open the folder `README.md`, then use the transcript, commentary canvas, orientation payload, and public card.
 
+When the source transcript carries a public YouTube URL, the folder README should surface it under `Source Video` so the original lecture remains easy to notice before a reader enters commentary.
+
 ## YouTube Comment Shape
 
 Use one tailored top-level YouTube comment per video. The comment should name what the lecture is doing, offer the public reader packet, include the exact chapter-folder URL, and tell the reader to paste the folder link into ChatGPT, Claude, or Grok.
@@ -17,7 +19,7 @@ ph-civ link gt-24
 ph-civ link gt-24 --json
 ```
 
-The helper returns the GitHub folder URL, review status, suggested LLM prompt, and a paste-ready YouTube comment.
+The helper returns the source video URL when available, the GitHub folder URL, review status, suggested LLM prompt, and a paste-ready YouTube comment.
 
 ## Guardrails
 
