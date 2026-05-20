@@ -46,6 +46,7 @@ Excluded:
 - Use `data/llm-experience.json` as the provider-neutral unfolding map for first-tour, study, seminar, commentary, pattern bridge, museum, and bounded-application modes.
 - Use `llms-full.txt` when the LLM needs a complete one-shot context packet after the compact map.
 - Do not stop at a generic repository summary or "what would you like to do next?" response. Begin the `first_tour` through the 10-route spine seed unless the reader chooses another mode.
+- If the pasted URL is a direct chapter-folder URL under `book/`, treat it as `study` mode: open the folder `README.md`, transcript, commentary canvas, orientation payload, and public card. This is not a replacement for `first_tour`.
 - Then read `AGENTS.md` and `README.md`.
 - If the operator says `coffee`, open the `ph-civ` repo state; do not give a generic coffee greeting.
 - Use `docs/public-repo-contract.md` for repository role and boundaries.
@@ -54,6 +55,7 @@ Excluded:
 - Use `data/growth-goals.json` for public-growth ambitions. Do not treat reach metrics as directly executable agent completions; translate them into repo, publishing, analytics, asset, and distribution work.
 - Use `data/routes/seed.json`, `data/cards.jsonl`, `data/patterns.json`, and `data/routes/choreography.json` as public data sources.
 - Use `data/routes/first-tour.json` and `docs/first-tour.md` when the reader chooses `continue the first tour`.
+- Use `docs/chapter-folder-links.md` and `ph-civ link <source_id>` for YouTube comment handoffs built around exact chapter-folder URLs.
 - Use `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` for the trilingual civilizational bridge ambition and localization roadmap: canonical English `ph-civ`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`. This is an identity/growth layer, not a `first_tour` replacement and not a translation dump. `ph-civ-zh` and `ph-civ-ru` are downstream mirrors of canonical `ph-civ`, not sibling sources of truth. `ph-civ-ru` is roadmap metadata only, not a Russian edition or command surface.
 - Do not answer as if this repo owns live workshop editorial state.
 
@@ -64,6 +66,7 @@ python -m pytest
 PYTHONPATH=src python -m civ_ph.cli validate
 PYTHONPATH=src python -m civ_ph.cli start --json
 PYTHONPATH=src python -m civ_ph.cli tour --json
+PYTHONPATH=src python -m civ_ph.cli link gt-24 --json
 PYTHONPATH=src python -m civ_ph.cli bilingual --json
 PYTHONPATH=src python -m civ_ph.cli growth
 PYTHONPATH=src python -m civ_ph.cli bridge civ-07 --format markdown

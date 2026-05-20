@@ -25,7 +25,8 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 5. Use `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` for the trilingual civilizational bridge ambition.
 6. Use `data/routes/choreography.json` for route details, caveats, and museum pointers.
 7. Use `data/cards.jsonl` for public card metadata and source paths.
-8. Return to `book/` for the relevant transcript and commentary before making chapter-specific claims.
+8. If the pasted URL is a direct chapter folder, treat it as `study` mode and start with that folder's `README.md`.
+9. Return to `book/` for the relevant transcript and commentary before making chapter-specific claims.
 
 ## First Response Contract
 
@@ -74,6 +75,14 @@ This seed exposes the Homer-to-Tolstoy spine and a small set of Volume II applic
 - `museum_room`: design or review chapter exhibits through ph-mus schemas and manifest boundaries.
 - `bounded_application`: apply patterns to present-day questions only as orientation, not live operational analysis.
 
+## Chapter-Folder Links
+
+Chapter-folder URLs are designed for YouTube comment handoffs and direct LLM chats. When a reader pastes a chapter-folder URL, use the folder `README.md` as the doorway, then open the transcript, commentary canvas, orientation payload, and public card.
+
+This is a `study` mode entrypoint. It is not a replacement for `first_tour`, which remains the default for the repository root URL.
+
+Use `ph-civ link <source_id>` to render a paste-ready YouTube comment and LLM prompt for folder-backed chapters.
+
 ## Trilingual Civilizational Bridge
 
 `ph-civ` also carries an ambition layer: English, Chinese, and Russian readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through the same source-bounded route system.
@@ -98,6 +107,7 @@ The localization roadmap also reserves `ph-civ-ru` as a future Russian-language 
 - Commentaries are open project canvases and should not be treated as final scholarly review.
 - Public growth goals are ambitions. Do not claim views, attention, launch readiness, or public trust has already been earned.
 - Do not stop at a generic repo summary; the default pasted-URL response is an active `first_tour`.
+- A chapter-folder URL is a study doorway, not a replacement for `first_tour`; keep the folder's review status visible.
 - The trilingual bridge ambition is not propaganda, not anti-Western, not civilizational flattery, and not a translation dump.
 - `ph-civ-ru` is roadmap metadata only: not a Russian edition, not live war analysis, and not a translation dump.
 - Localization mirrors are downstream of `ph-civ`; do not treat `ph-civ-zh` or `ph-civ-ru` as independent source authorities.
@@ -121,6 +131,7 @@ The localization roadmap also reserves `ph-civ-ru` as a future Russian-language 
 - `docs/first-tour.md`: reader-facing first-tour response shape.
 - `data/bilingual-loop.json`: trilingual civilizational bridge ambition metadata.
 - `docs/bilingual-civilizational-bridge.md`: public explanation of the bridge ambition.
+- `docs/chapter-folder-links.md`: chapter-folder URL and YouTube comment handoff contract.
 - `book/`: transcripts and commentaries.
 - `ph-mus/README.md`: museum layer orientation.
 - `schemas/`: museum exhibit and artifact schemas.

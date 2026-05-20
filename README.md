@@ -1,6 +1,6 @@
 # Predictive History Public Repository
 
-For AI agents and new chats: start with `START-HERE.md`, then `AGENTS.md` and `llms.txt`. If a user pastes `https://github.com/rbtkhn/ph-civ` into an LLM chat, use `START-HERE.md`, `data/llm-experience.json`, and `llms-full.txt` as the unfolding map and one-shot context packet. Do not stop at a generic repository summary or "what would you like to do next?" response; begin the `first_tour` through the 10-route spine seed unless the reader chooses another mode. This repo is the public Predictive History distribution layer, not the private editorial workshop.
+For AI agents and new chats: start with `START-HERE.md`, then `AGENTS.md` and `llms.txt`. If a user pastes `https://github.com/rbtkhn/ph-civ` into an LLM chat, use `START-HERE.md`, `data/llm-experience.json`, and `llms-full.txt` as the unfolding map and one-shot context packet. Do not stop at a generic repository summary or "what would you like to do next?" response; begin the `first_tour` through the 10-route spine seed unless the reader chooses another mode. If a user pastes a direct chapter-folder URL, treat that folder as `study` mode: open its `README.md`, transcript, commentary canvas, and public card. This repo is the public Predictive History distribution layer, not the private editorial workshop.
 
 This repository is the public-facing home for the two-volume ph-civ artifact. It contains three related Predictive History surfaces:
 
@@ -24,9 +24,10 @@ It should not become the large-media vault. Museum artifacts must be stored in a
 
 ## What Is Included
 
-- 145 public cards from Predictive History snapshot `56a4a08`, including the first `sub-*` essay lane.
-- 145 public source chapters under `book/`, including the first Apocalypse-facing essay transfers.
-- 145 chapter commentaries under `book/`, each seeded as an open commentary canvas.
+- 149 public cards from Predictive History snapshot `56a4a08`, including the first `sub-*` essay lane and provisional `gt-23` through `gt-26` captures.
+- 149 public source chapters under `book/`, including the first Apocalypse-facing essay transfers.
+- 149 chapter commentaries under `book/`, each seeded as an open commentary canvas.
+- Chapter-folder `README.md` doorways for folder-backed chapters, designed for direct GitHub links in YouTube comments and LLM chats.
 - Two conceptual volumes: Volume I / Civilization / `ph-civ`, and Volume II / Apocalypse / `ph-apo`.
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, Secret History, and Essays.
 - The Homer-to-Tolstoy literary spine as the Volume I literary spine with cross-volume routing exposure.
@@ -75,6 +76,8 @@ ph-civ growth
 ph-civ volumes
 ph-civ volume volume-i --json
 ph-civ route civ-07 --json
+ph-civ link gt-24
+ph-civ link gt-24 --json
 ph-civ patterns
 ph-civ pattern civ-chokepoint-pressure --format json
 ph-civ bridge gt-16 --json

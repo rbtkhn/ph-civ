@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def test_loads_all_seeded_cards():
     cards = load_cards()
-    assert len(cards) == 145
+    assert len(cards) == 149
     assert {"civilization", "world-war"} <= {card["part"] for card in cards}
 
 
@@ -36,8 +36,8 @@ def test_all_cards_have_local_transcript_and_commentary():
         transcript_paths.append(transcript_path)
         commentary_paths.append(commentary_path)
 
-    assert len(set(transcript_paths)) == 145
-    assert len(set(commentary_paths)) == 145
+    assert len(set(transcript_paths)) == 149
+    assert len(set(commentary_paths)) == 149
 
 
 def test_all_commentaries_have_open_project_canvas():
@@ -62,6 +62,54 @@ def test_all_commentaries_have_open_project_canvas():
             assert marker in text, f"{card['source_id']} missing {marker}"
 
 
+def test_folder_backed_chapters_have_reader_doorways():
+    for card in load_cards():
+        transcript_path = card["source_paths"]["source_chapter_path"]
+        commentary_path = card["source_paths"]["commentary_path"]
+        folder = Path(transcript_path).parent
+        if folder.name != card["source_id"]:
+            continue
+        readme = ROOT / folder / "README.md"
+        assert readme.exists(), card["source_id"]
+        text = readme.read_text(encoding="utf-8")
+        assert "public study doorway" in text
+        assert "Paste this folder link into ChatGPT, Claude, or Grok" in text
+        assert Path(transcript_path).name in text
+        assert Path(commentary_path).name in text
+
+
+def test_latest_game_theory_chapters_are_provisional_source_first(capsys):
+    cards = {card["source_id"]: card for card in load_cards()}
+    route_ids = set(load_route_seed()["route_ids"])
+    museum_ids = {exhibit["source_id"] for exhibit in load_museum_index()}
+    for source_id in ["gt-23", "gt-24", "gt-25", "gt-26"]:
+        card = cards[source_id]
+        assert card["series"] == "game-theory"
+        assert card["part"] == "world-war"
+        assert card["review_status"] == "provisional"
+        assert source_id not in route_ids
+        assert source_id not in museum_ids
+        folder = ROOT / "book" / "volume-iii" / source_id
+        assert (folder / f"{source_id}-transcript.md").exists()
+        assert (folder / f"{source_id}-commentary.md").exists()
+        assert (folder / f"{source_id}-orientation.yaml").exists()
+        assert "provisional" in (folder / "README.md").read_text(encoding="utf-8")
+
+    assert main(["link", "gt-24", "--json"]) == 0
+    payload = json.loads(capsys.readouterr().out)
+    assert payload["source_id"] == "gt-24"
+    assert payload["folder_ready"] is True
+    assert payload["github_folder_url"].endswith("/book/volume-iii/gt-24")
+    assert "ChatGPT, Claude, or Grok" in payload["suggested_youtube_comment"]
+    assert "provisional" in payload["suggested_youtube_comment"]
+
+    assert main(["link", "gt-24"]) == 0
+    out = capsys.readouterr().out
+    assert "YouTube comment:" in out
+    assert "https://github.com/rbtkhn/ph-civ/tree/main/book/volume-iii/gt-24" in out
+    assert "public LLM-native Predictive History reader" in out
+
+
 def test_show_known_card_json(capsys):
     assert main(["show", "civ-41", "--format", "json"]) == 0
     assert "\"source_id\": \"civ-41\"" in capsys.readouterr().out
@@ -81,7 +129,7 @@ def test_prompt_creative_contains_boundaries(capsys):
 
 def test_validate_passes(capsys):
     assert main(["validate"]) == 0
-    assert "card_count: 145" in capsys.readouterr().out
+    assert "card_count: 149" in capsys.readouterr().out
 
 
 def test_exported_source_repo_uses_workshop():
@@ -173,6 +221,9 @@ def test_llm_native_bootloader_contract(capsys):
     assert experience["bilingual_bridge"]["primary_wedge"] == "homer_to_tolstoy_read_from_china"
     assert experience["bilingual_bridge"]["localization_roadmap"] == ["ph-civ-zh", "ph-civ-ru"]
     assert "downstream mirrors" in experience["bilingual_bridge"]["authority_model"]
+    assert experience["chapter_folder_links"]["reader_doc"] == "docs/chapter-folder-links.md"
+    assert experience["chapter_folder_links"]["default_mode"] == "study"
+    assert experience["chapter_folder_links"]["cli"] == "ph-civ link <source_id>"
     assert experience["public_surfaces"]["volume_i"]["surface"] == "ph-civ"
     assert experience["public_surfaces"]["volume_ii"]["surface"] == "ph-apo"
     assert experience["public_surfaces"]["museum"]["surface"] == "ph-mus"
@@ -190,6 +241,7 @@ def test_llm_native_bootloader_contract(capsys):
     assert payload["first_response_contract"]["default_mode"] == "first_tour"
     assert payload["first_tour"]["path"] == "data/routes/first-tour.json"
     assert payload["bilingual_bridge"]["path"] == "data/bilingual-loop.json"
+    assert payload["chapter_folder_links"]["reader_doc"] == "docs/chapter-folder-links.md"
     assert payload["first_seed"]["route_ids"] == load_route_seed()["route_ids"]
 
 
@@ -215,6 +267,8 @@ def test_llms_full_context_packet_exists():
     assert "ph-civ-ru" in text
     assert "Russian glossary" in text
     assert "not live war analysis" in text
+    assert "Chapter-Folder Links" in text
+    assert "not a replacement for `first_tour`" in text
 
 
 def test_bilingual_bridge_contract(capsys):
@@ -257,7 +311,7 @@ def test_bilingual_bridge_contract(capsys):
     ]
     assert bridge["future_zh_wedge"]["upstream_source"] == "ph-civ"
     assert bridge["future_zh_wedge"]["dependency_role"] == "downstream_localization_mirror"
-    assert "145 source chapters" in bridge["future_zh_wedge"]["defer"]
+    assert "149 source chapters" in bridge["future_zh_wedge"]["defer"]
     assert bridge["future_zh_wedge"]["no_repo_scaffold_in_this_pass"] is True
     assert bridge["future_ru_wedge"]["future_surface"] == "ph-civ-ru"
     assert bridge["future_ru_wedge"]["status"] == "roadmap_candidate"
@@ -273,7 +327,7 @@ def test_bilingual_bridge_contract(capsys):
     assert "not anti-Ukrainian" in ru_guardrails
     assert "not live war analysis" in ru_guardrails
     assert "not a translation dump" in ru_guardrails
-    assert "145 source chapters" in bridge["future_ru_wedge"]["defer"]
+    assert "149 source chapters" in bridge["future_ru_wedge"]["defer"]
     assert "ph-civ-ru commands" in bridge["future_ru_wedge"]["defer"]
     assert bridge["future_ru_wedge"]["no_repo_scaffold_in_this_pass"] is True
     assert [item["future_surface"] for item in bridge["localization_roadmap"]] == [
@@ -305,6 +359,7 @@ def test_bilingual_bridge_contract(capsys):
     assert "trilingual identity/growth layer" in start_here
     assert "not a replacement for `first_tour`" in start_here
     assert "downstream mirrors of canonical `ph-civ`" in start_here
+    assert "chapter-folder URL is a study doorway" in start_here
 
     assert main(["bilingual", "--json"]) == 0
     payload = json.loads(capsys.readouterr().out)
@@ -392,7 +447,7 @@ def test_volumes_command_returns_architecture(capsys):
     assert payload["volumes"]["volume_ii"]["role"] == "law_application"
     assert payload["museum"]["surface"] == "ph-mus"
     assert payload["museum"]["role"] == "chapter_exhibit_layer"
-    assert payload["unique_card_count"] == 145
+    assert payload["unique_card_count"] == 149
 
 
 def test_volume_command_lists_conceptual_membership(capsys):

@@ -29,6 +29,7 @@ from .data import (
 )
 
 EXPECTED_SOURCE_REPO = "rbtkhn/ph-workshop"
+GITHUB_TREE_BASE = "https://github.com/rbtkhn/ph-civ/tree/main"
 
 PROMPT_MODES = {
     "study": "Create a study plan that helps me understand this ph-civ orientation card without treating it as a substitute for the source lecture.",
@@ -227,6 +228,59 @@ def route_public_payload(route: dict) -> dict:
     }
 
 
+def chapter_folder_link_payload(card: dict) -> dict:
+    paths = card.get("source_paths", {})
+    transcript_path = paths.get("source_chapter_path", "")
+    commentary_path = paths.get("commentary_path", "")
+    folder_path = "/".join(transcript_path.split("/")[:-1])
+    folder_ready = bool(
+        folder_path
+        and folder_path.endswith(f"/{card['source_id']}")
+        and commentary_path.startswith(f"{folder_path}/")
+        and (DATA_ROOT.parent / folder_path / "README.md").exists()
+    )
+    github_folder_url = (
+        f"{GITHUB_TREE_BASE}/{folder_path}" if folder_ready else None
+    )
+    provisional = card.get("review_status") == "provisional"
+    review_note = (
+        " The packet is provisional, so use the review status and guardrails before quoting it."
+        if provisional
+        else ""
+    )
+    suggested_llm_prompt = (
+        f"Guide me through the {card['source_id']} chapter folder as a public study packet. "
+        "Start with the transcript, then use the commentary canvas and orientation/card "
+        "guardrails. Keep provisional claims bounded and separate lecture representation "
+        "from verification."
+    )
+    suggested_youtube_comment = (
+        f"{card['title']} is a useful place to study how this lecture turns historical "
+        "pattern into strategic pressure.\n\n"
+        "There is a public reader packet for following it without losing the thread:\n"
+        f"{github_folder_url or '[folder not ready]'}\n\n"
+        "Paste the folder link into ChatGPT, Claude, or Grok and ask it to guide you "
+        f"through the chapter using the transcript, commentary canvas, and guardrails.{review_note} "
+        "It is part of ph-civ, a public LLM-native Predictive History reader."
+    )
+    return {
+        "source_id": card["source_id"],
+        "title": card["title"],
+        "surface": card_surface(card),
+        "series": card["series"],
+        "part": card["part"],
+        "review_status": card.get("review_status"),
+        "folder_ready": folder_ready,
+        "chapter_folder_path": folder_path if folder_ready else None,
+        "github_folder_url": github_folder_url,
+        "transcript_path": transcript_path,
+        "commentary_path": commentary_path,
+        "card_path": f"data/cards/{card['source_id']}.md",
+        "suggested_llm_prompt": suggested_llm_prompt,
+        "suggested_youtube_comment": suggested_youtube_comment,
+    }
+
+
 def first_tour_payload() -> dict:
     tour = load_first_tour()
     routes_by_id = {route["source_id"]: route for route in load_choreography()}
@@ -328,6 +382,30 @@ def cmd_route(args) -> int:
     if payload.get("caveat"):
         print(f"caveat: {payload['caveat']}")
     print(f"what changes here: {payload['what_changes_here']}")
+    return 0
+
+
+def cmd_link(args) -> int:
+    try:
+        card = get_card(args.source_id)
+    except KeyError:
+        print(f"Unknown source_id: {args.source_id}", file=sys.stderr)
+        return 2
+    payload = chapter_folder_link_payload(card)
+    if args.json:
+        return emit_json(payload)
+    if not payload["folder_ready"]:
+        print(f"{args.source_id} does not have a dedicated chapter folder yet.", file=sys.stderr)
+        return 2
+    print(f"{payload['source_id']}\t{payload['title']}")
+    print(f"folder: {payload['github_folder_url']}")
+    print(f"review_status: {payload['review_status']}")
+    print("")
+    print("LLM prompt:")
+    print(payload["suggested_llm_prompt"])
+    print("")
+    print("YouTube comment:")
+    print(payload["suggested_youtube_comment"])
     return 0
 
 
@@ -511,6 +589,21 @@ def cmd_validate(args) -> int:
                 errors.append(f"{source_id} missing {label} file: {relative_path}")
             elif label == "commentary":
                 errors.extend(validate_commentary_canvas(source_id, chapter_path))
+        if transcript_path and commentary_path:
+            folder_path = "/".join(transcript_path.split("/")[:-1])
+            if folder_path.endswith(f"/{source_id}") and commentary_path.startswith(f"{folder_path}/"):
+                readme_path = DATA_ROOT.parent / folder_path / "README.md"
+                if not readme_path.exists():
+                    errors.append(f"{source_id} missing chapter folder README: {folder_path}/README.md")
+                else:
+                    readme_text = readme_path.read_text(encoding="utf-8")
+                    for marker in [
+                        "public study doorway",
+                        "Paste this folder link into ChatGPT, Claude, or Grok",
+                        "Commentary canvas",
+                    ]:
+                        if marker not in readme_text:
+                            errors.append(f"{source_id} chapter folder README missing marker: {marker}")
     for metadata_path in [
         DATA_ROOT / "index.json",
         DATA_ROOT / "surfaces.json",
@@ -520,6 +613,8 @@ def cmd_validate(args) -> int:
         source_repo = metadata.get("source_snapshot", {}).get("repo")
         if source_repo != EXPECTED_SOURCE_REPO:
             errors.append(f"{metadata_path.relative_to(DATA_ROOT)} invalid source repo: {source_repo}")
+        if metadata_path.name == "index.json" and metadata.get("card_count") != len(cards):
+            errors.append("index.json card_count must match packaged cards")
     choreography = load_choreography()
     route_ids = [route.get("source_id") for route in choreography]
     if len(choreography) != 10:
@@ -620,6 +715,26 @@ def cmd_validate(args) -> int:
         errors.append("llm-experience first_tour must point to docs/first-tour.md")
     if llm_first_tour.get("opening_route") != "civ-07":
         errors.append("llm-experience first_tour must open at civ-07")
+    chapter_folder_links = llm_experience.get("chapter_folder_links", {})
+    if chapter_folder_links.get("reader_doc") != "docs/chapter-folder-links.md":
+        errors.append("llm-experience chapter_folder_links must point to docs/chapter-folder-links.md")
+    if chapter_folder_links.get("default_mode") != "study":
+        errors.append("llm-experience chapter_folder_links must default to study")
+    if "ph-civ link" not in chapter_folder_links.get("cli", ""):
+        errors.append("llm-experience chapter_folder_links must expose ph-civ link")
+    chapter_folder_doc = DATA_ROOT.parent / "docs" / "chapter-folder-links.md"
+    if not chapter_folder_doc.exists():
+        errors.append("docs/chapter-folder-links.md must exist")
+    else:
+        chapter_folder_text = chapter_folder_doc.read_text(encoding="utf-8")
+        for marker in [
+            "chapter-folder URL",
+            "YouTube comment",
+            "paste the folder link into ChatGPT, Claude, or Grok",
+            "not a replacement for `first_tour`",
+        ]:
+            if marker not in chapter_folder_text:
+                errors.append(f"docs/chapter-folder-links.md missing marker: {marker}")
     bilingual = load_bilingual_loop()
     if bilingual.get("loop_id") != "english_chinese_civilizational_bridge":
         errors.append("bilingual-loop.json invalid loop_id")
@@ -662,7 +777,7 @@ def cmd_validate(args) -> int:
     future_steps = future_zh.get("first_steps", [])
     if future_steps != ["canonical glossary", "Chinese bootloader", "Chinese first-tour metadata"]:
         errors.append("bilingual-loop.json future_zh_wedge must start with glossary, bootloader, first-tour metadata")
-    if "145 source chapters" not in future_zh.get("defer", ""):
+    if "149 source chapters" not in future_zh.get("defer", ""):
         errors.append("bilingual-loop.json future_zh_wedge must defer transcript translation")
     future_ru = bilingual.get("future_ru_wedge", {})
     if future_ru.get("upstream_source") != "ph-civ":
@@ -679,7 +794,7 @@ def cmd_validate(args) -> int:
     for marker in ["not Russian-state apologetics", "not anti-Ukrainian", "not live war analysis", "not a translation dump"]:
         if marker not in ru_guardrails:
             errors.append(f"bilingual-loop.json future_ru_wedge missing guardrail: {marker}")
-    if "145 source chapters" not in future_ru.get("defer", "") or "ph-civ-ru commands" not in future_ru.get("defer", ""):
+    if "149 source chapters" not in future_ru.get("defer", "") or "ph-civ-ru commands" not in future_ru.get("defer", ""):
         errors.append("bilingual-loop.json future_ru_wedge must defer transcript translation and commands")
     roadmap = bilingual.get("localization_roadmap", [])
     roadmap_surfaces = [item.get("future_surface") for item in roadmap]
@@ -747,6 +862,16 @@ def cmd_validate(args) -> int:
     museum_ids = [exhibit.get("source_id") for exhibit in load_museum_index()]
     if set(museum_ids) != set(seed_route_ids):
         errors.append("museum index must contain the same route IDs as the seed")
+    provisional_gt_ids = {f"gt-{index}" for index in range(23, 27)}
+    cards_by_id = {card["source_id"]: card for card in cards}
+    missing_provisional_gt = provisional_gt_ids - set(cards_by_id)
+    for source_id in sorted(missing_provisional_gt):
+        errors.append(f"{source_id} must exist as a provisional Game Theory chapter")
+    for source_id in sorted(provisional_gt_ids & set(cards_by_id)):
+        if cards_by_id[source_id].get("review_status") != "provisional":
+            errors.append(f"{source_id} must remain provisional")
+        if source_id in set(seed_route_ids) or source_id in set(museum_ids):
+            errors.append(f"{source_id} must not be promoted into routes or museum exhibits before review")
     sh16_route = next((route for route in choreography if route.get("source_id") == "sh-16"), None)
     if not sh16_route:
         errors.append("choreography must include sh-16")
@@ -1056,6 +1181,8 @@ def cmd_start(args) -> int:
         print(f"first_tour: {experience['first_tour']['path']}")
     if experience.get("bilingual_bridge"):
         print(f"bilingual_bridge: {experience['bilingual_bridge']['path']}")
+    if experience.get("chapter_folder_links"):
+        print(f"chapter_folder_links: {experience['chapter_folder_links']['reader_doc']}")
     print("modes:")
     for mode in experience["modes"]:
         print(f"- {mode['mode']}: {mode['instruction']}")
@@ -1120,6 +1247,11 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("source_id")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_route)
+
+    p = sub.add_parser("link", help="Render a paste-ready public chapter-folder link packet.")
+    p.add_argument("source_id")
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_link)
 
     p = sub.add_parser("patterns", help="List downstream strategy-facing public pattern IDs.")
     p.add_argument("--json", action="store_true")

@@ -21,7 +21,8 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 5. Use `data/routes/first-tour.json` and `docs/first-tour.md` when the reader chooses to continue the first tour.
 6. Begin with the Homer-to-Tolstoy spine, then branch into Volume II application routes.
 7. Treat `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` as a trilingual identity/growth layer and localization roadmap, not a replacement for `first_tour`.
-8. When quoting or interpreting, return to the relevant transcript and commentary under `book/`.
+8. If the pasted URL is a direct chapter folder, switch to `study` mode for that folder: open its `README.md`, transcript, commentary canvas, and public card.
+9. When quoting or interpreting, return to the relevant transcript and commentary under `book/`.
 
 ## First Response Contract
 
@@ -66,6 +67,7 @@ Choose one: continue the first tour; study civ-07; open the ph-mus museum room f
 - Commentaries are open project canvases and should not be treated as final scholarly review.
 - Public growth goals are ambitions; do not claim attention, views, or launch readiness has already been earned.
 - Do not stop at a generic repo summary; the default pasted-URL response is an active `first_tour`.
+- A chapter-folder URL is a study doorway, not a replacement for `first_tour`; follow the folder README and keep review status visible.
 - The trilingual bridge ambition is not propaganda, not anti-Western, not civilizational flattery, and not a translation dump.
 - `ph-civ-ru` is roadmap metadata only, not a Russian edition, not live war analysis, and not a translation dump.
 - `ph-civ-zh` and `ph-civ-ru` are downstream mirrors of canonical `ph-civ`, not sibling sources of truth.
@@ -87,3 +89,4 @@ Choose one: continue the first tour; study civ-07; open the ph-mus museum room f
 - `docs/first-tour.md`
 - `data/bilingual-loop.json`
 - `docs/bilingual-civilizational-bridge.md`
+- `docs/chapter-folder-links.md`

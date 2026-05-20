@@ -88,6 +88,14 @@
     ],
     "authority_model": "ph-civ-zh and ph-civ-ru are downstream mirrors of canonical ph-civ, not sibling sources of truth."
   },
+  "chapter_folder_links": {
+    "reader_doc": "docs/chapter-folder-links.md",
+    "default_mode": "study",
+    "cli": "ph-civ link <source_id>",
+    "url_pattern": "https://github.com/rbtkhn/ph-civ/tree/main/book/<volume>/<source_id>",
+    "purpose": "direct YouTube comment and LLM-chat handoff for one chapter folder",
+    "not_replacement_for": "first_tour"
+  },
   "modes": [
     {
       "mode": "first_tour",
@@ -155,6 +163,7 @@
     "docs/first-tour.md",
     "data/bilingual-loop.json",
     "docs/bilingual-civilizational-bridge.md",
+    "docs/chapter-folder-links.md",
     "data/cards.jsonl",
     "data/patterns.json"
   ]
