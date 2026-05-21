@@ -2,8 +2,6 @@
 
 This index makes Predictive History YouTube source URLs easy to find from the public repo. It points back to the original lecture video and the local transcript file.
 
-Legacy provenance markers such as `book/volume-iii/gt-24/gt-24-transcript.md` remain recognized for compatibility, even where newer public-facing links now point to direct `ph-civ` or `ph-apo` chapter paths.
-
 Chapter-folder READMEs also surface the same `Source Video` link when a chapter has a dedicated folder.
 
 | Source ID | Title | YouTube | Transcript |
@@ -16,33 +14,33 @@ Chapter-folder READMEs also surface the same `Source Video` link when a chapter 
 | `geo-18` | Geo-Strategy #18: Is Putin the Ubermensch? | [video](https://www.youtube.com/watch?v=ZgvAHZqaawA) | [book/volume-i/geo-18-transcript.md](../book/volume-i/geo-18-transcript.md) |
 | `geo-19` | Geo-Strategy #19: When Eschatologies Converge | [video](https://www.youtube.com/watch?v=YQ-xg1nIbMs) | [book/volume-i/geo-19-transcript.md](../book/volume-i/geo-19-transcript.md) |
 | `geo-20` | Geo-Strategy #20: Why the West is Doomed | [video](https://www.youtube.com/watch?v=E83dpuyvpiM) | [book/volume-i/geo-20-transcript.md](../book/volume-i/geo-20-transcript.md) |
-| `gt-01` | Game Theory #1: The Dating Game | [video](https://www.youtube.com/watch?v=hE4l9WyLF3U) | [ph-civ/chapters/gt-01/gt-01-transcript.md](../ph-civ/chapters/gt-01/gt-01-transcript.md) |
-| `gt-02` | Game Theory #2: Why Schools Suck | [video](https://www.youtube.com/watch?v=kS-muAuq62E) | [ph-civ/chapters/gt-02/gt-02-transcript.md](../ph-civ/chapters/gt-02/gt-02-transcript.md) |
-| `gt-03` | Game Theory #3: Rich Dad, Poor Dad | [video](https://www.youtube.com/watch?v=MX93U4KzA28) | [ph-civ/chapters/gt-03/gt-03-transcript.md](../ph-civ/chapters/gt-03/gt-03-transcript.md) |
-| `gt-04` | Game Theory #4: The Immigration Trap | [video](https://www.youtube.com/watch?v=35HRPLVyF0g) | [ph-civ/chapters/gt-04/gt-04-transcript.md](../ph-civ/chapters/gt-04/gt-04-transcript.md) |
-| `gt-05` | Game Theory #5: The World Game | [video](https://www.youtube.com/watch?v=ybufqRY77PQ) | [ph-civ/chapters/gt-05/gt-05-transcript.md](../ph-civ/chapters/gt-05/gt-05-transcript.md) |
-| `gt-06` | Game Theory #6: The World's Bank | [video](https://www.youtube.com/watch?v=CbamEcNuDXo) | [ph-civ/chapters/gt-06/gt-06-transcript.md](../ph-civ/chapters/gt-06/gt-06-transcript.md) |
-| `gt-07` | Game Theory #7: America's Game | [video](https://www.youtube.com/watch?v=ijnkCt1QK6k) | [ph-civ/chapters/gt-07/gt-07-transcript.md](../ph-civ/chapters/gt-07/gt-07-transcript.md) |
-| `gt-08` | Game Theory #8: Communist Specter | [video](https://www.youtube.com/watch?v=axqDLhWs93Q) | [ph-civ/chapters/gt-08/gt-08-transcript.md](../ph-civ/chapters/gt-08/gt-08-transcript.md) |
-| `gt-09` | Game Theory #9: The US-Iran War | [video](https://www.youtube.com/watch?v=jIS2eB-rGv0) | [ph-apo/chapters/gt-09/gt-09-transcript.md](../ph-apo/chapters/gt-09/gt-09-transcript.md) |
-| `gt-10` | Game Theory #10: The Law of Asymmetry | [video](https://www.youtube.com/watch?v=t5oisJiorsU) | [ph-apo/chapters/gt-10/gt-10-transcript.md](../ph-apo/chapters/gt-10/gt-10-transcript.md) |
-| `gt-11` | Game Theory #11: The Law of Escalation | [video](https://www.youtube.com/watch?v=fz-Dan7NRss) | [ph-apo/chapters/gt-11/gt-11-transcript.md](../ph-apo/chapters/gt-11/gt-11-transcript.md) |
-| `gt-12` | Game Theory #12: The Law of Eschatological Convergence | [video](https://www.youtube.com/watch?v=spg58Glfz68) | [ph-apo/chapters/gt-12/gt-12-transcript.md](../ph-apo/chapters/gt-12/gt-12-transcript.md) |
-| `gt-13` | Game Theory #13: Epstein's World | [video](https://www.youtube.com/watch?v=aQSDSqdlFxk) | [ph-apo/chapters/gt-13/gt-13-transcript.md](../ph-apo/chapters/gt-13/gt-13-transcript.md) |
-| `gt-14` | Game Theory #14: The Law of Proximity | [video](https://www.youtube.com/watch?v=nOQqGy4boBY) | [ph-apo/chapters/gt-14/gt-14-transcript.md](../ph-apo/chapters/gt-14/gt-14-transcript.md) |
-| `gt-15` | Game Theory #15: The Return of History | [video](https://www.youtube.com/watch?v=zAer-Mqe7tQ) | [ph-apo/chapters/gt-15/gt-15-transcript.md](../ph-apo/chapters/gt-15/gt-15-transcript.md) |
-| `gt-16` | Game Theory #16: Pax Judaica Rising | [video](https://www.youtube.com/watch?v=0aASxQrJYuo) | [ph-apo/chapters/gt-16/gt-16-transcript.md](../ph-apo/chapters/gt-16/gt-16-transcript.md) |
-| `gt-17` | Game Theory #17: The Great Reset | [video](https://www.youtube.com/watch?v=VbowBTJWKBo) | [ph-apo/chapters/gt-17/gt-17-transcript.md](../ph-apo/chapters/gt-17/gt-17-transcript.md) |
-| `gt-18` | Game Theory #18: Trump World Order | [video](https://www.youtube.com/watch?v=xrmERlHUqBk) | [ph-apo/chapters/gt-18/gt-18-transcript.md](../ph-apo/chapters/gt-18/gt-18-transcript.md) |
-| `gt-19` | Game Theory #19: The Hollywood-Pentagon Complex | [video](https://www.youtube.com/watch?v=0HYET47Cc-E) | [ph-apo/chapters/gt-19/gt-19-transcript.md](../ph-apo/chapters/gt-19/gt-19-transcript.md) |
-| `gt-20` | Game Theory #20: Mid-Term Examination | [video](https://www.youtube.com/watch?v=ue8y5e3HnHE) | [ph-apo/chapters/gt-20/gt-20-transcript.md](../ph-apo/chapters/gt-20/gt-20-transcript.md) |
-| `gt-21` | Game Theory #21: World War Trump | [video](https://www.youtube.com/watch?v=Ts-AA6LQf6I) | [ph-apo/chapters/gt-21/gt-21-transcript.md](../ph-apo/chapters/gt-21/gt-21-transcript.md) |
-| `gt-22` | Game Theory #22: Twilight of the Nation-State | [video](https://www.youtube.com/watch?v=txgPfnXgzcE) | [ph-apo/chapters/gt-22/gt-22-transcript.md](../ph-apo/chapters/gt-22/gt-22-transcript.md) |
-| `gt-23` | Game Theory #23: The WWIII Chessboard | [video](https://www.youtube.com/watch?v=6aNh6sBpqvQ) | [ph-apo/chapters/gt-23/gt-23-transcript.md](../ph-apo/chapters/gt-23/gt-23-transcript.md) |
-| `gt-24` | Game Theory #24: The AI Apocalypse | [video](https://www.youtube.com/watch?v=8nsxuB3Vsts) | [ph-apo/chapters/gt-24/gt-24-transcript.md](../ph-apo/chapters/gt-24/gt-24-transcript.md) |
-| `gt-25` | Game Theory #25: Trump Visits China | [video](https://www.youtube.com/watch?v=BIl5vJn6ohI) | [ph-apo/chapters/gt-25/gt-25-transcript.md](../ph-apo/chapters/gt-25/gt-25-transcript.md) |
-| `gt-26` | Game Theory #26: The Holy Empire of AI | [video](https://www.youtube.com/watch?v=RG1clZlrfOo) | [ph-apo/chapters/gt-26/gt-26-transcript.md](../ph-apo/chapters/gt-26/gt-26-transcript.md) |
-| `gt-27` | Game Theory #27: Putin Enters the Chat | [video](https://www.youtube.com/watch?v=x83HcLWvHI8) | [ph-apo/chapters/gt-27/gt-27-transcript.md](../ph-apo/chapters/gt-27/gt-27-transcript.md) |
+| `gt-01` | Game Theory #1: The Dating Game | [video](https://www.youtube.com/watch?v=hE4l9WyLF3U) | [book/volume-iii/gt-01/gt-01-transcript.md](../book/volume-iii/gt-01/gt-01-transcript.md) |
+| `gt-02` | Game Theory #2: Why Schools Suck | [video](https://www.youtube.com/watch?v=kS-muAuq62E) | [book/volume-iii/gt-02/gt-02-transcript.md](../book/volume-iii/gt-02/gt-02-transcript.md) |
+| `gt-03` | Game Theory #3: Rich Dad, Poor Dad | [video](https://www.youtube.com/watch?v=MX93U4KzA28) | [book/volume-iii/gt-03/gt-03-transcript.md](../book/volume-iii/gt-03/gt-03-transcript.md) |
+| `gt-04` | Game Theory #4: The Immigration Trap | [video](https://www.youtube.com/watch?v=35HRPLVyF0g) | [book/volume-iii/gt-04/gt-04-transcript.md](../book/volume-iii/gt-04/gt-04-transcript.md) |
+| `gt-05` | Game Theory #5: The World Game | [video](https://www.youtube.com/watch?v=ybufqRY77PQ) | [book/volume-iii/gt-05/gt-05-transcript.md](../book/volume-iii/gt-05/gt-05-transcript.md) |
+| `gt-06` | Game Theory #6: The World's Bank | [video](https://www.youtube.com/watch?v=CbamEcNuDXo) | [book/volume-iii/gt-06/gt-06-transcript.md](../book/volume-iii/gt-06/gt-06-transcript.md) |
+| `gt-07` | Game Theory #7: America's Game | [video](https://www.youtube.com/watch?v=ijnkCt1QK6k) | [book/volume-iii/gt-07/gt-07-transcript.md](../book/volume-iii/gt-07/gt-07-transcript.md) |
+| `gt-08` | Game Theory #8: Communist Specter | [video](https://www.youtube.com/watch?v=axqDLhWs93Q) | [book/volume-iii/gt-08/gt-08-transcript.md](../book/volume-iii/gt-08/gt-08-transcript.md) |
+| `gt-09` | Game Theory #9: The US-Iran War | [video](https://www.youtube.com/watch?v=jIS2eB-rGv0) | [book/volume-iii/gt-09/gt-09-transcript.md](../book/volume-iii/gt-09/gt-09-transcript.md) |
+| `gt-10` | Game Theory #10: The Law of Asymmetry | [video](https://www.youtube.com/watch?v=t5oisJiorsU) | [book/volume-iii/gt-10/gt-10-transcript.md](../book/volume-iii/gt-10/gt-10-transcript.md) |
+| `gt-11` | Game Theory #11: The Law of Escalation | [video](https://www.youtube.com/watch?v=fz-Dan7NRss) | [book/volume-iii/gt-11/gt-11-transcript.md](../book/volume-iii/gt-11/gt-11-transcript.md) |
+| `gt-12` | Game Theory #12: The Law of Eschatological Convergence | [video](https://www.youtube.com/watch?v=spg58Glfz68) | [book/volume-iii/gt-12/gt-12-transcript.md](../book/volume-iii/gt-12/gt-12-transcript.md) |
+| `gt-13` | Game Theory #13: Epstein's World | [video](https://www.youtube.com/watch?v=aQSDSqdlFxk) | [book/volume-iii/gt-13/gt-13-transcript.md](../book/volume-iii/gt-13/gt-13-transcript.md) |
+| `gt-14` | Game Theory #14: The Law of Proximity | [video](https://www.youtube.com/watch?v=nOQqGy4boBY) | [book/volume-iii/gt-14/gt-14-transcript.md](../book/volume-iii/gt-14/gt-14-transcript.md) |
+| `gt-15` | Game Theory #15: The Return of History | [video](https://www.youtube.com/watch?v=zAer-Mqe7tQ) | [book/volume-iii/gt-15/gt-15-transcript.md](../book/volume-iii/gt-15/gt-15-transcript.md) |
+| `gt-16` | Game Theory #16: Pax Judaica Rising | [video](https://www.youtube.com/watch?v=0aASxQrJYuo) | [book/volume-iii/gt-16/gt-16-transcript.md](../book/volume-iii/gt-16/gt-16-transcript.md) |
+| `gt-17` | Game Theory #17: The Great Reset | [video](https://www.youtube.com/watch?v=VbowBTJWKBo) | [book/volume-iii/gt-17/gt-17-transcript.md](../book/volume-iii/gt-17/gt-17-transcript.md) |
+| `gt-18` | Game Theory #18: Trump World Order | [video](https://www.youtube.com/watch?v=xrmERlHUqBk) | [book/volume-iii/gt-18/gt-18-transcript.md](../book/volume-iii/gt-18/gt-18-transcript.md) |
+| `gt-19` | Game Theory #19: The Hollywood-Pentagon Complex | [video](https://www.youtube.com/watch?v=0HYET47Cc-E) | [book/volume-iii/gt-19/gt-19-transcript.md](../book/volume-iii/gt-19/gt-19-transcript.md) |
+| `gt-20` | Game Theory #20: Mid-Term Examination | [video](https://www.youtube.com/watch?v=ue8y5e3HnHE) | [book/volume-iii/gt-20/gt-20-transcript.md](../book/volume-iii/gt-20/gt-20-transcript.md) |
+| `gt-21` | Game Theory #21: World War Trump | [video](https://www.youtube.com/watch?v=Ts-AA6LQf6I) | [book/volume-iii/gt-21/gt-21-transcript.md](../book/volume-iii/gt-21/gt-21-transcript.md) |
+| `gt-22` | Game Theory #22: Twilight of the Nation-State | [video](https://www.youtube.com/watch?v=txgPfnXgzcE) | [book/volume-iii/gt-22/gt-22-transcript.md](../book/volume-iii/gt-22/gt-22-transcript.md) |
+| `gt-23` | Game Theory #23: The WWIII Chessboard | [video](https://www.youtube.com/watch?v=6aNh6sBpqvQ) | [book/volume-iii/gt-23/gt-23-transcript.md](../book/volume-iii/gt-23/gt-23-transcript.md) |
+| `gt-24` | Game Theory #24: The AI Apocalypse | [video](https://www.youtube.com/watch?v=8nsxuB3Vsts) | [book/volume-iii/gt-24/gt-24-transcript.md](../book/volume-iii/gt-24/gt-24-transcript.md) |
+| `gt-25` | Game Theory #25: Trump Visits China | [video](https://www.youtube.com/watch?v=BIl5vJn6ohI) | [book/volume-iii/gt-25/gt-25-transcript.md](../book/volume-iii/gt-25/gt-25-transcript.md) |
+| `gt-26` | Game Theory #26: The Holy Empire of AI | [video](https://www.youtube.com/watch?v=RG1clZlrfOo) | [book/volume-iii/gt-26/gt-26-transcript.md](../book/volume-iii/gt-26/gt-26-transcript.md) |
+| `gt-27` | Game Theory #27: Putin Enters the Chat | [video](https://www.youtube.com/watch?v=x83HcLWvHI8) | [book/volume-iii/gt-27/gt-27-transcript.md](../book/volume-iii/gt-27/gt-27-transcript.md) |
 | `sh-01` | Secret History #1: How Power Works (4K Re-Upload with Audio Fixed) | [video](https://www.youtube.com/watch?v=lt8XLz78ZvY) | [book/volume-vi/sh-01/sh-01-transcript.md](../book/volume-vi/sh-01/sh-01-transcript.md) |
 | `sh-02` | Secret History #2: How Societies Collapse | [video](https://www.youtube.com/watch?v=K-_l9jBGo74) | [book/volume-vi/sh-02/sh-02-transcript.md](../book/volume-vi/sh-02/sh-02-transcript.md) |
 | `sh-03` | Secret History #3: Death by Gerontocracy | [video](https://www.youtube.com/watch?v=0g3yo1DjiLM) | [book/volume-vi/sh-03/sh-03-transcript.md](../book/volume-vi/sh-03/sh-03-transcript.md) |
