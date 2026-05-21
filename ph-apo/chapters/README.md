@@ -6,6 +6,7 @@ Use this namespace for new Volume II growth when a chapter should be routed thro
 
 Current direct chapters:
 
+- [gt-23](gt-23/README.md)
 - [gt-24](gt-24/README.md)
 - [gt-25](gt-25/README.md)
 - [gt-26](gt-26/README.md)

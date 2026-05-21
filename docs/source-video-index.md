@@ -38,7 +38,7 @@ Chapter-folder READMEs also surface the same `Source Video` link when a chapter 
 | `gt-20` | Game Theory #20: Mid-Term Examination | [video](https://www.youtube.com/watch?v=ue8y5e3HnHE) | [book/volume-iii/gt-20/gt-20-transcript.md](../book/volume-iii/gt-20/gt-20-transcript.md) |
 | `gt-21` | Game Theory #21: World War Trump | [video](https://www.youtube.com/watch?v=Ts-AA6LQf6I) | [book/volume-iii/gt-21/gt-21-transcript.md](../book/volume-iii/gt-21/gt-21-transcript.md) |
 | `gt-22` | Game Theory #22: Twilight of the Nation-State | [video](https://www.youtube.com/watch?v=txgPfnXgzcE) | [book/volume-iii/gt-22/gt-22-transcript.md](../book/volume-iii/gt-22/gt-22-transcript.md) |
-| `gt-23` | Game Theory #23: The WWIII Chessboard | [video](https://www.youtube.com/watch?v=6aNh6sBpqvQ) | [book/volume-iii/gt-23/gt-23-transcript.md](../book/volume-iii/gt-23/gt-23-transcript.md) |
+| `gt-23` | Game Theory #23: The WWIII Chessboard | [video](https://www.youtube.com/watch?v=6aNh6sBpqvQ) | [ph-apo/chapters/gt-23/gt-23-transcript.md](../ph-apo/chapters/gt-23/gt-23-transcript.md) |
 | `gt-24` | Game Theory #24: The AI Apocalypse | [video](https://www.youtube.com/watch?v=8nsxuB3Vsts) | [ph-apo/chapters/gt-24/gt-24-transcript.md](../ph-apo/chapters/gt-24/gt-24-transcript.md) |
 | `gt-25` | Game Theory #25: Trump Visits China | [video](https://www.youtube.com/watch?v=BIl5vJn6ohI) | [ph-apo/chapters/gt-25/gt-25-transcript.md](../ph-apo/chapters/gt-25/gt-25-transcript.md) |
 | `gt-26` | Game Theory #26: The Holy Empire of AI | [video](https://www.youtube.com/watch?v=RG1clZlrfOo) | [ph-apo/chapters/gt-26/gt-26-transcript.md](../ph-apo/chapters/gt-26/gt-26-transcript.md) |
