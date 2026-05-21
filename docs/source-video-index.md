@@ -2,6 +2,8 @@
 
 This index makes Predictive History YouTube source URLs easy to find from the public repo. It points back to the original lecture video and the local transcript file.
 
+Legacy provenance markers such as `book/volume-iii/gt-24/gt-24-transcript.md` remain recognized for compatibility, even where newer public-facing links now point to direct `ph-apo` chapter paths.
+
 Chapter-folder READMEs also surface the same `Source Video` link when a chapter has a dedicated folder.
 
 | Source ID | Title | YouTube | Transcript |
@@ -37,9 +39,10 @@ Chapter-folder READMEs also surface the same `Source Video` link when a chapter 
 | `gt-21` | Game Theory #21: World War Trump | [video](https://www.youtube.com/watch?v=Ts-AA6LQf6I) | [book/volume-iii/gt-21/gt-21-transcript.md](../book/volume-iii/gt-21/gt-21-transcript.md) |
 | `gt-22` | Game Theory #22: Twilight of the Nation-State | [video](https://www.youtube.com/watch?v=txgPfnXgzcE) | [book/volume-iii/gt-22/gt-22-transcript.md](../book/volume-iii/gt-22/gt-22-transcript.md) |
 | `gt-23` | Game Theory #23: The WWIII Chessboard | [video](https://www.youtube.com/watch?v=6aNh6sBpqvQ) | [book/volume-iii/gt-23/gt-23-transcript.md](../book/volume-iii/gt-23/gt-23-transcript.md) |
-| `gt-24` | Game Theory #24: The AI Apocalypse | [video](https://www.youtube.com/watch?v=8nsxuB3Vsts) | [book/volume-iii/gt-24/gt-24-transcript.md](../book/volume-iii/gt-24/gt-24-transcript.md) |
-| `gt-25` | Game Theory #25: Trump Visits China | [video](https://www.youtube.com/watch?v=BIl5vJn6ohI) | [book/volume-iii/gt-25/gt-25-transcript.md](../book/volume-iii/gt-25/gt-25-transcript.md) |
-| `gt-26` | Game Theory #26: The Holy Empire of AI | [video](https://www.youtube.com/watch?v=RG1clZlrfOo) | [book/volume-iii/gt-26/gt-26-transcript.md](../book/volume-iii/gt-26/gt-26-transcript.md) |
+| `gt-24` | Game Theory #24: The AI Apocalypse | [video](https://www.youtube.com/watch?v=8nsxuB3Vsts) | [ph-apo/chapters/gt-24/gt-24-transcript.md](../ph-apo/chapters/gt-24/gt-24-transcript.md) |
+| `gt-25` | Game Theory #25: Trump Visits China | [video](https://www.youtube.com/watch?v=BIl5vJn6ohI) | [ph-apo/chapters/gt-25/gt-25-transcript.md](../ph-apo/chapters/gt-25/gt-25-transcript.md) |
+| `gt-26` | Game Theory #26: The Holy Empire of AI | [video](https://www.youtube.com/watch?v=RG1clZlrfOo) | [ph-apo/chapters/gt-26/gt-26-transcript.md](../ph-apo/chapters/gt-26/gt-26-transcript.md) |
+| `gt-27` | Game Theory #27: Putin Enters the Chat | [video](https://www.youtube.com/watch?v=x83HcLWvHI8) | [ph-apo/chapters/gt-27/gt-27-transcript.md](../ph-apo/chapters/gt-27/gt-27-transcript.md) |
 | `sh-01` | Secret History #1: How Power Works (4K Re-Upload with Audio Fixed) | [video](https://www.youtube.com/watch?v=lt8XLz78ZvY) | [book/volume-vi/sh-01/sh-01-transcript.md](../book/volume-vi/sh-01/sh-01-transcript.md) |
 | `sh-02` | Secret History #2: How Societies Collapse | [video](https://www.youtube.com/watch?v=K-_l9jBGo74) | [book/volume-vi/sh-02/sh-02-transcript.md](../book/volume-vi/sh-02/sh-02-transcript.md) |
 | `sh-03` | Secret History #3: Death by Gerontocracy | [video](https://www.youtube.com/watch?v=0g3yo1DjiLM) | [book/volume-vi/sh-03/sh-03-transcript.md](../book/volume-vi/sh-03/sh-03-transcript.md) |

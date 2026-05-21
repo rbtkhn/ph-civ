@@ -14,12 +14,14 @@ The public reader architecture is organized into two conceptual volumes:
 - [From Civilization To Apocalypse](parts/civilization-to-apocalypse.md): transition from law discovery into pressure reading.
 - [Apocalypse](parts/world-war/README.md): see the laws applied.
 
-The physical source folders preserve import provenance:
+The legacy physical source folders preserve import provenance:
 
 - `volume-ii` and `volume-v` primarily support Volume I / Civilization / law discovery.
 - `volume-i`, `volume-iii`, and `volume-vi` primarily support Volume II / Apocalypse / law application.
 - `volume-vii` preserves essay provenance while routing those written application texts into `ph-apo`.
 - `sh-11`, `sh-16`, `sh-17`, and `sh-18` remain Secret History source chapters while also supporting the Volume I literary and imagination spine.
+
+These `volume-*` paths are legacy provenance structure, not the preferred growth contract. New Apocalypse-native chapter growth should land directly under `ph-apo/chapters/`, with canonical public source captures stored under the repo-local `sources/` tree.
 
 Future priorities:
 

@@ -29,4 +29,4 @@ use: public orientation frame for inherited heroic memory, not proof of a live s
 
 ## Boundary
 
-Do not use `ph-civ` as a strategy inbox, raw-input store, or private editorial workspace. If a strategy-codex page needs a civilizational frame, cite the pattern and continue the live analysis in strategy-codex.
+Do not use `ph-civ` as a strategy inbox, a dumping ground for private or non-public raw inputs, or a private editorial workspace. Public source captures that belong to released `ph-civ` or `ph-apo` chapters should live under the repo-local `sources/` tree. If a strategy-codex page needs a civilizational frame, cite the pattern and continue the live analysis in strategy-codex.

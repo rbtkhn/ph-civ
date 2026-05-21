@@ -24,10 +24,11 @@ It should not become the large-media vault. Museum artifacts must be stored in a
 
 ## What Is Included
 
-- 149 public cards from Predictive History snapshot `56a4a08`, including the first `sub-*` essay lane and provisional `gt-23` through `gt-26` captures.
-- 149 public source chapters under `book/`, including the first Apocalypse-facing essay transfers.
-- 149 chapter commentaries under `book/`, each seeded as an open commentary canvas.
+- 150 public cards from Predictive History snapshot `56a4a08`, including the first `sub-*` essay lane, provisional `gt-23` through `gt-26` captures, and the direct `ph-apo` `gt-27` chapter.
+- 150 public source chapters across legacy `book/` provenance folders and the direct `ph-apo/chapters/` namespace.
+- 150 chapter commentaries across legacy `book/` provenance folders and the direct `ph-apo/chapters/` namespace, each seeded as an open commentary canvas.
 - Chapter-folder `README.md` doorways for folder-backed chapters, designed for direct GitHub links in YouTube comments and LLM chats.
+- Canonical public source captures under `sources/` so the repo can function independently of outside workshop storage.
 - A source video index at `docs/source-video-index.md` so Predictive History YouTube URLs are visible from one public file.
 - Two conceptual volumes: Volume I / Civilization / `ph-civ`, and Volume II / Apocalypse / `ph-apo`.
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, Secret History, and Essays.

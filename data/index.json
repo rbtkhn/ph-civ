@@ -1,5 +1,5 @@
 {
-  "card_count": 149,
+  "card_count": 150,
   "cards": [
     {
       "part": "civilization",
@@ -1044,6 +1044,15 @@
       "series": "game-theory",
       "source_id": "gt-26",
       "title": "Game Theory #26: The Holy Empire of AI"
+    },
+    {
+      "part": "world-war",
+      "path": "data/cards/gt-27.md",
+      "placement_weight": "strong",
+      "review_status": "provisional",
+      "series": "game-theory",
+      "source_id": "gt-27",
+      "title": "Game Theory #27: Putin Enters the Chat"
     },
     {
       "part": "world-war",
