@@ -638,7 +638,7 @@
       "review_status": "in_review",
       "series": "geo-strategy",
       "source_id": "geo-01",
-      "title": "Geo-Strategy #1: Iranâ€™s Strategy Matrix"
+      "title": "Geo-Strategy #1: IranÃ¢â‚¬â„¢s Strategy Matrix"
     },
     {
       "part": "world-war",
@@ -665,7 +665,7 @@
       "review_status": "in_review",
       "series": "geo-strategy",
       "source_id": "geo-04",
-      "title": "Geo-Strategy #4: Saudi Arabiaâ€™s Trump Card Against Iran"
+      "title": "Geo-Strategy #4: Saudi ArabiaÃ¢â‚¬â„¢s Trump Card Against Iran"
     },
     {
       "part": "world-war",
@@ -812,73 +812,73 @@
       "title": "Geo-Strategy #20: Why the West is Doomed"
     },
     {
-      "part": "world-war",
+      "part": "civilization",
       "path": "data/cards/gt-01.md",
-      "placement_weight": "medium",
-      "review_status": "in_review",
+      "placement_weight": "strong",
+      "review_status": "provisional",
       "series": "game-theory",
       "source_id": "gt-01",
       "title": "Game Theory #1: The Dating Game"
     },
     {
-      "part": "world-war",
+      "part": "civilization",
       "path": "data/cards/gt-02.md",
       "placement_weight": "medium",
-      "review_status": "in_review",
+      "review_status": "provisional",
       "series": "game-theory",
       "source_id": "gt-02",
       "title": "Game Theory #2: Why Schools Suck"
     },
     {
-      "part": "world-war",
+      "part": "civilization",
       "path": "data/cards/gt-03.md",
       "placement_weight": "medium",
-      "review_status": "in_review",
+      "review_status": "provisional",
       "series": "game-theory",
       "source_id": "gt-03",
       "title": "Game Theory #3: Rich Dad, Poor Dad"
     },
     {
-      "part": "world-war",
+      "part": "civilization",
       "path": "data/cards/gt-04.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
+      "placement_weight": "medium",
+      "review_status": "provisional",
       "series": "game-theory",
       "source_id": "gt-04",
       "title": "Game Theory #4: The Immigration Trap"
     },
     {
-      "part": "world-war",
+      "part": "civilization",
       "path": "data/cards/gt-05.md",
       "placement_weight": "strong",
-      "review_status": "in_review",
+      "review_status": "provisional",
       "series": "game-theory",
       "source_id": "gt-05",
       "title": "Game Theory #5: The World Game"
     },
     {
-      "part": "world-war",
+      "part": "civilization",
       "path": "data/cards/gt-06.md",
       "placement_weight": "strong",
-      "review_status": "in_review",
+      "review_status": "provisional",
       "series": "game-theory",
       "source_id": "gt-06",
       "title": "Game Theory #6: The World's Bank"
     },
     {
-      "part": "world-war",
+      "part": "civilization",
       "path": "data/cards/gt-07.md",
       "placement_weight": "strong",
-      "review_status": "in_review",
+      "review_status": "provisional",
       "series": "game-theory",
       "source_id": "gt-07",
       "title": "Game Theory #7: America's Game"
     },
     {
-      "part": "world-war",
+      "part": "civilization",
       "path": "data/cards/gt-08.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
+      "placement_weight": "medium",
+      "review_status": "provisional",
       "series": "game-theory",
       "source_id": "gt-08",
       "title": "Game Theory #8: Communist Specter"
@@ -887,7 +887,7 @@
       "part": "world-war",
       "path": "data/cards/gt-09.md",
       "placement_weight": "strong",
-      "review_status": "in_review",
+      "review_status": "provisional",
       "series": "game-theory",
       "source_id": "gt-09",
       "title": "Game Theory #9: The US-Iran War"
@@ -896,7 +896,7 @@
       "part": "world-war",
       "path": "data/cards/gt-10.md",
       "placement_weight": "strong",
-      "review_status": "in_review",
+      "review_status": "provisional",
       "series": "game-theory",
       "source_id": "gt-10",
       "title": "Game Theory #10: The Law of Asymmetry"
@@ -905,7 +905,7 @@
       "part": "world-war",
       "path": "data/cards/gt-11.md",
       "placement_weight": "strong",
-      "review_status": "in_review",
+      "review_status": "provisional",
       "series": "game-theory",
       "source_id": "gt-11",
       "title": "Game Theory #11: The Law of Escalation"
@@ -914,7 +914,7 @@
       "part": "world-war",
       "path": "data/cards/gt-12.md",
       "placement_weight": "strong",
-      "review_status": "in_review",
+      "review_status": "provisional",
       "series": "game-theory",
       "source_id": "gt-12",
       "title": "Game Theory #12: The Law of Eschatological Convergence"
@@ -923,7 +923,7 @@
       "part": "world-war",
       "path": "data/cards/gt-13.md",
       "placement_weight": "strong",
-      "review_status": "in_review",
+      "review_status": "provisional",
       "series": "game-theory",
       "source_id": "gt-13",
       "title": "Game Theory #13: Epstein's World"
@@ -932,7 +932,7 @@
       "part": "world-war",
       "path": "data/cards/gt-14.md",
       "placement_weight": "strong",
-      "review_status": "in_review",
+      "review_status": "provisional",
       "series": "game-theory",
       "source_id": "gt-14",
       "title": "Game Theory #14: The Law of Proximity"
@@ -941,7 +941,7 @@
       "part": "world-war",
       "path": "data/cards/gt-15.md",
       "placement_weight": "strong",
-      "review_status": "in_review",
+      "review_status": "provisional",
       "series": "game-theory",
       "source_id": "gt-15",
       "title": "Game Theory #15: The Return of History"
@@ -1354,16 +1354,16 @@
   ],
   "name": "ph-civ",
   "part_counts": {
-    "civilization": 70,
-    "world-war": 79
+    "civilization": 78,
+    "world-war": 72
   },
   "series_counts": {
     "civilization": 60,
-    "essays": 5,
-    "game-theory": 26,
-    "geo-strategy": 20,
     "great-books": 10,
-    "secret-history": 28
+    "geo-strategy": 20,
+    "game-theory": 27,
+    "secret-history": 28,
+    "essays": 5
   },
   "source_snapshot": {
     "commit": "56a4a08",

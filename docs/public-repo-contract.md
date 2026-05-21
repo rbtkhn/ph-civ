@@ -16,11 +16,11 @@ If a reader pastes the GitHub URL into an LLM chat, the repo should unfold from 
 
 This repo publishes public-facing material, including chapter transcripts, chapter commentaries, public cards, routes, prompts, schemas, and manifests. It is not a private notes workspace and not the large artifact archive.
 
-Canonical public source captures should also live inside this repository under a repo-local `sources/` tree so `ph-civ` remains independently usable without any outside workshop storage.
+Canonical public source captures should also live inside this repository under a repo-local `sources/` tree so `ph-civ` remains independently usable without any outside workshop storage. Those source captures should preserve the full lecture transcript body inside the repo, even when direct chapter packets are rendered as lighter public study doorways.
 
 The current chapter corpus was imported from the maintained Predictive History workspace and keeps that snapshot as provenance. Physical source series and folder labels are provenance metadata; the public reader architecture is the two-volume ph-civ rollup.
 
-Legacy `book/volume-*` paths may remain as migration residue and provenance, but they are not the preferred growth contract for new public chapter work. New Apocalypse-facing chapter growth should land directly under `ph-apo/chapters/`.
+Legacy `book/volume-*` paths may remain as migration residue and provenance, but they are not the preferred growth contract for new public chapter work. New Civilization-facing chapter growth should land directly under `ph-civ/chapters/`, and new Apocalypse-facing chapter growth should land directly under `ph-apo/chapters/`.
 
 Each public chapter consists of:
 
