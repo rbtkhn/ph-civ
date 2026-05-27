@@ -4,6 +4,8 @@ Civilization is the first semester of Predictive History. Its role is to discove
 
 In the older manuscript scaffold, not all of this material belonged to one source lane. Great Books and selected Secret History nodes are absorbed here by function because they deepen law discovery, literary imagination, and civilizational memory.
 
+That rule also governs newer Dante material: later Great Books Dante continuations belong to the Volume I literary spine by function, even when they first appear only as raw captures outside the current public mirror.
+
 The dominant literary spine runs from Homer through Virgil, Dante, Shakespeare, Dostoevsky, and the routed Tolstoy endpoint in Secret History.
 
 ## Reader Task

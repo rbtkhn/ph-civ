@@ -81,4 +81,4 @@ Civilization shows how history forms the world.
 Apocalypse shows how history reveals itself when the world comes under pressure.
 ```
 
-Use [The Tolstoy Question](../../corpus/cross-volume/tolstoy-question.md) as the companion causation corridor, then enter [Apocalypse](world-war/README.md) through its pressure corridors and source spines.
+Use [The Tolstoy Question](../../corpus/cross-volume/tolstoy-question.md) as the companion causation corridor and compact bridge doctrine, then enter [Apocalypse](world-war/README.md) through its pressure corridors and source spines.

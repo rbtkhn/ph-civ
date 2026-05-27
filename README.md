@@ -123,6 +123,8 @@ Homer -> Virgil -> Dante -> Shakespeare -> Dostoevsky -> Tolstoy
 
 Homer to Tolstoy is the Volume I literary spine, not a side corridor. It uses cross-volume routing exposure where needed. Tolstoy is routed through `sh-16`, where *Anna Karenina* appears as a source-backed coda rather than a dedicated Tolstoy lecture.
 
+Tolstoy also functions as the bridge into Volume II. The public handoff lives in [From Civilization To Apocalypse](book/parts/civilization-to-apocalypse.md), [Predictive History After Tolstoy](docs/predictive-history-after-tolstoy.md), and [The Tolstoy Question](corpus/cross-volume/tolstoy-question.md).
+
 ## Predictive History Museum
 
 The museum is organized around chapter exhibits, not flat item rows. Each chapter in Predictive History: Civilization and Predictive History: Apocalypse should eventually have one corresponding `ph-mus` exhibit with stored artifacts, rights notes, room placement, and a clear visitor path.

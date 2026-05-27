@@ -27,6 +27,17 @@ Use this as a guided route, not as a causal proof. The corridor shows how poems 
 | 10 | [gb-09](../cards/gb-09.md) | Re-enters Dante through Great Books close reading, love, ascent, and poetic architecture. |
 | 11 | [gb-10](../cards/gb-10.md) | Deepens the Dante sequence through Inferno's hierarchy of hell, sin, self-forgiveness, and punishment. |
 
+## Current public stop and pending continuation
+
+The current public corridor stops at `gb-10`, but the Dante line does not conceptually end there.
+
+Recent raw-capture continuations now preserved outside the mirror:
+
+- [gb-11 raw capture: Dante's Revolution](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/predictive-history-gb-11-dantes-revolution-2026-05-26.md)
+- [gb-12 raw capture: Dante in Paradise](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/predictive-history-gb-12-dante-in-paradise-2026-05-26.md)
+
+When these are promoted into the public mirror, they should extend the Volume I literary and imagination spine as Dante continuations rather than be rerouted into Apocalypse or treated as detached archive residue.
+
 ## Reading Grammar
 
 - **Homer:** heroic memory becomes a way to read courage, grief, violence, and the human.

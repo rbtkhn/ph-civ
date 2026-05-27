@@ -11,3 +11,5 @@ It also includes the Predictive History essay lane when those essays function as
 - the canonical public essay namespace is `sub-*`
 - the physical source provenance remains under `book/volume-vii/`
 - the reader-facing conceptual surface remains `ph-apo`
+
+The Tolstoy bridge belongs to this side of the public architecture by function. Tolstoy closes the Volume I literary spine, but the bridge essay and causation note open Volume II by teaching the reader how to move from literary civilization into pressure analysis. Start with [From Civilization To Apocalypse](../book/parts/civilization-to-apocalypse.md), then use [The Tolstoy Question](../corpus/cross-volume/tolstoy-question.md) as the compact causation hinge.

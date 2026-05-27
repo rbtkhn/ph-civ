@@ -31,10 +31,10 @@ Treat this route as the Volume I literary spine. The `data/corridors/` placement
 | --- | --- | --- | --- |
 | 1 | Homer | [civ-07](../cards/civ-07.md), [gb-02](../cards/gb-02.md), [gb-05](../cards/gb-05.md), [gb-07](../cards/gb-07.md) | Heroic memory, human action, return, and anti-Homeric revision. |
 | 2 | Virgil | [civ-17](../cards/civ-17.md), [gb-08](../cards/gb-08.md) | Greek epic inheritance becomes Roman imperial memory. |
-| 3 | Dante | [civ-29](../cards/civ-29.md), [civ-30](../cards/civ-30.md), [civ-41](../cards/civ-41.md), [gb-09](../cards/gb-09.md), [gb-10](../cards/gb-10.md) | Epic inheritance becomes pilgrimage, love, ascent, hell, self-forgiveness, and a new architecture of the self. |
+| 3 | Dante | [civ-29](../cards/civ-29.md), [civ-30](../cards/civ-30.md), [civ-41](../cards/civ-41.md), [gb-09](../cards/gb-09.md), [gb-10](../cards/gb-10.md) | Epic inheritance becomes pilgrimage, love, ascent, hell, self-forgiveness, and a new architecture of the self. The public Dante run currently stops at `gb-10`, but raw-capture continuations now exist for `gb-11` and `gb-12` and should extend this Volume I segment when promoted. |
 | 4 | Shakespeare | [civ-51](../cards/civ-51.md) | Literature becomes language, theater, empire, psychology, and civilizational soft power. |
 | 5 | Dostoevsky | [civ-53](../cards/civ-53.md) | The novel becomes a pressure chamber for conscience, faith, freedom, suffering, and the modern soul. |
-| 6 | Tolstoy | [sh-16](../cards/sh-16.md) | Terminal endpoint routed through an *Anna Karenina* coda; source-backed, but not a dedicated Tolstoy lecture. |
+| 6 | Tolstoy | [sh-16](../cards/sh-16.md) | Terminal literary endpoint and cross-volume hinge; routed through an *Anna Karenina* coda, then handed forward into the Tolstoy bridge doctrine for Apocalypse. |
 
 ## Secret History Literary Support
 
@@ -49,11 +49,29 @@ The Secret History subset is a supporting imagination spine rather than a full t
 
 ## Why The Arc Ends Here
 
-The arc treats literature as historically central when it functions as a civilization's memory machine: epic, imperial poem, theological comedy, theater of empire, and moral-spiritual novel. After Tolstoy, literature still matters, but this corridor treats it as less central to the course's main historical drivers. The twentieth-century load shifts more heavily toward ideology, psychology, bureaucracy, mass politics, media, technology, finance, and state power.
+The arc treats literature as historically central when it functions as a civilization's memory machine: epic, imperial poem, theological comedy, theater of empire, and moral-spiritual novel. Tolstoy is the hinge where that literary memory becomes a direct problem of historical causation. After that hinge, the twentieth-century load shifts more heavily toward ideology, psychology, bureaucracy, mass politics, media, technology, finance, and state power.
 
 ## Relationship To Homer To Dante
 
-[Homer to Dante](homer-to-dante.md) remains the first complete cross-volume corridor. This broader arc uses that route as its first segment, then extends the author sequence through Shakespeare, Dostoevsky, and a limited Tolstoy endpoint.
+[Homer to Dante](homer-to-dante.md) remains the first complete cross-volume corridor. This broader arc uses that route as its first segment, including the pending Dante continuations beyond `gb-10`, then extends the author sequence through Shakespeare, Dostoevsky, and a limited Tolstoy endpoint.
+
+## Tolstoy Bridge Function
+
+Tolstoy should be read here in two roles at once:
+
+- terminal author of the Volume I literary spine
+- causation hinge into the Civilization-to-Apocalypse bridge
+
+The literary route therefore does not simply stop at Tolstoy. It passes through [The Tolstoy Question](../../corpus/cross-volume/tolstoy-question.md) and the bridge note [Predictive History After Tolstoy](../../docs/predictive-history-after-tolstoy.md), where literary civilization becomes pressure analysis.
+
+## Dante Continuation Note
+
+The Dante portion of this broader spine should now be read in two layers:
+
+- current public Dante path through `gb-10`
+- pending raw-capture Dante continuations at [gb-11 raw capture: Dante's Revolution](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/predictive-history-gb-11-dantes-revolution-2026-05-26.md) and [gb-12 raw capture: Dante in Paradise](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/predictive-history-gb-12-dante-in-paradise-2026-05-26.md)
+
+Those later Dante lectures belong to the same Volume I literary spine. They should not be treated as detached archive residue or as material that needs rerouting into Apocalypse.
 
 ## Guardrail
 
