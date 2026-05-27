@@ -4,6 +4,8 @@ Apocalypse is the second semester of Predictive History. If Civilization discove
 
 The emphasis shifts from origins and memory to actors, systems, pressure, escalation, date-sensitive claims, and the possibility that inherited historical forms become operational in crisis.
 
+This application semester draws from multiple older provenance series rather than one original manuscript lane: Geo-Strategy, Game Theory, most of Secret History, and the essay lane are all rerouted here by function.
+
 The stable repository slug remains `world-war` for existing paths, manifests, and validators.
 
 If you are entering from Civilization, read [From Civilization To Apocalypse](../civilization-to-apocalypse.md) first. It explains why this part applies the laws discovered in Part One rather than merely forecasting a war.

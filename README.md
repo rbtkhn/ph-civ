@@ -31,6 +31,7 @@ It should not become the large-media vault. Museum artifacts must be stored in a
 - Canonical public source captures under `sources/` so the repo can function independently of outside workshop storage.
 - A source video index at `docs/source-video-index.md` so Predictive History YouTube URLs are visible from one public file.
 - Two conceptual volumes: Volume I / Civilization / `ph-civ`, and Volume II / Apocalypse / `ph-apo`.
+- A public two-volume reader architecture that preserves older multi-volume source provenance; see [From The Old Seven Volumes To The Current Two](book/seven-volume-to-two-volume.md).
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, Secret History, and Essays.
 - The Homer-to-Tolstoy literary spine as the Volume I literary spine with cross-volume routing exposure.
 - Provider-neutral prompt templates.

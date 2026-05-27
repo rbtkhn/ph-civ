@@ -1,8 +1,10 @@
 # Volume VII: Essays
 
-Volume VII preserves the physical source provenance for Jiang's written Predictive History essays.
+This folder preserves the current public import and provenance placement for Jiang's written Predictive History essays.
 
 In the public reader architecture, these essays belong to `ph-apo` by default. They are Apocalypse-facing application texts: they apply the laws of history to active crisis, war, regime stress, finance, escalation, and strategic realignment.
+
+This folder label should not be read as proof that Essays were old logical manuscript Volume VII. In the corrected older manuscript scaffold, Essays belonged to Volume VI and Interviews belonged to Volume VII. The public manuscript-history explanation lives in [From The Old Seven Volumes To The Current Two](../seven-volume-to-two-volume.md).
 
 Use the `sub-*` namespace as the canonical public essay ID system for this lane.
 
