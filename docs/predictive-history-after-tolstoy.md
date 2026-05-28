@@ -19,3 +19,5 @@ Apocalypse reads those forms under pressure.
 ```
 
 Use [From Civilization To Apocalypse](../book/parts/civilization-to-apocalypse.md) for the short reader bridge and [The Tolstoy Question](../corpus/cross-volume/tolstoy-question.md) for the compact causation doctrine that carries the handoff into `ph-apo`.
+
+For parallel continuities that run through both volumes, see [Consciousness and Attention Continuity](../corpus/cross-volume/consciousness-attention-continuity.md), [Sacred Order to Eschatological Mobilization](../corpus/cross-volume/sacred-order-to-eschatological-mobilization.md), and [Literary Memory to Narrative Warfare](../corpus/cross-volume/literary-memory-to-narrative-warfare.md).

@@ -37,3 +37,5 @@ The first two questions preserve narrative and agency. The third makes Predictiv
 Tolstoy is the terminal author of the Volume I literary spine, but not because he merely comes last in a chronology. He is the figure who turns literary civilization into a problem of causation. That makes him the right handoff into `ph-apo`, where the reader must interpret war, finance, sovereignty, religion, technology, and state crisis without treating the loudest name in the scene as the whole explanation.
 
 Use [Predictive History After Tolstoy](../../docs/predictive-history-after-tolstoy.md) for the higher-level bridge statement and [From Civilization To Apocalypse](../../book/parts/civilization-to-apocalypse.md) for the reader-facing transition into Volume II.
+
+For deeper cross-volume continuities running beneath that handoff, see [Consciousness and Attention Continuity](consciousness-attention-continuity.md), [Sacred Order to Eschatological Mobilization](sacred-order-to-eschatological-mobilization.md), and [Literary Memory to Narrative Warfare](literary-memory-to-narrative-warfare.md).

@@ -117,6 +117,8 @@ The canonical growth guardrail lives in `data/growth-goals.json` and is exposed 
 ph-civ growth --json
 ```
 
+For a compact public analysis of how Jiang's lectures teach and why they spread unusually well as lecture-format history content, see [The Pedagogy of Predictive History](docs/jiang-pedagogy-and-virality.md).
+
 ## Literary Spine
 
 ```text
