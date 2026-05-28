@@ -10,6 +10,8 @@ The stable repository slug remains `world-war` for existing paths, manifests, an
 
 If you are entering from Civilization, read [From Civilization To Apocalypse](../civilization-to-apocalypse.md) first. It explains why this part applies the laws discovered in Part One rather than merely forecasting a war.
 
+The first public organizing route for this semester is now the [ph-apo pressure spine](../../../data/corridors/ph-apo-pressure-spine.md): geography, incentives, causation hinge, and infrastructure/sacred systems. Use that spine as the reader-facing application entry. Keep chronology and provenance as secondary support orders rather than the primary public route.
+
 ## Source Spines
 
 - Geo-Strategy: geo-01 through geo-20

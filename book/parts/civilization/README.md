@@ -8,6 +8,10 @@ That rule also governs newer Dante material: later Great Books Dante continuatio
 
 The dominant literary spine runs from Homer through Virgil, Dante, Shakespeare, Dostoevsky, and the routed Tolstoy endpoint in Secret History.
 
+That core route now has an explicit support architecture as well. Use the [Homer to Tolstoy support ring](../../data/corridors/homer-to-tolstoy-support-ring.md) when you need the nearby memory, scriptural, philosophical, Dante-continuation, or imperial scaffolding that strengthens the spine without changing its public route order.
+
+Volume I now also has a secondary theological-philosophical spine: [Plato to Hegel](../../data/corridors/plato-to-hegel.md). Use it when the reader enters Civilization through reality, sacred order, sin, imagination, epistemology, and philosophy of history rather than through literary memory.
+
 ## Reader Task
 
 Read Civilization as the formation of historical laws. It asks what patterns become durable enough to return later as pressure.

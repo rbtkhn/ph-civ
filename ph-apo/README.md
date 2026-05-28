@@ -6,6 +6,8 @@ This surface applies the laws of history through reviewed Apocalypse / World War
 
 New Apocalypse-native chapter growth should land directly under [chapters/](chapters/README.md), with canonical public source captures stored under the repo-local `sources/` tree. Do not extend legacy `book/volume-*` source containers for new `ph-apo` work.
 
+The first public organizing route for this surface is the [ph-apo pressure spine](../data/corridors/ph-apo-pressure-spine.md). Its grammar is not literary-author sequence but application sequence: geography, incentives, causation hinge, and infrastructure/sacred systems. Chronology remains available through source order and provenance, but it is secondary to the public pressure grammar.
+
 It also includes the Predictive History essay lane when those essays function as Apocalypse-facing application texts. In that lane:
 
 - the canonical public essay namespace is `sub-*`
