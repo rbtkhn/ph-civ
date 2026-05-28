@@ -41,6 +41,7 @@ Chapter-folder READMEs also surface the same `Source Video` link when a chapter 
 | `gt-25` | Game Theory #25: Trump Visits China | [video](https://www.youtube.com/watch?v=BIl5vJn6ohI) | [book/volume-iii/gt-25/gt-25-transcript.md](../book/volume-iii/gt-25/gt-25-transcript.md) |
 | `gt-26` | Game Theory #26: The Holy Empire of AI | [video](https://www.youtube.com/watch?v=RG1clZlrfOo) | [book/volume-iii/gt-26/gt-26-transcript.md](../book/volume-iii/gt-26/gt-26-transcript.md) |
 | `gt-27` | Game Theory #27: Putin Enters the Chat | [video](https://www.youtube.com/watch?v=x83HcLWvHI8) | [book/volume-iii/gt-27/gt-27-transcript.md](../book/volume-iii/gt-27/gt-27-transcript.md) |
+| `gt-29` | Game Theory #29: Final Examination | [video](https://www.youtube.com/watch?v=RE2UribEFIo) | [ph-apo/chapters/gt-29/gt-29-transcript.md](../ph-apo/chapters/gt-29/gt-29-transcript.md) |
 | `sh-01` | Secret History #1: How Power Works (4K Re-Upload with Audio Fixed) | [video](https://www.youtube.com/watch?v=lt8XLz78ZvY) | [book/volume-vi/sh-01/sh-01-transcript.md](../book/volume-vi/sh-01/sh-01-transcript.md) |
 | `sh-02` | Secret History #2: How Societies Collapse | [video](https://www.youtube.com/watch?v=K-_l9jBGo74) | [book/volume-vi/sh-02/sh-02-transcript.md](../book/volume-vi/sh-02/sh-02-transcript.md) |
 | `sh-03` | Secret History #3: Death by Gerontocracy | [video](https://www.youtube.com/watch?v=0g3yo1DjiLM) | [book/volume-vi/sh-03/sh-03-transcript.md](../book/volume-vi/sh-03/sh-03-transcript.md) |

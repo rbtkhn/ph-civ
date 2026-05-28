@@ -12,6 +12,9 @@ Use these notes when the question is not only "what is in the corpus?" but also 
 - [Jiang's Classroom Rhetoric](jiang-classroom-rhetoric.md)  
   The live lecture voice in micro-form: overstatement, refutation, compression, resets, thought experiments, and assent rhythm.
 
+- [GT29 Capstone and the School Turn](gt-29-capstone-and-the-school-turn.md)  
+  Why the final examination matters as a capstone manifesto, anthropological turn, and public declaration of school-building ambition.
+
 - [Worldview Teaching as a Platform Law](worldview-teaching-platform-law.md)  
   A compact statecraft claim about why worldview-forming education often scales better than neutral explainer content on modern platforms.
 
