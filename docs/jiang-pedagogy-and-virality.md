@@ -26,7 +26,19 @@ Sources:
 - [Simple History Social Blade](https://socialblade.com/youtube/handle/simplehistory)
 - [Bill Wurtz on Wikipedia](https://en.wikipedia.org/wiki/Bill_Wurtz)
 
-## Core Pedagogical Technique
+## Three-Part Thesis
+
+Jiang's breakout is best understood through three linked claims:
+
+```text
+1. He teaches through interpretive discovery rather than content delivery.
+2. That method fits the platform because it produces cognitive elevation, identity, and serial return.
+3. The same strengths that make it spread also create an epistemic tradeoff.
+```
+
+The rest of this note follows that structure.
+
+## 1. Pedagogical Mechanics
 
 Jiang does not teach history mainly as content delivery. He teaches it as an escalating process of interpretive discovery.
 
@@ -43,7 +55,7 @@ puzzle
 
 This is why the lectures feel less like ordinary instruction and more like guided initiation into a worldview.
 
-## The Main Techniques
+### The Main Techniques
 
 ### 1. Question-First Teaching
 
@@ -123,7 +135,7 @@ A lecture about Dante becomes a lecture about the restoration of European creati
 
 This is one of the main reasons the videos travel. The audience is not consuming information. It is consuming a sense that the topic matters existentially.
 
-## Why The Lectures Spread
+## 2. Why The Format Fits The Platform
 
 The virality comes from a rare combination of pedagogical and platform advantages.
 
@@ -178,7 +190,7 @@ Jiang is doing something else. He fuses:
 
 That is why the result feels less like educational content and more like entry into a parallel interpretive order.
 
-## Guardrail
+## 3. The Epistemic Tradeoff
 
 The same techniques that make the lectures powerful can also weaken epistemic discipline.
 
@@ -203,6 +215,21 @@ Use the lectures as unusually effective pedagogical objects and unusually strong
 - source from interpretation
 - pattern from proof
 - rhetorical power from evidentiary sufficiency
+
+## Statecraft Conclusion
+
+The statecraft lesson is not only that Jiang is a strong teacher. It is that **worldview-teaching routinely outperforms ordinary educational content on modern platforms** when it can do four things at once:
+
+- compress complexity into portable laws
+- make interpretation feel like discovery
+- attach every topic to civilizational stakes
+- reward serial belonging rather than one-off consumption
+
+That is why long-form lectures can still spread at scale when they stop behaving like neutral information delivery and start behaving like identity-forming explanatory systems.
+
+This is also the limit condition. The more efficiently a lecture trains belonging, certainty, and total explanation, the more important it becomes to preserve a second layer of source discipline and falsification outside the lecture itself.
+
+For the compact platform-level version of that claim, see [Worldview Teaching as a Platform Law](worldview-teaching-platform-law.md).
 
 ## Short Verdict
 

@@ -1,0 +1,46 @@
+# Jiang Analysis Index
+
+This index groups a small set of Jiang-facing interpretive notes that sit beside the public corpus and help explain how the Predictive History mirror works as a teaching and routing object.
+
+Use these notes when the question is not only "what is in the corpus?" but also "how does Jiang teach, route, and hold a worldview together across the corpus?"
+
+## Teaching and Spread
+
+- [The Pedagogy of Predictive History](jiang-pedagogy-and-virality.md)  
+  Why the lectures spread unusually well, how the platform fit works, and what epistemic tradeoff comes with the breakout.
+
+- [Jiang's Classroom Rhetoric](jiang-classroom-rhetoric.md)  
+  The live lecture voice in micro-form: overstatement, refutation, compression, resets, thought experiments, and assent rhythm.
+
+- [Worldview Teaching as a Platform Law](worldview-teaching-platform-law.md)  
+  A compact statecraft claim about why worldview-forming education often scales better than neutral explainer content on modern platforms.
+
+## Cross-Volume Continuities
+
+- [Consciousness and Attention Continuity](../corpus/cross-volume/consciousness-attention-continuity.md)  
+  How `ph-civ` forms worlds and `ph-apo` fights to capture the same substrate.
+
+- [Sacred Order to Eschatological Mobilization](../corpus/cross-volume/sacred-order-to-eschatological-mobilization.md)  
+  How sacred order in Civilization reappears as prophecy, legitimacy struggle, and mobilization in Apocalypse.
+
+- [Literary Memory to Narrative Warfare](../corpus/cross-volume/literary-memory-to-narrative-warfare.md)  
+  How literature as civilizational memory becomes narrative pressure, media struggle, and cognitive compression.
+
+## Bridge and Routing
+
+- [Predictive History After Tolstoy](predictive-history-after-tolstoy.md)  
+  The high-level handoff from literary civilization to pressure analysis.
+
+- [Strategy-Codex Bridge](strategy-codex-bridge.md)  
+  The boundary between the public mirror and live strategy-codex work.
+
+- [Source Video Index](source-video-index.md)  
+  The public lecture map back to YouTube and transcript locations.
+
+## Use Case
+
+Start here when you need one of three things:
+
+- a compact explanation of why Jiang's format spreads
+- a reader-facing map of the strongest cross-volume continuities
+- a clearer route from public corpus to interpretation without collapsing into workshop-only doctrine
