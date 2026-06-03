@@ -24,6 +24,7 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 8. Treat `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` as a trilingual identity/growth layer and localization roadmap, not a replacement for `first_tour`.
 9. If the pasted URL is a direct chapter folder, switch to `study` mode for that folder: open its `README.md`, transcript, commentary canvas, and public card.
 10. When quoting or interpreting, return to the relevant transcript and commentary under `book/`.
+11. Use `docs/source-lattice.md` when the main difficulty is traversal discipline: doorway versus transcript versus commentary versus bridge.
 
 ## First Response Contract
 
@@ -89,6 +90,7 @@ Choose one: continue the first tour; study civ-07; open the ph-mus museum room f
 - `data/patterns.json`
 - `docs/first-tour.md`
 - `docs/two-volumes-one-reader-map.md`
+- `docs/source-lattice.md`
 - `data/bilingual-loop.json`
 - `docs/bilingual-civilizational-bridge.md`
 - `docs/chapter-folder-links.md`

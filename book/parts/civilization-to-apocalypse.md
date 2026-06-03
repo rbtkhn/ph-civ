@@ -82,5 +82,7 @@ Apocalypse shows how history reveals itself when the world comes under pressure.
 ```
 
 Use [The Tolstoy Question](../../corpus/cross-volume/tolstoy-question.md) as the companion causation corridor and compact bridge doctrine, then enter [Apocalypse](world-war/README.md) through its pressure corridors and source spines.
+For the retrieval order that keeps this crossing source-grounded, see the
+[Civilization To Apocalypse Bridge-Lattice](../../docs/civilization-to-apocalypse-bridge-lattice.md).
 
 For deeper through-lines linking the two volumes, read [Consciousness and Attention Continuity](../../corpus/cross-volume/consciousness-attention-continuity.md), [Sacred Order to Eschatological Mobilization](../../corpus/cross-volume/sacred-order-to-eschatological-mobilization.md), and [Literary Memory to Narrative Warfare](../../corpus/cross-volume/literary-memory-to-narrative-warfare.md).

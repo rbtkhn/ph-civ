@@ -31,6 +31,9 @@ Use these notes when the question is not only "what is in the corpus?" but also 
 
 ## Bridge and Routing
 
+- [Source-Lattice](source-lattice.md)  
+  The retrieval law that routes from doorway to transcript floor to support to widened interpretation without collapsing those layers into one.
+
 - [Two Volumes, One Reader Map](two-volumes-one-reader-map.md)  
   The compact public explanation for why the older seven-lane manuscript scaffold is now read as a two-volume artifact.
 
