@@ -36,6 +36,7 @@ It should not become the large-media vault. Museum artifacts must be stored in a
 - The Homer-to-Tolstoy literary spine as the Volume I literary spine with cross-volume routing exposure.
 - The Plato-to-Hegel theological-philosophical spine as a secondary Volume I route through reality, sacred order, imagination, and philosophy of history.
 - The `ph-apo` pressure spine as the Volume II public application spine: geography, incentives, causation hinge, and infrastructure/sacred systems.
+- A compact externalization of the reader-facing restructuring at [Two Volumes, One Reader Map](docs/two-volumes-one-reader-map.md).
 - Provider-neutral prompt templates.
 - Eight public civilizational pattern IDs for downstream strategy-facing reference.
 - Public museum exhibit and artifact schemas.
@@ -130,6 +131,8 @@ Homer to Tolstoy is the Volume I literary spine, not a side corridor. It uses cr
 The route now also has a public [support ring](data/corridors/homer-to-tolstoy-support-ring.md), which names the nearby Volume I materials that strengthen the spine without changing its canonical author sequence or first-tour order.
 
 Tolstoy also functions as the bridge into Volume II. The public handoff lives in [From Civilization To Apocalypse](book/parts/civilization-to-apocalypse.md), [Predictive History After Tolstoy](docs/predictive-history-after-tolstoy.md), and [The Tolstoy Question](corpus/cross-volume/tolstoy-question.md).
+
+If the question is not only "what is the route?" but "why did the old seven become two?", open [Two Volumes, One Reader Map](docs/two-volumes-one-reader-map.md).
 
 ## Theological-Philosophical Spine
 

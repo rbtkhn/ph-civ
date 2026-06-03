@@ -31,6 +31,9 @@ Use these notes when the question is not only "what is in the corpus?" but also 
 
 ## Bridge and Routing
 
+- [Two Volumes, One Reader Map](two-volumes-one-reader-map.md)  
+  The compact public explanation for why the older seven-lane manuscript scaffold is now read as a two-volume artifact.
+
 - [Predictive History After Tolstoy](predictive-history-after-tolstoy.md)  
   The high-level handoff from literary civilization to pressure analysis.
 

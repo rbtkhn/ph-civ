@@ -20,9 +20,10 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 4. Use `data/routes/seed.json` for the first 10-route spine seed.
 5. Use `data/routes/first-tour.json` and `docs/first-tour.md` when the reader chooses to continue the first tour.
 6. Begin with the Homer-to-Tolstoy spine, then branch into Volume II application routes.
-7. Treat `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` as a trilingual identity/growth layer and localization roadmap, not a replacement for `first_tour`.
-8. If the pasted URL is a direct chapter folder, switch to `study` mode for that folder: open its `README.md`, transcript, commentary canvas, and public card.
-9. When quoting or interpreting, return to the relevant transcript and commentary under `book/`.
+7. Use `docs/two-volumes-one-reader-map.md` when the reader needs the clean public explanation for why the older seven-lane scaffold is now read as two volumes.
+8. Treat `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` as a trilingual identity/growth layer and localization roadmap, not a replacement for `first_tour`.
+9. If the pasted URL is a direct chapter folder, switch to `study` mode for that folder: open its `README.md`, transcript, commentary canvas, and public card.
+10. When quoting or interpreting, return to the relevant transcript and commentary under `book/`.
 
 ## First Response Contract
 
@@ -87,6 +88,7 @@ Choose one: continue the first tour; study civ-07; open the ph-mus museum room f
 - `data/cards.jsonl`
 - `data/patterns.json`
 - `docs/first-tour.md`
+- `docs/two-volumes-one-reader-map.md`
 - `data/bilingual-loop.json`
 - `docs/bilingual-civilizational-bridge.md`
 - `docs/chapter-folder-links.md`
