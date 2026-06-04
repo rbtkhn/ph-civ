@@ -31,6 +31,9 @@ Use these notes when the question is not only "what is in the corpus?" but also 
 
 ## Bridge and Routing
 
+- [Ten Axioms of My Historical Method](ten-axioms-of-my-historical-method.md)  
+  A compact doctrine note on civilization, legitimacy, literature, empire, religion, and predictive reading as the working grammar behind chapter design and comparison.
+
 - [Source-Lattice](source-lattice.md)  
   The retrieval law that routes from doorway to transcript floor to support to widened interpretation without collapsing those layers into one.
 
