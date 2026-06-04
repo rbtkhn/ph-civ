@@ -1,7 +1,7 @@
 ---
 source_id: civ-57
 public_slug: civ-57-how-modernism-ruined-everything
-title: "Civilization #57: How Modernism Ruined Everything (Re-upload AUDIO FIXED -- Thanks to Gabriel Bessa)"
+title: "Civilization #57: How Modernism Ruined Everything"
 series: civilization
 episode: 57
 chapter_id: civ-57
@@ -22,7 +22,7 @@ corpus_path: ../../../corpus/civilization/civ-57.md
 commentary_path: ./civ-57-commentary.md
 ---
 
-# Part I - Civilization #57: How Modernism Ruined Everything (Re-upload AUDIO FIXED -- Thanks to Gabriel Bessa)
+# Part I - Civilization #57: How Modernism Ruined Everything
 Part I contains the full lecture transcript imported from the public import snapshot. Part II is kept in the companion commentary file and is in review after initial analysis.
 
 ## Part I: Full transcript

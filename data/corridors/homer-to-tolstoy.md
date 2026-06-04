@@ -24,6 +24,7 @@ The routed path now reaches Tolstoy through [SH-16](../cards/sh-16.md), where *A
 ## Structural Invariant
 
 Treat this route as the Volume I literary spine. The `data/corridors/` placement is a routing surface, not a downgrade into a side corridor. Downstream lenses, including the Tolstoy Question and Tolstoy Lens, derive from this spine rather than replacing it.
+Its routed anchors should stay aligned with the canonical interwoven Volume I reader order, not silently introduce a competing sequence.
 
 For the surrounding strengthening architecture, see the [Homer to Tolstoy support ring](homer-to-tolstoy-support-ring.md). That note names the non-core Volume I materials that deepen this route without changing the canonical author sequence or first-tour order.
 For the retrieval order that keeps this corridor source-bound, see the

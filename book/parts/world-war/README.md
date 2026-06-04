@@ -1,23 +1,7 @@
 # Apocalypse
 
-Apocalypse is the second semester of Predictive History. If Civilization discovers the laws of history, Apocalypse sees those laws applied.
+Apocalypse is the second semester of the public book. It applies the laws of history under pressure through Geo-Strategy, Game Theory, Secret History, and Essay spines.
 
-The emphasis shifts from origins and memory to actors, systems, pressure, escalation, date-sensitive claims, and the possibility that inherited historical forms become operational in crisis.
-
-This application semester draws from multiple older provenance series rather than one original manuscript lane: Geo-Strategy, Game Theory, most of Secret History, and the essay lane are all rerouted here by function.
-
-The stable repository slug remains `world-war` for existing paths, manifests, and validators.
-
-If you are entering from Civilization, read [From Civilization To Apocalypse](../civilization-to-apocalypse.md) first. It explains why this part applies the laws discovered in Part One rather than merely forecasting a war.
-
-The first public organizing route for this semester is now the [ph-apo pressure spine](../../../data/corridors/ph-apo-pressure-spine.md): geography, incentives, causation hinge, and infrastructure/sacred systems. Use that spine as the reader-facing application entry. Keep chronology and provenance as secondary support orders rather than the primary public route.
-
-## Source Spines
-
-- Geo-Strategy: geo-01 through geo-20
-- Game Theory: gt-01 through gt-22
-- Secret History: sh-01 through sh-28
-
-## Pressure Corridors
-
-See [Apocalypse pressure corridors](../../../corpus/world-war/index.md).
+- [Canonical Volume II root](../../volume-ii-apocalypse/README.md)
+- [Volume II index](../../volume-ii-apocalypse/index.md)
+- [ph-apo Pressure Spine](../../../data/corridors/ph-apo-pressure-spine.md)

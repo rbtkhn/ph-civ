@@ -1,20 +1,8 @@
 # Apocalypse Index
 
-Apocalypse gathers the applied spines of Predictive History. The units remain source-routed through exact transcripts, strategic commentary, ph-civ cards, and orientation payloads.
-
-## Spines
-
-- [Geo-Strategy](../../../corpus/geo-strategy/index.md)
-- [Game Theory](../../../corpus/game-theory/index.md)
-- [Secret History](../../../corpus/secret-history/index.md)
-
-## Pressure Corridors
-
-- [US-Iran](../../../corpus/world-war/us-iran.md)
-- [Russia-Ukraine](../../../corpus/world-war/russia-ukraine.md)
-- [China-Pacific](../../../corpus/world-war/china-pacific.md)
-- [Dollar/finance](../../../corpus/world-war/dollar-finance.md)
-- [State decay](../../../corpus/world-war/state-decay.md)
-- [Escalation](../../../corpus/world-war/escalation.md)
-- [Eschatology](../../../corpus/world-war/eschatology.md)
-- [Media/technology](../../../corpus/world-war/media-technology.md)
+- [Volume II root](../../volume-ii-apocalypse/README.md)
+- [Geo-Strategy](../../volume-ii-apocalypse/geo/README.md)
+- [Game Theory](../../volume-ii-apocalypse/gt/README.md)
+- [Secret History](../../volume-ii-apocalypse/sh/README.md)
+- [Essays](../../volume-ii-apocalypse/sub/README.md)
+- [Corridors](../../volume-ii-apocalypse/corridors/README.md)

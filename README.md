@@ -25,13 +25,13 @@ It should not become the large-media vault. Museum artifacts must be stored in a
 ## What Is Included
 
 - 150 public cards from Predictive History snapshot `56a4a08`, including the first `sub-*` essay lane, provisional `gt-23` through `gt-26` captures, and the direct `ph-apo` `gt-27` chapter.
-- 150 public source chapters across legacy `book/` provenance folders and the direct `ph-civ/chapters/` and `ph-apo/chapters/` namespaces.
-- 150 chapter commentaries across legacy `book/` provenance folders and the direct `ph-civ/chapters/` and `ph-apo/chapters/` namespaces, each seeded as an open commentary canvas.
+- 150 public source chapters staged through a canonical two-volume `book/` reader architecture, with legacy provenance folders and direct namespaces still preserved during recanonicalization.
+- 150 chapter commentaries attached to those staged canonical homes and preserved underlying packets, each seeded as an open commentary canvas.
 - Chapter-folder `README.md` doorways for folder-backed chapters, designed for direct GitHub links in YouTube comments and LLM chats.
 - Canonical public source captures under `sources/` so the repo can function independently of outside workshop storage.
 - A source video index at `docs/source-video-index.md` so Predictive History YouTube URLs are visible from one public file.
 - Two conceptual volumes: Volume I / Civilization / `ph-civ`, and Volume II / Apocalypse / `ph-apo`.
-- A public two-volume reader architecture that preserves older multi-volume source provenance; see [From The Old Seven Volumes To The Current Two](book/seven-volume-to-two-volume.md).
+- A canonical two-volume reader architecture under `book/volume-i-civilization/` and `book/volume-ii-apocalypse/`, with older multi-volume source provenance kept subordinate; see [From The Old Seven Volumes To The Current Two](book/seven-volume-to-two-volume.md).
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, Secret History, and Essays.
 - The Homer-to-Tolstoy literary spine as the Volume I literary spine with cross-volume routing exposure.
 - The Plato-to-Hegel theological-philosophical spine as a secondary Volume I route through reality, sacred order, imagination, and philosophy of history.
@@ -96,7 +96,7 @@ ph-mus status
 ph-mus route civ-07 --json
 ```
 
-All prompt and spark commands are template-only. They do not call an AI provider. Pattern commands expose public civilizational frames for downstream strategy analysis; they do not import live strategy workspace material. Use **`ph-civ`** as the public CLI (`python -m civ_ph.cli …` invokes the same code when running from source).
+All prompt and spark commands are template-only. They do not call an AI provider. Pattern commands expose public civilizational frames for downstream strategy analysis; they do not import live strategy workspace material. Use **`ph-civ`** as the public CLI (`python -m civ_ph.cli â€¦` invokes the same code when running from source).
 
 ## Commentary Canvas
 

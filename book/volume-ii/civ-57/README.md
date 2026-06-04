@@ -1,4 +1,4 @@
-# Civilization #57: How Modernism Ruined Everything (Re-upload AUDIO FIXED -- Thanks to Gabriel Bessa)
+# Civilization #57: How Modernism Ruined Everything
 
 This chapter folder is a public study doorway for `civ-57`.
 

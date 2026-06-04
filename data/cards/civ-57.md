@@ -1,13 +1,13 @@
 ---
 source_id: civ-57
-title: Civilization #57: How Modernism Ruined Everything (Re-upload AUDIO FIXED -- Thanks to Gabriel Bessa)
+title: Civilization #57: How Modernism Ruined Everything
 series: civilization
 part: civilization
 placement_weight: strong
 review_status: in_review
 ---
 
-# Civilization #57: How Modernism Ruined Everything (Re-upload AUDIO FIXED -- Thanks to Gabriel Bessa)
+# Civilization #57: How Modernism Ruined Everything
 
 ## Where This Sits
 
