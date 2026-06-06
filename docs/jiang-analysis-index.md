@@ -12,6 +12,9 @@ Use these notes when the question is not only "what is in the corpus?" but also 
 - [Jiang's Classroom Rhetoric](jiang-classroom-rhetoric.md)  
   The live lecture voice in micro-form: overstatement, refutation, compression, resets, thought experiments, and assent rhythm.
 
+- [Hidden Doctrines of PH-CIV](hidden-doctrines-of-ph-civ.md)  
+  A reading of the strongest latent principles enacted by the corpus structure, literary spine, and two-volume architecture whether or not Jiang states them directly.
+
 - [GT29 Capstone and the School Turn](gt-29-capstone-and-the-school-turn.md)  
   Why the final examination matters as a capstone manifesto, anthropological turn, and public declaration of school-building ambition.
 
