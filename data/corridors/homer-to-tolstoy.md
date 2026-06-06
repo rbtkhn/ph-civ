@@ -74,7 +74,7 @@ The literary route therefore does not simply stop at Tolstoy. It passes through 
 The Dante portion of this broader spine should now be read in two layers:
 
 - current public Dante path through `gb-10`
-- pending raw-capture Dante continuations at [gb-11 raw capture: Dante's Revolution](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/predictive-history-gb-11-dantes-revolution-2026-05-26.md) and [gb-12 raw capture: Dante in Paradise](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/predictive-history-gb-12-dante-in-paradise-2026-05-26.md)
+- pending raw-capture Dante continuations at [gb-11 raw capture: Dante's Revolution](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-gb-11-dantes-revolution-2026-05-26.md) and [gb-12 raw capture: Dante in Paradise](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-gb-12-dante-in-paradise-2026-05-26.md)
 
 Those later Dante lectures belong to the same Volume I literary spine. They should not be treated as detached archive residue or as material that needs rerouting into Apocalypse.
 

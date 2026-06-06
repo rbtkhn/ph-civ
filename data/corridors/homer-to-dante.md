@@ -33,8 +33,8 @@ The current public corridor stops at `gb-10`, but the Dante line does not concep
 
 Recent raw-capture continuations now preserved outside the mirror:
 
-- [gb-11 raw capture: Dante's Revolution](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/predictive-history-gb-11-dantes-revolution-2026-05-26.md)
-- [gb-12 raw capture: Dante in Paradise](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/predictive-history-gb-12-dante-in-paradise-2026-05-26.md)
+- [gb-11 raw capture: Dante's Revolution](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-gb-11-dantes-revolution-2026-05-26.md)
+- [gb-12 raw capture: Dante in Paradise](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-gb-12-dante-in-paradise-2026-05-26.md)
 
 When these are promoted into the public mirror, they should extend the Volume I literary and imagination spine as Dante continuations rather than be rerouted into Apocalypse or treated as detached archive residue.
 

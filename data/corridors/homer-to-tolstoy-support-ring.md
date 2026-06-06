@@ -47,8 +47,8 @@ These support nodes strengthen the route, but they do not replace the core spine
 
 | Node | Role |
 | --- | --- |
-| [gb-11 raw capture: Dante's Revolution](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/predictive-history-gb-11-dantes-revolution-2026-05-26.md) | Pending Dante continuation that strengthens the imaginative and historical claims of the Dante segment once promoted. |
-| [gb-12 raw capture: Dante in Paradise](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/predictive-history-gb-12-dante-in-paradise-2026-05-26.md) | Pending Dante continuation that carries the Dante line closer to the Tolstoy bridge by turning love, imagination, and God into a causation problem. |
+| [gb-11 raw capture: Dante's Revolution](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-gb-11-dantes-revolution-2026-05-26.md) | Pending Dante continuation that strengthens the imaginative and historical claims of the Dante segment once promoted. |
+| [gb-12 raw capture: Dante in Paradise](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-gb-12-dante-in-paradise-2026-05-26.md) | Pending Dante continuation that carries the Dante line closer to the Tolstoy bridge by turning love, imagination, and God into a causation problem. |
 | [sh-17](../cards/sh-17.md) | Scriptural literary memory and Genesis as layered identity-making text. |
 | [sh-18](../cards/sh-18.md) | Prophetic-poetic voice through Zarathustra, Rumi, and Nietzsche. |
 | [civ-55](../cards/civ-55.md) | **Kant hinge**. The strongest non-literary reinforcement now materialized in the public mirror. It turns Dante's imagination into a problem of epistemology, philosophy, and modernity. |
