@@ -52,7 +52,7 @@ In `ph-apo`, the same thread reappears as a contest over sacred history, prophec
 - [gt-09](../../data/cards/gt-09.md) begins at war, incentives, signaling, and religious-political legitimacy.
 - [gt-16](../../data/cards/gt-16.md) makes media pressure, symbolic struggle, and eschatological conflict more explicit.
 - [sh-28](../../data/cards/sh-28.md) expands the field into myth, sacred history, ideology, and symbolic pressure.
-- the raw [gt-28 capture](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/predictive-history-game-theory-28-predictive-history-2026-05-26.md) radicalizes the line by treating eschatology, geopolitics, and imperial decline as convergent layers rather than unrelated explanations.
+- the raw [gt-28 capture](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-game-theory-28-predictive-history-2026-05-26.md) radicalizes the line by treating eschatology, geopolitics, and imperial decline as convergent layers rather than unrelated explanations.
 
 At this stage, the core claim becomes:
 

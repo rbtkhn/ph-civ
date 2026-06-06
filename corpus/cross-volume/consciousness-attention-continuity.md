@@ -59,7 +59,7 @@ In `ph-apo`, the same thread reappears as a contest over attention, interpretati
 - [sh-28](../../data/cards/sh-28.md) expands the field into myth, ideology, social memory, sacred history, and symbolic pressure.
 - [gt-24](../../data/cards/gt-24.md) moves into surveillance, machine-learning limits, and AI as empire-building infrastructure.
 - [gt-27](../../data/cards/gt-27.md) adds reserve-currency stress and systemic monetary dependence.
-- the raw [gt-28 capture](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/predictive-history-game-theory-28-predictive-history-2026-05-26.md) radicalizes the line by treating consciousness and attention as the real prize beneath money, AI, eschatology, and geopolitical struggle.
+- the raw [gt-28 capture](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-game-theory-28-predictive-history-2026-05-26.md) radicalizes the line by treating consciousness and attention as the real prize beneath money, AI, eschatology, and geopolitical struggle.
 
 At this stage, the core claim becomes:
 
