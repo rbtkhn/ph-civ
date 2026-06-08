@@ -8,7 +8,7 @@ Three source anchors are especially useful here:
 
 - [gt-16-transcript.md](../book/volume-iii/gt-16/gt-16-transcript.md)
 - [sh-11-transcript.md](../book/volume-vi/sh-11/sh-11-transcript.md)
-- the raw [gb-12 Dante capture](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/predictive-history-gb-12-dante-in-paradise-2026-05-26.md)
+- the raw [gb-12 Dante capture](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-gb-12-dante-in-paradise-2026-05-26.md)
 
 ## The Core Pattern
 
