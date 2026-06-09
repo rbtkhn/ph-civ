@@ -98,11 +98,11 @@ Every claim below is tied to the transcript body in `civ-07-transcript.md`.
 
 Explicitly testable items only.
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
+| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-06-09) | Notes |
 |------------|----------|--------------------|-------------|-----------------------------------|-------|
-| Later Greek chapters will continue treating Homer as the standard that later writers and thinkers aspire to match. | E | Later chapters do not use Homer as a model for Plato, Thucydides, or Greek cultural ambition. | 2026-05-13 | Pending | The lecture says later thinkers wanted to become Homer. `civ-07-transcript.md:90-93` |
-| Later chapters will frame Greek civilization as a product of destruction and decentralization rather than uninterrupted Bronze Age continuity. | E | Later chapters treat Greek creativity as continuous with centralized Mycenaean power. | 2026-05-13 | Pending | The lecture repeats destruction as the condition of innovation. `civ-07-transcript.md:35-40`, `civ-07-transcript.md:93-94` |
-| The Greece/China contrast will recur as a contrast between open poetic imagination and bureaucratic literacy control. | SI | Later chapters abandon the literacy/censorship contrast. | 2026-05-13 | Pending | The closing develops this comparison directly. `civ-07-transcript.md:85-93` |
+| Later Greek chapters will continue treating Homer as the standard that later writers and thinkers aspire to match. | E | Later chapters do not use Homer as a model for Plato, Thucydides, or Greek cultural ambition. | 2026-06-09 | Partially supported (mutated) | Poet-supremacy continues: `civ-08` (Homer/eudaimonia), `civ-09` (playwright honor), `civ-10` (Plato aspires to Aeschylus/Sophocles/Euripides, not Homer by name). `gb-03` deepens poet-legislator doctrine. Thucydides "become Homer" branch not supported beyond this lecture. `civ-07-transcript.md:90-93` |
+| Later chapters will frame Greek civilization as a product of destruction and decentralization rather than uninterrupted Bronze Age continuity. | E | Later chapters treat Greek creativity as continuous with centralized Mycenaean power. | 2026-06-09 | Confirmed | `civ-08` opens with explicit Bronze Age collapse → innovation recap. `civ-07-transcript.md:35-40`, `civ-07-transcript.md:93-94` |
+| The Greece/China contrast will recur as a contrast between open poetic imagination and bureaucratic literacy control. | SI | Later chapters abandon the literacy/censorship contrast. | 2026-06-09 | Partially supported (refocused) | China comparison recurs (`civ-08` Sparta analogy; `civ-09` schools/media/entertainment) but literacy/censorship mechanism not carried forward until `civ-10` censorship aside. `civ-07-transcript.md:85-93` |
 
 **Meta-Prediction Patterns**
 
@@ -135,7 +135,8 @@ External or opposing views, always sourced.
 
 - **Connection to `civ-06`**: Bronze Age collapse creates the broken environment from which Greek innovation emerges.
 - **Connection to `civ-08`**: the polis and eudaimonia prepare the Sparta/Athens contrast and later Peloponnesian War analysis.
-- **Connection to `civ-09` / `civ-10`**: Homer becomes the model for later theater and philosophy as public formation.
+- **Connection to `civ-09` / `civ-10`**: poet-supremacy mutates — playwrights as democratic teachers (`civ-09`), then Plato trained as playwright and aspires to Aeschylus/Sophocles/Euripides (`civ-10`); Thucydides-as-Homer branch not carried forward.
+- **Connection to `gb-03`**: optional [Homer support ring](../../../data/corridors/homer-to-tolstoy-support-ring.md) close-read after this survey (`arete`, `eudaimonia`, speech-as-reality).
 - **Broader Civilizational Pattern**: destruction can clear space for new symbolic orders, especially when language and political form change together.
 - **Strategic Implications**: soft cultural technologies such as writing systems and epic memory can shape a civilization as deeply as military institutions.
 

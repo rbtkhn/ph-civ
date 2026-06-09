@@ -43,6 +43,13 @@ These support nodes strengthen the route, but they do not replace the core spine
 | [sh-11](../cards/sh-11.md) | Pre-Homeric imagination, ritual, care, and symbolic life. Use this as the prologue to the literary route. |
 | [civ-36](../cards/civ-36.md) | Oral-memory, myth-loss, transmission, and the cost of literary transition. Use this as a theory-of-memory support node rather than a core route stop. |
 
+## Homer / Great Books Evidence Band
+
+| Node | Role |
+| --- | --- |
+| [gb-03](../cards/gb-03.md) | Iliad close-read support after [civ-07](../cards/civ-07.md): `arete`, `eudaimonia`, Odysseus speech-as-reality, and poet-legislator world-making. Complements the civ lecture (plot, Priam psychology, Greece/China frame) without duplicating it. Open when the reader needs rhetorical mechanics beneath Homer, not a new core-spine author stop. |
+| [gb-02](../cards/gb-02.md), [gb-05](../cards/gb-05.md), [gb-07](../cards/gb-07.md) | Existing Homer-segment Great Books supports on the core spine; pair with `gb-03` when the route needs both heroic-memory routing and close-reading depth. |
+
 ## Middle / Theological-Imagination Band
 
 | Node | Role |

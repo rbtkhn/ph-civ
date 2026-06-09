@@ -28,7 +28,7 @@ public_imported_at: 2026-05-14
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer3_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 # Commentary - Great Books
@@ -48,23 +48,59 @@ The lecture is treated here as a Great Books source unit whose first task is to 
 
 The public transcript and commentary scaffold identify this as part of Volume V's classroom sequence. This commentary preserves the chapter's claims as represented claims, then marks the interpretive and evidentiary limits that need later review.
 
-## Key Terms, Texts, and Interpretive Claims
+## Layer 2 - Source-Backed Claims & Concepts
 
-### Key Terms
+Every claim below is tied to the transcript body in `gb-03-transcript.md`.
 
-- **poet:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **prophet:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **sacred speech:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **world-making:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **canon:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **authority:** Requires final close-reading definition against the transcript and relevant primary texts.
+### Major Claims
 
-### Public Scaffold Claims
+| # | Claim | Transcript Reference | Strength | Confidence |
+|---|---|---|---|---|
+| 1 | One epic poem (the Iliad) is presented as able to birth a civilization because poetic speech creates shared reality. | `gb-03-transcript.md:33` | Explicit | High |
+| 2 | `arete` means virtue, excellence, or character; war fighting and speech making are its two traditional forms. | `gb-03-transcript.md:33` | Explicit | High |
+| 3 | `eudaimonia` means flourishing — happiness only when expressing one's `arete`; Achilles chooses heroic death at Troy over old age at home. | `gb-03-transcript.md:33` | Explicit | High |
+| 4 | War and speech pursue the same end (imposing reality on others) by force versus words; Odysseus and Achilles embassy speeches are a "war of narratives." | `gb-03-transcript.md:33` | Explicit | High |
+| 5 | Long speeches project a "movie" onto the world; Odysseus expands Achilles' imagination (feast/desert, present Hector, past Peleus, future spoils); Achilles contracts inward (`I`, refusal). | `gb-03-transcript.md:33` | Explicit | High |
+| 6 | Memorable speech uses poetic technique — imagery, metaphor, diction, syntax; Greek education centered on memorizing the Iliad to learn rhetoric and democracy. | `gb-03-transcript.md:33` | Explicit | High |
+| 7 | Kant's critique: humans actively shape phenomena through time/space filters; language enables collective reality; poets create language and therefore create reality. | `gb-03-transcript.md:33-34` | Explicit | Medium |
+| 8 | Poets are prophets with divine connection to the universe (Geist, collective unconscious, forms); Homer summons living characters; the Iliad is a portal and shared creation. | `gb-03-transcript.md:34` | Explicit | Medium |
+| 9 | Reading the Iliad increases mental "download speed" to the divine; Great Books reading connects readers to God. | `gb-03-transcript.md:34` | Explicit | Medium |
+| 10 | Shelley (*Defence of Poetry*): Athenian theater coincides with moral-intellectual greatness; tragedy mirrors the self; hubris → epiphany → catharsis. | `gb-03-transcript.md:35` | Explicit | High |
+| 11 | Poets combine eternal and material; certain words reanimate buried soul-memory; poetry defeats the prison of surrounding impressions. | `gb-03-transcript.md:35` | Explicit | Medium |
+| 12 | Shelley closes: poets are "legislators of the world"; poetry is the basis of civilization; Homer spread truth by divine design. | `gb-03-transcript.md:35` | Explicit | High |
+
+### Core Concepts Defined
+
+- **arete**: excellence or character expressed through war (Achilles) or speech (Odysseus). `gb-03-transcript.md:33`
+- **eudaimonia**: flourishing achieved only when living one's distinctive excellence. `gb-03-transcript.md:33`
+- **Speech-as-reality**: rhetoric as world-projection, not mere response — embassy speeches as competing movies. `gb-03-transcript.md:33`
+- **Poet-legislator**: poet-prophet who channels divine fire, creates language, and founds communal reality (Shelley via lecture). `gb-03-transcript.md:34-35`
+- **Hubris / catharsis**: tragic flaw and emotional purge that produce humility and moral education in theater. `gb-03-transcript.md:35`
+- **Kant filter (lecture use)**: time and space as mental ordering; language as collective reality-shaper. `gb-03-transcript.md:33-34`
+
+### Public Scaffold Claims (retained)
 
 1. The lecture uses poet as a key entry point into the Great Books course.
 2. The chapter frames poets, prophets, sacred speech, literary authority, communal memory, religion, and world-making language as a reading problem rather than as mere topic coverage.
 3. The public book layer should preserve the lecture's represented claims while marking interpretive limits and review needs.
-4. Final review should re-anchor this first-pass commentary to line-level transcript references and primary-text passages.
+4. Layer 2 above supersedes stub term placeholders; final review should still re-anchor to line-level transcript references and primary-text passages.
+
+## Layer 3 - Predictions & Falsifiers
+
+Explicitly testable items only.
+
+| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-06-09) | Notes |
+|------------|----------|--------------------|-------------|-----------------------------------|-------|
+| `civ-09` will treat Athenian theater as moral education and civic enlightenment matching Shelley's tragedy-mirror frame. | E | `civ-09` does not frame drama as public moral formation. | 2026-06-09 | Confirmed | Playwrights as democratic teachers; hubris/catharsis arc in `civ-09`. Shelley anchor `gb-03-transcript.md:35` |
+| Later Greek chapters will keep poet/playwright honor as the highest civic aspiration before philosophy moves stage dialogue onto the page. | SI | Later chapters abandon poet-supremacy or skip playwright-to-philosopher handoff. | 2026-06-09 | Partially supported (mutated) | `civ-09` playwright prophets; `civ-10` Plato trained as playwright, aspires to Aeschylus/Sophocles/Euripides, innovates page dialogue |
+| Iliad-memorization → rhetoric → democracy chain will recur as an institutional mechanism, not only as Homer survey. | SI | Later chapters discuss Greek civic speech without education or institutional carry. | 2026-06-09 | Partially supported (refocused) | Speech-as-reality explicit in `gb-03` only; `civ-09` schools/media/entertainment; `civ-10` elenchus and Republic as readable dialogue |
+
+**Meta-Prediction Patterns**
+
+- Poet-legislator doctrine treats language as civilization's building block; later civ chapters test that through theater, trial, and conquest-carrier spread.
+- Great Books close-read complements `civ-07` survey without duplicating Priam psychology — support-ring placement holds.
+
+## Key Terms, Texts, and Interpretive Claims
 
 ## Passage / Argument Anchors
 
@@ -79,6 +115,9 @@ Keep religious and literary claims distinct. Do not turn lecture analogy into a 
 ## Cross-Series Links
 
 - Connect this chapter to adjacent Great Books units and to the broader Predictive History imagination thread.
+- **Connection to `civ-07`**: civ survey (Bronze Age, polis, Iliad plot psychology, Greece/China); `gb-03` deepens the same Homer spine through `arete`, `eudaimonia`, and Odysseus embassy rhetoric without duplicating the Priam arc.
+- **Connection to `civ-08`**: eudaimonia and Achilles' heroic choice are taught here; `civ-08` institutionalizes that ethic into Athenian competition, ostracism, imperial expansion, and Peloponnesian War irony.
+- **Homer support ring**: listed in [Homer to Tolstoy support ring](../../data/corridors/homer-to-tolstoy-support-ring.md) — open after `civ-07`, not a core-spine stop.
 
 Book/site hook: Return here when comparing literary imagination with religious formation, prophetic speech, canon formation, or later Dante and biblical-material chapters.
 

@@ -85,9 +85,9 @@ Every claim below is tied to the transcript body in `civ-11-transcript.md`.
 
 Explicitly testable items only.
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
+| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-06-09) | Notes |
 |------------|----------|--------------------|-------------|-----------------------------------|-------|
-| The next chapter will contrast Alexander's inherited capacity with his personal risk, glory, and tyranny. | E | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-05-13 | Pending | In-review control. |
+| The next chapter will contrast Alexander's inherited capacity with his personal risk, glory, and tyranny. | E | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-06-09 | Confirmed | `civ-12` opens by testing father-son model: aggressive expansion, tyranny (obedience, killing father's talent), boundless ambition. `civ-12-transcript.md:31-39`, `civ-12-transcript.md:103-104` |
 | Later Rome material should reuse the question of whether conquest or admiration carries culture across space. | C | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-05-13 | Pending | In-review control. |
 
 **Meta-Prediction Patterns**

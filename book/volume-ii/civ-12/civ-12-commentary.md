@@ -85,10 +85,10 @@ Every claim below is tied to the transcript body in `civ-12-transcript.md`.
 
 Explicitly testable items only.
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
+| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-06-09) | Notes |
 |------------|----------|--------------------|-------------|-----------------------------------|-------|
-| Later chapters will treat Hellenistic institutions and education as Greek legacy carriers. | E | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-05-13 | Pending | In-review control. |
-| Later Christianity material will revisit Alexander's empire as a bridge condition for religious-cultural spread. | E | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-05-13 | Pending | In-review control. |
+| Later chapters will treat Hellenistic institutions and education as Greek legacy carriers. | E | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-06-09 | Confirmed | `civ-13`: Museum/Library of Alexandria, manuscript standardization, commentaries, pan-Hellenistic education project. `civ-13-transcript.md:71-74`, `civ-13-transcript.md:97-99` |
+| Later Christianity material will revisit Alexander's empire as a bridge condition for religious-cultural spread. | E | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-06-09 | Partially supported (extended) | `civ-13` closes Greek arc with Levant sync (Greek + Jews → Christianity); dedicated Christianity chapters still forward per `civ-10`. `civ-12-transcript.md:101-103`, `civ-13-transcript.md:99-100` |
 
 **Meta-Prediction Patterns**
 

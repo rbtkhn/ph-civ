@@ -122,6 +122,7 @@ Only open the secondary layer when the route becomes unstable or thin.
 Use it for four kinds of difficulty:
 
 - when the reader needs pre-Homeric memory support
+- when Homer needs Great Books close-read support after `civ-07`
 - when the Dante middle needs strengthening
 - when Shakespeare needs a stronger imperial chassis
 - when the Tolstoy endpoint needs a clearer handoff into Apocalypse
@@ -133,6 +134,14 @@ Use it for four kinds of difficulty:
 
 Use when the reader needs ritual, oral-memory, myth-loss, and symbolic-life
 support before or beneath Homer.
+
+### Homer close-read and speech-craft support
+
+- [gb-03](../cards/gb-03.md)
+
+Use when [civ-07](../cards/civ-07.md) is open but the reader still needs
+`arete`, `eudaimonia`, Odysseus embassy rhetoric, or poet-legislator
+world-making language. Not a core-spine stop.
 
 ### Dante and theological-imagination support
 

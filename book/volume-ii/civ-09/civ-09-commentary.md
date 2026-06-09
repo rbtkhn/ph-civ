@@ -100,7 +100,7 @@ Explicitly testable items only.
 | Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
 |------------|----------|--------------------|-------------|-----------------------------------|-------|
 | `civ-10` will move from theater as democratic self-critique to Socrates and Plato as critics of democracy. | E | `civ-10` does not present Socrates or Plato as challenging democracy. | 2026-05-13 | Confirmed by next transcript | `civ-10` opens by contrasting playwrights' democratic claims with Socrates. `civ-10-transcript.md:32-35` |
-| Later chapters will treat literature as a civic institution, not only a private art form. | SI | Later chapters discuss literature without civic or political function. | 2026-05-13 | Pending | This chapter defines theater through public identity formation. `civ-09-transcript.md:32-40` |
+| Later chapters will treat literature as a civic institution, not only a private art form. | SI | Later chapters discuss literature without civic or political function. | 2026-06-09 | Confirmed | Successors must invent/spread Greek culture to govern (`civ-12`); Alexandria standardizes Homer/playwrights/philosophers as education infrastructure (`civ-13`). `civ-12-transcript.md:101-102`, `civ-13-transcript.md:92-99` |
 | Later analysis of empire will return to the idea that democratic societies can become imperial and self-deceiving. | SI | Later chapters treat democracy and empire as unrelated. | 2026-05-13 | Pending | Euripides is interpreted through Melos and Pericles. `civ-09-transcript.md:75-92` |
 
 **Meta-Prediction Patterns**
@@ -132,8 +132,10 @@ External or opposing views, always sourced.
 
 ## Layer 5 - Synthesis & Cross-Volume Links
 
+- **Connection to `civ-07`**: Homer survey (polis, alphabet, Iliad psychology); `civ-09` carries poet-centered civic formation from epic memory into democratic theater.
+- **Connection to `gb-03`**: optional [Homer support ring](../../../data/corridors/homer-to-tolstoy-support-ring.md) — Shelley/hubris/catharsis and poet-legislator doctrine deepen the same playwright-honor arc this chapter names explicitly.
 - **Connection to `civ-08`**: `civ-08` describes Athenian empire and internal status pressure; `civ-09` shows Athens staging those tensions in theater.
-- **Connection to `civ-10`**: the democratic self-defense of theater sets up Socrates and Plato as anti-democratic or supra-democratic critics.
+- **Connection to `civ-10`**: the democratic self-defense of theater sets up Socrates and Plato as anti-democratic or supra-democratic critics; Plato's playwright training (`civ-10`) closes the poet-supremacy line opened in `civ-07`.
 - **Broader Civilizational Pattern**: public art can teach a society how to deliberate, but it can also expose what that society refuses to see.
 - **Strategic Implications**: empires require narratives of glory, and their critics often work by forcing citizens to see the victims behind those narratives.
 

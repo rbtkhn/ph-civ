@@ -34,7 +34,7 @@ For the retrieval order that keeps this corridor source-bound, see the
 
 | Step | Author | Routed Unit | Role In The Arc |
 | --- | --- | --- | --- |
-| 1 | Homer | [civ-07](../cards/civ-07.md), [gb-02](../cards/gb-02.md), [gb-05](../cards/gb-05.md), [gb-07](../cards/gb-07.md) | Heroic memory, human action, return, and anti-Homeric revision. |
+| 1 | Homer | [civ-07](../cards/civ-07.md), [gb-02](../cards/gb-02.md), [gb-05](../cards/gb-05.md), [gb-07](../cards/gb-07.md) | Heroic memory, human action, return, and anti-Homeric revision. For Iliad close-read depth (`arete`, `eudaimonia`, speech-as-reality), open [gb-03](../cards/gb-03.md) from the [support ring](homer-to-tolstoy-support-ring.md) — not a core-spine stop. |
 | 2 | Virgil | [civ-17](../cards/civ-17.md), [gb-08](../cards/gb-08.md) | Greek epic inheritance becomes Roman imperial memory. |
 | 3 | Dante | [civ-29](../cards/civ-29.md), [civ-30](../cards/civ-30.md), [civ-41](../cards/civ-41.md), [gb-09](../cards/gb-09.md), [gb-10](../cards/gb-10.md) | Epic inheritance becomes pilgrimage, love, ascent, hell, self-forgiveness, and a new architecture of the self. The public Dante run currently stops at `gb-10`, but raw-capture continuations now exist for `gb-11` and `gb-12` and should extend this Volume I segment when promoted. |
 | 4 | Shakespeare | [civ-51](../cards/civ-51.md) | Literature becomes language, theater, empire, psychology, and civilizational soft power. |

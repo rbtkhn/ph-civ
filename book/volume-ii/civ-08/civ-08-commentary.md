@@ -148,6 +148,7 @@ External or opposing views, always sourced.
 ## Layer 5 - Synthesis & Cross-Volume Links
 
 - **Connection to `civ-07`**: the polis and eudaimonia introduced through Homer now become institutional and imperial forces.
+- **Connection to `gb-03`** (Homer support ring): open when Achilles/eudaimonia needs close-read depth before this chapter — `arete`, prophecy (die young as hero), and Odysseus speech-as-reality in the Great Books lecture; `civ-08` here **names** eudaimonia and routes it into Sparta/Athens competition, ostracism, and empire.
 - **Connection to `civ-09`**: theater becomes the next forum where Athens reflects on the political violence and empire described here.
 - **Connection to `civ-10`**: Socrates and Plato emerge from the crisis of democratic judgment after the Peloponnesian War.
 - **Broader Civilizational Pattern**: abundance can create blocked status movement, and blocked status can turn social energy toward war.
