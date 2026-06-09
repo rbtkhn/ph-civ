@@ -30,10 +30,19 @@ def repair_goes_corruption(text: str) -> str:
     return text.replace("Gobekli Tepes", "goes")
 
 
+def repair_alexander_stacking(text: str) -> str:
+    """Undo ``exander`` -> ``Alexander`` substring churn inside ``Alexander``."""
+    text = re.sub(r"(?:Al)+Alexander", "Alexander", text)
+    text = re.sub(r"(?:Al)+Alexandria", "Alexandria", text)
+    text = re.sub(r"\bexander\b", "Alexander", text)
+    return re.sub(r"\balexand\b", "Alexander", text)
+
+
 def apply_reps(text: str, reps: list[tuple[str, str]]) -> str:
     for old, new in reps:
         text = text.replace(old, new)
-    return repair_goes_corruption(text)
+    text = repair_goes_corruption(text)
+    return repair_alexander_stacking(text)
 
 
 def normalize_civ01(text: str) -> str:
@@ -843,9 +852,11 @@ def normalize_civ13(text: str) -> str:
         ("general uh sucas", "general Seleucus"),
         ("t okay Tomy", "Ptolemy"),
         ("stole aer's body", "stole Alexander's body"),
-        ("adicus", "Odysseus"),
         ("achieve yonia", "achieve eudaimonia"),
-        ("exander", "Alexander"),
+        (" alexand ", " Alexander "),
+        (" alexand.", " Alexander."),
+        (" alexand,", " Alexander,"),
+        (" alexand's", " Alexander's"),
         ("phow you", "Philip you"),
         ("philos from", "Philip from"),
         ("philos second", "Philip II"),
@@ -1297,13 +1308,12 @@ OLD_NOTE_MARKERS = (
 
 def patch_frontmatter(head: str, slug: str) -> str:
     if "normalization_state:" in head:
-        if any(marker in head for marker in OLD_NOTE_MARKERS):
-            head = re.sub(
-                r'asr_normalization_note:.*\n',
-                ARCH_NOTE,
-                head,
-                count=1,
-            )
+        head = re.sub(
+            r'asr_normalization_note:.*\n',
+            ARCH_NOTE,
+            head,
+            count=1,
+        )
         return head
     insert = (
         "transcript_fidelity: exact_body_match\n"
@@ -1342,17 +1352,26 @@ NORMALIZERS = {
 def main() -> None:
     import sys
 
-    slugs = sys.argv[1:] if len(sys.argv) > 1 else list(NORMALIZERS.keys())
+    argv = sys.argv[1:]
+    note_only = "--note-only" in argv
+    if note_only:
+        argv = [a for a in argv if a != "--note-only"]
+    slugs = argv if argv else list(NORMALIZERS.keys())
     for slug in slugs:
         fn = NORMALIZERS[slug]
         path = ROOT / "book" / "volume-ii" / slug / f"{slug}-transcript.md"
         raw = path.read_text(encoding="utf-8")
         marker = "## Part I: Full transcript"
         head, body = raw.split(marker, 1)
-        new_body = fn(body)
+        new_body = body if note_only else fn(body)
         new_head = patch_frontmatter(head, slug)
-        path.write_text(new_head + marker + new_body, encoding="utf-8")
-        print(f"{slug}: wrote ({'changed' if new_body != body else 'body unchanged'})")
+        changed = new_head != head or new_body != body
+        if changed:
+            path.write_text(new_head + marker + new_body, encoding="utf-8")
+        print(
+            f"{slug}: {'wrote' if changed else 'skipped'} "
+            f"({'note-only' if note_only else 'changed' if new_body != body else 'body unchanged'})"
+        )
 
 
 if __name__ == "__main__":

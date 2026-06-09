@@ -19,7 +19,7 @@ rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 transcript_fidelity: exact_body_match
 normalization_state: ai_assisted_proper_noun_cleanup
-asr_normalization_note: "2026-06-09 pilot Volume II block (civ-01–12); AI-assisted proper nouns only; not human-verified; verify before quotation."
+asr_normalization_note: "2026-06-09 pilot Volume II block (civ-01–18); AI-assisted proper nouns only; not human-verified; verify before quotation."
 corpus_path: ../../../corpus/civilization/civ-06.md
 commentary_path: ./civ-06-commentary.md
 ---
