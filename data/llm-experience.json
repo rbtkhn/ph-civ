@@ -66,6 +66,13 @@
       "data/spines/homer-to-tolstoy.json"
     ]
   },
+  "part_tour": {
+    "path": "data/routes/part-boundary-tour.json",
+    "registry": "data/parts/volume-i-parts.json",
+    "reader_doc": "book/volume-i-civilization/parts/README.md",
+    "related_seed_id": "ten_route_spine_seed",
+    "instruction": "Tour Volume I by Part doorway — one stop per spine_start (civ-01 through civ-54). Complements first_tour; does not replace Homer-to-Tolstoy opening at civ-07."
+  },
   "first_tour": {
     "path": "data/routes/first-tour.json",
     "reader_doc": "docs/first-tour.md",
@@ -101,6 +108,16 @@
       "mode": "first_tour",
       "instruction": "Orient the reader to the two volumes, the museum layer, and the 10-route seed before opening individual chapters.",
       "start_files": ["START-HERE.md", "README.md", "data/routes/seed.json", "data/routes/first-tour.json", "docs/first-tour.md"]
+    },
+    {
+      "mode": "part_tour",
+      "instruction": "Tour Volume I using the ten Part doorways and part-boundary-tour stops; keep interwoven-reader order as authority.",
+      "start_files": [
+        "data/parts/volume-i-parts.json",
+        "data/routes/part-boundary-tour.json",
+        "book/volume-i-civilization/parts/README.md",
+        "book/volume-i-civilization/interwoven-reader/README.md"
+      ]
     },
     {
       "mode": "study",
@@ -157,6 +174,9 @@
     "AGENTS.md",
     "docs/public-repo-contract.md",
     "docs/export-contract.md",
+    "data/parts/volume-i-parts.json",
+    "data/routes/part-boundary-tour.json",
+    "book/volume-i-civilization/parts/README.md",
     "data/routes/seed.json",
     "data/routes/first-tour.json",
     "data/routes/choreography.json",

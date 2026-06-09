@@ -27,6 +27,7 @@ from .data import (
     pattern_markdown,
     patterns_for_source,
 )
+from .volume_i_parts import validate_volume_i_parts
 
 EXPECTED_SOURCE_REPO = "rbtkhn/ph-workshop"
 GITHUB_TREE_BASE = "https://github.com/rbtkhn/ph-civ/tree/main"
@@ -968,6 +969,7 @@ def cmd_validate(args) -> int:
             errors.append(f"{campaign.get('campaign_id')} missing measurable growth outputs")
     errors.extend(validate_patterns(load_patterns(), cards))
     errors.extend(validate_public_boundary())
+    errors.extend(validate_volume_i_parts(require_doorways=True, require_chapter_anchors=True))
     series = Counter(card["series"] for card in cards)
     result = {"status": "valid" if not errors else "invalid", "card_count": len(cards), "series_counts": dict(sorted(series.items())), "errors": errors}
     if args.json:

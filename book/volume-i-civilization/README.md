@@ -5,6 +5,7 @@ Volume I is the law-discovery semester. Its primary unit is the civilization, no
 ## Canonical Reader Order
 
 - [Interwoven civilization spine](./interwoven-reader/README.md)
+- [Volume I Parts (ten doorways)](./parts/README.md)
 
 ## Packet Shelves
 
