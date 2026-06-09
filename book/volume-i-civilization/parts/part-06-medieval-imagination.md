@@ -6,11 +6,21 @@
 
 ## Distinction
 
-**What this Part is:** The **inner** medieval slice — Dante, Great Books weave, and post-classical Roman **imagination** (oceanic currents, Byzantium, Holy Roman fiction).
+**Split seam (registry):** `spine_end: civ-34` here · `spine_start: civ-35` in [Part VII](part-07-world-after-rome.md) — see [`volume-i-parts.json`](../../../data/parts/volume-i-parts.json). The cut separates **inner medieval imagination** from **plural world orders**, not a tidy century line.
 
-**What this Part is not:** Viking, steppe, and church **world orders** — those open in [Part VII — The World After Rome](part-07-world-after-rome.md) at `civ-35`.
+**What this Part is:** Dante **opens** the bookend (`civ-29`–`30`, `gb-09`/`gb-10` weave), then oceanic currents, Rome–Byzantium afterlife, and Holy Roman **fiction** through `civ-34`.
 
-**Corridor:** Homer-to-Dante **opens** here; the corridor **returns** to Dante at `civ-41` in Part VII.
+**What this Part is not:** Viking, Islamic, steppe, and church–empire **world orders** — those are Part VII's main line from `civ-35`.
+
+**Corridor:** [Homer-to-Dante](../../../data/corridors/homer-to-dante.md) **opens** at `civ-29`; Dante is **not** finished here — the corridor **returns** at `civ-41` in Part VII.
+
+## Dante bookend (open)
+
+| Beat | Where | Role |
+|------|-------|------|
+| **Open** | `civ-29`–`30` (this Part) | Epic → pilgrimage, comedy, architecture of the self; GB weave live |
+| **Pause** | `civ-35`–`40` (Part VII) | World orders without Dante on stage |
+| **Close** | `civ-41` (Part VII) | *Dante's Quiet Revolution* — bookend completes before modernity |
 
 ## Law-discovery question
 

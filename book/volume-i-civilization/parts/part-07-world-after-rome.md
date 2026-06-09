@@ -6,11 +6,21 @@
 
 ## Distinction
 
-**What this Part is:** The **world after Rome** — Viking, Islamic, Mongol, Chinese twilight, and church–empire orders on Rome's plural afterlife.
+**Split seam (registry):** Opens at `spine_start: civ-35` immediately after Part VI's `spine_end: civ-34` — see [`volume-i-parts.json`](../../../data/parts/volume-i-parts.json). First chapter here is **Viking**, not Dante; do not read `civ-35` as a continuation of the `civ-29` block.
 
-**What this Part is not:** The opening Dante / GB block (`civ-29`–`30`) — that lives in [Part VI — The Medieval Imagination](part-06-medieval-imagination.md).
+**What this Part is:** **Plural world orders** on Rome's medieval afterlife — Viking, Norse memory, Islam, Chinese twilight, Mongol shatter, church–empire — then Dante **returns** to close the bookend.
 
-**Corridor:** Dante **returns** at `civ-41` (*Dante's Quiet Revolution*); this closes the Homer-to-Dante segment before [Part VIII — The Birth of Modernity](part-08-birth-of-modernity.md).
+**What this Part is not:** The opening Dante / GB weave (`civ-29`–`30`) or the inner Roman–Byzantine–HRE imagination block (`civ-31`–`34`) — those live in [Part VI — The Medieval Imagination](part-06-medieval-imagination.md).
+
+**Corridor:** Dante is off stage for `civ-35`–`40`; at `civ-41` (*Dante's Quiet Revolution*, `gb-10`) [Homer-to-Dante](../../../data/corridors/homer-to-dante.md) **closes** before [Part VIII — The Birth of Modernity](part-08-birth-of-modernity.md).
+
+## Dante bookend (return)
+
+| Beat | Where | Role |
+|------|-------|------|
+| **Open** | `civ-29`–`30` (Part VI) | Already sounded — do not reopen here |
+| **Pause** | `civ-35`–`40` (this Part) | World orders carry Rome's afterlife; Dante absent on purpose |
+| **Close** | `civ-41` (this Part) | *Dante's Quiet Revolution* — quiet revolution completes the corridor |
 
 ## Law-discovery question
 
