@@ -48,6 +48,12 @@ How does epic inheritance become pilgrimage, comedy, and a new architecture of t
 - [homer-to-dante](../../../data/corridors/homer-to-dante.md)
 - [homer-to-tolstoy](../../../data/corridors/homer-to-tolstoy.md)
 
+## Apparatus
+
+- [Part VI hybrid readiness](PART-06-HYBRID-READINESS.md) — Phase 0 inventory (`civ-29`–`34`, `gb-09`/`gb-10`; pin-cite debt flagged)
+- **Ingress:** [Part V `civ-28`](./part-05-christianity-and-islam-commentary.md#civ-28) Augustinian/Islamic field → Dante (`civ-29`)
+- Commentary and bibliography files — **not started** (see readiness doc)
+
 ## Navigation
 
 - **Previous:** [Part V — Christianity and Islam](part-05-christianity-and-islam.md)

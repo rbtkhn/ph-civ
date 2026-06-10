@@ -19,7 +19,7 @@ representation_not_endorsement: true
 
 # Part V Commentary — Christianity and Islam
 
-Thick synthesis for Volume I Part V (`civ-24`–`civ-28` + `sh-18` deepening @ `civ-28`). Chapter packets retain full Layer 0–6 scaffolds until Phase 2 slimming; cross-chapter predictions, counter-readings, and bibliography live here.
+Thick synthesis for Volume I Part V (`civ-24`–`civ-28` + `sh-18` deepening @ `civ-28`). Chapter folders keep transcript pin-cites in thin chapter commentaries; cross-chapter predictions, external counter-readings, and bibliography live here.
 
 **Bibliography:** [part-05-christianity-and-islam-bibliography.md](./part-05-christianity-and-islam-bibliography.md)  
 **Readiness inventory:** [PART-05-HYBRID-READINESS.md](./PART-05-HYBRID-READINESS.md)

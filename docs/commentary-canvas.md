@@ -10,7 +10,7 @@ Commentaries are working surfaces for enhancing and leveraging ph-civ. A seeded 
 - `## Part apparatus` pointer to the parent Part commentary and bibliography
 - Minimal `Project Canvas (chapter-local)` — open questions only
 
-**Part commentary (thick synthesis)** — one per Volume I Part (pilot: Part II + Part III + Part IV):
+**Part commentary (thick synthesis)** — one per Volume I Part (pilot: Part II + Part III + Part IV + Part V):
 
 - Cross-chapter prediction ledger, Hellenic grammar, corridor placement
 - Great Books sections (`### gb-NN`) when woven into the Part
@@ -75,3 +75,9 @@ Transcript frontmatter should carry `part_id` and Part apparatus paths when the 
 Part IV has no Great Books weave. The `sh-17` companion @ `civ-22` uses a **Part commentary pointer** (`### sh-17`) — same routing law as GB stub-to-Part, but the SH packet body stays in `volume-vi/sh-17/`. Chapter `civ-22` README links the pointer; do not merge SH body into Part or civ commentary.
 
 **Pilot example:** [Part IV commentary § civ-22](../book/volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-22) + [§ sh-17](../book/volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#sh-17); thin chapter: [civ-22-commentary](../book/volume-ii/civ-22/civ-22-commentary.md).
+
+## Secret History companion pointer (Part V)
+
+Part V has no Great Books weave. The `sh-18` companion @ `civ-28` uses a **Part commentary pointer** (`### sh-18`) — same routing law as Part IV `sh-17`: SH packet body stays in `volume-vi/sh-18/` and `secret-history-support/sh-18/`. Chapter `civ-28` README links Part apparatus first; do not merge SH body into Part or civ commentary.
+
+**Pilot example:** [Part V commentary § civ-28](../book/volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#civ-28) + [§ sh-18](../book/volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#sh-18); thin chapter: [civ-28-commentary](../book/volume-ii/civ-28/civ-28-commentary.md).

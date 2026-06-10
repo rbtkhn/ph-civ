@@ -1,6 +1,6 @@
 ---
 part_id: part-05-christianity-and-islam
-plan_status: phase1_complete
+plan_status: phase3_complete
 scaffold_version: ph_civ_part_commentary_v1
 template_from: part-04-ancient-foundations (hybrid pilot)
 inventory_date: 2026-06-09
@@ -27,10 +27,10 @@ Planning doc for extending the **Part II/III/IV hybrid model** (thin chapter + t
 | GB weave | Registry `great_books_weave` | **N/A** — empty array; no `gb-NN` Part sections required |
 | SH companion | `sh-18` @ `civ-28` deepening documented | **Partial** — doorway + registry wired; staged wrapper in `secret-history-support/`; **`volume-vi/sh-18/`** seed commentary; Part `### sh-18` pointer + SH predictions in commentary |
 | Cross-Part bridge | Part IV `civ-23` handoff + Yahwist/covenant/messianic carry | **Met** — Part IV forward rows **Partially supported**; Part V ingress + Yahwist clash in commentary |
-| Validator | `volume_i_parts.py` Part V README checks (mirror Part IV) | **Not started** |
+| Validator | `volume_i_parts.py` Part V README checks (mirror Part IV) | **Met** — `part-05-christianity-and-islam` README lattice block |
 | Interfaith / theology guardrails | Bibliography + counter-readings for Jesus/Paul/Islam claims | **Met** — Phase 1 bibliography + Part counter-readings seeded |
 
-**Recommendation:** Part V hybrid pilot **Phase 2 complete**. Next: Phase 3 validator/docs, external-verify, or deepen Part sections.
+**Recommendation:** Part V hybrid pilot **complete** through Phase 3. Next: external-verify high-risk claims, deepen Part sections, or Part VI readiness inventory.
 
 ---
 
@@ -71,10 +71,10 @@ Planning doc for extending the **Part II/III/IV hybrid model** (thin chapter + t
 | `volume-i-parts.json` `commentary_path` / `bibliography_path` | **Wired** |
 | `part-05-christianity-and-islam.md` Apparatus block | **Wired** |
 | `PART-05-HYBRID-READINESS.md` | **Done** — this inventory |
-| Slim `civ-24`–`civ-28` commentaries | **Not started** |
-| README 6-step lattice + Part links | **Not started** |
-| Transcript YAML `part_id` + Part paths | **Not started** |
-| Validator Part V README checks | **Not started** |
+| Slim `civ-24`–`civ-28` commentaries | **Done** — Phase 2 slim (`scripts/part_v_phase2_slim.py`) |
+| README 6-step lattice + Part links | **Done** — Phase 2 |
+| Transcript YAML `part_id` + Part paths | **Done** — Phase 2 frontmatter |
+| Validator Part V README checks | **Done** — Phase 3 (`volume_i_parts.py`) |
 
 ---
 
@@ -113,7 +113,11 @@ Planning doc for extending the **Part II/III/IV hybrid model** (thin chapter + t
 - Update `volume-ii/` READMEs (6-step lattice + Part V links)
 - Chapter frontmatter: `part_commentary_path`, `part_bibliography_path`
 
-### Phase 3 — Validator + docs (~half session) — **Not started**
+### Phase 3 — Validator + docs (~half session) — **Done** (2026-06-09)
+
+- Extend `volume_i_parts.py` Part V checks (mirror Part IV)
+- Update `parts/README.md` hybrid pilot list
+- Extend `docs/commentary-canvas.md` / `docs/source-lattice.md` with Part V `civ-24`–`28` + `sh-18` pointer example
 
 ---
 
@@ -141,4 +145,4 @@ Planning doc for extending the **Part II/III/IV hybrid model** (thin chapter + t
 
 ## Next operator pick
 
-**Phase 2** slim `civ-24`–`28` + README lattice, **deepen** Part V sections, or **commit** Phase 1 batch.
+**External-verify** Part V bibliography (Paul-as-spy, jihad, Nicaea), **push** local commits, or **Part VI** readiness inventory.

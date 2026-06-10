@@ -47,7 +47,7 @@ When a Part has thick synthesis, use three sibling files:
 | `part-NN-{slug}-commentary.md` | Thick synthesis — prediction ledger, gb sections, counter-readings |
 | `part-NN-{slug}-bibliography.md` | External sources — tagged `supports: civ-NN` / `gb-NN` |
 
-**Hybrid pilot:** Part II + Part III + Part IV — **complete** through Phase 3; Part II–III pin-cite **Cleared**. Part V (`part-05-christianity-and-islam-*`, `civ-24`–`28`, `sh-18` @ `civ-28`) — **Phase 1–2 + pin-cite prep** complete ([PART-05-HYBRID-READINESS.md](PART-05-HYBRID-READINESS.md)); Phase 3 pending.
+**Hybrid pilot:** Part II + Part III + Part IV + Part V — **complete** through Phase 3; Part II–III pin-cite **Cleared**. Part V (`part-05-christianity-and-islam-*`, `civ-24`–`28`, `sh-18` @ `civ-28`) — see [PART-05-HYBRID-READINESS.md](PART-05-HYBRID-READINESS.md). Part VI (`civ-29`–`34`, `gb-09`/`gb-10`) — Phase 0 inventory: [PART-06-HYBRID-READINESS.md](PART-06-HYBRID-READINESS.md). Parts VII–X not started.
 
 Registry fields (optional per part): `commentary_path`, `bibliography_path` in [`volume-i-parts.json`](../../../data/parts/volume-i-parts.json).
 
