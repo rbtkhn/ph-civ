@@ -22,12 +22,12 @@ Planning doc for extending the **Part II–V hybrid model** (thin chapter + thic
 
 | Gate | Threshold | Current (2026-06-09) |
 |------|-----------|----------------------|
-| Chapter Layer 0–2 | All six chapters have transcript-anchored claims + line/section refs | **Partial** — L2 tables exist (6–8 claims each); **all** use blanket `transcript.md:32` (Tier C pin-cite debt) |
-| Chapter slimming | Willing to move Layers 3–6 to Part apparatus | **Not met** — full Layer 0–6 in each `volume-ii/civ-29`–`34` commentary |
-| GB weave | Registry `great_books_weave` + Part `### gb-NN` sections | **Partial** — `gb-09`/`gb-10` packets exist in `volume-v/`; **no** Part VI commentary file; **no** stub routing from Part doorway |
+| Chapter Layer 0–2 | All six chapters have transcript-anchored claims + line/section refs | **Met** — 6–8 L2 claims each; transcript `###` sections + `#anchor` refs (pin-cite prep 2026-06-09); chapter `analysis_depth: layer2_drafted` |
+| Chapter slimming | Willing to move Layers 3–6 to Part apparatus | **Met** — Phase 2 slim `civ-29`–`34` + Part chapter sections |
+| GB weave | Registry `great_books_weave` + Part `### gb-NN` sections | **Partial** — `gb-09`/`gb-10` stub-routed; `gb-10` **sectioned** (ASR spot-check) |
 | Cross-Part bridge | Part V `civ-28` → Dante/Augustine rebuttal; Homer corridor open | **Partial** — Part V forward row **Pending**; doorway + corridor links wired |
-| Validator | `volume_i_parts.py` Part VI README checks | **Not met** — no Part VI apparatus paths in registry |
-| Theology / literary guardrails | Bibliography + counter-readings for Dante/Augustine/Rome claims | **Not met** — no `part-06-*-bibliography.md` |
+| Validator | `volume_i_parts.py` Part VI README checks | **Met** — Phase 3 (2026-06-09) |
+| Theology / literary guardrails | Bibliography + counter-readings for Dante/Augustine/Rome claims | **Partial** — Phase 1 stub bibliography + `gb-09` counter-readings |
 
 **Recommendation:** Phase 0 inventory **done**. Before Phase 1: run pin-cite prep on `civ-29`–`34` (mirror Parts II–V `#anchor` discipline); decide whether `civ-31` (oceanic currents) gets **thick** Part section or stays bridge to Part VII prediction grammar.
 
@@ -46,7 +46,7 @@ Planning doc for extending the **Part II–V hybrid model** (thin chapter + thic
 
 **Legacy wrappers:** `civilization-spine/civ-29`–`civ-34` and `volume-ii/civ-29`–`34` READMEs use **4-step** lattice — **no Part apparatus links** (expected pre-implementation).
 
-**Pin-cite debt:** **High** — all six chapters: L2 refs → `*-transcript.md:32` only; transcripts need `###` section rails per [`docs/PIN-CITE-DISCIPLINE.md`](../../../docs/PIN-CITE-DISCIPLINE.md). No Part VI sweep script yet.
+**Pin-cite debt:** **Cleared** (2026-06-09) — `civ-29`–`34` transcripts sectioned; chapter L2 refs use `#anchor` slugs (`scripts/part_vi_pin_cite_prep.py`).
 
 **Commentary shape:** Full Layers 0–6 (not slimmed). `completeness_state: in-review` on sampled packets.
 
@@ -56,8 +56,8 @@ Planning doc for extending the **Part II–V hybrid model** (thin chapter + thic
 
 | GB | Anchor(s) | Role | Packet | Part VI placement (draft) |
 |----|-----------|------|--------|---------------------------|
-| `gb-09` | `civ-29`, `civ-30` | interwoven | `book/volume-v/gb-09/` — seed commentary, transcript pending rights | **`### gb-09`** — Dante capstone (duplicate registry rows = same lecture, two spine anchors) |
-| `gb-10` | `civ-30` | interwoven | `book/volume-v/gb-10/` — seed commentary | **`### gb-10`** — pair with `civ-30` Homer displacement |
+| `gb-09` | `civ-29`, `civ-30` | interwoven | `book/volume-v/gb-09/` — **stub** → Part VI § `gb-09`; curated transcript | **`### gb-09`** — claims table live in Part commentary |
+| `gb-10` | `civ-30` | interwoven | `book/volume-v/gb-10/` — **stub** → Part VI § `gb-10`; ASR curated + 10 `#anchor` sections | **`### gb-10`** — claims table live |
 
 **Law:** Civilization lectures own spine narrative; GB sections **pointer + close-read**, not full transcript mirror in Part file.
 
@@ -78,16 +78,20 @@ Planning doc for extending the **Part II–V hybrid model** (thin chapter + thic
 
 | Artifact | Status (2026-06-09) |
 |----------|---------------------|
-| `part-06-medieval-imagination-commentary.md` | **Not started** |
-| `part-06-medieval-imagination-bibliography.md` | **Not started** |
-| `volume-i-parts.json` `commentary_path` / `bibliography_path` | **Not wired** |
-| `part-06-medieval-imagination.md` Apparatus block | **Planned** — readiness pointer only |
+| `part-06-medieval-imagination-commentary.md` | **Phase 1 done** — ledger + `gb-09`/`gb-10` sections |
+| `part-06-medieval-imagination-bibliography.md` | **Phase 1 stub** |
+| `volume-i-parts.json` `commentary_path` / `bibliography_path` | **Wired** |
+| `part-06-medieval-imagination.md` Apparatus block | **Done** — commentary/bib links + Part III forward |
 | `PART-06-HYBRID-READINESS.md` | **Done** — this inventory |
-| Pin-cite `civ-29`–`34` | **Not started** |
-| Slim `civ-29`–`34` commentaries | **Not started** |
-| README 6-step lattice + Part links | **Not started** |
-| Validator Part VI README checks | **Not started** |
-| GB stub routing (`gb-09`/`gb-10` from Part doorway) | **Not started** |
+| Pin-cite `civ-29`–`34` | **Done** — `scripts/part_vi_pin_cite_prep.py` |
+| Slim `civ-29`–`34` commentaries | **Done** — `scripts/part_vi_phase2_slim.py` |
+| README 6-step lattice + Part links | **Done** — `volume-ii/civ-29`–`34` |
+| Validator Part VI README checks | **Done** — `volume_i_parts.py` Part VI block |
+| GB stub routing (`gb-09`/`gb-10` from Part doorway) | **Done** — mirror `gb-02` pattern |
+| `gb-07`→`gb-08`→Part VI synthesis | **Done** — Part III § anti-Homer→Aeneid |
+| `gb-10` transcript section rails + ASR spot-check | **Done** — 10 `#anchor` sections |
+| `gb-11` mirror promotion | **Done** — `scripts/promote_gb_11_mirror.py` |
+| `gb-12` mirror promotion | **Done** — `scripts/promote_gb_12_mirror.py` (YouTube ASR) |
 
 ---
 
@@ -118,22 +122,25 @@ Planning doc for extending the **Part II–V hybrid model** (thin chapter + thic
 
 ### Phase 0 — Inventory — **Done** (2026-06-09)
 
-### Phase 1 — Author only (~1–2 sessions) — **Not started**
+### Phase 1 — Author only (~1–2 sessions) — **Done** (2026-06-09)
 
-- Create `part-06-medieval-imagination-commentary.md` + `-bibliography.md`
-- Wire `volume-i-parts.json` paths + doorway Apparatus block
-- Seed prediction ledger + `gb-09`/`gb-10` pointer sections
+- Create `part-06-medieval-imagination-commentary.md` + `-bibliography.md` ✓
+- Wire `volume-i-parts.json` paths + doorway Apparatus block ✓
+- Seed prediction ledger + `gb-09`/`gb-10` pointer sections ✓
+- Stub-route `gb-09`/`gb-10` commentaries ✓
 
-### Phase 2 — Reader reshape (~1–2 sessions) — **Not started**
+### Phase 2 — Reader reshape (~1–2 sessions) — **Done** (2026-06-09)
 
-- Pin-cite prep script for `civ-29`–`34` (section rails + `#anchor` L2 refs)
-- Slim chapters to Layer 0–2 + Part pointer
-- Update `volume-ii/` READMEs (6-step lattice)
+- Pin-cite prep script for `civ-29`–`34` ✓ (prior pass)
+- Slim chapters to Layer 0–2 + Part pointer ✓
+- Update `volume-ii/` READMEs (6-step lattice) ✓
+- Part commentary chapter sections (`civ-29`–`34`) ✓
 
-### Phase 3 — Validator + docs (~half session) — **Not started**
+### Phase 3 — Validator + docs (~half session) — **Done** (2026-06-09)
 
-- Extend `volume_i_parts.py` Part VI checks (mirror Part V)
-- Update `parts/README.md`, `docs/commentary-canvas.md`, `docs/source-lattice.md`
+- Extend `volume_i_parts.py` Part VI checks (mirror Part V) ✓
+- Update `parts/README.md`, `docs/commentary-canvas.md`, `docs/source-lattice.md` ✓
+- Promote `gb-12` from YouTube ASR (`scripts/promote_gb_12_mirror.py`) ✓
 
 ---
 
@@ -153,12 +160,29 @@ Planning doc for extending the **Part II–V hybrid model** (thin chapter + thic
 
 ---
 
+## GB-11/12 corridor extension inventory
+
+Dante continuation beyond public mirror step `gb-10`. Source archive lives in **strategy-codex** (parent repo), not ph-civ mirror.
+
+| GB | Title | YouTube | Archive file | Body | Promotion blockers |
+|----|-------|---------|--------------|------|-------------------|
+| `gb-11` | Dante's Revolution (Purgatory) | `otyUpKhpTYM` | `book/volume-v/gb-11/` | **Promoted** (2026-06-09) | 10 section rails; Part VI § `gb-11` |
+| `gb-12` | Dante in Paradise | `FspDllFoiDE` | `book/volume-v/gb-12/` | **Promoted** (2026-06-09) | YouTube ASR; 10 section rails; Part VI § `gb-12` |
+
+**Load-bearing themes (gb-11 archive):** Virgil/Augustine **human nature bad** vs Dante **divine spark + love**; Purgatory terrace sins (inverse Inferno); two-part lecture series (Purgatory then Paradise).
+
+**Load-bearing themes (gb-12):** Paradise spheres; Beatrice moon-spots; Trinity vision; closing *love moves the sun and stars*.
+
+**Corridor:** [homer-to-dante](../../../data/corridors/homer-to-dante.md) steps 12–13 **live**. **Do not** treat as Apocalypse reroute.
+
+---
+
 ## Out of scope (Part VI pilot)
 
-- Parts VII–X apparatus · `civ-41` Dante close (Part VII) · SH companions · transcript re-ingest
+- Parts VII–X full apparatus · `civ-41` Dante close (Part VII) · SH companions · `gb-10`/`gb-12` audio re-align (optional)
 
 ---
 
 ## Next operator pick
 
-**Pin-cite prep** `civ-29`–`34`, **Phase 1** author Part VI commentary, **push** local commits, or **external-verify** Part V bibliography.
+**Commit** local batch · **push** · Part VII apparatus inventory · `gb-10` audio re-align (optional).

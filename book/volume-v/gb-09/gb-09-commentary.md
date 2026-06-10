@@ -28,119 +28,32 @@ public_imported_at: 2026-05-14
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: stub_routed_to_part
 scaffold_version: ph_civ_commentary_canvas_v1
----
-# Commentary - Great Books
-
-The source transcript is gb-09-transcript.md. This commentary uses a Great Books-native scaffold. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim source transcript body.
-
-## Core Thesis & Reading Problem
-
-- Core thesis: This lecture brings Dante into the Great Books spine as a capstone figure: classical inheritance, Christian imagination, love, ascent, and poetic architecture meet in the Divine Comedy.
-- Reading problem: Read it as a major re-entry chapter for the whole corpus, especially where Civilization's Dante chapters meet Great Books close reading.
-- Public scaffold summary: The public scaffold places this chapter around Dante, Divine Comedy, Virgil, Beatrice, love, ascent, Christian imagination, classical inheritance, and poetic architecture.
-- Completeness state: in-review
-
-## Neutral Lecture Summary
-
-The lecture is treated here as a Great Books source unit whose first task is to place students before a text, problem, or reading posture. For this chapter, the working focus is Dante, Divine Comedy, Virgil, Beatrice, love, ascent, Christian imagination, classical inheritance, and poetic architecture.
-
-The public transcript and commentary scaffold identify this as part of Volume V's classroom sequence. This commentary preserves the chapter's claims as represented claims, then marks the interpretive and evidentiary limits that need later review.
-
-## Key Terms, Texts, and Interpretive Claims
-
-### Key Terms
-
-- **Dante:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **Divine Comedy:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **Virgil:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **Beatrice:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **love:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **ascent:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **Christian imagination:** Requires final close-reading definition against the transcript and relevant primary texts.
-
-### Public Scaffold Claims
-
-1. The lecture uses Dante as a key entry point into the Great Books course.
-2. The chapter frames Dante, Divine Comedy, Virgil, Beatrice, love, ascent, Christian imagination, classical inheritance, and poetic architecture as a reading problem rather than as mere topic coverage.
-3. The public book layer should preserve the lecture's represented claims while marking interpretive limits and review needs.
-4. Final review should re-anchor this first-pass commentary to line-level transcript references and primary-text passages.
-
-## Passage / Argument Anchors
-
-- Transcript authority: gb-09-transcript.md contains the public `## Full transcript` body from the import snapshot.
-- Rights guardrail: avoid long quotation until source-text rights review is complete.
-
-## Counter-Readings & Limits
-
-Bound broad Dante-to-modernity claims. Keep Great Books close reading distinct from Civilization-course synthesis.
-
-
-## Cross-Series Links
-
-- Connect this chapter to adjacent Great Books units and to the broader Predictive History imagination thread.
-
-Book/site hook: Return here when comparing the Great Books Dante unit with Civilization's Dante chapters, or when studying love, ascent, poetic architecture, Virgil, Beatrice, and Christian imagination.
-
-## Open Issues & Future Review
-
-- Verify the transcript against the source video before any complete status.
-- Re-anchor interpretive claims to line-level transcript references and primary-text passages.
-- Add external literary, philosophical, historical, theological, or scientific counter-readings where the lecture makes broad claims.
-- Preserve representation_not_endorsement; this commentary documents and tests the lecture's claims.
-- Keep this unit at in-review until external-source validation and final line-reference review are complete.
-
+part_commentary_path: ../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-09
+part_bibliography_path: ../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md
 ---
 
-## Project Canvas
+# Commentary - Great Books (stub)
 
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
+**Canonical commentary** for `gb-09` lives in Part VI apparatus (interwoven @ `civ-29`, `civ-30`).
 
-### Project Leverage
+## Core thesis (one line)
 
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
+Divine Comedy remakes readers through structure and paradox; Virgil is pedestalized then exposed as unreliable; love without reciprocity answers the Aeneid–Augustine piety frame.
 
-### Laws / Patterns Exposed
+## Read order
 
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
+1. [`gb-09-transcript.md`](./gb-09-transcript.md) — primary floor
+2. [Part VI commentary § gb-09](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-09) — claims, cross-links
+3. [Part VI bibliography](../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md) — Dante, Virgil, Augustine
+4. [`civ-29` / `civ-30` thin commentaries](../../volume-ii/civ-29/civ-29-commentary.md) — civilization Dante pin-cites
 
-### Volume Role
+## Part placement
 
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
+- Part: [Part VI — The Medieval Imagination](../../volume-i-civilization/parts/part-06-medieval-imagination.md)
+- Weave: `interwoven` @ `civ-29`, `civ-30`
+- Corridor: [Homer to Dante](../../../data/corridors/homer-to-dante.md) steps 7–8
+- Forward: [Part III `gb-08`](../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md#gb-08) anti-Homer piety
 
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
-
-### Open Questions
-
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
-
-### Build Notes / Future Enhancements
-
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+Do not duplicate Part bibliography or cross-chapter prediction tables in this stub.

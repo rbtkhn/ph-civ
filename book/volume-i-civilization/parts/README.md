@@ -8,7 +8,7 @@ Ten **Part doorways** overlay the [interwoven civilization spine](../interwoven-
 
 **Validate:** `python scripts/validate_volume_i_parts.py`
 
-**Pin-cite discipline:** [`docs/PIN-CITE-DISCIPLINE.md`](../../../docs/PIN-CITE-DISCIPLINE.md) — transcript `###` rails + Layer-2 `#anchor` refs (Parts II–V sweep scripts).
+**Pin-cite discipline:** [`docs/PIN-CITE-DISCIPLINE.md`](../../../docs/PIN-CITE-DISCIPLINE.md) — transcript `###` rails + Layer-2 `#anchor` refs (Parts II–VI sweep scripts).
 
 ## Parts I–X
 
@@ -47,7 +47,7 @@ When a Part has thick synthesis, use three sibling files:
 | `part-NN-{slug}-commentary.md` | Thick synthesis — prediction ledger, gb sections, counter-readings |
 | `part-NN-{slug}-bibliography.md` | External sources — tagged `supports: civ-NN` / `gb-NN` |
 
-**Hybrid pilot:** Part II + Part III + Part IV + Part V — **complete** through Phase 3; Part II–III pin-cite **Cleared**. Part V (`part-05-christianity-and-islam-*`, `civ-24`–`28`, `sh-18` @ `civ-28`) — see [PART-05-HYBRID-READINESS.md](PART-05-HYBRID-READINESS.md). Part VI (`civ-29`–`34`, `gb-09`/`gb-10`) — Phase 0 inventory: [PART-06-HYBRID-READINESS.md](PART-06-HYBRID-READINESS.md). Parts VII–X not started.
+**Hybrid pilot:** Part II + Part III + Part IV + Part V + Part VI — **complete** through Phase 3; Part II–III pin-cite **Cleared**. Part V — [PART-05-HYBRID-READINESS.md](PART-05-HYBRID-READINESS.md). Part VI (`civ-29`–`34`, `gb-09`–`gb-12`) — Phase 3 validator/docs **Done** (2026-06-09): [part-06-medieval-imagination-commentary.md](part-06-medieval-imagination-commentary.md), [PART-06-HYBRID-READINESS.md](PART-06-HYBRID-READINESS.md). Parts VII–X not started.
 
 Registry fields (optional per part): `commentary_path`, `bibliography_path` in [`volume-i-parts.json`](../../../data/parts/volume-i-parts.json).
 

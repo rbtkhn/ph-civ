@@ -145,8 +145,8 @@ world-making language. Not a core-spine stop.
 
 ### Dante and theological-imagination support
 
-- [gb-11 raw capture: Dante's Revolution](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-gb-11-dantes-revolution-2026-05-26.md)
-- [gb-12 raw capture: Dante in Paradise](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-gb-12-dante-in-paradise-2026-05-26.md)
+- [gb-11](../cards/gb-11.md)
+- [gb-12: Dante in Paradise](../../book/volume-v/gb-12/README.md)
 - [sh-17](../cards/sh-17.md)
 - [sh-18](../cards/sh-18.md)
 - [civ-55](../cards/civ-55.md)

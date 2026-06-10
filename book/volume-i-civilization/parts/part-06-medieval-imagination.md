@@ -42,6 +42,7 @@ How does epic inheritance become pilgrimage, comedy, and a new architecture of t
 - `gb-09` @ `civ-29` (interwoven) — [gb-09](../great-books-evidence/gb-09/README.md)
 - `gb-09` @ `civ-30` (interwoven) — [gb-09](../great-books-evidence/gb-09/README.md)
 - `gb-10` @ `civ-30` (interwoven) — [gb-10](../great-books-evidence/gb-10/README.md)
+- `gb-11` (corridor continuation) — [gb-11](../great-books-evidence/gb-11/README.md) — after `gb-10`/`gb-09`
 
 ## Corridor cross-links
 
@@ -50,9 +51,11 @@ How does epic inheritance become pilgrimage, comedy, and a new architecture of t
 
 ## Apparatus
 
-- [Part VI hybrid readiness](PART-06-HYBRID-READINESS.md) — Phase 0 inventory (`civ-29`–`34`, `gb-09`/`gb-10`; pin-cite debt flagged)
+- [Part VI commentary](./part-06-medieval-imagination-commentary.md) — prediction ledger, `gb-09`/`gb-10` sections (Phase 1 stub)
+- [Part VI bibliography](./part-06-medieval-imagination-bibliography.md) — Dante, Virgil, Augustine (Phase 1 stub)
+- [Part VI hybrid readiness](PART-06-HYBRID-READINESS.md) — inventory + `gb-11`/`gb-12` extension
 - **Ingress:** [Part V `civ-28`](./part-05-christianity-and-islam-commentary.md#civ-28) Augustinian/Islamic field → Dante (`civ-29`)
-- Commentary and bibliography files — **not started** (see readiness doc)
+- **Epic forward:** [Part III `gb-08`](./part-03-roman-imperium-commentary.md#anti-homer-to-aeneid-gb-07--gb-08) anti-Homer piety → Part VI liberation
 
 ## Navigation
 

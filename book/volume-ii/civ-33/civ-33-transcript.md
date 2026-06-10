@@ -34,6 +34,9 @@ and I will be looking at three questions
 the first question is why do we have the
 bantin
 Empire um historically we have
+
+### byzantine-roman-continuation
+
 seen the Byzantine Empire as a
 continuation of the Roman Empire we have
 the bisan Empire because Constantine the
@@ -61,7 +64,11 @@ the factors Le that led to its eventual
 demise okay so those are the three
 questions we will we will be looking at
 um this morning and what I want to do
-first I want to present the scholarly
+first
+
+### scholarly-consensus-first
+
+I want to present the scholarly
 consensus what is generally accepted
 what is generally believed about these
 three questions and then I want to
@@ -241,6 +248,9 @@ with God as we discussed uh one more
 popular interpretations explanations is
 the idea of arianism where Jesus is a
 less Divinity to God the Council of
+
+### nicaea-trinity
+
 Nicaea Nakia established the idea of the
 Holy Trinity which is that God Jesus and
 holy spirit are are co-equal they are
@@ -257,6 +267,9 @@ religion of the Roman Empire as well as
 the ideaa of heresy okay especially the
 idea of
 irism um he also built something called
+
+### theodosian-walls
+
 the Theodosian walls which makes Conant
 basically impenetrable okay it makes it
 a impenetrable Fortress and allows it U
@@ -852,6 +865,9 @@ she the similar worldview it's a pagan
 worldview the last thing is the idea in
 the Christian worldview it's an
 individual that matters the individual
+
+### pagan-christian-contrast
+
 individual soul is what
 matters okay but in the Pagan worldview
 what matters is the
@@ -1163,6 +1179,9 @@ what we call R seeking So centralization
 eventually leads to
 corruption systemization leads to
 ultimately
+
+### bureaucracy-stagnation
+
 stagnation okay there's nothing new
 um going on and calization leads to the
 idea of Conformity or H homogenization

@@ -40,7 +40,7 @@
 
 | Tier | Ref shape | Reader experience | Action |
 |------|-----------|-------------------|--------|
-| **A — Met** | `#anchor` | Jump to movement by name | Done (Parts IV–V; Part III `civ-14`–`17`; Part II `civ-07`–`13` incl. Tier-B uplift 2026-06-09) |
+| **A — Met** | `#anchor` | Jump to movement by name | Done (Parts IV–V; Part VI `civ-29`–`34` 2026-06-09; Part III `civ-14`–`17`; Part II `civ-07`–`13` incl. Tier-B uplift) |
 | **B — Interim** | `:32-35` line ranges | Better than blanket `:32`; still line-literacy | None in Part II civ spine after uplift |
 | **C — Debt** | `:32` blanket or orphan line | “Somewhere in this file” | Section + anchor refresh (priority sweep) |
 
@@ -66,6 +66,7 @@
 | `scripts/part_v_pin_cite_prep.py` | `civ-24`–`28` |
 | `scripts/part_ii_iii_pin_cite_sweep.py` | `civ-11`, `civ-13`–`17` (low-debt sweep) |
 | `scripts/part_ii_tier_b_uplift.py` | `civ-07`–`10`, `civ-12` (Tier-B → Tier A) |
+| `scripts/part_vi_pin_cite_prep.py` | `civ-29`–`34` |
 
 ---
 
@@ -74,4 +75,4 @@
 - ASR transcripts → anchors mark **argument neighborhoods**, not word-perfect quotes.
 - External-verify and public copy still need their own passes; pin-cite is **internal reader-orientation**, not merge authority.
 
-**Readiness pointers:** [Part IV](../book/volume-i-civilization/parts/PART-04-HYBRID-READINESS.md) · [Part V](../book/volume-i-civilization/parts/PART-05-HYBRID-READINESS.md) · [Part III](../book/volume-i-civilization/parts/PART-03-HYBRID-READINESS.md)
+**Readiness pointers:** [Part IV](../book/volume-i-civilization/parts/PART-04-HYBRID-READINESS.md) · [Part V](../book/volume-i-civilization/parts/PART-05-HYBRID-READINESS.md) · [Part VI](../book/volume-i-civilization/parts/PART-06-HYBRID-READINESS.md) · [Part III](../book/volume-i-civilization/parts/PART-03-HYBRID-READINESS.md)

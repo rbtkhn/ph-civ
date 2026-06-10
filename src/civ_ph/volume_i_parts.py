@@ -253,6 +253,18 @@ def validate_volume_i_parts(
                 if "part-05-christianity-and-islam-bibliography.md" not in readme_text:
                     errors.append(f"{civ_id} README missing Part V bibliography link")
 
+        if part_id == "part-06-medieval-imagination" and commentary_path:
+            for civ_id in chapters:
+                readme = PACKAGE_ROOT / "book" / "volume-ii" / civ_id / "README.md"
+                if not readme.is_file():
+                    errors.append(f"{part_id} missing chapter README: {readme.relative_to(PACKAGE_ROOT)}")
+                    continue
+                readme_text = readme.read_text(encoding="utf-8")
+                if "part-06-medieval-imagination-commentary.md" not in readme_text:
+                    errors.append(f"{civ_id} README missing Part VI commentary link")
+                if "part-06-medieval-imagination-bibliography.md" not in readme_text:
+                    errors.append(f"{civ_id} README missing Part VI bibliography link")
+
         if require_chapter_anchors and not part.get("chapter_anchors"):
             errors.append(f"{part_id} missing chapter_anchors")
 

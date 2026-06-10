@@ -39,6 +39,9 @@ purposefully model
 itself um out of Rome and this country
 is the United States of America the
 similarities between
+
+### rome-america-parallels
+
 Rome and United States it's very
 striking um both of these societies were
 of their time the most powerful
@@ -250,6 +253,9 @@ Mediterranean what I want to focus on
 today are the cultural reasons so my
 argument today is that Rome in
 opposition to its enemies developed a
+
+### cultural-military-triumph
+
 cultural system that allowed it to
 triumph over its enemies this cultural
 system made it ideal for military
@@ -467,6 +473,9 @@ democracy cannot solve it's the idea of
 CIP and
 identity the way you organize your
 Society is basically F citizenship okay
+
+### roman-citizenship-value
+
 who gets to be a citizen who doesn't now
 democracy
 it's actually very hard to be a citizen
@@ -714,7 +723,11 @@ dissonance all right you guys have
 should have studied this in Psychology
 okay but it's but it's impossible to
 have for your mind to hold in place two
-cons ideas America cannot both be a
+cons ideas
+
+### republic-empire-tension
+
+America cannot both be a
 republic and an Empire therefore it's
 Republic and don't ever mention the word
 empire okay and guess what the Romans
@@ -1067,6 +1080,9 @@ to be an
 Empire okay and the way he resolved this
 issue is in
 212 the emperor Caracalla issued the idct
+
+### caracalla-rupture
+
 of Caracalla which made
 everyone in Roman Empire a citizen so he
 basically destroyed the idea of
@@ -1370,6 +1386,9 @@ start a war probably against
 Iran okay so I'm predicting within the
 next 5 years America will start a war
 against Iran probably sooner and then
+
+### america-war-civil-violence
+
 America will start a Civil War as
 well so Civil War does not mean um two
 sides fighting against each other it

@@ -81,3 +81,9 @@ Part IV has no Great Books weave. The `sh-17` companion @ `civ-22` uses a **Part
 Part V has no Great Books weave. The `sh-18` companion @ `civ-28` uses a **Part commentary pointer** (`### sh-18`) — same routing law as Part IV `sh-17`: SH packet body stays in `volume-vi/sh-18/` and `secret-history-support/sh-18/`. Chapter `civ-28` README links Part apparatus first; do not merge SH body into Part or civ commentary.
 
 **Pilot example:** [Part V commentary § civ-28](../book/volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#civ-28) + [§ sh-18](../book/volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#sh-18); thin chapter: [civ-28-commentary](../book/volume-ii/civ-28/civ-28-commentary.md).
+
+## Great Books weave pointer (Part VI)
+
+Part VI carries the Dante GB weave (`gb-09`–`gb-12`). Volume-v chapter commentary stubs route to Part apparatus — same law as Part II `gb-02`.
+
+**Pilot example:** [Part VI commentary § civ-29](../book/volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#civ-29) + [§ gb-12](../book/volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-12); thin chapter: [civ-29-commentary](../book/volume-ii/civ-29/civ-29-commentary.md); GB stub: [gb-12-commentary](../book/volume-v/gb-12/gb-12-commentary.md).

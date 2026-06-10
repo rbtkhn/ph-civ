@@ -29,6 +29,9 @@ Part I contains the full lecture transcript imported from the public import snap
 ## Part I: Full transcript
 
 okay good morning so welcome to the
+
+### second-semester-frame
+
 first class of the second semester this
 semester we are going to build on what
 we've learned the first
@@ -374,6 +377,9 @@ and the idea of
 progress towards
 truth okay so that's the other competing
 model okay there are two main models
+
+### cycle-and-line-models
+
 there's a cycle and then there's a line
 and the idea of the line is Human
 Society does not go on and on in a
@@ -589,6 +595,9 @@ it's more useful at explaining why
 things happen the way they do and it's
 helps us also predict what
 happen okay and this model is what I
+
+### oceanic-curve-model
+
 call the oceanic curve of
 History imagine the world as a huge
 ocean and within each ocean there's an
@@ -599,6 +608,9 @@ other which leads to a new development
 okay so think about
 hurricanes and the thing that's really
 important about this model that I'm
+
+### no-moral-judgment
+
 proposing is there's no moral
 judgment in it okay I mean obviously in
 the line the end where we're going is
@@ -763,6 +775,9 @@ all right so what happens is this why
 Empires fall is there's usually an
 Empire okay let's just say
 R and as they expand they encounter some
+
+### borderlands-pattern
+
 called the Borderlands okay
 Borderlands Borderlands are just places
 that are um the intersections of Empires
@@ -870,6 +885,9 @@ Empires must
 collapse all
 right so why is that the case in this
 class you will learn there are three
+
+### boundary-collapse-pressures
+
 boundary conditions of all
 societies eventually all societies must
 collapse for three reasons
@@ -1293,7 +1311,11 @@ implanted in your head these are
 currents these are natural forces that
 are unstoppable once they start you
 cannot stop
-them okay this war in Ukraine it is a
+them okay
+
+### conflict-zone-hurricanes
+
+this war in Ukraine it is a
 hurricane that will engulf all of Europe
 this war in the Middle East is a
 hurricane that will engulf the entire

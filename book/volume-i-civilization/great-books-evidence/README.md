@@ -16,3 +16,4 @@ Start with the [interwoven civilization spine](../interwoven-reader/README.md) w
 - [gb-08](./gb-08/README.md) - Great Books #8: The Poetry of Empire
 - [gb-09](./gb-09/README.md) - Great Books #9: Dante (Re-Upload with Audio Fixed)
 - [gb-10](./gb-10/README.md) - Great Books #10: Dante's Hierarchy of Hell
+- [gb-11](./gb-11/README.md) - Great Books #11: Dante's Revolution

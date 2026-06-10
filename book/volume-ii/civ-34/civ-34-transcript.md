@@ -38,6 +38,9 @@ considered the
 continuation of the Roman Empire in
 Western
 Europe so the um when we think about the
+
+### holy-roman-western-continuation
+
 Holy Roman Empire in the west we think
 of the famous Voltaire uh quotation about
 the Holy Roman Empire Voltaire is um a very
@@ -52,6 +55,9 @@ this class is actually this is very true
 okay so um the Holy Roman Empire was
 started in the year
 800 um when the Frankish King
+
+### charlemagne-crowned
+
 Charlemagne was crowned Holy Roman
 Emperor by Pope Leo theii in
 Rome okay and this marked a turning
@@ -811,7 +817,11 @@ military and this and this has been true
 for uh in Europe for hundreds of years
 okay the last thing about the church
 that's very important is
-um in trying to co-op new people it
+um
+
+### catholic-church-coopt
+
+in trying to co-op new people it
 recognizes that it must first Co-op the
 elite okay now barbarians do not they do
 not have or most barbarians do not have
@@ -971,7 +981,11 @@ schism the great
 schism we'll study this later on the
 idea of the great schism which happens
 around 1,000 all right is that that
-these two churches Rome and Conant pople
+these two churches
+
+### rome-constantinople-schism
+
+Rome and Conant pople
 permanently break off they refuse to
 acknowledge each other before they would
 have meetings and they would share
@@ -1181,6 +1195,9 @@ illiterate I'm not completely sure but
 apparently he was illiterate every day
 he had the city of God read to him
 that's how much he love city of God and
+
+### augustine-city-of-god-blueprint
+
 he basically made city of God the
 official text of the Holy Roman
 Empire okay does it make sense and
@@ -1298,6 +1315,9 @@ feudalism uh in Europe okay okay
 before um the Kings decide to assert
 their authority over
 everyone okay all right so the Holy
+
+### useful-fiction-close
+
 Roman Empire was a useful fiction for
 its time in order to um present the idea
 of legitimacy and

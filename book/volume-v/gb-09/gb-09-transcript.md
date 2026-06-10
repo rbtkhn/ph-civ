@@ -7,6 +7,9 @@ episode: 9
 book_chapter_id: gb-ch09
 chapter_id: gb-09
 part: I
+part_id: part-06-medieval-imagination
+part_commentary_path: ../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-09
+part_bibliography_path: ../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md
 source_type: video
 canonical_url: https://www.youtube.com/watch?v=4EZUrGPgAos
 video_id: 4EZUrGPgAos

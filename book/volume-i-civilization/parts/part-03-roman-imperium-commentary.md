@@ -44,6 +44,7 @@ Consolidated from chapter Layer 3. Chapter commentaries retain lecture-local Lay
 | Next chapter pivots to Egypt and eternity | E | `civ-18` does not follow Egypt arc | **Confirmed** | `civ-17` → [Part IV `civ-18`](./part-04-ancient-foundations-commentary.md#civ-18) |
 | Christianity inherits Greek metaphysics + Roman imperial-literary forms | C | Part V chapters skip either inheritance | **Pending** | `civ-17`; forward Part V |
 | Aeneid scene-level close-read confirms Homer–Virgil inversion (love vs piety) | E | `gb-08` skips Dido/Turnus apparatus | **Confirmed** | `gb-08` Dido + Turnus arcs |
+| Dante liberation from Virgilian stagnation (gb-07/gb-08 forward) | C | Part VI treats Dante as decorative only | **Partially supported** | [Part VI `gb-09`](./part-06-medieval-imagination-commentary.md#gb-09); synthesis § anti-Homer→Aeneid |
 | Dido curse rationalizes Roman destruction of Carthage in lecture frame | SI | External history treats curse as sole war cause | **Pending** | `gb-08` `#dido-curse-propaganda` |
 | Aeneid ending trains piety-by-memorization (reader becomes Aeneas) | C | Lecture treats ending as incomplete draft | **Partially supported** | `gb-08` `#pietas-epiphany-close` |
 
@@ -85,6 +86,21 @@ Caesar's will → liberators' wars → Second Triumvirate → Philippi → Actiu
 Augustus: Praetorian Guard, professional army, Egypt treasury. **Aeneas myth** and Aeneid as Augustan instrument. Homer (love, imagination, infinity) vs Virgil (piety, obedience, eternity, end-of-history framing). Literature as civilizational identity; Egypt eternity preview (`civ-18`). Christianity inheritance bridge (forward). **Pairs:** `gb-08`.
 
 ## Great Books sections
+
+### Anti-Homer to Aeneid (`gb-07` → `gb-08`)
+
+Cross-Part synthesis for the Homer-to-Dante corridor steps 4–6. Commission frame lives in [Part II `gb-07`](./part-02-hellenic-world-commentary.md#gb-07); scene close-read lives here.
+
+| Leg | Unit | Mechanism | Key anchors |
+|-----|------|-----------|-------------|
+| **Commission** | `gb-07` @ `civ-07` | Augustus weaponizes Aeneid as **anti-Homer** — piety/obedience vs arete/love; Trojan-horse = Greek culture entering Rome | `#aeneid-as-antihomer`, `#sinon-trojan-horse`, `#dante-bridge` |
+| **Trilogy counter-pole** | `gb-02` → `gb-05` | Iliad interiority + Odyssey **family love repair** — what Virgil will invert | Part II Homer cluster |
+| **Scene capstone** | `gb-08` @ `civ-17` | Dido love abandoned for Italy mission; curse as Punic-war propaganda; Turnus mercy refused → **piety epiphany** trains memorizing reader | `#dido-confrontation`, `#turnus-pietas-ending` |
+| **Forward liberation** | `civ-29` / `gb-09` | Commedia as democratic Tuscan epic; unreliable Virgil; love without reciprocity | [Part VI commentary](./part-06-medieval-imagination-commentary.md#gb-09) |
+
+**Ledger update (2026-06-09):** `gb-07` Dante-bridge prediction → **Partially supported** (not pending). Falsifier remains: Part VI treats Dante as decorative only.
+
+**Read order:** Part II trilogy (`gb-02`→`gb-05`→`gb-03`) → `gb-07` → `civ-14`–`civ-17` civilization arc → **`gb-08`** → Part VI `civ-29`/`gb-09`.
 
 ### gb-08
 

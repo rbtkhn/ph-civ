@@ -26,17 +26,21 @@ Use this as a guided route, not as a causal proof. The corridor shows how poems 
 | 9 | [civ-41](../cards/civ-41.md) | Returns to Dante as a Renaissance hinge and a quiet revolution in imagination. |
 | 10 | [gb-09](../cards/gb-09.md) | Re-enters Dante through Great Books close reading, love, ascent, and poetic architecture. |
 | 11 | [gb-10](../cards/gb-10.md) | Deepens the Dante sequence through Inferno's hierarchy of hell, sin, self-forgiveness, and punishment. |
+| 12 | [gb-11](../cards/gb-11.md) | Purgatory arc — Virgil vs Dante on human nature; Statius paradox; Beatrice handoff (part 1 of 2). |
+| 13 | [gb-12](../cards/gb-12.md) | Paradise ascent — Beatrice sphere cosmology, moon-spots epistemology, Trinity vision, *love moves the sun and stars* (part 2 of 2). |
+
+**Cross-Part synthesis (steps 4–6):** [Part III anti-Homer → Aeneid](../../book/volume-i-civilization/parts/part-03-roman-imperium-commentary.md#anti-homer-to-aeneid-gb-07--gb-08). **Part VI apparatus:** [part-06-medieval-imagination-commentary.md](../../book/volume-i-civilization/parts/part-06-medieval-imagination-commentary.md).
 
 ## Current public stop and pending continuation
 
-The current public corridor stops at `gb-10`, but the Dante line does not conceptually end there.
+The public mirror corridor now runs through **`gb-12`** (Paradise). Steps 12–13 are Dante **Purgatory/Paradise** continuations — not Apocalypse reroutes or detached archive residue.
 
-Recent raw-capture continuations now preserved outside the mirror:
+| GB | Mirror path | Fidelity |
+|----|-------------|----------|
+| `gb-11` | [volume-v/gb-11/](../../book/volume-v/gb-11/README.md) | Operator-paste transcript; 10 section rails |
+| `gb-12` | [volume-v/gb-12/](../../book/volume-v/gb-12/README.md) | YouTube ASR (`en-orig`); spot-checked + sectioned 2026-06-09 |
 
-- [gb-11 raw capture: Dante's Revolution](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-gb-11-dantes-revolution-2026-05-26.md)
-- [gb-12 raw capture: Dante in Paradise](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-gb-12-dante-in-paradise-2026-05-26.md)
-
-When these are promoted into the public mirror, they should extend the Volume I literary and imagination spine as Dante continuations rather than be rerouted into Apocalypse or treated as detached archive residue.
+Archive anchor (strategy-codex): `source-archive/statecraft/2026-05-26/source-gb-12-dante-in-paradise-2026-05-26.md`. See [PART-06-HYBRID-READINESS.md § GB extension](../../book/volume-i-civilization/parts/PART-06-HYBRID-READINESS.md#gb-1112-corridor-extension-inventory).
 
 ## Reading Grammar
 
@@ -45,6 +49,7 @@ When these are promoted into the public mirror, they should extend the Volume I 
 - **Anti-Homer:** the tradition learns to argue with its own heroic inheritance.
 - **Virgil:** Greek epic is transmuted into Roman imperial memory.
 - **Dante:** epic inheritance becomes pilgrimage, love, ascent, hell, self-forgiveness, and a new architecture of the self.
+- **Purgatory/Paradise:** human-nature optimism vs Augustinian obedience; love as cosmic motor; Trinity close.
 
 ## Guardrail
 

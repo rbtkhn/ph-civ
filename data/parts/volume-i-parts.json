@@ -275,6 +275,8 @@
       ],
       "spine_slice_warning": false,
       "doorway_path": "book/volume-i-civilization/parts/part-06-medieval-imagination.md",
+      "commentary_path": "book/volume-i-civilization/parts/part-06-medieval-imagination-commentary.md",
+      "bibliography_path": "book/volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md",
       "previous_part_id": "part-05-christianity-and-islam",
       "next_part_id": "part-07-world-after-rome",
       "secret_history_companions": [],

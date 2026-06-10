@@ -49,9 +49,10 @@ Consolidated cross-chapter predictions. Chapter commentaries retain lecture-loca
 | Alexander contrast: inherited capacity vs tyranny/glory | E | No father-son tyranny frame | **Confirmed** | `civ-12` |
 | Hellenistic institutions as Greek legacy carriers | E | No education infrastructure follow-through | **Confirmed** | `civ-13` Alexandria |
 | `civ-09` theater as moral education (Shelley mirror) | E | Drama not public moral formation | **Confirmed** | `gb-03` + `civ-09` |
-| Iliad-memorization → rhetoric → democracy as institutional chain | SI | No civic-speech education carry | **Partially supported (refocused)** | Explicit in `gb-03`; refocused in `civ-09`/`civ-10` |
-| Iliad teaches narrative control and interior life before institutions absorb it | E | `civ-08` treats Homer as decorative only | **Confirmed** | `gb-02` narrative-control + living-characters |
-| Odyssey homecoming repairs Iliad war-trauma through family love | SI | `gb-05` detached from `gb-02` war grammar | **Confirmed** | `gb-05` pairs `gb-02`; inverted in `gb-07`/`gb-08` |
+| Iliad-memorization → rhetoric → democracy as institutional chain | SI | No civic-speech education carry | **Confirmed (cluster; civic mutation)** | Trilogy `gb-02`→`gb-03` closes mechanism (`#narrative-control` → embassy speeches → `#arete-embassy-and-democracy`); poet-supremacy still mutates in `civ-09`/`civ-10` |
+| Iliad teaches narrative control and interior life before institutions absorb it | E | `civ-08` treats Homer as decorative only | **Confirmed** | `gb-02` `#book1-council` + `#narrative-control`; trilogy opener |
+| Odyssey homecoming repairs Iliad war-trauma through family love | SI | `gb-05` detached from `gb-02` war grammar | **Confirmed** | Trilogy middle: `#justification-collapse` / `#family-trauma` answers `gb-02` stubborn narrative; inverted in `gb-07`/`gb-08` |
+| Homer cluster trilogy closes war → repair → institution loop before `civ-08` | E | Any leg reads standalone without cross-ref | **Confirmed** | Read-through 2026-06-09: `gb-02` interiority → `gb-05` soul-repair → `gb-03` poet-legislator/democracy |
 | Roman anti-Homer frame prefigured before Macedonia export | C | `gb-07` absent from Homer cluster | **Confirmed** | `gb-07` forward to Part III `gb-08` |
 | Christianity returns to Greek categories as transmission medium | E | No Greek-category bridge | **Pending** / **Partially supported** | `civ-13` Levant preview; forward chapters |
 | Plato as Christian metaphysics source | E | Christianity chapters skip Platonism | **Pending** | `civ-10` |
@@ -61,7 +62,7 @@ Consolidated cross-chapter predictions. Chapter commentaries retain lecture-loca
 
 ## Hellenic grammar (mechanism spine)
 
-1. **Epic** — Homer reshapes imagination; Iliad interiority (`gb-02`), Odyssey repair (`gb-05`), poet-legislator close-read (`gb-03`); anti-Homer preview (`gb-07`) (`civ-07`).
+1. **Epic** — Homer reshapes imagination; **trilogy** Iliad interiority (`gb-02`) → Odyssey repair (`gb-05`) → poet-legislator / memorization→democracy (`gb-03`); anti-Homer preview (`gb-07`) (`civ-07`).
 2. **Institution** — Polis, alphabet, oral→literary shift; eudaimonia and competitive democracy (`civ-07`, `civ-08`).
 3. **Theater** — Playwrights as democratic teachers; hubris/catharsis (`civ-09`; Shelley frame in `gb-03`).
 4. **Philosophy** — Socrates/Plato challenge democracy; dialogue on the page (`civ-10`).
@@ -107,7 +108,17 @@ Aristotle state-project thesis; Hellenistic kingdoms; Library of Alexandria; Gre
 
 ## Great Books sections
 
-**Homer cluster @ `civ-07`:** Read `gb-02` (Iliad interiority) → `gb-05` (Odyssey trauma/return) → `gb-07` (anti-Homer commission frame) as one **education arc** before Macedonia exports the grammar (`civ-11`). Support-ring `gb-03` adds poet-legislator mechanism; full Aeneid close-read lives in [Part III `gb-08`](./part-03-roman-imperium-commentary.md#gb-08).
+**Homer cluster @ `civ-07`:** Read **`gb-02` → `gb-05` → `gb-03`** as the core trilogy (war grammar → family repair → institutional poet-legislator), then **`gb-07`** (anti-Homer commission) before Macedonia exports the grammar (`civ-11`). Full Aeneid close-read lives in [Part III `gb-08`](./part-03-roman-imperium-commentary.md#gb-08).
+
+## Homer cluster synthesis (`gb-02` → `gb-05` → `gb-03`)
+
+| Leg | Packet | Mechanism | Key anchors | Hands off to |
+|-----|--------|-----------|-------------|--------------|
+| **War / interiority** | `gb-02` | Characters hear themselves speak; Book 1 council = **narrative control** (face, sympathy, suicidal stubbornness) | `#opening-exercise`, `#bloom-consciousness`, `#book1-council`, `#narrative-control` | `gb-05` (cost of unbending narrative); `gb-03` (same speech-war at embassy scale) |
+| **Repair / inward** | `gb-05` | Splintered soul (Odysseus, Penelope, Telemachus); PTSD after justification collapse; **mutual family love** reunites worldview | `#family-trauma`, `#justification-collapse`, `#iliad-book2-bridge` | `civ-08`–`civ-10` (civic-scale trauma management); counter-pole to `gb-07`/`gb-08` empire inversion |
+| **Institution / poet-legislator** | `gb-03` | `arete` + `eudaimonia`; speeches project realities; **Iliad memorization → rhetoric → democracy**; Shelley poet-legislator → theater | `#arete-embassy-and-democracy`, `#shelley-poet-legislator` | `civ-08` institutions, `civ-09` theater, `civ-10` dialogue on page |
+
+**Trilogy law:** `gb-02` names the psychological weapon (who controls the story); `gb-05` names what breaks when the story wins over love; `gb-03` names how the same weapon becomes **civic infrastructure** before philosophy and empire absorb it.
 
 ### gb-02
 
@@ -142,7 +153,7 @@ Aristotle state-project thesis; Hellenistic kingdoms; Library of Alexandria; Gre
 | Jung / archetype antenna | Lecture analogy; not Homeric scholarship | Low |
 | Prophet-truth eternal moral prediction | Theological overlay on Homer | Medium |
 
-**gb-02 predictions:** narrative-control + living-characters frames support Part ledger on institution (`civ-08`) and theater (`civ-09`); poet-supremacy chain continues via `gb-03`.
+**gb-02 predictions:** narrative-control + living-characters frames support Part ledger on institution (`civ-08`) and theater (`civ-09`); **trilogy handoff** → `gb-05` (repair cost) → `gb-03` (memorization→democracy).
 
 ### gb-05
 
@@ -174,7 +185,7 @@ Aristotle state-project thesis; Hellenistic kingdoms; Library of Alexandria; Gre
 | PTSD frame on Odyssey | Modern clinical overlay on ancient epic | Medium |
 | Three-protagonist splintered soul | Interpretive lecture frame; not Homeric consensus | Medium |
 
-**gb-05 predictions:** homecoming-repair confirms `gb-02` war-trauma grammar; sets falsifier for Virgilian inversion in Part III `gb-08`.
+**gb-05 predictions:** homecoming-repair confirms `gb-02` war-trauma grammar (**trilogy middle leg**); sets falsifier for Virgilian inversion in Part III `gb-08`; precedes `gb-03` institutional absorption.
 
 ### gb-07
 
@@ -209,7 +220,7 @@ Aristotle state-project thesis; Hellenistic kingdoms; Library of Alexandria; Gre
 | Virgil wanted to burn poem | Traditional story; poet agency vs imperial patronage debated | Medium |
 | Augustus-as-author frame | Patronage ≠ sole authorship; see Part III bibliography | High |
 
-**gb-07 predictions:** anti-Homer commission confirms Part III literary-soul row; Dante bridge pending until Part V/VI corridor matures.
+**gb-07 predictions:** anti-Homer commission confirms Part III literary-soul row; Dante bridge **Partially supported** — scene apparatus in [Part III `gb-08`](./part-03-roman-imperium-commentary.md#gb-08); liberation arc continues in [Part VI `civ-29`/`gb-09`](./part-06-medieval-imagination-commentary.md#gb-09).
 
 ### gb-03
 
@@ -234,9 +245,21 @@ Aristotle state-project thesis; Hellenistic kingdoms; Library of Alexandria; Gre
 | 11 | Poets combine eternal and material; words reanimate soul-memory | `#shelley-poet-legislator` | Medium |
 | 12 | Shelley: poets as legislators; poetry basis of civilization | `#shelley-poet-legislator` | High |
 
-**gb-03 predictions** (folded into Part ledger above): `civ-09` theater confirmed; poet-supremacy mutated; Iliad-mem chain partially refocused.
+**Close-read arc:** arete/eudaimonia + embassy speech-war → Kant language/reality (lecture paraphrase) → Homer summons living characters → Shelley theater mirror → **poet-legislator** closes trilogy institutional leg.
 
-**Cross-links:** complements `civ-07` without duplicating Priam arc; `civ-08` institutionalizes eudaimonia; support ring not core spine.
+**Part links:** **Trilogy closer** after `gb-02`/`gb-05`; same narrative-war grammar as `#book1-council` at embassy scale; `civ-08` institutionalizes eudaimonia; `civ-09` Shelley theater row; support ring on Homer-to-Tolstoy ring, not Homer-to-Dante core spine.
+
+**Counter-readings (gb-03):**
+
+| Topic | Counter-reading | Strength |
+|-------|-----------------|----------|
+| Kant phenomena/noumena paraphrase | Loose vs *Critique of Pure Reason*; mechanism analogy only | High |
+| Poets summon universe / download-speed | Lecture theology overlay on Homer | Low |
+| Memorization → democracy | Civic-education claim needs institutional history review | Medium |
+
+**gb-03 predictions** (folded into Part ledger): **trilogy closer** — Iliad-mem→democracy row **Confirmed (cluster)**; `civ-09` theater confirmed; poet-supremacy still mutates in `civ-10`.
+
+**Cross-links:** complements `civ-07` without duplicating Priam arc; pairs `gb-02` narrative control with `gb-05` repair before `civ-08`+.
 
 ## Counter-readings (external)
 
@@ -277,7 +300,7 @@ Scholarship-grade alternatives; sources in [bibliography](./part-02-hellenic-wor
 
 ### Open Questions
 
-- Add matching section anchors to `gb-02`/`gb-05` transcripts (gb-03 done 2026-06-09).
+- ~~Add matching section anchors to `gb-02`/`gb-05` transcripts~~ — **done** (all three transcripts sectioned; trilogy read-through 2026-06-09).
 - External-verify Rat Utopia, Cleon/Brasidas assassination claims, Aristotle authorship debate.
 - Track Christianity/Plato predictions in Part V+.
 

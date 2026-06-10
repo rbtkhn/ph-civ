@@ -26,8 +26,10 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
+part_commentary_path: ../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#civ-29
+part_bibliography_path: ../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md
 ---
 
 # Commentary - Civilization
@@ -62,14 +64,14 @@ Every claim below is tied to the transcript body in civ-29-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture presents Dante and the Commedia as a peak of civilization and a lifetime object of study. | civ-29-transcript.md:32 | Explicit / Strong Implied | High |
-| 2 | The Commedia is described as an epic in Tuscan whose literary force helped shape Italian language and European imagination. | civ-29-transcript.md:32 | Explicit / Strong Implied | High |
-| 3 | Dante is framed as working within apocalyptic literature while overturning the prophet-eats-scroll model. | civ-29-transcript.md:32 | Explicit / Strong Implied | High |
-| 4 | The lecture reads Dante as rebutting Augustine's negation of human will, love, agency, and earthly life. | civ-29-transcript.md:32 | Explicit / Strong Implied | High |
-| 5 | Mary is placed at the center of Dante's theological reconstruction as a sign of human nobility and love. | civ-29-transcript.md:32 | Explicit / Strong Implied | High |
-| 6 | Paradox and structure are treated as devices that work on the reader's mind beneath conscious understanding. | civ-29-transcript.md:32 | Explicit / Strong Implied | High |
-| 7 | Dante's vision of God is framed as an imaginative encounter with unity, mystery, and cosmic structure. | civ-29-transcript.md:32 | Explicit / Strong Implied | High |
-| 8 | The lecture claims the Commedia plants seeds for the Renaissance, Protestant Reformation, and Scientific Revolution. | civ-29-transcript.md:32 | Explicit / Strong Implied | High |
+| 1 | The lecture presents Dante and the Commedia as a peak of civilization and a lifetime object of study. | `civ-29-transcript.md#opening-dante-peak` | Explicit / Strong Implied | High |
+| 2 | The Commedia is described as an epic in Tuscan whose literary force helped shape Italian language and European imagination. | `civ-29-transcript.md#tuscan-vernacular-epic` | Explicit / Strong Implied | High |
+| 3 | Dante is framed as working within apocalyptic literature while overturning the prophet-eats-scroll model. | `civ-29-transcript.md#apocalyptic-overturn` | Explicit / Strong Implied | High |
+| 4 | The lecture reads Dante as rebutting Augustine's negation of human will, love, agency, and earthly life. | `civ-29-transcript.md#augustine-rebuttal` | Explicit / Strong Implied | High |
+| 5 | Mary is placed at the center of Dante's theological reconstruction as a sign of human nobility and love. | `civ-29-transcript.md#mary-center-theology` | Explicit / Strong Implied | High |
+| 6 | Paradox and structure are treated as devices that work on the reader's mind beneath conscious understanding. | `civ-29-transcript.md#paradox-structure-jigsaw` | Explicit / Strong Implied | High |
+| 7 | Dante's vision of God is framed as an imaginative encounter with unity, mystery, and cosmic structure. | `civ-29-transcript.md#god-imagination` | Explicit / Strong Implied | High |
+| 8 | The lecture claims the Commedia plants seeds for the Renaissance, Protestant Reformation, and Scientific Revolution. | `civ-29-transcript.md#three-revolutions-seeds` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 
@@ -81,107 +83,27 @@ Every claim below is tied to the transcript body in civ-29-transcript.md.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
+---
 
-Explicitly testable items only.
+## Part apparatus
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| The next Dante chapter should develop how Dante displaces Virgil and Homer through poetic memory and love. | C | Later material or final review does not support this control. | 2026-05-13 | Pending | In-review control. |
-| Final review should distinguish Dante textual interpretation from the lecture's long-range claims about European modernity. | C | Later material or final review does not support this control. | 2026-05-13 | Pending | In-review control. |
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part VI live in the Part files:
 
-**Meta-Prediction Patterns**
+- [Part VI commentary](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#civ-29) — Augustine rebuttal, Commedia structure, Mary/paradox, imagination cosmology
+- [Part VI bibliography](../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md)
 
-- The lecture treats poetry as a civilizational memory system rather than only as literary ornament.
-- The chapter should be checked against later Reformation, science, and modernity units before any final synthesis is claimed.
+Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| Dante-as-origin of Renaissance, Reformation, and Scientific Revolution is a strong lecture hypothesis and should not be treated as settled causal history. | civ-29-transcript.md | Keeps the in-review chapter bounded. | High |
-| The Mary and God readings require theological and textual review before final public synthesis. | civ-29-transcript.md | Keeps the in-review chapter bounded. | High |
-| Neuroscience language about imagination, memory, and the brain should remain bounded as analogy unless externally supported. | civ-29-transcript.md | Keeps the in-review chapter bounded. | High |
-| The Augustine-versus-Dante contrast is interpretive and may compress a larger medieval theological field. | civ-29-transcript.md | Keeps the in-review chapter bounded. | High |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which claims are lecture shorthand and which should become final public literary or historical claims?
-- Which textual, theological, neuroscience, or reception-history claims require external source verification before completion?
-- Which adjacent chapters confirm or revise the placement proposed here?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- Connection to civ-27: Dante is framed as a rebuttal to Augustine's obedience-centered theology.
-- Connection to civ-28: the Muhammad chapter routes next to Dante as the maker of a renewed European civilization.
-- Connection to civ-30: the next lecture deepens Dante by showing how he displaces Virgil and poetic memory itself.
-- Broader pattern: poetry becomes a civilizational technology for remaking what readers can imagine.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-- Verify proper nouns, canto references, theological categories, literary claims, and translation-sensitive terms against external sources before any complete status.
-- Recheck ASR-sensitive names and places in the transcript before long excerpt use.
-- Preserve representation_not_endorsement; this commentary documents and tests the lecture's claims.
-- Keep this unit at in-review until external-source validation and final line-reference review are complete.
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Dante-as-origin of Renaissance/Reformation/science — lecture hypothesis only.
+- Augustine vs Dante contrast compresses medieval theology field.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Cross-chapter work: use Part apparatus; do not duplicate Part bibliography here.
+- Phase 2 slim (2026-06-09): Layers 3–6 moved to Part commentary.

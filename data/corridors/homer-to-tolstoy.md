@@ -36,7 +36,7 @@ For the retrieval order that keeps this corridor source-bound, see the
 | --- | --- | --- | --- |
 | 1 | Homer | [civ-07](../cards/civ-07.md), [gb-02](../cards/gb-02.md), [gb-05](../cards/gb-05.md), [gb-07](../cards/gb-07.md) | Heroic memory, human action, return, and anti-Homeric revision. For Iliad close-read depth (`arete`, `eudaimonia`, speech-as-reality), open [gb-03](../cards/gb-03.md) from the [support ring](homer-to-tolstoy-support-ring.md) — not a core-spine stop. |
 | 2 | Virgil | [civ-17](../cards/civ-17.md), [gb-08](../cards/gb-08.md) | Greek epic inheritance becomes Roman imperial memory. |
-| 3 | Dante | [civ-29](../cards/civ-29.md), [civ-30](../cards/civ-30.md), [civ-41](../cards/civ-41.md), [gb-09](../cards/gb-09.md), [gb-10](../cards/gb-10.md) | Epic inheritance becomes pilgrimage, love, ascent, hell, self-forgiveness, and a new architecture of the self. The public Dante run currently stops at `gb-10`, but raw-capture continuations now exist for `gb-11` and `gb-12` and should extend this Volume I segment when promoted. |
+| 3 | Dante | [civ-29](../cards/civ-29.md), [civ-30](../cards/civ-30.md), [civ-41](../cards/civ-41.md), [gb-09](../cards/gb-09.md), [gb-10](../cards/gb-10.md), [gb-11](../cards/gb-11.md), [gb-12](../cards/gb-12.md) | Epic inheritance becomes pilgrimage, love, ascent, hell, self-forgiveness, and a new architecture of the self. Public mirror includes `gb-11` (Purgatory) and `gb-12` (Paradise). |
 | 4 | Shakespeare | [civ-51](../cards/civ-51.md) | Literature becomes language, theater, empire, psychology, and civilizational soft power. |
 | 5 | Dostoevsky | [civ-53](../cards/civ-53.md) | The novel becomes a pressure chamber for conscience, faith, freedom, suffering, and the modern soul. |
 | 6 | Tolstoy | [sh-16](../cards/sh-16.md) | Terminal literary endpoint and cross-volume hinge; routed through an *Anna Karenina* coda, then handed forward into the Tolstoy bridge doctrine for Apocalypse. |
@@ -74,7 +74,7 @@ The literary route therefore does not simply stop at Tolstoy. It passes through 
 The Dante portion of this broader spine should now be read in two layers:
 
 - current public Dante path through `gb-10`
-- pending raw-capture Dante continuations at [gb-11 raw capture: Dante's Revolution](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-gb-11-dantes-revolution-2026-05-26.md) and [gb-12 raw capture: Dante in Paradise](/C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-gb-12-dante-in-paradise-2026-05-26.md)
+- [gb-11](../cards/gb-11.md) and [gb-12](../cards/gb-12.md) promoted to `volume-v/` (2026-06-09)
 
 Those later Dante lectures belong to the same Volume I literary spine. They should not be treated as detached archive residue or as material that needs rerouting into Apocalypse.
 
