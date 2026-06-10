@@ -1,6 +1,6 @@
 ---
 part_id: part-04-ancient-foundations
-plan_status: phase0_inventory
+plan_status: phase1_complete
 scaffold_version: ph_civ_part_commentary_v1
 template_from: part-03-roman-imperium (hybrid pilot)
 inventory_date: 2026-06-09
@@ -22,15 +22,15 @@ Planning doc for extending the **Part II/III hybrid model** (thin chapter + thic
 
 | Gate | Threshold | Current (2026-06-09) |
 |------|-----------|----------------------|
-| Chapter Layer 0–2 | All six chapters have transcript-anchored claims + line/section refs | **Partial** — 8 L2 claims each; `civ-18`/`civ-19`/`civ-20` use line refs; **`civ-21`–`civ-23` bulk-ref `:32`** (megagraph — needs section anchors) |
+| Chapter Layer 0–2 | All six chapters have transcript-anchored claims + line/section refs | **Met** — 8 L2 claims each; `civ-18`–`20` line refs; **`civ-21`–`23` Part sections use `#anchor` refs** (transcript anchors added Phase 1) |
 | Chapter slimming | Willing to move Layers 3–6 to Part apparatus | **Not started** — full seed scaffolds (Layers 0–6) in `volume-ii/` |
 | GB weave | Registry `great_books_weave` | **N/A** — empty array; no `gb-NN` Part sections required |
 | SH companion | `sh-17` @ `civ-22` deepening documented | **Partial** — doorway + registry wired; no Part `### sh-17` section yet |
-| Cross-Part bridge | Rome/Egypt handoff + Bronze triad → Levant/Persia arc | **Partial** — lecture chain clear; Part III forward row still **Pending** |
+| Cross-Part bridge | Rome/Egypt handoff + Bronze triad → Levant/Persia arc | **Met** — Part III Egypt row **Confirmed**; Part IV ingress wired |
 | Validator | `volume_i_parts.py` Part IV README checks (mirror Part III) | **Not wired** |
 | Interfaith / archaeology guardrails | Bibliography + counter-readings for Bible/Persia claims | **Required before Phase 1 author** — not yet seeded at Part grain |
 
-**Recommendation:** **Phase 1 ready** after a bounded **pin-cite prep** on `civ-21`–`civ-23` transcripts (section anchors like `gb-08` / `gb-05`). Optional: run pin-cite pass in Phase 1 author session, not as a separate gate blocker.
+**Recommendation:** **Phase 2 ready** — slim `civ-18`–`23`, README lattice, validator Part IV checks.
 
 ---
 
@@ -65,15 +65,15 @@ Planning doc for extending the **Part II/III hybrid model** (thin chapter + thic
 
 | Artifact | Status (2026-06-09) |
 |----------|---------------------|
-| `part-04-ancient-foundations-commentary.md` | **Not created** |
-| `part-04-ancient-foundations-bibliography.md` | **Not created** |
-| `volume-i-parts.json` `commentary_path` / `bibliography_path` | **Not wired** |
-| `part-04-ancient-foundations.md` Apparatus block | **Not wired** |
+| `part-04-ancient-foundations-commentary.md` | **Created** — Phase 1 draft (6 chapter sections + `sh-17`) |
+| `part-04-ancient-foundations-bibliography.md` | **Created** — Phase 1 seeded |
+| `volume-i-parts.json` `commentary_path` / `bibliography_path` | **Wired** |
+| `part-04-ancient-foundations.md` Apparatus block | **Wired** |
 | Slim `civ-18`–`civ-23` commentaries | **Not started** |
 | README 6-step lattice + Part links | **Not started** |
 | Transcript YAML `part_id` + Part paths | **Not started** |
 | Validator Part IV README checks | **Not started** |
-| Transcript section anchors (`civ-21`–`23` priority) | **Not started** |
+| Transcript section anchors (`civ-21`–`23`) | **Done** — Phase 1 |
 | `docs/commentary-canvas.md` / `source-lattice.md` Part IV example | **Not started** (extend after Phase 3) |
 
 ---
@@ -97,9 +97,9 @@ Working mechanism chain to validate against lectures:
 
 ## Implementation phases
 
-### Phase 0 — Inventory — **Done** (this doc)
+### Phase 0 — Inventory — **Done**
 
-### Phase 1 — Author only (~1–2 sessions)
+### Phase 1 — Author only (~1–2 sessions) — **Done** (2026-06-09)
 
 - Draft Part IV commentary + bibliography from existing Layer 0–2 (+ Layer 4 counter-readings)
 - Fold civ-18–23 Layer 3 predictions into Part ledger; confirm Part III Egypt row
@@ -153,4 +153,4 @@ Working mechanism chain to validate against lectures:
 
 ## Next operator pick
 
-**Phase 1 author** (Bronze triad `civ-18`–`20` first, or full six-chapter pass), or **pin-cite prep** on `civ-21`–`23` alone before author.
+**Phase 2** slim `civ-18`–`23` + README lattice, or **deepen** Part IV sections / external-verify before slim.

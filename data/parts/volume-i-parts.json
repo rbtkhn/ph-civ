@@ -192,6 +192,8 @@
       ],
       "spine_slice_warning": true,
       "doorway_path": "book/volume-i-civilization/parts/part-04-ancient-foundations.md",
+      "commentary_path": "book/volume-i-civilization/parts/part-04-ancient-foundations-commentary.md",
+      "bibliography_path": "book/volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md",
       "previous_part_id": "part-03-roman-imperium",
       "next_part_id": "part-05-christianity-and-islam",
       "secret_history_companions": [

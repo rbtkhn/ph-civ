@@ -41,7 +41,7 @@ Consolidated from chapter Layer 3. Chapter commentaries retain lecture-local Lay
 | Myth operates as empire technology | C | Literature treated as ornament only in later chapters | **Partially supported** | `civ-15` mythmaker; `civ-17` state epic |
 | Augustus/Virgil/Aeneid capstone Roman literary soul | E | `civ-17` skips Homer–Virgil contrast | **Confirmed** | `civ-16` preview |
 | Succession weakness returns after Tiberius | C | No later imperial succession stress | **Pending** | `civ-16` closing note |
-| Next chapter pivots to Egypt and eternity | E | `civ-18` does not follow Egypt arc | **Pending** | `civ-17` forward bridge |
+| Next chapter pivots to Egypt and eternity | E | `civ-18` does not follow Egypt arc | **Confirmed** | `civ-17` → [Part IV `civ-18`](./part-04-ancient-foundations-commentary.md#civ-18) |
 | Christianity inherits Greek metaphysics + Roman imperial-literary forms | C | Part V chapters skip either inheritance | **Pending** | `civ-17`; forward Part V |
 | Aeneid scene-level close-read confirms Homer–Virgil inversion (love vs piety) | E | `gb-08` skips Dido/Turnus apparatus | **Confirmed** | `gb-08` Dido + Turnus arcs |
 | Dido curse rationalizes Roman destruction of Carthage in lecture frame | SI | External history treats curse as sole war cause | **Pending** | `gb-08` `#dido-curse-propaganda` |
