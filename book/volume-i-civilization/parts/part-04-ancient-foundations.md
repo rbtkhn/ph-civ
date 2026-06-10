@@ -29,6 +29,11 @@ What parallel grammars sit beside Greece/Rome on the ancient worlds floor?
 
 - [homer-to-tolstoy-support-ring](../../../data/corridors/homer-to-tolstoy-support-ring.md)
 
+## Apparatus
+
+- Hybrid readiness: [PART-04-HYBRID-READINESS.md](PART-04-HYBRID-READINESS.md) — Phase 0 inventory (commentary/bibliography not yet authored)
+- **Ingress:** [Part III `civ-17`](./part-03-roman-imperium-commentary.md#civ-17) Egypt eternity preview → `civ-18`
+
 ## Navigation
 
 - **Previous:** [Part III — The Roman Imperium](part-03-roman-imperium.md)
