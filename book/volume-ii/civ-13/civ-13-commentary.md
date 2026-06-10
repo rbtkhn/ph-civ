@@ -78,109 +78,26 @@ Every claim below is tied to the transcript body in `civ-13-transcript.md`.
 - **State knowledge project**: the claim that imperial power gathers and standardizes knowledge.
 - **Hellenistic culture**: Greek culture reorganized for a post-Alexander imperial world.
 - **Legacy ladder**: epic, tragedy, and philosophy as layered Greek civilizational inheritance.
+---
+
+## Part apparatus
+
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part II live in the Part files:
+
+- [Part II commentary](../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#civ-13) — Hellenic grammar, prediction ledger, Great Books sections
+- [Part II bibliography](../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md)
+
+Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
-
-Explicitly testable items only.
-
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| Later Christianity and Jewish-history chapters will return to Greek categories as a transmission medium. | E | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-05-13 | Pending | In-review control. |
-| Later education or empire chapters should treat knowledge standardization as political infrastructure. | C | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-05-13 | Pending | In-review control. |
-
-**Meta-Prediction Patterns**
-
-- The lecture treats civilizational movement as carried by institutions, conquest, education, and memory rather than by ideas alone.
-- The chapter should be checked against adjacent Civilization units before any final synthesis is claimed.
-
----
-
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| The state-project thesis is interpretive and needs later external review against Aristotle's actual corpus and school history. | `civ-13-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-| Lost-originals language should be handled carefully because manuscript transmission is complex. | `civ-13-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-| Greek-Jewish synthesis is a preview and should not be over-expanded before the relevant chapter. | `civ-13-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-| Aristotle's relation to Plato should avoid simple opposition; inheritance and disagreement can coexist. | `civ-13-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which claims are lecture shorthand and which should become final public historical claims?
-- Which names, dates, and battle details require external source verification before completion?
-- Which adjacent chapters confirm or revise the placement proposed here?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- Connection to `civ-12`: Alexander's expansion creates the world in which Greek knowledge can be institutionalized.
-- Connection to `civ-17`: Rome later inherits Greek literary and philosophical forms while translating them into its own civilizational identity.
-- Broader pattern: empire turns local intellectual achievement into curriculum, classification, and portable culture.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-- Verify proper nouns, dates, battle names, and quoted literary titles against external sources before any `complete` status.
-- Recheck ASR-sensitive names and places in the transcript before long excerpt use.
-- Preserve `representation_not_endorsement`; this commentary documents and tests the lecture's claims.
-- Keep this unit at `in-review` until external-source validation and final line-reference review are complete.
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Aristotle state-project thesis needs corpus/school external review.
+- Greek-Jewish synthesis preview: do not over-expand before Christianity chapters.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Cross-chapter work: use Part apparatus; do not duplicate Part bibliography here.

@@ -78,109 +78,25 @@ Every claim below is tied to the transcript body in `civ-11-transcript.md`.
 - **Hungry state**: a poorer, pressured polity whose constraints can produce discipline and cohesion.
 - **Anvil and hammer**: infantry and cavalry coordination as military operating grammar.
 - **Meritocratic loyalty**: Philip's use of talent, shared risk, and reward to bind elites and soldiers.
+---
+
+## Part apparatus
+
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part II live in the Part files:
+
+- [Part II commentary](../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#civ-11) — Hellenic grammar, prediction ledger, Great Books sections
+- [Part II bibliography](../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md)
+
+Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
-
-Explicitly testable items only.
-
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-06-09) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| The next chapter will contrast Alexander's inherited capacity with his personal risk, glory, and tyranny. | E | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-06-09 | Confirmed | `civ-12` opens by testing father-son model: aggressive expansion, tyranny (obedience, killing father's talent), boundless ambition. `civ-12-transcript.md:31-39`, `civ-12-transcript.md:103-104` |
-| Later Rome material should reuse the question of whether conquest or admiration carries culture across space. | C | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-05-13 | Pending | In-review control. |
-
-**Meta-Prediction Patterns**
-
-- The lecture treats civilizational movement as carried by institutions, conquest, education, and memory rather than by ideas alone.
-- The chapter should be checked against adjacent Civilization units before any final synthesis is claimed.
-
----
-
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| The diffusion-versus-conquest contrast is useful, but later review should not erase trade, prestige, intermarriage, education, or institutional adoption. | `civ-11-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-| Philip-as-founder should not make Alexander a passive heir; the next chapter tests how much expansion still depends on individual decisions. | `civ-11-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-| The Korea analogy is a teaching device, not direct evidence about ancient Macedon. | `civ-11-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-| Assassination theories remain alternatives in the lecture and should not be collapsed into a single settled cause. | `civ-11-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which claims are lecture shorthand and which should become final public historical claims?
-- Which names, dates, and battle details require external source verification before completion?
-- Which adjacent chapters confirm or revise the placement proposed here?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- Connection to `civ-10`: Greek ideas leave Athens through the Macedonian political-military machine previewed at the end of the Socrates/Plato chapter.
-- Connection to `civ-12`: Alexander inherits a state, army, and invasion plan that Philip made possible.
-- Broader pattern: civilizational transmission often depends on coercive carriers, not only intellectual prestige.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-- Verify proper nouns, dates, battle names, and quoted literary titles against external sources before any `complete` status.
-- Recheck ASR-sensitive names and places in the transcript before long excerpt use.
-- Preserve `representation_not_endorsement`; this commentary documents and tests the lecture's claims.
-- Keep this unit at `in-review` until external-source validation and final line-reference review are complete.
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Philip II pan-Hellenic project vs historical Macedon/Greek identity sources.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Cross-chapter work: use Part apparatus; do not duplicate Part bibliography here.

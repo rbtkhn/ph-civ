@@ -47,7 +47,7 @@ These support nodes strengthen the route, but they do not replace the core spine
 
 | Node | Role |
 | --- | --- |
-| [gb-03](../cards/gb-03.md) | Iliad close-read support after [civ-07](../cards/civ-07.md): `arete`, `eudaimonia`, Odysseus speech-as-reality, and poet-legislator world-making. Complements the civ lecture (plot, Priam psychology, Greece/China frame) without duplicating it. Open when the reader needs rhetorical mechanics beneath Homer, not a new core-spine author stop. |
+| [gb-03](../cards/gb-03.md) | Iliad close-read support after [civ-07](../cards/civ-07.md): `arete`, `eudaimonia`, Odysseus speech-as-reality, and poet-legislator world-making. **Canonical commentary:** [Part II § gb-03](../../book/volume-i-civilization/parts/part-02-hellenic-world-commentary.md#gb-03). Complements the civ lecture without duplicating it. Not a core-spine author stop. |
 | [gb-02](../cards/gb-02.md), [gb-05](../cards/gb-05.md), [gb-07](../cards/gb-07.md) | Existing Homer-segment Great Books supports on the core spine; pair with `gb-03` when the route needs both heroic-memory routing and close-reading depth. |
 
 ## Middle / Theological-Imagination Band

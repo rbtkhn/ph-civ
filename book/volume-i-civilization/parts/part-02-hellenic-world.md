@@ -31,6 +31,11 @@ How does epic → institution → theater → philosophy → conquest-carrier bu
 - [homer-to-tolstoy-support-ring](../../../data/corridors/homer-to-tolstoy-support-ring.md)
 - [homer-to-dante](../../../data/corridors/homer-to-dante.md)
 
+## Apparatus
+
+- [Part II commentary](part-02-hellenic-world-commentary.md) — cross-chapter synthesis, Great Books sections, prediction ledger
+- [Part II bibliography](part-02-hellenic-world-bibliography.md) — external sources (tagged by chapter/gb)
+
 ## Navigation
 
 - **Previous:** [Part I — The Dawn of Civilization](part-01-dawn-of-civilization.md)

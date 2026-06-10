@@ -22,6 +22,9 @@ normalization_state: ai_assisted_proper_noun_cleanup
 asr_normalization_note: "2026-06-09 pilot Volume II block (civ-01–18); AI-assisted proper nouns only; not human-verified; verify before quotation."
 corpus_path: ../../../corpus/civilization/civ-08.md
 commentary_path: ./civ-08-commentary.md
+part_id: part-02-hellenic-world
+part_commentary_path: ../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md
+part_bibliography_path: ../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md
 ---
 
 # Part I - Civilization #8: Rat Utopia and the Peloponnesian War

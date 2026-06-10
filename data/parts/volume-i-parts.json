@@ -90,6 +90,8 @@
       ],
       "spine_slice_warning": false,
       "doorway_path": "book/volume-i-civilization/parts/part-02-hellenic-world.md",
+      "commentary_path": "book/volume-i-civilization/parts/part-02-hellenic-world-commentary.md",
+      "bibliography_path": "book/volume-i-civilization/parts/part-02-hellenic-world-bibliography.md",
       "previous_part_id": "part-01-dawn-of-civilization",
       "next_part_id": "part-03-roman-imperium",
       "secret_history_companions": [],

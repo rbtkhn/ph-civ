@@ -90,123 +90,26 @@ Every claim below is tied to the transcript body in `civ-09-transcript.md`.
 - **Hubris**: excessive arrogance under power, presented as the recurring problem of kings and elites. `civ-09-transcript.md:71-73`, `civ-09-transcript.md:97-98`
 - **Trojan Women**: Euripides's play used to indict Athenian empire after Melos. `civ-09-transcript.md:75-79`
 - **Bacchae**: Euripides's play read here as an image of empire sacrificing the young. `civ-09-transcript.md:80-96`
+---
+
+## Part apparatus
+
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part II live in the Part files:
+
+- [Part II commentary](../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#civ-09) — Hellenic grammar, prediction ledger, Great Books sections
+- [Part II bibliography](../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md)
+
+Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
-
-Explicitly testable items only.
-
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| `civ-10` will move from theater as democratic self-critique to Socrates and Plato as critics of democracy. | E | `civ-10` does not present Socrates or Plato as challenging democracy. | 2026-05-13 | Confirmed by next transcript | `civ-10` opens by contrasting playwrights' democratic claims with Socrates. `civ-10-transcript.md:32-35` |
-| Later chapters will treat literature as a civic institution, not only a private art form. | SI | Later chapters discuss literature without civic or political function. | 2026-06-09 | Confirmed | Successors must invent/spread Greek culture to govern (`civ-12`); Alexandria standardizes Homer/playwrights/philosophers as education infrastructure (`civ-13`). `civ-12-transcript.md:101-102`, `civ-13-transcript.md:92-99` |
-| Later analysis of empire will return to the idea that democratic societies can become imperial and self-deceiving. | SI | Later chapters treat democracy and empire as unrelated. | 2026-05-13 | Pending | Euripides is interpreted through Melos and Pericles. `civ-09-transcript.md:75-92` |
-
-**Meta-Prediction Patterns**
-
-- The lecture treats culture as a public institution for shaping political judgment.
-- It reads tragedy as an instrument of democratic self-diagnosis.
-
----
-
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| Calling the playwrights prophets of democracy is an interpretive frame, not a neutral description of all their aims. | `civ-09-transcript.md:39-40` | The lecture makes democracy the organizing meaning of the plays. | Medium |
-| The Oresteia can be read as founding civic justice while still preserving hierarchy, patriarchy, and divine compromise. | `civ-09-transcript.md:43-58` | The lecture emphasizes democratic responsibility. | Medium |
-| Antigone's natural law reading is central, but the play can also be read through family, gender, burial, state power, and tragic excess. | `civ-09-transcript.md:65-73` | The lecture uses Antigone primarily against monarchy and hubris. | Medium |
-| The Bacchae empire reading is explicitly one interpretation among several and should remain bounded. | `civ-09-transcript.md:86-96` | The lecture acknowledges alternative readings. | High |
-| Linking Trojan Women directly to Melos is powerful but should be checked against chronology, performance context, and scholarly debate before final review. | `civ-09-transcript.md:75-79` | The lecture uses Melos as the key context for Euripides's critique. | Medium |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which play summaries need correction against standard texts before public polish?
-- How should the commentary distinguish plot summary from lecture interpretation?
-- What external readings should anchor Greek theater, Dionysia, Melos, and Pericles's Funeral Oration?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- **Connection to `civ-07`**: Homer survey (polis, alphabet, Iliad psychology); `civ-09` carries poet-centered civic formation from epic memory into democratic theater.
-- **Connection to `gb-03`**: optional [Homer support ring](../../../data/corridors/homer-to-tolstoy-support-ring.md) — Shelley/hubris/catharsis and poet-legislator doctrine deepen the same playwright-honor arc this chapter names explicitly.
-- **Connection to `civ-08`**: `civ-08` describes Athenian empire and internal status pressure; `civ-09` shows Athens staging those tensions in theater.
-- **Connection to `civ-10`**: the democratic self-defense of theater sets up Socrates and Plato as anti-democratic or supra-democratic critics; Plato's playwright training (`civ-10`) closes the poet-supremacy line opened in `civ-07`.
-- **Broader Civilizational Pattern**: public art can teach a society how to deliberate, but it can also expose what that society refuses to see.
-- **Strategic Implications**: empires require narratives of glory, and their critics often work by forcing citizens to see the victims behind those narratives.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-Internal notes only. Keep this section concise and review-oriented.
-
-- Check named sources and spellings before public polish: Aeschylus, Sophocles, Euripides, Oresteia, Oedipus, Antigone, Trojan Women, Bacchae, Dionysus, Pentheus, Athena, Apollo, Furies, Areopagus, Melos, and Pericles.
-- Add external reading on the Dionysia, Athenian civic theater, and Euripides's relation to empire.
-- Preserve the distinction between lecture interpretation and standard scholarly readings.
-
----
-
-**Contributor Notes**
-
-- Primary annotator: Codex
-- Reviewers: pending
-- Version: 1.0 in-review
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Melos/Pericles imperial frame: balance against other Thucydides readings.
+- Playwright-as-prophet thesis vs historical theater scholarship.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Cross-chapter work: use Part apparatus; do not duplicate Part bibliography here.

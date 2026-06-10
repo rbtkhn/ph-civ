@@ -192,6 +192,31 @@ def validate_volume_i_parts(
         if require_doorways and not doorway.exists():
             errors.append(f"{part_id} missing doorway: {part.get('doorway_path')}")
 
+        commentary_path = part.get("commentary_path")
+        bibliography_path = part.get("bibliography_path")
+        if commentary_path:
+            commentary_file = PACKAGE_ROOT / commentary_path
+            if not commentary_file.is_file():
+                errors.append(f"{part_id} missing commentary: {commentary_path}")
+            if not bibliography_path:
+                errors.append(f"{part_id} commentary_path set but bibliography_path missing")
+            else:
+                bibliography_file = PACKAGE_ROOT / bibliography_path
+                if not bibliography_file.is_file():
+                    errors.append(f"{part_id} missing bibliography: {bibliography_path}")
+
+        if part_id == "part-02-hellenic-world" and commentary_path:
+            for civ_id in chapters:
+                readme = PACKAGE_ROOT / "book" / "volume-ii" / civ_id / "README.md"
+                if not readme.is_file():
+                    errors.append(f"{part_id} missing chapter README: {readme.relative_to(PACKAGE_ROOT)}")
+                    continue
+                readme_text = readme.read_text(encoding="utf-8")
+                if "part-02-hellenic-world-commentary.md" not in readme_text:
+                    errors.append(f"{civ_id} README missing Part II commentary link")
+                if "part-02-hellenic-world-bibliography.md" not in readme_text:
+                    errors.append(f"{civ_id} README missing Part II bibliography link")
+
         if require_chapter_anchors and not part.get("chapter_anchors"):
             errors.append(f"{part_id} missing chapter_anchors")
 

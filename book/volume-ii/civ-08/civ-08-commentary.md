@@ -94,135 +94,26 @@ Every claim below is tied to the transcript body in `civ-08-transcript.md`.
 - **Delian League / Athenian Empire**: the defensive alliance turned revenue system under Athenian control. `civ-08-transcript.md:77-86`
 - **Rat Utopia**: the behavioral analogy used to explain abundance, blocked status, violence, ritual breakdown, and collapse. `civ-08-transcript.md:111-126`
 - **Analogy boundary**: the lecture's own reminder that rats and humans are not identical because humans can reason and adapt. `civ-08-transcript.md:123-126`
+---
+
+## Part apparatus
+
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part II live in the Part files:
+
+- [Part II commentary](../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#civ-08) — Hellenic grammar, prediction ledger, Great Books sections
+- [Part II bibliography](../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md)
+
+Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
-
-Explicitly testable items only.
-
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| Later Greek chapters will treat theater and philosophy as responses to the democratic and imperial crisis exposed here. | E | Later chapters treat theater and philosophy as detached from Athenian crisis. | 2026-05-13 | Pending | The lecture previews theater and philosophy next. `civ-08-transcript.md:122-123` |
-| Later political analysis will continue treating class conflict as conflict among elites or aspiring elites more than poor versus rich revolt. | E | Later chapters return to a simple poor/rich revolt model. | 2026-05-13 | Pending | The chapter states this as a major course lesson. `civ-08-transcript.md:52-55`, `civ-08-transcript.md:94-100` |
-| Later chapters will use Athens as a case where a rising culture's strength becomes its cause of decline. | SI | Later chapters treat Athenian eudaimonia as only beneficial. | 2026-05-13 | Pending | The lecture states this irony directly. `civ-08-transcript.md:90-91` |
-| Future review will need to keep Rat Utopia as analogy, not direct historical proof. | C | Later commentary treats rat behavior as sufficient evidence for human war causation. | 2026-05-13 | Pending | This is a review guardrail supported by the lecture's own human/rat distinction. `civ-08-transcript.md:123-126` |
-
-**Meta-Prediction Patterns**
-
-- The lecture treats war as an outlet for internal status conflict.
-- It reads imperial democracy as both creative and self-destabilizing.
-- It uses animal behavior as a metaphor for status blockage, but the metaphor requires a human layer of reason, institutions, culture, and adaptation.
-
----
-
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| The Sparta/China analogy is suggestive but risks flattening major differences between Greek polis slavery and Chinese imperial governance. | `civ-08-transcript.md:40-42` | The lecture uses China to explain Sparta's conservatism and isolation. | High |
-| Athenian democracy as elite factional struggle is useful but may understate participation by ordinary male citizens and exclude women, slaves, and foreigners from the definition. | `civ-08-transcript.md:52-55` | The lecture narrows democracy to elite factional conflict. | Medium |
-| Persian War strategy is reconstructed in a highly compressed way; alternative military and logistical readings may complicate the claim that Persia should easily have won. | `civ-08-transcript.md:68-76` | The lecture makes strategic error central to the story. | Medium |
-| The Pericles-as-corruption frame should be balanced against other readings of democratic reform, public works, and civic ideology. | `civ-08-transcript.md:79-86` | The lecture intentionally demythologizes Pericles. | Medium |
-| Rat Utopia is an analogy from animal behavior and should not be treated as a direct explanation of human war, empire, or status conflict. | `civ-08-transcript.md:111-126` | The chapter uses it as the closing evidence for the Peloponnesian War theory, while also saying humans can reason and adapt differently from rats. | High |
-| Claims that Cleon and Brasidas were probably assassinated are speculative in the lecture and need external support before stronger publication. | `civ-08-transcript.md:101-104` | This is one of the chapter's sharpest conjectural moves. | High |
-
-**Analogy Guardrails**
-
-- Treat Rat Utopia as a status-blockage metaphor, not as proof that animal experiments explain human war.
-- Preserve the lecture's distinction between rats and humans: human reasoning, culture, institutions, and adaptation can interrupt the pattern.
-- Do not use the analogy to imply that abundance itself causes collapse; the lecture's mechanism is abundance plus blocked status movement plus breakdown of ritualized social order.
-- Keep the Peloponnesian War argument anchored in the transcript's political claims before invoking the experiment.
-
-**Open Questions Raised by Counter-Readings**
-
-- How far should Rat Utopia be used as explanatory analogy versus illustrative metaphor?
-- Which Thucydidean or modern historiographic sources should anchor the Peloponnesian War interpretation?
-- How should public notes distinguish Athenian democracy, Athenian empire, and Athenian elite politics?
-- What human mechanisms correspond to "ritual breakdown" in the analogy: institutions, norms, civic education, family structure, or status pathways?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- **Connection to `civ-07`**: the polis and eudaimonia introduced through Homer now become institutional and imperial forces.
-- **Connection to `gb-03`** (Homer support ring): open when Achilles/eudaimonia needs close-read depth before this chapter — `arete`, prophecy (die young as hero), and Odysseus speech-as-reality in the Great Books lecture; `civ-08` here **names** eudaimonia and routes it into Sparta/Athens competition, ostracism, and empire.
-- **Connection to `civ-09`**: theater becomes the next forum where Athens reflects on the political violence and empire described here.
-- **Connection to `civ-10`**: Socrates and Plato emerge from the crisis of democratic judgment after the Peloponnesian War.
-- **Broader Civilizational Pattern**: abundance can create blocked status movement, and blocked status can turn social energy toward war.
-- **Strategic Implications**: institutions often fight wars for internal status management as much as for external victory.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-Internal notes only. Keep this section concise and review-oriented.
-
-- Check named sources and spellings before public polish: Sparta, helots, agoge, Athens, eudaimonia, ostracism, Marathon, Thermopylae, Salamis, Plataea, Themistocles, Xerxes, Delian League, Pericles, Cleon, Brasidas, Lysander, and John B. Calhoun.
-- Add external reading on Thucydides, Athenian empire, Spartan society, and Calhoun's experiments before broader publication.
-- Treat Rat Utopia as high-risk analogy requiring careful caveats in any reader-facing expansion.
-- In the next review pass, decide whether the Rat Utopia material should remain in the main causal chain or move into a clearly marked analogy note.
-
----
-
-**Contributor Notes**
-
-- Primary annotator: Codex
-- Reviewers: pending
-- Version: 1.1 in-review
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Rat Utopia: keep analogy guardrailed per lecture human/rat distinction.
+- Cleon/Brasidas assassination claims need external support.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Cross-chapter work: use Part apparatus; do not duplicate Part bibliography here.

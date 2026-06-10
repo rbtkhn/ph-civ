@@ -22,6 +22,12 @@
 
 {corridor_links}
 
+<!-- When Part apparatus exists (hybrid pilot):
+## Apparatus
+- [Part commentary](part-NN-{slug}-commentary.md)
+- [Part bibliography](part-NN-{slug}-bibliography.md)
+-->
+
 ## Navigation
 
 - {prev_link}

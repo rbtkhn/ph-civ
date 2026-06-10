@@ -91,123 +91,26 @@ Every claim below is tied to the transcript body in `civ-07-transcript.md`.
 - **Human psychology**: the Iliad's attention to motivation, guilt, anger, shame, grief, and remorse. `civ-07-transcript.md:74-80`
 - **Metaphor**: a connection between previously unconnected things, treated as a tool for thought. `civ-07-transcript.md:81-82`
 - **Scholar-official literacy monopoly**: the China comparison in which elite control of writing limits poetic independence. `civ-07-transcript.md:87-93`
+---
+
+## Part apparatus
+
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part II live in the Part files:
+
+- [Part II commentary](../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#civ-07) — Hellenic grammar, prediction ledger, Great Books sections
+- [Part II bibliography](../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md)
+
+Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
-
-Explicitly testable items only.
-
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-06-09) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| Later Greek chapters will continue treating Homer as the standard that later writers and thinkers aspire to match. | E | Later chapters do not use Homer as a model for Plato, Thucydides, or Greek cultural ambition. | 2026-06-09 | Partially supported (mutated) | Poet-supremacy continues: `civ-08` (Homer/eudaimonia), `civ-09` (playwright honor), `civ-10` (Plato aspires to Aeschylus/Sophocles/Euripides, not Homer by name). `gb-03` deepens poet-legislator doctrine. Thucydides "become Homer" branch not supported beyond this lecture. `civ-07-transcript.md:90-93` |
-| Later chapters will frame Greek civilization as a product of destruction and decentralization rather than uninterrupted Bronze Age continuity. | E | Later chapters treat Greek creativity as continuous with centralized Mycenaean power. | 2026-06-09 | Confirmed | `civ-08` opens with explicit Bronze Age collapse → innovation recap. `civ-07-transcript.md:35-40`, `civ-07-transcript.md:93-94` |
-| The Greece/China contrast will recur as a contrast between open poetic imagination and bureaucratic literacy control. | SI | Later chapters abandon the literacy/censorship contrast. | 2026-06-09 | Partially supported (refocused) | China comparison recurs (`civ-08` Sparta analogy; `civ-09` schools/media/entertainment) but literacy/censorship mechanism not carried forward until `civ-10` censorship aside. `civ-07-transcript.md:85-93` |
-
-**Meta-Prediction Patterns**
-
-- The lecture treats civilizational creativity as a post-collapse recombination of politics, language, and art.
-- It places poets, not generals or kings, at the origin of Greek self-understanding.
-
----
-
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| Calling Greek civilization the greatest civilization is a course frame and value judgment, not a neutral historical conclusion. | `civ-07-transcript.md:32-35` | The lecture opens with a strong civilizational ranking. | High |
-| The claim that Homer creates empathy or human psychology may overstate novelty, even if the Iliad is a major literary threshold. | `civ-07-transcript.md:72-84` | The lecture treats the Iliad as a first in human civilization. | Medium |
-| The alphabet widened possibilities for literacy, but actual literacy rates and educational access still require evidence. | `civ-07-transcript.md:45-58` | The lecture moves quickly from writing system to cognitive revolution. | Medium |
-| The Greece/China contrast risks simplifying Chinese literature, thought, and poetic culture. | `civ-07-transcript.md:85-93` | The comparison is central to the chapter's explanation of divergence. | High |
-| Oral culture's memory and intelligence claims are useful pedagogically but should not be taken as a literal cognitive ranking of ancient and modern people. | `civ-07-transcript.md:52-55` | The lecture states older oral people were smarter in this respect. | Medium |
-
-**Open Questions Raised by Counter-Readings**
-
-- How should future notes distinguish Homer as historical author, oral tradition, and civilizational symbol?
-- What external sources should anchor claims about alphabetic literacy and Greek creativity?
-- How should the China comparison be revised or bounded before publication polish?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- **Connection to `civ-06`**: Bronze Age collapse creates the broken environment from which Greek innovation emerges.
-- **Connection to `civ-08`**: the polis and eudaimonia prepare the Sparta/Athens contrast and later Peloponnesian War analysis.
-- **Connection to `civ-09` / `civ-10`**: poet-supremacy mutates — playwrights as democratic teachers (`civ-09`), then Plato trained as playwright and aspires to Aeschylus/Sophocles/Euripides (`civ-10`); Thucydides-as-Homer branch not carried forward.
-- **Connection to `gb-03`**: optional [Homer support ring](../../../data/corridors/homer-to-tolstoy-support-ring.md) close-read after this survey (`arete`, `eudaimonia`, speech-as-reality).
-- **Broader Civilizational Pattern**: destruction can clear space for new symbolic orders, especially when language and political form change together.
-- **Strategic Implications**: soft cultural technologies such as writing systems and epic memory can shape a civilization as deeply as military institutions.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-Internal notes only. Keep this section concise and review-oriented.
-
-- Check named sources and spellings before public polish: Homer, Iliad, Odyssey, Plato, Thucydides, polis, Phoenicians, Egypt, Sumer, Achilles, Priam, Patroclus, Agamemnon, Hector, Paris, Helen, and classical Chinese.
-- Add external reading on Greek literacy, Homeric oral tradition, and the alphabet before broader publication.
-- Revisit the China comparison for nuance before final review.
-
----
-
-**Contributor Notes**
-
-- Primary annotator: Codex
-- Reviewers: pending
-- Version: 1.0 in-review
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Homer as author vs oral tradition before publication polish.
+- China comparison nuance; external literacy sources.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Cross-chapter work: use Part apparatus; do not duplicate Part bibliography here.

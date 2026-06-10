@@ -35,6 +35,20 @@ Ten **Part doorways** overlay the [interwoven civilization spine](../interwoven-
 - Open the **interwoven spine** for canonical order; use Part doorways for law-discovery questions, companion weave, and corridor links.
 - **Part** here ≠ lecture transcript "Part I / Part II" ≠ CIV-STATE Part 1/2/3.
 
+## Part apparatus (hybrid commentary pilot)
+
+When a Part has thick synthesis, use three sibling files:
+
+| File | Role |
+|------|------|
+| `part-NN-{slug}.md` | Doorway — navigation, weave, corridors |
+| `part-NN-{slug}-commentary.md` | Thick synthesis — prediction ledger, gb sections, counter-readings |
+| `part-NN-{slug}-bibliography.md` | External sources — tagged `supports: civ-NN` / `gb-NN` |
+
+**Pilot:** Part II only (`part-02-hellenic-world-*`). Chapter folders (`civ-07`–`civ-13`) keep thin Layer 0–2 commentaries and link here.
+
+Registry fields (optional per part): `commentary_path`, `bibliography_path` in [`volume-i-parts.json`](../../../data/parts/volume-i-parts.json).
+
 ## Part boundary tour
 
 Machine-readable ten-stop tour: [`data/routes/part-boundary-tour.json`](../../../data/routes/part-boundary-tour.json) (complements [`ten_route_spine_seed`](../../../data/routes/seed.json)).
