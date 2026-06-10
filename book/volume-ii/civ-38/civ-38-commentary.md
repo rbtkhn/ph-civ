@@ -13,6 +13,9 @@ template_family: civilization-commentary
 template_version: 1
 template_scope: civilization-only
 companion_transcript_path: ./civ-38-transcript.md
+part_id: part-07-world-after-rome
+part_commentary_path: ../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-38
+part_bibliography_path: ../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md
 completeness_state: in-review
 status: in-review
 commentary_status: in-review
@@ -26,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +65,12 @@ Every claim below is tied to the transcript body in civ-38-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture uses China to test models developed elsewhere in the Civilization course. | civ-38-transcript.md:32 | Explicit / Strong Implied | High |
-| 2 | China is presented as a historically creative civilization that enabled key technologies of modernity. | civ-38-transcript.md:32 | Explicit / Strong Implied | High |
-| 3 | The Warring States and Hundred Schools are framed as foundations of Chinese civilization. | civ-38-transcript.md:32 | Explicit / Strong Implied | High |
-| 4 | Open cooperative competition is used to explain Chinese intellectual formation. | civ-38-transcript.md:32 | Explicit / Strong Implied | High |
-| 5 | Confucianism is interpreted as a form of bureaucratic legitimation. | civ-38-transcript.md:32 | Explicit / Strong Implied | High |
-| 6 | The imperial examination system is interpreted as a tool of center-local control, not merely meritocratic fairness. | civ-38-transcript.md:32 | Explicit / Strong Implied | High |
+| 1 | The lecture uses China to test models developed elsewhere in the Civilization course. | `civ-38-transcript.md#china-model-test` | Explicit / Strong Implied | High |
+| 2 | China is presented as a historically creative civilization that enabled key technologies of modernity. | `civ-38-transcript.md#four-inventions-creativity` | Explicit / Strong Implied | High |
+| 3 | The Warring States and Hundred Schools are framed as foundations of Chinese civilization. | `civ-38-transcript.md#hundred-schools-foundations` | Explicit / Strong Implied | High |
+| 4 | Open cooperative competition is used to explain Chinese intellectual formation. | `civ-38-transcript.md#open-cooperative-competition` | Explicit / Strong Implied | High |
+| 5 | Confucianism is interpreted as a form of bureaucratic legitimation. | `civ-38-transcript.md#confucian-bureaucratic-legitimation` | Explicit / Strong Implied | High |
+| 6 | The imperial examination system is interpreted as a tool of center-local control, not merely meritocratic fairness. | `civ-38-transcript.md#examination-center-control` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

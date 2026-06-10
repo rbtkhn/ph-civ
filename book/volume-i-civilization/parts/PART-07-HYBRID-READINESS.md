@@ -1,6 +1,6 @@
 ---
 part_id: part-07-world-after-rome
-plan_status: phase0_inventory
+plan_status: phase3_complete
 scaffold_version: ph_civ_part_commentary_v1
 template_from: part-06-medieval-imagination (hybrid pilot complete)
 inventory_date: 2026-06-09
@@ -47,7 +47,7 @@ Planning doc for extending the **Part II–VI hybrid model** (thin chapter + thi
 
 **Legacy wrappers:** `civilization-spine/civ-35`–`civ-39` READMEs exist; all `volume-ii/` READMEs use **4-step** lattice — **no** Part apparatus links.
 
-**Pin-cite debt:** **Open** — no `scripts/part_vii_pin_cite_prep.py`; transcripts lack `###` section rails; L2 refs use coarse line pointers only.
+**Pin-cite debt:** **Cleared** (2026-06-09) — `scripts/part_vii_pin_cite_prep.py`; all seven chapters sectioned.
 
 **Commentary shape:** Full Layers 0–6 (not slimmed). `completeness_state: in-review` on sampled packets.
 
@@ -80,15 +80,15 @@ Planning doc for extending the **Part II–VI hybrid model** (thin chapter + thi
 
 | Artifact | Status (2026-06-09) |
 |----------|---------------------|
-| `part-07-world-after-rome-commentary.md` | **Phase 1 wedge + `civ-35` live** — `civ-35` + `civ-41` + `gb-10` (close); `civ-36`–`39` stub |
-| `part-07-world-after-rome-bibliography.md` | **Phase 1 wedge stub** |
+| `part-07-world-after-rome-commentary.md` | **Phase 3 complete** — all `civ-35`–`41` + `gb-10` (close) |
+| `part-07-world-after-rome-bibliography.md` | **Phase 3** — `supports:`/`counters:` for `civ-35`–`41` |
 | `volume-i-parts.json` `commentary_path` / `bibliography_path` | **Wired** (2026-06-09) |
 | `part-07-world-after-rome.md` Apparatus block | **Done** — commentary/bib links + Part VI ingress |
 | `PART-07-HYBRID-READINESS.md` | **Done** — this inventory |
-| Pin-cite `civ-35`–`41` | **Partial** — `civ-35`–`37` + wedge `civ-40`/`civ-41`; `civ-38`–`39` **deferred** |
+| Pin-cite `civ-35`–`41` | **Done** — `scripts/part_vii_pin_cite_prep.py` |
 | Slim `civ-35`–`41` commentaries | **Not started** |
-| README 6-step lattice + Part links | **Partial** — `civ-35`/`civ-36` + wedge `civ-40`/`civ-41`; `civ-37`–`39` deferred |
-| Validator Part VII README checks | **Done** — wedge chapters `civ-40`/`civ-41` |
+| README 6-step lattice + Part links | **Done** — all `civ-35`–`41` |
+| Validator Part VII README checks | **Done** — all `civ-35`–`41` |
 | `gb-10` Part VII close section @ `civ-41` | **Done** — wedge § `gb-10` (close pointer) |
 | `civ-41` README 6-step + Part links | **Done** |
 | Pin-cite `civ-41` | **Done** — `scripts/part_vii_pin_cite_civ41.py` |

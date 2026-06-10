@@ -13,6 +13,9 @@ template_family: civilization-commentary
 template_version: 1
 template_scope: civilization-only
 companion_transcript_path: ./civ-39-transcript.md
+part_id: part-07-world-after-rome
+part_commentary_path: ../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-39
+part_bibliography_path: ../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md
 completeness_state: in-review
 status: in-review
 commentary_status: in-review
@@ -26,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +65,12 @@ Every claim below is tied to the transcript body in civ-39-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture argues that Mongol brutality should be explained through constraints and strategy without endorsing it. | civ-39-transcript.md:32 | Explicit / Strong Implied | High |
-| 2 | Steppe culture is contrasted with agricultural empire culture. | civ-39-transcript.md:32 | Explicit / Strong Implied | High |
-| 3 | Nomadic pastoral life is presented as violent, mobile, and competitive. | civ-39-transcript.md:32 | Explicit / Strong Implied | High |
-| 4 | Agricultural empires built walls and fortifications in response to steppe pressure. | civ-39-transcript.md:32 | Explicit / Strong Implied | High |
-| 5 | The Mongols are described as open to absorbing useful specialists. | civ-39-transcript.md:32 | Explicit / Strong Implied | High |
-| 6 | Mythology is treated as an expression of persistent cultural values. | civ-39-transcript.md:32 | Explicit / Strong Implied | High |
+| 1 | The lecture argues that Mongol brutality should be explained through constraints and strategy without endorsing it. | `civ-39-transcript.md#mongol-brutality-constraints` | Explicit / Strong Implied | High |
+| 2 | Steppe culture is contrasted with agricultural empire culture. | `civ-39-transcript.md#nomadic-pastoral-culture` | Explicit / Strong Implied | High |
+| 3 | Nomadic pastoral life is presented as violent, mobile, and competitive. | `civ-39-transcript.md#steppe-agricultural-contrast` | Explicit / Strong Implied | High |
+| 4 | Agricultural empires built walls and fortifications in response to steppe pressure. | `civ-39-transcript.md#walls-fortifications-response` | Explicit / Strong Implied | High |
+| 5 | The Mongols are described as open to absorbing useful specialists. | `civ-39-transcript.md#mongol-specialist-absorption` | Explicit / Strong Implied | High |
+| 6 | Mythology is treated as an expression of persistent cultural values. | `civ-39-transcript.md#mythology-cultural-values` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

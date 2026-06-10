@@ -266,8 +266,7 @@ def validate_volume_i_parts(
                     errors.append(f"{civ_id} README missing Part VI bibliography link")
 
         if part_id == "part-07-world-after-rome" and commentary_path:
-            wedge_chapters = ("civ-40", "civ-41")
-            for civ_id in wedge_chapters:
+            for civ_id in chapters:
                 if civ_id not in chapters:
                     errors.append(f"{part_id} missing wedge chapter in spine: {civ_id}")
                     continue

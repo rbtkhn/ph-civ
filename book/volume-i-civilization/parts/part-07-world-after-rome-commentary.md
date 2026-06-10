@@ -10,9 +10,9 @@ spine_chapters:
   - civ-39
   - civ-40
   - civ-41
-commentary_status: phase1_wedge_civ41
+commentary_status: phase3_complete
 canvas_status: open
-analysis_depth: pilot_wedge
+analysis_depth: phase3_complete
 scaffold_version: ph_civ_part_commentary_v1
 doorway_path: ./part-07-world-after-rome.md
 bibliography_path: ./part-07-world-after-rome-bibliography.md
@@ -21,7 +21,7 @@ representation_not_endorsement: true
 
 # Part VII Commentary — The World After Rome
 
-**Phase 3 wedge** (2026-06-09): `civ-35`–`37` + `civ-40` + `civ-41` pin-cited; `gb-10` (close); validator/docs **Done** for wedge. `civ-38`–`39` remain **stub headers** until pin-cite + slim pass.
+**Phase 3 complete** (2026-06-09): all `civ-35`–`41` pin-cited; `gb-10` (close); ledger/corridor/bib synthesis closed. Slimming deferred to Volume I final pass (Slice 9).
 
 **Bibliography:** [part-07-world-after-rome-bibliography.md](./part-07-world-after-rome-bibliography.md)  
 **Readiness inventory:** [PART-07-HYBRID-READINESS.md](./PART-07-HYBRID-READINESS.md)
@@ -36,10 +36,10 @@ representation_not_endorsement: true
 
 | Prediction | Strength | Falsifier | Status (2026-06-09) | Source / notes |
 |------------|----------|-----------|---------------------|----------------|
-| Homer-to-Dante corridor closes at `civ-41` with GB cluster support | E | `civ-41` detached from `gb-09`–`gb-12` | **Partially supported** | wedge § `civ-41` + `gb-10` close |
+| Homer-to-Dante corridor closes at `civ-41` with GB cluster support | E | `civ-41` detached from `gb-09`–`gb-12` | **Partially supported** | § `civ-41` + `gb-10` close; reader completes GB steps 10–13 |
 | `civ-40` church power sets up `civ-41` quiet revolution | C | `civ-41` ignores church frame | **Partially supported** | § `civ-40` bridge live |
 | Inferno cosmology (`gb-10`) returns as Renaissance imagination motor | C | `civ-41` contradicts Part VI `gb-10` | **Partially supported** | `gb-10` (close) cross-link |
-| Part VI oceanic-currents bridge lands in `civ-35`+ | C | `civ-35` ignores `civ-31` | **Pending** | ingress from Part VI ledger |
+| Part VI oceanic-currents bridge lands in `civ-35`+ | C | `civ-35` ignores `civ-31` | **Partially supported** | § `civ-35` open-cooperative frame; pairs `civ-38` |
 | Vikings as fifth pillar reshape Western-civ framing | C | `civ-35` stays four-pillar only | **Partially supported** | § `civ-35` live |
 | Oral→literary loss grammar carries into Homer/Dante corridor | C | `civ-36` detached from `civ-29` oral frame | **Partially supported** | § `civ-36` live |
 | Islamic Golden Age divergence vs medieval Europe | C | `civ-37` collapses to Europe-only frame | **Partially supported** | § `civ-37` live |
@@ -53,15 +53,15 @@ representation_not_endorsement: true
 
 ## Chapter sections
 
-**World-order pause @ `civ-38`–`39`:** deferred thick sections. **Plural orders + bridge + close @ `civ-35`–`37`, `civ-40`–`41`:** live below.
+**World-order pause @ `civ-35`–`40`:** plural Eurasian orders before Dante re-entry @ `civ-41`. All seven spine chapters **live** below.
 
 | Chapter | Status | Draft weight |
 |---------|--------|--------------|
 | `civ-35` | **Live** | Thick — Viking fifth-pillar open (pin-cited) |
 | `civ-36` | **Live** | Medium — Norse oral/literary memory (pin-cited) |
 | `civ-37` | **Live** | Thick — Islamic Golden Age (pin-cited) |
-| `civ-38` | **Deferred** | Medium — China twilight |
-| `civ-39` | **Deferred** | Thick — Mongol shatter |
+| `civ-38` | **Live** | Medium — China twilight (pin-cited) |
+| `civ-39` | **Live** | Thick — Mongol shatter (pin-cited) |
 | `civ-40` | **Live** | Thick — church/empire bridge (pin-cited) |
 | `civ-41` | **Live** | Thick — corridor close (pin-cited) |
 
@@ -141,7 +141,7 @@ representation_not_endorsement: true
 
 **Close-read arc:** Divergence question → Islam orientation → Baghdad center → House of Wisdom translation → Mongol decline → empire-literature close.
 
-**Part links:** follows [`civ-36`](#civ-36); forward `civ-38` China twilight (**deferred** §); pairs [Part V `civ-24`–`28`](./part-05-christianity-and-islam-commentary.md) Abrahamic ingress (bounded).
+**Part links:** follows [`civ-36`](#civ-36); forward [`civ-38`](#civ-38) China twilight; pairs [Part V `civ-24`–`28`](./part-05-christianity-and-islam-commentary.md) Abrahamic ingress (bounded).
 
 **Counter-readings (`civ-37`):**
 
@@ -152,7 +152,67 @@ representation_not_endorsement: true
 | Frye empire-literature borrow | Interpretive scaffold — not lecture primary source | Medium |
 | Religious comparative claims | Representation_not_endorsement; external theological review | High |
 
-**civ-37 predictions:** Eurasian plural-order frame **Partially supported**; China/Mongol handoff **Pending** (`civ-38`/`civ-39`); pin-cite **cleared** (2026-06-09).
+**civ-37 predictions:** Eurasian plural-order frame **Partially supported**; China/Mongol handoff **Partially supported** (pairs `civ-38`/`civ-39`); pin-cite **cleared** (2026-06-09).
+
+### civ-38
+
+**China twilight (comparative order test).** Follows [`civ-37`](#civ-37) Abbasid pivot; China as **model test** for course theories; four inventions + Warring States/Hundred Schools; open cooperative competition; Confucian bureaucratic legitimation; imperial examination as center-local control; Song-era creativity decline question.
+
+**Major claims** (see [`civ-38-transcript.md`](../../volume-ii/civ-38/civ-38-transcript.md)):
+
+| # | Claim | Ref | Confidence |
+|---|-------|-----|------------|
+| 1 | Lecture uses China to test models developed elsewhere in the course | `civ-38-transcript.md#china-model-test` | High |
+| 2 | China presented as historically creative civilization (compass, paper, print, gunpowder) | `civ-38-transcript.md#four-inventions-creativity` | High |
+| 3 | Warring States and Hundred Schools framed as foundations of Chinese civilization | `civ-38-transcript.md#hundred-schools-foundations` | High |
+| 4 | Open cooperative competition explains Chinese intellectual formation | `civ-38-transcript.md#open-cooperative-competition` | High |
+| 5 | Confucianism interpreted as bureaucratic legitimation | `civ-38-transcript.md#confucian-bureaucratic-legitimation` | High |
+| 6 | Imperial examination system as center-local control, not mere meritocratic fairness | `civ-38-transcript.md#examination-center-control` | High |
+
+**Close-read arc:** Model-test frame → inventions/creativity → Hundred Schools → open competition → examination control → Confucian legitimation.
+
+**Part links:** follows [`civ-37`](#civ-37); forward [`civ-39`](#civ-39) Mongol shatter; pairs [`civ-35`](#civ-35) plural-order open + Part VI `civ-31` oceanic frame (**Partially supported**).
+
+**Counter-readings (`civ-38`):**
+
+| Topic | Counter-reading | Strength |
+|-------|-----------------|----------|
+| Song creativity decline | Multi-causal; lecture compression | High |
+| Exam meritocracy narrative | Bureaucratic control vs fairness story | High |
+| Confucianism as legitimation | Interpretive scaffold — not settled theology | Medium |
+| China-as-model-test | Comparative risk — bounded representation | High |
+
+**civ-38 predictions:** comparative order stress test **Partially supported**; Mongol handoff **Partially supported** (pairs `civ-39`); pin-cite **cleared** (2026-06-09).
+
+### civ-39
+
+**Mongol shatter (steppe rupture).** Follows [`civ-38`](#civ-38) China twilight; Mongol brutality explained through constraints/strategy (not endorsement); nomadic pastoral vs agricultural empires; walls/fortifications response; selective specialist absorption; mythology as persistent value memory; sets church/Crusades bridge in [`civ-40`](#civ-40).
+
+**Major claims** (see [`civ-39-transcript.md`](../../volume-ii/civ-39/civ-39-transcript.md)):
+
+| # | Claim | Ref | Confidence |
+|---|-------|-----|------------|
+| 1 | Mongol brutality explained through constraints and strategy without endorsing it | `civ-39-transcript.md#mongol-brutality-constraints` | High |
+| 2 | Steppe culture contrasted with agricultural empire culture | `civ-39-transcript.md#steppe-agricultural-contrast` | High |
+| 3 | Nomadic pastoral life presented as violent, mobile, and competitive | `civ-39-transcript.md#nomadic-pastoral-culture` | High |
+| 4 | Agricultural empires built walls and fortifications in response to steppe pressure | `civ-39-transcript.md#walls-fortifications-response` | High |
+| 5 | Mongols described as open to absorbing useful specialists | `civ-39-transcript.md#mongol-specialist-absorption` | High |
+| 6 | Mythology treated as expression of persistent cultural values | `civ-39-transcript.md#mythology-cultural-values` | High |
+
+**Close-read arc:** Brutality/constraints frame → nomadic pastoral → agricultural contrast → walls response → specialist absorption → mythology close.
+
+**Part links:** follows [`civ-38`](#civ-38); forward [`civ-40`](#civ-40) Crusades/church bridge; pairs [`civ-37`](#civ-37) Mongol sack of Baghdad (**Partially supported**).
+
+**Counter-readings (`civ-39`):**
+
+| Topic | Counter-reading | Strength |
+|-------|-----------------|----------|
+| Violence-as-strategy explanation | Constraint logic ≠ moral endorsement | High |
+| Brutality reputation | Lecture reframing — historiography varies | High |
+| Selective openness | Ideal-type; absorption policies uneven | Medium |
+| Mythology-as-values | Interpretive close — not settled anthropology | Medium |
+
+**civ-39 predictions:** steppe shatter frame **Partially supported**; church bridge handoff **Partially supported** (pairs `civ-40`); pin-cite **cleared** (2026-06-09).
 
 ### civ-40
 
@@ -171,7 +231,7 @@ representation_not_endorsement: true
 
 **Close-read arc:** Crusades questions → Jesus/poverty contrast → church-as-empire → salvation economy → scapegoating → afterlife close.
 
-**Part links:** follows `civ-39` Mongol return; forward [`civ-41`](#civ-41); pairs [Part VI `gb-09`](./part-06-medieval-imagination-commentary.md#gb-09) anti-Church love frame (lecture).
+**Part links:** follows [`civ-39`](#civ-39) Mongol return; forward [`civ-41`](#civ-41); pairs [Part VI `gb-09`](./part-06-medieval-imagination-commentary.md#gb-09) anti-Church love frame (lecture).
 
 **Counter-readings (`civ-40`):**
 
