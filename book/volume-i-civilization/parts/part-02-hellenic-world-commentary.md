@@ -12,7 +12,7 @@ spine_chapters:
   - civ-13
 commentary_status: in-review
 canvas_status: open
-analysis_depth: pilot_drafted
+analysis_depth: pilot_deepened
 scaffold_version: ph_civ_part_commentary_v1
 doorway_path: ./part-02-hellenic-world.md
 bibliography_path: ./part-02-hellenic-world-bibliography.md
@@ -106,15 +106,67 @@ Aristotle state-project thesis; Hellenistic kingdoms; Library of Alexandria; Gre
 
 ### gb-02
 
-**Weave role:** interwoven @ `civ-07`. **Status:** stub — open [`gb-02` transcript](../../volume-v/gb-02/gb-02-transcript.md) and card; deepen Iliad/Odyssey close-read alongside `civ-07` survey.
+**Weave role:** interwoven @ `civ-07`. **Canonical Part section** for *Homer and the Invention of the Human* (Great Books #2).
+
+**Core thesis:** The Iliad invents readable humanity — characters who hear themselves speak; epic becomes mirror for empathy, imagination, and civilizational derivation (Thucydides as Homeric speech-world).
+
+**Major claims** (see [`gb-02-transcript.md`](../../volume-v/gb-02/gb-02-transcript.md)):
+
+| # | Claim | Ref | Confidence |
+|---|-------|-----|------------|
+| 1 | Achilles exercise: great books excite imagination; characters feel real though fictional | `#opening-exercise` | High |
+| 2 | Bloom frame: to be human is to hear yourself speak — consciousness as imaginative dissociation | `#bloom-consciousness` | High |
+| 3 | Book 1 council: Agamemnon/Achilles fight is narrative control, not mere insult exchange | `#book1-council` | High |
+| 4 | Every Iliad character (Nestor, observers included) has independent interior life | `#living-characters` | High |
+| 5 | Central conflict = struggle over who controls the story (face, sympathy, suicidal stubbornness) | `#narrative-control` | High |
+| 6 | Homer mystery: one mind constructs universe of real people — archetype/universe-access theory offered | `#homer-mystery` | Medium |
+| 7 | Brain as antenna to universal consciousness; Jung archetypes; poets as prophets who speak truth | `#archetype-theory` | Medium |
+| 8 | Prophet ≠ fortune-teller; truth is eternal (past/present/future); moral prediction (evil returns) | `#prophet-truth` | Medium |
+| 9 | Greek intellectuals (Plato, Thucydides, etc.) operate inside Homer's universe | `#homer-derivatives` | High |
+
+**Part links:** complements `civ-07` survey (polis/alphabet) with **interiority** close-read; pairs with `gb-03` on speech-as-reality; forward `gb-07` anti-Homer inversion preview in Part III.
+
+**gb-02 predictions:** poet-supremacy and narrative-competition frames support Part ledger rows on institution and theater.
 
 ### gb-05
 
-**Weave role:** interwoven @ `civ-07`. **Status:** stub — companion Homer unit; migrate Layer 2–3 here when drafted.
+**Weave role:** interwoven @ `civ-07`. **Canonical Part section** for *The Odyssey* (Great Books #5).
+
+**Core thesis:** Odyssey is family trauma and soul-repair — PTSD, depression, and legacy-burden splinter worldview; homecoming reunites splintered souls through love.
+
+**Major claims** (see [`gb-05-transcript.md`](../../volume-v/gb-05/gb-05-transcript.md)):
+
+| # | Claim | Ref | Confidence |
+|---|-------|-----|------------|
+| 1 | Three protagonists (Odysseus, Penelope, Telemachus) share splintered soul / cognitive dissonance | `#family-trauma` | High |
+| 2 | Ancient soul = layered worldview (family, culture, gods); trauma ruptures coherent planning/empathy | `#soul-worldview` | High |
+| 3 | Odysseus feigns madness test — conflicted departure hides desire for Troy glory vs family | `#madness-test` | High |
+| 4 | Trojan-war justification (justice, family, legacy) collapses after victory → PTSD arc | `#justification-collapse` | High |
+| 5 | Odyssey = each character's journey to repair soul; answer is mutual family love | `#family-trauma` / `#soul-worldview` | High |
+| 6 | Agamemnon reverse-psychology scene: soldiers homesick; Odysseus ambivalent about return | `#iliad-book2-bridge` | High |
+
+**Part links:** balances `gb-02`/`gb-03` Iliad-war grammar with **return/inward** education; foreshadows `civ-08`–`civ-10` democratic crisis as trauma management at civic scale.
 
 ### gb-07
 
-**Weave role:** interwoven @ `civ-07`. **Status:** stub — companion Homer unit; migrate when drafted.
+**Weave role:** interwoven @ `civ-07`. **Canonical Part section** for *The Anti-Homer* (Great Books #7) — lecture frame for Virgil/Aeneid as Homer inversion.
+
+**Core thesis:** After Homer memorization built Greek openness (`arete`, `eudaimonia`), Rome answers with **piety/obedience**; Augustus weaponizes the Aeneid to corrupt Homer and block Greek spiritual conquest — Trojan horse as metaphor for Greek culture entering Rome.
+
+**Major claims** (see [`gb-07-transcript.md`](../../volume-v/gb-07/gb-07-transcript.md)):
+
+| # | Claim | Ref | Confidence |
+|---|-------|-----|------------|
+| 1 | Educated Romans memorize Homer; Greek culture threatens Roman soul after conquest | `#greek-after-conquest` | High |
+| 2 | Roman piety vs Greek arete/eudaimonia — conservative obedience vs flourishing excellence | `#piety-vs-arete` | High |
+| 3 | Augustus commissions Aeneid as **anti-Homer** / inversion; schoolboys memorize it as Latin Bible | `#aeneid-as-antihomer` | High |
+| 4 | Aeneid structure: 12 books Odyssey + 12 books Iliad; Dido love plot inverts Homeric generosity | `#aeneid-structure` | High |
+| 5 | Sinon episode: Greek rhetoric/theater as deception — wooden horse = Greek culture poisoning Rome | `#sinon-trojan-horse` | High |
+| 6 | Priam/Pyrrhus rewrite inverts Iliad reconciliation — generosity leads to doom in Virgil | `#priam-inversion` | High |
+| 7 | Virgil wanted to burn poem; imperial commission vs poet's divine gift (lecture frame) | `#virgil-burn` | Medium |
+| 8 | Forward bridge: Dante as antidote to Aeneid poison | `#dante-bridge` | High |
+
+**Part links:** Hellenic Part **counter-pole** — same Homer corridor, Roman inversion; full apparatus migration target is **Part III** (`civ-17`, `gb-08`); keep thin pointer here at Part II weave.
 
 ### gb-03
 
@@ -122,22 +174,22 @@ Aristotle state-project thesis; Hellenistic kingdoms; Library of Alexandria; Gre
 
 **Core thesis:** Poets and prophets overlap as world-disclosing voices; language creates public reality.
 
-**Major claims** (transcript-anchored; see [`gb-03-transcript.md`](../../volume-v/gb-03/gb-03-transcript.md)):
+**Major claims** (transcript-anchored; section anchors in [`gb-03-transcript.md`](../../volume-v/gb-03/gb-03-transcript.md)):
 
 | # | Claim | Ref | Confidence |
 |---|-------|-----|------------|
-| 1 | Iliad can birth civilization because poetic speech creates shared reality | `:33` | High |
-| 2 | `arete` — war (Achilles) and speech (Odysseus) as excellence forms | `:33` | High |
-| 3 | `eudaimonia` — flourishing via excellence; Achilles chooses heroic death | `:33` | High |
-| 4 | War and speech impose reality; embassy speeches as narrative war | `:33` | High |
-| 5 | Speeches project movies; Odysseus expands, Achilles contracts (`I`) | `:33` | High |
-| 6 | Poetic technique + Iliad memorization → rhetoric → democracy | `:33` | High |
-| 7 | Kant (lecture paraphrase): phenomena shaped via time/space; poets create language/reality | `:33-34` | Medium |
-| 8 | Poets as prophets; Homer summons living characters; Iliad as portal | `:34` | Medium |
-| 9 | Reading Iliad increases divine "download speed"; GB connects to God | `:34` | Medium |
-| 10 | Shelley: theater + greatness; tragedy mirror; hubris → catharsis | `:35` | High |
-| 11 | Poets combine eternal and material; words reanimate soul-memory | `:35` | Medium |
-| 12 | Shelley: poets as legislators; poetry basis of civilization | `:35` | High |
+| 1 | Iliad can birth civilization because poetic speech creates shared reality | `#arete-embassy-and-democracy` | High |
+| 2 | `arete` — war (Achilles) and speech (Odysseus) as excellence forms | `#arete-embassy-and-democracy` | High |
+| 3 | `eudaimonia` — flourishing via excellence; Achilles chooses heroic death | `#arete-embassy-and-democracy` | High |
+| 4 | War and speech impose reality; embassy speeches as narrative war | `#arete-embassy-and-democracy` | High |
+| 5 | Speeches project movies; Odysseus expands, Achilles contracts (`I`) | `#arete-embassy-and-democracy` | High |
+| 6 | Poetic technique + Iliad memorization → rhetoric → democracy | `#arete-embassy-and-democracy` | High |
+| 7 | Kant (lecture paraphrase): phenomena shaped via time/space; poets create language/reality | `#kant-language-poets` | Medium |
+| 8 | Poets as prophets; Homer summons living characters; Iliad as portal | `#homer-summons-characters` | Medium |
+| 9 | Reading Iliad increases divine "download speed"; GB connects to God | `#homer-summons-characters` | Medium |
+| 10 | Shelley: theater + greatness; tragedy mirror; hubris → catharsis | `#shelley-defense-theater` | High |
+| 11 | Poets combine eternal and material; words reanimate soul-memory | `#shelley-poet-legislator` | Medium |
+| 12 | Shelley: poets as legislators; poetry basis of civilization | `#shelley-poet-legislator` | High |
 
 **gb-03 predictions** (folded into Part ledger above): `civ-09` theater confirmed; poet-supremacy mutated; Iliad-mem chain partially refocused.
 
@@ -182,11 +234,11 @@ Scholarship-grade alternatives; sources in [bibliography](./part-02-hellenic-wor
 
 ### Open Questions
 
-- Split transcript megagraphs for finer pin-cites (`gb-03`, `civ-07`).
+- Add matching section anchors to `gb-02`/`gb-05` transcripts (gb-03 done 2026-06-09).
 - External-verify Rat Utopia, Cleon/Brasidas assassination claims, Aristotle authorship debate.
 - Track Christianity/Plato predictions in Part V+.
 
 ### Build Notes
 
-- Pilot: Part II only. Extend `ph_civ_part_commentary_v1` to Parts I, III–X when ready.
-- gb-02/05/07: migrate from seed commentaries when deepened.
+- Pilot: Part II only. Extend `ph_civ_part_commentary_v1` to Parts I, III–X when ready — see [PART-03-HYBRID-READINESS.md](./PART-03-HYBRID-READINESS.md).
+- gb-02/05/07: Part sections drafted; seed `gb-*-commentary.md` files may stub-route like gb-03 when operator approves.

@@ -28,6 +28,12 @@ How does imperial machinery acquire a literary soul?
 - [homer-to-tolstoy](../../../data/corridors/homer-to-tolstoy.md)
 - [homer-to-dante](../../../data/corridors/homer-to-dante.md)
 
+## Apparatus
+
+- [Part III commentary](part-03-roman-imperium-commentary.md) — cross-chapter synthesis, `gb-08` section, prediction ledger
+- [Part III bibliography](part-03-roman-imperium-bibliography.md) — external sources (tagged by chapter/gb)
+- [Part III hybrid readiness](PART-03-HYBRID-READINESS.md) — Phase 1–3 inventory
+
 ## Navigation
 
 - **Previous:** [Part II — The Hellenic World](part-02-hellenic-world.md)

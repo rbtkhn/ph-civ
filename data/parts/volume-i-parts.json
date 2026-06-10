@@ -150,6 +150,8 @@
       ],
       "spine_slice_warning": true,
       "doorway_path": "book/volume-i-civilization/parts/part-03-roman-imperium.md",
+      "commentary_path": "book/volume-i-civilization/parts/part-03-roman-imperium-commentary.md",
+      "bibliography_path": "book/volume-i-civilization/parts/part-03-roman-imperium-bibliography.md",
       "previous_part_id": "part-02-hellenic-world",
       "next_part_id": "part-04-ancient-foundations",
       "secret_history_companions": [],
