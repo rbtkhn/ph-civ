@@ -24,6 +24,10 @@ How does sacred legitimacy migrate across revelations and empires?
 
 _No corridor touchpoints in this Part._
 
+## Apparatus (hybrid pilot)
+
+**Status:** Phase 0 inventory — [PART-05-HYBRID-READINESS.md](PART-05-HYBRID-READINESS.md). Commentary/bibliography **not yet created**.
+
 ## Navigation
 
 - **Previous:** [Part IV — The Ancient Foundations](part-04-ancient-foundations.md)

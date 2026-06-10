@@ -20,6 +20,9 @@ representation_not_endorsement: true
 transcript_fidelity: exact_body_match
 corpus_path: ../../../corpus/civilization/civ-22.md
 commentary_path: ./civ-22-commentary.md
+part_id: part-04-ancient-foundations
+part_commentary_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md
+part_bibliography_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md
 ---
 
 # Part I - Civilization #22: The Literary Genesis of the Yahwist

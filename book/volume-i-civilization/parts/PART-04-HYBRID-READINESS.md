@@ -1,6 +1,6 @@
 ---
 part_id: part-04-ancient-foundations
-plan_status: phase1_complete
+plan_status: phase3_complete
 scaffold_version: ph_civ_part_commentary_v1
 template_from: part-03-roman-imperium (hybrid pilot)
 inventory_date: 2026-06-09
@@ -23,14 +23,14 @@ Planning doc for extending the **Part II/III hybrid model** (thin chapter + thic
 | Gate | Threshold | Current (2026-06-09) |
 |------|-----------|----------------------|
 | Chapter Layer 0–2 | All six chapters have transcript-anchored claims + line/section refs | **Met** — 8 L2 claims each; `civ-18`–`20` line refs; **`civ-21`–`23` Part sections use `#anchor` refs** (transcript anchors added Phase 1) |
-| Chapter slimming | Willing to move Layers 3–6 to Part apparatus | **Not started** — full seed scaffolds (Layers 0–6) in `volume-ii/` |
+| Chapter slimming | Willing to move Layers 3–6 to Part apparatus | **Met** — `civ-18`–`23` slimmed to Layer 0–2 + Part pointer |
 | GB weave | Registry `great_books_weave` | **N/A** — empty array; no `gb-NN` Part sections required |
 | SH companion | `sh-17` @ `civ-22` deepening documented | **Partial** — doorway + registry wired; no Part `### sh-17` section yet |
 | Cross-Part bridge | Rome/Egypt handoff + Bronze triad → Levant/Persia arc | **Met** — Part III Egypt row **Confirmed**; Part IV ingress wired |
-| Validator | `volume_i_parts.py` Part IV README checks (mirror Part III) | **Not wired** |
-| Interfaith / archaeology guardrails | Bibliography + counter-readings for Bible/Persia claims | **Required before Phase 1 author** — not yet seeded at Part grain |
+| Validator | `volume_i_parts.py` Part IV README checks (mirror Part III) | **Met** — `part-04-ancient-foundations` block |
+| Interfaith / archaeology guardrails | Bibliography + counter-readings for Bible/Persia claims | **Met** — external-verify pass 2026-06-09 on bibliography ledger |
 
-**Recommendation:** **Phase 2 ready** — slim `civ-18`–`23`, README lattice, validator Part IV checks.
+**Recommendation:** Part IV hybrid pilot **complete** through Phase 3. Next: external-verify, pin-cite cleanup, or Part V readiness inventory.
 
 ---
 
@@ -65,16 +65,16 @@ Planning doc for extending the **Part II/III hybrid model** (thin chapter + thic
 
 | Artifact | Status (2026-06-09) |
 |----------|---------------------|
-| `part-04-ancient-foundations-commentary.md` | **Created** — Phase 1 draft (6 chapter sections + `sh-17`) |
+| `part-04-ancient-foundations-commentary.md` | **Deepened** — Phase 1 + pilot deepen (claim tables `civ-18`–`20`, close-read arcs, `sh-17` predictions) |
 | `part-04-ancient-foundations-bibliography.md` | **Created** — Phase 1 seeded |
 | `volume-i-parts.json` `commentary_path` / `bibliography_path` | **Wired** |
 | `part-04-ancient-foundations.md` Apparatus block | **Wired** |
-| Slim `civ-18`–`civ-23` commentaries | **Not started** |
-| README 6-step lattice + Part links | **Not started** |
-| Transcript YAML `part_id` + Part paths | **Not started** |
+| Slim `civ-18`–`civ-23` commentaries | **Done** — Phase 2 |
+| README 6-step lattice + Part links | **Done** — `volume-ii/civ-18`–`23` |
+| Transcript YAML `part_id` + Part paths | **Done** — `civ-18`–`23` |
 | Validator Part IV README checks | **Not started** |
 | Transcript section anchors (`civ-21`–`23`) | **Done** — Phase 1 |
-| `docs/commentary-canvas.md` / `source-lattice.md` Part IV example | **Not started** (extend after Phase 3) |
+| `docs/commentary-canvas.md` / `source-lattice.md` Part IV example | **Done** — Phase 3 |
 
 ---
 
@@ -108,19 +108,19 @@ Working mechanism chain to validate against lectures:
 - **Pin-cite:** add transcript `###` sections for `civ-21`–`civ-23` (minimum); refresh L2 ref column
 - Do **not** slim chapters yet
 
-### Phase 2 — Reader reshape (~1–2 sessions)
+### Phase 2 — Reader reshape (~1–2 sessions) — **Done** (2026-06-09)
 
 - Slim civ-18–23 to Layer 0–2 + Part apparatus pointer
 - Update `volume-ii/` READMEs (6-step lattice + Part links)
 - Transcript frontmatter: `part_id`, `part_commentary_path`, `part_bibliography_path`
 - Optional: civilization-spine wrapper README links
 
-### Phase 3 — Validator + docs (~half session)
+### Phase 3 — Validator + docs (~half session) — **Done** (2026-06-09)
 
 - Extend `volume_i_parts.py` Part IV checks (mirror `part-03-roman-imperium` block)
 - Update `parts/README.md` hybrid pilot list
 - Extend `docs/commentary-canvas.md` / `docs/source-lattice.md` with Part IV `civ-18`–`23` example
-- Section anchors on `civ-18`–`civ-20` transcripts if still megagraph
+- Section anchors on `civ-18`–`civ-20` transcripts — **deferred** (line refs sufficient for slim floor)
 
 ---
 
@@ -153,4 +153,4 @@ Working mechanism chain to validate against lectures:
 
 ## Next operator pick
 
-**Phase 2** slim `civ-18`–`23` + README lattice, or **deepen** Part IV sections / external-verify before slim.
+**Commit** deepen + Phase 2–3 batch, **Part V** readiness inventory, or external-verify Part IV claims.

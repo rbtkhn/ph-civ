@@ -45,7 +45,7 @@ When a Part has thick synthesis, use three sibling files:
 | `part-NN-{slug}-commentary.md` | Thick synthesis — prediction ledger, gb sections, counter-readings |
 | `part-NN-{slug}-bibliography.md` | External sources — tagged `supports: civ-NN` / `gb-NN` |
 
-**Hybrid pilot:** Part II + Part III — **complete** through Phase 3. Part IV (`part-04-ancient-foundations-*`, `civ-18`–`23`, `sh-17` @ `civ-22`) — **Phase 1 author** complete; Phase 2–3 pending ([PART-04-HYBRID-READINESS.md](PART-04-HYBRID-READINESS.md)). Chapter folders keep thin Layer 0–2 commentaries and link to Part apparatus after Phase 2 slim.
+**Hybrid pilot:** Part II + Part III + Part IV — **complete** through Phase 3 ([PART-04-HYBRID-READINESS.md](PART-04-HYBRID-READINESS.md)). Part IV: `civ-18`–`23`, `sh-17` @ `civ-22` (pointer only). Chapter folders: thin Layer 0–2 + Part apparatus links; validator checks Part IV README wiring.
 
 Registry fields (optional per part): `commentary_path`, `bibliography_path` in [`volume-i-parts.json`](../../../data/parts/volume-i-parts.json).
 

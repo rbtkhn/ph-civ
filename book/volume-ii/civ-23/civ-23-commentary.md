@@ -28,6 +28,8 @@ representation_not_endorsement: true
 canvas_status: open
 analysis_depth: seed
 scaffold_version: ph_civ_commentary_canvas_v1
+part_commentary_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-23
+part_bibliography_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md
 ---
 
 # Commentary - Civilization
@@ -81,106 +83,25 @@ Every claim below is tied to the transcript body in `civ-23-transcript.md`.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
+## Part apparatus
 
-Explicitly testable items only.
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part IV live in the Part files:
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| The next chapter will move from Persian/Jewish transformation into Jesus, Gnosticism, and early Christian reinterpretation. | E | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-05-13 | Pending | In-review control. |
-| Later Christianity chapters should preserve the distinction between Persian influence, Jewish development, and Christian reinterpretation. | C | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-05-13 | Pending | In-review control. |
+- [Part IV commentary](../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-23) — Cyrus/Zoroastrian merge, Christianity forward bridge
+- [Part IV bibliography](../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md)
 
-**Meta-Prediction Patterns**
-
-- The lecture treats religion as a sequence of textual, imperial, theological, and institutional transformations rather than as a single origin story.
-- The chapter should be checked against adjacent Civilization units before any final synthesis is claimed.
+Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| The Zoroastrianism-to-Christianity pathway is important but should not become a single-cause origin story. | `civ-23-transcript.md` | Keeps the in-review chapter bounded. | High |
-| Cyrus-as-Messiah needs careful textual and translation review before final claims. | `civ-23-transcript.md` | Keeps the in-review chapter bounded. | High |
-| Ezra, J/E/P/D, and purity chronology require external source checking. | `civ-23-transcript.md` | Keeps the in-review chapter bounded. | High |
-| First/Second/Rabbinic period labels are useful but can flatten internal diversity. | `civ-23-transcript.md` | Keeps the in-review chapter bounded. | High |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which claims are lecture shorthand and which should become final public historical claims?
-- Which archaeological, textual, theological, or translation claims require external source verification before completion?
-- Which adjacent chapters confirm or revise the placement proposed here?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- Connection to `civ-22`: the Bible's literary construction becomes entangled with Persian imperial order.
-- Connection to `civ-24`: Jesus is introduced after messianic and eschatological categories have been transformed.
-- Broader pattern: empire can reshape religion by sponsoring return, text, administration, and purity.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-- Verify proper nouns, dates, biblical source claims, theological categories, and translation-sensitive terms against external sources before any `complete` status.
-- Recheck ASR-sensitive names and places in the transcript before long excerpt use.
-- Preserve `representation_not_endorsement`; this commentary documents and tests the lecture's claims.
-- Keep this unit at `in-review` until external-source validation and final line-reference review are complete.
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Cyrus Cylinder vs Messiah rhetoric.
+- Zoroastrian influence vs multiple Second Temple currents.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Cross-chapter work: use Part apparatus; do not duplicate Part bibliography here.
+- Phase 2 slim (2026-06-09): Layers 3–6 moved to Part commentary.

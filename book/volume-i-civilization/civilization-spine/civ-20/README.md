@@ -18,6 +18,7 @@ Treat this chapter folder as a small source-lattice:
 ## Current Source Packet
 
 - [Legacy source packet](../../../volume-ii/civ-20/README.md)
+- [Part IV commentary](../../parts/part-04-ancient-foundations-commentary.md#civ-20)
 - [Public card](../../../../data/cards/civ-20.md)
 
 ## CIV-STATE Bridge

@@ -22,6 +22,9 @@ normalization_state: ai_assisted_proper_noun_cleanup
 asr_normalization_note: "2026-06-09 pilot Volume II block (civ-01–18); AI-assisted proper nouns only; not human-verified; verify before quotation."
 corpus_path: ../../../corpus/civilization/civ-18.md
 commentary_path: ./civ-18-commentary.md
+part_id: part-04-ancient-foundations
+part_commentary_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md
+part_bibliography_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md
 ---
 
 # Part I - Civilization #18: The Great Pyramid as Ancient Egypt's Manhattan Project

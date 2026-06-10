@@ -11,7 +11,7 @@ spine_chapters:
   - civ-23
 commentary_status: in-review
 canvas_status: open
-analysis_depth: phase1_drafted
+analysis_depth: pilot_deepened
 scaffold_version: ph_civ_part_commentary_v1
 doorway_path: ./part-04-ancient-foundations.md
 bibliography_path: ./part-04-ancient-foundations-bibliography.md
@@ -69,27 +69,76 @@ Part IV touchpoints from [`volume-i-parts.json`](../../../data/parts/volume-i-pa
 
 ## Chapter sections
 
+**Bronze triad arc @ `civ-18`–`20`:** Read monument-eternity (`civ-18`) → mortality-myth dialectic (`civ-19`) → urban-order-without-text (`civ-20`) as one **comparative floor** before the Levant text arc. Egypt answers mortality through **state awe**; Mesopotamia through **epic and myth**; Indus through **city design without readable scripture**. Do not merge the three into one cause — the Part meta-pattern is parallel grammars. **Cross-Part backlink:** [Part III `civ-17`](./part-03-roman-imperium-commentary.md#civ-17) Egypt eternity preview.
+
+**Levant–Persia arc @ `civ-21`–`23`:** Apology-legitimacy (`civ-21`) → literary cosmology + Yahwist (`civ-22`, pairs `sh-17`) → federation-messiah + Zoroastrian merge (`civ-23`) → Part V Christianity. Writing becomes **expensive state technology**; exile **fanaticizes** identity; empire uses **divide-and-rule** + administrative religion.
+
 ### civ-18
 
-Great Pyramid as contested construction problem, afterlife/resurrection machine, and **state-scale project** (Manhattan Project analogy). Houdin inside-out hypothesis; drought/4.2 ka event and economic stop; Imhotep/lost expertise. **Downstream:** Mesopotamia myth dialectic (`civ-19`); Rome eternity backlink (`civ-17`).
+Great Pyramid as contested construction problem, afterlife/resurrection machine, and **state-scale unity project** (Manhattan Project analogy — teaching frame, not engineering claim). Houdin's inside-out spiral-ramp hypothesis; tomb theory's three logical problems; Tesla battery as rejected alternative; grand gallery as nexus (life/death, heaven/earth); 4.2 ka drought as faith crisis; pyramid economy (inequality, corruption, afterlife nihilism); Imhotep/specialization/institutionalization/secrecy; lost expertise by Herodotus's day; Tower of Babel parallel. **Downstream:** Mesopotamia myth dialectic (`civ-19`); Rome eternity backlink (`civ-17`).
 
-**Major claims** (see [`civ-18-transcript.md`](../../volume-ii/civ-18/civ-18-transcript.md)): 8 Layer-2 rows with line refs — construction/stop/afterlife/state-project chain.
+**Major claims** (see [`civ-18-transcript.md`](../../volume-ii/civ-18/civ-18-transcript.md)):
+
+| # | Claim | Ref | Confidence |
+|---|-------|-----|------------|
+| 1 | Three organizing questions: how built, why built, why stopped | `:36` | High |
+| 2 | Houdin inside-out model with counterweights and internal spiral ramp | `:38` | High |
+| 3 | Tomb/resurrection-machine reading vs three logical problems | `:42`–`:46` | High |
+| 4 | Manhattan Project analogy — state mobilization for unity, awe, divine-energy frame | `:51`–`:59` | High |
+| 5 | 4.2 kiloyear drought undermines pyramid faith; priesthood rise | `:72` | High |
+| 6 | Pyramid economy: centralization, inequality, afterlife-resource squandering | `:73`–`:77` | High |
+| 7 | Imhotep as pyramid-economy architect; secrecy destroys rebuildable knowledge | `:84`–`:86` | High |
+| 8 | Forward pointer to Mesopotamia and Indus comparisons | `:66` | High |
+
+**Close-read arc:** construction controversy (Houdin) → tomb problems → Tesla detour → Manhattan Project thesis (mummy portal, grand gallery womb, unity/awe/Nile) → drought faith crisis → economy/afterlife critique → Imhotep + lost expertise → Babel echo.
+
+**Cross-links:** extends [Part III `civ-17`](./part-03-roman-imperium-commentary.md#civ-17); sets up `civ-19` pyramid–Gilgamesh dialectic.
 
 ### civ-19
 
-Mesopotamia through mortality, mythology, diversity; Egypt geopolitical contrast; Uruk/Sumer; Enuma Elish vs Egyptian kingship; **Gilgamesh** as literary immortality answer; pyramid dialectic; social-evolution myth frame. **Downstream:** Indus peaceful paradox (`civ-20`).
+Mesopotamia through **mythology, dialectic, and diversity** — generalization warning at open. Egypt geopolitical contrast (unified/protected vs exposed/plural); Sumerian origins and Uruk; Enuma Elish vs Egyptian kingship myth; myth as **social-evolution surface**; **Gilgamesh** as literary immortality answer in dialectic with pyramids (monument vs epic grief); immortality quest turns to city/memory. **Downstream:** Indus peaceful paradox (`civ-20`).
 
-**Major claims:** 8 Layer-2 rows — framework, Gilgamesh, dialectic with `civ-18`.
+**Major claims** (see [`civ-19-transcript.md`](../../volume-ii/civ-19/civ-19-transcript.md)):
+
+| # | Claim | Ref | Confidence |
+|---|-------|-----|------------|
+| 1 | Framework: mythology, dialectic, diversity | `:32` | High |
+| 2 | Egypt–Mesopotamia geopolitical contrast | `:32` | High |
+| 3 | Sumerian origins and Uruk as debated hub | `:42` | High |
+| 4 | Enuma Elish compared with Egyptian kingship myth | `:65` | High |
+| 5 | Gilgamesh as key mythic-literary mortality answer | `:79` | High |
+| 6 | Gilgamesh read in dialectic with pyramids | `:61` | High |
+| 7 | Enuma Elish and Gilgamesh as social-evolution narratives | `:32` | High |
+| 8 | Indus peaceful/egalitarian paradox previewed | `:46` | High |
+
+**Close-read arc:** diversity warning → Egypt contrast → Uruk/origins → creation-myth comparison → Gilgamesh vs pyramid dialectic → immortality acceptance → Indus handoff.
+
+**Cross-links:** answers `civ-18` monument grammar with **mortality-myth** grammar; prefigures `civ-21` writing-as-legitimacy via epic vs state awe.
 
 ### civ-20
 
-Indus/Harappan distinct urban order; Bronze Age trade; peaceful/egalitarian evidence with limits; sanitation/standardization; unreadable script; multi-cause decline; **proto-Buddhist continuity explicitly speculative**. **Downstream:** Hebrew Bible apology unit (`civ-21`).
+Indus/Harappan as **urban-order-without-text** comparison: global Bronze trade context; peaceful/egalitarian evidence (no royal weapon burials) with explicit limits; sanitation, reservoirs, wind towers, standardization; unreadable script → opaque religion; decline via climate, trade, tension, steppe assimilation (not simple invasion); later Indian religions, caste, Buddhist challenge; **proto-Buddhist continuity explicitly speculative** (Layer 4 guardrail). **Downstream:** Hebrew Bible apology unit (`civ-21`) — text replaces unreadable script as legitimacy technology.
 
-**Major claims:** 8 Layer-2 rows — urban profile, speculation guardrail in Layer 4.
+**Major claims** (see [`civ-20-transcript.md`](../../volume-ii/civ-20/civ-20-transcript.md)):
+
+| # | Claim | Ref | Confidence |
+|---|-------|-----|------------|
+| 1 | Three questions: distinctiveness, decline, legacy | `:36` | High |
+| 2 | Global Bronze Age trade context | `:37` | High |
+| 3 | Peaceful/egalitarian evidence with named limits | `:38` | High |
+| 4 | Urban design, sanitation, reservoirs, standardization | `:39` | High |
+| 5 | Unreadable script makes religion opaque | `:40` | High |
+| 6 | Multi-cause decline (climate, trade, assimilation) | `:41` | High |
+| 7 | Later Indian religions and caste in legacy discussion | `:42` | High |
+| 8 | Proto-Buddhist hypothesis flagged speculative | `:43` | Medium |
+
+**Close-read arc:** Bronze world-system → peaceful paradox → urban standardization → script limit → decline without invasion monocause → speculative religious legacy (guardrailed) → Levant text pivot.
+
+**Cross-links:** completes Bronze triad; **accident-of-collapse** frame prefigures `civ-23` Israelite founding.
 
 ### civ-21
 
-Bible as **library** (Tanakh structure); three corrected myths (always monotheistic, continuous 3–4k years, historical record); Levant melting-pot history Saul→David; exile/Babylon fanaticism; Bible as **David apology** + J/E/P/D schools as political real estate; legitimacy/identity/differentiation triad; Bathsheba/Abner/cave as spin literature. **Downstream:** cosmology/Yahwist (`civ-22`).
+Bible as **library** (Tanakh T/N/K — not single worldview); three corrected myths (retroactive monotheism, 3–4k year continuity, history-as-record); Levant post–Bronze-collapse melting pot; Saul→David; exile/Babylon → fanatical identity and priesthood over kings; Bible begun as **David apology** — writing as expensive king-sponsored medium; J/E/P/D schools as **political real estate** (Persian splice); legitimacy / cohesion / differentiation triad (Aeneid parallel in lecture); Bathsheba, Abner, cave stories as court spin not chronicle. **Downstream:** cosmology/Yahwist (`civ-22`).
 
 **Major claims** (see [`civ-21-transcript.md`](../../volume-ii/civ-21/civ-21-transcript.md)):
 
@@ -103,6 +152,10 @@ Bible as **library** (Tanakh structure); three corrected myths (always monotheis
 | 6 | J/E/P/D schools; Persians splice manuscripts; oral priest control | `#jedp-political-real-estate` | High |
 | 7 | Legitimacy/identity/differentiation triad (Aeneid parallel in lecture) | `#bible-apology-framework` | High |
 | 8 | David stories (cave, Abner, Bathsheba) as spin — literature not court record | `#david-legitimacy-stories` | High |
+
+**Close-read arc:** library frame + Middle East stakes → three myths corrected → Levant melting-pot / David as real founder vs Abraham → exile fanaticism → apology thesis (poet-king need) → J/E/P/D as factional real estate → court-historian spin stories → cosmology handoff.
+
+**Cross-links:** mirrors [Part III](./part-03-roman-imperium-commentary.md) myth-as-infrastructure; sets poet-king / poet-God frame for `civ-22`.
 
 ### civ-22
 
@@ -121,6 +174,19 @@ Bible as **cosmology** not chronology or pure fiction; poet-God/poet-king; condi
 | 7 | Cain/Abel: bad parent God; faith requires arguing with God | `#cain-abel-close-read` | High |
 | 8 | Rachel/Jacob: economy + irony; family co-creation of meaning | `#rachel-jacob-irony` | Medium |
 
+**Close-read arc:** chronology recitation → archaeology fails pre-David → cosmology frame (not chronology/fiction) → poet-king / poet-God + conditional vs Davidic covenants → synchronization (Abraham/Isaac/Jacob, Moses-as-Egyptian-priest, Jerusalem temple) → differentiation through war + fluid identity → Yahwist genius hypothesis → Adam/Eve domestic comedy (God fallible, remorse) → Cain/Abel faith-as-argument → Rachel/Jacob economy/irony → co-creation reader meaning → Zoroastrian forward.
+
+**Cross-links:** pairs `sh-17`; extends `civ-21` apology into **literary cosmology**; highest counter-read load in Part IV.
+
+**Chapter counter-readings (`civ-22`):**
+
+| Topic | Counter-reading | Strength |
+|-------|-----------------|----------|
+| Cosmology-not-chronology | Documentary/schools hypothesis standard; lecture adds poet-God overlay | Medium |
+| Moses Egyptian priest | Etymology ≠ provenance; literary synthesis | High |
+| Female Yahwist / David kin | Author biography unrecoverable | High |
+| Faith requires arguing with God | Literary reading; not normative theology | Medium |
+
 ### civ-23
 
 Judaism periodization (First Temple → Second Temple → Rabbinic); polytheistic→henotheistic→monotheistic arc; Cyrus releases exiles, **Messiah** title; Persian **federation**, divide-and-rule, satraps; **Zoroastrianism** (truth/lie, eschatology, river judgment); Ezra purity/divorce foreign wives; **four-Bible merge** elevates Moses over David; Zoroastrian-Jewish merger prepares Christianity. **Downstream:** Part V `civ-24`+.
@@ -138,15 +204,37 @@ Judaism periodization (First Temple → Second Temple → Rabbinic); polytheisti
 | 7 | Eschatology + good/evil + Messiah Son of Man → Christianity frame | `#ezra-canon-merge` | Medium |
 | 8 | Zoroastrian-biblical merger lecture claim (forward Part V) | `#christianity-forward-bridge` | Medium |
 
+**Close-read arc:** Judaism periodization (First Temple optimism → Second Temple fanaticism → Rabbinic diaspora) → Bronze-collapse accident + empire re-absorption → Mesopotamia violence/Sargon legitimacy prelude → Cyrus mercy/federation/postal system → Zoroastrian grandness/completeness/unity + eschatology → divide-and-rule in Levant (Jews vs Samaritans) → Ezra purity + four-Bible merge (Moses over David) → good/evil + Messiah Son of Man → Christianity forward bridge.
+
+**Cross-links:** completes Part IV grammar step 6; forward [Part V doorway](./part-05-christianity-and-islam.md); ties to `civ-21` J/E/P/D real estate.
+
+**Chapter counter-readings (`civ-23`):**
+
+| Topic | Counter-reading | Strength |
+|-------|-----------------|----------|
+| Cyrus as Messiah | Imperial policy + biblical rhetoric | Medium |
+| Zoroastrian "best religion" | Administrator filter, not popular triumph | High |
+| Ezra divorce foreign wives | Extremist minority; Samaritan counter-narrative | Medium |
+| Single Zoroastrian→Christian pipeline | Influence ≠ causation; multiple Second Temple currents | High |
+
 ## Secret History companion
 
 ### sh-17
 
 **Weave role:** deepening @ `civ-22`. **Pointer only** — literary-genesis companion; canonical body stays in [secret-history-support/sh-17](../secret-history-support/sh-17/README.md) → [volume-vi/sh-17](../../volume-vi/sh-17/README.md).
 
-**Core thesis:** Deepens Yahwist / literary-genesis lane alongside `civ-22` civilization lecture — do not duplicate full SH commentary in Part apparatus.
+**Core thesis:** Deepens Yahwist / literary-genesis lane alongside `civ-22` civilization lecture — secret-history angle on **who writes genesis and why**, without duplicating civ-22's cosmology/cohesion/differentiation scaffold in Part apparatus.
 
-**Part links:** read `civ-22` cosmology + Yahwist claims first; open `sh-17` when secret-history deepening is needed; forward Part V after `civ-23`.
+**Read order:** `civ-21` apology frame → `civ-22` Yahwist close-reads (Adam/Eve, Cain/Abel, Rachel/Jacob) → `sh-17` for SH deepening → `civ-23` merger arc → Part V.
+
+**Part links:** do not stub-route `civ-22` commentary into SH packet; cross-link only. Forward Part V after `civ-23`.
+
+**SH predictions (lecture-local, Pending external-verify):**
+
+| Prediction | Strength | Falsifier | Status |
+|------------|----------|-----------|--------|
+| SH deepens Yahwist authorship beyond civ-22 court hypothesis | C | SH packet empty or contradicts civ-22 | **Pending** |
+| Literary-genesis lane separable from Cyrus/Zoroastrian merge | E | SH merges imperial religion into genesis body | **Pending** |
 
 ## Counter-readings (external)
 
@@ -197,4 +285,7 @@ Scholarship-grade alternatives; sources in [bibliography](./part-04-ancient-foun
 ### Build Notes
 
 - Phase 1 (2026-06-09): author commentary + bibliography + registry; pin-cite `civ-21`–`23`; confirm Part III Egypt ingress.
-- Phase 2–3: per [PART-04-HYBRID-READINESS.md](./PART-04-HYBRID-READINESS.md).
+- Deepen pass (2026-06-09): Bronze triad + Levant arc headers; claim tables `civ-18`–`20`; close-read arcs all six chapters; `sh-17` read order + predictions; chapter counter-reads `civ-22`/`civ-23`.
+- Phase 2 (2026-06-09): slim `civ-18`–`23` commentaries; 6-step README lattice; transcript `part_id` YAML; spine wrapper Part links.
+- Phase 3 (2026-06-09): `volume_i_parts.py` Part IV README checks; `commentary-canvas.md` / `source-lattice.md` Part IV + sh-17 pointer.
+- External-verify (2026-06-09): bibliography ledger — Cyrus messiah **supported** (Isa 45:1); Cylinder **guardrailed**; Zoroastrian merge **contested**; Houdin **hypothesis**.

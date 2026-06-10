@@ -20,6 +20,9 @@ representation_not_endorsement: true
 transcript_fidelity: exact_body_match
 corpus_path: ../../../corpus/civilization/civ-19.md
 commentary_path: ./civ-19-commentary.md
+part_id: part-04-ancient-foundations
+part_commentary_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md
+part_bibliography_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md
 ---
 
 # Part I - Civilization #19: Gilgamesh and Mesopotamia's Quest for Immortality

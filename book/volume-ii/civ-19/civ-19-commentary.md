@@ -28,6 +28,8 @@ representation_not_endorsement: true
 canvas_status: open
 analysis_depth: seed
 scaffold_version: ph_civ_commentary_canvas_v1
+part_commentary_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-19
+part_bibliography_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md
 ---
 
 # Commentary - Civilization
@@ -81,106 +83,25 @@ Every claim below is tied to the transcript body in `civ-19-transcript.md`.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
+## Part apparatus
 
-Explicitly testable items only.
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part IV live in the Part files:
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| The next chapter will use Indus as a peaceful and egalitarian countercase to Egypt and Mesopotamia. | E | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-05-13 | Pending | In-review control. |
-| Later Hebrew Bible material should inherit Mesopotamian myth comparison as part of the course's ancient Near Eastern frame. | C | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-05-13 | Pending | In-review control. |
+- [Part IV commentary](../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-19) — Gilgamesh/pyramid dialectic, Mesopotamia diversity frame
+- [Part IV bibliography](../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md)
 
-**Meta-Prediction Patterns**
-
-- The lecture treats ancient civilization as a comparative field where monument, myth, city design, and religion disclose different answers to mortality and order.
-- The chapter should be checked against adjacent Civilization units before any final synthesis is claimed.
+Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| The Egypt-Mesopotamia contrast is clarifying but can flatten internal variation in both civilizations. | `civ-19-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-| Myth readings should distinguish plot summary, lecture interpretation, and historical reconstruction. | `civ-19-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-| Sumerian origins remain debated and should not be over-specified before final review. | `civ-19-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-| Gilgamesh as a social-evolution narrative is an interpretive claim, not a substitute for philological analysis. | `civ-19-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which claims are lecture shorthand and which should become final public historical claims?
-- Which archaeological, textual, or translation claims require external source verification before completion?
-- Which adjacent chapters confirm or revise the placement proposed here?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- Connection to `civ-18`: the chapter answers Egyptian monumentality with Mesopotamian mythic reflection on mortality.
-- Connection to `civ-20`: Indus becomes the third Bronze Age comparison point and tests the limits of evidence.
-- Broader pattern: early civilizations encode political and existential problems in myth before later philosophy names them abstractly.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-- Verify proper nouns, dates, archaeological claims, literary titles, and translation-sensitive terms against external sources before any `complete` status.
-- Recheck ASR-sensitive names and places in the transcript before long excerpt use.
-- Preserve `representation_not_endorsement`; this commentary documents and tests the lecture's claims.
-- Keep this unit at `in-review` until external-source validation and final line-reference review are complete.
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Enuma Elish vs Gilgamesh weight in lecture vs scholarship.
+- Social-evolution myth frame — lecture shorthand check.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Cross-chapter work: use Part apparatus; do not duplicate Part bibliography here.
+- Phase 2 slim (2026-06-09): Layers 3–6 moved to Part commentary.
