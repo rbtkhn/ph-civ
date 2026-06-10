@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 part_commentary_path: ../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md#civ-16
 part_bibliography_path: ../../volume-i-civilization/parts/part-03-roman-imperium-bibliography.md
@@ -64,14 +64,14 @@ Every claim below is tied to the transcript body in `civ-16-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture follows Caesar's will into the wars of the liberators and Second Triumvirate. | `civ-16-transcript.md:33` | Explicit / Strong Implied | High |
-| 2 | Caesar's assassination crystallizes his myth and fuels Octavian's rise. | `civ-16-transcript.md:56` | Explicit / Strong Implied | High |
-| 3 | Philippi, partition, Lepidus, Actium, and 27 BCE structure the transition. | `civ-16-transcript.md:45` | Explicit / Strong Implied | High |
-| 4 | Antony is framed as self-defeating through Cleopatra, Parthia, and imitation of Caesar. | `civ-16-transcript.md:47` | Explicit / Strong Implied | High |
-| 5 | Roman taboos around the pomerium and Senate help explain Caesar's surprise. | `civ-16-transcript.md:41` | Explicit / Strong Implied | High |
+| 1 | The lecture follows Caesar's will into the wars of the liberators and Second Triumvirate. | `civ-16-transcript.md#caesar-will-octavian-frame` | Explicit / Strong Implied | High |
+| 2 | Caesar's assassination crystallizes his myth and fuels Octavian's rise. | `civ-16-transcript.md#assassination-myth-crystallizes` | Explicit / Strong Implied | High |
+| 3 | Philippi, partition, Lepidus, Actium, and 27 BCE structure the transition. | `civ-16-transcript.md#philippi-actium-settlement` | Explicit / Strong Implied | High |
+| 4 | Antony is framed as self-defeating through Cleopatra, Parthia, and imitation of Caesar. | `civ-16-transcript.md#antony-self-defeat` | Explicit / Strong Implied | High |
+| 5 | Roman taboos around the pomerium and Senate help explain Caesar's surprise. | `civ-16-transcript.md#pomerium-senate-taboo` | Explicit / Strong Implied | High |
 | 6 | Octavian converts heirship and myth into imperial authority. | `civ-16-transcript.md:47` | Explicit / Strong Implied | High |
-| 7 | The Augustan settlement preserves republican form while creating empire. | `civ-16-transcript.md:33` | Explicit / Strong Implied | High |
-| 8 | Adoptive succession after Tiberius is identified as a later weakness. | `civ-16-transcript.md:97` | Explicit / Strong Implied | High |
+| 7 | The Augustan settlement preserves republican form while creating empire. | `civ-16-transcript.md#augustan-settlement` | Explicit / Strong Implied | High |
+| 8 | Adoptive succession after Tiberius is identified as a later weakness. | `civ-16-transcript.md#adoptive-succession-weakness` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

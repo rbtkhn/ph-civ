@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 part_commentary_path: ../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md#civ-15
 part_bibliography_path: ../../volume-i-civilization/parts/part-03-roman-imperium-bibliography.md
@@ -64,14 +64,14 @@ Every claim below is tied to the transcript body in `civ-15-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture frames Caesar around motives, success, and why he was killed. | `civ-15-transcript.md:33` | Explicit / Strong Implied | High |
-| 2 | Caesar is defined as a mythmaker who joins narrative to action. | `civ-15-transcript.md:34` | Explicit / Strong Implied | High |
-| 3 | The post-146 BCE world is marked by land, debt, triumph economy, and factional war. | `civ-15-transcript.md:46` | Explicit / Strong Implied | High |
-| 4 | Caesar's own commentaries make him a narrator of himself. | `civ-15-transcript.md:78` | Explicit / Strong Implied | High |
-| 5 | The First Triumvirate helps explain Caesar's rise inside elite factional politics. | `civ-15-transcript.md:32` | Explicit / Strong Implied | High |
-| 6 | Civil war turns Caesar from Roman competitor into system-breaker. | `civ-15-transcript.md:61` | Explicit / Strong Implied | High |
-| 7 | Clemency and personality cult are presented together as political tools. | `civ-15-transcript.md:96` | Explicit / Strong Implied | High |
-| 8 | Assassination is framed as reform becoming an identity threat. | `civ-15-transcript.md:55` | Explicit / Strong Implied | High |
+| 1 | The lecture frames Caesar around motives, success, and why he was killed. | `civ-15-transcript.md#three-questions-mythmaker` | Explicit / Strong Implied | High |
+| 2 | Caesar is defined as a mythmaker who joins narrative to action. | `civ-15-transcript.md#mythmaker-definition` | Explicit / Strong Implied | High |
+| 3 | The post-146 BCE world is marked by land, debt, triumph economy, and factional war. | `civ-15-transcript.md#post-146-imperial-republic` | Explicit / Strong Implied | High |
+| 4 | Caesar's own commentaries make him a narrator of himself. | `civ-15-transcript.md#caesar-commentaries-dispatches` | Explicit / Strong Implied | High |
+| 5 | The First Triumvirate helps explain Caesar's rise inside elite factional politics. | `civ-15-transcript.md#first-triumvirate` | Explicit / Strong Implied | High |
+| 6 | Civil war turns Caesar from Roman competitor into system-breaker. | `civ-15-transcript.md#civil-war-rubicon` | Explicit / Strong Implied | High |
+| 7 | Clemency and personality cult are presented together as political tools. | `civ-15-transcript.md#clemency-personality-cult` | Explicit / Strong Implied | High |
+| 8 | Assassination is framed as reform becoming an identity threat. | `civ-15-transcript.md#assassination-identity-threat` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

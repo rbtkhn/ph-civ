@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,14 +62,14 @@ Every claim below is tied to the transcript body in `civ-12-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture maps Alexander's reign to a model of expansion, tyranny, and inability to stop. | `civ-12-transcript.md:40` | Explicit / Strong Implied | High |
-| 2 | Post-Philip succession is presented as violent and unstable. | `civ-12-transcript.md:43` | Explicit / Strong Implied | High |
-| 3 | The destruction of Thebes is treated as fear politics. | `civ-12-transcript.md:50` | Explicit / Strong Implied | High |
-| 4 | The Persian campaign contrasts Macedonian cohesion with Persian numbers. | `civ-12-transcript.md:67` | Explicit / Strong Implied | High |
-| 5 | The battle pattern emphasizes Granicus, Issus, Gaugamela, risk, and Darius's flight. | `civ-12-transcript.md:56` | Explicit / Strong Implied | High |
-| 6 | Siwa and divine kingship mark Alexander's self-mythologizing. | `civ-12-transcript.md:78` | Explicit / Strong Implied | High |
-| 7 | The deaths of Parmenion and Cleitus show rupture with old Macedonian loyalty. | `civ-12-transcript.md:45` | Explicit / Strong Implied | High |
-| 8 | India and the desert march expose the limits of conquest. | `civ-12-transcript.md:94` | Explicit / Strong Implied | High |
+| 1 | The lecture maps Alexander's reign to a model of expansion, tyranny, and inability to stop. | `civ-12-transcript.md#alexander-model-predictions` | Explicit / Strong Implied | High |
+| 2 | Post-Philip succession is presented as violent and unstable. | `civ-12-transcript.md#philip-death-succession` | Explicit / Strong Implied | High |
+| 3 | The destruction of Thebes is treated as fear politics. | `civ-12-transcript.md#thebes-destruction-fear` | Explicit / Strong Implied | High |
+| 4 | The Persian campaign contrasts Macedonian cohesion with Persian numbers. | `civ-12-transcript.md#cohesion-discipline-devotion` | Explicit / Strong Implied | High |
+| 5 | The battle pattern emphasizes Granicus, Issus, Gaugamela, risk, and Darius's flight. | `civ-12-transcript.md#persian-battle-pattern` | Explicit / Strong Implied | High |
+| 6 | Siwa and divine kingship mark Alexander's self-mythologizing. | `civ-12-transcript.md#siwa-divine-kingship` | Explicit / Strong Implied | High |
+| 7 | The deaths of Parmenion and Cleitus show rupture with old Macedonian loyalty. | `civ-12-transcript.md#parmenion-cleitus-deaths` | Explicit / Strong Implied | High |
+| 8 | India and the desert march expose the limits of conquest. | `civ-12-transcript.md#india-desert-limits` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

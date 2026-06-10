@@ -1,6 +1,6 @@
 # Civilization #27: Augustine's Empire of God
 
-This chapter folder is a public study doorway for `civ-27`.
+This chapter folder is a public study doorway for civ-27.
 
 ## Start Here
 
@@ -10,28 +10,32 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 
 Treat this chapter folder as a small source-lattice:
 
-1. `Doorway` - this README tells you what the packet is and what limits apply.
-2. `Primary source floor` - read the transcript and public source capture first.
-3. `Secondary support` - use the commentary canvas, orientation payload, and public card only after the source floor is open.
-4. `Widened interpretation` - draw comparisons or broader claims only after keeping the review status in view.
+1. Doorway - this README tells you what the packet is and what limits apply.
+2. Primary source floor - read the transcript and public source capture first.
+3. Chapter commentary - thin Layer 0-2 pin-cites in the companion commentary file.
+4. Part apparatus - [Part V commentary](../../volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md) and [Part V bibliography](../../volume-i-civilization/parts/part-05-christianity-and-islam-bibliography.md) for cross-chapter synthesis and external sources.
+5. Public card - orientation payload after the chapter and Part floors are open.
+6. Widened interpretation - corridors and bridges only after the above are stable.
 
 ## Files
 
 - [Transcript](civ-27-transcript.md)
-- [Commentary canvas](civ-27-commentary.md)
+- [Commentary canvas (thin)](civ-27-commentary.md)
+- [Part V commentary](../../volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#civ-27)
+- [Part V bibliography](../../volume-i-civilization/parts/part-05-christianity-and-islam-bibliography.md)
 - [Public card](../../../data/cards/civ-27.md)
 
 ## Review Status
 
-`in_review`. Do not treat provisional transcript text, named claims, quotations, or current-event predictions as final until review is complete.
+in_review. Do not treat provisional transcript text, named claims, quotations, or current-event predictions as final until review is complete.
 
 ## LLM Prompt
 
 Paste this folder link into ChatGPT, Claude, or Grok and ask:
 
-> Guide me through this chapter folder as a public study packet. Start with the transcript, then use the commentary canvas and orientation/card guardrails. Keep provisional claims bounded and separate lecture representation from verification.
+> Guide me through this chapter folder as a public study packet. Start with the transcript, then use the thin chapter commentary (Layer 0-2 pin-cites), then Part V commentary and bibliography for cross-chapter synthesis. Keep provisional claims bounded and separate lecture representation from verification.
 >
-> Use a source-lattice reading order: README first, transcript and source capture second, commentary/orientation/card third, and broader interpretation only after the source floor is stable.
+> Use a source-lattice reading order: README first, transcript second, chapter commentary third, Part apparatus fourth, public card fifth, and broader interpretation only after those floors are stable.
 
 ## Guardrails
 

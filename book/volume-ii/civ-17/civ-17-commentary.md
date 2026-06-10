@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 part_commentary_path: ../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md#civ-17
 part_bibliography_path: ../../volume-i-civilization/parts/part-03-roman-imperium-bibliography.md
@@ -64,14 +64,14 @@ Every claim below is tied to the transcript body in `civ-17-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture reviews Rome and contrasts it with the Greek legacy. | `civ-17-transcript.md:32` | Explicit / Strong Implied | High |
-| 2 | Augustus's regime is tied to Praetorian Guard, professional army, and Egypt as treasury. | `civ-17-transcript.md:33` | Explicit / Strong Implied | High |
-| 3 | The Aeneas myth and Aeneid are presented as an Augustan state project. | `civ-17-transcript.md:47` | Explicit / Strong Implied | High |
-| 4 | Virgil is contrasted with the Iliad and Odyssey. | `civ-17-transcript.md:46` | Explicit / Strong Implied | High |
-| 5 | Homer is associated with love, imagination, and infinity in the lecture's contrast. | `civ-17-transcript.md:51` | Explicit / Strong Implied | High |
-| 6 | Virgil is associated with piety, obedience, eternity, and end-of-history framing. | `civ-17-transcript.md:101` | Explicit / Strong Implied | High |
-| 7 | The chapter frames literature as shaping Rome's civilizational identity. | `civ-17-transcript.md:32` | Explicit / Strong Implied | High |
-| 8 | The ending points toward Egyptian eternity and the next Egypt lecture. | `civ-17-transcript.md:103` | Explicit / Strong Implied | High |
+| 1 | The lecture reviews Rome and contrasts it with the Greek legacy. | `civ-17-transcript.md#rome-greece-review` | Explicit / Strong Implied | High |
+| 2 | Augustus's regime is tied to Praetorian Guard, professional army, and Egypt as treasury. | `civ-17-transcript.md#augustus-praetorian-army` | Explicit / Strong Implied | High |
+| 3 | The Aeneas myth and Aeneid are presented as an Augustan state project. | `civ-17-transcript.md#aeneas-myth-legitimacy` | Explicit / Strong Implied | High |
+| 4 | Virgil is contrasted with the Iliad and Odyssey. | `civ-17-transcript.md#homer-virgil-frame` | Explicit / Strong Implied | High |
+| 5 | Homer is associated with love, imagination, and infinity in the lecture's contrast. | `civ-17-transcript.md#homer-love-imagination` | Explicit / Strong Implied | High |
+| 6 | Virgil is associated with piety, obedience, eternity, and end-of-history framing. | `civ-17-transcript.md#virgil-piety-eternity` | Explicit / Strong Implied | High |
+| 7 | The chapter frames literature as shaping Rome's civilizational identity. | `civ-17-transcript.md#literature-roman-identity` | Explicit / Strong Implied | High |
+| 8 | The ending points toward Egyptian eternity and the next Egypt lecture. | `civ-17-transcript.md#egypt-eternity-handoff` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

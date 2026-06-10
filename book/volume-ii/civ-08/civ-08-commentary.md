@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -63,37 +63,37 @@ Every claim below is tied to the transcript body in `civ-08-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | Greek history is introduced through the polis after Bronze Age collapse, alphabet, and Homer. | `civ-08-transcript.md:32-33` | Explicit | High |
-| 2 | Geography is presented as destiny for the Greek polis, shaping economy, culture, and political structure. | `civ-08-transcript.md:33-34` | Explicit | High |
-| 3 | Sparta is described as agricultural, slaveholding, militarized, brutal, conservative, and isolationist. | `civ-08-transcript.md:34-42` | Explicit | High |
-| 4 | Athens is described as coastal, commercial, expansionist, competitive, and centered on eudaimonia. | `civ-08-transcript.md:42-50` | Explicit | High |
-| 5 | Ostracism is presented as a way to control excessive competition inside Athenian political life. | `civ-08-transcript.md:49-51` | Explicit | High |
-| 6 | Athenian democracy is described as factional conflict among nobility rather than direct rule by all people. | `civ-08-transcript.md:52-55` | Explicit | High |
-| 7 | Sparta and Athens are presented as structurally opposed societies. | `civ-08-transcript.md:55` | Explicit | High |
-| 8 | The Persian Wars are narrated through Ionian revolt, Marathon, Thermopylae, Salamis, and Plataea. | `civ-08-transcript.md:56-76` | Explicit | High |
-| 9 | The lecture argues Persia could have won but lost through strategic choices at Salamis and Plataea. | `civ-08-transcript.md:68-76` | Explicit | High |
-| 10 | The Delian League is described as becoming the Athenian Empire through Athenian control of league money and naval power. | `civ-08-transcript.md:77-86` | Explicit | High |
-| 11 | Pericles is presented as a politician who used democracy, public spending, and empire to maintain power. | `civ-08-transcript.md:79-86` | Explicit | High |
-| 12 | The lecture argues the Peloponnesian War began because Athens was an imperial bully, not simply because Sparta feared a rising Athens. | `civ-08-transcript.md:88-91` | Explicit | High |
-| 13 | The lecture argues the war's military strategy only makes sense through internal upper-nobility versus lower-nobility conflict. | `civ-08-transcript.md:92-100` | Explicit | High |
-| 14 | Cleon and Brasidas are presented as lower-status or reforming figures whose success threatened their own societies' status orders. | `civ-08-transcript.md:99-104` | Explicit | High |
-| 15 | Lysander's promotion, supported by Persian money, is presented as the practical route to Sparta's victory. | `civ-08-transcript.md:104-108` | Explicit | High |
-| 16 | Athens is spared after defeat partly because elite ties across Sparta and Athens preserved status relationships. | `civ-08-transcript.md:108-110` | Explicit | High |
-| 17 | Rat Utopia is used as evidence for the claim that abundance can produce social breakdown when status ascent is blocked. | `civ-08-transcript.md:111-122` | Explicit | High |
-| 18 | The lecture concludes that wealthy societies may generate wars that kill off internal status pressure while leaving the political world unchanged. | `civ-08-transcript.md:121-123` | Explicit | High |
-| 19 | The lecture qualifies the analogy by saying humans differ from rats because humans can reason and adapt to new circumstances. | `civ-08-transcript.md:123-126` | Explicit | High |
+| 1 | Greek history is introduced through the polis after Bronze Age collapse, alphabet, and Homer. | `civ-08-transcript.md#greek-history-recap` | Explicit | High |
+| 2 | Geography is presented as destiny for the Greek polis, shaping economy, culture, and political structure. | `civ-08-transcript.md#geography-is-destiny` | Explicit | High |
+| 3 | Sparta is described as agricultural, slaveholding, militarized, brutal, conservative, and isolationist. | `civ-08-transcript.md#sparta-character` | Explicit | High |
+| 4 | Athens is described as coastal, commercial, expansionist, competitive, and centered on eudaimonia. | `civ-08-transcript.md#athens-eudaimonia` | Explicit | High |
+| 5 | Ostracism is presented as a way to control excessive competition inside Athenian political life. | `civ-08-transcript.md#ostracism` | Explicit | High |
+| 6 | Athenian democracy is described as factional conflict among nobility rather than direct rule by all people. | `civ-08-transcript.md#democracy-factional-nobility` | Explicit | High |
+| 7 | Sparta and Athens are presented as structurally opposed societies. | `civ-08-transcript.md#sparta-athens-opposed` | Explicit | High |
+| 8 | The Persian Wars are narrated through Ionian revolt, Marathon, Thermopylae, Salamis, and Plataea. | `civ-08-transcript.md#persian-wars-narrative` | Explicit | High |
+| 9 | The lecture argues Persia could have won but lost through strategic choices at Salamis and Plataea. | `civ-08-transcript.md#persia-strategic-errors` | Explicit | High |
+| 10 | The Delian League is described as becoming the Athenian Empire through Athenian control of league money and naval power. | `civ-08-transcript.md#delian-league-empire` | Explicit | High |
+| 11 | Pericles is presented as a politician who used democracy, public spending, and empire to maintain power. | `civ-08-transcript.md#pericles-power` | Explicit | High |
+| 12 | The lecture argues the Peloponnesian War began because Athens was an imperial bully, not simply because Sparta feared a rising Athens. | `civ-08-transcript.md#peloponnesian-bully` | Explicit | High |
+| 13 | The lecture argues the war's military strategy only makes sense through internal upper-nobility versus lower-nobility conflict. | `civ-08-transcript.md#nobility-class-conflict` | Explicit | High |
+| 14 | Cleon and Brasidas are presented as lower-status or reforming figures whose success threatened their own societies' status orders. | `civ-08-transcript.md#cleon-brasidas` | Explicit | High |
+| 15 | Lysander's promotion, supported by Persian money, is presented as the practical route to Sparta's victory. | `civ-08-transcript.md#lysander-persian-money` | Explicit | High |
+| 16 | Athens is spared after defeat partly because elite ties across Sparta and Athens preserved status relationships. | `civ-08-transcript.md#athens-spared-elite-ties` | Explicit | High |
+| 17 | Rat Utopia is used as evidence for the claim that abundance can produce social breakdown when status ascent is blocked. | `civ-08-transcript.md#rat-utopia-experiment` | Explicit | High |
+| 18 | The lecture concludes that wealthy societies may generate wars that kill off internal status pressure while leaving the political world unchanged. | `civ-08-transcript.md#wealthy-societies-war` | Explicit | High |
+| 19 | The lecture qualifies the analogy by saying humans differ from rats because humans can reason and adapt to new circumstances. | `civ-08-transcript.md#humans-not-rats` | Explicit | High |
 
 ### Core Concepts Defined
 
-- **Geography is destiny**: the lecture's claim that terrain shapes polis economy, culture, and political order. `civ-08-transcript.md:33-34`
-- **Sparta**: an agricultural, militarized, helot-controlling society used as the conservative pole of Greek politics. `civ-08-transcript.md:34-42`
-- **Athens**: a coastal, commercial, expansionist, competitive polis organized around eudaimonia. `civ-08-transcript.md:42-50`
-- **Eudaimonia**: human flourishing or heroic self-realization, presented as both Athens's engine and danger. `civ-08-transcript.md:45-50`, `civ-08-transcript.md:90-91`
-- **Ostracism**: exile used to control excessive competition within Athens. `civ-08-transcript.md:49-51`
-- **Democracy as factional struggle**: the lecture's interpretation of democracy as elite conflict, often between upper and lower nobility. `civ-08-transcript.md:52-55`
-- **Delian League / Athenian Empire**: the defensive alliance turned revenue system under Athenian control. `civ-08-transcript.md:77-86`
-- **Rat Utopia**: the behavioral analogy used to explain abundance, blocked status, violence, ritual breakdown, and collapse. `civ-08-transcript.md:111-126`
-- **Analogy boundary**: the lecture's own reminder that rats and humans are not identical because humans can reason and adapt. `civ-08-transcript.md:123-126`
+- **Geography is destiny**: the lecture's claim that terrain shapes polis economy, culture, and political order. `civ-08-transcript.md#geography-is-destiny`
+- **Sparta**: an agricultural, militarized, helot-controlling society used as the conservative pole of Greek politics. `civ-08-transcript.md#sparta-character`
+- **Athens**: a coastal, commercial, expansionist, competitive polis organized around eudaimonia. `civ-08-transcript.md#athens-eudaimonia`
+- **Eudaimonia**: human flourishing or heroic self-realization, presented as both Athens's engine and danger. `civ-08-transcript.md#athens-eudaimonia`, `civ-08-transcript.md#peloponnesian-bully`
+- **Ostracism**: exile used to control excessive competition within Athens. `civ-08-transcript.md#ostracism`
+- **Democracy as factional struggle**: the lecture's interpretation of democracy as elite conflict, often between upper and lower nobility. `civ-08-transcript.md#democracy-factional-nobility`
+- **Delian League / Athenian Empire**: the defensive alliance turned revenue system under Athenian control. `civ-08-transcript.md#delian-league-empire`
+- **Rat Utopia**: the behavioral analogy used to explain abundance, blocked status, violence, ritual breakdown, and collapse. `civ-08-transcript.md#humans-not-rats`
+- **Analogy boundary**: the lecture's own reminder that rats and humans are not identical because humans can reason and adapt. `civ-08-transcript.md#humans-not-rats`
 ---
 
 ## Part apparatus

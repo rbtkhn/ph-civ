@@ -28,6 +28,8 @@ representation_not_endorsement: true
 canvas_status: open
 analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
+part_commentary_path: ../../volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#civ-26
+part_bibliography_path: ../../volume-i-civilization/parts/part-05-christianity-and-islam-bibliography.md
 ---
 
 # Commentary - Civilization
@@ -81,106 +83,27 @@ Every claim below is tied to the transcript body in civ-26-transcript.md.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
+---
 
-Explicitly testable items only.
+## Part apparatus
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| Later Civilization chapters should test whether Augustine, Islam, Dante, and modernity develop this monotheism-to-modernity chain. | C | Later material or final review does not support this control. | 2026-05-13 | Pending | In-review control. |
-| Final review should separate Constantine and Nicaea claims from the lecture's larger philosophy of money, science, and nation-state reality. | C | Later material or final review does not support this control. | 2026-05-13 | Pending | In-review control. |
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part V live in the Part files:
 
-**Meta-Prediction Patterns**
+- [Part V commentary](../../volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#civ-26) — Constantine, Nicaea, godhead monotheism, empire-doctrine weld
+- [Part V bibliography](../../volume-i-civilization/parts/part-05-christianity-and-islam-bibliography.md)
 
-- The lecture treats religion as a sequence of textual, imperial, theological, and institutional transformations rather than as a single origin story.
-- The chapter should be checked against adjacent Civilization units before any final synthesis is claimed.
+Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| The claim that Christianity is the first monotheistic religion requires careful definition and external review. | civ-26-transcript.md | Keeps the in-review chapter bounded. | High |
-| Constantine-as-first-pope and Nicaea-as-origin claims should be checked against institutional and theological history. | civ-26-transcript.md | Keeps the in-review chapter bounded. | High |
-| The modernity claims about capitalism, science, and the nation-state are interpretive and should remain bounded as course architecture. | civ-26-transcript.md | Keeps the in-review chapter bounded. | High |
-| Ancient religion, metaphor, and belief are compressed heavily and need final source review before broad public reuse. | civ-26-transcript.md | Keeps the in-review chapter bounded. | High |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which claims are lecture shorthand and which should become final public historical claims?
-- Which archaeological, textual, theological, or translation claims require external source verification before completion?
-- Which adjacent chapters confirm or revise the placement proposed here?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- Connection to civ-25: Paul's church becomes the institutional path that Constantine can imperialize.
-- Connection to civ-27: Augustine inherits the imperial church problem and turns it into a durable Catholic theory of history.
-- Broader pattern: the chapter converts religious doctrine into a theory of reality, institutions, and modern political imagination.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-- Verify proper nouns, dates, biblical and Quranic source claims, theological categories, and translation-sensitive terms against external sources before any complete status.
-- Recheck ASR-sensitive names and places in the transcript before long excerpt use.
-- Preserve representation_not_endorsement; this commentary documents and tests the lecture's claims.
-- Keep this unit at in-review until external-source validation and final line-reference review are complete.
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Imperial history vs lecture philosophy of closed reality-order.
+- Money/science/nation-state extensions — verify against external sources.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Cross-chapter work: use Part apparatus; do not duplicate Part bibliography here.
+- Phase 2 slim (2026-06-09): Layers 3–6 moved to Part commentary.

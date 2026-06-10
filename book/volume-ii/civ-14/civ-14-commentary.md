@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 part_commentary_path: ../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md#civ-14
 part_bibliography_path: ../../volume-i-civilization/parts/part-03-roman-imperium-bibliography.md
@@ -64,14 +64,14 @@ Every claim below is tied to the transcript body in `civ-14-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture maps Rome's rise within Italy, Sicily, Greece, Carthage, and Etruscan power. | `civ-14-transcript.md:32` | Explicit / Strong Implied | High |
-| 2 | Roman power is explained through manpower and values, especially open citizenship. | `civ-14-transcript.md:38` | Explicit / Strong Implied | High |
-| 3 | Pyrrhus and the First Punic War are treated as tests that force Roman adaptation. | `civ-14-transcript.md:41` | Explicit / Strong Implied | High |
-| 4 | Hannibal and Cannae become the central crisis of Roman resilience. | `civ-14-transcript.md:46` | Explicit / Strong Implied | High |
-| 5 | Cohesion, discipline, and devotion recur as the explanatory frame. | `civ-14-transcript.md:62` | Explicit / Strong Implied | High |
-| 6 | The lecture contrasts Greek, Carthaginian, and Roman character. | `civ-14-transcript.md:35` | Explicit / Strong Implied | High |
-| 7 | Brutus and anti-king myth anchor republican identity. | `civ-14-transcript.md:87` | Explicit / Strong Implied | High |
-| 8 | The destruction of Carthage closes the Punic arc and previews Caesar. | `civ-14-transcript.md:122` | Explicit / Strong Implied | High |
+| 1 | The lecture maps Rome's rise within Italy, Sicily, Greece, Carthage, and Etruscan power. | `civ-14-transcript.md#rome-power-map-opening` | Explicit / Strong Implied | High |
+| 2 | Roman power is explained through manpower and values, especially open citizenship. | `civ-14-transcript.md#open-citizenship-manpower` | Explicit / Strong Implied | High |
+| 3 | Pyrrhus and the First Punic War are treated as tests that force Roman adaptation. | `civ-14-transcript.md#pyrrhus-first-punic` | Explicit / Strong Implied | High |
+| 4 | Hannibal and Cannae become the central crisis of Roman resilience. | `civ-14-transcript.md#hannibal-cannae-crisis` | Explicit / Strong Implied | High |
+| 5 | Cohesion, discipline, and devotion recur as the explanatory frame. | `civ-14-transcript.md#cohesion-discipline-devotion` | Explicit / Strong Implied | High |
+| 6 | The lecture contrasts Greek, Carthaginian, and Roman character. | `civ-14-transcript.md#character-values-frame` | Explicit / Strong Implied | High |
+| 7 | Brutus and anti-king myth anchor republican identity. | `civ-14-transcript.md#brutus-republic-myth` | Explicit / Strong Implied | High |
+| 8 | The destruction of Carthage closes the Punic arc and previews Caesar. | `civ-14-transcript.md#carthage-destruction-close` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

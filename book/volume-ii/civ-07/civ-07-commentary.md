@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -63,34 +63,34 @@ Every claim below is tied to the transcript body in `civ-07-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | Greek civilization is framed as the creative source of Western civilization through Homer, Plato, and Thucydides. | `civ-07-transcript.md:32-35` | Explicit | High |
-| 2 | The Bronze Age collapse left Greece decentralized, illiterate, and poor. | `civ-07-transcript.md:35-38` | Explicit | High |
-| 3 | The lecture argues that destruction made Greek creativity possible. | `civ-07-transcript.md:38` | Explicit | High |
-| 4 | The polis, alphabet, and Homer are presented as the three major reasons Greek civilization rose. | `civ-07-transcript.md:39-41` | Explicit | High |
-| 5 | Polis competition, geographic diversity, and democratic participation are presented as drivers of innovation. | `civ-07-transcript.md:41-45` | Explicit | High |
-| 6 | Writing is described as moving from pictogram to symbol to ideogram to syllable or sound to alphabet. | `civ-07-transcript.md:45-50` | Explicit | High |
-| 7 | Alphabetic writing is presented as a revolution because writing becomes closer to speech and less dependent on scribes. | `civ-07-transcript.md:50-52` | Explicit | High |
-| 8 | Oral culture is described as emotional, innovative, imaginative, and memory-intensive. | `civ-07-transcript.md:52-55` | Explicit | High |
-| 9 | Written culture is described as logical, disciplined, and reflective. | `civ-07-transcript.md:55-58` | Explicit | High |
-| 10 | The lecture argues that Greeks combined oral and written advantages through the alphabet. | `civ-07-transcript.md:57-58` | Explicit | High |
-| 11 | Homer is presented as a poet serving ordinary people through entertainment, education, and edification rather than royal propaganda. | `civ-07-transcript.md:59-67` | Explicit | High |
-| 12 | The Iliad is described as creating empathy by giving both Greek and Trojan perspectives. | `civ-07-transcript.md:72-73` | Explicit | High |
-| 13 | The Iliad is described as creating human psychology through Achilles, Agamemnon, Patroclus, Hector, and Priam. | `civ-07-transcript.md:74-80` | Explicit | High |
-| 14 | Metaphor is presented as a tool for thought and one of the Iliad's key innovations. | `civ-07-transcript.md:81-82` | Explicit | High |
-| 15 | Homer is said to create a new theory of the human based on seeing, feeling, and thinking. | `civ-07-transcript.md:82-84` | Explicit | High |
-| 16 | The lecture contrasts Greek alphabetic openness and poet-centered culture with Chinese literacy monopoly and censorship. | `civ-07-transcript.md:85-93` | Explicit | High |
+| 1 | Greek civilization is framed as the creative source of Western civilization through Homer, Plato, and Thucydides. | `civ-07-transcript.md#greek-western-source` | Explicit | High |
+| 2 | The Bronze Age collapse left Greece decentralized, illiterate, and poor. | `civ-07-transcript.md#bronze-age-collapse-greece` | Explicit | High |
+| 3 | The lecture argues that destruction made Greek creativity possible. | `civ-07-transcript.md#destruction-enables-creativity` | Explicit | High |
+| 4 | The polis, alphabet, and Homer are presented as the three major reasons Greek civilization rose. | `civ-07-transcript.md#three-pillars-polis-alphabet-homer` | Explicit | High |
+| 5 | Polis competition, geographic diversity, and democratic participation are presented as drivers of innovation. | `civ-07-transcript.md#polis-competition-diversity` | Explicit | High |
+| 6 | Writing is described as moving from pictogram to symbol to ideogram to syllable or sound to alphabet. | `civ-07-transcript.md#alphabet-evolution` | Explicit | High |
+| 7 | Alphabetic writing is presented as a revolution because writing becomes closer to speech and less dependent on scribes. | `civ-07-transcript.md#alphabet-speech-revolution` | Explicit | High |
+| 8 | Oral culture is described as emotional, innovative, imaginative, and memory-intensive. | `civ-07-transcript.md#oral-culture-advantages` | Explicit | High |
+| 9 | Written culture is described as logical, disciplined, and reflective. | `civ-07-transcript.md#literary-culture-advantages` | Explicit | High |
+| 10 | The lecture argues that Greeks combined oral and written advantages through the alphabet. | `civ-07-transcript.md#oral-literary-synthesis` | Explicit | High |
+| 11 | Homer is presented as a poet serving ordinary people through entertainment, education, and edification rather than royal propaganda. | `civ-07-transcript.md#homer-poet-for-people` | Explicit | High |
+| 12 | The Iliad is described as creating empathy by giving both Greek and Trojan perspectives. | `civ-07-transcript.md#iliad-empathy` | Explicit | High |
+| 13 | The Iliad is described as creating human psychology through Achilles, Agamemnon, Patroclus, Hector, and Priam. | `civ-07-transcript.md#iliad-psychology` | Explicit | High |
+| 14 | Metaphor is presented as a tool for thought and one of the Iliad's key innovations. | `civ-07-transcript.md#iliad-metaphor` | Explicit | High |
+| 15 | Homer is said to create a new theory of the human based on seeing, feeling, and thinking. | `civ-07-transcript.md#homer-theory-of-human` | Explicit | High |
+| 16 | The lecture contrasts Greek alphabetic openness and poet-centered culture with Chinese literacy monopoly and censorship. | `civ-07-transcript.md#greece-china-contrast` | Explicit | High |
 
 ### Core Concepts Defined
 
-- **Polis**: a small political community where citizens discuss and defend common life. `civ-07-transcript.md:39-45`
-- **Alphabet**: the writing system treated as turning writing toward speech and widening literacy. `civ-07-transcript.md:45-52`
-- **Oral culture**: speech-based culture marked by emotion, improvisation, and strong memory. `civ-07-transcript.md:52-55`
-- **Literary culture**: writing-based culture marked by logic, discipline, and reflection. `civ-07-transcript.md:55-58`
-- **Homer**: the poet presented as Greek civilization's founder because he reshaped imagination rather than merely legitimating kings. `civ-07-transcript.md:59-67`, `civ-07-transcript.md:83-84`
-- **Empathy**: the ability to see from another side, created here through Greek and Trojan perspectives. `civ-07-transcript.md:72-73`
-- **Human psychology**: the Iliad's attention to motivation, guilt, anger, shame, grief, and remorse. `civ-07-transcript.md:74-80`
-- **Metaphor**: a connection between previously unconnected things, treated as a tool for thought. `civ-07-transcript.md:81-82`
-- **Scholar-official literacy monopoly**: the China comparison in which elite control of writing limits poetic independence. `civ-07-transcript.md:87-93`
+- **Polis**: a small political community where citizens discuss and defend common life. `civ-07-transcript.md#three-pillars-polis-alphabet-homer`
+- **Alphabet**: the writing system treated as turning writing toward speech and widening literacy. `civ-07-transcript.md#alphabet-speech-revolution`
+- **Oral culture**: speech-based culture marked by emotion, improvisation, and strong memory. `civ-07-transcript.md#oral-culture-advantages`
+- **Literary culture**: writing-based culture marked by logic, discipline, and reflection. `civ-07-transcript.md#literary-culture-advantages`
+- **Homer**: the poet presented as Greek civilization's founder because he reshaped imagination rather than merely legitimating kings. `civ-07-transcript.md#homer-poet-for-people`, `civ-07-transcript.md#homer-theory-of-human`
+- **Empathy**: the ability to see from another side, created here through Greek and Trojan perspectives. `civ-07-transcript.md#iliad-empathy`
+- **Human psychology**: the Iliad's attention to motivation, guilt, anger, shame, grief, and remorse. `civ-07-transcript.md#iliad-psychology`
+- **Metaphor**: a connection between previously unconnected things, treated as a tool for thought. `civ-07-transcript.md#iliad-metaphor`
+- **Scholar-official literacy monopoly**: the China comparison in which elite control of writing limits poetic independence. `civ-07-transcript.md#greece-china-contrast`
 ---
 
 ## Part apparatus

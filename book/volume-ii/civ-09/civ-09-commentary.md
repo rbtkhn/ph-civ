@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -63,33 +63,33 @@ Every claim below is tied to the transcript body in `civ-09-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture begins from the problem of how societies create collective identity through institutions such as schools, media, and entertainment. | `civ-09-transcript.md:32-34` | Explicit | High |
-| 2 | Athenian theater is presented as creating identity as democratic citizens. | `civ-09-transcript.md:34-36` | Explicit | High |
-| 3 | The Festival of Dionysus is described as a mass civic, religious, artistic, and democratic event. | `civ-09-transcript.md:35-39` | Explicit | High |
-| 4 | Aeschylus, Sophocles, and Euripides are described as prophets or teachers of democracy. | `civ-09-transcript.md:39-40` | Explicit | High |
-| 5 | The Oresteia is narrated as a movement from revenge within the House of Atreus to Athenian civic judgment. | `civ-09-transcript.md:43-56` | Explicit | High |
-| 6 | The lecture interprets the Oresteia as teaching Athenians that democracy is a divine gift and a serious responsibility. | `civ-09-transcript.md:56-58` | Explicit | High |
-| 7 | The Oedipus story is narrated as fate, plague, patricide, incest, exile, succession crisis, and civil conflict. | `civ-09-transcript.md:59-65` | Explicit | High |
-| 8 | Antigone is presented as a conflict between Creon's law and divine unwritten justice. | `civ-09-transcript.md:65-71` | Explicit | High |
-| 9 | Sophocles is interpreted as anti-king because monarchy produces hubris and bad judgment. | `civ-09-transcript.md:71-73` | Explicit | High |
-| 10 | The lecture says society works when the old give way to the young. | `civ-09-transcript.md:72-73` | Explicit | High |
-| 11 | Euripides is presented as less respected because he criticized Athenian democracy. | `civ-09-transcript.md:74-75` | Explicit | High |
-| 12 | The Trojan Women is tied to Athens's massacre and enslavement at Melos and read as a critique of empire. | `civ-09-transcript.md:75-79` | Explicit | High |
-| 13 | The Bacchae is narrated through Dionysus, Pentheus, Theban women, and the mother holding her son's head. | `civ-09-transcript.md:80-86` | Explicit | High |
-| 14 | The lecture interprets the Bacchae as a metaphor for war and empire, where older generations send young people to die for glory. | `civ-09-transcript.md:86-92` | Explicit | High |
-| 15 | The lecture identifies alternative interpretations of the Bacchae as religious fanaticism or satire of theater and democracy. | `civ-09-transcript.md:93-96` | Explicit | High |
-| 16 | Revenge and hubris are identified as recurring tragic themes and drivers of violence and bad judgment. | `civ-09-transcript.md:97-98` | Explicit | High |
+| 1 | The lecture begins from the problem of how societies create collective identity through institutions such as schools, media, and entertainment. | `civ-09-transcript.md#collective-identity-institutions` | Explicit | High |
+| 2 | Athenian theater is presented as creating identity as democratic citizens. | `civ-09-transcript.md#theater-democratic-citizen` | Explicit | High |
+| 3 | The Festival of Dionysus is described as a mass civic, religious, artistic, and democratic event. | `civ-09-transcript.md#festival-dionysus` | Explicit | High |
+| 4 | Aeschylus, Sophocles, and Euripides are described as prophets or teachers of democracy. | `civ-09-transcript.md#prophets-of-democracy` | Explicit | High |
+| 5 | The Oresteia is narrated as a movement from revenge within the House of Atreus to Athenian civic judgment. | `civ-09-transcript.md#oresteia-plot` | Explicit | High |
+| 6 | The lecture interprets the Oresteia as teaching Athenians that democracy is a divine gift and a serious responsibility. | `civ-09-transcript.md#oresteia-democracy-gift` | Explicit | High |
+| 7 | The Oedipus story is narrated as fate, plague, patricide, incest, exile, succession crisis, and civil conflict. | `civ-09-transcript.md#oedipus-trilogy` | Explicit | High |
+| 8 | Antigone is presented as a conflict between Creon's law and divine unwritten justice. | `civ-09-transcript.md#antigone-unwritten-law` | Explicit | High |
+| 9 | Sophocles is interpreted as anti-king because monarchy produces hubris and bad judgment. | `civ-09-transcript.md#sophocles-anti-king` | Explicit | High |
+| 10 | The lecture says society works when the old give way to the young. | `civ-09-transcript.md#old-give-way-young` | Explicit | High |
+| 11 | Euripides is presented as less respected because he criticized Athenian democracy. | `civ-09-transcript.md#euripides-critic` | Explicit | High |
+| 12 | The Trojan Women is tied to Athens's massacre and enslavement at Melos and read as a critique of empire. | `civ-09-transcript.md#trojan-women-melos` | Explicit | High |
+| 13 | The Bacchae is narrated through Dionysus, Pentheus, Theban women, and the mother holding her son's head. | `civ-09-transcript.md#bacchae-plot` | Explicit | High |
+| 14 | The lecture interprets the Bacchae as a metaphor for war and empire, where older generations send young people to die for glory. | `civ-09-transcript.md#bacchae-empire-metaphor` | Explicit | High |
+| 15 | The lecture identifies alternative interpretations of the Bacchae as religious fanaticism or satire of theater and democracy. | `civ-09-transcript.md#bacchae-alt-interpretations` | Explicit | High |
+| 16 | Revenge and hubris are identified as recurring tragic themes and drivers of violence and bad judgment. | `civ-09-transcript.md#revenge-hubris-themes` | Explicit | High |
 
 ### Core Concepts Defined
 
-- **Democratic paideia**: theater as civic education for democratic identity and responsibility. `civ-09-transcript.md:34-40`
-- **Festival of Dionysus**: the civic-religious theatrical event through which Athens stages itself to itself. `civ-09-transcript.md:35-39`
-- **Prophets of democracy**: the lecture's name for playwrights who teach Athens how to understand democracy. `civ-09-transcript.md:39-40`
-- **Oresteia**: Aeschylus's revenge-to-jury story, used to explain democracy's divine and civic authority. `civ-09-transcript.md:43-58`
-- **Natural law / unwritten law**: Antigone's claim that human law must answer to higher justice. `civ-09-transcript.md:65-71`
-- **Hubris**: excessive arrogance under power, presented as the recurring problem of kings and elites. `civ-09-transcript.md:71-73`, `civ-09-transcript.md:97-98`
-- **Trojan Women**: Euripides's play used to indict Athenian empire after Melos. `civ-09-transcript.md:75-79`
-- **Bacchae**: Euripides's play read here as an image of empire sacrificing the young. `civ-09-transcript.md:80-96`
+- **Democratic paideia**: theater as civic education for democratic identity and responsibility. `civ-09-transcript.md#theater-democratic-citizen`
+- **Festival of Dionysus**: the civic-religious theatrical event through which Athens stages itself to itself. `civ-09-transcript.md#festival-dionysus`
+- **Prophets of democracy**: the lecture's name for playwrights who teach Athens how to understand democracy. `civ-09-transcript.md#prophets-of-democracy`
+- **Oresteia**: Aeschylus's revenge-to-jury story, used to explain democracy's divine and civic authority. `civ-09-transcript.md#oresteia-democracy-gift`
+- **Natural law / unwritten law**: Antigone's claim that human law must answer to higher justice. `civ-09-transcript.md#antigone-unwritten-law`
+- **Hubris**: excessive arrogance under power, presented as the recurring problem of kings and elites. `civ-09-transcript.md#sophocles-anti-king`, `civ-09-transcript.md#revenge-hubris-themes`
+- **Trojan Women**: Euripides's play used to indict Athenian empire after Melos. `civ-09-transcript.md#trojan-women-melos`
+- **Bacchae**: Euripides's play read here as an image of empire sacrificing the young. `civ-09-transcript.md#bacchae-empire-metaphor`
 ---
 
 ## Part apparatus

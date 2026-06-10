@@ -30,7 +30,7 @@ Planning doc for extending the **Part II/III hybrid model** (thin chapter + thic
 | Validator | `volume_i_parts.py` Part IV README checks (mirror Part III) | **Met** — `part-04-ancient-foundations` block |
 | Interfaith / archaeology guardrails | Bibliography + counter-readings for Bible/Persia claims | **Met** — external-verify pass 2026-06-09 on bibliography ledger |
 
-**Recommendation:** Part IV hybrid pilot **complete** through Phase 3. Next: external-verify, pin-cite cleanup, or Part V readiness inventory.
+**Recommendation:** Part IV hybrid pilot **complete** through Phase 3 + pin-cite **Cleared** (`civ-19`–`23`). Phase 2 slim (`civ-18`–`23`) unchanged — reconfirmed 2026-06-09 batch.
 
 ---
 

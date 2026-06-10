@@ -23,14 +23,14 @@ Planning doc for extending the **Part II/III/IV hybrid model** (thin chapter + t
 | Gate | Threshold | Current (2026-06-09) |
 |------|-----------|----------------------|
 | Chapter Layer 0–2 | All five chapters have transcript-anchored claims + line/section refs | **Met** — 8 L2 claims each; transcript `###` sections + `#anchor` refs (pin-cite prep 2026-06-09); chapter `analysis_depth: layer2_drafted` |
-| Chapter slimming | Willing to move Layers 3–6 to Part apparatus | **Not met** — `civ-24`–`28` retain **full Layer 0–6** (+ `civ-25` Tolstoy Lens block) |
+| Chapter slimming | Willing to move Layers 3–6 to Part apparatus | **Met** — `civ-24`–`28` thin Layer 0–2 + Part pointer (Phase 2 slim 2026-06-09); Tolstoy Lens in Part `civ-25` section only |
 | GB weave | Registry `great_books_weave` | **N/A** — empty array; no `gb-NN` Part sections required |
 | SH companion | `sh-18` @ `civ-28` deepening documented | **Partial** — doorway + registry wired; staged wrapper in `secret-history-support/`; **`volume-vi/sh-18/`** seed commentary; Part `### sh-18` pointer + SH predictions in commentary |
 | Cross-Part bridge | Part IV `civ-23` handoff + Yahwist/covenant/messianic carry | **Met** — Part IV forward rows **Partially supported**; Part V ingress + Yahwist clash in commentary |
 | Validator | `volume_i_parts.py` Part V README checks (mirror Part IV) | **Not started** |
 | Interfaith / theology guardrails | Bibliography + counter-readings for Jesus/Paul/Islam claims | **Met** — Phase 1 bibliography + Part counter-readings seeded |
 
-**Recommendation:** **Phase 2 ready** — slim `civ-24`–`28`, README lattice, validator Part V checks.
+**Recommendation:** Part V hybrid pilot **Phase 2 complete**. Next: Phase 3 validator/docs, external-verify, or deepen Part sections.
 
 ---
 
@@ -107,7 +107,11 @@ Planning doc for extending the **Part II/III/IV hybrid model** (thin chapter + t
 
 ### Phase 1 — Author only (~1–2 sessions) — **Done** (2026-06-09)
 
-### Phase 2 — Reader reshape (~1–2 sessions) — **Not started**
+### Phase 2 — Reader reshape (~1–2 sessions) — **Done** (2026-06-09)
+
+- Slim `civ-24`–`28` to Layer 0–2 + Part apparatus (`scripts/part_v_phase2_slim.py`)
+- Update `volume-ii/` READMEs (6-step lattice + Part V links)
+- Chapter frontmatter: `part_commentary_path`, `part_bibliography_path`
 
 ### Phase 3 — Validator + docs (~half session) — **Not started**
 

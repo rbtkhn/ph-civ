@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,14 +62,14 @@ Every claim below is tied to the transcript body in `civ-11-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | Greek culture spread through conquest more than simple diffusion in the lecture's frame. | `civ-11-transcript.md:32` | Explicit / Strong Implied | High |
-| 2 | The father-son analogy marks Philip as founder and Alexander as expander. | `civ-11-transcript.md:33` | Explicit / Strong Implied | High |
-| 3 | The poor-rich state thought experiment explains Macedonian hunger, unity, and obedience. | `civ-11-transcript.md:50` | Explicit / Strong Implied | High |
-| 4 | Macedon's geography and raiding environment create pressure toward military adaptation. | `civ-11-transcript.md:32` | Explicit / Strong Implied | High |
-| 5 | Philip's Theban hostage years expose him to the Sacred Band and phalanx discipline. | `civ-11-transcript.md:64` | Explicit / Strong Implied | High |
-| 6 | Philip builds loyalty through meritocracy, shared hardship, and commanders such as Parmenion. | `civ-11-transcript.md:76` | Explicit / Strong Implied | High |
-| 7 | Amphipolis and gold expand Philip's state capacity. | `civ-11-transcript.md:83` | Explicit / Strong Implied | High |
-| 8 | Chaeronea and the destroyed Sacred Band mark the Greek city-state defeat before Macedonian leadership. | `civ-11-transcript.md:85` | Explicit / Strong Implied | High |
+| 1 | Greek culture spread through conquest more than simple diffusion in the lecture's frame. | `civ-11-transcript.md#conquest-not-diffusion` | Explicit / Strong Implied | High |
+| 2 | The father-son analogy marks Philip as founder and Alexander as expander. | `civ-11-transcript.md#father-son-analogy` | Explicit / Strong Implied | High |
+| 3 | The poor-rich state thought experiment explains Macedonian hunger, unity, and obedience. | `civ-11-transcript.md#poor-rich-thought-experiment` | Explicit / Strong Implied | High |
+| 4 | Macedon's geography and raiding environment create pressure toward military adaptation. | `civ-11-transcript.md#macedon-geography-pressure` | Explicit / Strong Implied | High |
+| 5 | Philip's Theban hostage years expose him to the Sacred Band and phalanx discipline. | `civ-11-transcript.md#thebes-sacred-band` | Explicit / Strong Implied | High |
+| 6 | Philip builds loyalty through meritocracy, shared hardship, and commanders such as Parmenion. | `civ-11-transcript.md#philip-meritocracy-parmenion` | Explicit / Strong Implied | High |
+| 7 | Amphipolis and gold expand Philip's state capacity. | `civ-11-transcript.md#amphipolis-gold` | Explicit / Strong Implied | High |
+| 8 | Chaeronea and the destroyed Sacred Band mark the Greek city-state defeat before Macedonian leadership. | `civ-11-transcript.md#chaeronea-sacred-band` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

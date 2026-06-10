@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,14 +62,14 @@ Every claim below is tied to the transcript body in `civ-13-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture organizes Aristotle around paradoxes of lost originals, encyclopedic range, and anti-Platonic cosmology. | `civ-13-transcript.md:52` | Explicit / Strong Implied | High |
-| 2 | Aristotle is contrasted with Plato's form of the good and shadow world. | `civ-13-transcript.md:36` | Explicit / Strong Implied | High |
-| 3 | Aristotle's cosmology is framed through prime mover, telos, motion, and purpose. | `civ-13-transcript.md:40` | Explicit / Strong Implied | High |
-| 4 | The lecture reads Aristotle as part of a state knowledge project. | `civ-13-transcript.md:56` | Explicit / Strong Implied | High |
-| 5 | Alexander and Hellenistic successor kingdoms are tied to knowledge organization. | `civ-13-transcript.md:63` | Explicit / Strong Implied | High |
-| 6 | The Library of Alexandria and Museum become institutional symbols of this project. | `civ-13-transcript.md:73` | Explicit / Strong Implied | High |
-| 7 | Greek culture shifts from Panhellenic to Hellenistic scope. | `civ-13-transcript.md:32` | Explicit / Strong Implied | High |
-| 8 | Education and Greek-Jewish synthesis are previewed as future legacy channels. | `civ-13-transcript.md:54` | Explicit / Strong Implied | High |
+| 1 | The lecture organizes Aristotle around paradoxes of lost originals, encyclopedic range, and anti-Platonic cosmology. | `civ-13-transcript.md#aristotle-paradox-opening` | Explicit / Strong Implied | High |
+| 2 | Aristotle is contrasted with Plato's form of the good and shadow world. | `civ-13-transcript.md#plato-forms-contrast` | Explicit / Strong Implied | High |
+| 3 | Aristotle's cosmology is framed through prime mover, telos, motion, and purpose. | `civ-13-transcript.md#aristotle-cosmology-telos` | Explicit / Strong Implied | High |
+| 4 | The lecture reads Aristotle as part of a state knowledge project. | `civ-13-transcript.md#aristotle-as-censor` | Explicit / Strong Implied | High |
+| 5 | Alexander and Hellenistic successor kingdoms are tied to knowledge organization. | `civ-13-transcript.md#philip-aristotle-parallel` | Explicit / Strong Implied | High |
+| 6 | The Library of Alexandria and Museum become institutional symbols of this project. | `civ-13-transcript.md#pan-hellenic-project` | Explicit / Strong Implied | High |
+| 7 | Greek culture shifts from Panhellenic to Hellenistic scope. | `civ-13-transcript.md#hellenistic-successor-kingdoms` | Explicit / Strong Implied | High |
+| 8 | Education and Greek-Jewish synthesis are previewed as future legacy channels. | `civ-13-transcript.md#library-alexandria-museum` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

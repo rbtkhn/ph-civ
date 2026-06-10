@@ -28,6 +28,8 @@ representation_not_endorsement: true
 canvas_status: open
 analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
+part_commentary_path: ../../volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#civ-25
+part_bibliography_path: ../../volume-i-civilization/parts/part-05-christianity-and-islam-bibliography.md
 ---
 
 # Commentary - Civilization
@@ -81,120 +83,27 @@ Every claim below is tied to the transcript body in `civ-25-transcript.md`.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
+---
 
-Explicitly testable items only.
+## Part apparatus
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| The next chapter will move to monotheism and Constantine's imperial religious revolution. | E | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-05-13 | Pending | In-review control. |
-| Later imperial Christianity chapters should test whether Paul's transformation enables Roman adoption. | C | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-05-13 | Pending | In-review control. |
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part V live in the Part files:
 
-**Meta-Prediction Patterns**
+- [Part V commentary](../../volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#civ-25) — Pauline hinge, Gentile opening, spy thesis (bounded in Part commentary)
+- [Part V bibliography](../../volume-i-civilization/parts/part-05-christianity-and-islam-bibliography.md)
 
-- The lecture treats religion as a sequence of textual, imperial, theological, and institutional transformations rather than as a single origin story.
-- The chapter should be checked against adjacent Civilization units before any final synthesis is claimed.
+Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| Paul-as-spy is a high-risk lecture thesis and must remain explicitly bounded. | `civ-25-transcript.md` | Keeps the in-review chapter bounded. | High |
-| Paul's relationship to James, Ebionites, Islam, and Jewish leaders requires external source review. | `civ-25-transcript.md` | Keeps the in-review chapter bounded. | High |
-| Acts as evidence should be treated as theological narrative and historical source with limits. | `civ-25-transcript.md` | Keeps the in-review chapter bounded. | High |
-| Faith, works, circumcision, miracles, tradition, and Catholic Bible access span long periods and should not be collapsed too quickly. | `civ-25-transcript.md` | Keeps the in-review chapter bounded. | High |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which claims are lecture shorthand and which should become final public historical claims?
-- Which archaeological, textual, theological, or translation claims require external source verification before completion?
-- Which adjacent chapters confirm or revise the placement proposed here?
-
----
-
-## Tolstoy Lens
-
-The Tolstoy Lens does not overrule Jiang's interpretation. It asks a second-order causation question beside it.
-
-- **Visible actor:** Paul of Tarsus.
-- **Pressure field:** messianic expectation, diaspora networks, Roman mobility and legal order, and Gentile-facing doctrinal portability.
-- **Agency boundary:** Paul matters as missionary, theologian, and organizer, but his transformation becomes historical because the movement can travel through Roman roads, law, cities, letters, and Gentile openings.
-- **Where this supports Jiang:** It supports the lecture's claim that Paul is a hinge between a local Jesus movement and a portable world religion.
-- **Where this complicates Jiang:** It bounds the high-risk Paul-as-spy thesis by asking which parts are actor agency and which parts are institutional or theological pressure.
-- **Falsifier / limit:** External textual, historical, and theological review may show that this lens compresses too many source layers or overstates Paul's singular agency.
-- **Return path:** Use the `civ-25` entry in `registries/causation-lenses.yaml` and the [Tolstoy Question corridor](../../../corpus/cross-volume/tolstoy-question.md).
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- Connection to `civ-24`: the Jesus chapter's source layers become a Pauline transformation problem.
-- Connection to `civ-26`: Paul prepares the question of how Christianity can become imperial monotheism.
-- Broader pattern: a religious movement can expand when doctrine is simplified, portable, and institutionally protected.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-- Verify proper nouns, dates, biblical source claims, theological categories, and translation-sensitive terms against external sources before any `complete` status.
-- Recheck ASR-sensitive names and places in the transcript before long excerpt use.
-- Preserve `representation_not_endorsement`; this commentary documents and tests the lecture's claims.
-- Keep this unit at `in-review` until external-source validation and final line-reference review are complete.
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Paul-as-spy thesis — lecture hypothesis only.
+- Tolstoy Lens adjunct lives in Part `civ-25` section (not chapter body).
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Cross-chapter work: use Part apparatus; do not duplicate Part bibliography here.
+- Phase 2 slim (2026-06-09): Layers 3–6 moved to Part commentary.

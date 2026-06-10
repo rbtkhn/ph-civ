@@ -28,6 +28,8 @@ representation_not_endorsement: true
 canvas_status: open
 analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
+part_commentary_path: ../../volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#civ-27
+part_bibliography_path: ../../volume-i-civilization/parts/part-05-christianity-and-islam-bibliography.md
 ---
 
 # Commentary - Civilization
@@ -81,106 +83,27 @@ Every claim below is tied to the transcript body in civ-27-transcript.md.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
+---
 
-Explicitly testable items only.
+## Part apparatus
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| The next chapter should show Arabia as a space where dissenting religious energies challenge Augustinian Catholic authority. | C | Later material or final review does not support this control. | 2026-05-13 | Pending | In-review control. |
-| Final review should test where Augustine's own texts end and where the lecture's polemical institutional reading begins. | C | Later material or final review does not support this control. | 2026-05-13 | Pending | In-review control. |
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part V live in the Part files:
 
-**Meta-Prediction Patterns**
+- [Part V commentary](../../volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#civ-27) — Augustine, City of God, obedience doctrine, Church out of history
+- [Part V bibliography](../../volume-i-civilization/parts/part-05-christianity-and-islam-bibliography.md)
 
-- The lecture treats religion as a sequence of textual, imperial, theological, and institutional transformations rather than as a single origin story.
-- The chapter should be checked against adjacent Civilization units before any final synthesis is claimed.
+Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| Augustine-as-architect is a useful course frame but compresses a much larger institutional history. | civ-27-transcript.md | Keeps the in-review chapter bounded. | High |
-| The Dark Ages framing, rape discussion, and gaslighting language are high-risk interpretive claims that require careful public handling. | civ-27-transcript.md | Keeps the in-review chapter bounded. | High |
-| Confessions and City of God are being read through the lecture's political lens and need external textual review before completion. | civ-27-transcript.md | Keeps the in-review chapter bounded. | High |
-| The direct line from Augustine to Arabia and Islam should remain a course transition, not a settled causal chain. | civ-27-transcript.md | Keeps the in-review chapter bounded. | High |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which claims are lecture shorthand and which should become final public historical claims?
-- Which archaeological, textual, theological, or translation claims require external source verification before completion?
-- Which adjacent chapters confirm or revise the placement proposed here?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- Connection to civ-26: the godhead and imperial Christianity become an Augustinian theory of Church authority.
-- Connection to civ-28: the chapter explicitly routes dissenting religious energies eastward toward Arabia and Islam.
-- Broader pattern: the chapter turns monotheism from imperial doctrine into a durable institution that manages legitimacy after imperial crisis.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-- Verify proper nouns, dates, biblical and Quranic source claims, theological categories, and translation-sensitive terms against external sources before any complete status.
-- Recheck ASR-sensitive names and places in the transcript before long excerpt use.
-- Preserve representation_not_endorsement; this commentary documents and tests the lecture's claims.
-- Keep this unit at in-review until external-source validation and final line-reference review are complete.
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Lucretia/obedience passages — text vs institutional reading.
+- Eastward dissent after Rome's sack — bibliography depth.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Cross-chapter work: use Part apparatus; do not duplicate Part bibliography here.
+- Phase 2 slim (2026-06-09): Layers 3–6 moved to Part commentary.

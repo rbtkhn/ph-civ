@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -63,41 +63,41 @@ Every claim below is tied to the transcript body in `civ-10-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture opens by summarizing theater as democratic education and Socrates as a famous opponent of democracy. | `civ-10-transcript.md:32-35` | Explicit | High |
-| 2 | Socrates is presented as arguing that democracy requires truth but most people cannot reason well enough to access truth. | `civ-10-transcript.md:34-35` | Explicit | High |
-| 3 | Socratic dialogue is presented as exposing flaws in reasoning and ignorance through questioning. | `civ-10-transcript.md:35-39` | Explicit | High |
-| 4 | Language is described as convention rather than truth, and Socrates is presented as exposing that gap. | `civ-10-transcript.md:38-39` | Explicit | High |
-| 5 | Aristophanes's Clouds is used to show Socrates as Athens saw him: fraudulent, impious, manipulative, or dangerous. | `civ-10-transcript.md:39-46` | Explicit | High |
-| 6 | Socrates is said to attract wealthy aristocratic students who hated democracy. | `civ-10-transcript.md:46-48` | Explicit | High |
-| 7 | The Thirty Tyrants are linked to Socratic students, while Socrates is said not to have participated. | `civ-10-transcript.md:48-50` | Explicit | High |
-| 8 | Socrates is tried in 399 BCE for impiety and corrupting the youth. | `civ-10-transcript.md:50-51` | Explicit | High |
-| 9 | The trial is described as turning against Socrates because he refuses ordinary defense and provokes the jury. | `civ-10-transcript.md:51-56` | Explicit | High |
-| 10 | Socrates's death is interpreted as performance art or martyrdom for truth. | `civ-10-transcript.md:56-58` | Explicit | High |
-| 11 | Plato is presented as dedicating his life to redeeming Socrates's reputation. | `civ-10-transcript.md:58-59` | Explicit | High |
-| 12 | The Republic and Allegory of the Cave are presented as central works of Western philosophy. | `civ-10-transcript.md:58-60` | Explicit | High |
-| 13 | The cave allegory is narrated through prisoners, shadows, ascent, the sun, return, failure of language, and death. | `civ-10-transcript.md:60-67` | Explicit | High |
-| 14 | The lecture says the allegory redeems Socrates, gives Christians a Jesus-like martyr image, and provides Christianity with an intellectual framework. | `civ-10-transcript.md:67-74` | Explicit | High |
-| 15 | Plato's good society is presented as anti-democratic and ruled by philosopher-kings who can access truth. | `civ-10-transcript.md:74-76` | Explicit | High |
-| 16 | Plato's influence is explained through readable dialogue, anti-democratic usefulness to kings, and the Academy's elite network. | `civ-10-transcript.md:77-82` | Explicit | High |
-| 17 | Plato is described as influenced by wider Greek, Egyptian, Mesopotamian, Persian, and Presocratic intellectual worlds. | `civ-10-transcript.md:83-86` | Explicit | High |
-| 18 | The lecture previews Macedonia, Philip II, Alexander, and Hellenistic spread, but the transcript cuts off mid-sentence. | `civ-10-transcript.md:89-90` | Explicit | High |
-| 19 | The lecture itself admits uncertainty about Plato's influences because many relevant sources are lost. | `civ-10-transcript.md:83-86` | Explicit | High |
-| 20 | Plato's Syracuse episode is presented as evidence that Plato's political practice did not succeed cleanly. | `civ-10-transcript.md:87-88` | Explicit | High |
+| 1 | The lecture opens by summarizing theater as democratic education and Socrates as a famous opponent of democracy. | `civ-10-transcript.md#theater-socrates-opening` | Explicit | High |
+| 2 | Socrates is presented as arguing that democracy requires truth but most people cannot reason well enough to access truth. | `civ-10-transcript.md#democracy-needs-truth` | Explicit | High |
+| 3 | Socratic dialogue is presented as exposing flaws in reasoning and ignorance through questioning. | `civ-10-transcript.md#socratic-dialogue` | Explicit | High |
+| 4 | Language is described as convention rather than truth, and Socrates is presented as exposing that gap. | `civ-10-transcript.md#language-convention` | Explicit | High |
+| 5 | Aristophanes's Clouds is used to show Socrates as Athens saw him: fraudulent, impious, manipulative, or dangerous. | `civ-10-transcript.md#clouds-aristophanes` | Explicit | High |
+| 6 | Socrates is said to attract wealthy aristocratic students who hated democracy. | `civ-10-transcript.md#aristocratic-students` | Explicit | High |
+| 7 | The Thirty Tyrants are linked to Socratic students, while Socrates is said not to have participated. | `civ-10-transcript.md#thirty-tyrants` | Explicit | High |
+| 8 | Socrates is tried in 399 BCE for impiety and corrupting the youth. | `civ-10-transcript.md#trial-399-bce` | Explicit | High |
+| 9 | The trial is described as turning against Socrates because he refuses ordinary defense and provokes the jury. | `civ-10-transcript.md#trial-provocation` | Explicit | High |
+| 10 | Socrates's death is interpreted as performance art or martyrdom for truth. | `civ-10-transcript.md#death-performance-art` | Explicit | High |
+| 11 | Plato is presented as dedicating his life to redeeming Socrates's reputation. | `civ-10-transcript.md#plato-redeems-socrates` | Explicit | High |
+| 12 | The Republic and Allegory of the Cave are presented as central works of Western philosophy. | `civ-10-transcript.md#republic-cave-intro` | Explicit | High |
+| 13 | The cave allegory is narrated through prisoners, shadows, ascent, the sun, return, failure of language, and death. | `civ-10-transcript.md#cave-narrative` | Explicit | High |
+| 14 | The lecture says the allegory redeems Socrates, gives Christians a Jesus-like martyr image, and provides Christianity with an intellectual framework. | `civ-10-transcript.md#cave-christianity-bridge` | Explicit | High |
+| 15 | Plato's good society is presented as anti-democratic and ruled by philosopher-kings who can access truth. | `civ-10-transcript.md#philosopher-king` | Explicit | High |
+| 16 | Plato's influence is explained through readable dialogue, anti-democratic usefulness to kings, and the Academy's elite network. | `civ-10-transcript.md#plato-influence-kings` | Explicit | High |
+| 17 | Plato is described as influenced by wider Greek, Egyptian, Mesopotamian, Persian, and Presocratic intellectual worlds. | `civ-10-transcript.md#plato-influences-lost` | Explicit | High |
+| 18 | The lecture previews Macedonia, Philip II, Alexander, and Hellenistic spread, but the transcript cuts off mid-sentence. | `civ-10-transcript.md#macedonia-preview` | Explicit | High |
+| 19 | The lecture itself admits uncertainty about Plato's influences because many relevant sources are lost. | `civ-10-transcript.md#plato-influences-lost` | Explicit | High |
+| 20 | Plato's Syracuse episode is presented as evidence that Plato's political practice did not succeed cleanly. | `civ-10-transcript.md#syracuse-failure` | Explicit | High |
 
 ### Core Concepts Defined
 
-- **Socratic dialogue**: questioning that exposes contradictions and ignorance in ordinary claims. `civ-10-transcript.md:35-39`
-- **Language versus truth**: Socrates's problem that language is conventional and does not capture reality directly. `civ-10-transcript.md:38-39`
-- **The Clouds**: Aristophanes's satire used to show Socrates's reputation as trickster and impious manipulator. `civ-10-transcript.md:39-46`
-- **Three Socrates layers**: Socrates as comic target in Aristophanes, Socrates as philosophical hero in Plato, and historical Socrates as a harder figure to reconstruct. `civ-10-transcript.md:39-46`, `civ-10-transcript.md:58-68`
-- **Thirty Tyrants**: postwar dictatorship tied to Socratic circles in the lecture's account. `civ-10-transcript.md:48-50`
-- **Trial of Socrates**: the 399 BCE proceeding for impiety and corrupting the youth. `civ-10-transcript.md:50-58`
-- **Academy**: Plato's school, presented as a powerful elite intellectual network. `civ-10-transcript.md:58`, `civ-10-transcript.md:81-82`
-- **Allegory of the Cave**: Plato's metaphor for appearance, truth, philosophical ascent, return, and rejection. `civ-10-transcript.md:60-74`
-- **Form of the Good**: the higher source of truth, beauty, justice, and reason in the lecture's Platonic map. `civ-10-transcript.md:69-73`
-- **Christianity bridge claim**: the lecture's claim that Platonic two-world metaphysics and truth-martyr imagery become an intellectual framework for Christianity; this is not a complete origin story. `civ-10-transcript.md:67-74`
-- **Philosopher-king**: Plato's anti-democratic ruler who can access truth through reason. `civ-10-transcript.md:74-76`
-- **Hellenistic spread**: the next historical move in which Greek culture spreads through Macedonia, Philip II, and Alexander. `civ-10-transcript.md:89-90`
+- **Socratic dialogue**: questioning that exposes contradictions and ignorance in ordinary claims. `civ-10-transcript.md#socratic-dialogue`
+- **Language versus truth**: Socrates's problem that language is conventional and does not capture reality directly. `civ-10-transcript.md#language-convention`
+- **The Clouds**: Aristophanes's satire used to show Socrates's reputation as trickster and impious manipulator. `civ-10-transcript.md#clouds-aristophanes`
+- **Three Socrates layers**: Socrates as comic target in Aristophanes, Socrates as philosophical hero in Plato, and historical Socrates as a harder figure to reconstruct. `civ-10-transcript.md#clouds-aristophanes`, `civ-10-transcript.md#plato-redeems-socrates`
+- **Thirty Tyrants**: postwar dictatorship tied to Socratic circles in the lecture's account. `civ-10-transcript.md#thirty-tyrants`
+- **Trial of Socrates**: the 399 BCE proceeding for impiety and corrupting the youth. `civ-10-transcript.md#trial-provocation`
+- **Academy**: Plato's school, presented as a powerful elite intellectual network. `civ-10-transcript.md#plato-redeems-socrates`, `civ-10-transcript.md#plato-influence-kings`
+- **Allegory of the Cave**: Plato's metaphor for appearance, truth, philosophical ascent, return, and rejection. `civ-10-transcript.md#cave-narrative`
+- **Form of the Good**: the higher source of truth, beauty, justice, and reason in the lecture's Platonic map. `civ-10-transcript.md#cave-christianity-bridge`
+- **Christianity bridge claim**: the lecture's claim that Platonic two-world metaphysics and truth-martyr imagery become an intellectual framework for Christianity; this is not a complete origin story. `civ-10-transcript.md#cave-christianity-bridge`
+- **Philosopher-king**: Plato's anti-democratic ruler who can access truth through reason. `civ-10-transcript.md#philosopher-king`
+- **Hellenistic spread**: the next historical move in which Greek culture spreads through Macedonia, Philip II, and Alexander. `civ-10-transcript.md#macedonia-preview`
 ---
 
 ## Part apparatus
