@@ -47,6 +47,13 @@ How do Viking, Islamic, steppe, and church orders carry Rome's medieval afterlif
 - [homer-to-dante](../../../data/corridors/homer-to-dante.md)
 - [homer-to-tolstoy](../../../data/corridors/homer-to-tolstoy.md)
 
+## Apparatus
+
+- [Part VII commentary](part-07-world-after-rome-commentary.md) — **Phase 1 wedge** (`civ-40` bridge + `civ-41` pin-cited + `gb-10` close); `civ-35`–`39` deferred
+- [Part VII bibliography](part-07-world-after-rome-bibliography.md) — wedge stub
+- [Part VII hybrid readiness](PART-07-HYBRID-READINESS.md) — inventory + rollout phases
+- Cross-Part ingress: [Part VI `civ-34`](part-06-medieval-imagination-commentary.md#civ-34)
+
 ## Navigation
 
 - **Previous:** [Part VI — The Medieval Imagination](part-06-medieval-imagination.md)

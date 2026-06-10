@@ -13,6 +13,9 @@ template_family: civilization-commentary
 template_version: 1
 template_scope: civilization-only
 companion_transcript_path: ./civ-35-transcript.md
+part_id: part-07-world-after-rome
+part_commentary_path: ../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-35
+part_bibliography_path: ../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md
 completeness_state: in-review
 status: in-review
 commentary_status: in-review
@@ -26,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +65,12 @@ Every claim below is tied to the transcript body in civ-35-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture argues that Vikings deserve treatment as a fifth pillar of Western civilization. | civ-35-transcript.md:32 | Explicit / Strong Implied | High |
-| 2 | The Viking Age is introduced through the conventional 793 to 1066 frame. | civ-35-transcript.md:32 | Explicit / Strong Implied | High |
-| 3 | Viking expansion is presented through raiding, trading, settlement, exploration, and state formation. | civ-35-transcript.md:32 | Explicit / Strong Implied | High |
-| 4 | Normandy, England, and Russia are treated as major afterlives of Viking movement. | civ-35-transcript.md:32 | Explicit / Strong Implied | High |
-| 5 | Community identity and exile are presented as central to premodern social life. | civ-35-transcript.md:32 | Explicit / Strong Implied | High |
-| 6 | The lecture contrasts premodern community categories with modern race and racism. | civ-35-transcript.md:32 | Explicit / Strong Implied | High |
+| 1 | The lecture argues that Vikings deserve treatment as a fifth pillar of Western civilization. | `civ-35-transcript.md#fifth-pillar-thesis` | Explicit / Strong Implied | High |
+| 2 | The Viking Age is introduced through the conventional 793 to 1066 frame. | `civ-35-transcript.md#viking-age-frame` | Explicit / Strong Implied | High |
+| 3 | Viking expansion is presented through raiding, trading, settlement, exploration, and state formation. | `civ-35-transcript.md#expansion-settlement-trade` | Explicit / Strong Implied | High |
+| 4 | Normandy, England, and Russia are treated as major afterlives of Viking movement. | `civ-35-transcript.md#normandy-england-afterlife` | Explicit / Strong Implied | High |
+| 5 | Community identity and exile are presented as central to premodern social life. | `civ-35-transcript.md#community-before-individual` | Explicit / Strong Implied | High |
+| 6 | The lecture contrasts premodern community categories with modern race and racism. | `civ-35-transcript.md#premodern-race-contrast` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

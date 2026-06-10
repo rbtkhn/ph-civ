@@ -13,6 +13,9 @@ template_family: civilization-commentary
 template_version: 1
 template_scope: civilization-only
 companion_transcript_path: ./civ-37-transcript.md
+part_id: part-07-world-after-rome
+part_commentary_path: ../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-37
+part_bibliography_path: ../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md
 completeness_state: in-review
 status: in-review
 commentary_status: in-review
@@ -26,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +65,12 @@ Every claim below is tied to the transcript body in civ-37-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture asks why the Islamic Golden Age diverged from medieval Europe. | civ-37-transcript.md:32 | Explicit / Strong Implied | High |
-| 2 | Islam is introduced through Muhammad, the Quran, submission to God, and Sunni-Shia difference. | civ-37-transcript.md:32 | Explicit / Strong Implied | High |
-| 3 | The Abbasid and Baghdadian world is framed as a cosmopolitan imperial center. | civ-37-transcript.md:32 | Explicit / Strong Implied | High |
-| 4 | Translation, inherited traditions, trade, and empire are treated as enabling conditions for intellectual flourishing. | civ-37-transcript.md:32 | Explicit / Strong Implied | High |
-| 5 | The lecture asks why the Islamic Golden Age ended and how Christian Europe later overtook the Muslim world. | civ-37-transcript.md:32 | Explicit / Strong Implied | High |
-| 6 | Northrop Frye-style empire-and-literature theory is used to explain moments of great literary production. | civ-37-transcript.md:32 | Explicit / Strong Implied | High |
+| 1 | The lecture asks why the Islamic Golden Age diverged from medieval Europe. | `civ-37-transcript.md#golden-age-divergence` | Explicit / Strong Implied | High |
+| 2 | Islam is introduced through Muhammad, the Quran, submission to God, and Sunni-Shia difference. | `civ-37-transcript.md#islam-sunni-shia-orientation` | Explicit / Strong Implied | High |
+| 3 | The Abbasid and Baghdadian world is framed as a cosmopolitan imperial center. | `civ-37-transcript.md#baghdad-cosmopolitan-center` | Explicit / Strong Implied | High |
+| 4 | Translation, inherited traditions, trade, and empire are treated as enabling conditions for intellectual flourishing. | `civ-37-transcript.md#house-of-wisdom-translation` | Explicit / Strong Implied | High |
+| 5 | The lecture asks why the Islamic Golden Age ended and how Christian Europe later overtook the Muslim world. | `civ-37-transcript.md#golden-age-decline-mongols` | Explicit / Strong Implied | High |
+| 6 | Northrop Frye-style empire-and-literature theory is used to explain moments of great literary production. | `civ-37-transcript.md#empire-literature-threshold` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

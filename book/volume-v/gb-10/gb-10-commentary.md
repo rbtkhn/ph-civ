@@ -48,10 +48,11 @@ Inferno as love/spark cosmology and moral hierarchy — divine monad, free will,
 ## Read order
 
 1. [`gb-10-transcript.md`](./gb-10-transcript.md) — primary floor (YouTube ASR, spot-checked + sectioned)
-2. [Part VI commentary § gb-10](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-10) — claims + links
-3. [Part VI bibliography](../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md)
-4. [`gb-09` stub](../gb-09/gb-09-commentary.md) — read first in Dante cluster
-5. Forward: [`gb-11` Purgatory](../gb-11/gb-11-commentary.md)
+2. [Part VI commentary § gb-10](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-10) — Inferno claims (open @ `civ-30`)
+3. [Part VII commentary § gb-10 (close)](../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#gb-10) — Renaissance hinge @ `civ-41`
+4. [Part VI bibliography](../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md) · [Part VII bibliography](../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md)
+5. [`gb-09`](../gb-09/gb-09-commentary.md) — read first in Dante cluster
+6. Forward: [`gb-11`](../gb-11/gb-11-commentary.md) → [`gb-12`](../gb-12/gb-12-commentary.md)
 
 ## Part placement
 

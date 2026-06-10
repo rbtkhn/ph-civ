@@ -21,6 +21,8 @@ commentary_status: in-review
 source_status: metadata_checked
 transcript_status: curated_transcript_pending_rights_review
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
+fidelity_reviewed_at: 2026-06-09
 annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-05-14
@@ -44,16 +46,17 @@ Divine Comedy remakes readers through structure and paradox; Virgil is pedestali
 
 ## Read order
 
-1. [`gb-09-transcript.md`](./gb-09-transcript.md) — primary floor
-2. [Part VI commentary § gb-09](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-09) — claims, cross-links
+1. [`gb-09-transcript.md`](./gb-09-transcript.md) — primary floor (curated sections + `#anchor` rails)
+2. [Part VI commentary § gb-09](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-09) — 10 claims + cross-links
 3. [Part VI bibliography](../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md) — Dante, Virgil, Augustine
 4. [`civ-29` / `civ-30` thin commentaries](../../volume-ii/civ-29/civ-29-commentary.md) — civilization Dante pin-cites
+5. Forward: [`gb-10` Inferno](../gb-10/gb-10-commentary.md) → [`gb-11`](../gb-11/gb-11-commentary.md) → [`gb-12`](../gb-12/gb-12-commentary.md)
 
 ## Part placement
 
 - Part: [Part VI — The Medieval Imagination](../../volume-i-civilization/parts/part-06-medieval-imagination.md)
 - Weave: `interwoven` @ `civ-29`, `civ-30`
-- Corridor: [Homer to Dante](../../../data/corridors/homer-to-dante.md) steps 7–8
+- Corridor: [Homer to Dante](../../../data/corridors/homer-to-dante.md) step 10
 - Forward: [Part III `gb-08`](../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md#gb-08) anti-Homer piety
 
 Do not duplicate Part bibliography or cross-chapter prediction tables in this stub.

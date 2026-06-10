@@ -40,7 +40,7 @@
 
 | Tier | Ref shape | Reader experience | Action |
 |------|-----------|-------------------|--------|
-| **A — Met** | `#anchor` | Jump to movement by name | Done (Parts IV–V; Part VI `civ-29`–`34` 2026-06-09; Part III `civ-14`–`17`; Part II `civ-07`–`13` incl. Tier-B uplift) |
+| **A — Met** | `#anchor` | Jump to movement by name | Done (Parts IV–V; Part VI `civ-29`–`34` 2026-06-09; Part VII `civ-35`–`37` + wedge `civ-40`–`41` 2026-06-09; Part III `civ-14`–`17`; Part II `civ-07`–`13` incl. Tier-B uplift) |
 | **B — Interim** | `:32-35` line ranges | Better than blanket `:32`; still line-literacy | None in Part II civ spine after uplift |
 | **C — Debt** | `:32` blanket or orphan line | “Somewhere in this file” | Section + anchor refresh (priority sweep) |
 
@@ -67,6 +67,11 @@
 | `scripts/part_ii_iii_pin_cite_sweep.py` | `civ-11`, `civ-13`–`17` (low-debt sweep) |
 | `scripts/part_ii_tier_b_uplift.py` | `civ-07`–`10`, `civ-12` (Tier-B → Tier A) |
 | `scripts/part_vi_pin_cite_prep.py` | `civ-29`–`34` |
+| `scripts/part_vii_pin_cite_civ41.py` | `civ-41` (Part VII wedge close) |
+| `scripts/part_vii_pin_cite_civ40.py` | `civ-40` (Part VII wedge bridge) |
+| `scripts/part_vii_pin_cite_civ35.py` | `civ-35` (Part VII Viking open) |
+| `scripts/part_vii_pin_cite_civ36.py` | `civ-36` (Viking pair — Norse memory) |
+| `scripts/part_vii_pin_cite_civ37.py` | `civ-37` (Islamic Golden Age) |
 
 ---
 
@@ -75,4 +80,4 @@
 - ASR transcripts → anchors mark **argument neighborhoods**, not word-perfect quotes.
 - External-verify and public copy still need their own passes; pin-cite is **internal reader-orientation**, not merge authority.
 
-**Readiness pointers:** [Part IV](../book/volume-i-civilization/parts/PART-04-HYBRID-READINESS.md) · [Part V](../book/volume-i-civilization/parts/PART-05-HYBRID-READINESS.md) · [Part VI](../book/volume-i-civilization/parts/PART-06-HYBRID-READINESS.md) · [Part III](../book/volume-i-civilization/parts/PART-03-HYBRID-READINESS.md)
+**Readiness pointers:** [Part IV](../book/volume-i-civilization/parts/PART-04-HYBRID-READINESS.md) · [Part V](../book/volume-i-civilization/parts/PART-05-HYBRID-READINESS.md) · [Part VI](../book/volume-i-civilization/parts/PART-06-HYBRID-READINESS.md) · [Part VII](../book/volume-i-civilization/parts/PART-07-HYBRID-READINESS.md) · [Part III](../book/volume-i-civilization/parts/PART-03-HYBRID-READINESS.md)

@@ -87,3 +87,9 @@ Part V has no Great Books weave. The `sh-18` companion @ `civ-28` uses a **Part 
 Part VI carries the Dante GB weave (`gb-09`–`gb-12`). Volume-v chapter commentary stubs route to Part apparatus — same law as Part II `gb-02`.
 
 **Pilot example:** [Part VI commentary § civ-29](../book/volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#civ-29) + [§ gb-12](../book/volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-12); thin chapter: [civ-29-commentary](../book/volume-ii/civ-29/civ-29-commentary.md); GB stub: [gb-12-commentary](../book/volume-v/gb-12/gb-12-commentary.md).
+
+## Part apparatus pointer (Part VII wedge)
+
+Part VII hybrid pilot starts with the **`civ-40` bridge + `civ-41` close** wedge (`gb-10` close pointer). Volume-ii chapter READMEs for wedge chapters link Part apparatus; deferred `civ-35`–`39` sections remain stub headers until pin-cite + slim pass.
+
+**Pilot example:** [Part VII commentary § civ-40](../book/volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-40) + [§ civ-41](../book/volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-41) + [§ gb-10 (close)](../book/volume-i-civilization/parts/part-07-world-after-rome-commentary.md#gb-10); thin chapters: [civ-40-commentary](../book/volume-ii/civ-40/civ-40-commentary.md), [civ-41-commentary](../book/volume-ii/civ-41/civ-41-commentary.md); GB stub: [gb-10-commentary](../book/volume-v/gb-10/gb-10-commentary.md) (dual-route Part VI + Part VII).

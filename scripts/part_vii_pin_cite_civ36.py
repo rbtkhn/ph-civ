@@ -1,0 +1,136 @@
+#!/usr/bin/env python3
+"""Insert transcript ### section anchors for civ-36 and refresh L2 refs."""
+
+from __future__ import annotations
+
+import re
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+CHAPTER_ID = "civ-36"
+VOL2 = ROOT / "book" / "volume-ii" / CHAPTER_ID
+READINESS = ROOT / "book/volume-i-civilization/parts/PART-07-HYBRID-READINESS.md"
+
+TRANSCRIPT_SECTIONS: list[tuple[str, str]] = [
+    ("oral-reconstruction-limit", "purposefully an oral tradition"),
+    ("archaeology-graves", "dig up their graves"),
+    ("oral-intimacy-imagination", "intimacy and bonding"),
+    ("literary-shame-watchfulness", "shame you're very conscious"),
+    ("homer-dante-shakespeare", "dante and shakespeare"),
+    ("civilization-creativity-loss", "less creative because of civilization"),
+]
+
+CLAIM_REFS: list[str] = [
+    "#oral-reconstruction-limit",
+    "#archaeology-graves",
+    "#oral-intimacy-imagination",
+    "#literary-shame-watchfulness",
+    "#homer-dante-shakespeare",
+    "#civilization-creativity-loss",
+]
+
+
+def split_transcript_body(body: str, sections: list[tuple[str, str]]) -> str:
+    body = re.sub(r"\s+", " ", body).strip() + "\n"
+    lower = body.lower()
+    markers: list[tuple[int, str]] = []
+    search_from = 0
+    for slug, phrase in sections:
+        idx = lower.find(phrase.lower(), search_from)
+        if idx < 0:
+            raise ValueError(f"Anchor not found: {slug!r} -> {phrase[:60]!r}...")
+        markers.append((idx, slug))
+        search_from = idx + 1
+    markers.sort(key=lambda x: x[0])
+    out: list[str] = []
+    pos = 0
+    for idx, slug in markers:
+        if idx > pos:
+            chunk = body[pos:idx].rstrip()
+            if chunk:
+                out.append(chunk)
+        out.append(f"\n\n### {slug}\n\n")
+        pos = idx
+    out.append(body[pos:])
+    return "".join(out).strip() + "\n"
+
+
+def patch_transcript() -> None:
+    path = VOL2 / f"{CHAPTER_ID}-transcript.md"
+    text = path.read_text(encoding="utf-8")
+    if f"### {TRANSCRIPT_SECTIONS[0][0]}" in text:
+        print(f"skip transcript (already sectioned): {path.relative_to(ROOT)}")
+        return
+    marker = "## Part I: Full transcript\n\n"
+    if marker not in text:
+        raise ValueError(f"Missing transcript marker in {path}")
+    head, rest = text.split(marker, 1)
+    body = rest.strip() + "\n"
+    patched = split_transcript_body(body, TRANSCRIPT_SECTIONS)
+    if "transcript_curation:" not in head:
+        head = head.replace(
+            "transcript_fidelity: exact_body_match\n",
+            "transcript_fidelity: exact_body_match\ntranscript_curation: curated_sectioned\npin_cite_reviewed_at: 2026-06-09\n",
+        )
+    if "part_id:" not in head:
+        head = head.replace(
+            "part: I\n",
+            "part: I\npart_id: part-07-world-after-rome\n"
+            "part_commentary_path: ../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-36\n"
+            "part_bibliography_path: ../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md\n",
+        )
+    path.write_text(head + marker + patched, encoding="utf-8")
+    print(f"patched transcript: {path.relative_to(ROOT)}")
+
+
+def update_chapter_commentary() -> None:
+    path = VOL2 / f"{CHAPTER_ID}-commentary.md"
+    text = path.read_text(encoding="utf-8")
+    for i, anchor in enumerate(CLAIM_REFS, start=1):
+        new_ref = f"`{CHAPTER_ID}-transcript.md{anchor}`"
+        pattern = rf"(\| {i} \|[^\n]+\| )`?{CHAPTER_ID}-transcript\.md:32`?"
+        text, n = re.subn(pattern, rf"\1{new_ref}", text, count=1)
+        if n == 0 and new_ref not in text:
+            pattern2 = rf"(\| {i} \|[^\n]+\| )TBD pin-cite"
+            text, n2 = re.subn(pattern2, rf"\1{new_ref}", text, count=1)
+            if n2 == 0:
+                raise ValueError(f"Row {i} not updated in {path}")
+    if "analysis_depth: seed" in text:
+        text = text.replace("analysis_depth: seed", "analysis_depth: layer2_drafted")
+    if "part_id:" not in text:
+        text = text.replace(
+            "companion_transcript_path: ./civ-36-transcript.md\n",
+            "companion_transcript_path: ./civ-36-transcript.md\n"
+            "part_id: part-07-world-after-rome\n"
+            "part_commentary_path: ../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-36\n"
+            "part_bibliography_path: ../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md\n",
+        )
+    path.write_text(text, encoding="utf-8")
+    print(f"patched commentary: {path.relative_to(ROOT)}")
+
+
+def update_readiness() -> None:
+    if not READINESS.is_file():
+        return
+    text = READINESS.read_text(encoding="utf-8")
+    text = text.replace(
+        "| Pin-cite `civ-35`–`41` | **Partial** — `civ-35` + wedge `civ-40`/`civ-41`; `civ-36`–`39` **deferred** |",
+        "| Pin-cite `civ-35`–`41` | **Partial** — `civ-35`/`civ-36` + wedge `civ-40`/`civ-41`; `civ-37`–`39` **deferred** |",
+    )
+    needle = "| Pin-cite `civ-35` | **Done** — `scripts/part_vii_pin_cite_civ35.py` |"
+    row = "| Pin-cite `civ-36` | **Done** — `scripts/part_vii_pin_cite_civ36.py` |"
+    if row not in text and needle in text:
+        text = text.replace(needle, needle + "\n" + row)
+    READINESS.write_text(text, encoding="utf-8")
+    print(f"patched: {READINESS.relative_to(ROOT)}")
+
+
+def main() -> None:
+    patch_transcript()
+    update_chapter_commentary()
+    update_readiness()
+    print("part_vii_pin_cite_civ36: done")
+
+
+if __name__ == "__main__":
+    main()

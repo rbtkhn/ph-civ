@@ -331,6 +331,8 @@
       ],
       "spine_slice_warning": false,
       "doorway_path": "book/volume-i-civilization/parts/part-07-world-after-rome.md",
+      "commentary_path": "book/volume-i-civilization/parts/part-07-world-after-rome-commentary.md",
+      "bibliography_path": "book/volume-i-civilization/parts/part-07-world-after-rome-bibliography.md",
       "previous_part_id": "part-06-medieval-imagination",
       "next_part_id": "part-08-birth-of-modernity",
       "secret_history_companions": [],

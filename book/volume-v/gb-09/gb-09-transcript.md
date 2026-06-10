@@ -23,6 +23,8 @@ public_imported_at: 2026-05-14
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
+fidelity_reviewed_at: 2026-06-09
 corpus_path: ../../../corpus/great-books/gb-09.md
 commentary_path: ./gb-09-commentary.md
 ---
@@ -32,6 +34,8 @@ commentary_path: ./gb-09-commentary.md
 Part I contains the full lecture transcript. Part II is kept in the companion commentary file.
 
 ## Part I: Full transcript
+
+### opening-democratic-comedy
 
 The Divine Comedy is the greatest literary masterpiece in human history. When Dante wrote it around 1300, he called it La Commedia. The reason is that at this time in history, epic poetry was considered “high” or “tragic” and was usually written in Latin. But Dante believed that epic poetry should be democratic—it should be accessible to the people. That’s why he called it a “comedy” and wrote it in Tuscan, the language of Florence where he lived. Latin was the language of the elite across Europe. Dante wanted ordinary people to be able to read and understand it.
 
@@ -47,7 +51,7 @@ La Commedia was also written in response to the Aeneid. Like Homer, Dante wants 
 
 These are the basic themes we’ll be exploring throughout this work.
 
-### Structure of The Divine Comedy
+### structure-of-the-divine-comedy
 
 There are three distinct parts:
 
@@ -79,7 +83,7 @@ Another key structural point: in order to reach Paradise, Dante must first enter
 
 Another interpretation is that Inferno represents Virgil and the Aeneid. For Dante to enter heaven, he must first fully recognize the impact of Virgil and the Aeneid on his psyche and his culture, and then overcome it in order to fully embrace the power of God and love. This is the interpretation I want to emphasize as we go along.
 
-### Dante’s Biography
+### dantes-biography
 
 Dante is considered the greatest poet in the Italian language. At this time (around 1300), Italy was divided into competing city-states—Florence, Venice, Genoa, etc.—all vying for power. They were also in conflict with Rome (the Catholic Church), which wanted authority over them, as well as with larger powers like France and the Holy Roman Empire (roughly modern Germany). Within the city-states, rival families constantly fought one another.
 
@@ -93,7 +97,7 @@ Two major biographical details are essential:
 
 In the poem, there are many references to the political conflicts, his exile, his criticism of the Church, and his redemptive love for Beatrice.
 
-### Key passages
+### key-passages
 
 **Opening lines (Allen Mandelbaum translation):**
 
@@ -165,6 +169,6 @@ This is a profound paradox. Virgil created Dido as one of the most realistic and
 
 When Dante asks to speak with two souls moving together (Francesca and Paolo), the text explicitly mentions “the ranks where Dido suffers.” Dante names her when Virgil would not—an act of quiet rebellion.
 
-### Conclusion
+### conclusion
 
 This is only the beginning of our journey through The Divine Comedy. As you can see, it is extremely complex. You cannot understand it by surface reading alone. You must read with your heart, your imagination, your intuition, and your connection to God. The poem plants paradoxes and cognitive dissonance that work on you over time. It is ultimately a journey into your own heart and faith.

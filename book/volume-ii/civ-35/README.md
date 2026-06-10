@@ -8,31 +8,27 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 
 ## Source-Lattice Reading Order
 
-Treat this chapter folder as a small source-lattice:
-
-1. `Doorway` - this README tells you what the packet is and what limits apply.
-2. `Primary source floor` - read the transcript and public source capture first.
-3. `Secondary support` - use the commentary canvas, orientation payload, and public card only after the source floor is open.
-4. `Widened interpretation` - draw comparisons or broader claims only after keeping the review status in view.
+1. Doorway — this README tells you what the packet is and what limits apply.
+2. Primary source floor — read the transcript and public source capture first.
+3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
+4. Part apparatus — [Part VII commentary § civ-35](../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-35) and [Part VII bibliography](../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md) for cross-chapter synthesis and external sources.
+5. Viking pair forward — after this packet, read [civ-36](../civ-36/README.md) (Norse memory / oral–literary); pairs [Part VI § civ-34](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#civ-34) Holy Roman fiction close → Part VII world-order open.
+6. Public card — orientation payload after the chapter and Part floors are open.
+7. Widened interpretation — plural Eurasian orders (`civ-35`–`39`) before [Homer to Dante](../../../data/corridors/homer-to-dante.md) corridor close @ `civ-41`; do not skip the world-order pause.
 
 ## Files
 
 - [Transcript](civ-35-transcript.md)
-- [Commentary canvas](civ-35-commentary.md)
+- [Commentary canvas (thin)](civ-35-commentary.md)
+- [Part VII commentary § civ-35](../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-35)
+- [Part VII bibliography](../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md)
+- [Viking pair forward — civ-36](../civ-36/README.md)
 - [Public card](../../../data/cards/civ-35.md)
 
 ## Review Status
 
-`in_review`. Do not treat provisional transcript text, named claims, quotations, or current-event predictions as final until review is complete.
-
-## LLM Prompt
-
-Paste this folder link into ChatGPT, Claude, or Grok and ask:
-
-> Guide me through this chapter folder as a public study packet. Start with the transcript, then use the commentary canvas and orientation/card guardrails. Keep provisional claims bounded and separate lecture representation from verification.
->
-> Use a source-lattice reading order: README first, transcript and source capture second, commentary/orientation/card third, and broader interpretation only after the source floor is stable.
+`in_review`. Part VII **open** @ fifth-pillar Viking thesis. Pin-cite **cleared** (2026-06-09) — 6 transcript `#anchor` rails.
 
 ## Guardrails
 
-This folder represents the public lecture material and companion study apparatus. It is not a private note dump, not an endorsement layer, and not a substitute for source review.
+This folder represents public lecture material and companion study apparatus. It is not an endorsement layer and not a substitute for source review.

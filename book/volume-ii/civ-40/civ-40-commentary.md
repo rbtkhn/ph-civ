@@ -13,6 +13,9 @@ template_family: civilization-commentary
 template_version: 1
 template_scope: civilization-only
 companion_transcript_path: ./civ-40-transcript.md
+part_id: part-07-world-after-rome
+part_commentary_path: ../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-40
+part_bibliography_path: ../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md
 completeness_state: in-review
 status: in-review
 commentary_status: in-review
@@ -26,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +65,12 @@ Every claim below is tied to the transcript body in civ-40-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The Crusades are introduced as the bridge from the Mongol return-to-Europe pivot toward Renaissance and Reformation material. | civ-40-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | The lecture contrasts Jesus's teaching on poverty with the later wealth of the Catholic Church. | civ-40-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | The Catholic Church is described as a successor to Roman imperial form after the fall of Rome. | civ-40-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | Church power is framed through control over salvation, ritual, orthodoxy, heresy, and afterlife fear. | civ-40-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | Scapegoating is used to explain how elite-peasant conflict could be displaced onto Jewish communities. | civ-40-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | The medieval worldview is presented as afterlife-centered and church-mediated. | civ-40-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The Crusades are introduced as the bridge from the Mongol return-to-Europe pivot toward Renaissance and Reformation material. | `civ-40-transcript.md#opening-crusades-bridge` | Explicit / Strong Implied | High |
+| 2 | The lecture contrasts Jesus's teaching on poverty with the later wealth of the Catholic Church. | `civ-40-transcript.md#jesus-poverty-contrast` | Explicit / Strong Implied | High |
+| 3 | The Catholic Church is described as a successor to Roman imperial form after the fall of Rome. | `civ-40-transcript.md#roman-successor-church` | Explicit / Strong Implied | High |
+| 4 | Church power is framed through control over salvation, ritual, orthodoxy, heresy, and afterlife fear. | `civ-40-transcript.md#salvation-orthodoxy-power` | Explicit / Strong Implied | High |
+| 5 | Scapegoating is used to explain how elite-peasant conflict could be displaced onto Jewish communities. | `civ-40-transcript.md#scapegoating-mechanism` | Explicit / Strong Implied | High |
+| 6 | The medieval worldview is presented as afterlife-centered and church-mediated. | `civ-40-transcript.md#afterlife-worldview` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

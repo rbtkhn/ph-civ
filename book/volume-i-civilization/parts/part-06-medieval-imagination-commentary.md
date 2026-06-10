@@ -36,7 +36,7 @@ Thick synthesis for Volume I Part VI (`civ-29`–`civ-34` + `gb-09`–`gb-12` we
 | Prediction | Strength | Falsifier | Status (2026-06-09) | Source / notes |
 |------------|----------|-----------|---------------------|----------------|
 | Dante rebuts Augustinian/Virgilian piety frame from Part V | E | `civ-29` treats Dante as decorative only | **Partially supported** | `civ-29` pin-cited; pairs `gb-09` |
-| GB Dante close-read confirms civ-30 Virgil-displacement grammar | SI | `gb-09` contradicts `civ-30` unreliable-guide arc | **Pending** | stub Phase 1 |
+| GB Dante close-read confirms civ-30 Virgil-displacement grammar | SI | `gb-09` contradicts `civ-30` unreliable-guide arc | **Partially supported** | `gb-09` deepened 2026-06-09 — unreliable Virgil + Dido naming |
 | Inferno hierarchy (`gb-10`) extends love/spark cosmology | C | `gb-10` detached from `gb-09` | **Partially supported** | `gb-10` sectioned + spot-check 2026-06-09 |
 | Homer→Virgil→Dante corridor continues past `gb-10` | E | No `gb-12` mirror promotion | **Partially supported** | `gb-11`/`gb-12` promoted 2026-06-09; corridor step 13 live |
 | Anti-Homer→Aeneid→Dante liberation chain closes at Part VI open | C | `gb-08` forward unrealized in Dante units | **Partially supported** | [gb-07→gb-08 synthesis](./part-03-roman-imperium-commentary.md#anti-homer-to-aeneid-gb-07--gb-08) |
@@ -189,16 +189,18 @@ Thick synthesis for Volume I Part VI (`civ-29`–`civ-34` + `gb-09`–`gb-12` we
 
 | # | Claim | Ref | Confidence |
 |---|-------|-----|------------|
-| 1 | Three-part geometry (inferno triangle, purgatory mountain, paradiso spheres) + paradox as cognitive virus | `#structure-of-the-divine-comedy` | High |
-| 2 | Inferno entry = confront evil / overcome Virgil–Aeneid psychic inheritance before Paradise | `#structure-of-the-divine-comedy` | High |
-| 3 | Exile politics + Beatrice love as Commedia emotional foundation | `#dantes-biography` | High |
-| 4 | Opening forest depression; Virgil elevated as father-guide before limits exposed | `#key-passages` | High |
-| 5 | Divine love ≠ reciprocity; Virgil frames Beatrice help in contractual terms | `#key-passages` | High |
-| 6 | Charon obeys despite unbelief — Hell structured by Aeneid-era emotions | `#key-passages` | Medium |
-| 7 | Souls choose Hell via will/desire (fear turned to desire) | `#key-passages` | High |
-| 8 | Virgil omits Dido in lust circle; Dante names her suffering — quiet rebellion | `#key-passages` | High |
+| 1 | Tuscan democratic comedy vs Latin elite; love bypasses corrupted Church mediation | `#opening-democratic-comedy` | High |
+| 2 | Three-part geometry (inferno triangle, purgatory mountain, paradiso spheres) + paradox as cognitive virus | `#structure-of-the-divine-comedy` | High |
+| 3 | Inferno entry = confront evil / overcome Virgil–Aeneid psychic inheritance before Paradise | `#structure-of-the-divine-comedy` | High |
+| 4 | Exile politics + Beatrice love as Commedia emotional foundation | `#dantes-biography` | High |
+| 5 | Opening forest depression; Virgil elevated as father-guide before limits exposed | `#key-passages` | High |
+| 6 | Divine love ≠ reciprocity; Virgil frames Beatrice help in contractual terms | `#key-passages` | High |
+| 7 | Charon obeys despite unbelief — Hell structured by Aeneid-era emotions | `#key-passages` | Medium |
+| 8 | Souls choose Hell via will/desire (fear turned to desire) | `#key-passages` | High |
+| 9 | Minos warns on guides; Limbo salvation caveat (will/desire > baptism accident) | `#key-passages` | Medium |
+| 10 | Virgil omits Dido in lust circle; Dante names her suffering — quiet rebellion | `#key-passages` | High |
 
-**Close-read arc:** democratic comedy frame → mathematical structure + paradox → biography (exile/Beatrice) → midlife forest + Virgil pedestal → reciprocity clash → Charon/Aeneid-hell link → will/desire → Dido naming.
+**Close-read arc:** democratic comedy + anti-Church love → structure + paradox → biography (exile/Beatrice) → forest/Virgil pedestal → reciprocity clash → Charon/Aeneid-hell → will/desire → Minos/Limbo → Dido naming → reader-training close.
 
 **Part links:** pairs `civ-29` Augustine rebuttal + `civ-30` Virgil displacement; continues [Part III `gb-08`](./part-03-roman-imperium-commentary.md#gb-08) anti-Homer piety; [Part II `gb-05`](./part-02-hellenic-world-commentary.md#gb-05) love repair grammar.
 
@@ -210,7 +212,7 @@ Thick synthesis for Volume I Part VI (`civ-29`–`civ-34` + `gb-09`–`gb-12` we
 | Virgil-as-master-of-Hell | Lecture metaphor; patristic/Aeneid reception more plural | Medium |
 | Democratic spirit in Homer/Dante/Shakespeare line | Ranking frame; not philological consensus | High |
 
-**gb-09 predictions:** structure+paradox supports `civ-29`/`civ-30`; unreliable Virgil confirms Part III inversion chain; forward `gb-10` hell architecture.
+**gb-09 predictions:** structure+paradox supports `civ-29`/`civ-30` — **Partially supported**; unreliable Virgil confirms Part III inversion chain — **Partially supported**; forward `gb-10` hell architecture — **Partially supported**.
 
 ### gb-10
 

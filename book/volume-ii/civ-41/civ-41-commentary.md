@@ -26,8 +26,11 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
+part_id: part-07-world-after-rome
+part_commentary_path: ../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-41
+part_bibliography_path: ../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md
 ---
 
 # Commentary - Civilization
@@ -62,12 +65,12 @@ Every claim below is tied to the transcript body in civ-41-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The Renaissance is defined as classical Greece re-imagined within Christian Europe. | civ-41-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | Italian city-state competition is treated as a condition of Renaissance creativity. | civ-41-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | Dante is presented as the person most responsible for sparking the Renaissance. | civ-41-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | The Divine Comedy is read as a source of modern individuality, curiosity, love, and imagination. | civ-41-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | Michelangelo's Creation of Adam is interpreted as visualizing a Dantean revolution in human imagination. | civ-41-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | The lecture argues that Dante could transform religious civilization through poetry rather than open violence. | civ-41-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The Renaissance is defined as classical Greece re-imagined within Christian Europe. | `civ-41-transcript.md#greece-christian-modernity` | Explicit / Strong Implied | High |
+| 2 | Italian city-state competition is treated as a condition of Renaissance creativity. | `civ-41-transcript.md#italian-citystates-competition` | Explicit / Strong Implied | High |
+| 3 | Dante is presented as the person most responsible for sparking the Renaissance. | `civ-41-transcript.md#dante-most-responsible` | Explicit / Strong Implied | High |
+| 4 | The Divine Comedy is read as a source of modern individuality, curiosity, love, and imagination. | `civ-41-transcript.md#divine-comedy-imagination` | Explicit / Strong Implied | High |
+| 5 | Michelangelo's Creation of Adam is interpreted as visualizing a Dantean revolution in human imagination. | `civ-41-transcript.md#michelangelo-creation-adam` | Explicit / Strong Implied | High |
+| 6 | The lecture argues that Dante could transform religious civilization through poetry rather than open violence. | `civ-41-transcript.md#quiet-revolution-poetry` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

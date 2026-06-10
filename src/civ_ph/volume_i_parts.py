@@ -265,6 +265,22 @@ def validate_volume_i_parts(
                 if "part-06-medieval-imagination-bibliography.md" not in readme_text:
                     errors.append(f"{civ_id} README missing Part VI bibliography link")
 
+        if part_id == "part-07-world-after-rome" and commentary_path:
+            wedge_chapters = ("civ-40", "civ-41")
+            for civ_id in wedge_chapters:
+                if civ_id not in chapters:
+                    errors.append(f"{part_id} missing wedge chapter in spine: {civ_id}")
+                    continue
+                readme = PACKAGE_ROOT / "book" / "volume-ii" / civ_id / "README.md"
+                if not readme.is_file():
+                    errors.append(f"{part_id} missing chapter README: {readme.relative_to(PACKAGE_ROOT)}")
+                    continue
+                readme_text = readme.read_text(encoding="utf-8")
+                if "part-07-world-after-rome-commentary.md" not in readme_text:
+                    errors.append(f"{civ_id} README missing Part VII commentary link")
+                if "part-07-world-after-rome-bibliography.md" not in readme_text:
+                    errors.append(f"{civ_id} README missing Part VII bibliography link")
+
         if require_chapter_anchors and not part.get("chapter_anchors"):
             errors.append(f"{part_id} missing chapter_anchors")
 

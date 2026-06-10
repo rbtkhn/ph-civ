@@ -13,6 +13,9 @@ template_family: civilization-commentary
 template_version: 1
 template_scope: civilization-only
 companion_transcript_path: ./civ-36-transcript.md
+part_id: part-07-world-after-rome
+part_commentary_path: ../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-36
+part_bibliography_path: ../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md
 completeness_state: in-review
 status: in-review
 commentary_status: in-review
@@ -26,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +65,12 @@ Every claim below is tied to the transcript body in civ-36-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture argues that Viking culture is difficult to reconstruct because it was oral, Christianized, and partly erased. | civ-36-transcript.md:32 | Explicit / Strong Implied | High |
-| 2 | Archaeology and later textual memory are presented as the main sources for Norse reconstruction. | civ-36-transcript.md:32 | Explicit / Strong Implied | High |
-| 3 | Oral tradition is described as powerful for memory, intimacy, play, and imagination. | civ-36-transcript.md:32 | Explicit / Strong Implied | High |
-| 4 | Literary culture is described as stabilizing but also public, watchful, and shame-producing. | civ-36-transcript.md:32 | Explicit / Strong Implied | High |
-| 5 | The lecture links oral tradition to the possibility of Homer, Dante, and Shakespeare. | civ-36-transcript.md:32 | Explicit / Strong Implied | High |
-| 6 | The chapter asks whether civilization makes people less creative. | civ-36-transcript.md:32 | Explicit / Strong Implied | High |
+| 1 | The lecture argues that Viking culture is difficult to reconstruct because it was oral, Christianized, and partly erased. | `civ-36-transcript.md#oral-reconstruction-limit` | Explicit / Strong Implied | High |
+| 2 | Archaeology and later textual memory are presented as the main sources for Norse reconstruction. | `civ-36-transcript.md#archaeology-graves` | Explicit / Strong Implied | High |
+| 3 | Oral tradition is described as powerful for memory, intimacy, play, and imagination. | `civ-36-transcript.md#oral-intimacy-imagination` | Explicit / Strong Implied | High |
+| 4 | Literary culture is described as stabilizing but also public, watchful, and shame-producing. | `civ-36-transcript.md#literary-shame-watchfulness` | Explicit / Strong Implied | High |
+| 5 | The lecture links oral tradition to the possibility of Homer, Dante, and Shakespeare. | `civ-36-transcript.md#homer-dante-shakespeare` | Explicit / Strong Implied | High |
+| 6 | The chapter asks whether civilization makes people less creative. | `civ-36-transcript.md#civilization-creativity-loss` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

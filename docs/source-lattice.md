@@ -123,7 +123,7 @@ For a **chapter**:
 4. open the **Part apparatus** when the chapter belongs to a Volume I Part with
    commentary/bibliography files (pilot: Part II `civ-07`–`civ-13`, Part III
    `civ-14`–`civ-17`, Part IV `civ-18`–`civ-23`, Part V `civ-24`–`civ-28`, Part VI
-   `civ-29`–`civ-34`) —
+   `civ-29`–`civ-34`, Part VII wedge `civ-40`–`civ-41`; full `civ-35`–`39` deferred) —
    cross-chapter synthesis and external sources live there, not in the chapter
    file. For `civ-22`, optional
    [sh-17 Part pointer](../book/volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#sh-17)
