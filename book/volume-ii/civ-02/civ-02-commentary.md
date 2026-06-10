@@ -13,6 +13,9 @@ template_family: civilization-commentary
 template_version: 1
 template_scope: civilization-only
 companion_transcript_path: ./civ-02-transcript.md
+part_id: part-01-dawn-of-civilization
+part_commentary_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-02
+part_bibliography_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md
 completeness_state: in-review
 status: in-review
 commentary_status: in-review
@@ -26,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -63,12 +66,12 @@ Every claim below is tied to the transcript body in `civ-02-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture explicitly extends `civ-01` by arguing that religion drove the transition toward agriculture and that the religious impulse was already present before agriculture. | `civ-02-transcript.md:32-33` | Explicit | High |
-| 2 | The lecture frames Ice Age cave paintings as difficult, uncertain evidence and warns that its interpretation is speculative rather than settled. | `civ-02-transcript.md:34-35` | Explicit | High |
-| 3 | Cave painting is interpreted as ritual rather than art for art's sake, partly because paintings are associated with acoustically significant cave spaces and musical instruments. | `civ-02-transcript.md:41-43` | Explicit | High |
-| 4 | The lecture reconstructs a portal model of life and death: womb, cave, and burial are treated as passages between this world and another world. | `civ-02-transcript.md:49-52` | Explicit | High |
-| 5 | Animism is defined as the belief that living things have souls and are interconnected, with balance and harmony maintained through ritual obligations. | `civ-02-transcript.md:53-57` | Explicit | High |
-| 6 | The lecture uses shamanic figures, disability burials, and *The Dawn of Everything* to suggest that some physically different people may have been treated as spiritually special. | `civ-02-transcript.md:61-70` | Strong Implied | Medium |
+| 1 | The lecture explicitly extends `civ-01` by arguing that religion drove the transition toward agriculture and that the religious impulse was already present before agriculture. | `civ-02-transcript.md#religious-impulse-before-farming` | Explicit | High |
+| 2 | The lecture frames Ice Age cave paintings as difficult, uncertain evidence and warns that its interpretation is speculative rather than settled. | `civ-02-transcript.md#ice-age-cave-paintings` | Explicit | High |
+| 3 | Cave painting is interpreted as ritual rather than art for art's sake, partly because paintings are associated with acoustically significant cave spaces and musical instruments. | `civ-02-transcript.md#cave-as-portal` | Explicit | High |
+| 4 | The lecture reconstructs a portal model of life and death: womb, cave, and burial are treated as passages between this world and another world. | `civ-02-transcript.md#animism-defined` | Explicit | High |
+| 5 | Animism is defined as the belief that living things have souls and are interconnected, with balance and harmony maintained through ritual obligations. | `civ-02-transcript.md#durkheim-collective-consciousness` | Explicit | High |
+| 6 | The lecture uses shamanic figures, disability burials, and *The Dawn of Everything* to suggest that some physically different people may have been treated as spiritually special. | `civ-02-transcript.md#religious-animals-thesis` | Strong Implied | Medium |
 | 7 | Recurring symbols in cave art are interpreted through several possible explanations: proto-writing, divine language, abstract ideas, mythology, or visionary signs. | `civ-02-transcript.md:70-76` | Explicit | High |
 | 8 | Kant and neuroscience are used to support the claim that reality is actively imagined or structured by the mind rather than simply received by the senses. | `civ-02-transcript.md:76-79` | Explicit | Medium |
 | 9 | Durkheim is used to argue that religion creates society by giving people a shared representation of the world and their relations within it. | `civ-02-transcript.md:83-90` | Explicit | High |

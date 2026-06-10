@@ -13,6 +13,9 @@ template_family: civilization-commentary
 template_version: 1
 template_scope: civilization-only
 companion_transcript_path: ./civ-01-transcript.md
+part_id: part-01-dawn-of-civilization
+part_commentary_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-01
+part_bibliography_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md
 completeness_state: in-review
 status: in-review
 commentary_status: in-review
@@ -26,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -61,12 +64,12 @@ Every claim below is tied to the transcript body in `civ-01-transcript.md`. Beca
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture rejects the standard "farming equals progress" story and says the evidence for it is weak. | `civ-01-transcript.md:32` | Explicit | High |
-| 2 | Farming is described as more labor-intensive, less nutritious, and more disease-prone than many hunter-gatherer regimes. | `civ-01-transcript.md:32` | Explicit | High |
-| 3 | The four theory families are coercion, war, respect for elders, and religion, with religion treated as the lecture's leading explanation. | `civ-01-transcript.md:32` | Explicit | High |
-| 4 | Gobekli Tepe is presented as a ritual center led by shamans or charismatic figures, with monumental construction tied to worship and aggregation. | `civ-01-transcript.md:32` | Explicit | High |
-| 5 | Jericho and the Natufian world are described as sedentary foragers with ritual skull practices and a religious tower interpretation. | `civ-01-transcript.md:32` | Explicit | High |
-| 6 | Catalhoyuk is described as a highly symbolic, household-level religious world in which daily life and worship are closely aligned. | `civ-01-transcript.md:32` | Explicit | High |
+| 1 | The lecture rejects the standard "farming equals progress" story and says the evidence for it is weak. | `civ-01-transcript.md#reject-farming-progress` | Explicit | High |
+| 2 | Farming is described as more labor-intensive, less nutritious, and more disease-prone than many hunter-gatherer regimes. | `civ-01-transcript.md#farming-harder-than-gathering` | Explicit | High |
+| 3 | The four theory families are coercion, war, respect for elders, and religion, with religion treated as the lecture's leading explanation. | `civ-01-transcript.md#four-theory-families` | Explicit | High |
+| 4 | Gobekli Tepe is presented as a ritual center led by shamans or charismatic figures, with monumental construction tied to worship and aggregation. | `civ-01-transcript.md#religion-leading-theory` | Explicit | High |
+| 5 | Jericho and the Natufian world are described as sedentary foragers with ritual skull practices and a religious tower interpretation. | `civ-01-transcript.md#gobekli-tepe-ritual-center` | Explicit | High |
+| 6 | Catalhoyuk is described as a highly symbolic, household-level religious world in which daily life and worship are closely aligned. | `civ-01-transcript.md#catalhoyuk-religion-everywhere` | Explicit | High |
 
 ### Core Concepts Defined
 

@@ -8,31 +8,30 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 
 ## Source-Lattice Reading Order
 
-Treat this chapter folder as a small source-lattice:
-
-1. `Doorway` - this README tells you what the packet is and what limits apply.
-2. `Primary source floor` - read the transcript and public source capture first.
-3. `Secondary support` - use the commentary canvas, orientation payload, and public card only after the source floor is open.
-4. `Widened interpretation` - draw comparisons or broader claims only after keeping the review status in view.
+1. Doorway — this README tells you what the packet is and what limits apply.
+2. Primary source floor — read the transcript and public source capture first.
+3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
+4. Part apparatus — [Part I commentary § civ-01](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-01) and [Part I bibliography](../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md) for cross-chapter synthesis and external sources.
+5. Great Books weave — after this packet, read [gb-01](../../volume-v/gb-01/README.md) (interwoven @ `civ-01`); Part stub-route in [Part I § gb-01](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#gb-01).
+6. Secret History prologue — optional [sh-11](../../volume-vi/sh-11/README.md) pointer @ `civ-01`; see [Part I § sh-11](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#sh-11).
+7. Public card — orientation payload after the chapter and Part floors are open.
+8. Widened interpretation — forward [civ-02](../civ-02/README.md) (religion/dawn); do not skip Part I synthesis.
 
 ## Files
 
 - [Transcript](civ-01-transcript.md)
-- [Commentary canvas](civ-01-commentary.md)
+- [Commentary canvas (thin)](civ-01-commentary.md)
+- [Part I commentary § civ-01](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-01)
+- [Part I bibliography](../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md)
+- [Part I § gb-01](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#gb-01)
+- [sh-11 prologue](../../volume-vi/sh-11/README.md)
+- [civ-02 forward](../civ-02/README.md)
 - [Public card](../../../data/cards/civ-01.md)
 
 ## Review Status
 
-`calibration_seed`. Do not treat provisional transcript text, named claims, quotations, or current-event predictions as final until review is complete.
-
-## LLM Prompt
-
-Paste this folder link into ChatGPT, Claude, or Grok and ask:
-
-> Guide me through this chapter folder as a public study packet. Start with the transcript, then use the commentary canvas and orientation/card guardrails. Keep provisional claims bounded and separate lecture representation from verification.
->
-> Use a source-lattice reading order: README first, transcript and source capture second, commentary/orientation/card third, and broader interpretation only after the source floor is stable.
+`calibration_seed`. Part I **open** @ agriculture/religion thesis. Pin-cite **cleared** (2026-06-10) — 6 transcript `#anchor` rails.
 
 ## Guardrails
 
-This folder represents the public lecture material and companion study apparatus. It is not a private note dump, not an endorsement layer, and not a substitute for source review.
+This folder represents public lecture material and companion study apparatus. It is not an endorsement layer and not a substitute for source review.

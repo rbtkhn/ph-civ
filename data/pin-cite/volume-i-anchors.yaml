@@ -3,6 +3,102 @@ description: >
   Pin-cite anchor manifest SSOT for Volume I hybrid apparatus.
   sections = lecture-order ### rails; claim_refs = commentary L2 row order.
 chapters:
+  civ-01:
+    part_id: part-01-dawn-of-civilization
+    sections:
+      - {slug: reject-farming-progress, phrase: "there's no evidence for this"}
+      - {slug: farming-harder-than-gathering, phrase: "it was actually pretty stupid to transition from hunter gatherer into farming"}
+      - {slug: four-theory-families, phrase: "there are four different disciplines from which we can collect evidence"}
+      - {slug: religion-leading-theory, phrase: "the consensus what most people agree on today okay most Scholars"}
+      - {slug: gobekli-tepe-ritual-center, phrase: "Gobekli Tepe is a place of religious worship"}
+      - {slug: catalhoyuk-religion-everywhere, phrase: "religion permeated or was in every place they were"}
+    claim_refs:
+      - "#reject-farming-progress"
+      - "#farming-harder-than-gathering"
+      - "#four-theory-families"
+      - "#religion-leading-theory"
+      - "#gobekli-tepe-ritual-center"
+      - "#catalhoyuk-religion-everywhere"
+  civ-02:
+    part_id: part-01-dawn-of-civilization
+    sections:
+      - {slug: religious-impulse-before-farming, phrase: "religious impulse this need for religion"}
+      - {slug: ice-age-cave-paintings, phrase: "Ice Age cave paintings"}
+      - {slug: cave-as-portal, phrase: "portal a door"}
+      - {slug: animism-defined, phrase: "we have actually a word for this religion and this word is um animism"}
+      - {slug: durkheim-collective-consciousness, phrase: "religion is our Collective Consciousness"}
+      - {slug: religious-animals-thesis, phrase: "we are first and foremost a religious animal"}
+    claim_refs:
+      - "#religious-impulse-before-farming"
+      - "#ice-age-cave-paintings"
+      - "#cave-as-portal"
+      - "#animism-defined"
+      - "#durkheim-collective-consciousness"
+      - "#religious-animals-thesis"
+  civ-03:
+    part_id: part-01-dawn-of-civilization
+    sections:
+      - {slug: peaceful-egalitarian-artistic, phrase: "for most of human history we have been peaceful egalitarian and artistic"}
+      - {slug: yamnaya-preview, phrase: "a new group of uh people called the Yamnaya came came into being"}
+      - {slug: animism-shamanism-model, phrase: "it was animism and shamanism"}
+      - {slug: creation-myth-legal-order, phrase: "this is what we call a creation myth"}
+      - {slug: grandness-completeness-unity, phrase: "you need these three ideas grandness completeness and unity"}
+      - {slug: molimo-sleep-taboo, phrase: "the greatest crimes that the pygmy can commit if not the greatest is to be found asleep when the malomo is singing"}
+    claim_refs:
+      - "#peaceful-egalitarian-artistic"
+      - "#yamnaya-preview"
+      - "#animism-shamanism-model"
+      - "#creation-myth-legal-order"
+      - "#grandness-completeness-unity"
+      - "#molimo-sleep-taboo"
+  civ-04:
+    part_id: part-01-dawn-of-civilization
+    sections:
+      - {slug: war-property-patriarchy-question, phrase: "how is it that today we have War private property and patriarchy"}
+      - {slug: gimbutas-old-europe, phrase: "the anthropologist Marija Gimbutas called Old Europe"}
+      - {slug: proto-indo-european, phrase: "we call Proto indoan"}
+      - {slug: dna-yamnaya-evidence, phrase: "advances in genetics DNA technology"}
+      - {slug: conquest-not-diffusion, phrase: "overwhelming DNA evidence that it was in fact Conquest"}
+      - {slug: women-political-class, phrase: "Old Europe was ruled by women or women were part of the political class"}
+    claim_refs:
+      - "#war-property-patriarchy-question"
+      - "#proto-indo-european"
+      - "#gimbutas-old-europe"
+      - "#dna-yamnaya-evidence"
+      - "#conquest-not-diffusion"
+      - "#women-political-class"
+  civ-05:
+    part_id: part-01-dawn-of-civilization
+    sections:
+      - {slug: three-yamnaya-questions, phrase: "who are the Yamnaya second question is where do they come from"}
+      - {slug: near-east-mother-goddess, phrase: "they worship the mother goddess who gives life to everything"}
+      - {slug: social-evolution-definition, phrase: "Evolution means open Cooperative competition"}
+      - {slug: steppe-scarcity, phrase: "there are very scarce resources in the steps"}
+      - {slug: pastoralism-innovation, phrase: "the first Innovation they adopted was a pastoral economy"}
+      - {slug: sky-father-religion, phrase: "they worship someone called the sky father"}
+    claim_refs:
+      - "#three-yamnaya-questions"
+      - "#near-east-mother-goddess"
+      - "#social-evolution-definition"
+      - "#steppe-scarcity"
+      - "#pastoralism-innovation"
+      - "#sky-father-religion"
+  civ-06:
+    part_id: part-01-dawn-of-civilization
+    sections:
+      - {slug: bronze-age-interconnected, phrase: "Bronze Age and why is it called the Bronze Age"}
+      - {slug: bronze-like-oil, phrase: "bronze is like oil today"}
+      - {slug: troy-toll-gate, phrase: "this place is called Troy"}
+      - {slug: bronze-age-collapse, phrase: "Bronze Age collapse"}
+      - {slug: elite-overproduction-turchin, phrase: "Peter Turchin Peter Turchin who's a historian"}
+      - {slug: collapse-generative-greece-israel, phrase: "Mycenaean Greece changed into a new society that gave us Greek civilization"}
+    claim_refs:
+      - "#bronze-age-interconnected"
+      - "#bronze-like-oil"
+      - "#troy-toll-gate"
+      - "#bronze-age-collapse"
+      - "#elite-overproduction-turchin"
+      - "#collapse-generative-greece-israel"
   civ-35:
     part_id: part-07-world-after-rome
     sections:

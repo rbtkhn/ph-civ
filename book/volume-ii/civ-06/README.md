@@ -8,31 +8,28 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 
 ## Source-Lattice Reading Order
 
-Treat this chapter folder as a small source-lattice:
-
-1. `Doorway` - this README tells you what the packet is and what limits apply.
-2. `Primary source floor` - read the transcript and public source capture first.
-3. `Secondary support` - use the commentary canvas, orientation payload, and public card only after the source floor is open.
-4. `Widened interpretation` - draw comparisons or broader claims only after keeping the review status in view.
+1. Doorway — this README tells you what the packet is and what limits apply.
+2. Primary source floor — read the transcript and public source capture first.
+3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
+4. Part apparatus — [Part I commentary § civ-06](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-06) and [Part I bibliography](../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md) for cross-chapter synthesis and external sources.
+6. Part II egress — after this packet, open [Part II § civ-07](../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#civ-07) (Homer / post-collapse rebirth).
+7. Public card — orientation payload after the chapter and Part floors are open.
+8. Widened interpretation — generative collapse thesis; do not skip Part I ledger close.
 
 ## Files
 
 - [Transcript](civ-06-transcript.md)
-- [Commentary canvas](civ-06-commentary.md)
+- [Commentary canvas (thin)](civ-06-commentary.md)
+- [Part I commentary § civ-06](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-06)
+- [Part I bibliography](../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md)
+- [Part II § civ-07](../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#civ-07)
+- [Part II doorway](../../volume-i-civilization/parts/part-02-hellenic-world.md)
 - [Public card](../../../data/cards/civ-06.md)
 
 ## Review Status
 
-`in_review`. Do not treat provisional transcript text, named claims, quotations, or current-event predictions as final until review is complete.
-
-## LLM Prompt
-
-Paste this folder link into ChatGPT, Claude, or Grok and ask:
-
-> Guide me through this chapter folder as a public study packet. Start with the transcript, then use the commentary canvas and orientation/card guardrails. Keep provisional claims bounded and separate lecture representation from verification.
->
-> Use a source-lattice reading order: README first, transcript and source capture second, commentary/orientation/card third, and broader interpretation only after the source floor is stable.
+`in_review`. Part I **close** @ generative collapse. Pin-cite **cleared** (2026-06-10) — 6 transcript `#anchor` rails.
 
 ## Guardrails
 
-This folder represents the public lecture material and companion study apparatus. It is not a private note dump, not an endorsement layer, and not a substitute for source review.
+This folder represents public lecture material and companion study apparatus. It is not an endorsement layer and not a substitute for source review.

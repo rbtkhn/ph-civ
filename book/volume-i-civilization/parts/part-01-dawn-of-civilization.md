@@ -28,6 +28,13 @@ How do form, religion, and destruction precede empire?
 
 _No corridor touchpoints in this Part._
 
+## Apparatus
+
+- [Part I commentary](part-01-dawn-of-civilization-commentary.md) — **Phase 3 complete** (`civ-01`–`06` pin-cited; gb/sh pointers; ledger closed)
+- [Part I bibliography](part-01-dawn-of-civilization-bibliography.md) — `supports:`/`counters:` for `civ-01`–`06`
+- [Part I hybrid readiness](PART-01-HYBRID-READINESS.md) — inventory + rollout phases
+- Cross-Part egress: [Part II `civ-07`](part-02-hellenic-world-commentary.md#civ-07)
+
 ## Navigation
 
 - _Start of Volume I._

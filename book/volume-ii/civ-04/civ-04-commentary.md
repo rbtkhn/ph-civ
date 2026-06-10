@@ -13,6 +13,9 @@ template_family: civilization-commentary
 template_version: 1
 template_scope: civilization-only
 companion_transcript_path: ./civ-04-transcript.md
+part_id: part-01-dawn-of-civilization
+part_commentary_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-04
+part_bibliography_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md
 completeness_state: in-review
 status: in-review
 commentary_status: in-review
@@ -26,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -63,12 +66,12 @@ Every claim below is tied to the transcript body in `civ-04-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture restates early humanity as religious, animist, compassionate, egalitarian, mostly peaceful, and artistic, then asks how war, private property, and patriarchy emerged. | `civ-04-transcript.md:32-35` | Explicit | High |
-| 2 | Proto-Indo-European reconstruction is presented as a linguistic method for inferring culture, lifestyle, and migration history. | `civ-04-transcript.md:35-44` | Explicit | High |
-| 3 | The lecture identifies wheel vocabulary, dairy terms, limited farming vocabulary, and horse evidence as clues to the Proto-Indo-European world. | `civ-04-transcript.md:39-44` | Explicit | High |
-| 4 | Archaeology and ancient DNA are described as aligning with the Yamnaya hypothesis and with a pastoralist society using horses, wagons, cattle, and dairy. | `civ-04-transcript.md:44-50` | Explicit | High |
-| 5 | The lecture contrasts cultural diffusion with conquest and says recent DNA evidence favors conquest, genocide, or population replacement as the explanation for Indo-European spread. | `civ-04-transcript.md:50` | Explicit | High |
-| 6 | Agriculture is described as spreading from the Near East and Anatolia into Europe around 6500 BCE through migration driven by climate and soils rather than war. | `civ-04-transcript.md:50` | Explicit | High |
+| 1 | The lecture restates early humanity as religious, animist, compassionate, egalitarian, mostly peaceful, and artistic, then asks how war, private property, and patriarchy emerged. | `civ-04-transcript.md#war-property-patriarchy-question` | Explicit | High |
+| 2 | Proto-Indo-European reconstruction is presented as a linguistic method for inferring culture, lifestyle, and migration history. | `civ-04-transcript.md#proto-indo-european` | Explicit | High |
+| 3 | The lecture identifies wheel vocabulary, dairy terms, limited farming vocabulary, and horse evidence as clues to the Proto-Indo-European world. | `civ-04-transcript.md#gimbutas-old-europe` | Explicit | High |
+| 4 | Archaeology and ancient DNA are described as aligning with the Yamnaya hypothesis and with a pastoralist society using horses, wagons, cattle, and dairy. | `civ-04-transcript.md#dna-yamnaya-evidence` | Explicit | High |
+| 5 | The lecture contrasts cultural diffusion with conquest and says recent DNA evidence favors conquest, genocide, or population replacement as the explanation for Indo-European spread. | `civ-04-transcript.md#conquest-not-diffusion` | Explicit | High |
+| 6 | Agriculture is described as spreading from the Near East and Anatolia into Europe around 6500 BCE through migration driven by climate and soils rather than war. | `civ-04-transcript.md#women-political-class` | Explicit | High |
 | 7 | Gimbutas's Old Europe is presented as a mother-goddess, agricultural, peaceful, egalitarian, and artistic civilization before Yamnaya conquest. | `civ-04-transcript.md:50-51` | Explicit | High |
 | 8 | The lecture uses burial patterns to contrast communal farmer societies with Yamnaya individual burials that contain weapons, cattle, and horses. | `civ-04-transcript.md:50-51` | Explicit | High |
 | 9 | The lecture says Gimbutas was ridiculed because her interpretation challenged assumptions about violence, money, patriarchy, and ancient social order. | `civ-04-transcript.md:51` | Explicit | High |

@@ -45,12 +45,14 @@ Poets and prophets overlap as world-disclosing voices; language creates shared r
 ## Read order
 
 1. [`gb-03-transcript.md`](./gb-03-transcript.md) — primary floor
-2. [Part II commentary § gb-03](../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#gb-03) — Layer 2 claims, predictions, cross-links
-3. [Part II bibliography](../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md) — Homer, Shelley, Kant lecture-paraphrase, scholarship
+2. [Part II commentary § gb-03](../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#gb-03) — canonical close-read (Homer support ring)
+3. [Part I commentary § gb-03](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#gb-03) — dual-placement stub @ `civ-02`
+4. [Part II bibliography](../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md) — Homer, Shelley, Kant lecture-paraphrase, scholarship
 
 ## Part placement
 
-- Part: [Part II — The Hellenic World](../../volume-i-civilization/parts/part-02-hellenic-world.md)
-- Weave: `support_ring_optional` @ `civ-07`; open after civ survey per [Homer support ring](../../../data/corridors/homer-to-tolstoy-support-ring.md)
+- Part I weave: interwoven @ `civ-02` — [Part I doorway](../../volume-i-civilization/parts/part-01-dawn-of-civilization.md)
+- Part II weave: `support_ring_optional` @ `civ-07` — [Part II doorway](../../volume-i-civilization/parts/part-02-hellenic-world.md)
+- Support ring: open after civ survey per [Homer support ring](../../../data/corridors/homer-to-tolstoy-support-ring.md)
 
 Do not duplicate Part bibliography or cross-chapter prediction tables in this stub.

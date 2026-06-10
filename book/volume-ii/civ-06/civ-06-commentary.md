@@ -13,6 +13,9 @@ template_family: civilization-commentary
 template_version: 1
 template_scope: civilization-only
 companion_transcript_path: ./civ-06-transcript.md
+part_id: part-01-dawn-of-civilization
+part_commentary_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-06
+part_bibliography_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md
 completeness_state: in-review
 status: in-review
 commentary_status: in-review
@@ -26,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -63,12 +66,12 @@ Every claim below is tied to the transcript body in `civ-06-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The Bronze Age world around 1200 BCE is described as an interconnected trading and communication system. | `civ-06-transcript.md:32-35` | Explicit | High |
-| 2 | Bronze is compared to oil because it structures the economy and depends on long-distance copper and tin networks. | `civ-06-transcript.md:34-36` | Explicit | High |
-| 3 | Troy is presented as a toll gate or logistics hub whose control could produce wealth and war. | `civ-06-transcript.md:37-39` | Explicit | High |
-| 4 | The lecture says the Bronze Age world was globalized, dynamic, chaotic, commercial, and violent. | `civ-06-transcript.md:39-41` | Explicit | High |
-| 5 | Mycenaean Greece, the Hittites, Canaan, and Egypt are described as collapsing or losing power after 1200 BCE. | `civ-06-transcript.md:41-43` | Explicit | High |
-| 6 | The Sea Peoples are described as a series of peoples, pirates, and refugees attacking from the sea, especially toward Egypt. | `civ-06-transcript.md:43-45` | Explicit | High |
+| 1 | The Bronze Age world around 1200 BCE is described as an interconnected trading and communication system. | `civ-06-transcript.md#bronze-age-interconnected` | Explicit | High |
+| 2 | Bronze is compared to oil because it structures the economy and depends on long-distance copper and tin networks. | `civ-06-transcript.md#bronze-like-oil` | Explicit | High |
+| 3 | Troy is presented as a toll gate or logistics hub whose control could produce wealth and war. | `civ-06-transcript.md#troy-toll-gate` | Explicit | High |
+| 4 | The lecture says the Bronze Age world was globalized, dynamic, chaotic, commercial, and violent. | `civ-06-transcript.md#bronze-age-collapse` | Explicit | High |
+| 5 | Mycenaean Greece, the Hittites, Canaan, and Egypt are described as collapsing or losing power after 1200 BCE. | `civ-06-transcript.md#elite-overproduction-turchin` | Explicit | High |
+| 6 | The Sea Peoples are described as a series of peoples, pirates, and refugees attacking from the sea, especially toward Egypt. | `civ-06-transcript.md#collapse-generative-greece-israel` | Explicit | High |
 | 7 | The lecture identifies the scholarly consensus as a perfect storm or systems collapse involving earthquakes, climate cooling, and internal revolt. | `civ-06-transcript.md:46-49` | Explicit | High |
 | 8 | The lecturer proposes elite overproduction as the deeper explanation for collapse. | `civ-06-transcript.md:50-54` | Explicit | High |
 | 9 | Permanent hereditary elites are said to provide organization, wealth, and scale. | `civ-06-transcript.md:54-58` | Explicit | High |

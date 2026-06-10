@@ -35,8 +35,9 @@ How does epic → institution → theater → philosophy → conquest-carrier bu
 
 - [Part II commentary](part-02-hellenic-world-commentary.md) — cross-chapter synthesis, Great Books sections, prediction ledger
 - [Part II bibliography](part-02-hellenic-world-bibliography.md) — external sources (tagged by chapter/gb)
+- Cross-Part ingress: [Part I commentary](part-01-dawn-of-civilization-commentary.md) (`civ-01`–`06` origin arc; `gb-03` dual-placement @ `civ-02`)
 
 ## Navigation
 
-- **Previous:** [Part I — The Dawn of Civilization](part-01-dawn-of-civilization.md)
+- **Previous:** [Part I — The Dawn of Civilization](part-01-dawn-of-civilization.md) · [Part I apparatus](part-01-dawn-of-civilization-commentary.md)
 - **Next:** [Part III — The Roman Imperium](part-03-roman-imperium.md)

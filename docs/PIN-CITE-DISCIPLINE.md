@@ -62,6 +62,7 @@
 
 | Script | Parts / chapters |
 |--------|------------------|
+| `scripts/part_i_pin_cite_prep.py` | `civ-01`–`06` (Part I dawn arc) |
 | `scripts/part_iv_pin_cite_prep.py` | `civ-19`–`23` |
 | `scripts/part_v_pin_cite_prep.py` | `civ-24`–`28` |
 | `scripts/part_ii_iii_pin_cite_sweep.py` | `civ-11`, `civ-13`–`17` (low-debt sweep) |
@@ -80,4 +81,4 @@
 - ASR transcripts → anchors mark **argument neighborhoods**, not word-perfect quotes.
 - External-verify and public copy still need their own passes; pin-cite is **internal reader-orientation**, not merge authority.
 
-**Readiness pointers:** [Part IV](../book/volume-i-civilization/parts/PART-04-HYBRID-READINESS.md) · [Part V](../book/volume-i-civilization/parts/PART-05-HYBRID-READINESS.md) · [Part VI](../book/volume-i-civilization/parts/PART-06-HYBRID-READINESS.md) · [Part VII](../book/volume-i-civilization/parts/PART-07-HYBRID-READINESS.md) · [Part III](../book/volume-i-civilization/parts/PART-03-HYBRID-READINESS.md)
+**Readiness pointers:** [Part I](../book/volume-i-civilization/parts/PART-01-HYBRID-READINESS.md) · [Part III](../book/volume-i-civilization/parts/PART-03-HYBRID-READINESS.md) · [Part IV](../book/volume-i-civilization/parts/PART-04-HYBRID-READINESS.md) · [Part V](../book/volume-i-civilization/parts/PART-05-HYBRID-READINESS.md) · [Part VI](../book/volume-i-civilization/parts/PART-06-HYBRID-READINESS.md) · [Part VII](../book/volume-i-civilization/parts/PART-07-HYBRID-READINESS.md) · [Part VIII](../book/volume-i-civilization/parts/PART-08-HYBRID-READINESS.md)

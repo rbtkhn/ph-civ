@@ -25,6 +25,8 @@ Thick synthesis for Volume I Part II (`civ-07`–`civ-13` + woven Great Books). 
 
 **Bibliography:** [part-02-hellenic-world-bibliography.md](./part-02-hellenic-world-bibliography.md)
 
+**Ingress:** [Part I commentary](./part-01-dawn-of-civilization-commentary.md) — religion/origin arc (`civ-01`–`06`); [`civ-06` generative collapse](./part-01-dawn-of-civilization-commentary.md#civ-06) → [`civ-07`](#civ-07) Homer rebirth; [`gb-03` dual-placement](./part-01-dawn-of-civilization-commentary.md#gb-03) @ Part I `civ-02` vs Part II `civ-07` support ring.
+
 ## Law-discovery answer (draft)
 
 **Question:** How does epic → institution → theater → philosophy → conquest-carrier build a civilizational grammar?
@@ -224,7 +226,7 @@ Aristotle state-project thesis; Hellenistic kingdoms; Library of Alexandria; Gre
 
 ### gb-03
 
-**Weave role:** support_ring_optional @ `civ-07` (Homer support ring). **Canonical Part section** for Poets and Prophets close-read.
+**Weave role:** support_ring_optional @ `civ-07` (Homer support ring); **also** interwoven @ `civ-02` in [Part I](./part-01-dawn-of-civilization-commentary.md#gb-03). **Canonical Part section** for Poets and Prophets close-read (Part II); Part I hosts stub-route + dual-placement law only.
 
 **Core thesis:** Poets and prophets overlap as world-disclosing voices; language creates public reality.
 

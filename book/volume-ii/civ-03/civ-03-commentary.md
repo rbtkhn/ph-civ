@@ -13,6 +13,9 @@ template_family: civilization-commentary
 template_version: 1
 template_scope: civilization-only
 companion_transcript_path: ./civ-03-transcript.md
+part_id: part-01-dawn-of-civilization
+part_commentary_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-03
+part_bibliography_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md
 completeness_state: in-review
 status: in-review
 commentary_status: in-review
@@ -26,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -63,12 +66,12 @@ Every claim below is tied to the transcript body in `civ-03-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture states that most of human history was peaceful, egalitarian, and artistic, while acknowledging evidence of interpersonal violence but not organized war. | `civ-03-transcript.md:32-35` | Explicit | High |
-| 2 | The lecture previews the Yamnaya as a later group whose religion celebrated warfare, patriarchy, and wealth. | `civ-03-transcript.md:35-36` | Explicit | High |
-| 3 | Early religion is reconstructed as animism and shamanism, with souls, a more-real spirit world, and ritual obligations to maintain cosmic order. | `civ-03-transcript.md:36-39` | Explicit | High |
-| 4 | Anthropology is presented as the method for checking the early-religion model against living or recently observed cultures. | `civ-03-transcript.md:41-43` | Explicit | High |
-| 5 | Creation myths are presented as origin stories that also explain a society's legal and moral order. | `civ-03-transcript.md:44-48` | Explicit | High |
-| 6 | The lecture argues that powerful religion depends on grandness, completeness, and unity. | `civ-03-transcript.md:49-51` | Explicit | High |
+| 1 | The lecture states that most of human history was peaceful, egalitarian, and artistic, while acknowledging evidence of interpersonal violence but not organized war. | `civ-03-transcript.md#peaceful-egalitarian-artistic` | Explicit | High |
+| 2 | The lecture previews the Yamnaya as a later group whose religion celebrated warfare, patriarchy, and wealth. | `civ-03-transcript.md#yamnaya-preview` | Explicit | High |
+| 3 | Early religion is reconstructed as animism and shamanism, with souls, a more-real spirit world, and ritual obligations to maintain cosmic order. | `civ-03-transcript.md#animism-shamanism-model` | Explicit | High |
+| 4 | Anthropology is presented as the method for checking the early-religion model against living or recently observed cultures. | `civ-03-transcript.md#creation-myth-legal-order` | Explicit | High |
+| 5 | Creation myths are presented as origin stories that also explain a society's legal and moral order. | `civ-03-transcript.md#grandness-completeness-unity` | Explicit | High |
+| 6 | The lecture argues that powerful religion depends on grandness, completeness, and unity. | `civ-03-transcript.md#molimo-sleep-taboo` | Explicit | High |
 | 7 | The Amazonian example is used to show a worldview in which nature is spiritually saturated and the visible world is only one layer of reality. | `civ-03-transcript.md:51-55` | Explicit | High |
 | 8 | Ritual is defined as religion expressed in everyday practice, giving ordinary actions order, meaning, and purpose. | `civ-03-transcript.md:56-61` | Explicit | High |
 | 9 | The shaman is described as a figure who enters the spirit world to negotiate, communicate, and restore cosmic order. | `civ-03-transcript.md:61-64` | Explicit | High |

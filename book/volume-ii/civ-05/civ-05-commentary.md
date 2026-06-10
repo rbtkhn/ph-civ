@@ -13,6 +13,9 @@ template_family: civilization-commentary
 template_version: 1
 template_scope: civilization-only
 companion_transcript_path: ./civ-05-transcript.md
+part_id: part-01-dawn-of-civilization
+part_commentary_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-05
+part_bibliography_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md
 completeness_state: in-review
 status: in-review
 commentary_status: in-review
@@ -26,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -63,12 +66,12 @@ Every claim below is tied to the transcript body in `civ-05-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture frames `civ-05` around three questions: who the Yamnaya were, where they came from, and how they conquered Europe. | `civ-05-transcript.md:32-33` | Explicit | High |
-| 2 | Near Eastern farmers are described as carrying agriculture, mother-goddess religion, unity, balance, and nature-protective values into Europe. | `civ-05-transcript.md:33-38` | Explicit | High |
-| 3 | Old Europe is again described as egalitarian, relatively female-centered, peaceful, and artistic because of its mother-goddess religion. | `civ-05-transcript.md:38-39` | Explicit | High |
-| 4 | The steppe is presented as a resource-scarce grassland environment that forced competitive adaptation. | `civ-05-transcript.md:39-41` | Explicit | High |
-| 5 | The lecture defines social evolution as open cooperative competition: decentralized rivalry combined with communication, trade, and exchange. | `civ-05-transcript.md:40-42` | Explicit | High |
-| 6 | Warring States China, the Greek city-states, and the Sumerian city-states are used as analogies for competitive plurality producing innovation and later domination by a ruthless adopter. | `civ-05-transcript.md:42-49` | Explicit | High |
+| 1 | The lecture frames `civ-05` around three questions: who the Yamnaya were, where they came from, and how they conquered Europe. | `civ-05-transcript.md#three-yamnaya-questions` | Explicit | High |
+| 2 | Near Eastern farmers are described as carrying agriculture, mother-goddess religion, unity, balance, and nature-protective values into Europe. | `civ-05-transcript.md#near-east-mother-goddess` | Explicit | High |
+| 3 | Old Europe is again described as egalitarian, relatively female-centered, peaceful, and artistic because of its mother-goddess religion. | `civ-05-transcript.md#social-evolution-definition` | Explicit | High |
+| 4 | The steppe is presented as a resource-scarce grassland environment that forced competitive adaptation. | `civ-05-transcript.md#steppe-scarcity` | Explicit | High |
+| 5 | The lecture defines social evolution as open cooperative competition: decentralized rivalry combined with communication, trade, and exchange. | `civ-05-transcript.md#pastoralism-innovation` | Explicit | High |
+| 6 | Warring States China, the Greek city-states, and the Sumerian city-states are used as analogies for competitive plurality producing innovation and later domination by a ruthless adopter. | `civ-05-transcript.md#sky-father-religion` | Explicit | High |
 | 7 | The Yamnaya are presented as an outside or marginal group originating around Ukraine that adopted steppe innovations and conquered others. | `civ-05-transcript.md:49-50` | Explicit | High |
 | 8 | Pastoralism is presented as the first major innovation: using cattle, sheep, and goats to turn grassland into food. | `civ-05-transcript.md:50-51` | Explicit | High |
 | 9 | Dairy and lactose tolerance are presented as a second major innovation that contributed to physical strength and height relative to farmers. | `civ-05-transcript.md:51-53` | Explicit | High |
