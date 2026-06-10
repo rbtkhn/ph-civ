@@ -1,6 +1,6 @@
 ---
 part_id: part-09-age-of-conscience
-plan_status: phase3_complete
+plan_status: phase2_slimmed
 scaffold_version: ph_civ_part_commentary_v1
 template_from: part-08-birth-of-modernity (hybrid pilot complete)
 inventory_date: 2026-06-10
@@ -127,3 +127,5 @@ Planning doc for extending the **Part II–VIII hybrid model** (thin chapter + t
 ## Next operator pick
 
 **External-verify** Part IX bibliography (Civil War, Ukraine, Shakespeare scholarship) · **Part X** readiness inventory · **Slice 9** slimming pass.
+
+| Slim `part-09-age-of-conscience` chapters | **Done** — `scripts/part_hybrid_slim.py --part 09` (2026-06-10) |

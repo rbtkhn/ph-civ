@@ -29,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: layer2_drafted
+analysis_depth: layer2_slimmed
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -98,119 +98,26 @@ Every claim below is tied to the transcript body in `civ-06-transcript.md`.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
+---
 
-Explicitly testable items only.
+## Part apparatus
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| Later chapters will use elite overproduction, rent-seeking, or status competition as recurring explanations for political breakdown. | E | Later collapse or conflict chapters do not reuse the elite-overproduction frame. | 2026-05-13 | Pending | The lecture says this theory will be used repeatedly. `civ-06-transcript.md:50-54`, `civ-06-transcript.md:78-84` |
-| Greek civilization and Biblical Israel will be framed as post-collapse formations made possible by Bronze Age breakdown. | E | Later chapters treat Greece and Israel as unrelated to the collapse fork. | 2026-05-13 | Pending | The lecture states this directly. `civ-06-transcript.md:87-89` |
-| Later Sumer/Mesopotamia material will compare different social structures, including egalitarian arrangements and organized elite societies. | E | Later Sumer material does not use social-structure comparison. | 2026-05-13 | Pending | The closing previews Sumerian city-state comparison. `civ-06-transcript.md:94-95` |
-| Future review will need to separate Turchin's model from the broader scholarly perfect-storm explanation. | C | The commentary later treats elite overproduction as a settled replacement for all other explanations. | 2026-05-13 | Pending | This is a review guardrail. |
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography live in the Part files:
 
-**Meta-Prediction Patterns**
+- [Part commentary](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-06)
+- [Part bibliography](../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md)
 
-- The lecture treats collapse as endogenous fragility plus triggering shocks, not merely an external disaster.
-- It makes death, destruction, and breakdown central to later renewal.
+Layer 0-2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| The perfect-storm model may remain necessary even if elite overproduction explains structural vulnerability. | `civ-06-transcript.md:46-49`, `civ-06-transcript.md:83-86` | The lecture rejects consensus emphasis but still names shocks that may have mattered. | High |
-| Elite overproduction is an interpretive model, not direct proof that every Bronze Age collapse site failed for the same elite-rent mechanism. | `civ-06-transcript.md:50-54`, `civ-06-transcript.md:78-86` | The lecture generalizes from recurring patterns and Mycenaean evidence. | Medium |
-| Piketty's modern capital argument may illuminate rent-seeking but should not be mapped directly onto Bronze Age palace economies. | `civ-06-transcript.md:73-77` | The comparison is pedagogically useful but historically non-identical. | Medium |
-| The claim that collapse is good because it creates innovation risks underplaying suffering, violence, and loss. | `civ-06-transcript.md:87-90` | The lecture uses collapse as a regenerative metaphor. | High |
-| Egalitarian societies may have more variation than the stable, women-governed, low-scale model presented here. | `civ-06-transcript.md:91-95` | The closing returns to the Civilization sequence's earlier egalitarian frame. | Medium |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which sites provide strongest evidence for internal revolt versus external violence?
-- How should palace destruction, intact houses, and burial wealth be weighed against climate and earthquake evidence?
-- What external readings should anchor Turchin, Piketty, and Bronze Age collapse before broader publication?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- **Connection to `civ-05`**: `civ-05` explains the rise of property, patriarchy, and war; `civ-06` shows how elite systems built on extraction can become unstable.
-- **Connection to `civ-07`**: the collapse of Mycenaean Greece becomes the precondition for polis, alphabet, Homer, and later Greek creativity.
-- **Broader Civilizational Pattern**: elite organization creates scale, but scale creates rent, debt, competition, and fragility.
-- **Strategic Implications**: powerful systems may be most vulnerable when their elite layer becomes too dense to reproduce itself peacefully.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-Internal notes only. Keep this section concise and review-oriented.
-
-- Check named sources and spellings before public polish: Peter Turchin, Thomas Piketty, Mycenaean Greece, Hittites, Canaan, Sea Peoples, Troy, Cyprus, Iberia, Bronze Age collapse, and palace economy.
-- Add external reading on Bronze Age collapse, systems collapse, ancient debt, and elite overproduction before promoting beyond in-review.
-- Keep "collapse is good" as lecture interpretation, not a moral conclusion.
-
----
-
-**Contributor Notes**
-
-- Primary annotator: Codex
-- Reviewers: pending
-- Version: 1.0 in-review
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Cross-chapter claims: verify against Part commentary counter-readings before quotation-grade use.
+- Lecture representation_not_endorsement applies to all Layer 2 rows.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Phase 2 slim (2026-06-10): Layers 3-6 moved to Part commentary.

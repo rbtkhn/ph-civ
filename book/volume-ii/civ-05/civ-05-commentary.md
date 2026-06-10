@@ -29,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: layer2_drafted
+analysis_depth: layer2_slimmed
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -105,123 +105,26 @@ Every claim below is tied to the transcript body in `civ-05-transcript.md`.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
+---
 
-Explicitly testable items only.
+## Part apparatus
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| Later chapters on Greece and Rome will be framed as inheritors of the Yamnaya-created world of patriarchy, war, money, and sky-father religion. | E | The next classical chapters treat Greece and Rome as disconnected from the Yamnaya rupture. | 2026-05-13 | Pending | The closing directly says Greeks and Romans come from this world. `civ-05-transcript.md:84-85` |
-| Later Civilization chapters will use the open cooperative competition pattern for Warring States China, Greek city-states, and Sumerian city-states. | E | Later chapters do not use this model when interpreting those cases. | 2026-05-13 | Pending | The lecture explicitly previews those comparisons. `civ-05-transcript.md:42-49` |
-| Later chapters will treat China as partly outside the Indo-European/Western rupture because geography and population protected it from Yamnaya conquest. | SI | Later chapters treat China as culturally absorbed into the same Yamnaya-derived system. | 2026-05-13 | Pending | The lecture draws the West/China contrast directly. `civ-05-transcript.md:73-76` |
-| Future analysis will need to distinguish confirmed genetic or linguistic spread from claims about genocide, religious replacement, and social psychology. | C | Later notes treat all Yamnaya claims as equally proven by DNA alone. | 2026-05-13 | Pending | This is a review expectation based on the lecture's broad causal chain. |
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography live in the Part files:
 
-**Meta-Prediction Patterns**
+- [Part commentary](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-05)
+- [Part bibliography](../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md)
 
-- The lecture treats ecology and technology as civilizational engines only when they align with economy, social structure, inheritance, and religion.
-- It turns "the West" into a post-rupture communication zone rather than a timeless cultural essence.
+Layer 0-2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| Evidence for Yamnaya migration, language spread, or ancestry does not by itself establish a single uniform conquest process across all regions. | `civ-05-transcript.md:73-84` | The lecture itself says the spread took hundreds of years, involved different groups, and adapted to local geography. | High |
-| Plague and climate stress may have contributed to vulnerability without proving that most Europeans were wiped out by plague alone. | `civ-05-transcript.md:66-70`, `civ-05-transcript.md:77-79` | The lecture makes plague the main culprit; this requires careful external corroboration. | High |
-| The causal chain from cattle wealth to private property, patriarchy, primogeniture, younger-son raiding, and war is powerful but may compress regional variation and alternative pathways. | `civ-05-transcript.md:55-63` | The lecture presents a tight structural model; future work should keep it as a model, not a universal law. | Medium |
-| The sky-father versus mother-goddess contrast may clarify the lecture's symbolic argument while oversimplifying Indo-European and Neolithic religious diversity. | `civ-05-transcript.md:36-38`, `civ-05-transcript.md:61-63` | The lecture uses religious contrast to organize the whole rupture. | Medium |
-| Calling the post-Yamnaya communication zone "the West" is useful for the course narrative but risks projecting a later civilizational category back onto prehistory. | `civ-05-transcript.md:74-76` | The lecture explicitly defines the West through this connected Indo-European world. | High |
-| The claim that Mongolian peoples descend from the Yamnaya needs careful handling because steppe pastoral parallels do not automatically prove direct descent in the broad sense stated in class discussion. | `civ-05-transcript.md:76` | This occurs in Q&A and should be treated more cautiously than the main lecture frame. | High |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which claims are best supported by ancient DNA, which by archaeology, which by linguistics, and which by civilizational interpretation?
-- How should future notes distinguish migration, conquest, colonization, assimilation, elite dominance, and population replacement?
-- What external sources should be added on plague chronology, Yamnaya ancestry, Corded Ware/Bell Beaker transitions, and Indo-European language spread?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- **Connection to `civ-04`**: `civ-04` establishes Old Europe as the lost alternative; `civ-05` supplies the rupture mechanism that destroys or absorbs it.
-- **Connection to `civ-06`**: the lecture's model of competitive innovation, elite violence, and expansion prepares later discussion of overproduction, collapse, and militarized societies.
-- **Connection to Greek and Roman chapters**: the closing says Greece and Rome belong to the world created by the Yamnaya rupture, making later classical civilization a sequel rather than a clean origin.
-- **Connection to China**: the West/China contrast begins here through geography, population, and differential exposure to Indo-European conquest.
-- **Broader Civilizational Pattern**: ecology produces possibilities, but civilizational transformation occurs when economic practice, inheritance, gender order, military incentives, and religious imagination reinforce one another.
-- **Strategic Implications**: power can emerge from a harsh periphery, consolidate innovations from many neighbors, and then reorder richer settled worlds whose own density creates vulnerability.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-Internal notes only. Keep this section concise and review-oriented.
-
-- Check named sources and spellings before public polish: Yamnaya, Marija Gimbutas, Old Europe, Proto-Indo-European, steppe, Warring States, Macedon, Alexander, Sumer, Akkad, Sargon, Zeus, Jupiter, Sardinia, Norway, Genghis Khan, and bubonic plague.
-- Add external reading before broader publication on Yamnaya ancestry, Indo-European language spread, plague in Neolithic Europe, steppe pastoralism, and the distinction between conquest and migration.
-- Revisit the Q&A claims about Mongolia and descent before promoting beyond in-review.
-- Keep the "West" frame as a course interpretation until external notes clarify how far it should be carried.
-
----
-
-**Contributor Notes**
-
-- Primary annotator: Codex
-- Reviewers: pending
-- Version: 1.0 in-review
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Cross-chapter claims: verify against Part commentary counter-readings before quotation-grade use.
+- Lecture representation_not_endorsement applies to all Layer 2 rows.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Phase 2 slim (2026-06-10): Layers 3-6 moved to Part commentary.

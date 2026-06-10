@@ -29,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: layer2_drafted
+analysis_depth: layer2_slimmed
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -97,123 +97,26 @@ Every claim below is tied to the transcript body in `civ-04-transcript.md`.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
+---
 
-Explicitly testable items only.
+## Part apparatus
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| `civ-05` will focus on the Yamnaya origin story, their violence, their patriarchal and property order, and their conquest of Europe. | E | `civ-05` does not treat the Yamnaya as the central rupture after Old Europe. | 2026-05-13 | Pending | The lecture says this directly in its closing setup. `civ-04-transcript.md:52` |
-| Later Civilization chapters will frame private property and patriarchy as historically emergent systems rather than original human constants. | SI | Later chapters present private property and patriarchy as timeless or biologically inevitable foundations of human society. | 2026-05-13 | Pending | The chapter repeatedly treats them as later transformations. `civ-04-transcript.md:34-35`, `civ-04-transcript.md:52` |
-| The Civilization arc will continue using migration, language, archaeology, and DNA as evidence for civilizational rupture, not only as background data. | SI | Later chapters abandon rupture analysis and treat evidence only as static chronology. | 2026-05-13 | Pending | This chapter uses those evidence types to prepare the Yamnaya rupture narrative. `civ-04-transcript.md:35-50` |
-| Later uses of Gimbutas will require qualification because the lecture's strongest cultural claims exceed what DNA or burial evidence alone can prove. | C | Later chapters treat every Old Europe claim as settled without counter-reading or evidentiary caution. | 2026-05-13 | Pending | This is a review expectation, not a source prediction. |
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography live in the Part files:
 
-**Meta-Prediction Patterns**
+- [Part commentary](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-04)
+- [Part bibliography](../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md)
 
-- The lecture treats civilizational change as replacement of one symbolic-social order by another, not merely a technological transition.
-- It uses prehistory as a field of competing origin stories: one origin of agriculture, goddess religion, and relative equality; another origin of conquest, property, patriarchy, and war.
+Layer 0-2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| Gimbutas's Old Europe model is controversial, and DNA evidence for Yamnaya migration does not automatically prove every cultural claim about goddess religion, women-led politics, or peace. | `civ-04-transcript.md:44-51` | The lecture moves from genetic and archaeological evidence into broader cultural reconstruction. Those steps should be kept analytically distinct. | High |
-| Conquest or population replacement may be supported by genetic evidence, but the social mechanism, degree of violence, and regional variation require further review. | `civ-04-transcript.md:50` | The lecture strongly favors conquest/genocide/replacement and defers detail to the next chapter. | Medium |
-| The absence of forts or systematic lethal weapons is evidence for relative peace, but it is not conclusive proof that a society was peaceful or non-coercive. | `civ-04-transcript.md:51` | The chapter treats material absence as culturally meaningful; the inference is plausible but not complete by itself. | Medium |
-| Old European marks may be religious symbols without meeting stricter definitions of writing. | `civ-04-transcript.md:51` | The lecture contrasts religious writing with Sumerian accounting; the category needs careful definition. | High |
-| Broad claims about sexuality, bonobos, primate behavior, and modern gender norms can illuminate modern assumptions but do not directly prove Old European sexual practice. | `civ-04-transcript.md:51-52` | The lecture's argument expands from archaeology into human sexuality and anthropology. That expansion needs separate evidence standards. | High |
-| The claim that women are more cooperative or emotionally intelligent risks essentializing gender even while the lecture argues against fixed biological sex roles. | `civ-04-transcript.md:52` | This is an internal tension in the chapter's gender argument. | Medium |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which parts of the Gimbutas thesis are supported by archaeology, which by symbolic interpretation, and which remain speculative?
-- How should the chapter distinguish evidence for migration and admixture from evidence for conquest, genocide, patriarchy, or religious replacement?
-- What external readings should be paired with this lecture before wider publication, especially on Old Europe, goddess religion, prehistoric writing, and sexual anthropology?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- **Connection to `civ-01`**: `civ-01` uses religion to explain settlement and agriculture; `civ-04` uses religion to imagine the social world that agriculture may have created before steppe rupture.
-- **Connection to `civ-02`**: `civ-02` treats religion as a human reality-making power; `civ-04` shows that power operating through goddess symbolism, fertility, burial, settlement, and gender order.
-- **Connection to `civ-03`**: `civ-03` develops early religious imagination through animism and shamanism; `civ-04` translates that imagination into a specific Old European civilizational model.
-- **Connection to `civ-05`**: the chapter explicitly prepares the Yamnaya conquest as the next rupture, where pastoral mobility, violence, patriarchy, and private property displace Old Europe.
-- **Broader Civilizational Pattern**: social orders are not only institutional arrangements; they are symbolic regimes that teach people what nature, sex, property, violence, and authority mean.
-- **Strategic Implications**: conquest can overwrite not just populations or languages, but memory, gender order, religious symbolism, and the available imagination of what society could be.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-Internal notes only. Keep this section concise and review-oriented.
-
-- Check named sources and spellings before public polish: Marija Gimbutas, Old Europe, Kurgan hypothesis, Yamnaya, Proto-Indo-European, Anatolia, *The Language of the Goddess*, *The Civilization of the Goddess*, Christopher Ryan, *Sex at Dawn*, bonobos, and the cited plow/gender studies.
-- Add external reading or counter-reading before broader publication because Gimbutas, prehistoric writing, goddess religion, and sexual-order claims are high-risk and contested.
-- Revisit this commentary after `civ-05`, because the current lecture defers the strongest conquest evidence to the next chapter.
-- Consider separating "what DNA supports" from "what symbolic interpretation suggests" in future public notes.
-
----
-
-**Contributor Notes**
-
-- Primary annotator: Codex
-- Reviewers: pending
-- Version: 1.0 in-review
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Cross-chapter claims: verify against Part commentary counter-readings before quotation-grade use.
+- Lecture representation_not_endorsement applies to all Layer 2 rows.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Phase 2 slim (2026-06-10): Layers 3-6 moved to Part commentary.

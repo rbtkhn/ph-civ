@@ -29,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: layer2_drafted
+analysis_depth: layer2_slimmed
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -90,118 +90,26 @@ Every claim below is tied to the transcript body in `civ-02-transcript.md`.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
+---
 
-Explicitly testable items only.
+## Part apparatus
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| Later Civilization chapters will continue to treat religion as ritual practice before treating it as doctrine or belief system. | SI | Later chapters abandon ritual as a core explanatory bridge from early religion to organized society. | 2026-05-13 | Pending | The lecture explicitly says the next class will study religion as ritual. `civ-02-transcript.md:94` |
-| The sequence will keep returning to the triad of religion, economics, and biology as interacting explanations rather than choosing only one. | SI | Later chapters explain civilizational change only through economics or biology, without meaningful religious mediation. | 2026-05-13 | Pending | The closing frame names all three as forces that play together. `civ-02-transcript.md:99-101` |
-| Later treatment of monotheism will frame hierarchy as a historically recent innovation compared with older cyclical or plural religious imagination. | SI | Later chapters present monotheistic hierarchy as primordial rather than historically emergent. | 2026-05-13 | Pending | The lecture says monotheism is recent and important for later society. `civ-02-transcript.md:92-94` |
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography live in the Part files:
 
-**Meta-Prediction Patterns**
+- [Part commentary](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-02)
+- [Part bibliography](../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md)
 
-- The lecture predicts continuity from cave religion to settlement, agriculture, and later ritual systems.
-- It treats early religion as a causal layer that will remain visible beneath later social, economic, and political forms.
+Layer 0-2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| Cave paintings may have multiple functions and should not be reduced to one religious explanation. | `civ-02-transcript.md:34-35` | The lecture itself acknowledges that there is little agreement and that evidence is unclear. | High |
-| Cave imagery may be symbolic, aesthetic, mnemonic, instructional, or social without requiring the full reconstructed animist system. | `civ-02-transcript.md:70-76` | The lecture lists several possible meanings for symbols, which keeps its religious interpretation from being exclusive proof. | Medium |
-| Disability burials may show care, kinship, or social inclusion without proving that disabled people were shamans. | `civ-02-transcript.md:63-70` | The lecture presents shamanic status as a possible explanation, not direct evidence. | Medium |
-| Modern neuroscience and Kantian philosophy can illuminate perception without proving that prehistoric cave artists understood reality in the same terms. | `civ-02-transcript.md:76-79` | The lecture uses later theory to interpret earlier practice, which is useful but chronologically indirect. | Medium |
-| Economic and biological explanations remain necessary even if religion is central. | `civ-02-transcript.md:97-101` | The lecture's own closing admits interplay among economic, biological, and religious needs. | High |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which features of cave art require a ritual explanation, and which only require symbolic or social explanation?
-- How much confidence should be placed in the mother-goddess reconstruction versus a looser animist or portal model?
-- Can Durkheim's theory of religion and society be used historically without flattening differences among prehistoric, ancient, and modern societies?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- **Connection to `civ-01`**: `civ-01` argues that religion helped make settlement and agriculture attractive; `civ-02` pushes that argument backward by claiming that religious imagination was already part of being human.
-- **Connection to Later Civilization Chapters**: the lecture sets up the next move from religion as imagination to religion as ritual, and it prepares later questions about monotheism, hierarchy, and social order.
-- **Broader Civilizational Pattern**: civilization begins not only from food production or coercion, but from shared imagination strong enough to organize collective practice.
-- **Strategic Implications**: predictive-history analysis should treat ideology, myth, ritual, and collective meaning as infrastructure, not ornament.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-Internal notes only. Keep this section concise and review-oriented.
-
-- Check named archaeological examples and spellings before public polish: Chauvet, Lascaux, Altamira, Romito 2, Genevieve von Petzinger, David Graeber, David Wengrow, Durkheim, Kant.
-- If this chapter is prepared for wider publication, add a short external reading note on cave art interpretation and the risks of over-reading Paleolithic symbols.
-- Revisit the ph-civ entry after `civ-03` is deepened, because `civ-02` and `civ-03` form a paired religion/imagination unit.
-
----
-
-**Contributor Notes**
-
-- Primary annotator: Codex
-- Reviewers: pending
-- Version: 1.0 in-review
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Cross-chapter claims: verify against Part commentary counter-readings before quotation-grade use.
+- Lecture representation_not_endorsement applies to all Layer 2 rows.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Phase 2 slim (2026-06-10): Layers 3-6 moved to Part commentary.

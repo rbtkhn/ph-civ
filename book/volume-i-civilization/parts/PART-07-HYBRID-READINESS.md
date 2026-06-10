@@ -1,6 +1,6 @@
 ---
 part_id: part-07-world-after-rome
-plan_status: phase3_complete
+plan_status: phase2_slimmed
 scaffold_version: ph_civ_part_commentary_v1
 template_from: part-06-medieval-imagination (hybrid pilot complete)
 inventory_date: 2026-06-09

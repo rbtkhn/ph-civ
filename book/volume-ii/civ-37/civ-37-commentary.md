@@ -29,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: layer2_drafted
+analysis_depth: layer2_slimmed
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -81,106 +81,26 @@ Every claim below is tied to the transcript body in civ-37-transcript.md.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
+---
 
-Explicitly testable items only.
+## Part apparatus
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| Later Civilization chapters should reuse this unit's world-history placement only where the transcript actually supports the connection. | C | Later material or final review does not support this control. | 2026-05-13 | Pending | In-review control. |
-| Final review should separate religious history, comparative model, moral judgment, and lecture hypothesis before completion. | C | Later material or final review does not support this control. | 2026-05-13 | Pending | In-review control. |
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography live in the Part files:
 
-**Meta-Prediction Patterns**
+- [Part commentary](../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-37)
+- [Part bibliography](../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md)
 
-- The lecture uses world-history comparison to test and extend the Civilization course model.
-- Claims about religion, stagnation, violence, and civilizational creativity should remain visibly bounded until later comparison and external review are complete.
+Layer 0-2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| The introductory claims about Islam, sects, Muhammad, Quranic tradition, and religious history require careful source-layer review. | civ-37-transcript.md | Keeps the in-review chapter bounded. | High |
-| The Abbasid Golden Age is compressed and should not be reduced to a single Baghdad-centered explanation. | civ-37-transcript.md | Keeps the in-review chapter bounded. | High |
-| Europe overtaking Islam is a broad comparative claim requiring periodization and external review. | civ-37-transcript.md | Keeps the in-review chapter bounded. | High |
-| Northrop Frye-style empire-literature theory is an interpretive lens, not settled historical causation. | civ-37-transcript.md | Keeps the in-review chapter bounded. | High |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which claims are lecture shorthand and which should become final public historical claims?
-- Which religious, Chinese-history, Mongol, violence, or comparative-civilization claims require external verification before completion?
-- Which adjacent chapters confirm, revise, or limit the world-history placement proposed here?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- Connection to civ-36: the Norse memory chapter explicitly points next to the Abbasid caliphate and a wider world-history turn.
-- Connection to civ-40: the Mongol chapter closes by returning the course to Europe for Crusades, Renaissance, Reformation, and scientific revolution material.
-- Broader pattern: this batch tests the Civilization model across Islamic, Chinese, and steppe-world examples before returning to Europe.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-- Verify proper nouns, dates, religious summaries, Chinese historical claims, Mongol claims, and ASR-sensitive names before any complete status.
-- Recheck broad claims about Islamic Golden Age causation, Chinese stagnation, Mongol violence, and civilizational creativity against external sources before final synthesis.
-- Preserve representation_not_endorsement; this commentary documents and tests the lecture's claims.
-- Keep this unit at in-review until external-source validation and final line-reference review are complete.
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Cross-chapter claims: verify against Part commentary counter-readings before quotation-grade use.
+- Lecture representation_not_endorsement applies to all Layer 2 rows.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Phase 2 slim (2026-06-10): Layers 3-6 moved to Part commentary.

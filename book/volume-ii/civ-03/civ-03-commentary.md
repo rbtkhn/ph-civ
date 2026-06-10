@@ -29,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: layer2_drafted
+analysis_depth: layer2_slimmed
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -95,119 +95,26 @@ Every claim below is tied to the transcript body in `civ-03-transcript.md`.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
+---
 
-Explicitly testable items only.
+## Part apparatus
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| `civ-04` will introduce a new religious order tied to wealth, power, war, patriarchy, or conquest. | E | `civ-04` does not treat a new religion or new social order as the explanation for the break from peaceful/egalitarian/artistic early humanity. | 2026-05-13 | Pending | The lecture explicitly says this begins next class. `civ-03-transcript.md:35-36`, `civ-03-transcript.md:102` |
-| Later chapters will treat hierarchy and patriarchy as historical changes rather than primordial defaults. | SI | Later chapters present hierarchy and patriarchy as original human conditions rather than later transformations. | 2026-05-13 | Pending | The lecture repeatedly frames hierarchy and patriarchy as later changes. `civ-03-transcript.md:32-36`, `civ-03-transcript.md:101-102` |
-| Later chapters will continue using religion as the explanatory bridge between social order, violence, economics, and political power. | SI | Later chapters explain power and war without meaningful religious or symbolic mediation. | 2026-05-13 | Pending | This chapter sets religion up as the organizing layer behind social order. |
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography live in the Part files:
 
-**Meta-Prediction Patterns**
+- [Part commentary](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-03)
+- [Part bibliography](../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md)
 
-- The lecture treats changes in religion as a way to explain changes in social form.
-- It predicts that later civilizational hierarchy will require a new imagined order, not merely new technology or material pressure.
+Layer 0-2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| The claim that most of human history was peaceful may understate interpersonal violence and regional variation. | `civ-03-transcript.md:32-33` | The lecture itself acknowledges skull fractures and ingroup conflict while distinguishing them from organized war. | Medium |
-| Anthropological analogy may illuminate early religion without proving Paleolithic religion was the same everywhere. | `civ-03-transcript.md:41-43` | The method depends on comparing present or recently observed indigenous practices with deep prehistory. | Medium |
-| Creation myths can encode law and taboo, but they can also serve many other functions: memory, ritual repetition, prestige, identity, and cosmology. | `civ-03-transcript.md:44-48` | The lecture emphasizes legal structure; other functions remain compatible but less emphasized. | Medium |
-| The Pygmy material shows a different relation to forest and ritual, but it should not be treated as a direct survival of all early humanity. | `civ-03-transcript.md:72-82` | The lecture uses the example to contrast modern and premodern minds; the generalization needs care. | Medium |
-| Materialism may be incomplete without implying that premodern religious worlds are historically or empirically more accurate. | `civ-03-transcript.md:89-97` | The lecture's point is about lived reality and social imagination, not necessarily external verification. | High |
-
-**Open Questions Raised by Counter-Readings**
-
-- How much archaeological evidence is needed before the peaceful/egalitarian/artistic triad should be treated as more than a useful model?
-- Which anthropological examples should be used as analogies, and which should be kept separate from Paleolithic reconstruction?
-- Does the lecture's contrast between modern materialism and older spirituality risk idealizing premodern life?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- **Connection to `civ-01`**: `civ-01` argues that religion can draw people into settlement and agriculture; `civ-03` shows how religion can govern everyday practice, law, hunting, ritual, and social equality.
-- **Connection to `civ-02`**: `civ-02` establishes religious imagination as constitutive of human reality; `civ-03` shows that imagination in organized ritual and anthropological example.
-- **Connection to `civ-04` / `civ-05`**: the lecture explicitly prepares a rupture narrative in which Yamnaya religion and conquest overturn older religious-social worlds.
-- **Broader Civilizational Pattern**: social order is sustained by ritual participation and shared belief before it is sustained by state coercion or written law.
-- **Strategic Implications**: political and civilizational orders should be read as lived rituals and shared realities, not only as institutions or material incentives.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-Internal notes only. Keep this section concise and review-oriented.
-
-- Check named sources and spellings before public polish: Wade Davis, *The Wayfinders*, Colin Turnbull, Mbuti/Pygmy material, molimo, Barasana, and the Amazonian creation-myth passage.
-- Revisit the peaceful/egalitarian/artistic framing after `civ-04` and `civ-05`, because the rupture narrative depends on those chapters.
-- Consider adding an external reading note on risks and uses of anthropological analogy in prehistoric reconstruction.
-
----
-
-**Contributor Notes**
-
-- Primary annotator: Codex
-- Reviewers: pending
-- Version: 1.0 in-review
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Cross-chapter claims: verify against Part commentary counter-readings before quotation-grade use.
+- Lecture representation_not_endorsement applies to all Layer 2 rows.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Phase 2 slim (2026-06-10): Layers 3-6 moved to Part commentary.

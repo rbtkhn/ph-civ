@@ -1,6 +1,6 @@
 ---
 part_id: part-10-rise-of-the-nation-state
-plan_status: phase3_complete
+plan_status: phase2_slimmed
 scaffold_version: ph_civ_part_commentary_v1
 template_from: part-08-birth-of-modernity (hybrid pilot complete)
 inventory_date: 2026-06-10

@@ -26,8 +26,11 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: layer2_drafted
+analysis_depth: layer2_slimmed
 scaffold_version: ph_civ_commentary_canvas_v1
+part_id: part-09-age-of-conscience
+part_commentary_path: ../../volume-i-civilization/parts/part-09-age-of-conscience-commentary.md#civ-53
+part_bibliography_path: ../../volume-i-civilization/parts/part-09-age-of-conscience-bibliography.md
 ---
 
 # Commentary - Civilization
@@ -78,120 +81,26 @@ Every claim below is tied to the transcript body in civ-53-transcript.md.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
+---
 
-Explicitly testable items only.
+## Part apparatus
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| Later Civilization chapters should reuse this unit's placement only where the transcript actually supports the connection. | C | Later material or final review does not support this control. | 2026-05-13 | Pending | In-review control. |
-| Final review should separate lecture interpretation, source description, political analogy, and historical reconstruction before completion. | C | Later material or final review does not support this control. | 2026-05-13 | Pending | In-review control. |
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography live in the Part files:
 
-**Meta-Prediction Patterns**
+- [Part commentary](../../volume-i-civilization/parts/part-09-age-of-conscience-commentary.md#civ-53)
+- [Part bibliography](../../volume-i-civilization/parts/part-09-age-of-conscience-bibliography.md)
 
-- The lecture uses the chapter's subject to extend the larger Civilization arc into rival modernities, philosophy, political theology, empire, and modern ideology.
-- Claims involving live war, violence, antisemitism, Nazism, religion, race, nationalism, contemporary politics, philosophy-to-science causation, or civilizational ranking should remain visibly bounded until later comparison and external review are complete.
+Layer 0-2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| Russia and Ukraine should not be reduced to a single civilizational explanation. | civ-53-transcript.md | Keeps the in-review chapter bounded. | High |
-| Orthodox, Catholic, and Protestant contrasts are lecture summaries and need external theological review. | civ-53-transcript.md | Keeps the in-review chapter bounded. | High |
-| Russian expansion, ethnic-cleansing language, and empire claims require careful historical checking. | civ-53-transcript.md | Keeps the in-review chapter bounded. | High |
-| Putin and Ukraine claims are live-current interpretations and should not be treated as settled diagnosis. | civ-53-transcript.md | Keeps the in-review chapter bounded. | High |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which claims are lecture shorthand and which should become final public historical claims?
-- Which claims require external verification before completion?
-- Which adjacent chapters confirm, revise, or limit the placement proposed here?
-
----
-
-## Tolstoy Lens
-
-The Tolstoy Lens does not overrule Jiang's interpretation. It asks a second-order causation question beside it.
-
-- **Visible actor:** Dostoevsky.
-- **Pressure field:** Russian Orthodox memory, imperial suffering, modern ideological fracture, and conscience, guilt, and inner necessity.
-- **Agency boundary:** Dostoevsky matters as novelist, religious thinker, and interpreter of the human heart, but his civilizational force becomes readable because Russian historical pressure gives his fiction a field of suffering, guilt, faith, empire, and ideological crisis to disclose.
-- **Where this supports Jiang:** It supports the lecture's use of Dostoevsky as a privileged entry into Russian civilization, especially the contrast between reason, law, heart, mercy, and spiritual redemption.
-- **Where this complicates Jiang:** It keeps Dostoevsky from becoming a complete explanation of Russia or present-day Russian politics, and keeps literary insight distinct from geopolitical diagnosis.
-- **Falsifier / limit:** Later review should narrow this lens if external literary, theological, or historical sources show that the commentary overstates Dostoevsky's representativeness or turns fiction into an overly direct civilizational key.
-- **Return path:** Use the `civ-53` entry in `registries/causation-lenses.yaml` and the [Tolstoy Question corridor](../../../corpus/cross-volume/tolstoy-question.md).
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- Connection to civ-52: Russia is introduced as a rival to the American empire of democracy and material acquisition.
-- Connection to civ-54: Germany is the next modern civilization in the Russian/German/British/American comparison.
-- Broader pattern: the unit shifts the course from Anglo-American democratic empire into rival modernities built on heart, fatalism, suffering, and sovereignty.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-- Verify proper nouns, dates, source asymmetries, ASR-sensitive names, political claims, religious contrasts, literary interpretations, philosophical summaries, empire claims, and present-day analogies before any complete status.
-- Recheck high-risk claims against external sources before final synthesis.
-- Preserve representation_not_endorsement; this commentary documents and tests the lecture's claims.
-- Keep this unit at in-review until external-source validation and final line-reference review are complete.
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Cross-chapter claims: verify against Part commentary counter-readings before quotation-grade use.
+- Lecture representation_not_endorsement applies to all Layer 2 rows.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Phase 2 slim (2026-06-10): Layers 3-6 moved to Part commentary.

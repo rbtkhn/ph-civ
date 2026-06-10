@@ -29,7 +29,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: layer2_drafted
+analysis_depth: layer2_slimmed
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -82,115 +82,26 @@ Every claim below is tied to the transcript body in `civ-01-transcript.md`. Beca
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
+---
 
-Explicitly testable items only.
+## Part apparatus
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| Later evidence will continue to support a religion-centered account for the transition into sedentary life and agriculture. | SI | Strong, broadly accepted evidence shows a non-religious explanation better accounts for the same sites and transitions. | 2026-05-13 | Pending | Use later chapters and site comparisons to test whether ritual remains the best working model. |
-| Future discussion of cave paintings will extend the lecture's religion / vision thesis rather than replace it. | SI | Later material shows no meaningful connection between early symbolic art and the lecture's religion-centered reading. | 2026-05-13 | Pending | This lecture explicitly points to cave paintings as the next class. |
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography live in the Part files:
 
-**Meta-Prediction Patterns**
+- [Part commentary](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-01)
+- [Part bibliography](../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md)
 
-- The lecture repeatedly predicts that ritual and vision will remain useful explanatory tools for later prehistoric chapters.
-- It also predicts that resource pressure will eventually push ritual sedentism toward fuller agriculture.
+Layer 0-2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| Coercion explains sedentism and agriculture better than ritual. | `civ-01-transcript.md:32` | This is the first theory family named in the lecture, but the lecture argues it is weak for humans. | Medium |
-| War and inter-group violence explain settlement better than religion. | `civ-01-transcript.md:32` | The lecture treats war as the second theory family and then rejects it as insufficient. | Medium |
-| Respect for elders explains settlement better than religion. | `civ-01-transcript.md:32` | The lecture names this as a third theory family and questions whether early people feared death in the modern way. | Medium |
-| Gobekli Tepe may have been a broader aggregation site rather than a pure temple. | `civ-01-transcript.md:32` | This preserves the lecture's ritual reading while keeping interpretation cautious. | Medium |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which sites genuinely require a religion-first explanation, and which only need a looser ritual or aggregation explanation?
-- How much of the lecture's site reading depends on symbolic interpretation rather than direct material evidence?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- **Connection to Geo-Strategy**: both series treat institutions, legitimacy, and collective behavior as central, but Civilization pushes the story back to religion and settlement rather than geopolitics.
-- **Connection to Other Civilization Chapters**: this opening lecture establishes the method for the strand by pairing broad theory families with specific archaeological sites.
-- **Broader Civilizational Pattern**: ritual aggregation can precede full agriculture; social order and meaning-making may form before state-scale institutions.
-- **Strategic Implications**: if religious and symbolic life helps create settlement, then culture is not a decorative layer on economics; it can be a causal engine.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-Internal notes only. Keep this section concise and review-oriented.
-
-- Unresolved ambiguities in the source: how to distinguish temple, aggregation site, and multi-use settlement without overclaiming from the archaeological record.
-- Recommended external readings: to be added in a later review pass if the chapter is prepared for broader publication.
-- Suggested follow-up lectures or updates: the cave-painting lecture the speaker flags at the end of this chapter.
-
----
-
-**Contributor Notes**
-
-- Primary annotator: Codex
-- Reviewers: pending
-- Version: 1.0 pilot
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Cross-chapter claims: verify against Part commentary counter-readings before quotation-grade use.
+- Lecture representation_not_endorsement applies to all Layer 2 rows.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Phase 2 slim (2026-06-10): Layers 3-6 moved to Part commentary.

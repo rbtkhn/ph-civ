@@ -1,6 +1,6 @@
 ---
 part_id: part-01-dawn-of-civilization
-plan_status: phase3_complete
+plan_status: phase2_slimmed
 scaffold_version: ph_civ_part_commentary_v1
 template_from: part-08-birth-of-modernity (hybrid pilot complete)
 inventory_date: 2026-06-10
@@ -125,3 +125,5 @@ Planning doc for extending the **Part II–VIII hybrid model** (thin chapter + t
 ## Out of scope (Part I pilot)
 
 - Part I corridor rows (none in registry) · full GB close-read in Part I (stub-route only) · `sh-11` thick section · slim chapter commentaries
+
+| Slim `part-01-dawn-of-civilization` chapters | **Done** — `scripts/part_hybrid_slim.py --part 01` (2026-06-10) |
