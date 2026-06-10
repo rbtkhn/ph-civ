@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 part_commentary_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-20
 part_bibliography_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md
@@ -64,14 +64,14 @@ Every claim below is tied to the transcript body in `civ-20-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture asks what made Indus distinct, why it declined, and what legacy it left. | `civ-20-transcript.md:36` | Explicit / Strong Implied | High |
-| 2 | The chapter places Indus inside a global Bronze Age trade context. | `civ-20-transcript.md:37` | Explicit / Strong Implied | High |
-| 3 | The lecture presents peaceful and egalitarian evidence while naming limits. | `civ-20-transcript.md:38` | Explicit / Strong Implied | High |
-| 4 | Urban design, sanitation, reservoirs, wind towers, and standardization are central to the Indus profile. | `civ-20-transcript.md:39` | Explicit / Strong Implied | High |
-| 5 | Unreadable writing makes Indus religion opaque. | `civ-20-transcript.md:40` | Explicit / Strong Implied | High |
-| 6 | Decline is framed through climate, trade, internal tension, and steppe assimilation rather than simple invasion. | `civ-20-transcript.md:41` | Explicit / Strong Implied | High |
-| 7 | Later Indian religions and caste are brought into the lecture's legacy discussion. | `civ-20-transcript.md:42` | Explicit / Strong Implied | High |
-| 8 | The proto-Buddhist continuity claim is explicitly speculative. | `civ-20-transcript.md:43` | Explicit / Strong Implied | High |
+| 1 | The lecture asks what made Indus distinct, why it declined, and what legacy it left. | `civ-20-transcript.md#three-questions-opening` | Explicit / Strong Implied | High |
+| 2 | The chapter places Indus inside a global Bronze Age trade context. | `civ-20-transcript.md#bronze-trade-context` | Explicit / Strong Implied | High |
+| 3 | The lecture presents peaceful and egalitarian evidence while naming limits. | `civ-20-transcript.md#peaceful-egalitarian-evidence` | Explicit / Strong Implied | High |
+| 4 | Urban design, sanitation, reservoirs, wind towers, and standardization are central to the Indus profile. | `civ-20-transcript.md#urban-design-standardization` | Explicit / Strong Implied | High |
+| 5 | Unreadable writing makes Indus religion opaque. | `civ-20-transcript.md#unreadable-script` | Explicit / Strong Implied | High |
+| 6 | Decline is framed through climate, trade, internal tension, and steppe assimilation rather than simple invasion. | `civ-20-transcript.md#decline-multi-cause` | Explicit / Strong Implied | High |
+| 7 | Later Indian religions and caste are brought into the lecture's legacy discussion. | `civ-20-transcript.md#legacy-indian-religions` | Explicit / Strong Implied | High |
+| 8 | The proto-Buddhist continuity claim is explicitly speculative. | `civ-20-transcript.md#proto-buddhist-speculative` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,14 +62,14 @@ Every claim below is tied to the transcript body in civ-28-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture emphasizes the scarcity and difficulty of early sources on Muhammad. | civ-28-transcript.md:32 | Explicit / Strong Implied | High |
-| 2 | Muhammad is framed through Abraham, Ishmael, Moses, Quranic tradition, Hadith, Mecca, Medina, and early Islamic memory. | civ-28-transcript.md:32 | Explicit / Strong Implied | High |
-| 3 | The rapid expansion of Islam is compared with Taiping, Canudos, and the French Revolution. | civ-28-transcript.md:32 | Explicit / Strong Implied | High |
-| 4 | Arabia is described as a trade, war, mercenary, and religious-diversity center between Byzantine and Sassanian empires. | civ-28-transcript.md:32 | Explicit / Strong Implied | High |
+| 1 | The lecture emphasizes the scarcity and difficulty of early sources on Muhammad. | `civ-28-transcript.md#source-scarcity` | Explicit / Strong Implied | High |
+| 2 | Muhammad is framed through Abraham, Ishmael, Moses, Quranic tradition, Hadith, Mecca, Medina, and early Islamic memory. | `civ-28-transcript.md#abraham-family` | Explicit / Strong Implied | High |
+| 3 | The rapid expansion of Islam is compared with Taiping, Canudos, and the French Revolution. | `civ-28-transcript.md#revolutionary-analogies` | Explicit / Strong Implied | High |
+| 4 | Arabia is described as a trade, war, mercenary, and religious-diversity center between Byzantine and Sassanian empires. | `civ-28-transcript.md#arabia-innovation-zone` | Explicit / Strong Implied | High |
 | 5 | Byzantine and Sassanian weakness is tied to war, plague, civil war, debt, landlessness, and religious persecution. | civ-28-transcript.md:32 | Explicit / Strong Implied | High |
-| 6 | Muhammad is framed as a strategic, innovative, disciplined leader who unites tribes through Abrahamic equality and promised land. | civ-28-transcript.md:32 | Explicit / Strong Implied | High |
-| 7 | The lecture reads jihad as revolutionary recovery of land and justice in the early movement's frame. | civ-28-transcript.md:32 | Explicit / Strong Implied | High |
-| 8 | Later imperial Islam is said to whitewash Muhammad's revolutionary history after the revolution succeeds. | civ-28-transcript.md:32 | Explicit / Strong Implied | High |
+| 6 | Muhammad is framed as a strategic, innovative, disciplined leader who unites tribes through Abrahamic equality and promised land. | `civ-28-transcript.md#muhammad-unification` | Explicit / Strong Implied | High |
+| 7 | The lecture reads jihad as revolutionary recovery of land and justice in the early movement's frame. | `civ-28-transcript.md#jihad-land-promise` | Explicit / Strong Implied | High |
+| 8 | Later imperial Islam is said to whitewash Muhammad's revolutionary history after the revolution succeeds. | `civ-28-transcript.md#whitewashing-close` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

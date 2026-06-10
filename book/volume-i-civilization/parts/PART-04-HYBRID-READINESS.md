@@ -47,7 +47,7 @@ Planning doc for extending the **Part II/III hybrid model** (thin chapter + thic
 
 **Legacy wrappers:** `civilization-spine/civ-18`–`civ-23` and chapter READMEs still use **4-step** lattice — no Part apparatus links (expected pre-implementation).
 
-**Pin-cite debt:** `civ-21`–`civ-23` Layer 2 refs overwhelmingly `civ-*-transcript.md:32`; split megagraphs into `###` sections before or during Phase 1 claim authoring.
+**Pin-cite debt:** **Cleared** (2026-06-09) — `civ-19`–`23` sectioned/refreshed; chapter L2 uses `#anchor` slugs.
 
 ---
 

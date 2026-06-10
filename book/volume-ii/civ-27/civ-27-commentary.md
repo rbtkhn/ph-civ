@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,13 +62,13 @@ Every claim below is tied to the transcript body in civ-27-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | Augustine is described as the intellectual architect of the Catholic Church. | civ-27-transcript.md:32 | Explicit / Strong Implied | High |
-| 2 | The lecture uses Fukuyama's end-of-history concept to interpret earlier imperial and religious legitimacy projects. | civ-27-transcript.md:32 | Explicit / Strong Implied | High |
-| 3 | Rome's sack is presented as a crisis of faith for imperial Christianity. | civ-27-transcript.md:32 | Explicit / Strong Implied | High |
-| 4 | City of God is framed as taking the Church out of history and above ordinary power struggles. | civ-27-transcript.md:32 | Explicit / Strong Implied | High |
-| 5 | Confessions is read as a rhetorical rewriting of Eden, sin, curiosity, and obedience. | civ-27-transcript.md:32 | Explicit / Strong Implied | High |
-| 6 | Augustine's discussion of Lucretia, rape, and suicide is treated as a troubling doctrine of obedience and control. | civ-27-transcript.md:32 | Explicit / Strong Implied | High |
-| 7 | The lecture links Augustinian obedience to social stagnation and a Dark Ages frame. | civ-27-transcript.md:32 | Explicit / Strong Implied | High |
+| 1 | Augustine is described as the intellectual architect of the Catholic Church. | `civ-27-transcript.md#opening-augustine` | Explicit / Strong Implied | High |
+| 2 | The lecture uses Fukuyama's end-of-history concept to interpret earlier imperial and religious legitimacy projects. | `civ-27-transcript.md#end-of-history` | Explicit / Strong Implied | High |
+| 3 | Rome's sack is presented as a crisis of faith for imperial Christianity. | `civ-27-transcript.md#rome-sack-crisis` | Explicit / Strong Implied | High |
+| 4 | City of God is framed as taking the Church out of history and above ordinary power struggles. | `civ-27-transcript.md#city-of-god` | Explicit / Strong Implied | High |
+| 5 | Confessions is read as a rhetorical rewriting of Eden, sin, curiosity, and obedience. | `civ-27-transcript.md#confessions-eden` | Explicit / Strong Implied | High |
+| 6 | Augustine's discussion of Lucretia, rape, and suicide is treated as a troubling doctrine of obedience and control. | `civ-27-transcript.md#lucretia-obedience` | Explicit / Strong Implied | High |
+| 7 | The lecture links Augustinian obedience to social stagnation and a Dark Ages frame. | `civ-27-transcript.md#dark-ages-eastward` | Explicit / Strong Implied | High |
 | 8 | The ending points eastward to religious dissent in Arabia and the rise of Islam. | civ-27-transcript.md:32 | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined

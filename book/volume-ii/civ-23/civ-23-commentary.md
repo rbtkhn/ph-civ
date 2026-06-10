@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 part_commentary_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-23
 part_bibliography_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md
@@ -64,14 +64,14 @@ Every claim below is tied to the transcript body in `civ-23-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture divides Jewish religious history into First Temple, Second Temple, and Rabbinic periods. | `civ-23-transcript.md:32` | Explicit / Strong Implied | High |
+| 1 | The lecture divides Jewish religious history into First Temple, Second Temple, and Rabbinic periods. | `civ-23-transcript.md#judaism-periods-overview` | Explicit / Strong Implied | High |
 | 2 | Cyrus conquers Babylon, releases Jews, and sponsors Second Temple and Bible projects. | `civ-23-transcript.md:32` | Explicit / Strong Implied | High |
-| 3 | Cyrus is described as the only foreigner called Messiah in the Bible. | `civ-23-transcript.md:32` | Explicit / Strong Implied | High |
-| 4 | Persian federation is framed through divide-and-rule, peace, trade, postal systems, and satraps. | `civ-23-transcript.md:32` | Explicit / Strong Implied | High |
+| 3 | Cyrus is described as the only foreigner called Messiah in the Bible. | `civ-23-transcript.md#cyrus-messiah-frame` | Explicit / Strong Implied | High |
+| 4 | Persian federation is framed through divide-and-rule, peace, trade, postal systems, and satraps. | `civ-23-transcript.md#zoroastrianism-doctrine` | Explicit / Strong Implied | High |
 | 5 | Zoroastrianism is described through Ahura Mazda, evil, truth, lie, and eschatology. | `civ-23-transcript.md:32` | Explicit / Strong Implied | High |
-| 6 | Ezra is tied to divorce, J/E/P/D unification, Moses replacing David, and purity. | `civ-23-transcript.md:32` | Explicit / Strong Implied | High |
+| 6 | Ezra is tied to divorce, J/E/P/D unification, Moses replacing David, and purity. | `civ-23-transcript.md#ezra-canon-merge` | Explicit / Strong Implied | High |
 | 7 | Samaritan conflict helps define purity boundaries in the lecture's account. | `civ-23-transcript.md:32` | Explicit / Strong Implied | High |
-| 8 | The lecture claims Zoroastrian-biblical merger prepares Christianity. | `civ-23-transcript.md:32` | Explicit / Strong Implied | High |
+| 8 | The lecture claims Zoroastrian-biblical merger prepares Christianity. | `civ-23-transcript.md#christianity-forward-bridge` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

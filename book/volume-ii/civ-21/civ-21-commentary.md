@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 part_commentary_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-21
 part_bibliography_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md
@@ -64,14 +64,14 @@ Every claim below is tied to the transcript body in `civ-21-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture defines the Bible as a library and distinguishes Tanak, Hebrew Bible, and New Testament. | `civ-21-transcript.md:32` | Explicit / Strong Implied | High |
-| 2 | The lecture says Jewish religion was not always monotheistic. | `civ-21-transcript.md:32` | Explicit / Strong Implied | High |
-| 3 | The lecture separates biblical narrative from straightforward archaeological history. | `civ-21-transcript.md:32` | Explicit / Strong Implied | High |
-| 4 | The Levant context includes Canaan, Egyptian power, Sea Peoples, Philistines, Saul, David, and civil war. | `civ-21-transcript.md:32` | Explicit / Strong Implied | High |
-| 5 | Exile and Persian return transform Israelites into Jews in the lecture's account. | `civ-21-transcript.md:32` | Explicit / Strong Implied | High |
-| 6 | The lecture frames biblical composition as apology, legitimacy, identity, and differentiation. | `civ-21-transcript.md:32` | Explicit / Strong Implied | High |
+| 1 | The lecture defines the Bible as a library and distinguishes Tanak, Hebrew Bible, and New Testament. | `civ-21-transcript.md#bible-library-frame` | Explicit / Strong Implied | High |
+| 2 | The lecture says Jewish religion was not always monotheistic. | `civ-21-transcript.md#three-myths-correction` | Explicit / Strong Implied | High |
+| 3 | The lecture separates biblical narrative from straightforward archaeological history. | `civ-21-transcript.md#levant-history-david` | Explicit / Strong Implied | High |
+| 4 | The Levant context includes Canaan, Egyptian power, Sea Peoples, Philistines, Saul, David, and civil war. | `civ-21-transcript.md#exile-persian-shift` | Explicit / Strong Implied | High |
+| 5 | Exile and Persian return transform Israelites into Jews in the lecture's account. | `civ-21-transcript.md#bible-apology-framework` | Explicit / Strong Implied | High |
+| 6 | The lecture frames biblical composition as apology, legitimacy, identity, and differentiation. | `civ-21-transcript.md#jedp-political-real-estate` | Explicit / Strong Implied | High |
 | 7 | J/E/P/D schools are treated as compositional layers or political-literary surfaces. | `civ-21-transcript.md:32` | Explicit / Strong Implied | High |
-| 8 | David stories are read as narrative spin around legitimacy and threat. | `civ-21-transcript.md:32` | Explicit / Strong Implied | High |
+| 8 | David stories are read as narrative spin around legitimacy and threat. | `civ-21-transcript.md#david-legitimacy-stories` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

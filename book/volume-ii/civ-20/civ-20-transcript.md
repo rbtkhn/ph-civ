@@ -55,11 +55,17 @@ Part I contains the full lecture transcript imported from the public import snap
 ## Full transcript
 Okay, so good morning. We finished the Bronze Age today with the Indus Valley Civilization. We've done Egypt, we've done Mesopotamia, and now we're doing the Indus Valley Civilization.
 
+### three-questions-opening
+
 Today I'm going to look at three questions. First of all, what is it that makes the Indus Valley Civilization distinct or different from other civilizations? Second, why did it decline? They reached their peak about 2600 to 1900 BCE, and then for the next three to four hundred years they declined and ultimately disappeared. Why did that happen?
 
 The last question is: what is their legacy? What is their contribution to the development of Western civilization? Or more broadly, to human civilization?
 
-Alright, so let's look at the Indus Valley Civilization. To do so, we need to first understand the world at this time — about 2500 to 2000 BCE. This is what we call the Middle Bronze Age, because most people were using bronze for weapons and tools.
+Alright, so let's look at the Indus Valley Civilization. To do so, we need to first understand the world at this time — about 2500 to 2000 BCE. This is what we call the
+
+### bronze-trade-context
+
+Middle Bronze Age, because most people were using bronze for weapons and tools.
 
 Over here is Egypt. As we discussed, by far Egypt is the wealthiest, most advanced civilization in the Bronze Age. Across the Red Sea is Arabia. Even though Arabia isn't really discussed that much in world history, it's still significant because it's part of the trading network. Arabia had many nomads who took goods from Mesopotamia over to Egypt and then into the Mediterranean, which accessed all of Europe.
 
@@ -93,7 +99,11 @@ We have found five major urban centers in the Indus Valley Civilization. These u
 
 This trade network is very complex, and everyone is involved in some capacity.
 
-That's the first thing that's interesting about the Indus Valley Civilization: they trade internally peacefully, and they trade externally peacefully as well. We have absolutely no evidence that they ever had organized warfare. We have actually no evidence that they had any intention of organized warfare — meaning we have not found any weapons of war. We have found tools and hunting weapons, but we have not found armor or helmets.
+That's the first thing that's interesting about the Indus Valley Civilization: they trade internally peacefully, and they trade externally peacefully as well. We have absolutely no evidence that they ever had organized warfare. We have actually no evidence that they had any intention of organized warfare — meaning
+
+### peaceful-egalitarian-evidence
+
+we have not found any weapons of war. We have found tools and hunting weapons, but we have not found armor or helmets.
 
 How do we know there's no organized warfare? We know there's a lot of organized warfare in Mesopotamia and other places because of what we've dug up. We look at cities and we see parts of the city that have been built on top of destroyed layers — meaning there might have been fires or warfare.
 
@@ -121,13 +131,19 @@ These are people who are very concerned about the well-being of all its citizens
 
 At least half the people we think lived past the age of 55 — that was an amazing achievement back then.
 
+### urban-design-standardization
+
 In terms of sanitation, they have reservoirs. They also have public baths. They also had really amazing things called wind towers. I'm not sure if you've studied these wind towers, but they're basically air conditioners. What they do is these are high towers with a hole on top. The higher air is cooler, so this cool wind gets into the wind tower, comes down, and pushes out the hot air from the other side. This is what cools the houses in the summer. This is pretty advanced technology.
 
 Another really cool thing about the Indus Valley Civilization is that even though it covers a huge area, they have standardized weights and measurements. Every brick they have is the same size, which means their buildings and structures are extremely stable and resilient. That's why 5,000 years later we still have their cities intact. You can actually go to the cities and the structures are still standing — that's how stable the technology was.
 
 So this is a pretty advanced civilization.
 
-Unfortunately, we don't know what their writing system is. If they had writing — and we can't know for sure — it was like Chinese or Indic: it is not fully phonological. The spoken language is not the same as the written language. In other words, it is impossible for us to decipher their written language. We don't have that many artifacts of writing. We have seals with characters written on them, but we don't have anything else.
+Unfortunately, we don't know what their writing system is. If they had writing — and we can't know for sure — it was like Chinese or Indic: it is not fully phonological. The spoken language is not the same as the written language. In other words, it is
+
+### unreadable-script
+
+impossible for us to decipher their written language. We don't have that many artifacts of writing. We have seals with characters written on them, but we don't have anything else.
 
 The reason could be that if they wrote, it would be on palm leaves, which degrade very easily in the humidity — unlike papyrus in Egypt or cuneiform on clay tablets in Mesopotamia.
 
@@ -185,7 +201,11 @@ During this time there was massive social tension within the Indus Valley Civili
 
 Because of climate change, the people in the steppe culture are now forced to leave the steppes. They push into the Oxus Valley Civilization and over time they will assimilate it into themselves.
 
-This is **not** an intentional military invasion. It's not that you have a general and an army that go in and conquer it. It's more opportunistic. At first you're trading, and as the Oxus Valley Civilization declines because of collapsing trade networks, they start to come in and push out the people.
+This is **not** an intentional military invasion. It's not that you have a general and an army that go in and conquer it. It's more opportunistic. At first you're trading, and as the Oxus Valley Civilization declines because of
+
+### decline-multi-cause
+
+collapsing trade networks, they start to come in and push out the people.
 
 The culture of these steppe people is very aggressive, so there are two strategies they would employ. The first is they might wipe out villages (which are already depopulated). The second is to come in, kill all the men, and marry all the women.
 
@@ -200,6 +220,8 @@ There are three distinct characteristics of the Proto-Indo-Iranian culture that 
 These people will also push into the Indus Valley Civilization. Over time — and this is a process that takes about 500 years — they'll push out the indigenous people. The indigenous people move into South India where they merge with the folk culture and the animism of the local people there.
 
 What's amazing about this is that this process will create two major world religions that are still influential today.
+
+### legacy-indian-religions
 
 The first we know as **Hinduism** — the merger (synchronization) of Proto-Indo-Iranian religion with the local Indus Valley religion.
 
@@ -237,7 +259,11 @@ Over time, because Hinduism (like the Proto-Indo-Iranians) is aggressive, expans
 
 They will also start assimilating other religions. Most Indians believed in their folk local gods. Eventually all these gods will be assimilated into the Hindu hierarchy. That's why you have like a million gods in Hinduism — because they were all assimilated over time. The higher gods are the Hindu trinity / Brahman gods.
 
-Across Hinduism, Buddhism, Jainism, and Sikhism you keep seeing the same kinds of themes — false or shifting reality, oneness, karma, dharma, reincarnation, impermanence. Those ideas are not strongly present in core Proto-Indo-European religion, but they are prominent in the Indian traditions. My speculation is that a lot of that common denominator traces back to something like a **Proto-Buddhist** religion in the Indus Valley — rooted in earlier animism and sharpened by the dialectic: reacting to the warfare, inequality, and corruption they saw in Mesopotamia and Egypt.
+Across Hinduism, Buddhism, Jainism, and Sikhism you keep seeing the same kinds of themes — false or shifting reality, oneness, karma, dharma, reincarnation, impermanence. Those ideas are not strongly present in core Proto-Indo-European religion, but they are prominent in the Indian traditions. My speculation is that a lot of that common denominator traces back to something like a **
+
+### proto-buddhist-speculative
+
+Proto-Buddhist** religion in the Indus Valley — rooted in earlier animism and sharpened by the dialectic: reacting to the warfare, inequality, and corruption they saw in Mesopotamia and Egypt.
 
 I would connect that instinct to something broader in human beings — a nostalgia for oneness and for a truer reality. Plato's Allegory of the Cave and the Christian idea of the Second Coming are different languages for a similar hunger.
 

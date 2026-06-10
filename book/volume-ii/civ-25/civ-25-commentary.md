@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,14 +62,14 @@ Every claim below is tied to the transcript body in `civ-25-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture contrasts Jesus's kingdom-within-us message with later Christianity's Son of God, atonement, and second-coming claims. | `civ-25-transcript.md:32` | Explicit / Strong Implied | High |
-| 2 | Paul is described as Roman citizen, Pharisee, Damascus convert, and missionary. | `civ-25-transcript.md:32` | Explicit / Strong Implied | High |
-| 3 | Paul's teaching is framed as faith rather than works and circumcision optional. | `civ-25-transcript.md:32` | Explicit / Strong Implied | High |
-| 4 | James the Just and Ebionites are presented as rival or alternative Jesus-movement lines. | `civ-25-transcript.md:32` | Explicit / Strong Implied | High |
-| 5 | Acts ending in Rome is read as Roman protection and preaching without hindrance. | `civ-25-transcript.md:32` | Explicit / Strong Implied | High |
-| 6 | The lecture advances Paul-as-spy as a high-risk thesis. | `civ-25-transcript.md:32` | Explicit / Strong Implied | High |
-| 7 | Paul is said to undermine purity, persecution dynamics, and messianic expectation. | `civ-25-transcript.md:32` | Explicit / Strong Implied | High |
-| 8 | Paul's revolutions are framed around faith as belief, miracles, tradition, and Bible access. | `civ-25-transcript.md:32` | Explicit / Strong Implied | High |
+| 1 | The lecture contrasts Jesus's kingdom-within-us message with later Christianity's Son of God, atonement, and second-coming claims. | `civ-25-transcript.md#jesus-christianity-paradox` | Explicit / Strong Implied | High |
+| 2 | Paul is described as Roman citizen, Pharisee, Damascus convert, and missionary. | `civ-25-transcript.md#paul-biography` | Explicit / Strong Implied | High |
+| 3 | Paul's teaching is framed as faith rather than works and circumcision optional. | `civ-25-transcript.md#faith-circumcision` | Explicit / Strong Implied | High |
+| 4 | James the Just and Ebionites are presented as rival or alternative Jesus-movement lines. | `civ-25-transcript.md#paul-acts-frame` | Explicit / Strong Implied | High |
+| 5 | Acts ending in Rome is read as Roman protection and preaching without hindrance. | `civ-25-transcript.md#acts-rome-ending` | Explicit / Strong Implied | High |
+| 6 | The lecture advances Paul-as-spy as a high-risk thesis. | `civ-25-transcript.md#paul-spy-thesis` | Explicit / Strong Implied | High |
+| 7 | Paul is said to undermine purity, persecution dynamics, and messianic expectation. | `civ-25-transcript.md#paul-spy-thesis` | Explicit / Strong Implied | High |
+| 8 | Paul's revolutions are framed around faith as belief, miracles, tradition, and Bible access. | `civ-25-transcript.md#faith-circumcision` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

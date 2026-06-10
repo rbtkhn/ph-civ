@@ -234,6 +234,8 @@
       ],
       "spine_slice_warning": false,
       "doorway_path": "book/volume-i-civilization/parts/part-05-christianity-and-islam.md",
+      "commentary_path": "book/volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md",
+      "bibliography_path": "book/volume-i-civilization/parts/part-05-christianity-and-islam-bibliography.md",
       "previous_part_id": "part-04-ancient-foundations",
       "next_part_id": "part-06-medieval-imagination",
       "secret_history_companions": [

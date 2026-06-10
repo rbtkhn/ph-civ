@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 part_commentary_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-22
 part_bibliography_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md
@@ -64,14 +64,14 @@ Every claim below is tied to the transcript body in `civ-22-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture frames Bible as cosmology rather than simple chronology or fiction. | `civ-22-transcript.md:32` | Explicit / Strong Implied | High |
-| 2 | Legitimacy is tied to poet God, poet king, covenants, and the word. | `civ-22-transcript.md:32` | Explicit / Strong Implied | High |
-| 3 | Cohesion is read through synchronization of Abraham, Isaac, Jacob, Moses, and Judges. | `civ-22-transcript.md:32` | Explicit / Strong Implied | High |
-| 4 | Moses is connected to Egyptian priestly patterns in the lecture's hypothesis. | `civ-22-transcript.md:32` | Explicit / Strong Implied | High |
-| 5 | Differentiation is framed against Egypt, Philistines, and Canaanites. | `civ-22-transcript.md:32` | Explicit / Strong Implied | High |
-| 6 | The Yahwist is presented as a female author and literary genius. | `civ-22-transcript.md:32` | Explicit / Strong Implied | High |
-| 7 | Adam and Eve are read through knowledge, life, divine speech, and divine remorse. | `civ-22-transcript.md:32` | Explicit / Strong Implied | High |
-| 8 | Cain and Abel are read as faith through argument with God. | `civ-22-transcript.md:32` | Explicit / Strong Implied | High |
+| 1 | The lecture frames Bible as cosmology rather than simple chronology or fiction. | `civ-22-transcript.md#cosmology-not-chronology` | Explicit / Strong Implied | High |
+| 2 | Legitimacy is tied to poet God, poet king, covenants, and the word. | `civ-22-transcript.md#poet-god-covenants` | Explicit / Strong Implied | High |
+| 3 | Cohesion is read through synchronization of Abraham, Isaac, Jacob, Moses, and Judges. | `civ-22-transcript.md#cohesion-synchronization` | Explicit / Strong Implied | High |
+| 4 | Moses is connected to Egyptian priestly patterns in the lecture's hypothesis. | `civ-22-transcript.md#differentiation-fluid-identity` | Explicit / Strong Implied | High |
+| 5 | Differentiation is framed against Egypt, Philistines, and Canaanites. | `civ-22-transcript.md#yahwist-author` | Explicit / Strong Implied | High |
+| 6 | The Yahwist is presented as a female author and literary genius. | `civ-22-transcript.md#adam-eve-close-read` | Explicit / Strong Implied | High |
+| 7 | Adam and Eve are read through knowledge, life, divine speech, and divine remorse. | `civ-22-transcript.md#cain-abel-close-read` | Explicit / Strong Implied | High |
+| 8 | Cain and Abel are read as faith through argument with God. | `civ-22-transcript.md#rachel-jacob-irony` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

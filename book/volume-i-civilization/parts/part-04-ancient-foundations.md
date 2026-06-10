@@ -33,7 +33,7 @@ What parallel grammars sit beside Greece/Rome on the ancient worlds floor?
 
 - [Part IV commentary](part-04-ancient-foundations-commentary.md) — cross-chapter synthesis, `sh-17` pointer, prediction ledger
 - [Part IV bibliography](part-04-ancient-foundations-bibliography.md) — external sources (tagged by chapter)
-- [Part IV hybrid readiness](PART-04-HYBRID-READINESS.md) — Phase 1 author complete; Phase 2–3 pending
+- [Part IV hybrid readiness](PART-04-HYBRID-READINESS.md) — hybrid pilot complete (Phases 1–3)
 - **Ingress:** [Part III `civ-17`](./part-03-roman-imperium-commentary.md#civ-17) Egypt eternity preview → `civ-18`
 
 ## Navigation

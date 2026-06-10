@@ -24,9 +24,12 @@ How does sacred legitimacy migrate across revelations and empires?
 
 _No corridor touchpoints in this Part._
 
-## Apparatus (hybrid pilot)
+## Apparatus
 
-**Status:** Phase 0 inventory — [PART-05-HYBRID-READINESS.md](PART-05-HYBRID-READINESS.md). Commentary/bibliography **not yet created**.
+- [Part V commentary](part-05-christianity-and-islam-commentary.md) — cross-chapter synthesis, `sh-18` pointer, prediction ledger
+- [Part V bibliography](part-05-christianity-and-islam-bibliography.md) — external sources (tagged by chapter; interfaith guardrails)
+- [Part V hybrid readiness](PART-05-HYBRID-READINESS.md) — Phase 1 author complete; Phase 2–3 pending
+- **Ingress:** [Part IV `civ-23`](./part-04-ancient-foundations-commentary.md#civ-23) Zoroastrian/Jewish merge → `civ-24`
 
 ## Navigation
 

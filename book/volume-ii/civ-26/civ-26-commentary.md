@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +62,12 @@ Every claim below is tied to the transcript body in civ-26-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture contrasts Christian tradition with its own reconstruction of early Christianity. | civ-26-transcript.md:32 | Explicit / Strong Implied | High |
-| 2 | Paul's church is said to become dominant partly through Jewish-Roman wars, diaspora fear, and Roman-style hierarchy. | civ-26-transcript.md:32 | Explicit / Strong Implied | High |
-| 3 | Constantine is framed as using Christianity to unify the empire and consolidate rule. | civ-26-transcript.md:32 | Explicit / Strong Implied | High |
-| 4 | The Council of Nicaea and the godhead are presented as the doctrinal hinge into monotheism. | civ-26-transcript.md:32 | Explicit / Strong Implied | High |
+| 1 | The lecture contrasts Christian tradition with its own reconstruction of early Christianity. | `civ-26-transcript.md#christian-tradition` | Explicit / Strong Implied | High |
+| 2 | Paul's church is said to become dominant partly through Jewish-Roman wars, diaspora fear, and Roman-style hierarchy. | `civ-26-transcript.md#lecture-reconstruction` | Explicit / Strong Implied | High |
+| 3 | Constantine is framed as using Christianity to unify the empire and consolidate rule. | `civ-26-transcript.md#constantine-nicaea` | Explicit / Strong Implied | High |
+| 4 | The Council of Nicaea and the godhead are presented as the doctrinal hinge into monotheism. | `civ-26-transcript.md#godhead-equation` | Explicit / Strong Implied | High |
 | 5 | Monotheism is defined as a closed, exclusionary reality-order rather than merely belief in one God. | civ-26-transcript.md:32 | Explicit / Strong Implied | High |
-| 6 | Capitalism, science, and the nation-state are treated as modern extensions of symbol-as-reality logic. | civ-26-transcript.md:32 | Explicit / Strong Implied | High |
+| 6 | Capitalism, science, and the nation-state are treated as modern extensions of symbol-as-reality logic. | `civ-26-transcript.md#monotheism-modernity` | Explicit / Strong Implied | High |
 | 7 | The lecture argues that monotheism crowds out older spiritual realities and narrows imagination. | civ-26-transcript.md:32 | Explicit / Strong Implied | High |
 | 8 | The chapter previews that later material will clarify the modern consequences of monotheism. | civ-26-transcript.md:32 | Explicit / Strong Implied | High |
 

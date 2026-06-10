@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 part_commentary_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-19
 part_bibliography_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md
@@ -64,14 +64,14 @@ Every claim below is tied to the transcript body in `civ-19-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture flags mythology, dialectic, and diversity as its Mesopotamia framework. | `civ-19-transcript.md:32` | Explicit / Strong Implied | High |
-| 2 | Egypt and Mesopotamia are contrasted geopolitically. | `civ-19-transcript.md:32` | Explicit / Strong Implied | High |
-| 3 | Sumerian origins and Uruk are treated as central but debated surfaces. | `civ-19-transcript.md:42` | Explicit / Strong Implied | High |
-| 4 | The lecture compares Enuma Elish with Egyptian kingship myth. | `civ-19-transcript.md:65` | Explicit / Strong Implied | High |
-| 5 | Gilgamesh is presented as a key mythic-literary answer to mortality. | `civ-19-transcript.md:79` | Explicit / Strong Implied | High |
-| 6 | The lecture reads Gilgamesh in dialectic with the pyramids. | `civ-19-transcript.md:61` | Explicit / Strong Implied | High |
-| 7 | Enuma Elish and Gilgamesh are treated as social evolution narratives. | `civ-19-transcript.md:32` | Explicit / Strong Implied | High |
-| 8 | The next chapter is previewed as the Indus peaceful egalitarian paradox. | `civ-19-transcript.md:46` | Explicit / Strong Implied | High |
+| 1 | The lecture flags mythology, dialectic, and diversity as its Mesopotamia framework. | `civ-19-transcript.md#framework-mythology-dialectic` | Explicit / Strong Implied | High |
+| 2 | Egypt and Mesopotamia are contrasted geopolitically. | `civ-19-transcript.md#egypt-mesopotamia-contrast` | Explicit / Strong Implied | High |
+| 3 | Sumerian origins and Uruk are treated as central but debated surfaces. | `civ-19-transcript.md#sumerian-uruk-origins` | Explicit / Strong Implied | High |
+| 4 | The lecture compares Enuma Elish with Egyptian kingship myth. | `civ-19-transcript.md#enuma-elish-creation` | Explicit / Strong Implied | High |
+| 5 | Gilgamesh is presented as a key mythic-literary answer to mortality. | `civ-19-transcript.md#gilgamesh-immortality-quest` | Explicit / Strong Implied | High |
+| 6 | The lecture reads Gilgamesh in dialectic with the pyramids. | `civ-19-transcript.md#gilgamesh-pyramid-dialectic` | Explicit / Strong Implied | High |
+| 7 | Enuma Elish and Gilgamesh are treated as social evolution narratives. | `civ-19-transcript.md#social-evolution-myth` | Explicit / Strong Implied | High |
+| 8 | The next chapter is previewed as the Indus peaceful egalitarian paradox. | `civ-19-transcript.md#indus-preview` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

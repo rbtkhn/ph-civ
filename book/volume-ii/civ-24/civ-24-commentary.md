@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,14 +62,14 @@ Every claim below is tied to the transcript body in `civ-24-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture distinguishes historical Jesus from biblical Jesus. | `civ-24-transcript.md:32` | Explicit / Strong Implied | High |
-| 2 | Historical Jesus is placed in Galilee, linked to John the Baptist and healing, and crucified by Romans. | `civ-24-transcript.md:32` | Explicit / Strong Implied | High |
-| 3 | Biblical Jesus is described through Son of God, virgin birth, Kingdom of Heaven, forgiveness, and atonement. | `civ-24-transcript.md:32` | Explicit / Strong Implied | High |
-| 4 | Original sin is presented as conflicting with the lecture's Yahwist Adam and Eve reading. | `civ-24-transcript.md:32` | Explicit / Strong Implied | High |
-| 5 | The lecture complicates the claim that Jews killed Jesus by distinguishing Jewish groups and Roman power. | `civ-24-transcript.md:32` | Explicit / Strong Implied | High |
-| 6 | Gnosticism is framed through secret, inner, and public layers. | `civ-24-transcript.md:32` | Explicit / Strong Implied | High |
-| 7 | The Gospel of Thomas, Monad, Sophia, Yahweh, and divine spark appear in the Gnostic account. | `civ-24-transcript.md:32` | Explicit / Strong Implied | High |
-| 8 | The lecture claims Roman crucifixion made Jesus a martyr hero and Paul founded Christianity. | `civ-24-transcript.md:32` | Explicit / Strong Implied | High |
+| 1 | The lecture distinguishes historical Jesus from biblical Jesus. | `civ-24-transcript.md#historical-jesus` | Explicit / Strong Implied | High |
+| 2 | Historical Jesus is placed in Galilee, linked to John the Baptist and healing, and crucified by Romans. | `civ-24-transcript.md#historical-jesus` | Explicit / Strong Implied | High |
+| 3 | Biblical Jesus is described through Son of God, virgin birth, Kingdom of Heaven, forgiveness, and atonement. | `civ-24-transcript.md#biblical-jesus` | Explicit / Strong Implied | High |
+| 4 | Original sin is presented as conflicting with the lecture's Yahwist Adam and Eve reading. | `civ-24-transcript.md#original-sin-atonement` | Explicit / Strong Implied | High |
+| 5 | The lecture complicates the claim that Jews killed Jesus by distinguishing Jewish groups and Roman power. | `civ-24-transcript.md#jews-killed-jesus` | Explicit / Strong Implied | High |
+| 6 | Gnosticism is framed through secret, inner, and public layers. | `civ-24-transcript.md#gnostic-layers` | Explicit / Strong Implied | High |
+| 7 | The Gospel of Thomas, Monad, Sophia, Yahweh, and divine spark appear in the Gnostic account. | `civ-24-transcript.md#gospel-of-thomas` | Explicit / Strong Implied | High |
+| 8 | The lecture claims Roman crucifixion made Jesus a martyr hero and Paul founded Christianity. | `civ-24-transcript.md#martyrdom-paul-preview` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

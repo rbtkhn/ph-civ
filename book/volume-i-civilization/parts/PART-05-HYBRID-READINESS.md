@@ -1,6 +1,6 @@
 ---
 part_id: part-05-christianity-and-islam
-plan_status: phase0_inventory
+plan_status: phase1_complete
 scaffold_version: ph_civ_part_commentary_v1
 template_from: part-04-ancient-foundations (hybrid pilot)
 inventory_date: 2026-06-09
@@ -22,15 +22,15 @@ Planning doc for extending the **Part II/III/IV hybrid model** (thin chapter + t
 
 | Gate | Threshold | Current (2026-06-09) |
 |------|-----------|----------------------|
-| Chapter Layer 0–2 | All five chapters have transcript-anchored claims + line/section refs | **Partial** — 8 L2 claims each; **`analysis_depth: seed`**; all L2 refs **`civ-*-transcript.md:32`** (single megagraph; **no `###` transcript sections**) |
+| Chapter Layer 0–2 | All five chapters have transcript-anchored claims + line/section refs | **Met** — 8 L2 claims each; transcript `###` sections + `#anchor` refs (pin-cite prep 2026-06-09); chapter `analysis_depth: layer2_drafted` |
 | Chapter slimming | Willing to move Layers 3–6 to Part apparatus | **Not met** — `civ-24`–`28` retain **full Layer 0–6** (+ `civ-25` Tolstoy Lens block) |
 | GB weave | Registry `great_books_weave` | **N/A** — empty array; no `gb-NN` Part sections required |
-| SH companion | `sh-18` @ `civ-28` deepening documented | **Partial** — doorway + registry wired; staged wrapper in `secret-history-support/`; **`volume-vi/sh-18/`** seed commentary; no Part `### sh-18` section yet |
-| Cross-Part bridge | Part IV `civ-23` handoff + Yahwist/covenant/messianic carry | **Partial** — Part IV forward links exist; **`civ-24` Layer 5 cites `civ-23`**; Part IV ledger rows for Part V still **Pending** |
+| SH companion | `sh-18` @ `civ-28` deepening documented | **Partial** — doorway + registry wired; staged wrapper in `secret-history-support/`; **`volume-vi/sh-18/`** seed commentary; Part `### sh-18` pointer + SH predictions in commentary |
+| Cross-Part bridge | Part IV `civ-23` handoff + Yahwist/covenant/messianic carry | **Met** — Part IV forward rows **Partially supported**; Part V ingress + Yahwist clash in commentary |
 | Validator | `volume_i_parts.py` Part V README checks (mirror Part IV) | **Not started** |
-| Interfaith / theology guardrails | Bibliography + counter-readings for Jesus/Paul/Islam claims | **Required before Phase 1 author** — not yet seeded at Part grain |
+| Interfaith / theology guardrails | Bibliography + counter-readings for Jesus/Paul/Islam claims | **Met** — Phase 1 bibliography + Part counter-readings seeded |
 
-**Recommendation:** Phase 0 inventory only. **Do not** open Phase 1 author until megagraph pin-cite split (or section anchors) + interfaith bibliography seed + Part IV ingress row confirmation. Highest sensitivity Part in Volume I hybrid pilot so far.
+**Recommendation:** **Phase 2 ready** — slim `civ-24`–`28`, README lattice, validator Part V checks.
 
 ---
 
@@ -46,7 +46,7 @@ Planning doc for extending the **Part II/III/IV hybrid model** (thin chapter + t
 
 **Legacy wrappers:** `civilization-spine/civ-24`–`civ-28` and `volume-ii/civ-24`–`28` READMEs use **4-step** lattice — **no Part apparatus links** (expected pre-implementation).
 
-**Pin-cite debt:** **All five** chapters — Layer 2 refs overwhelmingly `civ-*-transcript.md:32`; transcripts have **no `###` section anchors**.
+**Pin-cite debt:** **Cleared** (2026-06-09) — `civ-24`–`28` transcripts sectioned; chapter + Part L2 refs use `#anchor` slugs.
 
 ---
 
@@ -66,10 +66,10 @@ Planning doc for extending the **Part II/III/IV hybrid model** (thin chapter + t
 
 | Artifact | Status (2026-06-09) |
 |----------|---------------------|
-| `part-05-christianity-and-islam-commentary.md` | **Not created** |
-| `part-05-christianity-and-islam-bibliography.md` | **Not created** |
-| `volume-i-parts.json` `commentary_path` / `bibliography_path` | **Not wired** |
-| `part-05-christianity-and-islam.md` Apparatus block | **Not wired** |
+| `part-05-christianity-and-islam-commentary.md` | **Deepened** — Phase 1 + pilot deepen (cluster arcs, close-reads, `sh-18` predictions) |
+| `part-05-christianity-and-islam-bibliography.md` | **Created** — Phase 1 seeded (interfaith guardrails) |
+| `volume-i-parts.json` `commentary_path` / `bibliography_path` | **Wired** |
+| `part-05-christianity-and-islam.md` Apparatus block | **Wired** |
 | `PART-05-HYBRID-READINESS.md` | **Done** — this inventory |
 | Slim `civ-24`–`civ-28` commentaries | **Not started** |
 | README 6-step lattice + Part links | **Not started** |
@@ -83,8 +83,8 @@ Planning doc for extending the **Part II/III/IV hybrid model** (thin chapter + t
 | Prediction | Strength | Status (2026-06-09) | Part V test |
 |------------|----------|---------------------|-------------|
 | Persian/Cyrus/Zoroastrian merge precedes Christianity unit | E | **Confirmed** (Part IV) | `civ-24` follows `civ-23` in spine |
-| Christianity inherits Persian/Jewish strands **distinctly** | C | **Pending** | Do not collapse influence lines in Part V synthesis |
-| Word/covenant/argument-with-God themes carry to Part V | C | **Pending** | `civ-24` original sin vs Yahwist |
+| Christianity inherits Persian/Jewish strands **distinctly** | C | **Partially supported** | Part V commentary opened; keep influence lines separate |
+| Word/covenant/argument-with-God themes carry to Part V | C | **Partially supported** | `civ-24` L2 #4 |
 | Zoroastrian–Christian single pipeline | — | **Guardrailed** (Part IV) | influence ≠ causation |
 
 ---
@@ -105,7 +105,7 @@ Planning doc for extending the **Part II/III/IV hybrid model** (thin chapter + t
 
 ### Phase 0 — Inventory — **Done** (2026-06-09)
 
-### Phase 1 — Author only (~1–2 sessions) — **Not started**
+### Phase 1 — Author only (~1–2 sessions) — **Done** (2026-06-09)
 
 ### Phase 2 — Reader reshape (~1–2 sessions) — **Not started**
 
@@ -137,4 +137,4 @@ Planning doc for extending the **Part II/III/IV hybrid model** (thin chapter + t
 
 ## Next operator pick
 
-**Phase 1 author**, **external-verify** Part V Layer 2 claims first, or **confirm Part IV ingress rows** before Part V prediction ledger.
+**Phase 2** slim `civ-24`–`28` + README lattice, **deepen** Part V sections, or **commit** Phase 1 batch.

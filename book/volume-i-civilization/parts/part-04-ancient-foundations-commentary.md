@@ -45,8 +45,8 @@ Consolidated from chapter Layer 3. Chapter commentaries retain lecture-local Lay
 | Persian/Cyrus/Zoroastrian merge precedes Christianity unit | E | `civ-23` skips Cyrus/Ezra | **Confirmed** | `civ-22` → `civ-23`; forward Part V |
 | Monument/afterlife/state unity stay distinct causes | C | Later chapters merge pyramid + myth into one driver | **Pending** | `civ-18`/`civ-19` meta-pattern |
 | Speculative Harappan religious legacy distinguished from evidence | C | Part treats proto-Buddhist claim as settled | **Partially supported** | `civ-20` Layer 4 guardrail |
-| Christianity inherits Persian/Jewish strands distinctly | C | Part V collapses influence lines | **Pending** | `civ-23` forward |
-| Word/covenant/argument-with-God themes carry to Part V | C | Part V skips Yahwist grammar | **Pending** | `civ-22` Layer 3 |
+| Christianity inherits Persian/Jewish strands distinctly | C | Part V collapses influence lines | **Partially supported** | [Part V `civ-24`](./part-05-christianity-and-islam-commentary.md#civ-24) |
+| Word/covenant/argument-with-God themes carry to Part V | C | Part V skips Yahwist grammar | **Partially supported** | `civ-24` original-sin vs Yahwist |
 
 **Meta-patterns:** Bronze collapse opens Levant accident; writing as expensive state technology; synchronization of tribes into cosmology; exile fanaticizes identity; empire uses divide-and-rule + administrative religion.
 
@@ -102,14 +102,14 @@ Mesopotamia through **mythology, dialectic, and diversity** — generalization w
 
 | # | Claim | Ref | Confidence |
 |---|-------|-----|------------|
-| 1 | Framework: mythology, dialectic, diversity | `:32` | High |
-| 2 | Egypt–Mesopotamia geopolitical contrast | `:32` | High |
-| 3 | Sumerian origins and Uruk as debated hub | `:42` | High |
-| 4 | Enuma Elish compared with Egyptian kingship myth | `:65` | High |
-| 5 | Gilgamesh as key mythic-literary mortality answer | `:79` | High |
-| 6 | Gilgamesh read in dialectic with pyramids | `:61` | High |
-| 7 | Enuma Elish and Gilgamesh as social-evolution narratives | `:32` | High |
-| 8 | Indus peaceful/egalitarian paradox previewed | `:46` | High |
+| 1 | Framework: mythology, dialectic, diversity | `civ-19-transcript.md#framework-mythology-dialectic` | High |
+| 2 | Egypt–Mesopotamia geopolitical contrast | `civ-19-transcript.md#egypt-mesopotamia-contrast` | High |
+| 3 | Sumerian origins and Uruk as debated hub | `civ-19-transcript.md#sumerian-uruk-origins` | High |
+| 4 | Enuma Elish compared with Egyptian kingship myth | `civ-19-transcript.md#enuma-elish-creation` | High |
+| 5 | Gilgamesh as key mythic-literary mortality answer | `civ-19-transcript.md#gilgamesh-immortality-quest` | High |
+| 6 | Gilgamesh read in dialectic with pyramids | `civ-19-transcript.md#gilgamesh-pyramid-dialectic` | High |
+| 7 | Enuma Elish and Gilgamesh as social-evolution narratives | `civ-19-transcript.md#social-evolution-myth` | High |
+| 8 | Indus peaceful/egalitarian paradox previewed | `civ-19-transcript.md#indus-preview` | High |
 
 **Close-read arc:** diversity warning → Egypt contrast → Uruk/origins → creation-myth comparison → Gilgamesh vs pyramid dialectic → immortality acceptance → Indus handoff.
 
@@ -123,14 +123,14 @@ Indus/Harappan as **urban-order-without-text** comparison: global Bronze trade c
 
 | # | Claim | Ref | Confidence |
 |---|-------|-----|------------|
-| 1 | Three questions: distinctiveness, decline, legacy | `:36` | High |
-| 2 | Global Bronze Age trade context | `:37` | High |
-| 3 | Peaceful/egalitarian evidence with named limits | `:38` | High |
-| 4 | Urban design, sanitation, reservoirs, standardization | `:39` | High |
-| 5 | Unreadable script makes religion opaque | `:40` | High |
-| 6 | Multi-cause decline (climate, trade, assimilation) | `:41` | High |
-| 7 | Later Indian religions and caste in legacy discussion | `:42` | High |
-| 8 | Proto-Buddhist hypothesis flagged speculative | `:43` | Medium |
+| 1 | Three questions: distinctiveness, decline, legacy | `civ-20-transcript.md#three-questions-opening` | High |
+| 2 | Global Bronze Age trade context | `civ-20-transcript.md#bronze-trade-context` | High |
+| 3 | Peaceful/egalitarian evidence with named limits | `civ-20-transcript.md#peaceful-egalitarian-evidence` | High |
+| 4 | Urban design, sanitation, reservoirs, standardization | `civ-20-transcript.md#urban-design-standardization` | High |
+| 5 | Unreadable script makes religion opaque | `civ-20-transcript.md#unreadable-script` | High |
+| 6 | Multi-cause decline (climate, trade, assimilation) | `civ-20-transcript.md#decline-multi-cause` | High |
+| 7 | Later Indian religions and caste in legacy discussion | `civ-20-transcript.md#legacy-indian-religions` | High |
+| 8 | Proto-Buddhist hypothesis flagged speculative | `civ-20-transcript.md#proto-buddhist-speculative` | Medium |
 
 **Close-read arc:** Bronze world-system → peaceful paradox → urban standardization → script limit → decline without invasion monocause → speculative religious legacy (guardrailed) → Levant text pivot.
 
