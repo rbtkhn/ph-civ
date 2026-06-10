@@ -28,6 +28,13 @@ _No interwoven companions in this Part._
 
 - [plato-to-hegel](../../../data/corridors/plato-to-hegel.md)
 
+## Apparatus
+
+- [Part VIII commentary](part-08-birth-of-modernity-commentary.md) — **Phase 3 complete** (`civ-42`–`50` pin-cited; ledger/corridor synthesis closed)
+- [Part VIII bibliography](part-08-birth-of-modernity-bibliography.md) — wedge stub with `supports:`/`counters:`
+- [Part VIII hybrid readiness](PART-08-HYBRID-READINESS.md) — inventory + rollout phases
+- Cross-Part ingress: [Part VII `civ-41`](part-07-world-after-rome-commentary.md#civ-41)
+
 ## Navigation
 
 - **Previous:** [Part VII — The World After Rome](part-07-world-after-rome.md)

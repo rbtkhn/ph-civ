@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +62,12 @@ Every claim below is tied to the transcript body in civ-43-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture links Renaissance, Reformation, and Scientific Revolution back to Dante. | civ-43-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | The Scientific Revolution is framed as a theological inquiry into how humans can know divine law. | civ-43-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | Monotheism, designed order, and human knowability are treated as assumptions enabling the Scientific Revolution. | civ-43-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | Copernicus, Kepler, Galileo, and Newton are presented as successive figures in the scientific transformation. | civ-43-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | Newton is described as deeply theological rather than simply a modern secular scientist. | civ-43-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | The late lecture connects Newton, Christian Zionism, the Balfour Declaration, and modern Middle East interpretation. | civ-43-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The lecture links Renaissance, Reformation, and Scientific Revolution back to Dante. | `civ-43-transcript.md#dante-science-bridge` | Explicit / Strong Implied | High |
+| 2 | The Scientific Revolution is framed as a theological inquiry into how humans can know divine law. | `civ-43-transcript.md#theological-science-inquiry` | Explicit / Strong Implied | High |
+| 3 | Monotheism, designed order, and human knowability are treated as assumptions enabling the Scientific Revolution. | `civ-43-transcript.md#monotheism-designed-order` | Explicit / Strong Implied | High |
+| 4 | Copernicus, Kepler, Galileo, and Newton are presented as successive figures in the scientific transformation. | `civ-43-transcript.md#copernicus-kepler-galileo-newton` | Explicit / Strong Implied | High |
+| 5 | Newton is described as deeply theological rather than simply a modern secular scientist. | `civ-43-transcript.md#newton-theologian-not-secular` | Explicit / Strong Implied | High |
+| 6 | The late lecture connects Newton, Christian Zionism, the Balfour Declaration, and modern Middle East interpretation. | `civ-43-transcript.md#newton-zionism-balfour` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

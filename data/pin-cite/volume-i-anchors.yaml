@@ -116,3 +116,147 @@ chapters:
       - "#divine-comedy-imagination"
       - "#michelangelo-creation-adam"
       - "#quiet-revolution-poetry"
+  civ-42:
+    part_id: part-08-birth-of-modernity
+    sections:
+      - {slug: catholic-corruption-response, phrase: "created by the Catholic religion"}
+      - {slug: protestant-anxiety-belief, phrase: "Anxiety. Why does it create anxiety?"}
+      - {slug: work-discipline-anxiety, phrase: "remove this anxiety by ordering your"}
+      - {slug: capitalism-anxiety-birth, phrase: "capitalism because of the anxiety"}
+      - {slug: direct-access-god, phrase: "direct access to God. Okay? So he's"}
+      - {slug: durkheim-suicide-link, phrase: "Email Durkham and he's a French"}
+    claim_refs:
+      - "#catholic-corruption-response"
+      - "#direct-access-god"
+      - "#protestant-anxiety-belief"
+      - "#work-discipline-anxiety"
+      - "#capitalism-anxiety-birth"
+      - "#durkheim-suicide-link"
+  civ-43:
+    part_id: part-08-birth-of-modernity
+    sections:
+      - {slug: dante-science-bridge, phrase: "really Dante who helped give give birth"}
+      - {slug: theological-science-inquiry, phrase: "three major theological assumptions"}
+      - {slug: monotheism-designed-order, phrase: "important idea is the idea of monotheism"}
+      - {slug: copernicus-kepler-galileo-newton, phrase: "to remember is that Copernicus was a"}
+      - {slug: newton-theologian-not-secular, phrase: "Newton didn't really see himself as a"}
+      - {slug: newton-zionism-balfour, phrase: "something called the Bal for declaration"}
+    claim_refs:
+      - "#dante-science-bridge"
+      - "#theological-science-inquiry"
+      - "#monotheism-designed-order"
+      - "#copernicus-kepler-galileo-newton"
+      - "#newton-theologian-not-secular"
+      - "#newton-zionism-balfour"
+  civ-44:
+    part_id: part-08-birth-of-modernity
+    sections:
+      - {slug: conquistador-mercenaries-bandits, phrase: "mercenaries. They're bandits. They're"}
+      - {slug: islamic-mongol-interconnect, phrase: "Islamic Empire is sort of to connect"}
+      - {slug: disease-conquest-factor, phrase: "lot of diseases, right? They got a"}
+      - {slug: aztec-inca-hierarchy, phrase: "They had uh hierarchy. They"}
+      - {slug: taboo-worldview-collapse, phrase: "ultimate taboo is. Okay, the ultimate"}
+      - {slug: strict-hierarchy-vulnerability, phrase: "strict hierarchy, it becomes the"}
+    claim_refs:
+      - "#islamic-mongol-interconnect"
+      - "#conquistador-mercenaries-bandits"
+      - "#disease-conquest-factor"
+      - "#aztec-inca-hierarchy"
+      - "#taboo-worldview-collapse"
+      - "#strict-hierarchy-vulnerability"
+  civ-45:
+    part_id: part-08-birth-of-modernity
+    sections:
+      - {slug: gunpowder-rupture, phrase: "doing the gunpowdered revolution"}
+      - {slug: europe-1700-conquest-question, phrase: "1700 conquer the world"}
+      - {slug: military-political-correspondence, phrase: "Sparta, Athens, Macedonia, and Rome"}
+      - {slug: professional-army-engineers, phrase: "professional army, you need engineers"}
+      - {slug: europe-gunpowder-innovation, phrase: "innovated gunpowder and turned it into a"}
+      - {slug: schooling-military-discipline, phrase: "schooling model that we use today is"}
+    claim_refs:
+      - "#europe-1700-conquest-question"
+      - "#military-political-correspondence"
+      - "#gunpowder-rupture"
+      - "#professional-army-engineers"
+      - "#europe-gunpowder-innovation"
+      - "#schooling-military-discipline"
+  civ-46:
+    part_id: part-08-birth-of-modernity
+    sections:
+      - {slug: french-revolution-trilogy-open, phrase: "three-part series on the French Revolution"}
+      - {slug: religious-worldview-foundation, phrase: "underpins society and civilization"}
+      - {slug: four-worldviews-succession, phrase: "animistic and this is basically during"}
+      - {slug: enlightenment-reason-debate, phrase: "reason, debate and progress are the"}
+      - {slug: rousseau-social-contract, phrase: "he wrote the social contract. We will"}
+      - {slug: nation-state-religion-transfer, phrase: "religion becomes part of the nation"}
+    claim_refs:
+      - "#french-revolution-trilogy-open"
+      - "#religious-worldview-foundation"
+      - "#four-worldviews-succession"
+      - "#enlightenment-reason-debate"
+      - "#rousseau-social-contract"
+      - "#nation-state-religion-transfer"
+  civ-47:
+    part_id: part-08-birth-of-modernity
+    sections:
+      - {slug: french-revolution-continues, phrase: "So we continue the French Revolution"}
+      - {slug: rousseau-philosopher-poet, phrase: "philosopher poet of the revolution"}
+      - {slug: robespierre-prophet-leader, phrase: "prophet who will take his people into"}
+      - {slug: robespierre-jesus-analogy, phrase: "second coming of Jesus"}
+      - {slug: reign-of-terror-virtue, phrase: "reign of terror is a time of"}
+      - {slug: robespierre-scapegoat-downfall, phrase: "a scapegoat is someone"}
+    claim_refs:
+      - "#french-revolution-continues"
+      - "#rousseau-philosopher-poet"
+      - "#robespierre-prophet-leader"
+      - "#robespierre-jesus-analogy"
+      - "#reign-of-terror-virtue"
+      - "#robespierre-scapegoat-downfall"
+  civ-48:
+    part_id: part-08-birth-of-modernity
+    sections:
+      - {slug: french-revolution-trilogy-close, phrase: "finished the French Revolution trilogy"}
+      - {slug: napoleon-needs-robespierre, phrase: "Napoleon would not have been possible"}
+      - {slug: talent-promotion-capacity, phrase: "promote the talented"}
+      - {slug: revolutionary-elite-promotion, phrase: "promoting and rewarding those who are true"}
+      - {slug: napoleon-empire-myth, phrase: "mythologies are part of the collective"}
+      - {slug: modern-myth-charisma-analogy, phrase: "Think of Trump"}
+    claim_refs:
+      - "#french-revolution-trilogy-close"
+      - "#napoleon-needs-robespierre"
+      - "#talent-promotion-capacity"
+      - "#revolutionary-elite-promotion"
+      - "#napoleon-empire-myth"
+      - "#modern-myth-charisma-analogy"
+  civ-49:
+    part_id: part-08-birth-of-modernity
+    sections:
+      - {slug: anglo-american-section-open, phrase: "AngloAmerican Empire which rules the world"}
+      - {slug: spanish-feudal-catholic-disaster, phrase: "at this time in history, Spain was a"}
+      - {slug: dutch-commercial-republic, phrase: "call the Dutch Republic. Okay? Uh don't"}
+      - {slug: corporations-capitalism-innovation, phrase: "corporation in the world"}
+      - {slug: dutch-forms-british-american, phrase: "will become the model for the American"}
+      - {slug: dutch-art-domestic-interior, phrase: "this is a Dutch painting. This is a"}
+    claim_refs:
+      - "#anglo-american-section-open"
+      - "#spanish-feudal-catholic-disaster"
+      - "#dutch-commercial-republic"
+      - "#corporations-capitalism-innovation"
+      - "#dutch-art-domestic-interior"
+      - "#dutch-forms-british-american"
+  civ-50:
+    part_id: part-08-birth-of-modernity
+    sections:
+      - {slug: greatest-empire-question, phrase: "England become the greatest empire in"}
+      - {slug: geography-island-adaptation, phrase: "England, Wales, Scotland, it is an"}
+      - {slug: open-competitive-cooperation, phrase: "open competitive cooperation"}
+      - {slug: invasion-elite-replacement, phrase: "elites were constantly replaced by new elites"}
+      - {slug: british-constitution-america, phrase: "the basis for the American constitution"}
+      - {slug: american-political-analogies, phrase: "America today, Donald Trump, right? You"}
+    claim_refs:
+      - "#greatest-empire-question"
+      - "#geography-island-adaptation"
+      - "#invasion-elite-replacement"
+      - "#open-competitive-cooperation"
+      - "#british-constitution-america"
+      - "#american-political-analogies"

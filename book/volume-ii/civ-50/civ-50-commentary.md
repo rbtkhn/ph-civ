@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +62,12 @@ Every claim below is tied to the transcript body in civ-50-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture asks why England became the greatest empire. | civ-50-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | Geography is used to frame Britain as an island fortress. | civ-50-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | Invasions and elite replacement are treated as sources of adaptation. | civ-50-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | Open competition and cooperation are presented as British strengths. | civ-50-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | British constitutional development is tied to later American inheritance. | civ-50-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | Modern American political analogies are used to explain competing inheritances. | civ-50-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The lecture asks why England became the greatest empire. | `civ-50-transcript.md#greatest-empire-question` | Explicit / Strong Implied | High |
+| 2 | Geography is used to frame Britain as an island fortress. | `civ-50-transcript.md#geography-island-adaptation` | Explicit / Strong Implied | High |
+| 3 | Invasions and elite replacement are treated as sources of adaptation. | `civ-50-transcript.md#invasion-elite-replacement` | Explicit / Strong Implied | High |
+| 4 | Open competition and cooperation are presented as British strengths. | `civ-50-transcript.md#open-competitive-cooperation` | Explicit / Strong Implied | High |
+| 5 | British constitutional development is tied to later American inheritance. | `civ-50-transcript.md#british-constitution-america` | Explicit / Strong Implied | High |
+| 6 | Modern American political analogies are used to explain competing inheritances. | `civ-50-transcript.md#american-political-analogies` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

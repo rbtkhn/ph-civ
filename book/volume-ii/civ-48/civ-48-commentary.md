@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +62,12 @@ Every claim below is tied to the transcript body in civ-48-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture presents civ-48 as the end of the French Revolution trilogy. | civ-48-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | Napoleon is said to be impossible without the prior Robespierre phase. | civ-48-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | Talent promotion is treated as a rarer political capacity than individual tactical brilliance. | civ-48-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | The Revolution opens a path for new military and administrative elites. | civ-48-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | Napoleon is framed as empire-builder and myth-maker. | civ-48-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | Modern political analogies are used to explain myth, charisma, and national imagination. | civ-48-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The lecture presents civ-48 as the end of the French Revolution trilogy. | `civ-48-transcript.md#french-revolution-trilogy-close` | Explicit / Strong Implied | High |
+| 2 | Napoleon is said to be impossible without the prior Robespierre phase. | `civ-48-transcript.md#napoleon-needs-robespierre` | Explicit / Strong Implied | High |
+| 3 | Talent promotion is treated as a rarer political capacity than individual tactical brilliance. | `civ-48-transcript.md#talent-promotion-capacity` | Explicit / Strong Implied | High |
+| 4 | The Revolution opens a path for new military and administrative elites. | `civ-48-transcript.md#revolutionary-elite-promotion` | Explicit / Strong Implied | High |
+| 5 | Napoleon is framed as empire-builder and myth-maker. | `civ-48-transcript.md#napoleon-empire-myth` | Explicit / Strong Implied | High |
+| 6 | Modern political analogies are used to explain myth, charisma, and national imagination. | `civ-48-transcript.md#modern-myth-charisma-analogy` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

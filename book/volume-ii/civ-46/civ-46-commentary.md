@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +62,12 @@ Every claim below is tied to the transcript body in civ-46-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture opens a three-part sequence on the French Revolution. | civ-46-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | Religious worldview is presented as the foundation of society and civilization. | civ-46-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | Four major worldviews are described: animistic, polytheistic, monotheistic, and reason-based. | civ-46-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | The Enlightenment is framed through reason, debate, and progress. | civ-46-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | Rousseau and the Social Contract are treated as central to a reason-based civil religion. | civ-46-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | The French Revolution is said to transfer religious commitment into the nation-state. | civ-46-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The lecture opens a three-part sequence on the French Revolution. | `civ-46-transcript.md#french-revolution-trilogy-open` | Explicit / Strong Implied | High |
+| 2 | Religious worldview is presented as the foundation of society and civilization. | `civ-46-transcript.md#religious-worldview-foundation` | Explicit / Strong Implied | High |
+| 3 | Four major worldviews are described: animistic, polytheistic, monotheistic, and reason-based. | `civ-46-transcript.md#four-worldviews-succession` | Explicit / Strong Implied | High |
+| 4 | The Enlightenment is framed through reason, debate, and progress. | `civ-46-transcript.md#enlightenment-reason-debate` | Explicit / Strong Implied | High |
+| 5 | Rousseau and the Social Contract are treated as central to a reason-based civil religion. | `civ-46-transcript.md#rousseau-social-contract` | Explicit / Strong Implied | High |
+| 6 | The French Revolution is said to transfer religious commitment into the nation-state. | `civ-46-transcript.md#nation-state-religion-transfer` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +62,12 @@ Every claim below is tied to the transcript body in civ-42-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The Protestant Reformation is presented as a response to problems created by Catholic authority and corruption. | civ-42-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | Protestantism is described as direct access to God and Scripture without Catholic mediation. | civ-42-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | The lecture argues that Protestant faith creates anxiety over whether belief is genuine. | civ-42-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | Work, money, and discipline are treated as ways to manage religious anxiety. | civ-42-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | Capitalism is framed as emerging from Protestant anxiety and the conflation of money with divine favor. | civ-42-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | Durkheim is used to link disconnection, suicide, anxiety, capitalism, and possible theocratic reaction. | civ-42-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The Protestant Reformation is presented as a response to problems created by Catholic authority and corruption. | `civ-42-transcript.md#catholic-corruption-response` | Explicit / Strong Implied | High |
+| 2 | Protestantism is described as direct access to God and Scripture without Catholic mediation. | `civ-42-transcript.md#direct-access-god` | Explicit / Strong Implied | High |
+| 3 | The lecture argues that Protestant faith creates anxiety over whether belief is genuine. | `civ-42-transcript.md#protestant-anxiety-belief` | Explicit / Strong Implied | High |
+| 4 | Work, money, and discipline are treated as ways to manage religious anxiety. | `civ-42-transcript.md#work-discipline-anxiety` | Explicit / Strong Implied | High |
+| 5 | Capitalism is framed as emerging from Protestant anxiety and the conflation of money with divine favor. | `civ-42-transcript.md#capitalism-anxiety-birth` | Explicit / Strong Implied | High |
+| 6 | Durkheim is used to link disconnection, suicide, anxiety, capitalism, and possible theocratic reaction. | `civ-42-transcript.md#durkheim-suicide-link` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

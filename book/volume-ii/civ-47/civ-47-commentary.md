@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +62,12 @@ Every claim below is tied to the transcript body in civ-47-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture continues the French Revolution sequence after the Rousseau chapter. | civ-47-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | Rousseau is presented as the philosopher-poet who gives the Revolution its promised land of reason. | civ-47-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | Robespierre is framed as a prophet-like revolutionary leader. | civ-47-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | The lecture advances a controversial Jesus/sacrifice analogy for Robespierre. | civ-47-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | The Reign of Terror is interpreted through virtue, purity, fear, guilt, and revolutionary legitimacy. | civ-47-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | Robespierre downfall is treated as a sacrificial or scapegoat mechanism within revolutionary politics. | civ-47-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The lecture continues the French Revolution sequence after the Rousseau chapter. | `civ-47-transcript.md#french-revolution-continues` | Explicit / Strong Implied | High |
+| 2 | Rousseau is presented as the philosopher-poet who gives the Revolution its promised land of reason. | `civ-47-transcript.md#rousseau-philosopher-poet` | Explicit / Strong Implied | High |
+| 3 | Robespierre is framed as a prophet-like revolutionary leader. | `civ-47-transcript.md#robespierre-prophet-leader` | Explicit / Strong Implied | High |
+| 4 | The lecture advances a controversial Jesus/sacrifice analogy for Robespierre. | `civ-47-transcript.md#robespierre-jesus-analogy` | Explicit / Strong Implied | High |
+| 5 | The Reign of Terror is interpreted through virtue, purity, fear, guilt, and revolutionary legitimacy. | `civ-47-transcript.md#reign-of-terror-virtue` | Explicit / Strong Implied | High |
+| 6 | Robespierre downfall is treated as a sacrificial or scapegoat mechanism within revolutionary politics. | `civ-47-transcript.md#robespierre-scapegoat-downfall` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

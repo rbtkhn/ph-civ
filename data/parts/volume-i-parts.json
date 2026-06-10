@@ -379,6 +379,8 @@
       ],
       "spine_slice_warning": false,
       "doorway_path": "book/volume-i-civilization/parts/part-08-birth-of-modernity.md",
+      "commentary_path": "book/volume-i-civilization/parts/part-08-birth-of-modernity-commentary.md",
+      "bibliography_path": "book/volume-i-civilization/parts/part-08-birth-of-modernity-bibliography.md",
       "previous_part_id": "part-07-world-after-rome",
       "next_part_id": "part-09-age-of-conscience",
       "secret_history_companions": [],

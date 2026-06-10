@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +62,12 @@ Every claim below is tied to the transcript body in civ-45-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture asks how Europe conquered the world after about 1700. | civ-45-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | Military form is presented as shaping political form across Sparta, Athens, Macedonia, and Rome. | civ-45-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | Gunpowder is framed as a rupture that changes the structure of European society. | civ-45-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | Professional armies, engineers, taxation, towns, and industry are treated as requirements of gunpowder warfare. | civ-45-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | Europe is said to have transformed gunpowder into an especially effective world-conquest technology. | civ-45-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | Modern schooling is linked to military obedience, family separation, industry, and disciplined labor. | civ-45-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The lecture asks how Europe conquered the world after about 1700. | `civ-45-transcript.md#europe-1700-conquest-question` | Explicit / Strong Implied | High |
+| 2 | Military form is presented as shaping political form across Sparta, Athens, Macedonia, and Rome. | `civ-45-transcript.md#military-political-correspondence` | Explicit / Strong Implied | High |
+| 3 | Gunpowder is framed as a rupture that changes the structure of European society. | `civ-45-transcript.md#gunpowder-rupture` | Explicit / Strong Implied | High |
+| 4 | Professional armies, engineers, taxation, towns, and industry are treated as requirements of gunpowder warfare. | `civ-45-transcript.md#professional-army-engineers` | Explicit / Strong Implied | High |
+| 5 | Europe is said to have transformed gunpowder into an especially effective world-conquest technology. | `civ-45-transcript.md#europe-gunpowder-innovation` | Explicit / Strong Implied | High |
+| 6 | Modern schooling is linked to military obedience, family separation, industry, and disciplined labor. | `civ-45-transcript.md#schooling-military-discipline` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

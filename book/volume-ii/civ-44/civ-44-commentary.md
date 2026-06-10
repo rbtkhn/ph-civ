@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +62,12 @@ Every claim below is tied to the transcript body in civ-44-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture frames the Spanish conquest as part of a longer world of Islamic, Mongol, and maritime interconnection. | civ-44-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | Conquistadors are described as mercenaries, bandits, and lower-status opportunity seekers. | civ-44-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | Disease is presented as one major factor in the Spanish conquest of Indigenous societies. | civ-44-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | Aztec and Inca societies are treated as advanced hierarchical empires with religious-political structures. | civ-44-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | The conquest of Aztecs and Incas is explained through taboo-breaking and worldview collapse, not only through military technology. | civ-44-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | Strict hierarchy is presented as a vulnerability when outsiders can strike at the sacred center of a society. | civ-44-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The lecture frames the Spanish conquest as part of a longer world of Islamic, Mongol, and maritime interconnection. | `civ-44-transcript.md#islamic-mongol-interconnect` | Explicit / Strong Implied | High |
+| 2 | Conquistadors are described as mercenaries, bandits, and lower-status opportunity seekers. | `civ-44-transcript.md#conquistador-mercenaries-bandits` | Explicit / Strong Implied | High |
+| 3 | Disease is presented as one major factor in the Spanish conquest of Indigenous societies. | `civ-44-transcript.md#disease-conquest-factor` | Explicit / Strong Implied | High |
+| 4 | Aztec and Inca societies are treated as advanced hierarchical empires with religious-political structures. | `civ-44-transcript.md#aztec-inca-hierarchy` | Explicit / Strong Implied | High |
+| 5 | The conquest of Aztecs and Incas is explained through taboo-breaking and worldview collapse, not only through military technology. | `civ-44-transcript.md#taboo-worldview-collapse` | Explicit / Strong Implied | High |
+| 6 | Strict hierarchy is presented as a vulnerability when outsiders can strike at the sacred center of a society. | `civ-44-transcript.md#strict-hierarchy-vulnerability` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +62,12 @@ Every claim below is tied to the transcript body in civ-49-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture opens the final course section on the Anglo-American Empire. | civ-49-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | Spanish New World wealth is framed as worsening a feudal Catholic monarchy. | civ-49-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | The Dutch Republic is presented as a commercial and middle-class alternative. | civ-49-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | Capitalism, corporations, and trade are treated as central Dutch innovations. | civ-49-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | Dutch art and domestic interiors are used to read middle-class life. | civ-49-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | The lecture links Dutch middle-class forms to later British and American imperial development. | civ-49-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The lecture opens the final course section on the Anglo-American Empire. | `civ-49-transcript.md#anglo-american-section-open` | Explicit / Strong Implied | High |
+| 2 | Spanish New World wealth is framed as worsening a feudal Catholic monarchy. | `civ-49-transcript.md#spanish-feudal-catholic-disaster` | Explicit / Strong Implied | High |
+| 3 | The Dutch Republic is presented as a commercial and middle-class alternative. | `civ-49-transcript.md#dutch-commercial-republic` | Explicit / Strong Implied | High |
+| 4 | Capitalism, corporations, and trade are treated as central Dutch innovations. | `civ-49-transcript.md#corporations-capitalism-innovation` | Explicit / Strong Implied | High |
+| 5 | Dutch art and domestic interiors are used to read middle-class life. | `civ-49-transcript.md#dutch-art-domestic-interior` | Explicit / Strong Implied | High |
+| 6 | The lecture links Dutch middle-class forms to later British and American imperial development. | `civ-49-transcript.md#dutch-forms-british-american` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 
