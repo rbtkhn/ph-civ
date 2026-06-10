@@ -10,7 +10,7 @@ Commentaries are working surfaces for enhancing and leveraging ph-civ. A seeded 
 - `## Part apparatus` pointer to the parent Part commentary and bibliography
 - Minimal `Project Canvas (chapter-local)` — open questions only
 
-**Part commentary (thick synthesis)** — one per Volume I Part (pilot: Part II only):
+**Part commentary (thick synthesis)** — one per Volume I Part (pilot: Part II + Part III):
 
 - Cross-chapter prediction ledger, Hellenic grammar, corridor placement
 - Great Books sections (`### gb-NN`) when woven into the Part
@@ -57,3 +57,15 @@ Required frontmatter (Part):
 Part Project Canvas sections mirror the chapter canvas at Part grain (leverage, patterns, museum hooks, strategy, open questions).
 
 The scaffold is intentionally permissive. It should invite development without implying that commentary is complete.
+
+## Great Books stub routing (Volume V)
+
+When a Great Books episode is woven into a Volume I Part, the **canonical** thick commentary lives in the Part file (`### gb-NN` section). The volume-v `gb-NN-commentary.md` becomes a **stub**:
+
+- `analysis_depth: stub_routed_to_part`
+- `part_commentary_path` + `part_bibliography_path` in frontmatter
+- Body: core thesis one-liner, read order, Part placement — no duplicate prediction tables
+
+**Pilot stubs:** Part II — `gb-02`, `gb-03`, `gb-05`, `gb-07`; Part III — `gb-08`.
+
+Transcript frontmatter should carry `part_id` and Part apparatus paths when the GB belongs to a Part with hybrid files.

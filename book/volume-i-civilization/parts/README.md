@@ -45,7 +45,7 @@ When a Part has thick synthesis, use three sibling files:
 | `part-NN-{slug}-commentary.md` | Thick synthesis — prediction ledger, gb sections, counter-readings |
 | `part-NN-{slug}-bibliography.md` | External sources — tagged `supports: civ-NN` / `gb-NN` |
 
-**Pilot:** Part II only (`part-02-hellenic-world-*`). Chapter folders (`civ-07`–`civ-13`) keep thin Layer 0–2 commentaries and link here.
+**Hybrid pilot:** Part II (`part-02-hellenic-world-*`, `civ-07`–`civ-13`) and Part III (`part-03-roman-imperium-*`, `civ-14`–`civ-17`, `gb-08` stub). Chapter folders keep thin Layer 0–2 commentaries and link to Part apparatus.
 
 Registry fields (optional per part): `commentary_path`, `bibliography_path` in [`volume-i-parts.json`](../../../data/parts/volume-i-parts.json).
 

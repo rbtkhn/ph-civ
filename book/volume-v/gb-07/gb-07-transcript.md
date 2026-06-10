@@ -22,6 +22,9 @@ representation_not_endorsement: true
 transcript_fidelity: exact_body_match
 corpus_path: ../../../corpus/great-books/gb-07.md
 commentary_path: ./gb-07-commentary.md
+part_id: part-02-hellenic-world
+part_commentary_path: ../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md
+part_bibliography_path: ../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md
 ---
 
 # Part I - Great Books #7: The Anti-Homer

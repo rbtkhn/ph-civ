@@ -50,6 +50,9 @@ Consolidated cross-chapter predictions. Chapter commentaries retain lecture-loca
 | Hellenistic institutions as Greek legacy carriers | E | No education infrastructure follow-through | **Confirmed** | `civ-13` Alexandria |
 | `civ-09` theater as moral education (Shelley mirror) | E | Drama not public moral formation | **Confirmed** | `gb-03` + `civ-09` |
 | Iliad-memorization → rhetoric → democracy as institutional chain | SI | No civic-speech education carry | **Partially supported (refocused)** | Explicit in `gb-03`; refocused in `civ-09`/`civ-10` |
+| Iliad teaches narrative control and interior life before institutions absorb it | E | `civ-08` treats Homer as decorative only | **Confirmed** | `gb-02` narrative-control + living-characters |
+| Odyssey homecoming repairs Iliad war-trauma through family love | SI | `gb-05` detached from `gb-02` war grammar | **Confirmed** | `gb-05` pairs `gb-02`; inverted in `gb-07`/`gb-08` |
+| Roman anti-Homer frame prefigured before Macedonia export | C | `gb-07` absent from Homer cluster | **Confirmed** | `gb-07` forward to Part III `gb-08` |
 | Christianity returns to Greek categories as transmission medium | E | No Greek-category bridge | **Pending** / **Partially supported** | `civ-13` Levant preview; forward chapters |
 | Plato as Christian metaphysics source | E | Christianity chapters skip Platonism | **Pending** | `civ-10` |
 | Knowledge standardization as political infrastructure | C | No standardization politics | **Confirmed** | `civ-13` Library/Museum |
@@ -58,7 +61,7 @@ Consolidated cross-chapter predictions. Chapter commentaries retain lecture-loca
 
 ## Hellenic grammar (mechanism spine)
 
-1. **Epic** — Homer reshapes imagination; Iliad as empathy/psychology school (`civ-07`; deepened `gb-03`).
+1. **Epic** — Homer reshapes imagination; Iliad interiority (`gb-02`), Odyssey repair (`gb-05`), poet-legislator close-read (`gb-03`); anti-Homer preview (`gb-07`) (`civ-07`).
 2. **Institution** — Polis, alphabet, oral→literary shift; eudaimonia and competitive democracy (`civ-07`, `civ-08`).
 3. **Theater** — Playwrights as democratic teachers; hubris/catharsis (`civ-09`; Shelley frame in `gb-03`).
 4. **Philosophy** — Socrates/Plato challenge democracy; dialogue on the page (`civ-10`).
@@ -104,6 +107,8 @@ Aristotle state-project thesis; Hellenistic kingdoms; Library of Alexandria; Gre
 
 ## Great Books sections
 
+**Homer cluster @ `civ-07`:** Read `gb-02` (Iliad interiority) → `gb-05` (Odyssey trauma/return) → `gb-07` (anti-Homer commission frame) as one **education arc** before Macedonia exports the grammar (`civ-11`). Support-ring `gb-03` adds poet-legislator mechanism; full Aeneid close-read lives in [Part III `gb-08`](./part-03-roman-imperium-commentary.md#gb-08).
+
 ### gb-02
 
 **Weave role:** interwoven @ `civ-07`. **Canonical Part section** for *Homer and the Invention of the Human* (Great Books #2).
@@ -123,10 +128,21 @@ Aristotle state-project thesis; Hellenistic kingdoms; Library of Alexandria; Gre
 | 7 | Brain as antenna to universal consciousness; Jung archetypes; poets as prophets who speak truth | `#archetype-theory` | Medium |
 | 8 | Prophet ≠ fortune-teller; truth is eternal (past/present/future); moral prediction (evil returns) | `#prophet-truth` | Medium |
 | 9 | Greek intellectuals (Plato, Thucydides, etc.) operate inside Homer's universe | `#homer-derivatives` | High |
+| 10 | Thucydides as Homeric speech-world — history written inside epic psychology | `#homer-derivatives` | High |
 
-**Part links:** complements `civ-07` survey (polis/alphabet) with **interiority** close-read; pairs with `gb-03` on speech-as-reality; forward `gb-07` anti-Homer inversion preview in Part III.
+**Close-read arc:** imagination exercise → Bloom consciousness → Book 1 council as narrative war → living characters (Nestor et al.) → narrative-control stakes → Homer mystery / archetype antenna → prophet-truth (not fortune-telling) → Greek derivatives (Thucydides).
 
-**gb-02 predictions:** poet-supremacy and narrative-competition frames support Part ledger rows on institution and theater.
+**Part links:** complements `civ-07` survey (polis/alphabet) with **interiority** close-read; pairs with `gb-03` on speech-as-reality; sets up `gb-05` trauma repair and `gb-07` inversion; [Part III `gb-08`](./part-03-roman-imperium-commentary.md#gb-08) stress-tests the same Homer grammar.
+
+**Counter-readings (gb-02):**
+
+| Topic | Counter-reading | Strength |
+|-------|-----------------|----------|
+| Bloom interiority thesis | May overstate Homeric psychology vs Near Eastern epic traditions | Medium |
+| Jung / archetype antenna | Lecture analogy; not Homeric scholarship | Low |
+| Prophet-truth eternal moral prediction | Theological overlay on Homer | Medium |
+
+**gb-02 predictions:** narrative-control + living-characters frames support Part ledger on institution (`civ-08`) and theater (`civ-09`); poet-supremacy chain continues via `gb-03`.
 
 ### gb-05
 
@@ -144,8 +160,21 @@ Aristotle state-project thesis; Hellenistic kingdoms; Library of Alexandria; Gre
 | 4 | Trojan-war justification (justice, family, legacy) collapses after victory → PTSD arc | `#justification-collapse` | High |
 | 5 | Odyssey = each character's journey to repair soul; answer is mutual family love | `#family-trauma` / `#soul-worldview` | High |
 | 6 | Agamemnon reverse-psychology scene: soldiers homesick; Odysseus ambivalent about return | `#iliad-book2-bridge` | High |
+| 7 | Penelope/Odysseus reunion — love as resurrection bowl; home is where heart belongs | `#family-trauma` | High |
+| 8 | Telemachus arc — son inherits splintered legacy; family triad must reunite worldview | `#family-trauma` | High |
 
-**Part links:** balances `gb-02`/`gb-03` Iliad-war grammar with **return/inward** education; foreshadows `civ-08`–`civ-10` democratic crisis as trauma management at civic scale.
+**Close-read arc:** splintered family triad → layered soul/worldview → madness test (glory vs home) → post-victory PTSD/justification collapse → Iliad Book 2 bridge (ambivalent return) → mutual love as repair answer.
+
+**Part links:** balances `gb-02`/`gb-03` Iliad-war grammar with **return/inward** education; foreshadows `civ-08`–`civ-10` democratic crisis as trauma management at civic scale; **inverted** in `gb-07`/`gb-08` (love abandoned for empire).
+
+**Counter-readings (gb-05):**
+
+| Topic | Counter-reading | Strength |
+|-------|-----------------|----------|
+| PTSD frame on Odyssey | Modern clinical overlay on ancient epic | Medium |
+| Three-protagonist splintered soul | Interpretive lecture frame; not Homeric consensus | Medium |
+
+**gb-05 predictions:** homecoming-repair confirms `gb-02` war-trauma grammar; sets falsifier for Virgilian inversion in Part III `gb-08`.
 
 ### gb-07
 
@@ -165,8 +194,22 @@ Aristotle state-project thesis; Hellenistic kingdoms; Library of Alexandria; Gre
 | 6 | Priam/Pyrrhus rewrite inverts Iliad reconciliation — generosity leads to doom in Virgil | `#priam-inversion` | High |
 | 7 | Virgil wanted to burn poem; imperial commission vs poet's divine gift (lecture frame) | `#virgil-burn` | Medium |
 | 8 | Forward bridge: Dante as antidote to Aeneid poison | `#dante-bridge` | High |
+| 9 | Dido plot preview — Homeric generosity inverted; love plot traps Aeneas before Italy mission | `#aeneid-structure` | High |
+| 10 | Imperial memorization goal — elite boys internalize Aeneid as Latin Bible before Dante liberation | `#aeneid-as-antihomer` | High |
 
-**Part links:** Hellenic Part **counter-pole** — same Homer corridor, Roman inversion; full apparatus migration target is **Part III** (`civ-17`, `gb-08`); keep thin pointer here at Part II weave.
+**Close-read arc:** Greek culture after conquest threatens Roman soul → piety vs arete/eudaimonia → Augustus commissions anti-Homer → 12+12 Odyssey/Iliad structure → Sinon/rhetoric and Trojan-horse metaphor → Priam/Pyrrhus inversion → Virgil-burn legend → Dante bridge (full scene apparatus in Part III `gb-08`).
+
+**Part links:** Hellenic Part **counter-pole** — same Homer corridor, Roman inversion; scene-level capstone in [Part III `gb-08`](./part-03-roman-imperium-commentary.md#gb-08) @ `civ-17`; keep commission/structure frame here at Part II weave.
+
+**Counter-readings (gb-07):**
+
+| Topic | Counter-reading | Strength |
+|-------|-----------------|----------|
+| Trojan horse as Greek culture poison | Lecture metaphor; Sinon episode is one strand of Aeneid reception | High |
+| Virgil wanted to burn poem | Traditional story; poet agency vs imperial patronage debated | Medium |
+| Augustus-as-author frame | Patronage ≠ sole authorship; see Part III bibliography | High |
+
+**gb-07 predictions:** anti-Homer commission confirms Part III literary-soul row; Dante bridge pending until Part V/VI corridor matures.
 
 ### gb-03
 
@@ -240,5 +283,6 @@ Scholarship-grade alternatives; sources in [bibliography](./part-02-hellenic-wor
 
 ### Build Notes
 
-- Pilot: Part II only. Extend `ph_civ_part_commentary_v1` to Parts I, III–X when ready — see [PART-03-HYBRID-READINESS.md](./PART-03-HYBRID-READINESS.md).
-- gb-02/05/07: Part sections drafted; seed `gb-*-commentary.md` files may stub-route like gb-03 when operator approves.
+- Pilot: Part II + Part III hybrid — see [PART-03-HYBRID-READINESS.md](./PART-03-HYBRID-READINESS.md).
+- gb-02/05/07: stub-routed; canonical sections deepened with close-read arcs + counter-readings (2026-06-09).
+- Homer cluster weave links forward to Part III `gb-08`.

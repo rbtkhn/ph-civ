@@ -28,6 +28,8 @@ representation_not_endorsement: true
 canvas_status: open
 analysis_depth: seed
 scaffold_version: ph_civ_commentary_canvas_v1
+part_commentary_path: ../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md#civ-17
+part_bibliography_path: ../../volume-i-civilization/parts/part-03-roman-imperium-bibliography.md
 ---
 
 # Commentary - Civilization
@@ -81,106 +83,25 @@ Every claim below is tied to the transcript body in `civ-17-transcript.md`.
 
 ---
 
-## Layer 3 - Predictions & Falsifiers
+## Part apparatus
 
-Explicitly testable items only.
+Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part III live in the Part files:
 
-| Prediction | Strength | Falsifier Criteria | Review Date | Current Status (as of 2026-05-13) | Notes |
-|------------|----------|--------------------|-------------|-----------------------------------|-------|
-| The next Civilization chapter will pivot to Egypt and eternity. | E | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-05-13 | Pending | In-review control. |
-| Later Christianity chapters will inherit both Greek metaphysics and Roman imperial-literary forms. | C | Later material does not follow this expectation, or final review finds the lecture did not support it. | 2026-05-13 | Pending | In-review control. |
+- [Part III commentary](../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md#civ-17) — Roman grammar, prediction ledger, `gb-08` section
+- [Part III bibliography](../../volume-i-civilization/parts/part-03-roman-imperium-bibliography.md)
+- [gb-08 stub commentary](../../volume-v/gb-08/gb-08-commentary.md) — routes to Part `§ gb-08`
 
-**Meta-Prediction Patterns**
-
-- The lecture treats civilizational movement as carried by institutions, conquest, education, and memory rather than by ideas alone.
-- The chapter should be checked against adjacent Civilization units before any final synthesis is claimed.
+Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
 ---
 
-## Layer 4 - Counter-Readings & Alternative Interpretations
-
-External or opposing views, always sourced.
-
-| Alternative View | Source(s) | Relevance to Lecture | Strength of Counter-Evidence |
-|------------------|-----------|----------------------|------------------------------|
-| The Homer-versus-Virgil contrast is interpretive and should be handled as a lecture frame, not a total account of either poet. | `civ-17-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-| The Aeneid as state project should still leave room for ambiguity, grief, and possible critique inside the poem. | `civ-17-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-| Augustan military and fiscal institutions need later checking before final detail claims. | `civ-17-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-| The Christianity link is a forward bridge and should not be overread before the relevant chapters. | `civ-17-transcript.md` | Keeps the in-review chapter bounded. | Medium |
-
-**Open Questions Raised by Counter-Readings**
-
-- Which claims are lecture shorthand and which should become final public historical claims?
-- Which names, dates, and battle details require external source verification before completion?
-- Which adjacent chapters confirm or revise the placement proposed here?
-
----
-
-## Layer 5 - Synthesis & Cross-Volume Links
-
-- Connection to `civ-16`: Augustus needs a memory system to naturalize the regime born from civil war.
-- Connection to `civ-18`: the next pivot to Egypt shifts from Roman eternity to older monumental and religious forms of time.
-- Broader pattern: civilization survives by turning power into stories that later generations can inhabit.
-
----
-
-## Layer 6 - Open Issues & Future Research
-
-- Verify proper nouns, dates, battle names, and quoted literary titles against external sources before any `complete` status.
-- Recheck ASR-sensitive names and places in the transcript before long excerpt use.
-- Preserve `representation_not_endorsement`; this commentary documents and tests the lecture's claims.
-- Keep this unit at `in-review` until external-source validation and final line-reference review are complete.
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
+## Project Canvas (chapter-local)
 
 ### Open Questions
 
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
+- Homer–Virgil binary as lecture frame vs full poetic ambiguity in Aeneid.
+- Christianity forward bridge — hold until Part V chapters.
 
-### Build Notes / Future Enhancements
+### Build Notes
 
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+- Cross-chapter work: use Part apparatus; pair with `gb-08` Part section.

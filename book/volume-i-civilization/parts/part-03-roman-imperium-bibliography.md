@@ -36,7 +36,8 @@ representation_not_endorsement: true
 | Galinsky, K., *Augustan Culture* (1996) | civ-16, civ-17 | Augustan memory and art |
 | Putnam, M. C. J., *Virgil's Aeneid: Interpretation and Influence* (1995) | civ-17, gb-08 | Aeneid reception |
 | Conte, G. B., *Latin Literature: A History* (1994) | civ-17, gb-08 | Epic and empire |
-| Williams, R. D., *The Aeneid of Virgil* (comm., 1996) | gb-08 | Dido/piety close-read |
+| Williams, R. D., *The Aeneid of Virgil* (comm., 1996) | gb-08 | Dido/piety close-read — `counters:` Aeneas interiority readings |
+| Heinze, R., *Virgil's Epic Technique* (1993) | gb-08 | Dido curse, ending structure — `counters:` curse-as-history |
 | Horsfall, N., *The Epic Distilled* (2016) | gb-08 | Aeneid structure |
 
 ## Lecture-paraphrase anchors (not substitutes for primary)

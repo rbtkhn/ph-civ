@@ -1,145 +1,58 @@
----
-source_id: gb-08
-public_slug: great-books-8-the-poetry-of-empire
-title: "Great Books #8: The Poetry of Empire"
-series: great-books
-episode: 8
-book_chapter_id: gb-ch08
-chapter_id: gb-08
-part: II
-source_type: video
-canonical_url: https://www.youtube.com/watch?v=YXTRlvFIRt8
-video_id: YXTRlvFIRt8
-publication_date: 2026-03-25
-template_family: great-books-commentary
-template_version: 1
-template_scope: great-books-only
-companion_transcript_path: ./gb-08-transcript.md
-completeness_state: in-review
-status: in-review
-commentary_status: in-review
-source_status: metadata_checked
-transcript_status: curated_transcript_pending_rights_review
-transcript_fidelity: exact_body_match
-annotation_status: drafted
-review_status: source_reviewed
-source_reviewed_at: 2026-05-14
-public_imported_at: 2026-05-14
-rights_review: required_before_long_excerpt
-representation_not_endorsement: true
-canvas_status: open
-analysis_depth: seed
-scaffold_version: ph_civ_commentary_canvas_v1
----
-# Commentary - Great Books
-
-The source transcript is gb-08-transcript.md. This commentary uses a Great Books-native scaffold. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim source transcript body.
-
-## Core Thesis & Reading Problem
-
-- Core thesis: This lecture places Virgil and empire inside the Great Books sequence, making poetry a vehicle for imperial memory, legitimacy, grief, and Roman inheritance.
-- Reading problem: Read it as a strong literary-civilizational hinge between Homeric epic and the political imagination of empire.
-- Public scaffold summary: The public scaffold places this chapter around Virgil, Aeneid, Rome, empire, poetic legitimacy, grief, memory, and imperial inheritance.
-- Completeness state: in-review
-
-## Neutral Lecture Summary
-
-The lecture is treated here as a Great Books source unit whose first task is to place students before a text, problem, or reading posture. For this chapter, the working focus is Virgil, Aeneid, Rome, empire, poetic legitimacy, grief, memory, and imperial inheritance.
-
-The public transcript and commentary scaffold identify this as part of Volume V's classroom sequence. This commentary preserves the chapter's claims as represented claims, then marks the interpretive and evidentiary limits that need later review.
-
-## Key Terms, Texts, and Interpretive Claims
-
-### Key Terms
-
-- **Virgil:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **Aeneid:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **empire:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **Roman memory:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **imperial legitimacy:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **political theology:** Requires final close-reading definition against the transcript and relevant primary texts.
-
-### Public Scaffold Claims
-
-1. The lecture uses Virgil as a key entry point into the Great Books course.
-2. The chapter frames Virgil, Aeneid, Rome, empire, poetic legitimacy, grief, memory, and imperial inheritance as a reading problem rather than as mere topic coverage.
-3. The public book layer should preserve the lecture's represented claims while marking interpretive limits and review needs.
-4. Final review should re-anchor this first-pass commentary to line-level transcript references and primary-text passages.
-
-## Passage / Argument Anchors
-
-- Transcript authority: gb-08-transcript.md contains the public `## Full transcript` body from the import snapshot.
-- Rights guardrail: avoid long quotation until source-text rights review is complete.
-
-## Counter-Readings & Limits
-
-Separate literary interpretation from claims about Roman history or imperial justification. Representation is not endorsement.
-
-
-## Cross-Series Links
-
-- Connect this chapter to adjacent Great Books units and to the broader Predictive History imagination thread.
-
-Book/site hook: Return here when studying Virgil, Rome, empire, poetic legitimacy, Aeneid inheritance, or the path from Homeric memory to Dante's reworking of empire and love.
-
-## Open Issues & Future Review
-
-- Verify the transcript against the source video before any complete status.
-- Re-anchor interpretive claims to line-level transcript references and primary-text passages.
-- Add external literary, philosophical, historical, theological, or scientific counter-readings where the lecture makes broad claims.
-- Preserve representation_not_endorsement; this commentary documents and tests the lecture's claims.
-- Keep this unit at in-review until external-source validation and final line-reference review are complete.
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
-
-### Open Questions
-
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
-
-### Build Notes / Future Enhancements
-
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+---
+source_id: gb-08
+public_slug: great-books-8-the-poetry-of-empire
+title: "Great Books #8: The Poetry of Empire"
+series: great-books
+episode: 8
+book_chapter_id: gb-ch08
+chapter_id: gb-08
+part: II
+source_type: video
+canonical_url: https://www.youtube.com/watch?v=YXTRlvFIRt8
+video_id: YXTRlvFIRt8
+publication_date: 2026-03-25
+template_family: great-books-commentary
+template_version: 1
+template_scope: great-books-only
+companion_transcript_path: ./gb-08-transcript.md
+completeness_state: in-review
+status: in-review
+commentary_status: in-review
+source_status: metadata_checked
+transcript_status: curated_transcript_pending_rights_review
+transcript_fidelity: exact_body_match
+annotation_status: drafted
+review_status: source_reviewed
+source_reviewed_at: 2026-05-14
+public_imported_at: 2026-05-14
+rights_review: required_before_long_excerpt
+representation_not_endorsement: true
+canvas_status: open
+analysis_depth: stub_routed_to_part
+scaffold_version: ph_civ_commentary_canvas_v1
+part_commentary_path: ../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md#gb-08
+part_bibliography_path: ../../volume-i-civilization/parts/part-03-roman-imperium-bibliography.md
+---
+
+# Commentary - Great Books (stub)
+
+**Canonical commentary** for `gb-08` lives in Part III apparatus (interwoven @ `civ-17`).
+
+## Core thesis (one line)
+
+Virgil's Aeneid is anti-Homer: piety and imperial destiny over love — poetry as empire's literary soul until Dante.
+
+## Read order
+
+1. [`gb-08-transcript.md`](./gb-08-transcript.md) — primary floor
+2. [Part III commentary § gb-08](../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md#gb-08) — claims, cross-links, forward Dante bridge
+3. [Part III bibliography](../../volume-i-civilization/parts/part-03-roman-imperium-bibliography.md) — Virgil, Aeneid scholarship, empire reception
+4. [`civ-17` thin commentary](../../volume-ii/civ-17/civ-17-commentary.md) — civilization lecture pin-cites
+
+## Part placement
+
+- Part: [Part III — The Roman Imperium](../../volume-i-civilization/parts/part-03-roman-imperium.md)
+- Weave: `interwoven` @ `civ-17`; continues [Part II gb-07 anti-Homer](../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#gb-07) frame
+- Corridor: [Homer to Dante](../../../data/corridors/homer-to-dante.md)
+
+Do not duplicate Part bibliography or cross-chapter prediction tables in this stub.

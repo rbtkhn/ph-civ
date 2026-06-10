@@ -1,145 +1,58 @@
----
-source_id: gb-07
-public_slug: great-books-7-the-anti-homer
-title: "Great Books #7: The Anti-Homer"
-series: great-books
-episode: 7
-book_chapter_id: gb-ch07
-chapter_id: gb-07
-part: II
-source_type: video
-canonical_url: https://www.youtube.com/watch?v=EBWTRvjZ1dw
-video_id: EBWTRvjZ1dw
-publication_date: 2026-03-18
-template_family: great-books-commentary
-template_version: 1
-template_scope: great-books-only
-companion_transcript_path: ./gb-07-transcript.md
-completeness_state: in-review
-status: in-review
-commentary_status: in-review
-source_status: metadata_checked
-transcript_status: curated_transcript_pending_rights_review
-transcript_fidelity: exact_body_match
-annotation_status: drafted
-review_status: source_reviewed
-source_reviewed_at: 2026-05-14
-public_imported_at: 2026-05-14
-rights_review: required_before_long_excerpt
-representation_not_endorsement: true
-canvas_status: open
-analysis_depth: seed
-scaffold_version: ph_civ_commentary_canvas_v1
----
-# Commentary - Great Books
-
-The source transcript is gb-07-transcript.md. This commentary uses a Great Books-native scaffold. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim source transcript body.
-
-## Core Thesis & Reading Problem
-
-- Core thesis: This lecture names an anti-Homeric turn, using opposition to Homer as a way to test the canon's internal argument about heroism, violence, imitation, and moral imagination.
-- Reading problem: Read it as a strong comparative hinge: the point is not only a text, but a reversal of the heroic pattern established earlier.
-- Public scaffold summary: The public scaffold places this chapter around anti-Homeric reversal, heroism critique, violence, imitation, moral imagination, and canon conflict.
-- Completeness state: in-review
-
-## Neutral Lecture Summary
-
-The lecture is treated here as a Great Books source unit whose first task is to place students before a text, problem, or reading posture. For this chapter, the working focus is anti-Homeric reversal, heroism critique, violence, imitation, moral imagination, and canon conflict.
-
-The public transcript and commentary scaffold identify this as part of Volume V's classroom sequence. This commentary preserves the chapter's claims as represented claims, then marks the interpretive and evidentiary limits that need later review.
-
-## Key Terms, Texts, and Interpretive Claims
-
-### Key Terms
-
-- **Anti-Homer:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **heroism:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **moral imagination:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **canon conflict:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **reversal:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **imitation:** Requires final close-reading definition against the transcript and relevant primary texts.
-
-### Public Scaffold Claims
-
-1. The lecture uses Anti-Homer as a key entry point into the Great Books course.
-2. The chapter frames anti-Homeric reversal, heroism critique, violence, imitation, moral imagination, and canon conflict as a reading problem rather than as mere topic coverage.
-3. The public book layer should preserve the lecture's represented claims while marking interpretive limits and review needs.
-4. Final review should re-anchor this first-pass commentary to line-level transcript references and primary-text passages.
-
-## Passage / Argument Anchors
-
-- Transcript authority: gb-07-transcript.md contains the public `## Full transcript` body from the import snapshot.
-- Rights guardrail: avoid long quotation until source-text rights review is complete.
-
-## Counter-Readings & Limits
-
-Keep the anti-Homer label as a lecture frame, not a settled taxonomy. Verify which text or argument bears the reversal in final review.
-
-
-## Cross-Series Links
-
-- Connect this chapter to adjacent Great Books units and to the broader Predictive History imagination thread.
-
-Book/site hook: Return here when studying canon conflict, anti-epic movements, critique of heroism, Plato/Homer tension, or the path from Homer to Virgil and Dante.
-
-## Open Issues & Future Review
-
-- Verify the transcript against the source video before any complete status.
-- Re-anchor interpretive claims to line-level transcript references and primary-text passages.
-- Add external literary, philosophical, historical, theological, or scientific counter-readings where the lecture makes broad claims.
-- Preserve representation_not_endorsement; this commentary documents and tests the lecture's claims.
-- Keep this unit at in-review until external-source validation and final line-reference review are complete.
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
-
-### Open Questions
-
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
-
-### Build Notes / Future Enhancements
-
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+---
+source_id: gb-07
+public_slug: great-books-7-the-anti-homer
+title: "Great Books #7: The Anti-Homer"
+series: great-books
+episode: 7
+book_chapter_id: gb-ch07
+chapter_id: gb-07
+part: II
+source_type: video
+canonical_url: https://www.youtube.com/watch?v=EBWTRvjZ1dw
+video_id: EBWTRvjZ1dw
+publication_date: 2026-03-18
+template_family: great-books-commentary
+template_version: 1
+template_scope: great-books-only
+companion_transcript_path: ./gb-07-transcript.md
+completeness_state: in-review
+status: in-review
+commentary_status: in-review
+source_status: metadata_checked
+transcript_status: curated_transcript_pending_rights_review
+transcript_fidelity: exact_body_match
+annotation_status: drafted
+review_status: source_reviewed
+source_reviewed_at: 2026-05-14
+public_imported_at: 2026-05-14
+rights_review: required_before_long_excerpt
+representation_not_endorsement: true
+canvas_status: open
+analysis_depth: stub_routed_to_part
+scaffold_version: ph_civ_commentary_canvas_v1
+part_commentary_path: ../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#gb-07
+part_bibliography_path: ../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md
+---
+
+# Commentary - Great Books (stub)
+
+**Canonical commentary** for `gb-07` lives in Part II apparatus (interwoven @ `civ-07`); forward bridge to Part III `gb-08`.
+
+## Core thesis (one line)
+
+The Aeneid as anti-Homer — Augustus weaponizes Virgil to invert Greek love/arete into Roman piety; Trojan horse as metaphor for Greek culture poisoning Rome.
+
+## Read order
+
+1. [`gb-07-transcript.md`](./gb-07-transcript.md) — primary floor
+2. [Part II commentary § gb-07](../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#gb-07) — claims, cross-links
+3. [Part II bibliography](../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md) — Homer, Virgil, Aeneid reception
+4. [Part III § gb-08](../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md#gb-08) — Aeneid close-read capstone @ `civ-17`
+
+## Part placement
+
+- Part: [Part II — The Hellenic World](../../volume-i-civilization/parts/part-02-hellenic-world.md)
+- Weave: `interwoven` @ `civ-07`
+- Corridor: [Homer to Dante](../../../data/corridors/homer-to-dante.md)
+
+Do not duplicate Part bibliography or cross-chapter prediction tables in this stub.

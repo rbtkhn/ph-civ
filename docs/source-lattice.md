@@ -121,7 +121,8 @@ For a **chapter**:
 2. open the transcript
 3. open the **thin** chapter commentary (Layer 0–2 pin-cites)
 4. open the **Part apparatus** when the chapter belongs to a Volume I Part with
-   commentary/bibliography files (pilot: Part II `civ-07`–`civ-13`) — cross-chapter
+   commentary/bibliography files (pilot: Part II `civ-07`–`civ-13`, Part III
+   `civ-14`–`civ-17`) — cross-chapter
    synthesis and external sources live there, not in the chapter file
 5. open the public card only after the chapter and Part floors are clear
 6. use corridors and support notes only where confusion, bridge pressure, or route

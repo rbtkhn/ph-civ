@@ -1,146 +1,57 @@
----
-source_id: gb-05
-public_slug: great-books-5-the-odyssey
-title: "Great Books #5: The Odyssey"
-series: great-books
-episode: 5
-book_chapter_id: gb-ch05
-chapter_id: gb-05
-part: II
-source_type: video
-canonical_url: https://www.youtube.com/watch?v=gXlcR7uHHdA
-video_id: gXlcR7uHHdA
-publication_date: 2026-03-04
-template_family: great-books-commentary
-template_version: 1
-template_scope: great-books-only
-companion_transcript_path: ./gb-05-transcript.md
-completeness_state: in-review
-status: in-review
-commentary_status: in-review
-source_status: metadata_checked
-transcript_status: curated_transcript_pending_rights_review
-transcript_fidelity: exact_body_match
-annotation_status: drafted
-review_status: source_reviewed
-source_reviewed_at: 2026-05-14
-public_imported_at: 2026-05-14
-rights_review: required_before_long_excerpt
-representation_not_endorsement: true
-canvas_status: open
-analysis_depth: seed
-scaffold_version: ph_civ_commentary_canvas_v1
----
-# Commentary - Great Books
-
-The source transcript is gb-05-transcript.md. This commentary uses a Great Books-native scaffold. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim source transcript body.
-
-## Core Thesis & Reading Problem
-
-- Core thesis: This lecture makes the Odyssey a central test of the Great Books project: return, wandering, desire, home, storytelling, and human identity become the problem of reading itself.
-- Reading problem: Read it as a major literary hinge, especially for re-entry into Homer, homecoming, love, temptation, and self-recognition.
-- Public scaffold summary: The public scaffold places this chapter around The Odyssey, return, home, wandering, desire, intelligence, storytelling, identity, and the education of the self.
-- Completeness state: in-review
-
-## Neutral Lecture Summary
-
-The lecture is treated here as a Great Books source unit whose first task is to place students before a text, problem, or reading posture. For this chapter, the working focus is The Odyssey, return, home, wandering, desire, intelligence, storytelling, identity, and the education of the self.
-
-The public transcript and commentary scaffold identify this as part of Volume V's classroom sequence. This commentary preserves the chapter's claims as represented claims, then marks the interpretive and evidentiary limits that need later review.
-
-## Key Terms, Texts, and Interpretive Claims
-
-### Key Terms
-
-- **Odyssey:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **homecoming:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **Odysseus:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **wandering:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **desire:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **storytelling:** Requires final close-reading definition against the transcript and relevant primary texts.
-- **return:** Requires final close-reading definition against the transcript and relevant primary texts.
-
-### Public Scaffold Claims
-
-1. The lecture uses Odyssey as a key entry point into the Great Books course.
-2. The chapter frames The Odyssey, return, home, wandering, desire, intelligence, storytelling, identity, and the education of the self as a reading problem rather than as mere topic coverage.
-3. The public book layer should preserve the lecture's represented claims while marking interpretive limits and review needs.
-4. Final review should re-anchor this first-pass commentary to line-level transcript references and primary-text passages.
-
-## Passage / Argument Anchors
-
-- Transcript authority: gb-05-transcript.md contains the public `## Full transcript` body from the import snapshot.
-- Rights guardrail: avoid long quotation until source-text rights review is complete.
-
-## Counter-Readings & Limits
-
-Keep textual claims anchored to the lecture and later close reading. Do not flatten the Odyssey into a single moral allegory.
-
-
-## Cross-Series Links
-
-- Connect this chapter to adjacent Great Books units and to the broader Predictive History imagination thread.
-
-Book/site hook: Return here when studying the Odyssey, homecoming, narrative intelligence, love, temptation, exile, or the course's movement from epic violence to inward return.
-
-## Open Issues & Future Review
-
-- Verify the transcript against the source video before any complete status.
-- Re-anchor interpretive claims to line-level transcript references and primary-text passages.
-- Add external literary, philosophical, historical, theological, or scientific counter-readings where the lecture makes broad claims.
-- Preserve representation_not_endorsement; this commentary documents and tests the lecture's claims.
-- Keep this unit at in-review until external-source validation and final line-reference review are complete.
-
----
-
-## Project Canvas
-
-This section is the working surface for enhancing and leveraging the chapter over time. It is intentionally open: preserve the transcript, keep existing commentary intact, and deepen this canvas one chapter at a time.
-
-### Project Leverage
-
-- What this chapter can unlock for the broader ph-civ project:
-- How this chapter can support reader navigation, teaching, writing, product design, or strategic synthesis:
-- What should become easier after this chapter is developed:
-
-### Laws / Patterns Exposed
-
-- Candidate law or pattern:
-- Supporting transcript evidence to extract later:
-- Related public pattern IDs or future pattern candidates:
-
-### Volume Role
-
-- Conceptual volume role:
-- Relationship to Volume I law discovery or Volume II law application:
-- Bridge/support role, if any:
-
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
-
-### Strategy / Present-Day Application
-
-- Possible present-day analogy or strategic use:
-- Evidence needed before using the analogy operationally:
-- Risks of overextension:
-
-### Counter-Readings
-
-- Strongest alternative explanation:
-- External sources or schools of thought to consult:
-- What would weaken the chapter's current framing:
-
-### Open Questions
-
-- Questions for close rereading:
-- Questions for external verification:
-- Questions for cross-volume comparison:
-
-### Build Notes / Future Enhancements
-
-- Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
-- Completion blockers:
+---
+source_id: gb-05
+public_slug: great-books-5-the-odyssey
+title: "Great Books #5: The Odyssey"
+series: great-books
+episode: 5
+book_chapter_id: gb-ch05
+chapter_id: gb-05
+part: II
+source_type: video
+canonical_url: https://www.youtube.com/watch?v=gXlcR7uHHdA
+video_id: gXlcR7uHHdA
+publication_date: 2026-03-04
+template_family: great-books-commentary
+template_version: 1
+template_scope: great-books-only
+companion_transcript_path: ./gb-05-transcript.md
+completeness_state: in-review
+status: in-review
+commentary_status: in-review
+source_status: metadata_checked
+transcript_status: curated_transcript_pending_rights_review
+transcript_fidelity: exact_body_match
+annotation_status: drafted
+review_status: source_reviewed
+source_reviewed_at: 2026-05-14
+public_imported_at: 2026-05-14
+rights_review: required_before_long_excerpt
+representation_not_endorsement: true
+canvas_status: open
+analysis_depth: stub_routed_to_part
+scaffold_version: ph_civ_commentary_canvas_v1
+part_commentary_path: ../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#gb-05
+part_bibliography_path: ../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md
+---
+
+# Commentary - Great Books (stub)
+
+**Canonical commentary** for `gb-05` lives in Part II apparatus (interwoven @ `civ-07`).
+
+## Core thesis (one line)
+
+The Odyssey is family trauma and soul-repair — splintered worldviews reunited through homecoming and love.
+
+## Read order
+
+1. [`gb-05-transcript.md`](./gb-05-transcript.md) — primary floor
+2. [Part II commentary § gb-05](../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#gb-05) — claims, cross-links
+3. [Part II bibliography](../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md) — Odyssey, trauma/homecoming scholarship
+4. [`civ-07` thin commentary](../../volume-ii/civ-07/civ-07-commentary.md) — civilization lecture pin-cites
+
+## Part placement
+
+- Part: [Part II — The Hellenic World](../../volume-i-civilization/parts/part-02-hellenic-world.md)
+- Weave: `interwoven` @ `civ-07` (Homer cluster with `gb-02`, `gb-07`)
+
+Do not duplicate Part bibliography or cross-chapter prediction tables in this stub.

@@ -217,6 +217,18 @@ def validate_volume_i_parts(
                 if "part-02-hellenic-world-bibliography.md" not in readme_text:
                     errors.append(f"{civ_id} README missing Part II bibliography link")
 
+        if part_id == "part-03-roman-imperium" and commentary_path:
+            for civ_id in chapters:
+                readme = PACKAGE_ROOT / "book" / "volume-ii" / civ_id / "README.md"
+                if not readme.is_file():
+                    errors.append(f"{part_id} missing chapter README: {readme.relative_to(PACKAGE_ROOT)}")
+                    continue
+                readme_text = readme.read_text(encoding="utf-8")
+                if "part-03-roman-imperium-commentary.md" not in readme_text:
+                    errors.append(f"{civ_id} README missing Part III commentary link")
+                if "part-03-roman-imperium-bibliography.md" not in readme_text:
+                    errors.append(f"{civ_id} README missing Part III bibliography link")
+
         if require_chapter_anchors and not part.get("chapter_anchors"):
             errors.append(f"{part_id} missing chapter_anchors")
 

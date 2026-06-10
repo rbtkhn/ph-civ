@@ -9,7 +9,7 @@ spine_chapters:
   - civ-17
 commentary_status: in-review
 canvas_status: open
-analysis_depth: phase1_drafted
+analysis_depth: pilot_deepened
 scaffold_version: ph_civ_part_commentary_v1
 doorway_path: ./part-03-roman-imperium.md
 bibliography_path: ./part-03-roman-imperium-bibliography.md
@@ -43,6 +43,9 @@ Consolidated from chapter Layer 3. Chapter commentaries retain lecture-local Lay
 | Succession weakness returns after Tiberius | C | No later imperial succession stress | **Pending** | `civ-16` closing note |
 | Next chapter pivots to Egypt and eternity | E | `civ-18` does not follow Egypt arc | **Pending** | `civ-17` forward bridge |
 | Christianity inherits Greek metaphysics + Roman imperial-literary forms | C | Part V chapters skip either inheritance | **Pending** | `civ-17`; forward Part V |
+| Aeneid scene-level close-read confirms Homer–Virgil inversion (love vs piety) | E | `gb-08` skips Dido/Turnus apparatus | **Confirmed** | `gb-08` Dido + Turnus arcs |
+| Dido curse rationalizes Roman destruction of Carthage in lecture frame | SI | External history treats curse as sole war cause | **Pending** | `gb-08` `#dido-curse-propaganda` |
+| Aeneid ending trains piety-by-memorization (reader becomes Aeneas) | C | Lecture treats ending as incomplete draft | **Partially supported** | `gb-08` `#pietas-epiphany-close` |
 
 **Meta-patterns:** victory abroad can destabilize republic at home; death can strengthen myth; regimes preserve old vocabulary while concentrating power; civilizations turn power into stories successors inhabit.
 
@@ -93,16 +96,26 @@ Augustus: Praetorian Guard, professional army, Egypt treasury. **Aeneas myth** a
 
 | # | Claim | Ref | Confidence |
 |---|-------|-----|------------|
-| 1 | Aeneid responds to Iliad/Odyssey; Homer = love as unifying force; Virgil = piety/obedience | `:33` | High |
-| 2 | Love and piety are stark competitors in Virgil's frame; gods' plan = Rome | `:33` | High |
-| 3 | Aeneid → Roman Empire → Catholic Church millennium (lecture frame) | `:33` | Medium |
-| 4 | Elite children memorize Aeneid; world perceived through Virgilian lens | `:33` | High |
-| 5 | Dante/Divine Comedy as liberation from Virgilian stagnation (forward) | `:33` | High |
-| 6 | Dido–Aeneas: Mercury/Jupiter command vs Homeric love choice | `:33` | High |
-| 7 | Aeneas conflict = how to escape Dido, not whether to choose love (anti-Homer) | `:35` | High |
-| 8 | Aeneas sneaks away — lecture: less human interiority than Homeric characters | `:35` | Medium |
+| 1 | Aeneid responds to Iliad/Odyssey; Homer = love as unifying force; Virgil = piety/obedience | `#anti-homer-piety-frame` | High |
+| 2 | Love and piety are stark competitors in Virgil's frame; gods' plan = Rome | `#anti-homer-piety-frame` | High |
+| 3 | Aeneid → Roman Empire → Catholic Church millennium (lecture frame) | `#anti-homer-piety-frame` | Medium |
+| 4 | Elite children memorize Aeneid; world perceived through Virgilian lens | `#anti-homer-piety-frame` | High |
+| 5 | Dante/Divine Comedy as liberation from Virgilian stagnation (forward) | `#anti-homer-piety-frame` | High |
+| 6 | Dido–Aeneas: Mercury/Jupiter command vs Homeric love choice | `#mercury-command` | High |
+| 7 | Aeneas conflict = how to escape Dido, not whether to choose love (anti-Homer) | `#anti-homer-escape-choice` | High |
+| 8 | Aeneas sneaks away — lecture: less human interiority than Homeric characters | `#anti-homer-escape-choice` | Medium |
+| 9 | Dido confrontation: love disintegrates proud queen; Odyssey homecoming inverted (journey begins in love, must abandon it) | `#dido-confrontation` | High |
+| 10 | Bacchus vs Apollo — lecture: emotional frenzy is worst creativity; rational Apollo preferred in Virgilian moral frame | `#dido-confrontation` | Medium |
+| 11 | Aeneas denies marriage pact; Italy/power is homeland, not Dido — love is obstacle | `#dido-confrontation` | High |
+| 12 | Dido curse scripts endless Rome–Carthage war; Punic destruction read as answering curse not Roman savagery | `#dido-curse-propaganda` | High |
+| 13 | Carthaginian founder-Dido myth inverted — love poisons people into vengeance mission vs liberty-through-sacrifice | `#dido-curse-propaganda` | Medium |
+| 14 | Turnus pleads with Priam-words; Aeneas pity → Pallas belt trophy → kill (Iliad Achilles/Hector inverted) | `#turnus-pietas-ending` | High |
+| 15 | Ending epiphany = choosing duty over pity; memorization trains reader to shed human emotions | `#pietas-epiphany-close` | High |
+| 16 | Student Q&A: Pallas-love as vengeance — lecture rebuts as utility-education not true love (Dante forward) | `#pietas-epiphany-close` | Medium |
 
-**Cross-links:** extends `civ-17` Homer–Virgil contrast; continues [Part II `gb-07`](./part-02-hellenic-world-commentary.md#gb-07) anti-Homer inversion; forward [Homer to Dante](../../../data/corridors/homer-to-dante.md).
+**Close-read arc:** anti-Homer frame (love vs piety, millennium/Dante forward) → Dido–Mercury command → escape-not-choice → Dido rage and cruel reply → curse as Punic-war propaganda → Odyssey/Iliad inversions at Italy ending → Turnus mercy refused → piety epiphany + class Q&A on love vs utility.
+
+**Cross-links:** extends `civ-17` Homer–Virgil contrast; continues [Part II `gb-07`](./part-02-hellenic-world-commentary.md#gb-07) anti-Homer inversion; pairs [Part II `gb-05`](./part-02-hellenic-world-commentary.md#gb-05) Odyssey return grammar; forward [Homer to Dante](../../../data/corridors/homer-to-dante.md).
 
 ## Counter-readings (external)
 
@@ -119,6 +132,9 @@ Scholarship-grade alternatives; sources in [bibliography](./part-03-roman-imperi
 | Homer vs Virgil binary (`civ-17`) | Interpretive lecture frame; Aeneid has grief/ambiguity | High |
 | Augustus-authored Aeneid (`gb-07`/`gb-08`) | Imperial patronage ≠ sole authorship; Virgil's agency | High |
 | Dante/medieval millennium (`gb-08`) | Periodization and "dark ages" need guardrails | High |
+| Dido curse as war causation (`gb-08`) | Rome–Carthage enmity predates Virgil; curse is poetic justification not history | High |
+| Aeneas devoid of interiority (`gb-08`) | Aeneid scholarship retains grief, reluctance, and moral ambiguity | High |
+| Turnus kill = pure piety (`gb-08`) | Pallas-rage residue reintroduces Homeric vengeance logic | Medium |
 
 ## Part Project Canvas
 
@@ -145,10 +161,12 @@ Scholarship-grade alternatives; sources in [bibliography](./part-03-roman-imperi
 
 ### Open Questions
 
-- Phase 2: slim civ-14–17 commentaries; stub `gb-08-commentary.md`; section anchors on `gb-08-transcript.md`.
 - External-verify battle details, proper nouns, Augustan institution claims.
+- Tag bibliography `counters:` for Dido curse and Turnus-ending scholarship.
 
 ### Build Notes
 
-- Phase 1 (2026-06-09): author only — no chapter slimming yet.
-- Validator Part III checks deferred to Phase 3.
+- Phase 1 (2026-06-09): author commentary + bibliography + registry.
+- Phase 2 (2026-06-09): slim civ-14–17; gb-08 stub; README + transcript frontmatter; validator README checks.
+- Phase 3 (2026-06-09): gb-08 transcript section anchors; Part II gb-02/05/07 stubs; docs sync.
+- Deepen (2026-06-09): `gb-08` claims 9–16 + close-read arc; Part II `gb-02`/`gb-05`/`gb-07` cluster deepen.
