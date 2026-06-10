@@ -356,6 +356,54 @@ chapters:
       - "#open-competitive-cooperation"
       - "#british-constitution-america"
       - "#american-political-analogies"
+  civ-51:
+    part_id: part-09-age-of-conscience
+    sections:
+      - {slug: four-modern-civilizations, phrase: "four great modern civilizations"}
+      - {slug: white-mans-burden, phrase: "white men's burden"}
+      - {slug: language-of-empire-question, phrase: "how did Shakespeare transform English"}
+      - {slug: diction-vocabulary, phrase: "what we call diction"}
+      - {slug: iambic-pentameter, phrase: "i'm a pentameter"}
+      - {slug: theater-mass-education, phrase: "theater is primarily the means"}
+    claim_refs:
+      - "#four-modern-civilizations"
+      - "#white-mans-burden"
+      - "#language-of-empire-question"
+      - "#diction-vocabulary"
+      - "#iambic-pentameter"
+      - "#theater-mass-education"
+  civ-52:
+    part_id: part-09-age-of-conscience
+    sections:
+      - {slug: america-modern-competitor, phrase: "four major civilizations that are competing"}
+      - {slug: anti-civilization-design, phrase: "designed as the anti-ivilization"}
+      - {slug: puritan-literacy-boston, phrase: "Boston from the very beginning it's a literate society"}
+      - {slug: franklin-self-help, phrase: "self-help uh fad"}
+      - {slug: hamilton-constitution-empire, phrase: "genius of the constitution"}
+      - {slug: empire-of-democracy-lincoln, phrase: "we are an empire of democracy"}
+    claim_refs:
+      - "#america-modern-competitor"
+      - "#anti-civilization-design"
+      - "#puritan-literacy-boston"
+      - "#franklin-self-help"
+      - "#hamilton-constitution-empire"
+      - "#empire-of-democracy-lincoln"
+  civ-53:
+    part_id: part-09-age-of-conscience
+    sections:
+      - {slug: russia-third-modern-civ, phrase: "Today we'll do Russia"}
+      - {slug: human-heart-mystery, phrase: "greatest mystery"}
+      - {slug: putin-ukraine-question, phrase: "why did Putin invade Ukraine"}
+      - {slug: moscow-marginal-vassalage, phrase: "Moscow along"}
+      - {slug: crime-and-punishment-heart, phrase: "what crime and punishment will show us"}
+      - {slug: grand-inquisitor-kiss, phrase: "He kisses the Grand Inquisitor"}
+    claim_refs:
+      - "#russia-third-modern-civ"
+      - "#human-heart-mystery"
+      - "#putin-ukraine-question"
+      - "#moscow-marginal-vassalage"
+      - "#crime-and-punishment-heart"
+      - "#grand-inquisitor-kiss"
   civ-54:
     part_id: part-10-rise-of-the-nation-state
     sections:

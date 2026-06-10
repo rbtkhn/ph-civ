@@ -23,6 +23,13 @@ How do theater, democracy, and the Russian novel name conscience at the Tolstoy 
 - [homer-to-tolstoy](../../../data/corridors/homer-to-tolstoy.md)
 - [civilization-to-apocalypse](../../parts/civilization-to-apocalypse.md)
 
+## Apparatus
+
+- [Part IX commentary](part-09-age-of-conscience-commentary.md) — **Phase 3 complete** (`civ-51`–`53` pin-cited; `sh-16` pointer; ledger/corridor synthesis closed)
+- [Part IX bibliography](part-09-age-of-conscience-bibliography.md) — wedge stub with `supports:`/`counters:`
+- [Part IX hybrid readiness](PART-09-HYBRID-READINESS.md) — inventory + rollout phases
+- Cross-Part ingress: [Part VIII `civ-50`](part-08-birth-of-modernity-commentary.md#civ-50)
+
 ## Navigation
 
 - **Previous:** [Part VIII — The Birth of Modernity](part-08-birth-of-modernity.md)

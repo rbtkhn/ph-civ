@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +62,12 @@ Every claim below is tied to the transcript body in civ-53-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture presents Russia as a rival modern civilization after Britain and America. | civ-53-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | Russian civilization is contrasted with Anglo-American utilitarianism and German idealism. | civ-53-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | Moscow is framed as a marginal power that becomes imperial through competition, disadvantage, and vassalage. | civ-53-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | Russian expansion is tied to Orthodoxy, Byzantine inheritance, eastward movement, violence, and empire. | civ-53-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | Dostoevsky is treated as central to understanding the Russian heart and Orthodox redemption. | civ-53-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | The Ukraine war is interpreted through the lecture's civilizational account of Russian sovereignty and American materialism. | civ-53-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The lecture presents Russia as a rival modern civilization after Britain and America. | `civ-53-transcript.md#russia-third-modern-civ` | Explicit / Strong Implied | High |
+| 2 | Russian civilization locates deepest knowledge in the human heart. | `civ-53-transcript.md#human-heart-mystery` | Explicit / Strong Implied | High |
+| 3 | Leading question: why did Putin invade Ukraine. | `civ-53-transcript.md#putin-ukraine-question` | Explicit / Strong Implied | High |
+| 4 | Moscow is framed through marginal vassalage under the Mongol empire. | `civ-53-transcript.md#moscow-marginal-vassalage` | Explicit / Strong Implied | High |
+| 5 | Crime and Punishment shows reason fails while the heart triumphs. | `civ-53-transcript.md#crime-and-punishment-heart` | Explicit / Strong Implied | High |
+| 6 | The Grand Inquisitor kiss — mercy changes the heart, not reason. | `civ-53-transcript.md#grand-inquisitor-kiss` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

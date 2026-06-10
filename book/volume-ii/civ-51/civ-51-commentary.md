@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +62,12 @@ Every claim below is tied to the transcript body in civ-51-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture maps Russian, German, British, and American civilizations as modern competitors. | civ-51-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | Britain is framed through practical empiricism, utilitarianism, Anglican inheritance, and empire. | civ-51-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | Shakespeare is presented as founder of English cultural identity and language of empire. | civ-51-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | Diction, imagery, vocabulary, and iambic pentameter are treated as tools of civilizational imagination. | civ-51-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | Theater is framed as mass entertainment and mass education. | civ-51-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | Othello and race are used to discuss identity, empire, and Anglo-American cultural power. | civ-51-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The lecture maps Russian, German, British, and American civilizations as modern competitors. | `civ-51-transcript.md#four-modern-civilizations` | Explicit / Strong Implied | High |
+| 2 | Britain is framed through white men's burden and cultural superiority. | `civ-51-transcript.md#white-mans-burden` | Explicit / Strong Implied | High |
+| 3 | Shakespeare is presented as founder of English cultural identity and language of empire. | `civ-51-transcript.md#language-of-empire-question` | Explicit / Strong Implied | High |
+| 4 | Diction and new word uses expand civilizational imagination. | `civ-51-transcript.md#diction-vocabulary` | Explicit / Strong Implied | High |
+| 5 | Iambic pentameter makes Shakespeare's language musical, memorable, and imagination-shaping. | `civ-51-transcript.md#iambic-pentameter` | Explicit / Strong Implied | High |
+| 6 | Theater is framed as mass entertainment and mass education (Othello/race thread). | `civ-51-transcript.md#theater-mass-education` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

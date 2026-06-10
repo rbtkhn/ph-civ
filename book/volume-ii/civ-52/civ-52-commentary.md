@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +62,12 @@ Every claim below is tied to the transcript body in civ-52-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture frames America as one of the modern civilizations competing for global dominance. | civ-52-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | America is described as an anti-civilization built from Enlightenment ideas. | civ-52-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | Puritans, literacy, diversity, and religious tolerance are used to explain colonial formation. | civ-52-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | Franklin, Hamilton, and the Constitution are treated as key American forms. | civ-52-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | Manifest destiny, Monroe Doctrine, Native dispossession, and continental expansion are central to the empire frame. | civ-52-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | Civil War, Lincoln, Tocqueville, and modern politics are used to define democracy as imperial form. | civ-52-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The lecture frames America as one of the modern civilizations competing for global dominance. | `civ-52-transcript.md#america-modern-competitor` | Explicit / Strong Implied | High |
+| 2 | America is described as an anti-civilization built from Enlightenment ideas. | `civ-52-transcript.md#anti-civilization-design` | Explicit / Strong Implied | High |
+| 3 | Puritans, literacy, and Boston as early literate colonial society. | `civ-52-transcript.md#puritan-literacy-boston` | Explicit / Strong Implied | High |
+| 4 | Franklin autobiography and the self-help fad express American psychology. | `civ-52-transcript.md#franklin-self-help` | Explicit / Strong Implied | High |
+| 5 | Hamilton is treated as constitution genius driving imperial central government. | `civ-52-transcript.md#hamilton-constitution-empire` | Explicit / Strong Implied | High |
+| 6 | Lincoln resolves Jefferson/Hamilton tension as empire of democracy. | `civ-52-transcript.md#empire-of-democracy-lincoln` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 
