@@ -260,3 +260,115 @@ chapters:
       - "#open-competitive-cooperation"
       - "#british-constitution-america"
       - "#american-political-analogies"
+  civ-54:
+    part_id: part-10-rise-of-the-nation-state
+    sections:
+      - {slug: unity-of-will-german, phrase: "unity of will in German civilization today"}
+      - {slug: prussia-not-militarist-myth, phrase: "Western prejudice against Prussia is wrong"}
+      - {slug: frederick-great-reforms, phrase: "Fedic the Great who is considered uh the great nation builder of Prussia"}
+      - {slug: prussian-education-meritocracy, phrase: "conceptualize public education as a meritocracy"}
+      - {slug: wagner-unity-of-will, phrase: "through music we can rediscover the unity of the world, the unity of the will"}
+      - {slug: hitler-catastrophic-mobilization, phrase: "these ideas in the context of warmer republic will lead to the rise of the Nazis and Hitler"}
+    claim_refs:
+      - "#unity-of-will-german"
+      - "#prussia-not-militarist-myth"
+      - "#frederick-great-reforms"
+      - "#prussian-education-meritocracy"
+      - "#wagner-unity-of-will"
+      - "#hitler-catastrophic-mobilization"
+  civ-55:
+    part_id: part-10-rise-of-the-nation-state
+    sections:
+      - {slug: kant-dante-imagination-love, phrase: "imagination is the animating force of the universe and love is the unifying force"}
+      - {slug: critique-of-pure-reason, phrase: "critique of pure reason"}
+      - {slug: synthetic-a-priori, phrase: "whether or not a priority synthetic knowledge exists"}
+      - {slug: hegel-geist-resolution, phrase: "He's going to resolve these three issues for Kant"}
+      - {slug: hegel-dialectic, phrase: "the main thing that moves is the dialectic"}
+      - {slug: kant-hegel-science-bridge, phrase: "will go inspire neuroscience, artificial intelligence and uh quantum mechanics"}
+    claim_refs:
+      - "#kant-dante-imagination-love"
+      - "#critique-of-pure-reason"
+      - "#synthetic-a-priori"
+      - "#hegel-geist-resolution"
+      - "#hegel-dialectic"
+      - "#kant-hegel-science-bridge"
+  civ-56:
+    part_id: part-10-rise-of-the-nation-state
+    sections:
+      - {slug: marx-dialectical-materialism, phrase: "dialectical materialism which is idea of class struggle"}
+      - {slug: marx-capitalism-diagnosis, phrase: "embedded in capitalism is the seeds of its demise"}
+      - {slug: religion-before-economics, phrase: "religion that drives human history"}
+      - {slug: marx-three-mistakes-religion, phrase: "people care about religion not economics"}
+      - {slug: capitalism-communism-same-religion, phrase: "Capitalism and communism are the same religion"}
+      - {slug: freud-forward-pointer, phrase: "next Tuesday we do Freud"}
+    claim_refs:
+      - "#marx-dialectical-materialism"
+      - "#marx-capitalism-diagnosis"
+      - "#religion-before-economics"
+      - "#marx-three-mistakes-religion"
+      - "#capitalism-communism-same-religion"
+      - "#freud-forward-pointer"
+  civ-57:
+    part_id: part-10-rise-of-the-nation-state
+    sections:
+      - {slug: freud-after-kant-hegel-marx, phrase: "Freud will come along and he will present a completely different conception"}
+      - {slug: id-ego-superego, phrase: "these three forces are the superego, the ego and the id"}
+      - {slug: jung-collective-unconscious, phrase: "The collective unconscious is embedded through society"}
+      - {slug: modernism-cult-of-self, phrase: "easiest definition is cult of the self"}
+      - {slug: freud-protects-powerful-interests, phrase: "his system was designed to pro protect the interests of powerful interests, powerful men"}
+      - {slug: freud-trauma-then-fantasy, phrase: "at first was shocked. I think everyone would be shocked"}
+    claim_refs:
+      - "#freud-after-kant-hegel-marx"
+      - "#modernism-cult-of-self"
+      - "#id-ego-superego"
+      - "#jung-collective-unconscious"
+      - "#freud-trauma-then-fantasy"
+      - "#freud-protects-powerful-interests"
+  civ-58:
+    part_id: part-10-rise-of-the-nation-state
+    sections:
+      - {slug: nation-state-definition, phrase: "Nation state is composed of two words nation and state"}
+      - {slug: nationalism-political-religion, phrase: "nationalism can absorb other ideas"}
+      - {slug: rousseau-general-will, phrase: "something called the general will which is the collective mind of the people"}
+      - {slug: german-romantic-geist, phrase: "The Germans believe in the gist"}
+      - {slug: eugenics-origin, phrase: "this also leads to the idea of eugenics"}
+      - {slug: sets-up-stalin-america-close, phrase: "we're going to focus in Tyler Stalin next class"}
+    claim_refs:
+      - "#nation-state-definition"
+      - "#nationalism-political-religion"
+      - "#rousseau-general-will"
+      - "#german-romantic-geist"
+      - "#eugenics-origin"
+      - "#sets-up-stalin-america-close"
+  civ-59:
+    part_id: part-10-rise-of-the-nation-state
+    sections:
+      - {slug: stalin-greatest-man-thesis, phrase: "Joseph Stalin is probably the greatest man who ever lived"}
+      - {slug: stalin-willed-reality, phrase: "Stalin willed this reality into being"}
+      - {slug: lenin-secret-police-sponsorship, phrase: "The secret police was a active supporter of Vladimir Lenin"}
+      - {slug: continuous-revolution-purge, phrase: "he maintains the the stability and the vitality of the revolution is by constantly purging his enemies"}
+      - {slug: great-purge-show-trials, phrase: "something called the great purge which is continued revolution"}
+      - {slug: operation-barbarossa-counterfactual, phrase: "Hitler launches operation barbarosa"}
+    claim_refs:
+      - "#stalin-greatest-man-thesis"
+      - "#stalin-willed-reality"
+      - "#lenin-secret-police-sponsorship"
+      - "#continuous-revolution-purge"
+      - "#great-purge-show-trials"
+      - "#operation-barbarossa-counterfactual"
+  civ-60:
+    part_id: part-10-rise-of-the-nation-state
+    sections:
+      - {slug: bretton-woods-reserve-currency, phrase: "The American currency will become the reserve currency of the world"}
+      - {slug: exorbitant-privilege, phrase: "exorbitant privilege"}
+      - {slug: pax-americana-rules-order, phrase: "In the fact of Americana, what matters is the international rulesbased order"}
+      - {slug: easy-money-destroy-nations, phrase: "If you want to nuke an economy and a nation you really want to destroy an economy in a nation give them easy money"}
+      - {slug: putin-ukraine-resources-pyramid, phrase: "Russia invaded Ukraine because if Russia were able to dominate Ukraine"}
+      - {slug: course-close-imagination-love, phrase: "The imagination is the animating animating force of the universe"}
+    claim_refs:
+      - "#bretton-woods-reserve-currency"
+      - "#exorbitant-privilege"
+      - "#pax-americana-rules-order"
+      - "#easy-money-destroy-nations"
+      - "#putin-ukraine-resources-pyramid"
+      - "#course-close-imagination-love"

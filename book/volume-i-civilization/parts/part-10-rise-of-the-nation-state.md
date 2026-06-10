@@ -27,6 +27,13 @@ _No interwoven companions in this Part._
 - [plato-to-hegel](../../../data/corridors/plato-to-hegel.md)
 - [civilization-to-apocalypse](../../parts/civilization-to-apocalypse.md)
 
+## Apparatus
+
+- [Part X commentary](part-10-rise-of-the-nation-state-commentary.md) — **Phase 3 complete** (`civ-54`–`60` pin-cited; ledger/corridor synthesis closed; civilization-to-apocalypse exit)
+- [Part X bibliography](part-10-rise-of-the-nation-state-bibliography.md) — wedge stub with `supports:`/`counters:`; `civ-60` heavy counter-readings
+- [Part X hybrid readiness](PART-10-HYBRID-READINESS.md) — inventory + rollout phases
+- Cross-Part ingress: [Part IX `civ-53`](part-09-age-of-conscience.md)
+
 ## Navigation
 
 - **Previous:** [Part IX — The Age of Conscience](part-09-age-of-conscience.md)

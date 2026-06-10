@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +62,12 @@ Every claim below is tied to the transcript body in civ-54-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture completes the Russian/German/British/American modern civilization comparison. | civ-54-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | Prussia and Konigsberg are framed as creative centers, not only militaristic formations. | civ-54-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | Prussian education, reform, and welfare-state policy are treated as sources of German strength. | civ-54-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | German civilization is organized around unity of will. | civ-54-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | Schopenhauer, Nietzsche, and Wagner are used to explain a turn from Christianity toward paganized will. | civ-54-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | Hitler and Nazism are interpreted as catastrophic mobilizations of unity of will. | civ-54-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The lecture completes the Russian/German/British/American modern civilization comparison. | `civ-54-transcript.md#unity-of-will-german` | Explicit / Strong Implied | High |
+| 2 | Prussia and Konigsberg are framed as creative centers, not only militaristic formations. | `civ-54-transcript.md#prussia-not-militarist-myth` | Explicit / Strong Implied | High |
+| 3 | Prussian education, reform, and welfare-state policy are treated as sources of German strength. | `civ-54-transcript.md#frederick-great-reforms` | Explicit / Strong Implied | High |
+| 4 | German civilization is organized around unity of will. | `civ-54-transcript.md#prussian-education-meritocracy` | Explicit / Strong Implied | High |
+| 5 | Schopenhauer, Nietzsche, and Wagner are used to explain a turn from Christianity toward paganized will. | `civ-54-transcript.md#wagner-unity-of-will` | Explicit / Strong Implied | High |
+| 6 | Hitler and Nazism are interpreted as catastrophic mobilizations of unity of will. | `civ-54-transcript.md#hitler-catastrophic-mobilization` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

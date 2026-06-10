@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -57,12 +57,12 @@ Every claim below is tied to the transcript body in civ-57-transcript.md.
 ### Major Claims
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | Freud is placed after Kant, Hegel, and Marx as the next major theorist to change how the individual and civilization are understood. | civ-57-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | The lecture frames modernism as a cult of the self emerging from crisis of faith, city abstraction, psychology, and psychoanalysis. | civ-57-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | Freud's id, ego, superego, Oedipus complex, and Electra complex are presented as a theory of unconscious sexual drives beneath identity and civilization. | civ-57-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | Jung is introduced as systematizing the unconscious through conscious, personal unconscious, collective unconscious, persona, shadow, and self. | civ-57-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | The lecture distinguishes early Freud's trauma advocacy from later Freud's theory of fantasy, hysteria, and sexuality. | civ-57-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | Freud's popularity is interpreted as serving powerful interests and helping protect social elites from trauma claims. | civ-57-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | Freud is placed after Kant, Hegel, and Marx as the next major theorist to change how the individual and civilization are understood. | `civ-57-transcript.md#freud-after-kant-hegel-marx` | Explicit / Strong Implied | High |
+| 2 | The lecture frames modernism as a cult of the self emerging from crisis of faith, city abstraction, psychology, and psychoanalysis. | `civ-57-transcript.md#modernism-cult-of-self` | Explicit / Strong Implied | High |
+| 3 | Freud's id, ego, superego, Oedipus complex, and Electra complex are presented as a theory of unconscious sexual drives beneath identity and civilization. | `civ-57-transcript.md#id-ego-superego` | Explicit / Strong Implied | High |
+| 4 | Jung is introduced as systematizing the unconscious through conscious, personal unconscious, collective unconscious, persona, shadow, and self. | `civ-57-transcript.md#jung-collective-unconscious` | Explicit / Strong Implied | High |
+| 5 | The lecture distinguishes early Freud's trauma advocacy from later Freud's theory of fantasy, hysteria, and sexuality. | `civ-57-transcript.md#freud-trauma-then-fantasy` | Explicit / Strong Implied | High |
+| 6 | Freud's popularity is interpreted as serving powerful interests and helping protect social elites from trauma claims. | `civ-57-transcript.md#freud-protects-powerful-interests` | Explicit / Strong Implied | High |
 ### Core Concepts Defined
 - **Modernism as cult of the self:** the lecture's working definition of modernism as a culture centered on self-exploration, self-improvement, and self-empowerment.
 - **Unconscious:** Freud and Jung's shared field of hidden psychic forces, memories, desires, archetypes, and social inheritance.

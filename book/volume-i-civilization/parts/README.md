@@ -14,7 +14,7 @@ Ten **Part doorways** overlay the [interwoven civilization spine](../interwoven-
 
 | Part | Title | Chapters | Doorway |
 |------|-------|----------|---------|
-| I | The Dawn of Civilization | `civ-01`–`06` | [part-01-dawn-of-civilization.md](part-01-dawn-of-civilization.md) |
+| I | The Dawn of Civilization | `civ-01`–`06` | [part-01-dawn-of-civilization.md](part-01-dawn-of-civilization.md) · [commentary](part-01-dawn-of-civilization-commentary.md) |
 | II | The Hellenic World | `civ-07`–`13` | [part-02-hellenic-world.md](part-02-hellenic-world.md) |
 | III | The Roman Imperium | `civ-14`–`17` | [part-03-roman-imperium.md](part-03-roman-imperium.md) |
 | IV | The Ancient Foundations | `civ-18`–`23` | [part-04-ancient-foundations.md](part-04-ancient-foundations.md) |
@@ -32,6 +32,8 @@ Ten **Part doorways** overlay the [interwoven civilization spine](../interwoven-
 | VI | Dante and Roman imagination through Holy Roman fiction |
 | VII | Eurasian orders after Rome; Dante returns at close |
 | VIII | Reformation through Britannia; plato-to-hegel modernity rupture |
+| IX | Shakespeare through Dostoevsky; homer-to-tolstoy steps 4–5; civ-to-apocalypse ingress |
+| X | Nation-state through American close; plato-to-hegel + Apocalypse exit |
 
 ## Reading law
 
@@ -48,7 +50,7 @@ When a Part has thick synthesis, use three sibling files:
 | `part-NN-{slug}-commentary.md` | Thick synthesis — prediction ledger, gb sections, counter-readings |
 | `part-NN-{slug}-bibliography.md` | External sources — tagged `supports: civ-NN` / `gb-NN` |
 
-**Hybrid pilot:** Part II + Part III + Part IV + Part V + Part VI — **complete** through Phase 3; Part II–III pin-cite **Cleared**. Part V — [PART-05-HYBRID-READINESS.md](PART-05-HYBRID-READINESS.md). Part VI (`civ-29`–`34`, `gb-09`–`gb-12`) — Phase 3 validator/docs **Done** (2026-06-09): [part-06-medieval-imagination-commentary.md](part-06-medieval-imagination-commentary.md), [PART-06-HYBRID-READINESS.md](PART-06-HYBRID-READINESS.md). Part VII (`civ-35`–`41`, `gb-10` @ `civ-41`) — **Phase 3 complete** (2026-06-09): all seven chapters pin-cited; ledger/corridor/bib synthesis closed; `scripts/part_vii_pin_cite_prep.py`; [part-07-world-after-rome-commentary.md](part-07-world-after-rome-commentary.md), [PART-07-HYBRID-READINESS.md](PART-07-HYBRID-READINESS.md). Part VIII (`civ-42`–`50`) — **Phase 3 complete** (2026-06-10): all nine chapters pin-cited; ledger/corridor/bib synthesis closed; `scripts/part_viii_pin_cite_prep.py`; [part-08-birth-of-modernity-commentary.md](part-08-birth-of-modernity-commentary.md), [PART-08-HYBRID-READINESS.md](PART-08-HYBRID-READINESS.md). Slimming deferred to final pass. Parts IX–X not started.
+**Hybrid pilot:** Part I (`civ-01`–`06`, `gb-01`/`gb-03`/`gb-04`, `sh-11` @ `civ-01`) — **Phase 3 complete** (2026-06-10): all six chapters pin-cited; ledger/Part II ingress closed; `scripts/part_i_pin_cite_prep.py`; [part-01-dawn-of-civilization-commentary.md](part-01-dawn-of-civilization-commentary.md), [PART-01-HYBRID-READINESS.md](PART-01-HYBRID-READINESS.md). Part II + Part III + Part IV + Part V + Part VI — **complete** through Phase 3; Part II–III pin-cite **Cleared**. Part V — [PART-05-HYBRID-READINESS.md](PART-05-HYBRID-READINESS.md). Part VI (`civ-29`–`34`, `gb-09`–`gb-12`) — Phase 3 validator/docs **Done** (2026-06-09): [part-06-medieval-imagination-commentary.md](part-06-medieval-imagination-commentary.md), [PART-06-HYBRID-READINESS.md](PART-06-HYBRID-READINESS.md). Part VII (`civ-35`–`41`, `gb-10` @ `civ-41`) — **Phase 3 complete** (2026-06-09): all seven chapters pin-cited; ledger/corridor/bib synthesis closed; `scripts/part_vii_pin_cite_prep.py`; [part-07-world-after-rome-commentary.md](part-07-world-after-rome-commentary.md), [PART-07-HYBRID-READINESS.md](PART-07-HYBRID-READINESS.md). Part VIII (`civ-42`–`50`) — **Phase 3 complete** (2026-06-10): all nine chapters pin-cited; ledger/corridor/bib synthesis closed; `scripts/part_viii_pin_cite_prep.py`; [part-08-birth-of-modernity-commentary.md](part-08-birth-of-modernity-commentary.md), [PART-08-HYBRID-READINESS.md](PART-08-HYBRID-READINESS.md). Part IX (`civ-51`–`53`, `sh-16` @ `civ-53`) — **Phase 3 complete** (2026-06-10): all three chapters pin-cited; `sh-16` pointer; ledger/corridor/bib synthesis closed; `scripts/part_ix_pin_cite_prep.py`; [part-09-age-of-conscience-commentary.md](part-09-age-of-conscience-commentary.md), [PART-09-HYBRID-READINESS.md](PART-09-HYBRID-READINESS.md). Part X (`civ-54`–`60`) — **Phase 3 complete** (2026-06-10): all seven chapters pin-cited; plato-to-hegel + civilization-to-apocalypse exit closed; `scripts/part_x_pin_cite_prep.py`; [part-10-rise-of-the-nation-state-commentary.md](part-10-rise-of-the-nation-state-commentary.md), [PART-10-HYBRID-READINESS.md](PART-10-HYBRID-READINESS.md). Slimming deferred to final pass.
 
 Registry fields (optional per part): `commentary_path`, `bibliography_path` in [`volume-i-parts.json`](../../../data/parts/volume-i-parts.json).
 

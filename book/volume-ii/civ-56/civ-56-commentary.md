@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -57,12 +57,12 @@ Every claim below is tied to the transcript body in civ-56-transcript.md.
 ### Major Claims
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | Marx is presented as building on Kant and Hegel by turning Geist and dialectic into dialectical materialism and class struggle. | civ-56-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | The lecture treats Marx's diagnosis of capitalism as powerful, especially around imperial expansion, inequality, and alienation. | civ-56-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | Marx's historical prophecy is challenged because the lecture argues religion precedes economics in the rise of agriculture, civilization, and capitalism. | civ-56-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | The lecture claims capitalism and communism share a materialist religion of economics and reinforce each other despite political opposition. | civ-56-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | China and Russia are framed as peasant revolutions with communist ideology rather than the proletarian revolutions Marx expected. | civ-56-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | The unit points forward to Freud as the next intellectual revolution after Kant, Hegel, and Marx. | civ-56-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | Marx is presented as building on Kant and Hegel by turning Geist and dialectic into dialectical materialism and class struggle. | `civ-56-transcript.md#marx-dialectical-materialism` | Explicit / Strong Implied | High |
+| 2 | The lecture treats Marx's diagnosis of capitalism as powerful, especially around imperial expansion, inequality, and alienation. | `civ-56-transcript.md#marx-capitalism-diagnosis` | Explicit / Strong Implied | High |
+| 3 | Marx's historical prophecy is challenged because the lecture argues religion precedes economics in the rise of agriculture, civilization, and capitalism. | `civ-56-transcript.md#religion-before-economics` | Explicit / Strong Implied | High |
+| 4 | The lecture claims capitalism and communism share a materialist religion of economics and reinforce each other despite political opposition. | `civ-56-transcript.md#marx-three-mistakes-religion` | Explicit / Strong Implied | High |
+| 5 | China and Russia are framed as peasant revolutions with communist ideology rather than the proletarian revolutions Marx expected. | `civ-56-transcript.md#capitalism-communism-same-religion` | Explicit / Strong Implied | High |
+| 6 | The unit points forward to Freud as the next intellectual revolution after Kant, Hegel, and Marx. | `civ-56-transcript.md#freud-forward-pointer` | Explicit / Strong Implied | High |
 ### Core Concepts Defined
 - **Dialectical materialism:** the lecture account of Marx converting Hegelian dialectic into material class conflict.
 - **Alienation:** Marx's diagnosis that capitalism separates people from labor, self, nature, and human community.

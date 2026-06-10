@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 # Commentary - Civilization
@@ -50,12 +50,12 @@ Every claim below is tied to the transcript body in civ-60-transcript.md.
 ### Major Claims
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture treats Bretton Woods and the dollar reserve system as the foundation of postwar American imperial power. | civ-60-transcript.md:31 | Explicit / Strong Implied | High |
-| 2 | Central banks are framed as coordinated institutions that shape political economy across nation-states. | civ-60-transcript.md:31 | Explicit / Strong Implied | High |
-| 3 | Pax Americana is contrasted with World War II through rules-based order, global free trade, consumerism, and financialization. | civ-60-transcript.md:31 | Explicit / Strong Implied | High |
-| 4 | Japan, the Plaza Accord, the Asian financial crisis, the 2008 crisis, and China are used as examples of easy money and financial dependency. | civ-60-transcript.md:31 | Explicit / Strong Implied | High |
-| 5 | Russia, Ukraine, Iran, Israel, Trump, and NATO are used to present a live grand-strategy forecast about American imperial stress. | civ-60-transcript.md:31 | Explicit / Strong Implied | High |
-| 6 | The course closes by returning to imagination and love as the human answer to civilizational darkness. | civ-60-transcript.md:31 | Explicit / Strong Implied | High |
+| 1 | The lecture treats Bretton Woods and the dollar reserve system as the foundation of postwar American imperial power. | `civ-60-transcript.md#bretton-woods-reserve-currency` | Explicit / Strong Implied | High |
+| 2 | Central banks are framed as coordinated institutions that shape political economy across nation-states. | `civ-60-transcript.md#exorbitant-privilege` | Explicit / Strong Implied | High |
+| 3 | Pax Americana is contrasted with World War II through rules-based order, global free trade, consumerism, and financialization. | `civ-60-transcript.md#pax-americana-rules-order` | Explicit / Strong Implied | High |
+| 4 | Japan, the Plaza Accord, the Asian financial crisis, the 2008 crisis, and China are used as examples of easy money and financial dependency. | `civ-60-transcript.md#easy-money-destroy-nations` | Explicit / Strong Implied | High |
+| 5 | Russia, Ukraine, Iran, Israel, Trump, and NATO are used to present a live grand-strategy forecast about American imperial stress. | `civ-60-transcript.md#putin-ukraine-resources-pyramid` | Explicit / Strong Implied | High |
+| 6 | The course closes by returning to imagination and love as the human answer to civilizational darkness. | `civ-60-transcript.md#course-close-imagination-love` | Explicit / Strong Implied | High |
 ### Core Concepts Defined
 - **Exorbitant privilege:** the lecture description of dollar reserve power as the ability to turn paper into global claim-power.
 - **Easy money:** money treated as free or unearned, producing debt, bubbles, speculation, and long-term dependency.

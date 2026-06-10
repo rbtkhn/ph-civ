@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 # Commentary - Civilization
@@ -50,12 +50,12 @@ Every claim below is tied to the transcript body in civ-58-transcript.md.
 ### Major Claims
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture presents the nation-state as a convergence of religious, economic, and social-cultural pressures. | civ-58-transcript.md:31 | Explicit / Strong Implied | High |
-| 2 | Nationalism is described as a political religion that can absorb liberalism and communism. | civ-58-transcript.md:31 | Explicit / Strong Implied | High |
-| 3 | French nationalism is framed through Rousseau, the general will, citizenship, rights, and revolutionary state-building. | civ-58-transcript.md:31 | Explicit / Strong Implied | High |
-| 4 | German nationalism is framed through romanticism, culture, language, Geist, and resistance to French domination. | civ-58-transcript.md:31 | Explicit / Strong Implied | High |
-| 5 | Race science, eugenics, imperialism, World War I, fascism, and totalitarianism are treated as downstream or adjacent nation-state developments. | civ-58-transcript.md:31 | Explicit / Strong Implied | High |
-| 6 | The chapter explicitly sets up the final two classes on the Soviet Union and the American Empire. | civ-58-transcript.md:31 | Explicit / Strong Implied | High |
+| 1 | The lecture presents the nation-state as a convergence of religious, economic, and social-cultural pressures. | `civ-58-transcript.md#nation-state-definition` | Explicit / Strong Implied | High |
+| 2 | Nationalism is described as a political religion that can absorb liberalism and communism. | `civ-58-transcript.md#nationalism-political-religion` | Explicit / Strong Implied | High |
+| 3 | French nationalism is framed through Rousseau, the general will, citizenship, rights, and revolutionary state-building. | `civ-58-transcript.md#rousseau-general-will` | Explicit / Strong Implied | High |
+| 4 | German nationalism is framed through romanticism, culture, language, Geist, and resistance to French domination. | `civ-58-transcript.md#german-romantic-geist` | Explicit / Strong Implied | High |
+| 5 | Race science, eugenics, imperialism, World War I, fascism, and totalitarianism are treated as downstream or adjacent nation-state developments. | `civ-58-transcript.md#eugenics-origin` | Explicit / Strong Implied | High |
+| 6 | The chapter explicitly sets up the final two classes on the Soviet Union and the American Empire. | `civ-58-transcript.md#sets-up-stalin-america-close` | Explicit / Strong Implied | High |
 ### Core Concepts Defined
 - **Nation-state:** the lecture pairing of sovereign territorial state with a people imagined through shared identity.
 - **Nationalism as political religion:** the chapter claim that the nation can become the object of faith, sacrifice, and belonging.

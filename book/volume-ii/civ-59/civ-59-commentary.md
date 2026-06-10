@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 # Commentary - Civilization
@@ -50,12 +50,12 @@ Every claim below is tied to the transcript body in civ-59-transcript.md.
 ### Major Claims
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture argues that Stalin willed unlikely historical outcomes into being. | civ-59-transcript.md:31 | Explicit / Strong Implied | High |
-| 2 | Russian revolutionary politics are framed through secret police manipulation, extremist sponsorship, Lenin, Trotsky, and Bolshevik organization. | civ-59-transcript.md:31 | Explicit / Strong Implied | High |
-| 3 | Stalin is described as a spy-like operator who used silence, emotional intelligence, loyalty, and patronage to defeat ideological rivals. | civ-59-transcript.md:31 | Explicit / Strong Implied | High |
-| 4 | The great purge and show trials are treated as both terror and as part of Stalin's consolidation of absolute power. | civ-59-transcript.md:31 | Explicit / Strong Implied | High |
-| 5 | The lecture offers a controversial counterfactual that Stalin manipulated World War II conditions to secure American support against Germany. | civ-59-transcript.md:31 | Explicit / Strong Implied | High |
-| 6 | Putin is introduced as a later figure who may operate strategically in a Stalin-like world-historical register. | civ-59-transcript.md:31 | Explicit / Strong Implied | High |
+| 1 | The lecture argues that Stalin willed unlikely historical outcomes into being. | `civ-59-transcript.md#stalin-greatest-man-thesis` | Explicit / Strong Implied | High |
+| 2 | Russian revolutionary politics are framed through secret police manipulation, extremist sponsorship, Lenin, Trotsky, and Bolshevik organization. | `civ-59-transcript.md#stalin-willed-reality` | Explicit / Strong Implied | High |
+| 3 | Stalin is described as a spy-like operator who used silence, emotional intelligence, loyalty, and patronage to defeat ideological rivals. | `civ-59-transcript.md#lenin-secret-police-sponsorship` | Explicit / Strong Implied | High |
+| 4 | The great purge and show trials are treated as both terror and as part of Stalin's consolidation of absolute power. | `civ-59-transcript.md#continuous-revolution-purge` | Explicit / Strong Implied | High |
+| 5 | The lecture offers a controversial counterfactual that Stalin manipulated World War II conditions to secure American support against Germany. | `civ-59-transcript.md#great-purge-show-trials` | Explicit / Strong Implied | High |
+| 6 | Putin is introduced as a later figure who may operate strategically in a Stalin-like world-historical register. | `civ-59-transcript.md#operation-barbarossa-counterfactual` | Explicit / Strong Implied | High |
 ### Core Concepts Defined
 - **Priest versus spy:** the lecture contrast between ideological truth-seekers and power operators.
 - **Continuous revolution:** Stalin's rule framed as permanent purging and renewal inside the Soviet system.

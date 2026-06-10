@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
 
@@ -62,12 +62,12 @@ Every claim below is tied to the transcript body in civ-55-transcript.md.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture presents Kant as clarifying and rationalizing a Dantean thesis about imagination and love. | civ-55-transcript.md:29 | Explicit / Strong Implied | High |
-| 2 | Kant is introduced through Plato, Aristotle, rationalism, empiricism, skepticism, and the Critique of Pure Reason. | civ-55-transcript.md:29 | Explicit / Strong Implied | High |
-| 3 | Synthetic a priori knowledge and transcendental idealism are treated as Kant's central contribution. | civ-55-transcript.md:29 | Explicit / Strong Implied | High |
-| 4 | Hegel is presented as resolving unresolved Kantian problems through Geist and dialectic. | civ-55-transcript.md:29 | Explicit / Strong Implied | High |
-| 5 | Hegel is linked to Marx, God-is-dead language, and the nation-state. | civ-55-transcript.md:29 | Explicit / Strong Implied | High |
-| 6 | Kant and Hegel are connected to neuroscience, artificial intelligence, relativity, quantum mechanics, and modern scientific imagination. | civ-55-transcript.md:29 | Explicit / Strong Implied | High |
+| 1 | The lecture presents Kant as clarifying and rationalizing a Dantean thesis about imagination and love. | `civ-55-transcript.md#kant-dante-imagination-love` | Explicit / Strong Implied | High |
+| 2 | Kant is introduced through Plato, Aristotle, rationalism, empiricism, skepticism, and the Critique of Pure Reason. | `civ-55-transcript.md#critique-of-pure-reason` | Explicit / Strong Implied | High |
+| 3 | Synthetic a priori knowledge and transcendental idealism are treated as Kant's central contribution. | `civ-55-transcript.md#synthetic-a-priori` | Explicit / Strong Implied | High |
+| 4 | Hegel is presented as resolving unresolved Kantian problems through Geist and dialectic. | `civ-55-transcript.md#hegel-geist-resolution` | Explicit / Strong Implied | High |
+| 5 | Hegel is linked to Marx, God-is-dead language, and the nation-state. | `civ-55-transcript.md#hegel-dialectic` | Explicit / Strong Implied | High |
+| 6 | Kant and Hegel are connected to neuroscience, artificial intelligence, relativity, quantum mechanics, and modern scientific imagination. | `civ-55-transcript.md#kant-hegel-science-bridge` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

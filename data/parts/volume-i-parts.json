@@ -456,6 +456,8 @@
       ],
       "spine_slice_warning": false,
       "doorway_path": "book/volume-i-civilization/parts/part-10-rise-of-the-nation-state.md",
+      "commentary_path": "book/volume-i-civilization/parts/part-10-rise-of-the-nation-state-commentary.md",
+      "bibliography_path": "book/volume-i-civilization/parts/part-10-rise-of-the-nation-state-bibliography.md",
       "previous_part_id": "part-09-age-of-conscience",
       "next_part_id": null,
       "exit_hook": "Volume II \u2014 Apocalypse (ph-apo) via civilization-to-apocalypse bridge",
