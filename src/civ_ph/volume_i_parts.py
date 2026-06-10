@@ -205,80 +205,22 @@ def validate_volume_i_parts(
                 if not bibliography_file.is_file():
                     errors.append(f"{part_id} missing bibliography: {bibliography_path}")
 
-        if part_id == "part-02-hellenic-world" and commentary_path:
+        if commentary_path and bibliography_path:
+            commentary_basename = Path(commentary_path).name
+            bibliography_basename = Path(bibliography_path).name
             for civ_id in chapters:
                 readme = PACKAGE_ROOT / "book" / "volume-ii" / civ_id / "README.md"
                 if not readme.is_file():
-                    errors.append(f"{part_id} missing chapter README: {readme.relative_to(PACKAGE_ROOT)}")
+                    errors.append(
+                        f"{part_id} missing chapter README: "
+                        f"{readme.relative_to(PACKAGE_ROOT)}"
+                    )
                     continue
                 readme_text = readme.read_text(encoding="utf-8")
-                if "part-02-hellenic-world-commentary.md" not in readme_text:
-                    errors.append(f"{civ_id} README missing Part II commentary link")
-                if "part-02-hellenic-world-bibliography.md" not in readme_text:
-                    errors.append(f"{civ_id} README missing Part II bibliography link")
-
-        if part_id == "part-03-roman-imperium" and commentary_path:
-            for civ_id in chapters:
-                readme = PACKAGE_ROOT / "book" / "volume-ii" / civ_id / "README.md"
-                if not readme.is_file():
-                    errors.append(f"{part_id} missing chapter README: {readme.relative_to(PACKAGE_ROOT)}")
-                    continue
-                readme_text = readme.read_text(encoding="utf-8")
-                if "part-03-roman-imperium-commentary.md" not in readme_text:
-                    errors.append(f"{civ_id} README missing Part III commentary link")
-                if "part-03-roman-imperium-bibliography.md" not in readme_text:
-                    errors.append(f"{civ_id} README missing Part III bibliography link")
-
-        if part_id == "part-04-ancient-foundations" and commentary_path:
-            for civ_id in chapters:
-                readme = PACKAGE_ROOT / "book" / "volume-ii" / civ_id / "README.md"
-                if not readme.is_file():
-                    errors.append(f"{part_id} missing chapter README: {readme.relative_to(PACKAGE_ROOT)}")
-                    continue
-                readme_text = readme.read_text(encoding="utf-8")
-                if "part-04-ancient-foundations-commentary.md" not in readme_text:
-                    errors.append(f"{civ_id} README missing Part IV commentary link")
-                if "part-04-ancient-foundations-bibliography.md" not in readme_text:
-                    errors.append(f"{civ_id} README missing Part IV bibliography link")
-
-        if part_id == "part-05-christianity-and-islam" and commentary_path:
-            for civ_id in chapters:
-                readme = PACKAGE_ROOT / "book" / "volume-ii" / civ_id / "README.md"
-                if not readme.is_file():
-                    errors.append(f"{part_id} missing chapter README: {readme.relative_to(PACKAGE_ROOT)}")
-                    continue
-                readme_text = readme.read_text(encoding="utf-8")
-                if "part-05-christianity-and-islam-commentary.md" not in readme_text:
-                    errors.append(f"{civ_id} README missing Part V commentary link")
-                if "part-05-christianity-and-islam-bibliography.md" not in readme_text:
-                    errors.append(f"{civ_id} README missing Part V bibliography link")
-
-        if part_id == "part-06-medieval-imagination" and commentary_path:
-            for civ_id in chapters:
-                readme = PACKAGE_ROOT / "book" / "volume-ii" / civ_id / "README.md"
-                if not readme.is_file():
-                    errors.append(f"{part_id} missing chapter README: {readme.relative_to(PACKAGE_ROOT)}")
-                    continue
-                readme_text = readme.read_text(encoding="utf-8")
-                if "part-06-medieval-imagination-commentary.md" not in readme_text:
-                    errors.append(f"{civ_id} README missing Part VI commentary link")
-                if "part-06-medieval-imagination-bibliography.md" not in readme_text:
-                    errors.append(f"{civ_id} README missing Part VI bibliography link")
-
-        if part_id == "part-07-world-after-rome" and commentary_path:
-            for civ_id in chapters:
-                if civ_id not in chapters:
-                    errors.append(f"{part_id} missing wedge chapter in spine: {civ_id}")
-                    continue
-                readme = PACKAGE_ROOT / "book" / "volume-ii" / civ_id / "README.md"
-                if not readme.is_file():
-                    errors.append(f"{part_id} missing chapter README: {readme.relative_to(PACKAGE_ROOT)}")
-                    continue
-                readme_text = readme.read_text(encoding="utf-8")
-                if "part-07-world-after-rome-commentary.md" not in readme_text:
-                    errors.append(f"{civ_id} README missing Part VII commentary link")
-                if "part-07-world-after-rome-bibliography.md" not in readme_text:
-                    errors.append(f"{civ_id} README missing Part VII bibliography link")
+                if commentary_basename not in readme_text:
+                    errors.append(f"{civ_id} README missing commentary link ({commentary_basename})")
+                if bibliography_basename not in readme_text:
+                    errors.append(f"{civ_id} README missing bibliography link ({bibliography_basename})")
 
         if require_chapter_anchors and not part.get("chapter_anchors"):
             errors.append(f"{part_id} missing chapter_anchors")

@@ -1,0 +1,118 @@
+schema_version: 1
+description: >
+  Pin-cite anchor manifest SSOT for Volume I hybrid apparatus.
+  sections = lecture-order ### rails; claim_refs = commentary L2 row order.
+chapters:
+  civ-35:
+    part_id: part-07-world-after-rome
+    sections:
+      - {slug: fifth-pillar-thesis, phrase: "five pillars"}
+      - {slug: viking-age-frame, phrase: "793 to 1066"}
+      - {slug: normandy-england-afterlife, phrase: "normandy the normans"}
+      - {slug: expansion-settlement-trade, phrase: "settlements the first"}
+      - {slug: community-before-individual, phrase: "community is distinct from the individual"}
+      - {slug: premodern-race-contrast, phrase: "race and racism"}
+    claim_refs:
+      - "#fifth-pillar-thesis"
+      - "#viking-age-frame"
+      - "#expansion-settlement-trade"
+      - "#normandy-england-afterlife"
+      - "#community-before-individual"
+      - "#premodern-race-contrast"
+  civ-36:
+    part_id: part-07-world-after-rome
+    sections:
+      - {slug: oral-reconstruction-limit, phrase: "purposefully an oral tradition"}
+      - {slug: archaeology-graves, phrase: "dig up their graves"}
+      - {slug: oral-intimacy-imagination, phrase: "intimacy and bonding"}
+      - {slug: literary-shame-watchfulness, phrase: "shame you're very conscious"}
+      - {slug: homer-dante-shakespeare, phrase: "dante and shakespeare"}
+      - {slug: civilization-creativity-loss, phrase: "less creative because of civilization"}
+    claim_refs:
+      - "#oral-reconstruction-limit"
+      - "#archaeology-graves"
+      - "#oral-intimacy-imagination"
+      - "#literary-shame-watchfulness"
+      - "#homer-dante-shakespeare"
+      - "#civilization-creativity-loss"
+  civ-37:
+    part_id: part-07-world-after-rome
+    sections:
+      - {slug: golden-age-divergence, phrase: "dark ages uh islam was embarked"}
+      - {slug: islam-sunni-shia-orientation, phrase: "shia which is based primarily"}
+      - {slug: baghdad-cosmopolitan-center, phrase: "baghdad okay it"}
+      - {slug: house-of-wisdom-translation, phrase: "house of wisdom and it"}
+      - {slug: golden-age-decline-mongols, phrase: "mongols will sack baghdad"}
+      - {slug: empire-literature-threshold, phrase: "when it becomes an empire"}
+    claim_refs:
+      - "#golden-age-divergence"
+      - "#islam-sunni-shia-orientation"
+      - "#baghdad-cosmopolitan-center"
+      - "#house-of-wisdom-translation"
+      - "#golden-age-decline-mongols"
+      - "#empire-literature-threshold"
+  civ-38:
+    part_id: part-07-world-after-rome
+    sections:
+      - {slug: china-model-test, phrase: "china um obviously we are in china"}
+      - {slug: four-inventions-creativity, phrase: "compass paper print"}
+      - {slug: hundred-schools-foundations, phrase: "hundred schools"}
+      - {slug: open-cooperative-competition, phrase: "open cooperative"}
+      - {slug: examination-center-control, phrase: "examination that um promoted bureaucrats"}
+      - {slug: confucian-bureaucratic-legitimation, phrase: "bureaucratic"}
+    claim_refs:
+      - "#china-model-test"
+      - "#four-inventions-creativity"
+      - "#hundred-schools-foundations"
+      - "#open-cooperative-competition"
+      - "#confucian-bureaucratic-legitimation"
+      - "#examination-center-control"
+  civ-39:
+    part_id: part-07-world-after-rome
+    sections:
+      - {slug: mongol-brutality-constraints, phrase: "mongols have a terrible reputation for their brutality"}
+      - {slug: nomadic-pastoral-culture, phrase: "nomadic pastoral"}
+      - {slug: steppe-agricultural-contrast, phrase: "agricultural empires"}
+      - {slug: walls-fortifications-response, phrase: "great wall of of china"}
+      - {slug: mongol-specialist-absorption, phrase: "indian engineers"}
+      - {slug: mythology-cultural-values, phrase: "mythology"}
+    claim_refs:
+      - "#mongol-brutality-constraints"
+      - "#nomadic-pastoral-culture"
+      - "#steppe-agricultural-contrast"
+      - "#walls-fortifications-response"
+      - "#mongol-specialist-absorption"
+      - "#mythology-cultural-values"
+  civ-40:
+    part_id: part-07-world-after-rome
+    sections:
+      - {slug: opening-crusades-bridge, phrase: "doing the crusades"}
+      - {slug: jesus-poverty-contrast, phrase: "camel to go through"}
+      - {slug: roman-successor-church, phrase: "catholic church basically became"}
+      - {slug: salvation-orthodoxy-power, phrase: "enforce right thinking"}
+      - {slug: scapegoating-mechanism, phrase: "scapegoat"}
+      - {slug: afterlife-worldview, phrase: "happy afterlife"}
+    claim_refs:
+      - "#opening-crusades-bridge"
+      - "#jesus-poverty-contrast"
+      - "#roman-successor-church"
+      - "#salvation-orthodoxy-power"
+      - "#scapegoating-mechanism"
+      - "#afterlife-worldview"
+  civ-41:
+    part_id: part-07-world-after-rome
+    sections:
+      - {slug: opening-renaissance-question, phrase: "how did the Renaissance start"}
+      - {slug: greece-christian-modernity, phrase: "re-imagining of classical Greece"}
+      - {slug: italian-citystates-competition, phrase: "city states of Italy"}
+      - {slug: divine-comedy-imagination, phrase: "Divine Comedy"}
+      - {slug: dante-most-responsible, phrase: "Dante is most responsible"}
+      - {slug: michelangelo-creation-adam, phrase: "Creation of Adam"}
+      - {slug: quiet-revolution-poetry, phrase: "peacefully through the power of poetry"}
+    claim_refs:
+      - "#greece-christian-modernity"
+      - "#italian-citystates-competition"
+      - "#dante-most-responsible"
+      - "#divine-comedy-imagination"
+      - "#michelangelo-creation-adam"
+      - "#quiet-revolution-poetry"
