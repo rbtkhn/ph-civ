@@ -129,7 +129,7 @@ HTML pages are generated from bundles; markdown sources stay authoritative.
 | `book/volume-i-civilization/interwoven-reader/README.md` | Canonical chapter order | — |
 | `data/cards/*.md` | Orientation card (footer) | — |
 
-**Manifest gap (2026-06-10):** `volume-i-anchors.yaml` covers Parts I, VII–X. Parts II–VI chapters (including pilot `civ-07`) have Tier-A `#anchor` discipline via legacy prep scripts but are **not yet in the manifest**. Pilot builder must parse transcript `###` + commentary L2 tables directly; extend manifest before batch site generation.
+**Manifest gap (2026-06-12):** Part II (`civ-07`–`13`) is in the manifest. Parts III–VI chapters still parse transcript `###` + commentary L2 directly until manifest extension.
 
 **Do not read:** `strategy-codex` paths, private notes, `artifacts/` scratch, raw VTT.
 
@@ -261,7 +261,7 @@ Do not claim `launch_ready` until:
 ## Implementation checklist
 
 - [x] `docs/study-edition.md` (this file)
-- [ ] Extend `volume-i-anchors.yaml` with Part II (`civ-07`–`civ-13`)
+- [ ] Extend `volume-i-anchors.yaml` with Part II (`civ-07`–`civ-13`) — **done** (`sync_part_ii_to_manifest.py`)
 - [x] `scripts/build_study_edition.py` — parse + bundle
 - [x] `scripts/validate_study_edition.py` — link integrity
 - [x] `civ-07` static prototype (Phase 0 custom HTML) — `site/dist/study/civ-07/index.html`
