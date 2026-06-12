@@ -70,7 +70,7 @@ Every claim below is tied to the transcript body in `civ-21-transcript.md`.
 | 4 | The Levant context includes Canaan, Egyptian power, Sea Peoples, Philistines, Saul, David, and civil war. | `civ-21-transcript.md#exile-persian-shift` | Explicit / Strong Implied | High |
 | 5 | Exile and Persian return transform Israelites into Jews in the lecture's account. | `civ-21-transcript.md#bible-apology-framework` | Explicit / Strong Implied | High |
 | 6 | The lecture frames biblical composition as apology, legitimacy, identity, and differentiation. | `civ-21-transcript.md#jedp-political-real-estate` | Explicit / Strong Implied | High |
-| 7 | J/E/P/D schools are treated as compositional layers or political-literary surfaces. | `civ-21-transcript.md:32` | Explicit / Strong Implied | High |
+| 7 | J/E/P/D schools are treated as compositional layers or political-literary surfaces. | `civ-21-transcript.md#jedp-political-real-estate` | Explicit / Strong Implied | High |
 | 8 | David stories are read as narrative spin around legitimacy and threat. | `civ-21-transcript.md#david-legitimacy-stories` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined

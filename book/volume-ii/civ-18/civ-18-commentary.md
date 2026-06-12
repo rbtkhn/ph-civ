@@ -26,7 +26,7 @@ public_imported_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: seed
+analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
 part_commentary_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-18
 part_bibliography_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md
@@ -64,14 +64,14 @@ Every claim below is tied to the transcript body in `civ-18-transcript.md`.
 
 | # | Claim | Transcript Reference | Strength (Explicit / Strong Implied / Contextual) | Confidence |
 |---|---|---|---|---|
-| 1 | The lecture organizes the chapter around how the pyramid was built, why it was built, and why such building stopped. | `civ-18-transcript.md:36` | Explicit / Strong Implied | High |
-| 2 | Houdin's inside-out model is presented as a major construction hypothesis. | `civ-18-transcript.md:38` | Explicit / Strong Implied | High |
-| 3 | The pyramid is considered against tomb and resurrection-machine explanations. | `civ-18-transcript.md:42` | Explicit / Strong Implied | High |
-| 4 | The lecture advances a state-project analogy for unity, awe, and mobilization. | `civ-18-transcript.md:51` | Explicit / Strong Implied | High |
-| 5 | Drought and the 4.2 kiloyear event are used to explain stress on pyramid building. | `civ-18-transcript.md:72` | Explicit / Strong Implied | High |
-| 6 | Economic and afterlife-system costs are treated as part of the stopping problem. | `civ-18-transcript.md:73` | Explicit / Strong Implied | High |
-| 7 | Imhotep and lost expertise appear as part of the lecture's explanation of knowledge and secrecy. | `civ-18-transcript.md:84` | Explicit / Strong Implied | High |
-| 8 | The chapter ends by pointing toward Mesopotamia and Indus as Bronze Age comparisons. | `civ-18-transcript.md:66` | Explicit / Strong Implied | High |
+| 1 | The lecture organizes the chapter around how the pyramid was built, why it was built, and why such building stopped. | `civ-18-transcript.md#three-questions-opening` | Explicit / Strong Implied | High |
+| 2 | Houdin's inside-out model is presented as a major construction hypothesis. | `civ-18-transcript.md#houdin-inside-out-model` | Explicit / Strong Implied | High |
+| 3 | The pyramid is considered against tomb and resurrection-machine explanations. | `civ-18-transcript.md#tomb-resurrection-debate` | Explicit / Strong Implied | High |
+| 4 | The lecture advances a state-project analogy for unity, awe, and mobilization. | `civ-18-transcript.md#manhattan-project-frame` | Explicit / Strong Implied | High |
+| 5 | Drought and the 4.2 kiloyear event are used to explain stress on pyramid building. | `civ-18-transcript.md#drought-kiloyear-event` | Explicit / Strong Implied | High |
+| 6 | Economic and afterlife-system costs are treated as part of the stopping problem. | `civ-18-transcript.md#pyramid-economy-costs` | Explicit / Strong Implied | High |
+| 7 | Imhotep and lost expertise appear as part of the lecture's explanation of knowledge and secrecy. | `civ-18-transcript.md#imhotep-knowledge-system` | Explicit / Strong Implied | High |
+| 8 | The chapter ends by pointing toward Mesopotamia and Indus as Bronze Age comparisons. | `civ-18-transcript.md#bronze-age-preview` | Explicit / Strong Implied | High |
 
 ### Core Concepts Defined
 

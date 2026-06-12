@@ -18,6 +18,16 @@ PART_IV = (
 READINESS = ROOT / "book/volume-i-civilization/parts/PART-04-HYBRID-READINESS.md"
 
 TRANSCRIPT_SECTIONS: dict[str, list[tuple[str, str]]] = {
+    "civ-18": [
+        ("three-questions-opening", "today in today's class I'm going to look at three questions"),
+        ("houdin-inside-out-model", "French architect named Jean-Pierre Houdin"),
+        ("tomb-resurrection-debate", "for the longest time the accepted theory is this was a"),
+        ("manhattan-project-frame", "Great Pyramid was designed as Egypt's Manhattan Project"),
+        ("drought-kiloyear-event", "kiloyear event happened"),
+        ("pyramid-economy-costs", "you need a pyramid economy okay a pyramid economy"),
+        ("imhotep-knowledge-system", "his name is Imhotep"),
+        ("bronze-age-preview", "next class we'll we'll look at Mesopotamia"),
+    ],
     "civ-19": [
         ("framework-mythology-dialectic", "before I begin um I want to make three General points"),
         ("egypt-mesopotamia-contrast", "Mesopotamia is a very different culture and civilization than Egypt"),
@@ -41,12 +51,45 @@ TRANSCRIPT_SECTIONS: dict[str, list[tuple[str, str]]] = {
         ("legacy-indian-religions", "The first we know as **Hinduism**"),
         ("proto-buddhist-speculative", "Proto-Buddhist** religion"),
     ],
+    "civ-21": [
+        ("bible-library-frame", "good morning so today we start the Bible"),
+        ("three-myths-correction", "there were three ideas about the Hebrew Bible"),
+        ("levant-history-david", "now I'm going to talk a little about the broad history"),
+        ("exile-persian-shift", "but after the Persian Empire returns them to judism"),
+        ("bible-apology-framework", "now I want to talk about the Bible okay because the Bible is the mythology"),
+        ("jedp-political-real-estate", "the school that supports the House of David"),
+        ("david-legitimacy-stories", "so the last thing I want to talk about today is the apology of David"),
+    ],
     "civ-22": [
+        ("cosmology-not-chronology", "okay so good morning we are continuing the Hebrew Bible"),
+        ("poet-god-covenants", "so these are the three major reasons why Kings sponsor"),
+        ("cohesion-synchronization", "the second purpose is create cohesion"),
+        ("differentiation-fluid-identity", "all right now the last question is differentiation"),
+        ("yahwist-author", "but the person who wrote the Bible especially Genesis"),
+        ("adam-eve-close-read", "so let's go over some of her literary contributions"),
+        ("cain-abel-close-read", "Cain argued with him okay Cain argued back"),
         ("rachel-jacob-irony", "the last story I will mention is a story of um Rachel and Jacob"),
+    ],
+    "civ-23": [
+        ("judaism-periods-overview", "okay good morning so um let us do an overview"),
+        ("cyrus-messiah-frame", "so what I will do now is I'm going to focus specifically on this period"),
+        ("zoroastrianism-doctrine", "all right let's continue so we have this religion Zionism"),
+        ("ezra-canon-merge", "a priest a Jewish priest named Ezra he returns to Jerusalem"),
+        ("christianity-forward-bridge", "the Christians basically take all this"),
     ],
 }
 
 CHAPTER_CLAIM_REFS: dict[str, list[str]] = {
+    "civ-18": [
+        "#three-questions-opening",
+        "#houdin-inside-out-model",
+        "#tomb-resurrection-debate",
+        "#manhattan-project-frame",
+        "#drought-kiloyear-event",
+        "#pyramid-economy-costs",
+        "#imhotep-knowledge-system",
+        "#bronze-age-preview",
+    ],
     "civ-19": [
         "#framework-mythology-dialectic",
         "#egypt-mesopotamia-contrast",
@@ -132,16 +175,25 @@ def normalize_inline_anchors(text: str) -> str:
     return re.sub(r" ### ([a-z0-9-]+)", r"\n\n### \1\n\n", text)
 
 
+LINE_SECTION_RE = re.compile(r"^### ([a-z0-9-]+)\s*$", re.MULTILINE)
+
+
+def line_start_sections_ok(text: str, slugs: list[str]) -> bool:
+    return all(
+        re.search(rf"^### {re.escape(slug)}\s*$", text, re.MULTILINE) for slug in slugs
+    )
+
+
 def patch_transcript(chapter_id: str) -> None:
     path = VOL2 / chapter_id / f"{chapter_id}-transcript.md"
     text = path.read_text(encoding="utf-8")
     sections = TRANSCRIPT_SECTIONS.get(chapter_id, [])
     if not sections:
         return
-    for slug, _ in sections:
-        if f"### {slug}" in text:
-            print(f"skip transcript section {slug}: {path.relative_to(ROOT)}")
-            return
+    slugs = [slug for slug, _ in sections]
+    if line_start_sections_ok(text, slugs):
+        print(f"skip transcript (line-start rails ok): {path.relative_to(ROOT)}")
+        return
     if chapter_id == "civ-20":
         marker = "## Full transcript\n"
         if marker not in text:
@@ -150,13 +202,14 @@ def patch_transcript(chapter_id: str) -> None:
         body = body.strip() + "\n"
         patched = split_transcript_body(body, sections)
         path.write_text(head + marker + patched, encoding="utf-8")
-    elif chapter_id in ("civ-21", "civ-22"):
+    elif chapter_id in ("civ-21", "civ-22", "civ-23"):
         marker = "## Part I: Full transcript\n\n"
         head, rest = text.split(marker, 1)
         rest = normalize_inline_anchors(rest)
         body = rest.strip() + "\n"
         extra = TRANSCRIPT_SECTIONS.get(chapter_id, [])
-        if extra and not all(f"### {slug}" in body for slug, _ in extra):
+        extra_slugs = [slug for slug, _ in extra]
+        if extra and not line_start_sections_ok(body, extra_slugs):
             body = split_transcript_body(body, extra)
         path.write_text(head + marker + body.strip() + "\n", encoding="utf-8")
         print(f"patched transcript: {path.relative_to(ROOT)}")
@@ -227,7 +280,7 @@ def update_readiness() -> None:
 
 
 def main() -> None:
-    for cid in ("civ-19", "civ-20", "civ-21", "civ-22"):
+    for cid in ("civ-18", "civ-19", "civ-20", "civ-21", "civ-22", "civ-23"):
         patch_transcript(cid)
     for cid in CHAPTER_CLAIM_REFS:
         update_chapter_commentary(cid)
