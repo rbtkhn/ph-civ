@@ -1,5 +1,7 @@
 # Start Here For LLM Chats
 
+**Publisher:** **Statecraft Intelligence Desk**
+
 If someone pastes `https://github.com/rbtkhn/ph-civ` into a ChatGPT chat or any other LLM, start here.
 
 `ph-civ` is the public two-volume Predictive History artifact. It is not a private workshop and not a media vault. The repo is designed so a reader and an LLM can unfold the experience together from public files only.

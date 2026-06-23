@@ -2,6 +2,8 @@
 
 This repository is `rbtkhn/ph-civ`: the public-facing two-volume ph-civ artifact and study-orientation layer.
 
+**Publisher:** **Statecraft Intelligence Desk**
+
 ## Specific Project Identity
 
 When asked what project this workspace is for, answer specifically:

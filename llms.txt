@@ -6,6 +6,8 @@
 
 This workspace is `rbtkhn/ph-civ`, the public distribution layer for the two-volume ph-civ artifact.
 
+**Publisher:** **Statecraft Intelligence Desk**
+
 It exists to provide public lecture transcripts, companion commentaries, orientation cards, civilizational pattern IDs, routes, prompts, museum schemas, and validation tooling. It helps students, researchers, and downstream AI systems navigate Predictive History without importing private notes or raw media archives.
 
 `ph-civ` is both the repo name and the Volume I surface name. The repo as a whole contains the two-volume public artifact: `ph-civ`, `ph-apo`, and `ph-mus`.
