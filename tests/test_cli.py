@@ -147,7 +147,8 @@ def test_index_command_writes_fingerprinted_index():
     payload = json.loads(json_path.read_text(encoding="utf-8"))
     assert payload["card_count"] == 150
     assert len(payload["chapters"]) == 150
-    assert payload["schema_version"] == 1
+    assert payload["schema_version"] == 2
+    assert payload["transcript_word_total"] > 1_000_000
     assert validate_ph_civ_index() == []
 
 
@@ -317,9 +318,24 @@ def test_ph_civ_index_surfaces_youtube_urls():
     assert index.exists()
     text = index.read_text(encoding="utf-8")
     assert "ph-civ Chapter Index" in text
+    assert "| Words |" in text
     assert "https://www.youtube.com/watch?v=8nsxuB3Vsts" in text
     assert "ph-apo/chapters/gt-24/gt-24-transcript.md" in text
     assert "https://www.youtube.com/watch?v=RG1clZlrfOo" in text
+
+
+def test_ph_civ_index_transcript_word_counts():
+    payload = json.loads((ROOT / "data" / "ph-civ-index.json").read_text(encoding="utf-8"))
+    chapters = payload["chapters"]
+    assert payload["schema_version"] == 2
+    assert len(chapters) == 150
+    assert all("transcript_word_count" in chapter for chapter in chapters)
+    assert payload["transcript_word_total"] == sum(
+        chapter["transcript_word_count"] for chapter in chapters
+    )
+    civ01 = next(chapter for chapter in chapters if chapter["source_id"] == "civ-01")
+    assert civ01["transcript_word_count"] > 1000
+    assert payload["transcript_word_total"] > 1_000_000
 
 
 def test_bilingual_bridge_contract(capsys):

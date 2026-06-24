@@ -1232,7 +1232,7 @@
     }
   ],
   "fingerprint": "96ad437111085148",
-  "generated_at": "2026-06-24T11:31:16Z",
+  "generated_at": "2026-06-24T11:38:00Z",
   "markdown_summary": "runtime/artifacts/public-surface-triage.md",
   "inventory_json": "data/public-surface-inventory.json"
 }

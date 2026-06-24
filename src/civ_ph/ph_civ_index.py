@@ -12,7 +12,7 @@ INDEX_MD_REL = "docs/ph-civ-index.md"
 INDEX_JSON_REL = "data/ph-civ-index.json"
 DEPRECATED_SOURCE_VIDEO_INDEX_REL = "docs/source-video-index.md"
 FINGERPRINT_MARKER = "<!-- ph-civ-index-fingerprint:"
-SCHEMA_VERSION = 1
+SCHEMA_VERSION = 2
 
 PART_SECTIONS: dict[str, list[tuple[str, str]]] = {
     "civilization": [
@@ -60,6 +60,29 @@ def markdown_frontmatter(text: str) -> dict[str, str]:
     return fields
 
 
+def markdown_body(text: str) -> str:
+    if text.startswith("---\n"):
+        end = text.find("\n---\n", 4)
+        if end != -1:
+            return text[end + 5 :]
+    return text
+
+
+def count_transcript_words(text: str) -> int:
+    body = markdown_body(text)
+    return len(re.findall(r"\b[\w']+\b", body, flags=re.UNICODE))
+
+
+def transcript_word_count(card: dict, repo_root: Path) -> int:
+    transcript_rel = card.get("source_paths", {}).get("source_chapter_path", "")
+    if not transcript_rel:
+        return 0
+    transcript_path = repo_root / transcript_rel
+    if not transcript_path.exists():
+        return 0
+    return count_transcript_words(transcript_path.read_text(encoding="utf-8"))
+
+
 def source_video_url(card: dict, repo_root: Path) -> str:
     transcript_rel = card.get("source_paths", {}).get("source_chapter_path", "")
     if not transcript_rel:
@@ -104,6 +127,7 @@ def chapter_entry(card: dict, repo_root: Path) -> dict:
             "transcript": transcript,
             "commentary": commentary,
         },
+        "transcript_word_count": transcript_word_count(card, repo_root),
     }
     if folder:
         entry["paths"]["folder"] = folder
@@ -140,13 +164,18 @@ def render_index_payload(cards: list[dict], repo_root: Path) -> dict:
             "volume_label": volume_label,
             "chapter_count": len(surface_chapters),
             "series_counts": dict(sorted(series_counts.items())),
+            "transcript_word_total": sum(
+                entry.get("transcript_word_count", 0) for entry in surface_chapters
+            ),
         }
 
     fingerprint = index_payload_fingerprint(chapters)
+    transcript_word_total = sum(entry.get("transcript_word_count", 0) for entry in chapters)
     return {
         "schema_version": SCHEMA_VERSION,
         "fingerprint": fingerprint,
         "card_count": len(cards),
+        "transcript_word_total": transcript_word_total,
         "ssot": "data/cards.jsonl",
         "markdown_index": INDEX_MD_REL,
         "surfaces": {
@@ -181,8 +210,8 @@ def md_link(label: str, rel_from_docs: str) -> str:
 
 
 def render_table(cards: list[dict], repo_root: Path) -> list[str]:
-    header = "| Source ID | Title | Review | Transcript | Commentary | Folder | Video |"
-    sep = "| --- | --- | --- | --- | --- | --- | --- |"
+    header = "| Source ID | Title | Review | Words | Transcript | Commentary | Folder | Video |"
+    sep = "| --- | --- | --- | ---: | --- | --- | --- | --- |"
     rows = [header, sep]
     for card in sorted(cards, key=lambda row: row["source_id"]):
         entry = chapter_entry(card, repo_root)
@@ -191,6 +220,7 @@ def render_table(cards: list[dict], repo_root: Path) -> list[str]:
         commentary = paths.get("commentary", "")
         folder = paths.get("folder", "")
         video = entry.get("source_video_url", "")
+        words = entry.get("transcript_word_count", 0)
         rows.append(
             "| "
             + " | ".join(
@@ -198,6 +228,7 @@ def render_table(cards: list[dict], repo_root: Path) -> list[str]:
                     f"`{entry['source_id']}`",
                     entry["title"].replace("|", "\\|"),
                     f"`{entry['review_status']}`",
+                    f"{words:,}" if words else "—",
                     md_link("transcript", transcript) if transcript else "",
                     md_link("commentary", commentary) if commentary else "",
                     md_link("folder", paths.get("folder_readme", "")) if folder else "",
@@ -225,6 +256,7 @@ def render_index_body(cards: list[dict], repo_root: Path) -> str:
         "Canonical catalog of every public Predictive History lecture chapter in this repository.",
         "",
         f"- **Card count:** {len(cards)}",
+        f"- **Transcript words (total):** {sum(transcript_word_count(card, repo_root) for card in cards):,}",
         f"- **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`data/ph-civ-index.json`](../data/ph-civ-index.json) · [`data/index.json`](../data/index.json)",
         "- **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py` · auto-sync during `ph-civ validate` and publish",
         "",
@@ -237,6 +269,7 @@ def render_index_body(cards: list[dict], repo_root: Path) -> str:
         "",
         "YouTube and Substack source URLs appear in the **Video** column below and in "
         "[`data/ph-civ-index.json`](../data/ph-civ-index.json) (`source_video_url`). "
+        "**Words** counts transcript body text only (YAML frontmatter excluded). "
         "Legacy [`source-video-index.md`](source-video-index.md) redirects here.",
         "",
     ]
