@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "fingerprint": "05a8ad4890d9bdf3",
+  "fingerprint": "13a0d8823542d3b7",
   "card_count": 150,
-  "transcript_word_total": 1040983,
+  "transcript_word_total": 1203032,
   "ssot": "data/cards.jsonl",
   "markdown_index": "docs/ph-civ-index.md",
   "surfaces": {
@@ -59,7 +59,7 @@
         "game-theory": 8,
         "great-books": 10
       },
-      "transcript_word_total": 588798
+      "transcript_word_total": 643164
     },
     "ph-apo": {
       "part": "world-war",
@@ -71,7 +71,7 @@
         "geo-strategy": 20,
         "secret-history": 28
       },
-      "transcript_word_total": 452185
+      "transcript_word_total": 559868
     }
   },
   "chapters": [
@@ -1950,7 +1950,7 @@
         "folder": "ph-civ/chapters/gt-01",
         "folder_readme": "ph-civ/chapters/gt-01/README.md"
       },
-      "transcript_word_count": 73,
+      "transcript_word_count": 6683,
       "source_video_url": "https://www.youtube.com/watch?v=hE4l9WyLF3U",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -1971,7 +1971,7 @@
         "folder": "ph-civ/chapters/gt-02",
         "folder_readme": "ph-civ/chapters/gt-02/README.md"
       },
-      "transcript_word_count": 73,
+      "transcript_word_count": 7108,
       "source_video_url": "https://www.youtube.com/watch?v=kS-muAuq62E",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -1992,7 +1992,7 @@
         "folder": "ph-civ/chapters/gt-03",
         "folder_readme": "ph-civ/chapters/gt-03/README.md"
       },
-      "transcript_word_count": 74,
+      "transcript_word_count": 6886,
       "source_video_url": "https://www.youtube.com/watch?v=MX93U4KzA28",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2013,7 +2013,7 @@
         "folder": "ph-civ/chapters/gt-04",
         "folder_readme": "ph-civ/chapters/gt-04/README.md"
       },
-      "transcript_word_count": 73,
+      "transcript_word_count": 5902,
       "source_video_url": "https://www.youtube.com/watch?v=35HRPLVyF0g",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2034,7 +2034,7 @@
         "folder": "ph-civ/chapters/gt-05",
         "folder_readme": "ph-civ/chapters/gt-05/README.md"
       },
-      "transcript_word_count": 73,
+      "transcript_word_count": 8281,
       "source_video_url": "https://www.youtube.com/watch?v=ybufqRY77PQ",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2055,7 +2055,7 @@
         "folder": "ph-civ/chapters/gt-06",
         "folder_readme": "ph-civ/chapters/gt-06/README.md"
       },
-      "transcript_word_count": 73,
+      "transcript_word_count": 6303,
       "source_video_url": "https://www.youtube.com/watch?v=CbamEcNuDXo",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2076,7 +2076,7 @@
         "folder": "ph-civ/chapters/gt-07",
         "folder_readme": "ph-civ/chapters/gt-07/README.md"
       },
-      "transcript_word_count": 72,
+      "transcript_word_count": 6672,
       "source_video_url": "https://www.youtube.com/watch?v=ijnkCt1QK6k",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2097,7 +2097,7 @@
         "folder": "ph-civ/chapters/gt-08",
         "folder_readme": "ph-civ/chapters/gt-08/README.md"
       },
-      "transcript_word_count": 72,
+      "transcript_word_count": 7114,
       "source_video_url": "https://www.youtube.com/watch?v=axqDLhWs93Q",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2118,7 +2118,7 @@
         "folder": "ph-apo/chapters/gt-09",
         "folder_readme": "ph-apo/chapters/gt-09/README.md"
       },
-      "transcript_word_count": 74,
+      "transcript_word_count": 6282,
       "source_video_url": "https://www.youtube.com/watch?v=jIS2eB-rGv0",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2139,7 +2139,7 @@
         "folder": "ph-apo/chapters/gt-10",
         "folder_readme": "ph-apo/chapters/gt-10/README.md"
       },
-      "transcript_word_count": 74,
+      "transcript_word_count": 7352,
       "source_video_url": "https://www.youtube.com/watch?v=t5oisJiorsU",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2160,7 +2160,7 @@
         "folder": "ph-apo/chapters/gt-11",
         "folder_readme": "ph-apo/chapters/gt-11/README.md"
       },
-      "transcript_word_count": 74,
+      "transcript_word_count": 8590,
       "source_video_url": "https://www.youtube.com/watch?v=fz-Dan7NRss",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2181,7 +2181,7 @@
         "folder": "ph-apo/chapters/gt-12",
         "folder_readme": "ph-apo/chapters/gt-12/README.md"
       },
-      "transcript_word_count": 75,
+      "transcript_word_count": 8634,
       "source_video_url": "https://www.youtube.com/watch?v=spg58Glfz68",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2202,7 +2202,7 @@
         "folder": "ph-apo/chapters/gt-13",
         "folder_readme": "ph-apo/chapters/gt-13/README.md"
       },
-      "transcript_word_count": 72,
+      "transcript_word_count": 7200,
       "source_video_url": "https://www.youtube.com/watch?v=aQSDSqdlFxk",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2223,7 +2223,7 @@
         "folder": "ph-apo/chapters/gt-14",
         "folder_readme": "ph-apo/chapters/gt-14/README.md"
       },
-      "transcript_word_count": 74,
+      "transcript_word_count": 6831,
       "source_video_url": "https://www.youtube.com/watch?v=nOQqGy4boBY",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2244,7 +2244,7 @@
         "folder": "ph-apo/chapters/gt-15",
         "folder_readme": "ph-apo/chapters/gt-15/README.md"
       },
-      "transcript_word_count": 74,
+      "transcript_word_count": 6646,
       "source_video_url": "https://www.youtube.com/watch?v=zAer-Mqe7tQ",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2265,7 +2265,7 @@
         "folder": "ph-apo/chapters/gt-16",
         "folder_readme": "ph-apo/chapters/gt-16/README.md"
       },
-      "transcript_word_count": 73,
+      "transcript_word_count": 2471,
       "source_video_url": "https://www.youtube.com/watch?v=0aASxQrJYuo",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2286,7 +2286,7 @@
         "folder": "ph-apo/chapters/gt-17",
         "folder_readme": "ph-apo/chapters/gt-17/README.md"
       },
-      "transcript_word_count": 73,
+      "transcript_word_count": 8115,
       "source_video_url": "https://www.youtube.com/watch?v=VbowBTJWKBo",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2307,7 +2307,7 @@
         "folder": "ph-apo/chapters/gt-18",
         "folder_readme": "ph-apo/chapters/gt-18/README.md"
       },
-      "transcript_word_count": 73,
+      "transcript_word_count": 1722,
       "source_video_url": "https://www.youtube.com/watch?v=xrmERlHUqBk",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2328,7 +2328,7 @@
         "folder": "ph-apo/chapters/gt-19",
         "folder_readme": "ph-apo/chapters/gt-19/README.md"
       },
-      "transcript_word_count": 74,
+      "transcript_word_count": 7937,
       "source_video_url": "https://www.youtube.com/watch?v=0HYET47Cc-E",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2349,7 +2349,7 @@
         "folder": "ph-apo/chapters/gt-20",
         "folder_readme": "ph-apo/chapters/gt-20/README.md"
       },
-      "transcript_word_count": 73,
+      "transcript_word_count": 12008,
       "source_video_url": "https://www.youtube.com/watch?v=ue8y5e3HnHE",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2370,7 +2370,7 @@
         "folder": "ph-apo/chapters/gt-21",
         "folder_readme": "ph-apo/chapters/gt-21/README.md"
       },
-      "transcript_word_count": 73,
+      "transcript_word_count": 7903,
       "source_video_url": "https://www.youtube.com/watch?v=Ts-AA6LQf6I",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2391,7 +2391,7 @@
         "folder": "ph-apo/chapters/gt-22",
         "folder_readme": "ph-apo/chapters/gt-22/README.md"
       },
-      "transcript_word_count": 75,
+      "transcript_word_count": 7208,
       "source_video_url": "https://www.youtube.com/watch?v=txgPfnXgzcE",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2455,7 +2455,7 @@
         "folder": "ph-apo/chapters/gt-25",
         "folder_readme": "ph-apo/chapters/gt-25/README.md"
       },
-      "transcript_word_count": 62,
+      "transcript_word_count": 9877,
       "source_video_url": "https://www.youtube.com/watch?v=BIl5vJn6ohI",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
