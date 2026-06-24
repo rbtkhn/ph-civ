@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "fingerprint": "13a0d8823542d3b7",
+  "fingerprint": "45806ab44b7bebec",
   "card_count": 150,
-  "transcript_word_total": 1203032,
+  "transcript_word_total": 1221322,
   "ssot": "data/cards.jsonl",
   "markdown_index": "docs/ph-civ-index.md",
   "surfaces": {
@@ -71,7 +71,7 @@
         "geo-strategy": 20,
         "secret-history": 28
       },
-      "transcript_word_total": 559868
+      "transcript_word_total": 578158
     }
   },
   "chapters": [
@@ -2265,7 +2265,7 @@
         "folder": "ph-apo/chapters/gt-16",
         "folder_readme": "ph-apo/chapters/gt-16/README.md"
       },
-      "transcript_word_count": 2471,
+      "transcript_word_count": 8936,
       "source_video_url": "https://www.youtube.com/watch?v=0aASxQrJYuo",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2307,7 +2307,7 @@
         "folder": "ph-apo/chapters/gt-18",
         "folder_readme": "ph-apo/chapters/gt-18/README.md"
       },
-      "transcript_word_count": 1722,
+      "transcript_word_count": 6401,
       "source_video_url": "https://www.youtube.com/watch?v=xrmERlHUqBk",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2497,7 +2497,7 @@
         "folder": "ph-apo/chapters/gt-27",
         "folder_readme": "ph-apo/chapters/gt-27/README.md"
       },
-      "transcript_word_count": 2715,
+      "transcript_word_count": 9861,
       "source_video_url": "https://www.youtube.com/watch?v=x83HcLWvHI8",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
