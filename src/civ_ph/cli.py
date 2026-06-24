@@ -35,6 +35,14 @@ from .commentary_v2 import (
     validate_v2_pilot,
 )
 from .ph_civ_index import ensure_ph_civ_index, validate_ph_civ_index
+from .public_surface_inventory import (
+    ensure_public_surface_inventory,
+    validate_public_surface_inventory,
+)
+from .public_surface_triage import (
+    ensure_public_surface_triage,
+    validate_public_surface_triage,
+)
 from .volume_i_parts import validate_volume_i_parts
 
 EXPECTED_SOURCE_REPO = "rbtkhn/ph-workshop"
@@ -96,6 +104,9 @@ PUBLIC_BOUNDARY_SCAN_PATHS = [
 PUBLIC_BOUNDARY_SCAN_EXCLUDES = {
     "docs/strategy-codex-bridge.md",
     "docs/jiang-analysis-index.md",
+    "docs/public-surface-status.md",
+    "data/public-surface-inventory.json",
+    "data/public-surface-triage.json",
 }
 
 PUBLIC_BOUNDARY_FORBIDDEN_MARKERS = [
@@ -1108,6 +1119,18 @@ def cmd_validate(args) -> int:
     errors.extend(validate_volume_i_parts(require_doorways=True, require_chapter_anchors=True))
     ensure_ph_civ_index(cards)
     errors.extend(validate_ph_civ_index(cards))
+    if getattr(args, "surfaces", False) or getattr(args, "surface_inventory", False):
+        if getattr(args, "check", False):
+            errors.extend(validate_public_surface_inventory(cards))
+        else:
+            ensure_public_surface_inventory(cards)
+            errors.extend(validate_public_surface_inventory(cards))
+    if getattr(args, "surfaces", False) or getattr(args, "surface_triage", False):
+        if getattr(args, "check", False):
+            errors.extend(validate_public_surface_triage(cards))
+        else:
+            ensure_public_surface_triage(cards)
+            errors.extend(validate_public_surface_triage(cards))
     series = Counter(card["series"] for card in cards)
     result = {"status": "valid" if not errors else "invalid", "card_count": len(cards), "series_counts": dict(sorted(series.items())), "errors": errors}
     if args.json:
@@ -1159,6 +1182,75 @@ def validate_patterns(patterns: list[dict], cards: list[dict]) -> list[str]:
     return errors
 
 
+def cmd_surface_inventory(args) -> int:
+    cards = load_cards()
+    if args.check:
+        errors = validate_public_surface_inventory(cards)
+        if args.json:
+            emit_json({"status": "current" if not errors else "stale", "errors": errors})
+            return 1 if errors else 0
+        if errors:
+            for error in errors:
+                print(f"error: {error}", file=sys.stderr)
+            return 1
+        print("status: current")
+        return 0
+    json_path, md_path, written = ensure_public_surface_inventory(cards, force=args.force)
+    payload = {
+        "status": "written" if written else "unchanged",
+        "json_path": str(json_path.relative_to(DATA_ROOT.parent)),
+        "markdown_path": str(md_path.relative_to(DATA_ROOT.parent)),
+    }
+    if args.json:
+        emit_json(payload)
+        return 0
+    action = "wrote" if written else "unchanged"
+    print(f"{action} {payload['json_path']} and {payload['markdown_path']}")
+    return 0
+
+
+def cmd_surface_triage(args) -> int:
+    cards = load_cards()
+    if args.check:
+        errors = validate_public_surface_triage(cards)
+        if args.json:
+            emit_json({"status": "current" if not errors else "stale", "errors": errors})
+            return 1 if errors else 0
+        if errors:
+            for error in errors:
+                print(f"error: {error}", file=sys.stderr)
+            return 1
+        print("status: current")
+        return 0
+    json_path, md_path, written = ensure_public_surface_triage(cards, force=args.force)
+    from .public_surface_triage import build_triage_payload
+
+    triage = build_triage_payload(cards, DATA_ROOT.parent)
+    if args.json:
+        emit_json(
+            {
+                "status": "written" if written else "unchanged",
+                "json_path": str(json_path.relative_to(DATA_ROOT.parent)),
+                "markdown_path": str(md_path.relative_to(DATA_ROOT.parent)),
+                "bucket_counts": triage["bucket_counts"],
+                "buckets": triage["buckets"] if args.verbose else {},
+            }
+        )
+        return 0
+    action = "wrote" if written else "unchanged"
+    print(
+        f"{action} {json_path.relative_to(DATA_ROOT.parent)} "
+        f"and {md_path.relative_to(DATA_ROOT.parent)}"
+    )
+    for bucket, count in triage["bucket_counts"].items():
+        if count:
+            print(f"  {bucket}: {count}")
+            if args.verbose:
+                for source_id in triage["buckets"].get(bucket, []):
+                    print(f"    - {source_id}")
+    return 0
+
+
 def cmd_surface(args) -> int:
     surface = SURFACES[args.surface]
     if args.json:
@@ -1171,6 +1263,13 @@ def cmd_surface(args) -> int:
 
 def cmd_status(args) -> int:
     architecture = load_course_architecture()
+    cards = load_cards()
+    commentary = commentary_status_report(cards, DATA_ROOT.parent)
+    from .public_surface_triage import build_triage_payload
+
+    triage = build_triage_payload(cards, DATA_ROOT.parent)
+    inv_stale = bool(validate_public_surface_inventory(cards))
+    tri_stale = bool(validate_public_surface_triage(cards))
     if args.json:
         return emit_json(
             {
@@ -1178,7 +1277,14 @@ def cmd_status(args) -> int:
                 "primary_artifact": architecture["primary_artifact"],
                 "volumes": architecture["volumes"],
                 "surfaces": SURFACES,
-                "unique_card_count": len(load_cards()),
+                "unique_card_count": len(cards),
+                "commentary_maturity": commentary["by_commentary_maturity"],
+                "commentary_wave_queue": {
+                    k: len(v) for k, v in commentary["wave_queue"].items()
+                },
+                "surface_triage_counts": triage["bucket_counts"],
+                "surface_inventory_stale": inv_stale,
+                "surface_triage_stale": tri_stale,
             }
         )
     print("ph-civ: two-volume public Predictive History artifact")
@@ -1191,6 +1297,16 @@ def cmd_status(args) -> int:
         "Volume II / ph-apo / Apocalypse: "
         f"{architecture['volumes']['volume_ii']['role']}"
     )
+    print(f"unique_card_count: {len(cards)}")
+    print("commentary_maturity:")
+    for key, value in commentary["by_commentary_maturity"].items():
+        print(f"  {key}: {value}")
+    print("surface_triage:")
+    for bucket, count in triage["bucket_counts"].items():
+        if count:
+            print(f"  {bucket}: {count}")
+    print(f"surface_inventory_stale: {inv_stale}")
+    print(f"surface_triage_stale: {tri_stale}")
     return 0
 
 
@@ -1456,6 +1572,18 @@ def build_parser() -> argparse.ArgumentParser:
 
     p = sub.add_parser("validate", help="Validate packaged cards.")
     p.add_argument("--json", action="store_true")
+    p.add_argument(
+        "--surfaces",
+        action="store_true",
+        help="Also check or refresh public surface inventory and triage JSON.",
+    )
+    p.add_argument("--surface-inventory", action="store_true", help="Include surface inventory only.")
+    p.add_argument("--surface-triage", action="store_true", help="Include surface triage only.")
+    p.add_argument(
+        "--check",
+        action="store_true",
+        help="With --surfaces*, fail if inventory/triage fingerprints are stale (no regen).",
+    )
     p.set_defaults(func=cmd_validate)
 
     p = sub.add_parser("commentary-status", help="Commentary maturity histogram and rebuild wave queue.")
@@ -1468,6 +1596,19 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--force", action="store_true", help="Rewrite the index even when fingerprint matches.")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_index)
+
+    p = sub.add_parser("surface-inventory", help="Generate or verify public surface inventory.")
+    p.add_argument("--check", action="store_true", help="Fail if inventory is stale without rewriting.")
+    p.add_argument("--force", action="store_true", help="Rewrite even when fingerprint matches.")
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_surface_inventory)
+
+    p = sub.add_parser("surface-triage", help="Generate or verify per-chapter surface triage buckets.")
+    p.add_argument("--check", action="store_true", help="Fail if triage is stale without rewriting.")
+    p.add_argument("--force", action="store_true", help="Rewrite even when fingerprint matches.")
+    p.add_argument("--json", action="store_true")
+    p.add_argument("--verbose", action="store_true", help="List source IDs per bucket.")
+    p.set_defaults(func=cmd_surface_triage)
 
     p = sub.add_parser("status", help="Show the current public surface status.")
     p.add_argument("--json", action="store_true")

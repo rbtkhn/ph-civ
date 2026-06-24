@@ -1,0 +1,38 @@
+<!-- public-surface-inventory-fingerprint: 0bb77c8af0fec8fa -->
+# Public surface inventory
+
+- **Surfaces:** 26
+- **Generated:** 2026-06-24T09:19:43Z
+- **Machine SSOT:** [`data/public-surface-inventory.json`](../../data/public-surface-inventory.json)
+- **Regenerate:** `ph-civ surface-inventory`
+
+Per-surface status vocabulary: [public-surface-status.md](../../docs/public-surface-status.md).
+
+| Surface | Class | Status | Path | Validation |
+| --- | --- | --- | --- | --- |
+| `parts_v1_hybrid_archive` | archive_retired | deprecated | docs/archive/parts-v1-hybrid.md | validate:volume-i-parts-deprecated |
+| `volume_i_parts_deprecated_json` | archive_retired | deprecated | data/parts/volume-i-parts.deprecated.json | manual |
+| `agents_guardrails` | bootloader | canonical | AGENTS.md | validate:public-boundary |
+| `start_here` | bootloader | canonical | START-HERE.md | validate:llm-experience |
+| `strategy_codex_bridge` | bridge | active | docs/strategy-codex-bridge.md | manual |
+| `cards_dataset` | card_dataset | active | data/cards.jsonl | validate:cards |
+| `ph_civ_index` | chapter_catalog | generated | data/ph-civ-index.json | validate:ph-civ-index |
+| `chapter_folders` | chapter_folder | active | ph-civ/chapters/* · ph-apo/chapters/* · book/volume-*/… | validate:cards |
+| `ph_apo_volume_ii_chapters` | chapter_folder | active | ph-apo/chapters/* (+ book/volume-ii-apocalypse/) | data/ph-civ-index.json |
+| `ph_civ_volume_i_chapters` | chapter_folder | active | ph-civ/chapters/* (+ book/volume-i-civilization/) | data/ph-civ-index.json |
+| `commentary_methodology_v2` | doctrine_doc | canonical | docs/commentary-methodology-v2.md | validate:commentary-canvas |
+| `public_repo_contract` | doctrine_doc | canonical | docs/public-repo-contract.md | manual |
+| `public_surface_status` | doctrine_doc | active | docs/public-surface-status.md | manual |
+| `source_lattice` | doctrine_doc | canonical | docs/source-lattice.md | manual |
+| `growth_goals` | growth_surface | active | data/growth-goals.json | manual |
+| `llm_experience` | llm_context | active | data/llm-experience.json | validate:llm-experience |
+| `llms_full` | llm_context | active | llms-full.txt | validate:llm-experience |
+| `llms_txt` | llm_context | active | llms.txt | validate:llm-experience |
+| `patterns_dataset` | pattern_dataset | active | data/patterns.json | validate:patterns |
+| `choreography_routes` | route_dataset | active | data/routes/choreography.json | validate:choreography |
+| `first_tour` | route_dataset | active | data/routes/first-tour.json | validate:first-tour |
+| `route_seed` | route_dataset | active | data/routes/seed.json | validate:choreography |
+| `spine_tour` | route_dataset | active | data/routes/volume-i-spine-tour.json | manual |
+| `public_surface_inventory` | schema_prompt | generated | data/public-surface-inventory.json | manual |
+| `public_surface_triage` | schema_prompt | generated | data/public-surface-triage.json | manual |
+| `transcript_commentary_chapters` | transcript | canonical | (per data/ph-civ-index.json chapters[].paths) | data/ph-civ-index.json |

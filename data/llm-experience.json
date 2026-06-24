@@ -215,6 +215,8 @@
     "docs/chapter-folder-links.md",
     "data/ph-civ-index.json",
     "docs/ph-civ-index.md",
+    "data/public-surface-inventory.json",
+    "docs/public-surface-status.md",
     "docs/source-video-index.md",
     "data/cards.jsonl",
     "data/patterns.json"

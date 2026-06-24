@@ -51,7 +51,7 @@ If the operator says `coffee` at the start of a chat, do not give a generic coff
 
 ## Start Here
 
-Read `START-HERE.md`, then `llms.txt`, then `README.md`, then `docs/public-repo-contract.md` and `docs/export-contract.md`.
+Read `START-HERE.md`, then `llms.txt`, then `README.md`, then `docs/public-repo-contract.md` and `docs/export-contract.md`. Operational runbooks: [`docs/runbooks/`](docs/runbooks/).
 
 Useful checks:
 

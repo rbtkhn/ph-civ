@@ -1,6 +1,6 @@
 # Commentary Canvas
 
-> **Superseded for rebuild work:** [commentary-methodology-v2.md](commentary-methodology-v2.md) (chapter-only L0–6; Parts deprecated). This file documents the retired v1 hybrid Part pilot only.
+> **Superseded for rebuild work:** [commentary-methodology-v2.md](commentary-methodology-v2.md) (chapter-only L0–6; Parts deprecated). Surface readiness vocabulary: [public-surface-status.md](public-surface-status.md). This file documents the retired v1 hybrid Part pilot only.
 
 Commentaries are working surfaces for enhancing and leveraging ph-civ. A seeded commentary is not finished analysis. It is a protected surface for later synthesis.
 
