@@ -1,10 +1,10 @@
-<!-- ph-civ-index-fingerprint: 5253742d7828c215 -->
+<!-- ph-civ-index-fingerprint: 05a8ad4890d9bdf3 -->
 # ph-civ Chapter Index
 
 Canonical catalog of every public Predictive History lecture chapter in this repository.
 
 - **Card count:** 150
-- **Transcript words (total):** 1,031,453
+- **Transcript words (total):** 1,040,983
 - **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`data/ph-civ-index.json`](../data/ph-civ-index.json) · [`data/index.json`](../data/index.json)
 - **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py` · auto-sync during `ph-civ validate` and publish
 
@@ -164,7 +164,7 @@ YouTube and Substack source URLs appear in the **Video** column below and in [`d
 | `gt-23` | Game Theory #23: The WWIII Chessboard | `provisional` | 5,864 | [transcript](../ph-apo/chapters/gt-23/gt-23-transcript.md) | [commentary](../ph-apo/chapters/gt-23/gt-23-commentary.md) | [folder](../ph-apo/chapters/gt-23/README.md) | [video](https://www.youtube.com/watch?v=6aNh6sBpqvQ) |
 | `gt-24` | Game Theory #24: The AI Apocalypse | `provisional` | 8,802 | [transcript](../ph-apo/chapters/gt-24/gt-24-transcript.md) | [commentary](../ph-apo/chapters/gt-24/gt-24-commentary.md) | [folder](../ph-apo/chapters/gt-24/README.md) | [video](https://www.youtube.com/watch?v=8nsxuB3Vsts) |
 | `gt-25` | Game Theory #25: Trump Visits China | `provisional` | 62 | [transcript](../ph-apo/chapters/gt-25/gt-25-transcript.md) | [commentary](../ph-apo/chapters/gt-25/gt-25-commentary.md) | [folder](../ph-apo/chapters/gt-25/README.md) | [video](https://www.youtube.com/watch?v=BIl5vJn6ohI) |
-| `gt-26` | Game Theory #26: The Holy Empire of AI | `provisional` | 60 | [transcript](../ph-apo/chapters/gt-26/gt-26-transcript.md) | [commentary](../ph-apo/chapters/gt-26/gt-26-commentary.md) | [folder](../ph-apo/chapters/gt-26/README.md) | [video](https://www.youtube.com/watch?v=RG1clZlrfOo) |
+| `gt-26` | Game Theory #26: The Holy Empire of AI | `provisional` | 9,590 | [transcript](../ph-apo/chapters/gt-26/gt-26-transcript.md) | [commentary](../ph-apo/chapters/gt-26/gt-26-commentary.md) | [folder](../ph-apo/chapters/gt-26/README.md) | [video](https://www.youtube.com/watch?v=RG1clZlrfOo) |
 | `gt-27` | Game Theory #27: Putin Enters the Chat | `provisional` | 2,715 | [transcript](../ph-apo/chapters/gt-27/gt-27-transcript.md) | [commentary](../ph-apo/chapters/gt-27/gt-27-commentary.md) | [folder](../ph-apo/chapters/gt-27/README.md) | [video](https://www.youtube.com/watch?v=x83HcLWvHI8) |
 
 ### Secret History
@@ -329,7 +329,7 @@ YouTube and Substack source URLs appear in the **Video** column below and in [`d
 | `gt-23` | Game Theory #23: The WWIII Chessboard | `provisional` | 5,864 | [transcript](../ph-apo/chapters/gt-23/gt-23-transcript.md) | [commentary](../ph-apo/chapters/gt-23/gt-23-commentary.md) | [folder](../ph-apo/chapters/gt-23/README.md) | [video](https://www.youtube.com/watch?v=6aNh6sBpqvQ) |
 | `gt-24` | Game Theory #24: The AI Apocalypse | `provisional` | 8,802 | [transcript](../ph-apo/chapters/gt-24/gt-24-transcript.md) | [commentary](../ph-apo/chapters/gt-24/gt-24-commentary.md) | [folder](../ph-apo/chapters/gt-24/README.md) | [video](https://www.youtube.com/watch?v=8nsxuB3Vsts) |
 | `gt-25` | Game Theory #25: Trump Visits China | `provisional` | 62 | [transcript](../ph-apo/chapters/gt-25/gt-25-transcript.md) | [commentary](../ph-apo/chapters/gt-25/gt-25-commentary.md) | [folder](../ph-apo/chapters/gt-25/README.md) | [video](https://www.youtube.com/watch?v=BIl5vJn6ohI) |
-| `gt-26` | Game Theory #26: The Holy Empire of AI | `provisional` | 60 | [transcript](../ph-apo/chapters/gt-26/gt-26-transcript.md) | [commentary](../ph-apo/chapters/gt-26/gt-26-commentary.md) | [folder](../ph-apo/chapters/gt-26/README.md) | [video](https://www.youtube.com/watch?v=RG1clZlrfOo) |
+| `gt-26` | Game Theory #26: The Holy Empire of AI | `provisional` | 9,590 | [transcript](../ph-apo/chapters/gt-26/gt-26-transcript.md) | [commentary](../ph-apo/chapters/gt-26/gt-26-commentary.md) | [folder](../ph-apo/chapters/gt-26/README.md) | [video](https://www.youtube.com/watch?v=RG1clZlrfOo) |
 | `gt-27` | Game Theory #27: Putin Enters the Chat | `provisional` | 2,715 | [transcript](../ph-apo/chapters/gt-27/gt-27-transcript.md) | [commentary](../ph-apo/chapters/gt-27/gt-27-commentary.md) | [folder](../ph-apo/chapters/gt-27/README.md) | [video](https://www.youtube.com/watch?v=x83HcLWvHI8) |
 | `sh-01` | Secret History #1: How Power Works (4K Re-Upload with Audio Fixed) | `in_review` | 9,439 | [transcript](../book/volume-vi/sh-01/sh-01-transcript.md) | [commentary](../book/volume-vi/sh-01/sh-01-commentary.md) | [folder](../book/volume-vi/sh-01/README.md) | [video](https://www.youtube.com/watch?v=lt8XLz78ZvY) |
 | `sh-02` | Secret History #2: How Societies Collapse | `in_review` | 7,200 | [transcript](../book/volume-vi/sh-02/sh-02-transcript.md) | [commentary](../book/volume-vi/sh-02/sh-02-commentary.md) | [folder](../book/volume-vi/sh-02/README.md) | [video](https://www.youtube.com/watch?v=K-_l9jBGo74) |
