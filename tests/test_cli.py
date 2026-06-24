@@ -299,19 +299,26 @@ def test_llms_full_context_packet_exists():
     assert "not live war analysis" in text
     assert "Chapter-Folder Links" in text
     assert "not a replacement for `first_tour`" in text
-    assert "docs/source-video-index.md" in text
+    assert "docs/ph-civ-index.md" in text
     assert "data/ph-civ-index.json" in text
     assert "Chapter Catalog" in text
 
 
-def test_source_video_index_surfaces_youtube_urls():
-    index = ROOT / "docs" / "source-video-index.md"
+def test_deprecated_source_video_index_stub():
+    stub = ROOT / "docs" / "source-video-index.md"
+    assert stub.exists()
+    text = stub.read_text(encoding="utf-8")
+    assert "deprecated" in text.lower()
+    assert "ph-civ-index.md" in text
+
+
+def test_ph_civ_index_surfaces_youtube_urls():
+    index = ROOT / "docs" / "ph-civ-index.md"
     assert index.exists()
     text = index.read_text(encoding="utf-8")
-    assert "Source Video Index" in text
-    assert "Predictive History YouTube source URLs" in text
+    assert "ph-civ Chapter Index" in text
     assert "https://www.youtube.com/watch?v=8nsxuB3Vsts" in text
-    assert "book/volume-iii/gt-24/gt-24-transcript.md" in text
+    assert "ph-apo/chapters/gt-24/gt-24-transcript.md" in text
     assert "https://www.youtube.com/watch?v=RG1clZlrfOo" in text
 
 

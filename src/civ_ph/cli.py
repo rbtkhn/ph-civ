@@ -34,7 +34,11 @@ from .commentary_v2 import (
     infer_maturity,
     validate_v2_pilot,
 )
-from .ph_civ_index import ensure_ph_civ_index, validate_ph_civ_index
+from .ph_civ_index import (
+    ensure_ph_civ_index,
+    validate_deprecated_source_video_index,
+    validate_ph_civ_index,
+)
 from .public_surface_inventory import (
     ensure_public_surface_inventory,
     validate_public_surface_inventory,
@@ -870,19 +874,7 @@ def cmd_validate(args) -> int:
         ]:
             if marker not in chapter_folder_text:
                 errors.append(f"docs/chapter-folder-links.md missing marker: {marker}")
-    source_video_doc = DATA_ROOT.parent / "docs" / "source-video-index.md"
-    if not source_video_doc.exists():
-        errors.append("docs/source-video-index.md must exist")
-    else:
-        source_video_text = source_video_doc.read_text(encoding="utf-8")
-        for marker in [
-            "Source Video Index",
-            "Predictive History YouTube source URLs",
-            "https://www.youtube.com/watch?v=8nsxuB3Vsts",
-            "book/volume-iii/gt-24/gt-24-transcript.md",
-        ]:
-            if marker not in source_video_text:
-                errors.append(f"docs/source-video-index.md missing marker: {marker}")
+    errors.extend(validate_deprecated_source_video_index(repo_root=DATA_ROOT.parent))
     bilingual = load_bilingual_loop()
     if bilingual.get("loop_id") != "english_chinese_civilizational_bridge":
         errors.append("bilingual-loop.json invalid loop_id")
@@ -1119,6 +1111,7 @@ def cmd_validate(args) -> int:
     errors.extend(validate_volume_i_parts(require_doorways=True, require_chapter_anchors=True))
     ensure_ph_civ_index(cards)
     errors.extend(validate_ph_civ_index(cards))
+    errors.extend(validate_deprecated_source_video_index(repo_root=DATA_ROOT.parent))
     if getattr(args, "surfaces", False) or getattr(args, "surface_inventory", False):
         if getattr(args, "check", False):
             errors.extend(validate_public_surface_inventory(cards))

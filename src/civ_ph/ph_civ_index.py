@@ -10,6 +10,7 @@ from .data import PACKAGE_ROOT, load_cards
 
 INDEX_MD_REL = "docs/ph-civ-index.md"
 INDEX_JSON_REL = "data/ph-civ-index.json"
+DEPRECATED_SOURCE_VIDEO_INDEX_REL = "docs/source-video-index.md"
 FINGERPRINT_MARKER = "<!-- ph-civ-index-fingerprint:"
 SCHEMA_VERSION = 1
 
@@ -234,7 +235,9 @@ def render_index_body(cards: list[dict], repo_root: Path) -> str:
         "",
         "Bridge support nodes (`sh-11`, `sh-16`, `sh-17`, `sh-18`) appear in Volume I membership but carry cross-volume routing; check each card's `part` and folder.",
         "",
-        "YouTube URLs are read from transcript frontmatter when present. See also [`source-video-index.md`](source-video-index.md).",
+        "YouTube and Substack source URLs appear in the **Video** column below and in "
+        "[`data/ph-civ-index.json`](../data/ph-civ-index.json) (`source_video_url`). "
+        "Legacy [`source-video-index.md`](source-video-index.md) redirects here.",
         "",
     ]
 
@@ -355,4 +358,26 @@ def validate_ph_civ_index(cards: list[dict] | None = None, *, repo_root: Path | 
     if md_fp and json_fp and md_fp != json_fp:
         errors.append("chapter index fingerprint mismatch between markdown and JSON exports")
 
+    return errors
+
+
+DEPRECATED_SOURCE_VIDEO_INDEX_MARKERS = [
+    "deprecated",
+    "ph-civ-index.md",
+    "source_video_url",
+]
+
+
+def validate_deprecated_source_video_index(*, repo_root: Path | None = None) -> list[str]:
+    root = repo_root or PACKAGE_ROOT
+    path = root / DEPRECATED_SOURCE_VIDEO_INDEX_REL
+    errors: list[str] = []
+    if not path.exists():
+        errors.append(f"missing deprecated redirect stub: {DEPRECATED_SOURCE_VIDEO_INDEX_REL}")
+        return errors
+    text = path.read_text(encoding="utf-8")
+    lowered = text.lower()
+    for marker in DEPRECATED_SOURCE_VIDEO_INDEX_MARKERS:
+        if marker.lower() not in lowered:
+            errors.append(f"{DEPRECATED_SOURCE_VIDEO_INDEX_REL} missing marker: {marker}")
     return errors

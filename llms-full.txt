@@ -144,7 +144,8 @@ The localization roadmap also reserves `ph-civ-ru` as a future Russian-language 
 - `data/bilingual-loop.json`: trilingual civilizational bridge ambition metadata.
 - `docs/bilingual-civilizational-bridge.md`: public explanation of the bridge ambition.
 - `docs/chapter-folder-links.md`: chapter-folder URL and YouTube comment handoff contract.
-- `docs/source-video-index.md`: public Predictive History YouTube source URL index.
+- `docs/ph-civ-index.md`: chapter catalog with source URLs in the Video column.
+- `docs/source-video-index.md`: deprecated redirect to ph-civ-index.
 - `book/`: transcripts and commentaries.
 - `docs/archive/ph-mus-retired.md`: retired museum layer note.
 - `schemas/`: public card, route, and validation schemas.

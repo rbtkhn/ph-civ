@@ -98,4 +98,4 @@ Choose one: continue the first tour; study civ-07; study civ-07 through its chap
 - `data/bilingual-loop.json`
 - `docs/bilingual-civilizational-bridge.md`
 - `docs/chapter-folder-links.md`
-- `docs/source-video-index.md`
+- `docs/ph-civ-index.md` (chapter catalog + source URLs; legacy `docs/source-video-index.md` redirects here)
