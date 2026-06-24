@@ -1,7 +1,7 @@
 ---
 source_id: gb-03
 public_slug: great-books-3-poets-and-prophets
-title: "Great Books #3: Poets and Prophets"
+title: Great Books #3: Poets and Prophets
 series: great-books
 episode: 3
 book_chapter_id: gb-ch03
@@ -28,31 +28,96 @@ public_imported_at: 2026-05-14
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
-analysis_depth: stub_routed_to_part
-scaffold_version: ph_civ_commentary_canvas_v1
-part_commentary_path: ../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#gb-03
-part_bibliography_path: ../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md
+analysis_depth: layer2_drafted
+scaffold_version: ph_civ_commentary_canvas_v2
+commentary_maturity: l3_falsifiers
+migration_source: extracted_from_part
+canonical_weave: support_ring_optional@civ-07
+---
+# Commentary - Great Books
+
+The source transcript is `gb-03-transcript.md`. This commentary uses the v2 multi-layer scaffold (chapter-only SSOT).
+
+## Layer 0 - Metadata & Quick Reference
+
+- Core thesis: Poets and prophets overlap as world-disclosing voices; language creates public reality.
+- Primary focus: migrated from Part apparatus § gb-03
+- Confidence in source fidelity: High for transcript body where pin-cited; lecture overlays marked in L4
+- Template version: v2 GB migration
+- Completeness state: in-review
+
 ---
 
-# Commentary - Great Books (stub)
+## Layer 1 - Neutral Summary
 
-**Canonical commentary** for `gb-03` lives in Part II apparatus (Homer support ring; not a core-spine stop).
+arete/eudaimonia + embassy speech-war → Kant language/reality (lecture paraphrase) → Homer summons living characters → Shelley theater mirror → **poet-legislator** closes trilogy institutional leg.
 
-## Core thesis (one line)
+---
 
-Poets and prophets overlap as world-disclosing voices; language creates shared reality — the Iliad as civilization-founding speech.
+## Layer 2 - Source-Backed Claims & Concepts
 
-## Read order
+### Major Claims
 
-1. [`gb-03-transcript.md`](./gb-03-transcript.md) — primary floor
-2. [Part II commentary § gb-03](../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#gb-03) — canonical close-read (Homer support ring)
-3. [Part I commentary § gb-03](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#gb-03) — dual-placement stub @ `civ-02`
-4. [Part II bibliography](../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md) — Homer, Shelley, Kant lecture-paraphrase, scholarship
+| # | Claim | Transcript Reference | Strength | Confidence |
+|---|-------|---------------------|----------|------------|
+| 1 | Iliad can birth civilization because poetic speech creates shared reality | `gb-03-transcript.md#arete-embassy-and-democracy` | Explicit | High |
+| 2 | `arete` — war (Achilles) and speech (Odysseus) as excellence forms | `gb-03-transcript.md#arete-embassy-and-democracy` | Explicit | High |
+| 3 | `eudaimonia` — flourishing via excellence; Achilles chooses heroic death | `gb-03-transcript.md#arete-embassy-and-democracy` | Explicit | High |
+| 4 | War and speech impose reality; embassy speeches as narrative war | `gb-03-transcript.md#arete-embassy-and-democracy` | Explicit | High |
+| 5 | Speeches project movies; Odysseus expands, Achilles contracts (`I`) | `gb-03-transcript.md#arete-embassy-and-democracy` | Explicit | High |
+| 6 | Poetic technique + Iliad memorization → rhetoric → democracy | `gb-03-transcript.md#arete-embassy-and-democracy` | Explicit | High |
+| 7 | Kant (lecture paraphrase): phenomena shaped via time/space; poets create language/reality | `gb-03-transcript.md#kant-language-poets` | Explicit | Medium |
+| 8 | Poets as prophets; Homer summons living characters; Iliad as portal | `gb-03-transcript.md#homer-summons-characters` | Explicit | Medium |
+| 9 | Reading Iliad increases divine "download speed"; GB connects to God | `gb-03-transcript.md#homer-summons-characters` | Explicit | Medium |
+| 10 | Shelley: theater + greatness; tragedy mirror; hubris → catharsis | `gb-03-transcript.md#shelley-defense-theater` | Explicit | High |
+| 11 | Poets combine eternal and material; words reanimate soul-memory | `gb-03-transcript.md#shelley-poet-legislator` | Explicit | Medium |
+| 12 | Shelley: poets as legislators; poetry basis of civilization | `gb-03-transcript.md#shelley-poet-legislator` | Explicit | High |
 
-## Part placement
+---
 
-- Part I weave: interwoven @ `civ-02` — [Part I doorway](../../volume-i-civilization/parts/part-01-dawn-of-civilization.md)
-- Part II weave: `support_ring_optional` @ `civ-07` — [Part II doorway](../../volume-i-civilization/parts/part-02-hellenic-world.md)
-- Support ring: open after civ survey per [Homer support ring](../../../data/corridors/homer-to-tolstoy-support-ring.md)
+## Layer 3 - Predictions & Falsifiers
 
-Do not duplicate Part bibliography or cross-chapter prediction tables in this stub.
+| Prediction | Strength | Falsifier Criteria | Review Date | Current Status | Notes |
+|------------|----------|-------------------|-------------|----------------|-------|
+| Pending — migrated from Part ledger row | SI | Part ledger falsifier or scholarly counter-evidence | 2027-06-01 | Pending | Migrated from Part § gb-03 |
+
+---
+
+## Layer 4 - Counter-Readings
+
+| Topic | Counter-reading | Strength |
+|-------|-----------------|----------|
+| Kant phenomena/noumena paraphrase | Loose vs *Critique of Pure Reason*; mechanism analogy only | High |
+| Poets summon universe / download-speed | Lecture theology overlay on Homer | Low |
+| Memorization → democracy | Civic-education claim needs institutional history review | Medium |
+
+---
+
+## Layer 5 - Synthesis & Cross-Volume Links
+
+| pattern_id | How this chapter supports or limits it |
+|------------|----------------------------------------|
+| TBD | Calibrate after host chapter weave review |
+
+**Weave host:** [`civ-07`](../../volume-ii/civ-07/civ-07-commentary.md) — `support_ring_optional` @ this anchor.
+
+**Part links (migration note):** **Trilogy closer** after `gb-02`/`gb-05`; same narrative-war grammar as `#book1-council` at embassy scale; `civ-08` institutionalizes eudaimonia; `civ-09` Shelley theater row; support ring on Homer-to-Tolstoy ring, not Homer-to-Dante core spine.
+
+---
+
+## Layer 6 - Open Issues
+
+- Part v1 section migrated; verify no unique claims remain only in archived Part files.
+- Expand L3 rows from Part prediction ledger where folded summaries need unpacking.
+
+---
+
+## Project Canvas (chapter-local)
+
+### Open Questions
+
+- Which claims need external bibliography before quotation-grade use?
+
+### Build Notes
+
+- Migrated from Part extract via `migrate_gb_stubs_to_v2.py`; authority now chapter-only.

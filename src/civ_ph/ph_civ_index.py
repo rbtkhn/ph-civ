@@ -5,6 +5,7 @@ import json
 import re
 from pathlib import Path
 
+from .commentary_v2 import commentary_metadata
 from .data import PACKAGE_ROOT, load_cards
 
 INDEX_MD_REL = "docs/ph-civ-index.md"
@@ -109,6 +110,14 @@ def chapter_entry(card: dict, repo_root: Path) -> dict:
     video = source_video_url(card, repo_root)
     if video:
         entry["source_video_url"] = video
+    commentary_path = repo_root / commentary if commentary else None
+    if commentary_path and commentary_path.exists():
+        meta = commentary_metadata(commentary_path)
+        entry["commentary_maturity"] = meta["commentary_maturity"]
+        entry["scaffold_version"] = meta["scaffold_version"]
+        if meta["migration_source"]:
+            entry["migration_source"] = meta["migration_source"]
+        entry["deprecated_part_routing"] = meta["deprecated_part_routing"]
     return entry
 
 

@@ -11,7 +11,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 1. Doorway — this README tells you what the packet is and what limits apply.
 2. Primary source floor — read the transcript and public source capture first.
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
-4. Part apparatus — [Part VII commentary § civ-39](../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-39) and [Part VII bibliography](../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md) for cross-chapter synthesis and external sources.
+4. Chapter commentary — full L0–6 in the companion commentary file (see docs/commentary-methodology-v2.md).
 5. Forward bridge — after this packet, read [Part VII § civ-40](../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-40) (church/Crusades bridge); follows [civ-38](../civ-38/README.md).
 6. Public card — orientation payload after the chapter and Part floors are open.
 7. Widened interpretation — steppe rupture before Dante re-entry; pairs [`civ-37`](../civ-37/README.md) Mongol sack thread.
@@ -19,9 +19,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 ## Files
 
 - [Transcript](civ-39-transcript.md)
-- [Commentary canvas (thin)](civ-39-commentary.md)
-- [Part VII commentary § civ-39](../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-39)
-- [Part VII bibliography](../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md)
+- [Commentary canvas](civ-39-commentary.md)
 - [Forward — Part VII § civ-40](../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-40)
 - [Public card](../../../data/cards/civ-39.md)
 

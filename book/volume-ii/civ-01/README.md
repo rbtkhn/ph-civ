@@ -11,7 +11,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 1. Doorway — this README tells you what the packet is and what limits apply.
 2. Primary source floor — read the transcript and public source capture first.
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
-4. Part apparatus — [Part I commentary § civ-01](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-01) and [Part I bibliography](../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md) for cross-chapter synthesis and external sources.
+4. Chapter commentary — full L0–6 in the companion commentary file (see docs/commentary-methodology-v2.md).
 5. Great Books weave — after this packet, read [gb-01](../../volume-v/gb-01/README.md) (interwoven @ `civ-01`); Part stub-route in [Part I § gb-01](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#gb-01).
 6. Secret History prologue — optional [sh-11](../../volume-vi/sh-11/README.md) pointer @ `civ-01`; see [Part I § sh-11](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#sh-11).
 7. Public card — orientation payload after the chapter and Part floors are open.
@@ -20,10 +20,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 ## Files
 
 - [Transcript](civ-01-transcript.md)
-- [Commentary canvas (thin)](civ-01-commentary.md)
-- [Part I commentary § civ-01](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-01)
-- [Part I bibliography](../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md)
-- [Part I § gb-01](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#gb-01)
+- [Commentary canvas](civ-01-commentary.md)
 - [sh-11 prologue](../../volume-vi/sh-11/README.md)
 - [civ-02 forward](../civ-02/README.md)
 - [Public card](../../../data/cards/civ-01.md)

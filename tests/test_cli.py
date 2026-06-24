@@ -247,6 +247,14 @@ def test_llm_native_bootloader_contract(capsys):
     assert experience["chapter_folder_links"]["reader_doc"] == "docs/chapter-folder-links.md"
     assert experience["chapter_folder_links"]["default_mode"] == "study"
     assert experience["chapter_folder_links"]["cli"] == "ph-civ link <source_id>"
+    assert experience["chapter_catalog"]["json_path"] == "data/ph-civ-index.json"
+    assert experience["chapter_catalog"]["markdown_path"] == "docs/ph-civ-index.md"
+    assert experience["chapter_catalog"]["not_replacement_for"] == "first_tour"
+    assert "data/ph-civ-index.json" in experience["unfolding_map"]
+    study_mode = next(mode for mode in experience["modes"] if mode["mode"] == "study")
+    assert "data/ph-civ-index.json" in study_mode["start_files"]
+    catalog_mode = next(mode for mode in experience["modes"] if mode["mode"] == "catalog")
+    assert catalog_mode["start_files"] == ["data/ph-civ-index.json", "docs/ph-civ-index.md"]
     assert experience["public_surfaces"]["volume_i"]["surface"] == "ph-civ"
     assert experience["public_surfaces"]["volume_ii"]["surface"] == "ph-apo"
     assert "museum" not in experience["public_surfaces"]
@@ -263,6 +271,7 @@ def test_llm_native_bootloader_contract(capsys):
     assert payload["first_tour"]["path"] == "data/routes/first-tour.json"
     assert payload["bilingual_bridge"]["path"] == "data/bilingual-loop.json"
     assert payload["chapter_folder_links"]["reader_doc"] == "docs/chapter-folder-links.md"
+    assert payload["chapter_catalog"]["json_path"] == "data/ph-civ-index.json"
     assert payload["first_seed"]["route_ids"] == load_route_seed()["route_ids"]
 
 
@@ -291,6 +300,8 @@ def test_llms_full_context_packet_exists():
     assert "Chapter-Folder Links" in text
     assert "not a replacement for `first_tour`" in text
     assert "docs/source-video-index.md" in text
+    assert "data/ph-civ-index.json" in text
+    assert "Chapter Catalog" in text
 
 
 def test_source_video_index_surfaces_youtube_urls():

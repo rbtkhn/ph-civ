@@ -11,16 +11,14 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 1. Doorway — this README tells you what the packet is and what limits apply.
 2. Primary source floor — read the transcript and public source capture first.
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
-4. Part apparatus — [Part IX commentary § civ-53](../../volume-i-civilization/parts/part-09-age-of-conscience-commentary.md#civ-53) and [Part IX bibliography](../../volume-i-civilization/parts/part-09-age-of-conscience-bibliography.md) for cross-chapter synthesis, `sh-16` pointer, and external sources.
+4. Chapter commentary — full L0–6 in the companion commentary file (see docs/commentary-methodology-v2.md).
 5. Public card — orientation payload after the chapter and Part floors are open.
 6. Widened interpretation — Part IX **close**; follows [civ-52](../civ-52/README.md); [homer-to-tolstoy](../../../data/corridors/homer-to-tolstoy.md) step 5 (Dostoevsky) + [`sh-16`](../../volume-i-civilization/secret-history-support/sh-16/README.md) Tolstoy hinge; [civilization-to-apocalypse](../../parts/civilization-to-apocalypse.md) ingress.
 
 ## Files
 
 - [Transcript](civ-53-transcript.md)
-- [Commentary canvas (thin)](civ-53-commentary.md)
-- [Part IX commentary § civ-53](../../volume-i-civilization/parts/part-09-age-of-conscience-commentary.md#civ-53)
-- [Part IX bibliography](../../volume-i-civilization/parts/part-09-age-of-conscience-bibliography.md)
+- [Commentary canvas](civ-53-commentary.md)
 - [Public card](../../../data/cards/civ-53.md)
 
 ## Review Status

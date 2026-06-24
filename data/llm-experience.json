@@ -60,12 +60,13 @@
       "data/spines/homer-to-tolstoy.json"
     ]
   },
-  "part_tour": {
-    "path": "data/routes/part-boundary-tour.json",
-    "registry": "data/parts/volume-i-parts.json",
-    "reader_doc": "book/volume-i-civilization/parts/README.md",
+  "spine_tour": {
+    "path": "data/routes/volume-i-spine-tour.json",
+    "registry": "data/weave/volume-i-companions.json",
+    "reader_doc": "book/volume-i-civilization/interwoven-reader/README.md",
+    "deprecated_registry": "data/parts/volume-i-parts.deprecated.json",
     "related_seed_id": "ten_route_spine_seed",
-    "instruction": "Tour Volume I by Part doorway — one stop per spine_start (civ-01 through civ-54). Complements first_tour; does not replace Homer-to-Tolstoy opening at civ-07."
+    "instruction": "Tour Volume I by interwoven spine stops (source_id at each legacy Part boundary). Replaces part_tour; does not replace Homer-to-Tolstoy opening at civ-07."
   },
   "first_tour": {
     "path": "data/routes/first-tour.json",
@@ -97,6 +98,14 @@
     "purpose": "direct YouTube comment and LLM-chat handoff for one chapter folder",
     "not_replacement_for": "first_tour"
   },
+  "chapter_catalog": {
+    "json_path": "data/ph-civ-index.json",
+    "markdown_path": "docs/ph-civ-index.md",
+    "purpose": "full_chapter_and_lecture_catalog",
+    "instruction": "When the reader needs to browse, search, or resolve any ph-civ or ph-apo chapter by source_id, load data/ph-civ-index.json for structured paths, surfaces, series, and video URLs; use docs/ph-civ-index.md for human-readable tables.",
+    "cli": "ph-civ index",
+    "not_replacement_for": "first_tour"
+  },
   "modes": [
     {
       "mode": "first_tour",
@@ -110,21 +119,30 @@
       ]
     },
     {
-      "mode": "part_tour",
-      "instruction": "Tour Volume I using the ten Part doorways and part-boundary-tour stops; keep interwoven-reader order as authority.",
+      "mode": "spine_tour",
+      "instruction": "Tour Volume I using interwoven spine stops and the weave companion registry; chapter commentaries are L0–6 SSOT.",
       "start_files": [
-        "data/parts/volume-i-parts.json",
-        "data/routes/part-boundary-tour.json",
-        "book/volume-i-civilization/parts/README.md",
-        "book/volume-i-civilization/interwoven-reader/README.md"
+        "data/weave/volume-i-companions.json",
+        "data/routes/volume-i-spine-tour.json",
+        "book/volume-i-civilization/interwoven-reader/README.md",
+        "docs/commentary-methodology-v2.md"
       ]
     },
     {
       "mode": "study",
       "instruction": "Study one chapter through its card, transcript, commentary, limits, and return path.",
       "start_files": [
+        "data/ph-civ-index.json",
         "data/cards.jsonl",
         "book/"
+      ]
+    },
+    {
+      "mode": "catalog",
+      "instruction": "Browse or resolve chapters across both volumes using the unified chapter index.",
+      "start_files": [
+        "data/ph-civ-index.json",
+        "docs/ph-civ-index.md"
       ]
     },
     {
@@ -183,9 +201,11 @@
     "AGENTS.md",
     "docs/public-repo-contract.md",
     "docs/export-contract.md",
-    "data/parts/volume-i-parts.json",
-    "data/routes/part-boundary-tour.json",
-    "book/volume-i-civilization/parts/README.md",
+    "data/weave/volume-i-companions.json",
+    "data/routes/volume-i-spine-tour.json",
+    "data/parts/volume-i-parts.deprecated.json",
+    "book/volume-i-civilization/interwoven-reader/README.md",
+    "docs/commentary-methodology-v2.md",
     "data/routes/seed.json",
     "data/routes/first-tour.json",
     "data/routes/choreography.json",
@@ -193,6 +213,8 @@
     "data/bilingual-loop.json",
     "docs/bilingual-civilizational-bridge.md",
     "docs/chapter-folder-links.md",
+    "data/ph-civ-index.json",
+    "docs/ph-civ-index.md",
     "docs/source-video-index.md",
     "data/cards.jsonl",
     "data/patterns.json"

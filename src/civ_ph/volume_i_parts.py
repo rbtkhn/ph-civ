@@ -84,6 +84,7 @@ def validate_volume_i_parts(
     *,
     require_doorways: bool = False,
     require_chapter_anchors: bool = False,
+    require_readme_part_links: bool = False,
 ) -> list[str]:
     errors: list[str] = []
     if not REGISTRY_PATH.exists():
@@ -205,7 +206,7 @@ def validate_volume_i_parts(
                 if not bibliography_file.is_file():
                     errors.append(f"{part_id} missing bibliography: {bibliography_path}")
 
-        if commentary_path and bibliography_path:
+        if commentary_path and bibliography_path and require_readme_part_links:
             commentary_basename = Path(commentary_path).name
             bibliography_basename = Path(bibliography_path).name
             for civ_id in chapters:

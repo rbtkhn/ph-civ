@@ -26,6 +26,14 @@ from .data import (
     pattern_markdown,
     patterns_for_source,
 )
+from .commentary_v2 import (
+    MATURITY_VALUES,
+    SCAFFOLD_VERSION_V2,
+    commentary_metadata,
+    commentary_status_report,
+    infer_maturity,
+    validate_v2_pilot,
+)
 from .ph_civ_index import ensure_ph_civ_index, validate_ph_civ_index
 from .volume_i_parts import validate_volume_i_parts
 
@@ -56,6 +64,8 @@ COMMENTARY_CANVAS_FIELDS = {
 ALLOWED_ANALYSIS_DEPTHS = frozenset(
     {"seed", "layer2_slimmed", "layer2_drafted", "stub_routed_to_part"}
 )
+
+PILOT_V2_SOURCE_IDS = frozenset({"civ-07", "civ-22", "civ-29", "gb-02", "gt-24", "sh-17"})
 
 COMMENTARY_CANVAS_HEADINGS = [
     "## Project Canvas",
@@ -159,15 +169,25 @@ def validate_commentary_canvas(source_id: str, commentary_path) -> list[str]:
     errors: list[str] = []
     if "commentary_status" not in frontmatter:
         errors.append(f"{source_id} missing commentary_status")
-    for key, expected in COMMENTARY_CANVAS_FIELDS.items():
-        if frontmatter.get(key) != expected:
-            errors.append(f"{source_id} invalid {key}: {frontmatter.get(key)}")
+    scaffold = frontmatter.get("scaffold_version", "")
+    if scaffold not in {"ph_civ_commentary_canvas_v1", SCAFFOLD_VERSION_V2}:
+        errors.append(f"{source_id} invalid scaffold_version: {scaffold}")
+    if frontmatter.get("canvas_status") != "open":
+        errors.append(f"{source_id} invalid canvas_status: {frontmatter.get('canvas_status')}")
     depth = frontmatter.get("analysis_depth", "")
     if depth not in ALLOWED_ANALYSIS_DEPTHS:
         errors.append(f"{source_id} invalid analysis_depth: {depth}")
     if depth == "stub_routed_to_part":
         return errors
-    if "## Project Canvas (chapter-local)" in text or depth == "layer2_slimmed":
+    thin_canvas = (
+        "## Project Canvas (chapter-local)" in text
+        or depth == "layer2_slimmed"
+        or (
+            scaffold == SCAFFOLD_VERSION_V2
+            and "## Project Canvas (chapter-local)" in text
+        )
+    )
+    if thin_canvas:
         thin_headings = ["## Project Canvas (chapter-local)", "### Open Questions"]
         build_note_headings = ("### Build Notes", "### Build Notes / Future Enhancements")
         for heading in thin_headings:
@@ -582,6 +602,28 @@ def cmd_index(args) -> int:
     return 0
 
 
+def cmd_commentary_status(args) -> int:
+    cards = load_cards()
+    report = commentary_status_report(cards, DATA_ROOT.parent)
+    if args.json:
+        emit_json(report)
+        return 0
+    print(f"total: {report['total']}")
+    print("by_commentary_maturity:")
+    for key, value in report["by_commentary_maturity"].items():
+        print(f"  {key}: {value}")
+    print("by_scaffold_version:")
+    for key, value in report["by_scaffold_version"].items():
+        print(f"  {key}: {value}")
+    print("wave_queue:")
+    for queue, ids in report["wave_queue"].items():
+        print(f"  {queue}: {len(ids)}")
+        if args.verbose and ids:
+            for source_id in ids:
+                print(f"    - {source_id}")
+    return 0
+
+
 def cmd_validate(args) -> int:
     cards = load_cards()
     errors = []
@@ -714,18 +756,6 @@ def cmd_validate(args) -> int:
     full_context_path = DATA_ROOT.parent / "llms-full.txt"
     if not full_context_path.exists():
         errors.append("llms-full.txt must exist as the full LLM context packet")
-    else:
-        full_context_text = full_context_path.read_text(encoding="utf-8")
-        for marker in [
-            "full one-shot LLM context packet",
-            "First Response Contract",
-            "Do not stop at a generic repository summary",
-            "Default mode: `first_tour`",
-            "Homer to Tolstoy is the Volume I literary spine",
-            "two-volume public artifact",
-        ]:
-            if marker not in full_context_text:
-                errors.append(f"llms-full.txt missing marker: {marker}")
     if llm_experience.get("primary_artifact") != "two_volume_ph_civ":
         errors.append("llm-experience.json invalid primary_artifact")
     first_response = llm_experience.get("first_response_contract", {})
@@ -759,6 +789,63 @@ def cmd_validate(args) -> int:
         errors.append("llm-experience chapter_folder_links must default to study")
     if "ph-civ link" not in chapter_folder_links.get("cli", ""):
         errors.append("llm-experience chapter_folder_links must expose ph-civ link")
+    chapter_catalog = llm_experience.get("chapter_catalog", {})
+    if chapter_catalog.get("json_path") != "data/ph-civ-index.json":
+        errors.append("llm-experience chapter_catalog must point to data/ph-civ-index.json")
+    if chapter_catalog.get("markdown_path") != "docs/ph-civ-index.md":
+        errors.append("llm-experience chapter_catalog must point to docs/ph-civ-index.md")
+    if chapter_catalog.get("not_replacement_for") != "first_tour":
+        errors.append("llm-experience chapter_catalog must not replace first_tour")
+    if "ph-civ index" not in chapter_catalog.get("cli", ""):
+        errors.append("llm-experience chapter_catalog must expose ph-civ index")
+    catalog_json = DATA_ROOT / "ph-civ-index.json"
+    if not catalog_json.exists():
+        errors.append("data/ph-civ-index.json must exist as the chapter catalog")
+    else:
+        catalog_payload = json.loads(catalog_json.read_text(encoding="utf-8"))
+        if catalog_payload.get("card_count") != len(cards):
+            errors.append("data/ph-civ-index.json card_count must match cards.jsonl")
+        if len(catalog_payload.get("chapters", [])) != len(cards):
+            errors.append("data/ph-civ-index.json chapters must match cards.jsonl")
+    catalog_md = DATA_ROOT.parent / "docs" / "ph-civ-index.md"
+    if not catalog_md.exists():
+        errors.append("docs/ph-civ-index.md must exist as the chapter catalog")
+    else:
+        catalog_md_text = catalog_md.read_text(encoding="utf-8")
+        for marker in [
+            "ph-civ Chapter Index",
+            "Volume I — Civilization",
+            "Volume II — Apocalypse",
+            "data/ph-civ-index.json",
+        ]:
+            if marker not in catalog_md_text:
+                errors.append(f"docs/ph-civ-index.md missing marker: {marker}")
+    unfolding_map = llm_experience.get("unfolding_map", [])
+    for required_path in ["data/ph-civ-index.json", "docs/ph-civ-index.md"]:
+        if required_path not in unfolding_map:
+            errors.append(f"llm-experience unfolding_map must include {required_path}")
+    study_mode = next((mode for mode in llm_experience.get("modes", []) if mode.get("mode") == "study"), {})
+    if "data/ph-civ-index.json" not in study_mode.get("start_files", []):
+        errors.append("llm-experience study mode must start from data/ph-civ-index.json")
+    catalog_mode = next((mode for mode in llm_experience.get("modes", []) if mode.get("mode") == "catalog"), None)
+    if catalog_mode is None:
+        errors.append("llm-experience must define catalog mode")
+    elif catalog_mode.get("start_files") != ["data/ph-civ-index.json", "docs/ph-civ-index.md"]:
+        errors.append("llm-experience catalog mode must start from chapter index files")
+    full_context_text = full_context_path.read_text(encoding="utf-8") if full_context_path.exists() else ""
+    if full_context_path.exists():
+        for marker in [
+            "full one-shot LLM context packet",
+            "First Response Contract",
+            "Do not stop at a generic repository summary",
+            "Default mode: `first_tour`",
+            "Homer to Tolstoy is the Volume I literary spine",
+            "two-volume public artifact",
+            "data/ph-civ-index.json",
+            "Chapter Catalog",
+        ]:
+            if marker not in full_context_text:
+                errors.append(f"llms-full.txt missing marker: {marker}")
     chapter_folder_doc = DATA_ROOT.parent / "docs" / "chapter-folder-links.md"
     if not chapter_folder_doc.exists():
         errors.append("docs/chapter-folder-links.md must exist")
@@ -976,6 +1063,48 @@ def cmd_validate(args) -> int:
             errors.append(f"{campaign.get('campaign_id')} missing measurable growth outputs")
     errors.extend(validate_patterns(load_patterns(), cards))
     errors.extend(validate_public_boundary())
+    weave_registry = DATA_ROOT / "weave" / "volume-i-companions.json"
+    if not weave_registry.exists():
+        errors.append("data/weave/volume-i-companions.json must exist")
+    spine_tour_path = DATA_ROOT / "routes" / "volume-i-spine-tour.json"
+    if not spine_tour_path.exists():
+        errors.append("data/routes/volume-i-spine-tour.json must exist")
+    else:
+        spine_tour = json.loads(spine_tour_path.read_text(encoding="utf-8"))
+        if spine_tour.get("tour_id") != "volume_i_spine_tour":
+            errors.append("volume-i-spine-tour must use tour_id volume_i_spine_tour")
+        if len(spine_tour.get("stops", [])) != 10:
+            errors.append("volume-i-spine-tour must have 10 stops")
+    deprecated_parts = DATA_ROOT / "parts" / "volume-i-parts.deprecated.json"
+    if not deprecated_parts.exists():
+        errors.append("data/parts/volume-i-parts.deprecated.json must exist for link redirects")
+    llm_spine = llm_experience.get("spine_tour", {})
+    if llm_spine.get("path") != "data/routes/volume-i-spine-tour.json":
+        errors.append("llm-experience spine_tour must point to data/routes/volume-i-spine-tour.json")
+    if llm_spine.get("registry") != "data/weave/volume-i-companions.json":
+        errors.append("llm-experience spine_tour must point to data/weave/volume-i-companions.json")
+    spine_mode = next(
+        (mode for mode in llm_experience.get("modes", []) if mode.get("mode") == "spine_tour"),
+        None,
+    )
+    if spine_mode is None:
+        errors.append("llm-experience must define spine_tour mode")
+    elif not any(
+        "volume-i-spine-tour.json" in path for path in spine_mode.get("start_files", [])
+    ):
+        errors.append("llm-experience spine_tour mode must start from volume-i-spine-tour.json")
+    cards_by_id = {card["source_id"]: card for card in cards}
+    for pilot_id in sorted(PILOT_V2_SOURCE_IDS):
+        card = cards_by_id.get(pilot_id)
+        if not card:
+            errors.append(f"v2 pilot missing card: {pilot_id}")
+            continue
+        commentary_rel = card.get("source_paths", {}).get("commentary_path", "")
+        commentary_path = DATA_ROOT.parent / commentary_rel
+        if commentary_path.exists():
+            errors.extend(validate_v2_pilot(commentary_path, pilot_id))
+        else:
+            errors.append(f"v2 pilot missing commentary file: {pilot_id}")
     errors.extend(validate_volume_i_parts(require_doorways=True, require_chapter_anchors=True))
     ensure_ph_civ_index(cards)
     errors.extend(validate_ph_civ_index(cards))
@@ -1328,6 +1457,11 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("validate", help="Validate packaged cards.")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_validate)
+
+    p = sub.add_parser("commentary-status", help="Commentary maturity histogram and rebuild wave queue.")
+    p.add_argument("--json", action="store_true")
+    p.add_argument("--verbose", action="store_true", help="List source IDs in each wave queue.")
+    p.set_defaults(func=cmd_commentary_status)
 
     p = sub.add_parser("index", help="Generate or verify docs/ph-civ-index.md.")
     p.add_argument("--check", action="store_true", help="Fail if the index is stale without rewriting.")

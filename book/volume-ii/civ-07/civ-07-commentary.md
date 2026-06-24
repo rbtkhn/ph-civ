@@ -27,7 +27,9 @@ rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
 analysis_depth: layer2_drafted
-scaffold_version: ph_civ_commentary_canvas_v1
+scaffold_version: ph_civ_commentary_canvas_v2
+commentary_maturity: calibration
+migration_source: upgrade
 ---
 
 # Commentary - Civilization
@@ -93,14 +95,44 @@ Every claim below is tied to the transcript body in `civ-07-transcript.md`.
 - **Scholar-official literacy monopoly**: the China comparison in which elite control of writing limits poetic independence. `civ-07-transcript.md#greece-china-contrast`
 ---
 
-## Part apparatus
+## Layer 3 - Predictions & Falsifiers
 
-Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part II live in the Part files:
+| Prediction | Strength | Falsifier Criteria | Review Date | Current Status | Notes |
+|------------|----------|-------------------|-------------|----------------|-------|
+| Post-collapse decentralization and alphabetic literacy are necessary preconditions for the polis–Homer synthesis the lecture treats as Greek founding | SI | Counterexample polis with comparable creativity absent collapse/alphabet frame | 2027-06-01 | Pending | Structural; see L2 claims 2–4 |
+| Homer-centered imagination (empathy, interior psychology) remains the grammar for later Greek intellectuals (Thucydides et al.) | SI | Major Greek historian or philosopher operates outside Homeric speech-world without lecture accommodation | 2027-06-01 | Pending | Pairs `gb-02` weave |
+| Greece/China contrast (open poet vs scholar-official literacy monopoly) predicts different long-run imagination politics | C | Convergent literacy politics without censorship differential | 2027-06-01 | Pending | Lecture contrast only |
 
-- [Part II commentary](../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#civ-07) — Hellenic grammar, prediction ledger, Great Books sections
-- [Part II bibliography](../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md)
+---
 
-Layer 0–2 above remain the transcript pin-cite floor for this chapter.
+## Layer 4 - Counter-Readings
+
+| Topic | Counter-reading | Strength |
+|-------|-----------------|----------|
+| Destruction enables creativity | Collapse may delay rather than enable cultural takeoff; Mycenaean continuity debated | Medium |
+| Homer as founder | Oral-formulaic and Near Eastern epic parallels complicate "invention" claims | Medium |
+| Greece/China contrast | Compresses complex East Asian literary history into censorship monolith | High |
+
+---
+
+## Layer 5 - Synthesis & Cross-Volume Links
+
+| pattern_id | How this chapter supports or limits it |
+|------------|----------------------------------------|
+| `civ-imperial-hubris` | Prefigures democratic hubris arc in `civ-08`–`civ-10` via narrative-control grammar |
+| `civ-modern-ideology-machine` | Limits: lecture is ancient literacy politics, not modern ideology machine |
+
+**Weave companions:** [`gb-02`](../../volume-v/gb-02/gb-02-commentary.md), [`gb-05`](../../volume-v/gb-05/gb-05-commentary.md), [`gb-03`](../../volume-v/gb-03/gb-03-commentary.md) — Homer cluster @ this host ([`data/weave/volume-i-companions.json`](../../../data/weave/volume-i-companions.json)).
+
+**Corridor:** [Homer to Dante](../../../data/corridors/homer-to-dante.md) — link only; do not paste corridor thesis here.
+
+---
+
+## Layer 6 - Open Issues
+
+- Homer author vs oral tradition before publication polish.
+- China comparison nuance; external literacy sources.
+- Part v1 hybrid content migrated 2026-06; unique claims should not remain only in archived Part files.
 
 ---
 
@@ -113,4 +145,4 @@ Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
 ### Build Notes
 
-- Cross-chapter work: use Part apparatus; do not duplicate Part bibliography here.
+- Cross-chapter weave: use companions registry and corridor links; chapter is SSOT for L0–6.

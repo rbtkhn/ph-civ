@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "fingerprint": "c40198f5bc3c576e",
+  "fingerprint": "2938f573efef67d0",
   "card_count": 150,
   "ssot": "data/cards.jsonl",
   "markdown_index": "docs/ph-civ-index.md",
@@ -87,7 +87,10 @@
         "folder": "book/volume-ii/civ-01",
         "folder_readme": "book/volume-ii/civ-01/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=Jjqf9T59uY0"
+      "source_video_url": "https://www.youtube.com/watch?v=Jjqf9T59uY0",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-02",
@@ -104,7 +107,10 @@
         "folder": "book/volume-ii/civ-02",
         "folder_readme": "book/volume-ii/civ-02/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=x1E5rRmCiT4"
+      "source_video_url": "https://www.youtube.com/watch?v=x1E5rRmCiT4",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-03",
@@ -121,7 +127,10 @@
         "folder": "book/volume-ii/civ-03",
         "folder_readme": "book/volume-ii/civ-03/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=VanPH0GFTsA"
+      "source_video_url": "https://www.youtube.com/watch?v=VanPH0GFTsA",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-04",
@@ -138,7 +147,10 @@
         "folder": "book/volume-ii/civ-04",
         "folder_readme": "book/volume-ii/civ-04/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=RaT_ZUDjHrM"
+      "source_video_url": "https://www.youtube.com/watch?v=RaT_ZUDjHrM",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-05",
@@ -155,7 +167,10 @@
         "folder": "book/volume-ii/civ-05",
         "folder_readme": "book/volume-ii/civ-05/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=J4HTFJWl5D8"
+      "source_video_url": "https://www.youtube.com/watch?v=J4HTFJWl5D8",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-06",
@@ -172,7 +187,10 @@
         "folder": "book/volume-ii/civ-06",
         "folder_readme": "book/volume-ii/civ-06/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=QwfB-vXXKWU"
+      "source_video_url": "https://www.youtube.com/watch?v=QwfB-vXXKWU",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-07",
@@ -189,7 +207,11 @@
         "folder": "book/volume-ii/civ-07",
         "folder_readme": "book/volume-ii/civ-07/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=677rmlRgvLQ"
+      "source_video_url": "https://www.youtube.com/watch?v=677rmlRgvLQ",
+      "commentary_maturity": "calibration",
+      "scaffold_version": "ph_civ_commentary_canvas_v2",
+      "migration_source": "upgrade",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "civ-08",
@@ -206,7 +228,10 @@
         "folder": "book/volume-ii/civ-08",
         "folder_readme": "book/volume-ii/civ-08/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=NpNCQ_gNqdE"
+      "source_video_url": "https://www.youtube.com/watch?v=NpNCQ_gNqdE",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-09",
@@ -223,7 +248,10 @@
         "folder": "book/volume-ii/civ-09",
         "folder_readme": "book/volume-ii/civ-09/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=96hzWlozdHw"
+      "source_video_url": "https://www.youtube.com/watch?v=96hzWlozdHw",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-10",
@@ -240,7 +268,10 @@
         "folder": "book/volume-ii/civ-10",
         "folder_readme": "book/volume-ii/civ-10/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=LWlTtdNww_k"
+      "source_video_url": "https://www.youtube.com/watch?v=LWlTtdNww_k",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-11",
@@ -257,7 +288,10 @@
         "folder": "book/volume-ii/civ-11",
         "folder_readme": "book/volume-ii/civ-11/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=l6AroD58jkE"
+      "source_video_url": "https://www.youtube.com/watch?v=l6AroD58jkE",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-12",
@@ -274,7 +308,10 @@
         "folder": "book/volume-ii/civ-12",
         "folder_readme": "book/volume-ii/civ-12/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=iTuRB48Of9Y"
+      "source_video_url": "https://www.youtube.com/watch?v=iTuRB48Of9Y",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-13",
@@ -291,7 +328,10 @@
         "folder": "book/volume-ii/civ-13",
         "folder_readme": "book/volume-ii/civ-13/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=WoTOxE4DTFA"
+      "source_video_url": "https://www.youtube.com/watch?v=WoTOxE4DTFA",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-14",
@@ -308,7 +348,10 @@
         "folder": "book/volume-ii/civ-14",
         "folder_readme": "book/volume-ii/civ-14/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=TdcE7XGDayo"
+      "source_video_url": "https://www.youtube.com/watch?v=TdcE7XGDayo",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-15",
@@ -325,7 +368,10 @@
         "folder": "book/volume-ii/civ-15",
         "folder_readme": "book/volume-ii/civ-15/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=F8qQgsEFGgc"
+      "source_video_url": "https://www.youtube.com/watch?v=F8qQgsEFGgc",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-16",
@@ -342,7 +388,10 @@
         "folder": "book/volume-ii/civ-16",
         "folder_readme": "book/volume-ii/civ-16/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=Dc54IquR7ik"
+      "source_video_url": "https://www.youtube.com/watch?v=Dc54IquR7ik",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-17",
@@ -359,7 +408,10 @@
         "folder": "book/volume-ii/civ-17",
         "folder_readme": "book/volume-ii/civ-17/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=myTurqU7NxU"
+      "source_video_url": "https://www.youtube.com/watch?v=myTurqU7NxU",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-18",
@@ -376,7 +428,10 @@
         "folder": "book/volume-ii/civ-18",
         "folder_readme": "book/volume-ii/civ-18/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=KSSSCznYrGo"
+      "source_video_url": "https://www.youtube.com/watch?v=KSSSCznYrGo",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-19",
@@ -393,7 +448,10 @@
         "folder": "book/volume-ii/civ-19",
         "folder_readme": "book/volume-ii/civ-19/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=e92jyBMmAyM"
+      "source_video_url": "https://www.youtube.com/watch?v=e92jyBMmAyM",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-20",
@@ -410,7 +468,10 @@
         "folder": "book/volume-ii/civ-20",
         "folder_readme": "book/volume-ii/civ-20/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=cvI8rukoda8"
+      "source_video_url": "https://www.youtube.com/watch?v=cvI8rukoda8",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-21",
@@ -427,7 +488,10 @@
         "folder": "book/volume-ii/civ-21",
         "folder_readme": "book/volume-ii/civ-21/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=RkpGrRUgjnk"
+      "source_video_url": "https://www.youtube.com/watch?v=RkpGrRUgjnk",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-22",
@@ -444,7 +508,11 @@
         "folder": "book/volume-ii/civ-22",
         "folder_readme": "book/volume-ii/civ-22/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=GhLd_h1QsL4"
+      "source_video_url": "https://www.youtube.com/watch?v=GhLd_h1QsL4",
+      "commentary_maturity": "l3_falsifiers",
+      "scaffold_version": "ph_civ_commentary_canvas_v2",
+      "migration_source": "extracted_from_part",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "civ-23",
@@ -461,7 +529,10 @@
         "folder": "book/volume-ii/civ-23",
         "folder_readme": "book/volume-ii/civ-23/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=HvVTNTPzq7E"
+      "source_video_url": "https://www.youtube.com/watch?v=HvVTNTPzq7E",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-24",
@@ -478,7 +549,10 @@
         "folder": "book/volume-ii/civ-24",
         "folder_readme": "book/volume-ii/civ-24/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=_bXHBT5NTfc"
+      "source_video_url": "https://www.youtube.com/watch?v=_bXHBT5NTfc",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-25",
@@ -495,7 +569,10 @@
         "folder": "book/volume-ii/civ-25",
         "folder_readme": "book/volume-ii/civ-25/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=kuMhSFXnr5I"
+      "source_video_url": "https://www.youtube.com/watch?v=kuMhSFXnr5I",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-26",
@@ -512,7 +589,10 @@
         "folder": "book/volume-ii/civ-26",
         "folder_readme": "book/volume-ii/civ-26/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=za30rbC3tTg"
+      "source_video_url": "https://www.youtube.com/watch?v=za30rbC3tTg",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-27",
@@ -529,7 +609,10 @@
         "folder": "book/volume-ii/civ-27",
         "folder_readme": "book/volume-ii/civ-27/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=GdbZBVUIVDE"
+      "source_video_url": "https://www.youtube.com/watch?v=GdbZBVUIVDE",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-28",
@@ -546,7 +629,10 @@
         "folder": "book/volume-ii/civ-28",
         "folder_readme": "book/volume-ii/civ-28/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=C9rzPGJ0wm4"
+      "source_video_url": "https://www.youtube.com/watch?v=C9rzPGJ0wm4",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-29",
@@ -563,7 +649,11 @@
         "folder": "book/volume-ii/civ-29",
         "folder_readme": "book/volume-ii/civ-29/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=GfqJi0qevok"
+      "source_video_url": "https://www.youtube.com/watch?v=GfqJi0qevok",
+      "commentary_maturity": "l3_falsifiers",
+      "scaffold_version": "ph_civ_commentary_canvas_v2",
+      "migration_source": "extracted_from_part",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "civ-30",
@@ -580,7 +670,10 @@
         "folder": "book/volume-ii/civ-30",
         "folder_readme": "book/volume-ii/civ-30/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=asbKjezwIJM"
+      "source_video_url": "https://www.youtube.com/watch?v=asbKjezwIJM",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-31",
@@ -597,7 +690,10 @@
         "folder": "book/volume-ii/civ-31",
         "folder_readme": "book/volume-ii/civ-31/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=HIoYQBbBllk"
+      "source_video_url": "https://www.youtube.com/watch?v=HIoYQBbBllk",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-32",
@@ -614,7 +710,10 @@
         "folder": "book/volume-ii/civ-32",
         "folder_readme": "book/volume-ii/civ-32/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=_Io7-_RS8uE"
+      "source_video_url": "https://www.youtube.com/watch?v=_Io7-_RS8uE",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-33",
@@ -631,7 +730,10 @@
         "folder": "book/volume-ii/civ-33",
         "folder_readme": "book/volume-ii/civ-33/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=abs6z7VPEMc"
+      "source_video_url": "https://www.youtube.com/watch?v=abs6z7VPEMc",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-34",
@@ -648,7 +750,10 @@
         "folder": "book/volume-ii/civ-34",
         "folder_readme": "book/volume-ii/civ-34/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=1dwvgtc7XzY"
+      "source_video_url": "https://www.youtube.com/watch?v=1dwvgtc7XzY",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-35",
@@ -665,7 +770,10 @@
         "folder": "book/volume-ii/civ-35",
         "folder_readme": "book/volume-ii/civ-35/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=7k5XoLzwmls"
+      "source_video_url": "https://www.youtube.com/watch?v=7k5XoLzwmls",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-36",
@@ -682,7 +790,10 @@
         "folder": "book/volume-ii/civ-36",
         "folder_readme": "book/volume-ii/civ-36/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=tYMNsa83NHY"
+      "source_video_url": "https://www.youtube.com/watch?v=tYMNsa83NHY",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-37",
@@ -699,7 +810,10 @@
         "folder": "book/volume-ii/civ-37",
         "folder_readme": "book/volume-ii/civ-37/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=2OdO8LoKuo8"
+      "source_video_url": "https://www.youtube.com/watch?v=2OdO8LoKuo8",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-38",
@@ -716,7 +830,10 @@
         "folder": "book/volume-ii/civ-38",
         "folder_readme": "book/volume-ii/civ-38/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=A2LMJerHcKM"
+      "source_video_url": "https://www.youtube.com/watch?v=A2LMJerHcKM",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-39",
@@ -733,7 +850,10 @@
         "folder": "book/volume-ii/civ-39",
         "folder_readme": "book/volume-ii/civ-39/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=mPQzAPnjYkM"
+      "source_video_url": "https://www.youtube.com/watch?v=mPQzAPnjYkM",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-40",
@@ -750,7 +870,10 @@
         "folder": "book/volume-ii/civ-40",
         "folder_readme": "book/volume-ii/civ-40/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=3751ZjwmrBw"
+      "source_video_url": "https://www.youtube.com/watch?v=3751ZjwmrBw",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-41",
@@ -767,7 +890,10 @@
         "folder": "book/volume-ii/civ-41",
         "folder_readme": "book/volume-ii/civ-41/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=v6CDqJnrvLk"
+      "source_video_url": "https://www.youtube.com/watch?v=v6CDqJnrvLk",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-42",
@@ -784,7 +910,10 @@
         "folder": "book/volume-ii/civ-42",
         "folder_readme": "book/volume-ii/civ-42/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=TcxlOiJz8V0"
+      "source_video_url": "https://www.youtube.com/watch?v=TcxlOiJz8V0",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-43",
@@ -801,7 +930,10 @@
         "folder": "book/volume-ii/civ-43",
         "folder_readme": "book/volume-ii/civ-43/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=CjtUnKcU1IA"
+      "source_video_url": "https://www.youtube.com/watch?v=CjtUnKcU1IA",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-44",
@@ -818,7 +950,10 @@
         "folder": "book/volume-ii/civ-44",
         "folder_readme": "book/volume-ii/civ-44/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=-DnfGcvZrfA"
+      "source_video_url": "https://www.youtube.com/watch?v=-DnfGcvZrfA",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-45",
@@ -835,7 +970,10 @@
         "folder": "book/volume-ii/civ-45",
         "folder_readme": "book/volume-ii/civ-45/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=DiRJyy-8V54"
+      "source_video_url": "https://www.youtube.com/watch?v=DiRJyy-8V54",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-46",
@@ -852,7 +990,10 @@
         "folder": "book/volume-ii/civ-46",
         "folder_readme": "book/volume-ii/civ-46/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=5HwZx5kQm9o"
+      "source_video_url": "https://www.youtube.com/watch?v=5HwZx5kQm9o",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-47",
@@ -869,7 +1010,10 @@
         "folder": "book/volume-ii/civ-47",
         "folder_readme": "book/volume-ii/civ-47/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=ef-Ch2LGDDI"
+      "source_video_url": "https://www.youtube.com/watch?v=ef-Ch2LGDDI",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-48",
@@ -886,7 +1030,10 @@
         "folder": "book/volume-ii/civ-48",
         "folder_readme": "book/volume-ii/civ-48/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=enEET_0j_Y8"
+      "source_video_url": "https://www.youtube.com/watch?v=enEET_0j_Y8",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-49",
@@ -903,7 +1050,10 @@
         "folder": "book/volume-ii/civ-49",
         "folder_readme": "book/volume-ii/civ-49/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=JZ8P-FZHWnQ"
+      "source_video_url": "https://www.youtube.com/watch?v=JZ8P-FZHWnQ",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-50",
@@ -920,7 +1070,10 @@
         "folder": "book/volume-ii/civ-50",
         "folder_readme": "book/volume-ii/civ-50/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=laGSxfvlOfk"
+      "source_video_url": "https://www.youtube.com/watch?v=laGSxfvlOfk",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-51",
@@ -937,7 +1090,10 @@
         "folder": "book/volume-ii/civ-51",
         "folder_readme": "book/volume-ii/civ-51/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=Qms7trnKwqQ"
+      "source_video_url": "https://www.youtube.com/watch?v=Qms7trnKwqQ",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-52",
@@ -954,7 +1110,10 @@
         "folder": "book/volume-ii/civ-52",
         "folder_readme": "book/volume-ii/civ-52/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=ea20aMYfT5I"
+      "source_video_url": "https://www.youtube.com/watch?v=ea20aMYfT5I",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-53",
@@ -971,7 +1130,10 @@
         "folder": "book/volume-ii/civ-53",
         "folder_readme": "book/volume-ii/civ-53/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=0rALqcPWuH0"
+      "source_video_url": "https://www.youtube.com/watch?v=0rALqcPWuH0",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-54",
@@ -988,7 +1150,10 @@
         "folder": "book/volume-ii/civ-54",
         "folder_readme": "book/volume-ii/civ-54/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=o2Nq--qU9Kc"
+      "source_video_url": "https://www.youtube.com/watch?v=o2Nq--qU9Kc",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-55",
@@ -1005,7 +1170,10 @@
         "folder": "book/volume-ii/civ-55",
         "folder_readme": "book/volume-ii/civ-55/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=_3c3FjS57x4"
+      "source_video_url": "https://www.youtube.com/watch?v=_3c3FjS57x4",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-56",
@@ -1022,7 +1190,10 @@
         "folder": "book/volume-ii/civ-56",
         "folder_readme": "book/volume-ii/civ-56/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=m24LnQ-Ksjk"
+      "source_video_url": "https://www.youtube.com/watch?v=m24LnQ-Ksjk",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-57",
@@ -1039,7 +1210,10 @@
         "folder": "book/volume-ii/civ-57",
         "folder_readme": "book/volume-ii/civ-57/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=cylkQPsfFRY"
+      "source_video_url": "https://www.youtube.com/watch?v=cylkQPsfFRY",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-58",
@@ -1056,7 +1230,10 @@
         "folder": "book/volume-ii/civ-58",
         "folder_readme": "book/volume-ii/civ-58/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=tquo1UsC5Nw"
+      "source_video_url": "https://www.youtube.com/watch?v=tquo1UsC5Nw",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-59",
@@ -1073,7 +1250,10 @@
         "folder": "book/volume-ii/civ-59",
         "folder_readme": "book/volume-ii/civ-59/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=QtqfIjK1GAc"
+      "source_video_url": "https://www.youtube.com/watch?v=QtqfIjK1GAc",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "civ-60",
@@ -1090,7 +1270,10 @@
         "folder": "book/volume-ii/civ-60",
         "folder_readme": "book/volume-ii/civ-60/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=_gH4PvIni5E"
+      "source_video_url": "https://www.youtube.com/watch?v=_gH4PvIni5E",
+      "commentary_maturity": "l2_pinned",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "gb-01",
@@ -1107,7 +1290,10 @@
         "folder": "book/volume-v/gb-01",
         "folder_readme": "book/volume-v/gb-01/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=TsD-8FGA84A"
+      "source_video_url": "https://www.youtube.com/watch?v=TsD-8FGA84A",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gb-02",
@@ -1124,7 +1310,11 @@
         "folder": "book/volume-v/gb-02",
         "folder_readme": "book/volume-v/gb-02/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=Ft2CuowGuYc"
+      "source_video_url": "https://www.youtube.com/watch?v=Ft2CuowGuYc",
+      "commentary_maturity": "l3_falsifiers",
+      "scaffold_version": "ph_civ_commentary_canvas_v2",
+      "migration_source": "extracted_from_part",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gb-03",
@@ -1141,7 +1331,11 @@
         "folder": "book/volume-v/gb-03",
         "folder_readme": "book/volume-v/gb-03/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=XRP407WsA0w"
+      "source_video_url": "https://www.youtube.com/watch?v=XRP407WsA0w",
+      "commentary_maturity": "l3_falsifiers",
+      "scaffold_version": "ph_civ_commentary_canvas_v2",
+      "migration_source": "extracted_from_part",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "gb-04",
@@ -1158,7 +1352,10 @@
         "folder": "book/volume-v/gb-04",
         "folder_readme": "book/volume-v/gb-04/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=dkzr5A8IlLA"
+      "source_video_url": "https://www.youtube.com/watch?v=dkzr5A8IlLA",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gb-05",
@@ -1175,7 +1372,11 @@
         "folder": "book/volume-v/gb-05",
         "folder_readme": "book/volume-v/gb-05/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=gXlcR7uHHdA"
+      "source_video_url": "https://www.youtube.com/watch?v=gXlcR7uHHdA",
+      "commentary_maturity": "l3_falsifiers",
+      "scaffold_version": "ph_civ_commentary_canvas_v2",
+      "migration_source": "extracted_from_part",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "gb-06",
@@ -1192,7 +1393,10 @@
         "folder": "book/volume-v/gb-06",
         "folder_readme": "book/volume-v/gb-06/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=aS-NfPSPMu8"
+      "source_video_url": "https://www.youtube.com/watch?v=aS-NfPSPMu8",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gb-07",
@@ -1209,7 +1413,11 @@
         "folder": "book/volume-v/gb-07",
         "folder_readme": "book/volume-v/gb-07/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=EBWTRvjZ1dw"
+      "source_video_url": "https://www.youtube.com/watch?v=EBWTRvjZ1dw",
+      "commentary_maturity": "l3_falsifiers",
+      "scaffold_version": "ph_civ_commentary_canvas_v2",
+      "migration_source": "extracted_from_part",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "gb-08",
@@ -1226,7 +1434,11 @@
         "folder": "book/volume-v/gb-08",
         "folder_readme": "book/volume-v/gb-08/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=YXTRlvFIRt8"
+      "source_video_url": "https://www.youtube.com/watch?v=YXTRlvFIRt8",
+      "commentary_maturity": "l3_falsifiers",
+      "scaffold_version": "ph_civ_commentary_canvas_v2",
+      "migration_source": "extracted_from_part",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "gb-09",
@@ -1243,7 +1455,11 @@
         "folder": "book/volume-v/gb-09",
         "folder_readme": "book/volume-v/gb-09/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=4EZUrGPgAos"
+      "source_video_url": "https://www.youtube.com/watch?v=4EZUrGPgAos",
+      "commentary_maturity": "l3_falsifiers",
+      "scaffold_version": "ph_civ_commentary_canvas_v2",
+      "migration_source": "extracted_from_part",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "gb-10",
@@ -1260,7 +1476,11 @@
         "folder": "book/volume-v/gb-10",
         "folder_readme": "book/volume-v/gb-10/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=wGpdMYa2bME"
+      "source_video_url": "https://www.youtube.com/watch?v=wGpdMYa2bME",
+      "commentary_maturity": "l3_falsifiers",
+      "scaffold_version": "ph_civ_commentary_canvas_v2",
+      "migration_source": "extracted_from_part",
+      "deprecated_part_routing": true
     },
     {
       "source_id": "geo-01",
@@ -1275,7 +1495,10 @@
         "transcript": "book/volume-i/geo-01-transcript.md",
         "commentary": "book/volume-i/geo-01-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=xEEpOxqdU5E"
+      "source_video_url": "https://www.youtube.com/watch?v=xEEpOxqdU5E",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-02",
@@ -1290,7 +1513,10 @@
         "transcript": "book/volume-i/geo-02-transcript.md",
         "commentary": "book/volume-i/geo-02-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=lkKrZq4YdqY"
+      "source_video_url": "https://www.youtube.com/watch?v=lkKrZq4YdqY",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-03",
@@ -1305,7 +1531,10 @@
         "transcript": "book/volume-i/geo-03-transcript.md",
         "commentary": "book/volume-i/geo-03-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=_blj8zKdKgA"
+      "source_video_url": "https://www.youtube.com/watch?v=_blj8zKdKgA",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-04",
@@ -1320,7 +1549,10 @@
         "transcript": "book/volume-i/geo-04-transcript.md",
         "commentary": "book/volume-i/geo-04-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=LctUcVqhhns"
+      "source_video_url": "https://www.youtube.com/watch?v=LctUcVqhhns",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-05",
@@ -1335,7 +1567,10 @@
         "transcript": "book/volume-i/geo-05-transcript.md",
         "commentary": "book/volume-i/geo-05-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=exRK-85630k"
+      "source_video_url": "https://www.youtube.com/watch?v=exRK-85630k",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-06",
@@ -1350,7 +1585,10 @@
         "transcript": "book/volume-i/geo-06-transcript.md",
         "commentary": "book/volume-i/geo-06-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=JieFC4Yww4o"
+      "source_video_url": "https://www.youtube.com/watch?v=JieFC4Yww4o",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-07",
@@ -1365,7 +1603,10 @@
         "transcript": "book/volume-i/geo-07-transcript.md",
         "commentary": "book/volume-i/geo-07-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=LsRGvKxfLts"
+      "source_video_url": "https://www.youtube.com/watch?v=LsRGvKxfLts",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-08",
@@ -1380,7 +1621,10 @@
         "transcript": "book/volume-i/geo-08-transcript.md",
         "commentary": "book/volume-i/geo-08-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=7y_hbz6loEo"
+      "source_video_url": "https://www.youtube.com/watch?v=7y_hbz6loEo",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-09",
@@ -1395,7 +1639,10 @@
         "transcript": "book/volume-i/geo-09-transcript.md",
         "commentary": "book/volume-i/geo-09-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=AEPSUC-UQ5k"
+      "source_video_url": "https://www.youtube.com/watch?v=AEPSUC-UQ5k",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-10",
@@ -1410,7 +1657,10 @@
         "transcript": "book/volume-i/geo-10-transcript.md",
         "commentary": "book/volume-i/geo-10-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=B_al2wgk49Y"
+      "source_video_url": "https://www.youtube.com/watch?v=B_al2wgk49Y",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-11",
@@ -1425,7 +1675,10 @@
         "transcript": "book/volume-i/geo-11-transcript.md",
         "commentary": "book/volume-i/geo-11-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=Go1bMQKnJBQ"
+      "source_video_url": "https://www.youtube.com/watch?v=Go1bMQKnJBQ",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-12",
@@ -1440,7 +1693,10 @@
         "transcript": "book/volume-i/geo-12-transcript.md",
         "commentary": "book/volume-i/geo-12-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=s_k6esWheqA"
+      "source_video_url": "https://www.youtube.com/watch?v=s_k6esWheqA",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-13",
@@ -1455,7 +1711,10 @@
         "transcript": "book/volume-i/geo-13-transcript.md",
         "commentary": "book/volume-i/geo-13-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=8XdL-7tAqnU"
+      "source_video_url": "https://www.youtube.com/watch?v=8XdL-7tAqnU",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-14",
@@ -1470,7 +1729,10 @@
         "transcript": "book/volume-i/geo-14-transcript.md",
         "commentary": "book/volume-i/geo-14-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=N4cs-8mrP_s"
+      "source_video_url": "https://www.youtube.com/watch?v=N4cs-8mrP_s",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-15",
@@ -1485,7 +1747,10 @@
         "transcript": "book/volume-i/geo-15-transcript.md",
         "commentary": "book/volume-i/geo-15-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=bc9adtiIN_k"
+      "source_video_url": "https://www.youtube.com/watch?v=bc9adtiIN_k",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-16",
@@ -1500,7 +1765,10 @@
         "transcript": "book/volume-i/geo-16-transcript.md",
         "commentary": "book/volume-i/geo-16-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=Kw-TiN6dEcM"
+      "source_video_url": "https://www.youtube.com/watch?v=Kw-TiN6dEcM",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-17",
@@ -1515,7 +1783,10 @@
         "transcript": "book/volume-i/geo-17-transcript.md",
         "commentary": "book/volume-i/geo-17-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=5I2VPYPJJ68"
+      "source_video_url": "https://www.youtube.com/watch?v=5I2VPYPJJ68",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-18",
@@ -1530,7 +1801,10 @@
         "transcript": "book/volume-i/geo-18-transcript.md",
         "commentary": "book/volume-i/geo-18-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=ZgvAHZqaawA"
+      "source_video_url": "https://www.youtube.com/watch?v=ZgvAHZqaawA",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-19",
@@ -1545,7 +1819,10 @@
         "transcript": "book/volume-i/geo-19-transcript.md",
         "commentary": "book/volume-i/geo-19-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=YQ-xg1nIbMs"
+      "source_video_url": "https://www.youtube.com/watch?v=YQ-xg1nIbMs",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "geo-20",
@@ -1560,7 +1837,10 @@
         "transcript": "book/volume-i/geo-20-transcript.md",
         "commentary": "book/volume-i/geo-20-commentary.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=E83dpuyvpiM"
+      "source_video_url": "https://www.youtube.com/watch?v=E83dpuyvpiM",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-01",
@@ -1577,7 +1857,10 @@
         "folder": "ph-civ/chapters/gt-01",
         "folder_readme": "ph-civ/chapters/gt-01/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=hE4l9WyLF3U"
+      "source_video_url": "https://www.youtube.com/watch?v=hE4l9WyLF3U",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-02",
@@ -1594,7 +1877,10 @@
         "folder": "ph-civ/chapters/gt-02",
         "folder_readme": "ph-civ/chapters/gt-02/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=kS-muAuq62E"
+      "source_video_url": "https://www.youtube.com/watch?v=kS-muAuq62E",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-03",
@@ -1611,7 +1897,10 @@
         "folder": "ph-civ/chapters/gt-03",
         "folder_readme": "ph-civ/chapters/gt-03/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=MX93U4KzA28"
+      "source_video_url": "https://www.youtube.com/watch?v=MX93U4KzA28",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-04",
@@ -1628,7 +1917,10 @@
         "folder": "ph-civ/chapters/gt-04",
         "folder_readme": "ph-civ/chapters/gt-04/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=35HRPLVyF0g"
+      "source_video_url": "https://www.youtube.com/watch?v=35HRPLVyF0g",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-05",
@@ -1645,7 +1937,10 @@
         "folder": "ph-civ/chapters/gt-05",
         "folder_readme": "ph-civ/chapters/gt-05/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=ybufqRY77PQ"
+      "source_video_url": "https://www.youtube.com/watch?v=ybufqRY77PQ",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-06",
@@ -1662,7 +1957,10 @@
         "folder": "ph-civ/chapters/gt-06",
         "folder_readme": "ph-civ/chapters/gt-06/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=CbamEcNuDXo"
+      "source_video_url": "https://www.youtube.com/watch?v=CbamEcNuDXo",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-07",
@@ -1679,7 +1977,10 @@
         "folder": "ph-civ/chapters/gt-07",
         "folder_readme": "ph-civ/chapters/gt-07/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=ijnkCt1QK6k"
+      "source_video_url": "https://www.youtube.com/watch?v=ijnkCt1QK6k",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-08",
@@ -1696,7 +1997,10 @@
         "folder": "ph-civ/chapters/gt-08",
         "folder_readme": "ph-civ/chapters/gt-08/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=axqDLhWs93Q"
+      "source_video_url": "https://www.youtube.com/watch?v=axqDLhWs93Q",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-09",
@@ -1713,7 +2017,10 @@
         "folder": "ph-apo/chapters/gt-09",
         "folder_readme": "ph-apo/chapters/gt-09/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=jIS2eB-rGv0"
+      "source_video_url": "https://www.youtube.com/watch?v=jIS2eB-rGv0",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-10",
@@ -1730,7 +2037,10 @@
         "folder": "ph-apo/chapters/gt-10",
         "folder_readme": "ph-apo/chapters/gt-10/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=t5oisJiorsU"
+      "source_video_url": "https://www.youtube.com/watch?v=t5oisJiorsU",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-11",
@@ -1747,7 +2057,10 @@
         "folder": "ph-apo/chapters/gt-11",
         "folder_readme": "ph-apo/chapters/gt-11/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=fz-Dan7NRss"
+      "source_video_url": "https://www.youtube.com/watch?v=fz-Dan7NRss",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-12",
@@ -1764,7 +2077,10 @@
         "folder": "ph-apo/chapters/gt-12",
         "folder_readme": "ph-apo/chapters/gt-12/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=spg58Glfz68"
+      "source_video_url": "https://www.youtube.com/watch?v=spg58Glfz68",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-13",
@@ -1781,7 +2097,10 @@
         "folder": "ph-apo/chapters/gt-13",
         "folder_readme": "ph-apo/chapters/gt-13/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=aQSDSqdlFxk"
+      "source_video_url": "https://www.youtube.com/watch?v=aQSDSqdlFxk",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-14",
@@ -1798,7 +2117,10 @@
         "folder": "ph-apo/chapters/gt-14",
         "folder_readme": "ph-apo/chapters/gt-14/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=nOQqGy4boBY"
+      "source_video_url": "https://www.youtube.com/watch?v=nOQqGy4boBY",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-15",
@@ -1815,7 +2137,10 @@
         "folder": "ph-apo/chapters/gt-15",
         "folder_readme": "ph-apo/chapters/gt-15/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=zAer-Mqe7tQ"
+      "source_video_url": "https://www.youtube.com/watch?v=zAer-Mqe7tQ",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-16",
@@ -1832,7 +2157,10 @@
         "folder": "ph-apo/chapters/gt-16",
         "folder_readme": "ph-apo/chapters/gt-16/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=0aASxQrJYuo"
+      "source_video_url": "https://www.youtube.com/watch?v=0aASxQrJYuo",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-17",
@@ -1849,7 +2177,10 @@
         "folder": "ph-apo/chapters/gt-17",
         "folder_readme": "ph-apo/chapters/gt-17/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=VbowBTJWKBo"
+      "source_video_url": "https://www.youtube.com/watch?v=VbowBTJWKBo",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-18",
@@ -1866,7 +2197,10 @@
         "folder": "ph-apo/chapters/gt-18",
         "folder_readme": "ph-apo/chapters/gt-18/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=xrmERlHUqBk"
+      "source_video_url": "https://www.youtube.com/watch?v=xrmERlHUqBk",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-19",
@@ -1883,7 +2217,10 @@
         "folder": "ph-apo/chapters/gt-19",
         "folder_readme": "ph-apo/chapters/gt-19/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=0HYET47Cc-E"
+      "source_video_url": "https://www.youtube.com/watch?v=0HYET47Cc-E",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-20",
@@ -1900,7 +2237,10 @@
         "folder": "ph-apo/chapters/gt-20",
         "folder_readme": "ph-apo/chapters/gt-20/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=ue8y5e3HnHE"
+      "source_video_url": "https://www.youtube.com/watch?v=ue8y5e3HnHE",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-21",
@@ -1917,7 +2257,10 @@
         "folder": "ph-apo/chapters/gt-21",
         "folder_readme": "ph-apo/chapters/gt-21/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=Ts-AA6LQf6I"
+      "source_video_url": "https://www.youtube.com/watch?v=Ts-AA6LQf6I",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-22",
@@ -1934,7 +2277,10 @@
         "folder": "ph-apo/chapters/gt-22",
         "folder_readme": "ph-apo/chapters/gt-22/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=txgPfnXgzcE"
+      "source_video_url": "https://www.youtube.com/watch?v=txgPfnXgzcE",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-23",
@@ -1951,7 +2297,10 @@
         "folder": "ph-apo/chapters/gt-23",
         "folder_readme": "ph-apo/chapters/gt-23/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=6aNh6sBpqvQ"
+      "source_video_url": "https://www.youtube.com/watch?v=6aNh6sBpqvQ",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-24",
@@ -1968,7 +2317,11 @@
         "folder": "ph-apo/chapters/gt-24",
         "folder_readme": "ph-apo/chapters/gt-24/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=8nsxuB3Vsts"
+      "source_video_url": "https://www.youtube.com/watch?v=8nsxuB3Vsts",
+      "commentary_maturity": "l3_falsifiers",
+      "scaffold_version": "ph_civ_commentary_canvas_v2",
+      "migration_source": "upgrade",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-25",
@@ -1985,7 +2338,10 @@
         "folder": "ph-apo/chapters/gt-25",
         "folder_readme": "ph-apo/chapters/gt-25/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=BIl5vJn6ohI"
+      "source_video_url": "https://www.youtube.com/watch?v=BIl5vJn6ohI",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-26",
@@ -2002,7 +2358,10 @@
         "folder": "ph-apo/chapters/gt-26",
         "folder_readme": "ph-apo/chapters/gt-26/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=RG1clZlrfOo"
+      "source_video_url": "https://www.youtube.com/watch?v=RG1clZlrfOo",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "gt-27",
@@ -2019,7 +2378,10 @@
         "folder": "ph-apo/chapters/gt-27",
         "folder_readme": "ph-apo/chapters/gt-27/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=x83HcLWvHI8"
+      "source_video_url": "https://www.youtube.com/watch?v=x83HcLWvHI8",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-01",
@@ -2036,7 +2398,10 @@
         "folder": "book/volume-vi/sh-01",
         "folder_readme": "book/volume-vi/sh-01/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=lt8XLz78ZvY"
+      "source_video_url": "https://www.youtube.com/watch?v=lt8XLz78ZvY",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-02",
@@ -2053,7 +2418,10 @@
         "folder": "book/volume-vi/sh-02",
         "folder_readme": "book/volume-vi/sh-02/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=K-_l9jBGo74"
+      "source_video_url": "https://www.youtube.com/watch?v=K-_l9jBGo74",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-03",
@@ -2070,7 +2438,10 @@
         "folder": "book/volume-vi/sh-03",
         "folder_readme": "book/volume-vi/sh-03/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=0g3yo1DjiLM"
+      "source_video_url": "https://www.youtube.com/watch?v=0g3yo1DjiLM",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-04",
@@ -2087,7 +2458,10 @@
         "folder": "book/volume-vi/sh-04",
         "folder_readme": "book/volume-vi/sh-04/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=BtlWoqWLm9Q"
+      "source_video_url": "https://www.youtube.com/watch?v=BtlWoqWLm9Q",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-05",
@@ -2104,7 +2478,10 @@
         "folder": "book/volume-vi/sh-05",
         "folder_readme": "book/volume-vi/sh-05/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=EgGfQdv_rPc"
+      "source_video_url": "https://www.youtube.com/watch?v=EgGfQdv_rPc",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-06",
@@ -2121,7 +2498,10 @@
         "folder": "book/volume-vi/sh-06",
         "folder_readme": "book/volume-vi/sh-06/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=6PdfD44DkqA"
+      "source_video_url": "https://www.youtube.com/watch?v=6PdfD44DkqA",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-07",
@@ -2138,7 +2518,10 @@
         "folder": "book/volume-vi/sh-07",
         "folder_readme": "book/volume-vi/sh-07/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=JU_8fJjtGxA"
+      "source_video_url": "https://www.youtube.com/watch?v=JU_8fJjtGxA",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-08",
@@ -2155,7 +2538,10 @@
         "folder": "book/volume-vi/sh-08",
         "folder_readme": "book/volume-vi/sh-08/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=hk_yhi3-prw"
+      "source_video_url": "https://www.youtube.com/watch?v=hk_yhi3-prw",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-09",
@@ -2172,7 +2558,10 @@
         "folder": "book/volume-vi/sh-09",
         "folder_readme": "book/volume-vi/sh-09/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=9MURGjjG4aA"
+      "source_video_url": "https://www.youtube.com/watch?v=9MURGjjG4aA",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-10",
@@ -2189,7 +2578,10 @@
         "folder": "book/volume-vi/sh-10",
         "folder_readme": "book/volume-vi/sh-10/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=ihh1fdW4-cA"
+      "source_video_url": "https://www.youtube.com/watch?v=ihh1fdW4-cA",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-11",
@@ -2206,7 +2598,10 @@
         "folder": "book/volume-vi/sh-11",
         "folder_readme": "book/volume-vi/sh-11/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=LvHsg5qtDs8"
+      "source_video_url": "https://www.youtube.com/watch?v=LvHsg5qtDs8",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-12",
@@ -2223,7 +2618,10 @@
         "folder": "book/volume-vi/sh-12",
         "folder_readme": "book/volume-vi/sh-12/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=VtnRA-GNKM8"
+      "source_video_url": "https://www.youtube.com/watch?v=VtnRA-GNKM8",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-13",
@@ -2240,7 +2638,10 @@
         "folder": "book/volume-vi/sh-13",
         "folder_readme": "book/volume-vi/sh-13/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=FJF8oD_5c_w"
+      "source_video_url": "https://www.youtube.com/watch?v=FJF8oD_5c_w",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-14",
@@ -2257,7 +2658,10 @@
         "folder": "book/volume-vi/sh-14",
         "folder_readme": "book/volume-vi/sh-14/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=JpTI2gFYWrU"
+      "source_video_url": "https://www.youtube.com/watch?v=JpTI2gFYWrU",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-15",
@@ -2274,7 +2678,10 @@
         "folder": "book/volume-vi/sh-15",
         "folder_readme": "book/volume-vi/sh-15/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=rkt0HQOogHE"
+      "source_video_url": "https://www.youtube.com/watch?v=rkt0HQOogHE",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-16",
@@ -2291,7 +2698,10 @@
         "folder": "book/volume-vi/sh-16",
         "folder_readme": "book/volume-vi/sh-16/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=4ehovUNrSrw"
+      "source_video_url": "https://www.youtube.com/watch?v=4ehovUNrSrw",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-17",
@@ -2308,7 +2718,11 @@
         "folder": "book/volume-vi/sh-17",
         "folder_readme": "book/volume-vi/sh-17/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=PlMNq44tBG0"
+      "source_video_url": "https://www.youtube.com/watch?v=PlMNq44tBG0",
+      "commentary_maturity": "l3_falsifiers",
+      "scaffold_version": "ph_civ_commentary_canvas_v2",
+      "migration_source": "extracted_from_part",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-18",
@@ -2325,7 +2739,10 @@
         "folder": "book/volume-vi/sh-18",
         "folder_readme": "book/volume-vi/sh-18/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=dELEdxh0ceg"
+      "source_video_url": "https://www.youtube.com/watch?v=dELEdxh0ceg",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-19",
@@ -2342,7 +2759,10 @@
         "folder": "book/volume-vi/sh-19",
         "folder_readme": "book/volume-vi/sh-19/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=3t0MeVBD24I"
+      "source_video_url": "https://www.youtube.com/watch?v=3t0MeVBD24I",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-20",
@@ -2359,7 +2779,10 @@
         "folder": "book/volume-vi/sh-20",
         "folder_readme": "book/volume-vi/sh-20/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=z0AwFin83lo"
+      "source_video_url": "https://www.youtube.com/watch?v=z0AwFin83lo",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-21",
@@ -2376,7 +2799,10 @@
         "folder": "book/volume-vi/sh-21",
         "folder_readme": "book/volume-vi/sh-21/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=Y-gXVzwbFMU"
+      "source_video_url": "https://www.youtube.com/watch?v=Y-gXVzwbFMU",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-22",
@@ -2393,7 +2819,10 @@
         "folder": "book/volume-vi/sh-22",
         "folder_readme": "book/volume-vi/sh-22/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=pp0E1gb80WQ"
+      "source_video_url": "https://www.youtube.com/watch?v=pp0E1gb80WQ",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-23",
@@ -2410,7 +2839,10 @@
         "folder": "book/volume-vi/sh-23",
         "folder_readme": "book/volume-vi/sh-23/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=6XGAc_OqCbU"
+      "source_video_url": "https://www.youtube.com/watch?v=6XGAc_OqCbU",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-24",
@@ -2427,7 +2859,10 @@
         "folder": "book/volume-vi/sh-24",
         "folder_readme": "book/volume-vi/sh-24/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=TEdVhyE8pO0"
+      "source_video_url": "https://www.youtube.com/watch?v=TEdVhyE8pO0",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-25",
@@ -2444,7 +2879,10 @@
         "folder": "book/volume-vi/sh-25",
         "folder_readme": "book/volume-vi/sh-25/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=B5FtHagng8c"
+      "source_video_url": "https://www.youtube.com/watch?v=B5FtHagng8c",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-26",
@@ -2461,7 +2899,10 @@
         "folder": "book/volume-vi/sh-26",
         "folder_readme": "book/volume-vi/sh-26/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=kULUM_eB8KI"
+      "source_video_url": "https://www.youtube.com/watch?v=kULUM_eB8KI",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-27",
@@ -2478,7 +2919,10 @@
         "folder": "book/volume-vi/sh-27",
         "folder_readme": "book/volume-vi/sh-27/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=ZPrecJHUOUs"
+      "source_video_url": "https://www.youtube.com/watch?v=ZPrecJHUOUs",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sh-28",
@@ -2495,7 +2939,10 @@
         "folder": "book/volume-vi/sh-28",
         "folder_readme": "book/volume-vi/sh-28/README.md"
       },
-      "source_video_url": "https://www.youtube.com/watch?v=WFWizN3QoPg"
+      "source_video_url": "https://www.youtube.com/watch?v=WFWizN3QoPg",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sub-33",
@@ -2512,7 +2959,10 @@
         "folder": "book/volume-vii/sub-33",
         "folder_readme": "book/volume-vii/sub-33/README.md"
       },
-      "source_video_url": "https://predictivehistory.substack.com/p/world-war-trump"
+      "source_video_url": "https://predictivehistory.substack.com/p/world-war-trump",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sub-34",
@@ -2529,7 +2979,10 @@
         "folder": "book/volume-vii/sub-34",
         "folder_readme": "book/volume-vii/sub-34/README.md"
       },
-      "source_video_url": "https://predictivehistory.substack.com/p/the-us-iran-war-round-two"
+      "source_video_url": "https://predictivehistory.substack.com/p/the-us-iran-war-round-two",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sub-35",
@@ -2546,7 +2999,10 @@
         "folder": "book/volume-vii/sub-35",
         "folder_readme": "book/volume-vii/sub-35/README.md"
       },
-      "source_video_url": "https://predictivehistory.substack.com/p/the-trump-new-deal"
+      "source_video_url": "https://predictivehistory.substack.com/p/the-trump-new-deal",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sub-36",
@@ -2563,7 +3019,10 @@
         "folder": "book/volume-vii/sub-36",
         "folder_readme": "book/volume-vii/sub-36/README.md"
       },
-      "source_video_url": "https://predictivehistory.substack.com/p/god-emperor-trump"
+      "source_video_url": "https://predictivehistory.substack.com/p/god-emperor-trump",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     },
     {
       "source_id": "sub-37",
@@ -2580,7 +3039,10 @@
         "folder": "book/volume-vii/sub-37",
         "folder_readme": "book/volume-vii/sub-37/README.md"
       },
-      "source_video_url": "https://predictivehistory.substack.com/p/chinas-third-center-strategy"
+      "source_video_url": "https://predictivehistory.substack.com/p/chinas-third-center-strategy",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
     }
   ]
 }

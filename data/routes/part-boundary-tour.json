@@ -1,6 +1,8 @@
 {
   "tour_id": "part_boundary_tour",
-  "registry": "data/parts/volume-i-parts.json",
+  "deprecated": true,
+  "replacement": "data/routes/volume-i-spine-tour.json",
+  "registry": "data/parts/volume-i-parts.deprecated.json",
   "related_seed_id": "ten_route_spine_seed",
   "rationale": "Ten stops at each Volume I Part spine_start — complements ten_route_spine_seed (civ-07, civ-17, civ-29, civ-51 overlap Parts II, III, VI, IX opens).",
   "stops": [

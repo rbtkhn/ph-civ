@@ -19,7 +19,6 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 
 - [Transcript](gb-11-transcript.md)
 - [Commentary canvas (stub)](gb-11-commentary.md)
-- [Part VI commentary](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-11)
 - [Public card](../../../data/cards/gb-11.md)
 
 ## Review Status

@@ -119,18 +119,9 @@ For a **chapter**:
 
 1. open the folder `README.md`
 2. open the transcript
-3. open the **thin** chapter commentary (Layer 0–2 pin-cites)
-4. open the **Part apparatus** when the chapter belongs to a Volume I Part with
-   commentary/bibliography files (pilot: Part II `civ-07`–`civ-13`, Part III
-   `civ-14`–`civ-17`, Part IV `civ-18`–`civ-23`, Part V `civ-24`–`civ-28`, Part VI
-   `civ-29`–`civ-34`, Part VII wedge `civ-40`–`civ-41`; full `civ-35`–`39` deferred) —
-   cross-chapter synthesis and external sources live there, not in the chapter
-   file. For `civ-22`, optional
-   [sh-17 Part pointer](../book/volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#sh-17)
-   after Part apparatus, not before transcript. For `civ-28`, optional
-   [sh-18 Part pointer](../book/volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#sh-18)
-   after Part apparatus
-5. open the public card only after the chapter and Part floors are clear
+3. open the **chapter commentary** (full L0–6 per [`commentary-methodology-v2.md`](commentary-methodology-v2.md); pin-cites in L2)
+4. optional **weave companions** — for interwoven hosts (e.g. `civ-07` + `gb-02`), use [`data/weave/volume-i-companions.json`](../data/weave/volume-i-companions.json) and companion chapter commentaries (e.g. [`sh-17`](../book/volume-vi/sh-17/sh-17-commentary.md) deepens [`civ-22`](../book/volume-ii/civ-22/civ-22-commentary.md)) after the host chapter floor is stable
+5. open the public card only after the chapter commentary floor is clear
 6. use corridors and support notes only where confusion, bridge pressure, or route
    trouble appears
 

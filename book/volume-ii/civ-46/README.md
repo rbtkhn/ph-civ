@@ -11,16 +11,14 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 1. Doorway — this README tells you what the packet is and what limits apply.
 2. Primary source floor — read the transcript and public source capture first.
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
-4. Part apparatus — [Part VIII commentary § civ-46](../../volume-i-civilization/parts/part-08-birth-of-modernity-commentary.md#civ-46) and [Part VIII bibliography](../../volume-i-civilization/parts/part-08-birth-of-modernity-bibliography.md) for cross-chapter synthesis and external sources.
+4. Chapter commentary — full L0–6 in the companion commentary file (see docs/commentary-methodology-v2.md).
 5. Public card — orientation payload after the chapter and Part floors are open.
 6. Widened interpretation — French Revolution trilogy **open**; pairs [civ-42](../civ-42/README.md) Reformation; forward [civ-47](../civ-47/README.md).
 
 ## Files
 
 - [Transcript](civ-46-transcript.md)
-- [Commentary canvas (thin)](civ-46-commentary.md)
-- [Part VIII commentary § civ-46](../../volume-i-civilization/parts/part-08-birth-of-modernity-commentary.md#civ-46)
-- [Part VIII bibliography](../../volume-i-civilization/parts/part-08-birth-of-modernity-bibliography.md)
+- [Commentary canvas](civ-46-commentary.md)
 - [Public card](../../../data/cards/civ-46.md)
 
 ## Review Status

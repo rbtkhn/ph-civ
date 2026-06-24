@@ -27,9 +27,9 @@ rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
 analysis_depth: layer2_drafted
-scaffold_version: ph_civ_commentary_canvas_v1
-part_commentary_path: ../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#civ-29
-part_bibliography_path: ../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md
+scaffold_version: ph_civ_commentary_canvas_v2
+commentary_maturity: l3_falsifiers
+migration_source: extracted_from_part
 ---
 
 # Commentary - Civilization
@@ -83,16 +83,40 @@ Every claim below is tied to the transcript body in civ-29-transcript.md.
 
 ---
 
+## Layer 3 - Predictions & Falsifiers
+
+| Prediction | Strength | Falsifier Criteria | Review Date | Current Status | Notes |
+|------------|----------|-------------------|-------------|----------------|-------|
+| Dante-as-counter-Augustine frame predicts Renaissance/Reformation/science seedbed claims | C | Scholarly consensus treats Dante as derivative not origin | 2027-06-01 | Pending | Lecture hypothesis |
+| Commedia paradox/Mary structure remains load-bearing for medieval imagination arc | SI | Adjacent civ chapters reject imaginative cosmology | 2027-06-01 | Pending | Medieval weave |
+| Homer-to-Dante corridor continuity holds without pasting corridor thesis | SI | Corridor doc contradicts chapter L2 pin-cites | 2027-06-01 | Pending | Link-only L5 |
+
 ---
 
-## Part apparatus
+## Layer 4 - Counter-Readings
 
-Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part VI live in the Part files:
+| Topic | Counter-reading | Strength |
+|-------|-----------------|----------|
+| Dante-as-origin of Renaissance/Reformation/science | Influence ≠ causation; multiple medieval currents | High |
+| Augustine vs Dante contrast | Compresses medieval theology field | Medium |
+| Neuroscience language on imagination | Modern overlay on medieval poetry | Medium |
 
-- [Part VI commentary](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#civ-29) — Augustine rebuttal, Commedia structure, Mary/paradox, imagination cosmology
-- [Part VI bibliography](../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md)
+---
 
-Layer 0–2 above remain the transcript pin-cite floor for this chapter.
+## Layer 5 - Synthesis & Cross-Volume Links
+
+| pattern_id | How this chapter supports or limits it |
+|------------|----------------------------------------|
+| `civ-modern-ideology-machine` | Limits: poetic cosmology, not modern machine |
+
+**Corridor:** [Homer to Dante](../../../data/corridors/homer-to-dante.md) — mandatory link; thesis stays in corridor doc.
+
+---
+
+## Layer 6 - Open Issues
+
+- Dante-as-origin claims require external bibliography.
+- Part v1 content migrated 2026-06.
 
 ---
 
@@ -105,5 +129,5 @@ Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
 ### Build Notes
 
-- Cross-chapter work: use Part apparatus; do not duplicate Part bibliography here.
-- Phase 2 slim (2026-06-09): Layers 3–6 moved to Part commentary.
+- Cross-chapter weave: corridor link + medieval arc; chapter is SSOT for L0–6.
+- Phase 2 slim superseded by v2 chapter-only migration (2026-06).

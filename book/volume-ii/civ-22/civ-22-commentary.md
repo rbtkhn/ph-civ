@@ -27,9 +27,9 @@ rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
 analysis_depth: layer2_drafted
-scaffold_version: ph_civ_commentary_canvas_v1
-part_commentary_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-22
-part_bibliography_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md
+scaffold_version: ph_civ_commentary_canvas_v2
+commentary_maturity: l3_falsifiers
+migration_source: extracted_from_part
 ---
 
 # Commentary - Civilization
@@ -83,15 +83,44 @@ Every claim below is tied to the transcript body in `civ-22-transcript.md`.
 
 ---
 
-## Part apparatus
+## Layer 3 - Predictions & Falsifiers
 
-Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part IV live in the Part files:
+| Prediction | Strength | Falsifier Criteria | Review Date | Current Status | Notes |
+|------------|----------|-------------------|-------------|----------------|-------|
+| Literary cosmology frame (not chronology/fiction) holds for pre-David Genesis | SI | Standard documentary hypothesis supersedes without lecture accommodation | 2027-06-01 | Pending | Highest counter-read load in ancient-foundations arc |
+| Yahwist authorship hypothesis deepens via `sh-17` without contradicting civ-22 scaffold | C | SH packet contradicts cosmology/cohesion/differentiation | 2027-06-01 | Pending | Weave companion |
+| Adam/Eve and Cain/Abel close-reads generalize to "faith as argument" pattern | SI | Later biblical chapters reject argument-with-God frame | 2027-06-01 | Pending | |
 
-- [Part IV commentary](../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-22) — Yahwist cosmology, close-read arc; pairs sh-17
-- [Part IV bibliography](../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md)
-- [sh-17 companion pointer](../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#sh-17) — secret-history deepening @ this chapter
+---
 
-Layer 0–2 above remain the transcript pin-cite floor for this chapter.
+## Layer 4 - Counter-Readings
+
+| Topic | Counter-reading | Strength |
+|-------|-----------------|----------|
+| Cosmology-not-chronology | Documentary/schools hypothesis standard; lecture adds poet-God overlay | Medium |
+| Moses Egyptian priest | Etymology ≠ provenance; literary synthesis | High |
+| Female Yahwist / David kin | Author biography unrecoverable | High |
+| Faith requires arguing with God | Literary reading; not normative theology | Medium |
+
+---
+
+## Layer 5 - Synthesis & Cross-Volume Links
+
+| pattern_id | How this chapter supports or limits it |
+|------------|----------------------------------------|
+| `civ-modern-ideology-machine` | Limits: ancient literary cosmology, not modern ideology machine |
+
+**Weave companion:** [`sh-17`](../../volume-vi/sh-17/sh-17-commentary.md) — secret-history deepening @ this host.
+
+**Downstream:** `civ-23` Cyrus/Zoroastrian merger arc.
+
+---
+
+## Layer 6 - Open Issues
+
+- Documentary hypothesis vs female-author biography claim.
+- Moses Egyptian priest — literary synthesis only.
+- Part v1 content migrated 2026-06.
 
 ---
 
@@ -104,5 +133,5 @@ Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
 ### Build Notes
 
-- Cross-chapter work: use Part apparatus; do not duplicate Part bibliography here.
-- Phase 2 slim (2026-06-09): Layers 3–6 moved to Part commentary.
+- Cross-chapter weave: `sh-17` companion + `civ-23` forward; chapter is SSOT for L0–6.
+- Phase 2 slim superseded by v2 chapter-only migration (2026-06).

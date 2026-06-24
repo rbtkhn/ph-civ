@@ -18,7 +18,6 @@ Treat this chapter folder as a small source-lattice:
 ## Current Source Packet
 
 - [Legacy source packet](../../../volume-ii/civ-18/README.md)
-- [Part IV commentary](../../parts/part-04-ancient-foundations-commentary.md#civ-18)
 - [Public card](../../../../data/cards/civ-18.md)
 
 

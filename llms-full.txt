@@ -24,8 +24,9 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 5. Use `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` for the trilingual civilizational bridge ambition.
 6. Use `data/routes/choreography.json` for route details and caveats.
 7. Use `data/cards.jsonl` for public card metadata and source paths.
-8. If the pasted URL is a direct chapter folder, treat it as `study` mode and start with that folder's `README.md`.
-9. Return to `book/` for the relevant transcript and commentary before making chapter-specific claims.
+8. Use `data/ph-civ-index.json` (and `docs/ph-civ-index.md` for tables) when the reader needs the full catalog of all 150 ph-civ and ph-apo chapters — source_id lookup, paths, surfaces, and video URLs.
+9. If the pasted URL is a direct chapter folder, treat it as `study` mode and start with that folder's `README.md`.
+10. Return to `book/` for the relevant transcript and commentary before making chapter-specific claims.
 
 ## First Response Contract
 
@@ -67,6 +68,7 @@ This seed exposes the Homer-to-Tolstoy spine and a small set of Volume II applic
 ## Reader Modes
 
 - `first_tour`: orient the reader to the two volumes and the 10-route seed.
+- `catalog`: browse or resolve chapters via the unified chapter index.
 - `study`: explain one chapter through its card, transcript, commentary, limits, and return path.
 - `seminar`: generate discussion questions grounded in public card limits and source chapter text.
 - `commentary_canvas`: treat the commentary as a project-development surface, not finished scholarship.
@@ -80,6 +82,16 @@ Chapter-folder URLs are designed for YouTube comment handoffs and direct LLM cha
 This is a `study` mode entrypoint. It is not a replacement for `first_tour`, which remains the default for the repository root URL.
 
 Use `ph-civ link <source_id>` to render a paste-ready YouTube comment and LLM prompt for folder-backed chapters.
+
+## Chapter Catalog
+
+`data/ph-civ-index.json` is the machine-readable catalog of all 150 public ph-civ and ph-apo chapters. Use it when the reader asks to browse lectures, resolve a `source_id`, list a series, or find transcript, commentary, folder, and YouTube links without opening every card file.
+
+- **JSON:** `data/ph-civ-index.json` — `chapters[]`, `by_surface`, paths, `source_video_url`
+- **Markdown:** `docs/ph-civ-index.md` — human-readable tables grouped by volume and series
+- **Regenerate:** `ph-civ index` (auto-sync during `ph-civ validate` and publish)
+
+This is a `catalog` mode entrypoint and a study-mode lookup aid. It is not a replacement for `first_tour`, which remains the default for the repository root URL.
 
 ## Trilingual Civilizational Bridge
 
@@ -125,6 +137,8 @@ The localization roadmap also reserves `ph-civ-ru` as a future Russian-language 
 - `data/routes/choreography.json`: typed route layer.
 - `data/spines/homer-to-tolstoy.json`: literary spine metadata.
 - `data/cards.jsonl`: public card index.
+- `data/ph-civ-index.json`: unified chapter catalog (all ph-civ and ph-apo lectures).
+- `docs/ph-civ-index.md`: human-readable chapter catalog tables.
 - `data/patterns.json`: public pattern IDs.
 - `docs/first-tour.md`: reader-facing first-tour response shape.
 - `data/bilingual-loop.json`: trilingual civilizational bridge ambition metadata.
