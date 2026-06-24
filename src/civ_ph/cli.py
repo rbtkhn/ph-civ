@@ -26,6 +26,7 @@ from .data import (
     pattern_markdown,
     patterns_for_source,
 )
+from .ph_civ_index import ensure_ph_civ_index, validate_ph_civ_index
 from .volume_i_parts import validate_volume_i_parts
 
 EXPECTED_SOURCE_REPO = "rbtkhn/ph-workshop"
@@ -552,6 +553,35 @@ def cmd_path(args) -> int:
     return cmd_spine(argparse.Namespace(spine_id=args.path_id, json=args.json))
 
 
+def cmd_index(args) -> int:
+    cards = load_cards()
+    if args.check:
+        errors = validate_ph_civ_index(cards)
+        if args.json:
+            emit_json({"status": "current" if not errors else "stale", "errors": errors})
+            return 1 if errors else 0
+        if errors:
+            for error in errors:
+                print(f"error: {error}", file=sys.stderr)
+            return 1
+        print("status: current")
+        return 0
+
+    path, json_path, written = ensure_ph_civ_index(cards, force=args.force)
+    payload = {
+        "status": "written" if written else "unchanged",
+        "markdown_path": str(path.relative_to(DATA_ROOT.parent)),
+        "json_path": str(json_path.relative_to(DATA_ROOT.parent)),
+        "card_count": len(cards),
+    }
+    if args.json:
+        emit_json(payload)
+        return 0
+    action = "wrote" if written else "unchanged"
+    print(f"{action} {payload['markdown_path']} and {payload['json_path']} ({len(cards)} chapters)")
+    return 0
+
+
 def cmd_validate(args) -> int:
     cards = load_cards()
     errors = []
@@ -947,6 +977,8 @@ def cmd_validate(args) -> int:
     errors.extend(validate_patterns(load_patterns(), cards))
     errors.extend(validate_public_boundary())
     errors.extend(validate_volume_i_parts(require_doorways=True, require_chapter_anchors=True))
+    ensure_ph_civ_index(cards)
+    errors.extend(validate_ph_civ_index(cards))
     series = Counter(card["series"] for card in cards)
     result = {"status": "valid" if not errors else "invalid", "card_count": len(cards), "series_counts": dict(sorted(series.items())), "errors": errors}
     if args.json:
@@ -1296,6 +1328,12 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("validate", help="Validate packaged cards.")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_validate)
+
+    p = sub.add_parser("index", help="Generate or verify docs/ph-civ-index.md.")
+    p.add_argument("--check", action="store_true", help="Fail if the index is stale without rewriting.")
+    p.add_argument("--force", action="store_true", help="Rewrite the index even when fingerprint matches.")
+    p.add_argument("--json", action="store_true")
+    p.set_defaults(func=cmd_index)
 
     p = sub.add_parser("status", help="Show the current public surface status.")
     p.add_argument("--json", action="store_true")

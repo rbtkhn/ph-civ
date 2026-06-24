@@ -127,6 +127,35 @@ def test_validate_passes(capsys):
     assert "card_count: 150" in capsys.readouterr().out
 
 
+def test_index_command_writes_fingerprinted_index():
+    from civ_ph.ph_civ_index import (
+        index_json_path,
+        index_markdown_path,
+        read_index_fingerprint,
+        validate_ph_civ_index,
+    )
+
+    assert main(["index"]) == 0
+    md_path = index_markdown_path()
+    json_path = index_json_path()
+    assert md_path.exists()
+    assert json_path.exists()
+    assert read_index_fingerprint(md_path)
+    assert read_index_fingerprint(json_path)
+    assert read_index_fingerprint(md_path) == read_index_fingerprint(json_path)
+    assert md_path.read_text(encoding="utf-8").startswith("<!-- ph-civ-index-fingerprint:")
+    payload = json.loads(json_path.read_text(encoding="utf-8"))
+    assert payload["card_count"] == 150
+    assert len(payload["chapters"]) == 150
+    assert payload["schema_version"] == 1
+    assert validate_ph_civ_index() == []
+
+
+def test_index_check_reports_current_after_validate():
+    assert main(["validate"]) == 0
+    assert main(["index", "--check"]) == 0
+
+
 def test_exported_source_repo_uses_workshop():
     cards = load_cards()
     assert {card["source_snapshot"]["repo"] for card in cards} == {"rbtkhn/ph-workshop"}

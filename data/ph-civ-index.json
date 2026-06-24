@@ -1,0 +1,2586 @@
+{
+  "schema_version": 1,
+  "fingerprint": "c40198f5bc3c576e",
+  "card_count": 150,
+  "ssot": "data/cards.jsonl",
+  "markdown_index": "docs/ph-civ-index.md",
+  "surfaces": {
+    "ph-civ": {
+      "part": "civilization",
+      "label": "Volume I — Civilization (law discovery)"
+    },
+    "ph-apo": {
+      "part": "world-war",
+      "label": "Volume II — Apocalypse (law application)"
+    }
+  },
+  "series_order": {
+    "civilization": [
+      {
+        "series": "civilization",
+        "label": "Civilization"
+      },
+      {
+        "series": "great-books",
+        "label": "Great Books"
+      },
+      {
+        "series": "game-theory",
+        "label": "Game Theory (Volume I lane)"
+      }
+    ],
+    "world-war": [
+      {
+        "series": "geo-strategy",
+        "label": "Geo-Strategy"
+      },
+      {
+        "series": "game-theory",
+        "label": "Game Theory"
+      },
+      {
+        "series": "secret-history",
+        "label": "Secret History"
+      },
+      {
+        "series": "essays",
+        "label": "Essays"
+      }
+    ]
+  },
+  "by_surface": {
+    "ph-civ": {
+      "part": "civilization",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "chapter_count": 78,
+      "series_counts": {
+        "civilization": 60,
+        "game-theory": 8,
+        "great-books": 10
+      }
+    },
+    "ph-apo": {
+      "part": "world-war",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "chapter_count": 72,
+      "series_counts": {
+        "essays": 5,
+        "game-theory": 19,
+        "geo-strategy": 20,
+        "secret-history": 28
+      }
+    }
+  },
+  "chapters": [
+    {
+      "source_id": "civ-01",
+      "title": "Civilization #1: Explaining Humanity's Transition to Agriculture",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "calibration_seed",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-01/civ-01-transcript.md",
+        "commentary": "book/volume-ii/civ-01/civ-01-commentary.md",
+        "folder": "book/volume-ii/civ-01",
+        "folder_readme": "book/volume-ii/civ-01/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=Jjqf9T59uY0"
+    },
+    {
+      "source_id": "civ-02",
+      "title": "Civilization #2: Religion and the Dawn of Society",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-02/civ-02-transcript.md",
+        "commentary": "book/volume-ii/civ-02/civ-02-commentary.md",
+        "folder": "book/volume-ii/civ-02",
+        "folder_readme": "book/volume-ii/civ-02/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=x1E5rRmCiT4"
+    },
+    {
+      "source_id": "civ-03",
+      "title": "Civilization #3: The Religious Imagination",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-03/civ-03-transcript.md",
+        "commentary": "book/volume-ii/civ-03/civ-03-commentary.md",
+        "folder": "book/volume-ii/civ-03",
+        "folder_readme": "book/volume-ii/civ-03/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=VanPH0GFTsA"
+    },
+    {
+      "source_id": "civ-04",
+      "title": "Civilization #4: The Paradise Lost of Marija Gimbutas",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-ii/civ-04/civ-04-transcript.md",
+        "commentary": "book/volume-ii/civ-04/civ-04-commentary.md",
+        "folder": "book/volume-ii/civ-04",
+        "folder_readme": "book/volume-ii/civ-04/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=RaT_ZUDjHrM"
+    },
+    {
+      "source_id": "civ-05",
+      "title": "Civilization #5: The Yamnaya Conquest of Europe",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-05/civ-05-transcript.md",
+        "commentary": "book/volume-ii/civ-05/civ-05-commentary.md",
+        "folder": "book/volume-ii/civ-05",
+        "folder_readme": "book/volume-ii/civ-05/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=J4HTFJWl5D8"
+    },
+    {
+      "source_id": "civ-06",
+      "title": "Civilization #6: Elite Overproduction and the Bronze Age Collapse",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-06/civ-06-transcript.md",
+        "commentary": "book/volume-ii/civ-06/civ-06-commentary.md",
+        "folder": "book/volume-ii/civ-06",
+        "folder_readme": "book/volume-ii/civ-06/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=QwfB-vXXKWU"
+    },
+    {
+      "source_id": "civ-07",
+      "title": "Civilization #7: Homer's Iliad and the Birth of Greek Civilization",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-ii/civ-07/civ-07-transcript.md",
+        "commentary": "book/volume-ii/civ-07/civ-07-commentary.md",
+        "folder": "book/volume-ii/civ-07",
+        "folder_readme": "book/volume-ii/civ-07/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=677rmlRgvLQ"
+    },
+    {
+      "source_id": "civ-08",
+      "title": "Civilization #8: Rat Utopia and the Peloponnesian War",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-ii/civ-08/civ-08-transcript.md",
+        "commentary": "book/volume-ii/civ-08/civ-08-commentary.md",
+        "folder": "book/volume-ii/civ-08",
+        "folder_readme": "book/volume-ii/civ-08/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=NpNCQ_gNqdE"
+    },
+    {
+      "source_id": "civ-09",
+      "title": "Civilization #9: Aeschylus, Sophocles, and Euripides as Prophets of Democracy",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-ii/civ-09/civ-09-transcript.md",
+        "commentary": "book/volume-ii/civ-09/civ-09-commentary.md",
+        "folder": "book/volume-ii/civ-09",
+        "folder_readme": "book/volume-ii/civ-09/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=96hzWlozdHw"
+    },
+    {
+      "source_id": "civ-10",
+      "title": "Civilization #10: The Trial of Socrates and Plato's Allegory of the Cave",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-ii/civ-10/civ-10-transcript.md",
+        "commentary": "book/volume-ii/civ-10/civ-10-commentary.md",
+        "folder": "book/volume-ii/civ-10",
+        "folder_readme": "book/volume-ii/civ-10/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=LWlTtdNww_k"
+    },
+    {
+      "source_id": "civ-11",
+      "title": "Civilization #11: The Greatness of Philip II of Macedon",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-11/civ-11-transcript.md",
+        "commentary": "book/volume-ii/civ-11/civ-11-commentary.md",
+        "folder": "book/volume-ii/civ-11",
+        "folder_readme": "book/volume-ii/civ-11/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=l6AroD58jkE"
+    },
+    {
+      "source_id": "civ-12",
+      "title": "Civilization #12: The Tyranny of Alexander the Great",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-12/civ-12-transcript.md",
+        "commentary": "book/volume-ii/civ-12/civ-12-commentary.md",
+        "folder": "book/volume-ii/civ-12",
+        "folder_readme": "book/volume-ii/civ-12/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=iTuRB48Of9Y"
+    },
+    {
+      "source_id": "civ-13",
+      "title": "Civilization #13: Aristotle and the Greek Legacy",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-13/civ-13-transcript.md",
+        "commentary": "book/volume-ii/civ-13/civ-13-commentary.md",
+        "folder": "book/volume-ii/civ-13",
+        "folder_readme": "book/volume-ii/civ-13/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=WoTOxE4DTFA"
+    },
+    {
+      "source_id": "civ-14",
+      "title": "Civilization #14: Hannibal Barca, Lucius Brutus, and the Triumph of Rome",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-14/civ-14-transcript.md",
+        "commentary": "book/volume-ii/civ-14/civ-14-commentary.md",
+        "folder": "book/volume-ii/civ-14",
+        "folder_readme": "book/volume-ii/civ-14/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=TdcE7XGDayo"
+    },
+    {
+      "source_id": "civ-15",
+      "title": "Civilization #15: The Myth-Making Genius of Julius Caesar",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-15/civ-15-transcript.md",
+        "commentary": "book/volume-ii/civ-15/civ-15-commentary.md",
+        "folder": "book/volume-ii/civ-15",
+        "folder_readme": "book/volume-ii/civ-15/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=F8qQgsEFGgc"
+    },
+    {
+      "source_id": "civ-16",
+      "title": "Civilization #16: Julius Caesar's Will and Octavian's Birth of Empire",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-16/civ-16-transcript.md",
+        "commentary": "book/volume-ii/civ-16/civ-16-commentary.md",
+        "folder": "book/volume-ii/civ-16",
+        "folder_readme": "book/volume-ii/civ-16/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=Dc54IquR7ik"
+    },
+    {
+      "source_id": "civ-17",
+      "title": "Civilization #17: Homer, Virgil, and the War for the Soul of Rome",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-ii/civ-17/civ-17-transcript.md",
+        "commentary": "book/volume-ii/civ-17/civ-17-commentary.md",
+        "folder": "book/volume-ii/civ-17",
+        "folder_readme": "book/volume-ii/civ-17/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=myTurqU7NxU"
+    },
+    {
+      "source_id": "civ-18",
+      "title": "Civilization #18: The Great Pyramid as Ancient Egypt's Manhattan Project",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-18/civ-18-transcript.md",
+        "commentary": "book/volume-ii/civ-18/civ-18-commentary.md",
+        "folder": "book/volume-ii/civ-18",
+        "folder_readme": "book/volume-ii/civ-18/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=KSSSCznYrGo"
+    },
+    {
+      "source_id": "civ-19",
+      "title": "Civilization #19: Gilgamesh and Mesopotamia's Quest for Immortality",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-19/civ-19-transcript.md",
+        "commentary": "book/volume-ii/civ-19/civ-19-commentary.md",
+        "folder": "book/volume-ii/civ-19",
+        "folder_readme": "book/volume-ii/civ-19/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=e92jyBMmAyM"
+    },
+    {
+      "source_id": "civ-20",
+      "title": "Civilization #20: The Proto-Buddhists of the Indus Valley (Harappan) Civilization",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-ii/civ-20/civ-20-transcript.md",
+        "commentary": "book/volume-ii/civ-20/civ-20-commentary.md",
+        "folder": "book/volume-ii/civ-20",
+        "folder_readme": "book/volume-ii/civ-20/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=cvI8rukoda8"
+    },
+    {
+      "source_id": "civ-21",
+      "title": "Civilization #21: The Apology of King David of Israel",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-21/civ-21-transcript.md",
+        "commentary": "book/volume-ii/civ-21/civ-21-commentary.md",
+        "folder": "book/volume-ii/civ-21",
+        "folder_readme": "book/volume-ii/civ-21/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=RkpGrRUgjnk"
+    },
+    {
+      "source_id": "civ-22",
+      "title": "Civilization #22: The Literary Genesis of the Yahwist",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-22/civ-22-transcript.md",
+        "commentary": "book/volume-ii/civ-22/civ-22-commentary.md",
+        "folder": "book/volume-ii/civ-22",
+        "folder_readme": "book/volume-ii/civ-22/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=GhLd_h1QsL4"
+    },
+    {
+      "source_id": "civ-23",
+      "title": "Civilization #23: Cyrus the Great as Messiah",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-23/civ-23-transcript.md",
+        "commentary": "book/volume-ii/civ-23/civ-23-commentary.md",
+        "folder": "book/volume-ii/civ-23",
+        "folder_readme": "book/volume-ii/civ-23/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=HvVTNTPzq7E"
+    },
+    {
+      "source_id": "civ-24",
+      "title": "Civilization #24: Resurrecting the Gnostic Jesus",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-ii/civ-24/civ-24-transcript.md",
+        "commentary": "book/volume-ii/civ-24/civ-24-commentary.md",
+        "folder": "book/volume-ii/civ-24",
+        "folder_readme": "book/volume-ii/civ-24/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=_bXHBT5NTfc"
+    },
+    {
+      "source_id": "civ-25",
+      "title": "Civilization #25: Paul of Tarsus, Messiah of Rome",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-25/civ-25-transcript.md",
+        "commentary": "book/volume-ii/civ-25/civ-25-commentary.md",
+        "folder": "book/volume-ii/civ-25",
+        "folder_readme": "book/volume-ii/civ-25/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=kuMhSFXnr5I"
+    },
+    {
+      "source_id": "civ-26",
+      "title": "Civilization #26: Constantine's Monotheistic Revolution",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-26/civ-26-transcript.md",
+        "commentary": "book/volume-ii/civ-26/civ-26-commentary.md",
+        "folder": "book/volume-ii/civ-26",
+        "folder_readme": "book/volume-ii/civ-26/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=za30rbC3tTg"
+    },
+    {
+      "source_id": "civ-27",
+      "title": "Civilization #27: Augustine's Empire of God",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-27/civ-27-transcript.md",
+        "commentary": "book/volume-ii/civ-27/civ-27-commentary.md",
+        "folder": "book/volume-ii/civ-27",
+        "folder_readme": "book/volume-ii/civ-27/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=GdbZBVUIVDE"
+    },
+    {
+      "source_id": "civ-28",
+      "title": "Civilization #28: Muhammad's Revolution of God",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-28/civ-28-transcript.md",
+        "commentary": "book/volume-ii/civ-28/civ-28-commentary.md",
+        "folder": "book/volume-ii/civ-28",
+        "folder_readme": "book/volume-ii/civ-28/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=C9rzPGJ0wm4"
+    },
+    {
+      "source_id": "civ-29",
+      "title": "Civilization #29: Dante's Divine Comedy and the Liberation of the Human Imagination",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-29/civ-29-transcript.md",
+        "commentary": "book/volume-ii/civ-29/civ-29-commentary.md",
+        "folder": "book/volume-ii/civ-29",
+        "folder_readme": "book/volume-ii/civ-29/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=GfqJi0qevok"
+    },
+    {
+      "source_id": "civ-30",
+      "title": "Civilization #30: Dante as the Second Coming of Homer",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-30/civ-30-transcript.md",
+        "commentary": "book/volume-ii/civ-30/civ-30-commentary.md",
+        "folder": "book/volume-ii/civ-30",
+        "folder_readme": "book/volume-ii/civ-30/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=asbKjezwIJM"
+    },
+    {
+      "source_id": "civ-31",
+      "title": "Civilization #31: The Oceanic Currents of History",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-31/civ-31-transcript.md",
+        "commentary": "book/volume-ii/civ-31/civ-31-commentary.md",
+        "folder": "book/volume-ii/civ-31",
+        "folder_readme": "book/volume-ii/civ-31/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=HIoYQBbBllk"
+    },
+    {
+      "source_id": "civ-32",
+      "title": "Civilization #32: Rome's Rise, Fall, and Legacy",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-32/civ-32-transcript.md",
+        "commentary": "book/volume-ii/civ-32/civ-32-commentary.md",
+        "folder": "book/volume-ii/civ-32",
+        "folder_readme": "book/volume-ii/civ-32/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=_Io7-_RS8uE"
+    },
+    {
+      "source_id": "civ-33",
+      "title": "Civilization #33: The Rise and Fall of the Byzantine Empire",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-33/civ-33-transcript.md",
+        "commentary": "book/volume-ii/civ-33/civ-33-commentary.md",
+        "folder": "book/volume-ii/civ-33",
+        "folder_readme": "book/volume-ii/civ-33/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=abs6z7VPEMc"
+    },
+    {
+      "source_id": "civ-34",
+      "title": "Civilization #34: The Useful Fiction of the Holy Roman Empire",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-34/civ-34-transcript.md",
+        "commentary": "book/volume-ii/civ-34/civ-34-commentary.md",
+        "folder": "book/volume-ii/civ-34",
+        "folder_readme": "book/volume-ii/civ-34/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=1dwvgtc7XzY"
+    },
+    {
+      "source_id": "civ-35",
+      "title": "Civilization #35: The Viking Legacy",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-35/civ-35-transcript.md",
+        "commentary": "book/volume-ii/civ-35/civ-35-commentary.md",
+        "folder": "book/volume-ii/civ-35",
+        "folder_readme": "book/volume-ii/civ-35/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=7k5XoLzwmls"
+    },
+    {
+      "source_id": "civ-36",
+      "title": "Civilization #36: Memory of the Norse",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-36/civ-36-transcript.md",
+        "commentary": "book/volume-ii/civ-36/civ-36-commentary.md",
+        "folder": "book/volume-ii/civ-36",
+        "folder_readme": "book/volume-ii/civ-36/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=tYMNsa83NHY"
+    },
+    {
+      "source_id": "civ-37",
+      "title": "Civilization #37: The Golden Age of Islam",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-37/civ-37-transcript.md",
+        "commentary": "book/volume-ii/civ-37/civ-37-commentary.md",
+        "folder": "book/volume-ii/civ-37",
+        "folder_readme": "book/volume-ii/civ-37/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=2OdO8LoKuo8"
+    },
+    {
+      "source_id": "civ-38",
+      "title": "Civilization #38: Twilight of the Middle Kingdom",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-38/civ-38-transcript.md",
+        "commentary": "book/volume-ii/civ-38/civ-38-commentary.md",
+        "folder": "book/volume-ii/civ-38",
+        "folder_readme": "book/volume-ii/civ-38/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=A2LMJerHcKM"
+    },
+    {
+      "source_id": "civ-39",
+      "title": "Civilization #39: Genghis Khan, World Shatterer",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-39/civ-39-transcript.md",
+        "commentary": "book/volume-ii/civ-39/civ-39-commentary.md",
+        "folder": "book/volume-ii/civ-39",
+        "folder_readme": "book/volume-ii/civ-39/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=mPQzAPnjYkM"
+    },
+    {
+      "source_id": "civ-40",
+      "title": "Civilization #40: Church and Empire",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-40/civ-40-transcript.md",
+        "commentary": "book/volume-ii/civ-40/civ-40-commentary.md",
+        "folder": "book/volume-ii/civ-40",
+        "folder_readme": "book/volume-ii/civ-40/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=3751ZjwmrBw"
+    },
+    {
+      "source_id": "civ-41",
+      "title": "Civilization #41: Dante's Quiet Revolution",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-41/civ-41-transcript.md",
+        "commentary": "book/volume-ii/civ-41/civ-41-commentary.md",
+        "folder": "book/volume-ii/civ-41",
+        "folder_readme": "book/volume-ii/civ-41/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=v6CDqJnrvLk"
+    },
+    {
+      "source_id": "civ-42",
+      "title": "Civilization #42: The Protestant Reformation and the Birth of Capitalism",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-42/civ-42-transcript.md",
+        "commentary": "book/volume-ii/civ-42/civ-42-commentary.md",
+        "folder": "book/volume-ii/civ-42",
+        "folder_readme": "book/volume-ii/civ-42/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=TcxlOiJz8V0"
+    },
+    {
+      "source_id": "civ-43",
+      "title": "Civilization #43: The Structure of Scientific Revolutions",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-43/civ-43-transcript.md",
+        "commentary": "book/volume-ii/civ-43/civ-43-commentary.md",
+        "folder": "book/volume-ii/civ-43",
+        "folder_readme": "book/volume-ii/civ-43/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=CjtUnKcU1IA"
+    },
+    {
+      "source_id": "civ-44",
+      "title": "Civilization #44: The Spanish Conquest of the New World",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-44/civ-44-transcript.md",
+        "commentary": "book/volume-ii/civ-44/civ-44-commentary.md",
+        "folder": "book/volume-ii/civ-44",
+        "folder_readme": "book/volume-ii/civ-44/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=-DnfGcvZrfA"
+    },
+    {
+      "source_id": "civ-45",
+      "title": "Civilization #45: The Gunpowder Revolution",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-45/civ-45-transcript.md",
+        "commentary": "book/volume-ii/civ-45/civ-45-commentary.md",
+        "folder": "book/volume-ii/civ-45",
+        "folder_readme": "book/volume-ii/civ-45/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=DiRJyy-8V54"
+    },
+    {
+      "source_id": "civ-46",
+      "title": "Civilization #46: The Revolution of Reason",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-46/civ-46-transcript.md",
+        "commentary": "book/volume-ii/civ-46/civ-46-commentary.md",
+        "folder": "book/volume-ii/civ-46",
+        "folder_readme": "book/volume-ii/civ-46/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=5HwZx5kQm9o"
+    },
+    {
+      "source_id": "civ-47",
+      "title": "Civilization #47: The Passion of Robespierre",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-47/civ-47-transcript.md",
+        "commentary": "book/volume-ii/civ-47/civ-47-commentary.md",
+        "folder": "book/volume-ii/civ-47",
+        "folder_readme": "book/volume-ii/civ-47/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=ef-Ch2LGDDI"
+    },
+    {
+      "source_id": "civ-48",
+      "title": "Civilization #48: Napoleon's Empire of Myth",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-48/civ-48-transcript.md",
+        "commentary": "book/volume-ii/civ-48/civ-48-commentary.md",
+        "folder": "book/volume-ii/civ-48",
+        "folder_readme": "book/volume-ii/civ-48/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=enEET_0j_Y8"
+    },
+    {
+      "source_id": "civ-49",
+      "title": "Civilization #49: The Dutch Golden Age and the Rise of the Middle Class",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-49/civ-49-transcript.md",
+        "commentary": "book/volume-ii/civ-49/civ-49-commentary.md",
+        "folder": "book/volume-ii/civ-49",
+        "folder_readme": "book/volume-ii/civ-49/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=JZ8P-FZHWnQ"
+    },
+    {
+      "source_id": "civ-50",
+      "title": "Civilization #50: Rule, Britannia!",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-50/civ-50-transcript.md",
+        "commentary": "book/volume-ii/civ-50/civ-50-commentary.md",
+        "folder": "book/volume-ii/civ-50",
+        "folder_readme": "book/volume-ii/civ-50/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=laGSxfvlOfk"
+    },
+    {
+      "source_id": "civ-51",
+      "title": "Civilization #51: Shakespeare's Language of Empire",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-51/civ-51-transcript.md",
+        "commentary": "book/volume-ii/civ-51/civ-51-commentary.md",
+        "folder": "book/volume-ii/civ-51",
+        "folder_readme": "book/volume-ii/civ-51/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=Qms7trnKwqQ"
+    },
+    {
+      "source_id": "civ-52",
+      "title": "Civilization #52: Empire of Democracy",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-52/civ-52-transcript.md",
+        "commentary": "book/volume-ii/civ-52/civ-52-commentary.md",
+        "folder": "book/volume-ii/civ-52",
+        "folder_readme": "book/volume-ii/civ-52/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=ea20aMYfT5I"
+    },
+    {
+      "source_id": "civ-53",
+      "title": "Civilization #53: Dostoevsky and the Soul of Russia",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-53/civ-53-transcript.md",
+        "commentary": "book/volume-ii/civ-53/civ-53-commentary.md",
+        "folder": "book/volume-ii/civ-53",
+        "folder_readme": "book/volume-ii/civ-53/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=0rALqcPWuH0"
+    },
+    {
+      "source_id": "civ-54",
+      "title": "Civilization #54: The German Will to Power",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-54/civ-54-transcript.md",
+        "commentary": "book/volume-ii/civ-54/civ-54-commentary.md",
+        "folder": "book/volume-ii/civ-54",
+        "folder_readme": "book/volume-ii/civ-54/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=o2Nq--qU9Kc"
+    },
+    {
+      "source_id": "civ-55",
+      "title": "Civilization #55: Kant, Hegel, and the Theory of Everything",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-55/civ-55-transcript.md",
+        "commentary": "book/volume-ii/civ-55/civ-55-commentary.md",
+        "folder": "book/volume-ii/civ-55",
+        "folder_readme": "book/volume-ii/civ-55/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=_3c3FjS57x4"
+    },
+    {
+      "source_id": "civ-56",
+      "title": "Civilization #56: What Marx Got Wrong",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-56/civ-56-transcript.md",
+        "commentary": "book/volume-ii/civ-56/civ-56-commentary.md",
+        "folder": "book/volume-ii/civ-56",
+        "folder_readme": "book/volume-ii/civ-56/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=m24LnQ-Ksjk"
+    },
+    {
+      "source_id": "civ-57",
+      "title": "Civilization #57: How Modernism Ruined Everything",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-57/civ-57-transcript.md",
+        "commentary": "book/volume-ii/civ-57/civ-57-commentary.md",
+        "folder": "book/volume-ii/civ-57",
+        "folder_readme": "book/volume-ii/civ-57/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=cylkQPsfFRY"
+    },
+    {
+      "source_id": "civ-58",
+      "title": "Civilization #58: Birth of the Nation-State",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-58/civ-58-transcript.md",
+        "commentary": "book/volume-ii/civ-58/civ-58-commentary.md",
+        "folder": "book/volume-ii/civ-58",
+        "folder_readme": "book/volume-ii/civ-58/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=tquo1UsC5Nw"
+    },
+    {
+      "source_id": "civ-59",
+      "title": "Civilization #59: The Man of Steel",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-59/civ-59-transcript.md",
+        "commentary": "book/volume-ii/civ-59/civ-59-commentary.md",
+        "folder": "book/volume-ii/civ-59",
+        "folder_readme": "book/volume-ii/civ-59/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=QtqfIjK1GAc"
+    },
+    {
+      "source_id": "civ-60",
+      "title": "Civilization #60: The Decline and Fall of the American Empire",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "civilization",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-ii/civ-60/civ-60-transcript.md",
+        "commentary": "book/volume-ii/civ-60/civ-60-commentary.md",
+        "folder": "book/volume-ii/civ-60",
+        "folder_readme": "book/volume-ii/civ-60/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=_gH4PvIni5E"
+    },
+    {
+      "source_id": "gb-01",
+      "title": "Great Books #1: Secrets of the Universe",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "great-books",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-v/gb-01/gb-01-transcript.md",
+        "commentary": "book/volume-v/gb-01/gb-01-commentary.md",
+        "folder": "book/volume-v/gb-01",
+        "folder_readme": "book/volume-v/gb-01/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=TsD-8FGA84A"
+    },
+    {
+      "source_id": "gb-02",
+      "title": "Great Books #2: Homer and the Invention of the Human",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "great-books",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-v/gb-02/gb-02-transcript.md",
+        "commentary": "book/volume-v/gb-02/gb-02-commentary.md",
+        "folder": "book/volume-v/gb-02",
+        "folder_readme": "book/volume-v/gb-02/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=Ft2CuowGuYc"
+    },
+    {
+      "source_id": "gb-03",
+      "title": "Great Books #3: Poets and Prophets",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "great-books",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-v/gb-03/gb-03-transcript.md",
+        "commentary": "book/volume-v/gb-03/gb-03-commentary.md",
+        "folder": "book/volume-v/gb-03",
+        "folder_readme": "book/volume-v/gb-03/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=XRP407WsA0w"
+    },
+    {
+      "source_id": "gb-04",
+      "title": "Great Books #4: The Conscious Universe",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "great-books",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-v/gb-04/gb-04-transcript.md",
+        "commentary": "book/volume-v/gb-04/gb-04-commentary.md",
+        "folder": "book/volume-v/gb-04",
+        "folder_readme": "book/volume-v/gb-04/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=dkzr5A8IlLA"
+    },
+    {
+      "source_id": "gb-05",
+      "title": "Great Books #5: The Odyssey",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "great-books",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-v/gb-05/gb-05-transcript.md",
+        "commentary": "book/volume-v/gb-05/gb-05-commentary.md",
+        "folder": "book/volume-v/gb-05",
+        "folder_readme": "book/volume-v/gb-05/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=gXlcR7uHHdA"
+    },
+    {
+      "source_id": "gb-06",
+      "title": "Great Books #6: The Intimacy of Love",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "great-books",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-v/gb-06/gb-06-transcript.md",
+        "commentary": "book/volume-v/gb-06/gb-06-commentary.md",
+        "folder": "book/volume-v/gb-06",
+        "folder_readme": "book/volume-v/gb-06/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=aS-NfPSPMu8"
+    },
+    {
+      "source_id": "gb-07",
+      "title": "Great Books #7: The Anti-Homer",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "great-books",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-v/gb-07/gb-07-transcript.md",
+        "commentary": "book/volume-v/gb-07/gb-07-commentary.md",
+        "folder": "book/volume-v/gb-07",
+        "folder_readme": "book/volume-v/gb-07/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=EBWTRvjZ1dw"
+    },
+    {
+      "source_id": "gb-08",
+      "title": "Great Books #8: The Poetry of Empire",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "great-books",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-v/gb-08/gb-08-transcript.md",
+        "commentary": "book/volume-v/gb-08/gb-08-commentary.md",
+        "folder": "book/volume-v/gb-08",
+        "folder_readme": "book/volume-v/gb-08/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=YXTRlvFIRt8"
+    },
+    {
+      "source_id": "gb-09",
+      "title": "Great Books #9: Dante (Re-Upload with Audio Fixed)",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "great-books",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-v/gb-09/gb-09-transcript.md",
+        "commentary": "book/volume-v/gb-09/gb-09-commentary.md",
+        "folder": "book/volume-v/gb-09",
+        "folder_readme": "book/volume-v/gb-09/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=4EZUrGPgAos"
+    },
+    {
+      "source_id": "gb-10",
+      "title": "Great Books #10: Dante's Hierarchy of Hell",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "great-books",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-v/gb-10/gb-10-transcript.md",
+        "commentary": "book/volume-v/gb-10/gb-10-commentary.md",
+        "folder": "book/volume-v/gb-10",
+        "folder_readme": "book/volume-v/gb-10/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=wGpdMYa2bME"
+    },
+    {
+      "source_id": "geo-01",
+      "title": "Geo-Strategy #1: IranÃ¢â‚¬â„¢s Strategy Matrix",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-01-transcript.md",
+        "commentary": "book/volume-i/geo-01-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=xEEpOxqdU5E"
+    },
+    {
+      "source_id": "geo-02",
+      "title": "Geo-Strategy #2: Christian Zionism and the Middle East Conflict",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-02-transcript.md",
+        "commentary": "book/volume-i/geo-02-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=lkKrZq4YdqY"
+    },
+    {
+      "source_id": "geo-03",
+      "title": "Geo-Strategy #3: How Empire Is Destroying America",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-03-transcript.md",
+        "commentary": "book/volume-i/geo-03-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=_blj8zKdKgA"
+    },
+    {
+      "source_id": "geo-04",
+      "title": "Geo-Strategy #4: Saudi ArabiaÃ¢â‚¬â„¢s Trump Card Against Iran",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-04-transcript.md",
+        "commentary": "book/volume-i/geo-04-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=LctUcVqhhns"
+    },
+    {
+      "source_id": "geo-05",
+      "title": "Geo-Strategy #5: Why Trump Will Win (And Pick Nikki Haley as VP)",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "book/volume-i/geo-05-transcript.md",
+        "commentary": "book/volume-i/geo-05-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=exRK-85630k"
+    },
+    {
+      "source_id": "geo-06",
+      "title": "Geo-Strategy #6: America's Imperial Hubris",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-06-transcript.md",
+        "commentary": "book/volume-i/geo-06-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=JieFC4Yww4o"
+    },
+    {
+      "source_id": "geo-07",
+      "title": "Geo-Strategy #7: Who Killed Iranian President Ebrahim Raisi?",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-i/geo-07-transcript.md",
+        "commentary": "book/volume-i/geo-07-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=LsRGvKxfLts"
+    },
+    {
+      "source_id": "geo-08",
+      "title": "Geo-Strategy #8: The Iran Trap",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-08-transcript.md",
+        "commentary": "book/volume-i/geo-08-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=7y_hbz6loEo"
+    },
+    {
+      "source_id": "geo-09",
+      "title": "Geo-Strategy #9: Putin's War for the Soul of Russia",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-09-transcript.md",
+        "commentary": "book/volume-i/geo-09-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=AEPSUC-UQ5k"
+    },
+    {
+      "source_id": "geo-10",
+      "title": "Geo-Strategy #10: Putin's Strategic Imagination",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-10-transcript.md",
+        "commentary": "book/volume-i/geo-10-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=B_al2wgk49Y"
+    },
+    {
+      "source_id": "geo-11",
+      "title": "Geo-Strategy #11: The Second American Civil War",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-11-transcript.md",
+        "commentary": "book/volume-i/geo-11-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=Go1bMQKnJBQ"
+    },
+    {
+      "source_id": "geo-12",
+      "title": "Geo-Strategy #12 (END): Psychohistory (The Science of Imagining the Future)",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-i/geo-12-transcript.md",
+        "commentary": "book/volume-i/geo-12-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=s_k6esWheqA"
+    },
+    {
+      "source_id": "geo-13",
+      "title": "Geo-Strategy #13: US-Iran War Incoming",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-13-transcript.md",
+        "commentary": "book/volume-i/geo-13-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=8XdL-7tAqnU"
+    },
+    {
+      "source_id": "geo-14",
+      "title": "Geo-Strategy #14: WWIII Begins, Let's Game Theory",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-14-transcript.md",
+        "commentary": "book/volume-i/geo-14-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=N4cs-8mrP_s"
+    },
+    {
+      "source_id": "geo-15",
+      "title": "Geo-Strategy #15: The Messianic Calling",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-15-transcript.md",
+        "commentary": "book/volume-i/geo-15-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=bc9adtiIN_k"
+    },
+    {
+      "source_id": "geo-16",
+      "title": "Geo-Strategy #16: Newton's Divine Plan",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-16-transcript.md",
+        "commentary": "book/volume-i/geo-16-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=Kw-TiN6dEcM"
+    },
+    {
+      "source_id": "geo-17",
+      "title": "Geo-Strategy #17: The Universal Law of Game Theory",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-17-transcript.md",
+        "commentary": "book/volume-i/geo-17-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=5I2VPYPJJ68"
+    },
+    {
+      "source_id": "geo-18",
+      "title": "Geo-Strategy #18: Is Putin the Ubermensch?",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-18-transcript.md",
+        "commentary": "book/volume-i/geo-18-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=ZgvAHZqaawA"
+    },
+    {
+      "source_id": "geo-19",
+      "title": "Geo-Strategy #19: When Eschatologies Converge",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-19-transcript.md",
+        "commentary": "book/volume-i/geo-19-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=YQ-xg1nIbMs"
+    },
+    {
+      "source_id": "geo-20",
+      "title": "Geo-Strategy #20: Why the West is Doomed",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "geo-strategy",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-i/geo-20-transcript.md",
+        "commentary": "book/volume-i/geo-20-commentary.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=E83dpuyvpiM"
+    },
+    {
+      "source_id": "gt-01",
+      "title": "Game Theory #1: The Dating Game",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-civ/chapters/gt-01/gt-01-transcript.md",
+        "commentary": "ph-civ/chapters/gt-01/gt-01-commentary.md",
+        "folder": "ph-civ/chapters/gt-01",
+        "folder_readme": "ph-civ/chapters/gt-01/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=hE4l9WyLF3U"
+    },
+    {
+      "source_id": "gt-02",
+      "title": "Game Theory #2: Why Schools Suck",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "ph-civ/chapters/gt-02/gt-02-transcript.md",
+        "commentary": "ph-civ/chapters/gt-02/gt-02-commentary.md",
+        "folder": "ph-civ/chapters/gt-02",
+        "folder_readme": "ph-civ/chapters/gt-02/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=kS-muAuq62E"
+    },
+    {
+      "source_id": "gt-03",
+      "title": "Game Theory #3: Rich Dad, Poor Dad",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "ph-civ/chapters/gt-03/gt-03-transcript.md",
+        "commentary": "ph-civ/chapters/gt-03/gt-03-commentary.md",
+        "folder": "ph-civ/chapters/gt-03",
+        "folder_readme": "ph-civ/chapters/gt-03/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=MX93U4KzA28"
+    },
+    {
+      "source_id": "gt-04",
+      "title": "Game Theory #4: The Immigration Trap",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "ph-civ/chapters/gt-04/gt-04-transcript.md",
+        "commentary": "ph-civ/chapters/gt-04/gt-04-commentary.md",
+        "folder": "ph-civ/chapters/gt-04",
+        "folder_readme": "ph-civ/chapters/gt-04/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=35HRPLVyF0g"
+    },
+    {
+      "source_id": "gt-05",
+      "title": "Game Theory #5: The World Game",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-civ/chapters/gt-05/gt-05-transcript.md",
+        "commentary": "ph-civ/chapters/gt-05/gt-05-commentary.md",
+        "folder": "ph-civ/chapters/gt-05",
+        "folder_readme": "ph-civ/chapters/gt-05/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=ybufqRY77PQ"
+    },
+    {
+      "source_id": "gt-06",
+      "title": "Game Theory #6: The World's Bank",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-civ/chapters/gt-06/gt-06-transcript.md",
+        "commentary": "ph-civ/chapters/gt-06/gt-06-commentary.md",
+        "folder": "ph-civ/chapters/gt-06",
+        "folder_readme": "ph-civ/chapters/gt-06/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=CbamEcNuDXo"
+    },
+    {
+      "source_id": "gt-07",
+      "title": "Game Theory #7: America's Game",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-civ/chapters/gt-07/gt-07-transcript.md",
+        "commentary": "ph-civ/chapters/gt-07/gt-07-commentary.md",
+        "folder": "ph-civ/chapters/gt-07",
+        "folder_readme": "ph-civ/chapters/gt-07/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=ijnkCt1QK6k"
+    },
+    {
+      "source_id": "gt-08",
+      "title": "Game Theory #8: Communist Specter",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "ph-civ/chapters/gt-08/gt-08-transcript.md",
+        "commentary": "ph-civ/chapters/gt-08/gt-08-commentary.md",
+        "folder": "ph-civ/chapters/gt-08",
+        "folder_readme": "ph-civ/chapters/gt-08/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=axqDLhWs93Q"
+    },
+    {
+      "source_id": "gt-09",
+      "title": "Game Theory #9: The US-Iran War",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-09/gt-09-transcript.md",
+        "commentary": "ph-apo/chapters/gt-09/gt-09-commentary.md",
+        "folder": "ph-apo/chapters/gt-09",
+        "folder_readme": "ph-apo/chapters/gt-09/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=jIS2eB-rGv0"
+    },
+    {
+      "source_id": "gt-10",
+      "title": "Game Theory #10: The Law of Asymmetry",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-10/gt-10-transcript.md",
+        "commentary": "ph-apo/chapters/gt-10/gt-10-commentary.md",
+        "folder": "ph-apo/chapters/gt-10",
+        "folder_readme": "ph-apo/chapters/gt-10/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=t5oisJiorsU"
+    },
+    {
+      "source_id": "gt-11",
+      "title": "Game Theory #11: The Law of Escalation",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-11/gt-11-transcript.md",
+        "commentary": "ph-apo/chapters/gt-11/gt-11-commentary.md",
+        "folder": "ph-apo/chapters/gt-11",
+        "folder_readme": "ph-apo/chapters/gt-11/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=fz-Dan7NRss"
+    },
+    {
+      "source_id": "gt-12",
+      "title": "Game Theory #12: The Law of Eschatological Convergence",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-12/gt-12-transcript.md",
+        "commentary": "ph-apo/chapters/gt-12/gt-12-commentary.md",
+        "folder": "ph-apo/chapters/gt-12",
+        "folder_readme": "ph-apo/chapters/gt-12/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=spg58Glfz68"
+    },
+    {
+      "source_id": "gt-13",
+      "title": "Game Theory #13: Epstein's World",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-13/gt-13-transcript.md",
+        "commentary": "ph-apo/chapters/gt-13/gt-13-commentary.md",
+        "folder": "ph-apo/chapters/gt-13",
+        "folder_readme": "ph-apo/chapters/gt-13/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=aQSDSqdlFxk"
+    },
+    {
+      "source_id": "gt-14",
+      "title": "Game Theory #14: The Law of Proximity",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-14/gt-14-transcript.md",
+        "commentary": "ph-apo/chapters/gt-14/gt-14-commentary.md",
+        "folder": "ph-apo/chapters/gt-14",
+        "folder_readme": "ph-apo/chapters/gt-14/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=nOQqGy4boBY"
+    },
+    {
+      "source_id": "gt-15",
+      "title": "Game Theory #15: The Return of History",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-15/gt-15-transcript.md",
+        "commentary": "ph-apo/chapters/gt-15/gt-15-commentary.md",
+        "folder": "ph-apo/chapters/gt-15",
+        "folder_readme": "ph-apo/chapters/gt-15/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=zAer-Mqe7tQ"
+    },
+    {
+      "source_id": "gt-16",
+      "title": "Game Theory #16: Pax Judaica Rising",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-16/gt-16-transcript.md",
+        "commentary": "ph-apo/chapters/gt-16/gt-16-commentary.md",
+        "folder": "ph-apo/chapters/gt-16",
+        "folder_readme": "ph-apo/chapters/gt-16/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=0aASxQrJYuo"
+    },
+    {
+      "source_id": "gt-17",
+      "title": "Game Theory #17: The Great Reset",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-17/gt-17-transcript.md",
+        "commentary": "ph-apo/chapters/gt-17/gt-17-commentary.md",
+        "folder": "ph-apo/chapters/gt-17",
+        "folder_readme": "ph-apo/chapters/gt-17/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=VbowBTJWKBo"
+    },
+    {
+      "source_id": "gt-18",
+      "title": "Game Theory #18: Trump World Order",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-18/gt-18-transcript.md",
+        "commentary": "ph-apo/chapters/gt-18/gt-18-commentary.md",
+        "folder": "ph-apo/chapters/gt-18",
+        "folder_readme": "ph-apo/chapters/gt-18/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=xrmERlHUqBk"
+    },
+    {
+      "source_id": "gt-19",
+      "title": "Game Theory #19: The Hollywood-Pentagon Complex",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-19/gt-19-transcript.md",
+        "commentary": "ph-apo/chapters/gt-19/gt-19-commentary.md",
+        "folder": "ph-apo/chapters/gt-19",
+        "folder_readme": "ph-apo/chapters/gt-19/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=0HYET47Cc-E"
+    },
+    {
+      "source_id": "gt-20",
+      "title": "Game Theory #20: Mid-Term Examination",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-20/gt-20-transcript.md",
+        "commentary": "ph-apo/chapters/gt-20/gt-20-commentary.md",
+        "folder": "ph-apo/chapters/gt-20",
+        "folder_readme": "ph-apo/chapters/gt-20/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=ue8y5e3HnHE"
+    },
+    {
+      "source_id": "gt-21",
+      "title": "Game Theory #21: World War Trump",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-21/gt-21-transcript.md",
+        "commentary": "ph-apo/chapters/gt-21/gt-21-commentary.md",
+        "folder": "ph-apo/chapters/gt-21",
+        "folder_readme": "ph-apo/chapters/gt-21/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=Ts-AA6LQf6I"
+    },
+    {
+      "source_id": "gt-22",
+      "title": "Game Theory #22: Twilight of the Nation-State",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-22/gt-22-transcript.md",
+        "commentary": "ph-apo/chapters/gt-22/gt-22-commentary.md",
+        "folder": "ph-apo/chapters/gt-22",
+        "folder_readme": "ph-apo/chapters/gt-22/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=txgPfnXgzcE"
+    },
+    {
+      "source_id": "gt-23",
+      "title": "Game Theory #23: The WWIII Chessboard",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-23/gt-23-transcript.md",
+        "commentary": "ph-apo/chapters/gt-23/gt-23-commentary.md",
+        "folder": "ph-apo/chapters/gt-23",
+        "folder_readme": "ph-apo/chapters/gt-23/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=6aNh6sBpqvQ"
+    },
+    {
+      "source_id": "gt-24",
+      "title": "Game Theory #24: The AI Apocalypse",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-24/gt-24-transcript.md",
+        "commentary": "ph-apo/chapters/gt-24/gt-24-commentary.md",
+        "folder": "ph-apo/chapters/gt-24",
+        "folder_readme": "ph-apo/chapters/gt-24/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=8nsxuB3Vsts"
+    },
+    {
+      "source_id": "gt-25",
+      "title": "Game Theory #25: Trump Visits China",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-25/gt-25-transcript.md",
+        "commentary": "ph-apo/chapters/gt-25/gt-25-commentary.md",
+        "folder": "ph-apo/chapters/gt-25",
+        "folder_readme": "ph-apo/chapters/gt-25/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=BIl5vJn6ohI"
+    },
+    {
+      "source_id": "gt-26",
+      "title": "Game Theory #26: The Holy Empire of AI",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-26/gt-26-transcript.md",
+        "commentary": "ph-apo/chapters/gt-26/gt-26-commentary.md",
+        "folder": "ph-apo/chapters/gt-26",
+        "folder_readme": "ph-apo/chapters/gt-26/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=RG1clZlrfOo"
+    },
+    {
+      "source_id": "gt-27",
+      "title": "Game Theory #27: Putin Enters the Chat",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-27/gt-27-transcript.md",
+        "commentary": "ph-apo/chapters/gt-27/gt-27-commentary.md",
+        "folder": "ph-apo/chapters/gt-27",
+        "folder_readme": "ph-apo/chapters/gt-27/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=x83HcLWvHI8"
+    },
+    {
+      "source_id": "sh-01",
+      "title": "Secret History #1: How Power Works (4K Re-Upload with Audio Fixed)",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-01/sh-01-transcript.md",
+        "commentary": "book/volume-vi/sh-01/sh-01-commentary.md",
+        "folder": "book/volume-vi/sh-01",
+        "folder_readme": "book/volume-vi/sh-01/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=lt8XLz78ZvY"
+    },
+    {
+      "source_id": "sh-02",
+      "title": "Secret History #2: How Societies Collapse",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-02/sh-02-transcript.md",
+        "commentary": "book/volume-vi/sh-02/sh-02-commentary.md",
+        "folder": "book/volume-vi/sh-02",
+        "folder_readme": "book/volume-vi/sh-02/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=K-_l9jBGo74"
+    },
+    {
+      "source_id": "sh-03",
+      "title": "Secret History #3: Death by Gerontocracy",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-03/sh-03-transcript.md",
+        "commentary": "book/volume-vi/sh-03/sh-03-commentary.md",
+        "folder": "book/volume-vi/sh-03",
+        "folder_readme": "book/volume-vi/sh-03/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=0g3yo1DjiLM"
+    },
+    {
+      "source_id": "sh-04",
+      "title": "Secret History #4: How Evil Triumphs",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-04/sh-04-transcript.md",
+        "commentary": "book/volume-vi/sh-04/sh-04-commentary.md",
+        "folder": "book/volume-vi/sh-04",
+        "folder_readme": "book/volume-vi/sh-04/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=BtlWoqWLm9Q"
+    },
+    {
+      "source_id": "sh-05",
+      "title": "Secret History #5: The Birth of Evil",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-05/sh-05-transcript.md",
+        "commentary": "book/volume-vi/sh-05/sh-05-commentary.md",
+        "folder": "book/volume-vi/sh-05",
+        "folder_readme": "book/volume-vi/sh-05/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=EgGfQdv_rPc"
+    },
+    {
+      "source_id": "sh-06",
+      "title": "Secret History #6: The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-06/sh-06-transcript.md",
+        "commentary": "book/volume-vi/sh-06/sh-06-commentary.md",
+        "folder": "book/volume-vi/sh-06",
+        "folder_readme": "book/volume-vi/sh-06/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=6PdfD44DkqA"
+    },
+    {
+      "source_id": "sh-07",
+      "title": "Secret History #7: Death by Meritocracy",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-07/sh-07-transcript.md",
+        "commentary": "book/volume-vi/sh-07/sh-07-commentary.md",
+        "folder": "book/volume-vi/sh-07",
+        "folder_readme": "book/volume-vi/sh-07/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=JU_8fJjtGxA"
+    },
+    {
+      "source_id": "sh-08",
+      "title": "Secret History #8: Death by Bureaucracy",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-08/sh-08-transcript.md",
+        "commentary": "book/volume-vi/sh-08/sh-08-commentary.md",
+        "folder": "book/volume-vi/sh-08",
+        "folder_readme": "book/volume-vi/sh-08/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=hk_yhi3-prw"
+    },
+    {
+      "source_id": "sh-09",
+      "title": "Secret History #9: The Theory of Everything",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-09/sh-09-transcript.md",
+        "commentary": "book/volume-vi/sh-09/sh-09-commentary.md",
+        "folder": "book/volume-vi/sh-09",
+        "folder_readme": "book/volume-vi/sh-09/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=9MURGjjG4aA"
+    },
+    {
+      "source_id": "sh-10",
+      "title": "Secret History #10: The Conspiracy of Evil",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-10/sh-10-transcript.md",
+        "commentary": "book/volume-vi/sh-10/sh-10-commentary.md",
+        "folder": "book/volume-vi/sh-10",
+        "folder_readme": "book/volume-vi/sh-10/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=ihh1fdW4-cA"
+    },
+    {
+      "source_id": "sh-11",
+      "title": "Secret History #11: Dawn of the Human Imagination",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-vi/sh-11/sh-11-transcript.md",
+        "commentary": "book/volume-vi/sh-11/sh-11-commentary.md",
+        "folder": "book/volume-vi/sh-11",
+        "folder_readme": "book/volume-vi/sh-11/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=LvHsg5qtDs8"
+    },
+    {
+      "source_id": "sh-12",
+      "title": "Secret History #12: Heaven on Earth",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-12/sh-12-transcript.md",
+        "commentary": "book/volume-vi/sh-12/sh-12-commentary.md",
+        "folder": "book/volume-vi/sh-12",
+        "folder_readme": "book/volume-vi/sh-12/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=VtnRA-GNKM8"
+    },
+    {
+      "source_id": "sh-13",
+      "title": "Secret History #13: Mandate of Heaven",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-13/sh-13-transcript.md",
+        "commentary": "book/volume-vi/sh-13/sh-13-commentary.md",
+        "folder": "book/volume-vi/sh-13",
+        "folder_readme": "book/volume-vi/sh-13/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=FJF8oD_5c_w"
+    },
+    {
+      "source_id": "sh-14",
+      "title": "Secret History #14: Legacy of the Steppes",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-14/sh-14-transcript.md",
+        "commentary": "book/volume-vi/sh-14/sh-14-commentary.md",
+        "folder": "book/volume-vi/sh-14",
+        "folder_readme": "book/volume-vi/sh-14/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=JpTI2gFYWrU"
+    },
+    {
+      "source_id": "sh-15",
+      "title": "Secret History #15: Capital and the Bronze Age Collapse",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-15/sh-15-transcript.md",
+        "commentary": "book/volume-vi/sh-15/sh-15-commentary.md",
+        "folder": "book/volume-vi/sh-15",
+        "folder_readme": "book/volume-vi/sh-15/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=rkt0HQOogHE"
+    },
+    {
+      "source_id": "sh-16",
+      "title": "Secret History #16: The Big Bang of Greek Civilization",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-vi/sh-16/sh-16-transcript.md",
+        "commentary": "book/volume-vi/sh-16/sh-16-commentary.md",
+        "folder": "book/volume-vi/sh-16",
+        "folder_readme": "book/volume-vi/sh-16/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=4ehovUNrSrw"
+    },
+    {
+      "source_id": "sh-17",
+      "title": "Secret History #17: Literary Genesis",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-vi/sh-17/sh-17-transcript.md",
+        "commentary": "book/volume-vi/sh-17/sh-17-commentary.md",
+        "folder": "book/volume-vi/sh-17",
+        "folder_readme": "book/volume-vi/sh-17/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=PlMNq44tBG0"
+    },
+    {
+      "source_id": "sh-18",
+      "title": "Secret History #18: Thus Spoke Zarathustra",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-vi/sh-18/sh-18-transcript.md",
+        "commentary": "book/volume-vi/sh-18/sh-18-commentary.md",
+        "folder": "book/volume-vi/sh-18",
+        "folder_readme": "book/volume-vi/sh-18/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=dELEdxh0ceg"
+    },
+    {
+      "source_id": "sh-19",
+      "title": "Secret History #19: Dawn of the Jews",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-19/sh-19-transcript.md",
+        "commentary": "book/volume-vi/sh-19/sh-19-commentary.md",
+        "folder": "book/volume-vi/sh-19",
+        "folder_readme": "book/volume-vi/sh-19/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=3t0MeVBD24I"
+    },
+    {
+      "source_id": "sh-20",
+      "title": "Secret History #20: The Hellenistic World",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-20/sh-20-transcript.md",
+        "commentary": "book/volume-vi/sh-20/sh-20-commentary.md",
+        "folder": "book/volume-vi/sh-20",
+        "folder_readme": "book/volume-vi/sh-20/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=z0AwFin83lo"
+    },
+    {
+      "source_id": "sh-21",
+      "title": "Secret History #21: Roman Anti-Civilization",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-21/sh-21-transcript.md",
+        "commentary": "book/volume-vi/sh-21/sh-21-commentary.md",
+        "folder": "book/volume-vi/sh-21",
+        "folder_readme": "book/volume-vi/sh-21/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=Y-gXVzwbFMU"
+    },
+    {
+      "source_id": "sh-22",
+      "title": "Secret History #22: The Divine Spark of Jesus",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-22/sh-22-transcript.md",
+        "commentary": "book/volume-vi/sh-22/sh-22-commentary.md",
+        "folder": "book/volume-vi/sh-22",
+        "folder_readme": "book/volume-vi/sh-22/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=pp0E1gb80WQ"
+    },
+    {
+      "source_id": "sh-23",
+      "title": "Secret History #23: The Organization of Evil",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-23/sh-23-transcript.md",
+        "commentary": "book/volume-vi/sh-23/sh-23-commentary.md",
+        "folder": "book/volume-vi/sh-23",
+        "folder_readme": "book/volume-vi/sh-23/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=6XGAc_OqCbU"
+    },
+    {
+      "source_id": "sh-24",
+      "title": "Secret History #24: Empire of Church",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-24/sh-24-transcript.md",
+        "commentary": "book/volume-vi/sh-24/sh-24-commentary.md",
+        "folder": "book/volume-vi/sh-24",
+        "folder_readme": "book/volume-vi/sh-24/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=TEdVhyE8pO0"
+    },
+    {
+      "source_id": "sh-25",
+      "title": "Secret History #25: Capital of Evil",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-25/sh-25-transcript.md",
+        "commentary": "book/volume-vi/sh-25/sh-25-commentary.md",
+        "folder": "book/volume-vi/sh-25",
+        "folder_readme": "book/volume-vi/sh-25/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=B5FtHagng8c"
+    },
+    {
+      "source_id": "sh-26",
+      "title": "Secret History #26: Faith of Evil",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-26/sh-26-transcript.md",
+        "commentary": "book/volume-vi/sh-26/sh-26-commentary.md",
+        "folder": "book/volume-vi/sh-26",
+        "folder_readme": "book/volume-vi/sh-26/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=kULUM_eB8KI"
+    },
+    {
+      "source_id": "sh-27",
+      "title": "Secret History #27: Empire of Evil",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-27/sh-27-transcript.md",
+        "commentary": "book/volume-vi/sh-27/sh-27-commentary.md",
+        "folder": "book/volume-vi/sh-27",
+        "folder_readme": "book/volume-vi/sh-27/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=ZPrecJHUOUs"
+    },
+    {
+      "source_id": "sh-28",
+      "title": "Secret History #28: Pax Judaica",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "secret-history",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vi/sh-28/sh-28-transcript.md",
+        "commentary": "book/volume-vi/sh-28/sh-28-commentary.md",
+        "folder": "book/volume-vi/sh-28",
+        "folder_readme": "book/volume-vi/sh-28/README.md"
+      },
+      "source_video_url": "https://www.youtube.com/watch?v=WFWizN3QoPg"
+    },
+    {
+      "source_id": "sub-33",
+      "title": "World War Trump",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vii/sub-33/sub-33-transcript.md",
+        "commentary": "book/volume-vii/sub-33/sub-33-commentary.md",
+        "folder": "book/volume-vii/sub-33",
+        "folder_readme": "book/volume-vii/sub-33/README.md"
+      },
+      "source_video_url": "https://predictivehistory.substack.com/p/world-war-trump"
+    },
+    {
+      "source_id": "sub-34",
+      "title": "The US-Iran War, Round Two",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vii/sub-34/sub-34-transcript.md",
+        "commentary": "book/volume-vii/sub-34/sub-34-commentary.md",
+        "folder": "book/volume-vii/sub-34",
+        "folder_readme": "book/volume-vii/sub-34/README.md"
+      },
+      "source_video_url": "https://predictivehistory.substack.com/p/the-us-iran-war-round-two"
+    },
+    {
+      "source_id": "sub-35",
+      "title": "The Trump New Deal",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vii/sub-35/sub-35-transcript.md",
+        "commentary": "book/volume-vii/sub-35/sub-35-commentary.md",
+        "folder": "book/volume-vii/sub-35",
+        "folder_readme": "book/volume-vii/sub-35/README.md"
+      },
+      "source_video_url": "https://predictivehistory.substack.com/p/the-trump-new-deal"
+    },
+    {
+      "source_id": "sub-36",
+      "title": "God Emperor Trump",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "book/volume-vii/sub-36/sub-36-transcript.md",
+        "commentary": "book/volume-vii/sub-36/sub-36-commentary.md",
+        "folder": "book/volume-vii/sub-36",
+        "folder_readme": "book/volume-vii/sub-36/README.md"
+      },
+      "source_video_url": "https://predictivehistory.substack.com/p/god-emperor-trump"
+    },
+    {
+      "source_id": "sub-37",
+      "title": "China's Third Center Strategy",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "book/volume-vii/sub-37/sub-37-transcript.md",
+        "commentary": "book/volume-vii/sub-37/sub-37-commentary.md",
+        "folder": "book/volume-vii/sub-37",
+        "folder_readme": "book/volume-vii/sub-37/README.md"
+      },
+      "source_video_url": "https://predictivehistory.substack.com/p/chinas-third-center-strategy"
+    }
+  ]
+}

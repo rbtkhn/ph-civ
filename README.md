@@ -30,6 +30,7 @@ It should not become the large-media vault. Large media archives stay outside Gi
 - Chapter-folder `README.md` doorways for folder-backed chapters, designed for direct GitHub links in YouTube comments and LLM chats.
 - Canonical public source captures under `sources/` so the repo can function independently of outside workshop storage.
 - A source video index at `docs/source-video-index.md` so Predictive History YouTube URLs are visible from one public file.
+- A full chapter catalog at `docs/ph-civ-index.md` (human) and `data/ph-civ-index.json` (machine) listing all 150 ph-civ and ph-apo chapters with transcript, commentary, folder, and video links (regenerate: `ph-civ index`; auto-sync during `ph-civ validate` and publish).
 - Two conceptual volumes: Volume I / Civilization / `ph-civ`, and Volume II / Apocalypse / `ph-apo`.
 - A canonical two-volume reader architecture under `book/volume-i-civilization/` and `book/volume-ii-apocalypse/`, with older multi-volume source provenance kept subordinate; see [From The Old Seven Volumes To The Current Two](book/seven-volume-to-two-volume.md).
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, Secret History, and Essays.
@@ -69,6 +70,8 @@ ph-civ spark gt-16 --count 5
 ph-civ spine
 ph-civ path homer-to-tolstoy
 ph-civ validate
+ph-civ index
+ph-civ index --check
 ph-civ status
 ph-civ start
 ph-civ start --json
