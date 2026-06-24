@@ -21,13 +21,6 @@ Treat this chapter folder as a small source-lattice:
 - [Part IV commentary](../../parts/part-04-ancient-foundations-commentary.md#civ-23)
 - [Public card](../../../../data/cards/civ-23.md)
 
-## CIV-STATE Bridge
-
-- Primary civilization carrier: Persia
-- Shelf reader: [CIV-STATE Persia](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-persia/civ-state-persia-shelf-reader.md)
-- Primary sources: [Persia ancient primary sources](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-persia/civ-state-persia-primary-sources-ancient.md)
-- Secondary sources: [Persia ancient secondary sources](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-persia/civ-state-persia-secondary-sources-ancient.md)
-- Usage rule: start with this chapter packet. Open the CIV-STATE shelf-reader when you need the wider civilizational source floor behind the lecture, then descend into primary and secondary sources selectively.
 
 ## Staged Status
 

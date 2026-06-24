@@ -14,7 +14,6 @@ classifiers = ["Programming Language :: Python :: 3", "Topic :: Education"]
 [project.scripts]
 ph-civ = "civ_ph.cli:main"
 ph-apo = "civ_ph.cli:apo_main"
-ph-mus = "civ_ph.cli:mus_main"
 
 [tool.setuptools]
 package-dir = {"" = "src"}

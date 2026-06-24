@@ -271,9 +271,6 @@ Scholarship-grade alternatives; sources in [bibliography](./part-05-christianity
 
 - Volume I law-discovery: revelations under empire.
 
-### Museum Hooks
-
-- Crucifixion artifact; Pauline letters codex; Nicaea creed facsimile; Augustine manuscript; early Quran/Hijra map.
 
 ### Strategy / Present-Day Application
 

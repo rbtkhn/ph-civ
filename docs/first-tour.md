@@ -19,7 +19,7 @@ Before making chapter-specific claims, return to:
 - `data/cards/civ-07.md`
 - `book/volume-ii/civ-07/civ-07-transcript.md`
 - `book/volume-ii/civ-07/civ-07-commentary.md`
-- `corpus/media-packs/civ-07.md` when discussing the future museum room
+- `book/volume-ii/civ-07/civ-07-commentary.md` for the commentary canvas
 
 ## Tour Phases
 
@@ -73,7 +73,7 @@ Homer-to-Tolstoy is the Volume I literary spine, not a claim that literature alo
 Next choices:
 A. Continue to civ-17.
 B. Study civ-07.
-C. Open the ph-mus museum room for civ-07.
+C. Study civ-07 through its chapter folder.
 D. Switch modes.
 ```
 
@@ -82,4 +82,4 @@ D. Switch modes.
 - `sh-16` is a Tolstoy endpoint via an Anna Karenina coda, not a dedicated Tolstoy lecture.
 - Application routes are public orientation only, not live operational analysis.
 - Commentaries are open project canvases, not final scholarly review.
-- The museum layer is for chapter exhibits across both volumes; `ph-mus` is not a third volume.
+- Chapter folders are the study surface across both volumes; two-volume public artifact.

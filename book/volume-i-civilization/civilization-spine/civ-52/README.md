@@ -20,13 +20,6 @@ Treat this chapter folder as a small source-lattice:
 - [Legacy source packet](../../../volume-ii/civ-52/README.md)
 - [Public card](../../../../data/cards/civ-52.md)
 
-## CIV-STATE Bridge
-
-- Primary civilization carrier: America
-- Shelf reader: [CIV-STATE America](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-america/civ-state-america-shelf-reader.md)
-- Primary sources: [America industrial primary sources](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-america/civ-state-america-primary-sources-industrial.md)
-- Secondary sources: [America industrial secondary sources](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-america/civ-state-america-secondary-sources-industrial.md)
-- Usage rule: start with this chapter packet. Open the CIV-STATE shelf-reader when you need the wider civilizational source floor behind the lecture, then descend into primary and secondary sources selectively.
 
 ## Staged Status
 

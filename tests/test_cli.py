@@ -10,7 +10,6 @@ from civ_ph.data import (
     load_first_tour,
     load_growth_goals,
     load_llm_experience,
-    load_museum_index,
     load_route_seed,
     load_spine,
 )
@@ -20,7 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def test_loads_all_seeded_cards():
     cards = load_cards()
-    assert len(cards) == 149
+    assert len(cards) == 150
     assert {"civilization", "world-war"} <= {card["part"] for card in cards}
 
 
@@ -36,30 +35,17 @@ def test_all_cards_have_local_transcript_and_commentary():
         transcript_paths.append(transcript_path)
         commentary_paths.append(commentary_path)
 
-    assert len(set(transcript_paths)) == 149
-    assert len(set(commentary_paths)) == 149
+    assert len(set(transcript_paths)) == 150
+    assert len(set(commentary_paths)) == 150
 
 
 def test_all_commentaries_have_open_project_canvas():
-    required = [
-        "canvas_status: open",
-        "analysis_depth: seed",
-        "scaffold_version: ph_civ_commentary_canvas_v1",
-        "## Project Canvas",
-        "### Project Leverage",
-        "### Laws / Patterns Exposed",
-        "### Volume Role",
-        "### Museum Hooks",
-        "### Strategy / Present-Day Application",
-        "### Counter-Readings",
-        "### Open Questions",
-        "### Build Notes / Future Enhancements",
-    ]
+    from civ_ph.cli import validate_commentary_canvas
+
     for card in load_cards():
         commentary_path = ROOT / card["source_paths"]["commentary_path"]
-        text = commentary_path.read_text(encoding="utf-8")
-        for marker in required:
-            assert marker in text, f"{card['source_id']} missing {marker}"
+        errors = validate_commentary_canvas(card["source_id"], commentary_path)
+        assert not errors, f"{card['source_id']}: " + "; ".join(errors)
 
 
 def test_folder_backed_chapters_have_reader_doorways():
@@ -90,14 +76,12 @@ def test_folder_backed_chapters_have_reader_doorways():
 def test_latest_game_theory_chapters_are_provisional_source_first(capsys):
     cards = {card["source_id"]: card for card in load_cards()}
     route_ids = set(load_route_seed()["route_ids"])
-    museum_ids = {exhibit["source_id"] for exhibit in load_museum_index()}
     for source_id in ["gt-23", "gt-24", "gt-25", "gt-26"]:
         card = cards[source_id]
         assert card["series"] == "game-theory"
         assert card["part"] == "world-war"
         assert card["review_status"] == "provisional"
         assert source_id not in route_ids
-        assert source_id not in museum_ids
         folder = ROOT / "book" / "volume-iii" / source_id
         assert (folder / f"{source_id}-transcript.md").exists()
         assert (folder / f"{source_id}-commentary.md").exists()
@@ -108,7 +92,7 @@ def test_latest_game_theory_chapters_are_provisional_source_first(capsys):
     payload = json.loads(capsys.readouterr().out)
     assert payload["source_id"] == "gt-24"
     assert payload["folder_ready"] is True
-    assert payload["github_folder_url"].endswith("/book/volume-iii/gt-24")
+    assert payload["github_folder_url"].endswith("/ph-apo/chapters/gt-24")
     assert payload["source_video_url"] == "https://www.youtube.com/watch?v=8nsxuB3Vsts"
     assert "ChatGPT, Claude, or Grok" in payload["suggested_youtube_comment"]
     assert "provisional" in payload["suggested_youtube_comment"]
@@ -117,7 +101,7 @@ def test_latest_game_theory_chapters_are_provisional_source_first(capsys):
     out = capsys.readouterr().out
     assert "YouTube comment:" in out
     assert "source_video: https://www.youtube.com/watch?v=8nsxuB3Vsts" in out
-    assert "https://github.com/rbtkhn/ph-civ/tree/main/book/volume-iii/gt-24" in out
+    assert "https://github.com/rbtkhn/ph-civ/tree/main/ph-apo/chapters/gt-24" in out
     assert "public LLM-native Predictive History reader" in out
 
 
@@ -140,7 +124,7 @@ def test_prompt_creative_contains_boundaries(capsys):
 
 def test_validate_passes(capsys):
     assert main(["validate"]) == 0
-    assert "card_count: 149" in capsys.readouterr().out
+    assert "card_count: 150" in capsys.readouterr().out
 
 
 def test_exported_source_repo_uses_workshop():
@@ -174,8 +158,7 @@ def test_two_volume_architecture_is_primary():
     assert architecture["volumes"]["volume_i"]["role"] == "law_discovery"
     assert architecture["volumes"]["volume_ii"]["surface"] == "ph-apo"
     assert architecture["volumes"]["volume_ii"]["role"] == "law_application"
-    assert architecture["museum"]["surface"] == "ph-mus"
-    assert architecture["museum"]["role"] == "chapter_exhibit_layer"
+    assert "museum" not in architecture
     assert "ph-mus" not in {volume["surface"] for volume in architecture["volumes"].values()}
     assert architecture["bridge_support_nodes"] == ["sh-11", "sh-16", "sh-17", "sh-18"]
 
@@ -203,7 +186,7 @@ def test_llm_native_bootloader_contract(capsys):
     assert "Default mode: first_tour" in start_text
     assert "Homer to Tolstoy is the Volume I literary spine" in start_text
     assert "Anna Karenina coda" in start_text
-    assert "ph-mus` is not a third volume" in start_text
+    assert "two-volume public artifact" in start_text
 
     experience = load_llm_experience()
     assert experience["start_here"] == "START-HERE.md"
@@ -237,13 +220,11 @@ def test_llm_native_bootloader_contract(capsys):
     assert experience["chapter_folder_links"]["cli"] == "ph-civ link <source_id>"
     assert experience["public_surfaces"]["volume_i"]["surface"] == "ph-civ"
     assert experience["public_surfaces"]["volume_ii"]["surface"] == "ph-apo"
-    assert experience["public_surfaces"]["museum"]["surface"] == "ph-mus"
-    assert experience["public_surfaces"]["museum"]["not_a_volume"] is True
+    assert "museum" not in experience["public_surfaces"]
     assert experience["first_seed"]["route_ids"] == load_route_seed()["route_ids"]
     guardrails = "\n".join(experience["guardrails"])
     assert "Homer to Tolstoy" in guardrails
     assert "Anna Karenina coda" in guardrails
-    assert "ph-mus is not a third volume" in guardrails
 
     assert main(["start", "--json"]) == 0
     payload = json.loads(capsys.readouterr().out)
@@ -268,7 +249,7 @@ def test_llms_full_context_packet_exists():
     assert "starting at civ-07" in text
     assert "Homer to Tolstoy is the Volume I literary spine" in text
     assert "Anna Karenina coda" in text
-    assert "`ph-mus` is not a third volume" in text
+    assert "two-volume public artifact" in text
     assert "Do not claim live geopolitical certainty" in text
     assert "Trilingual Civilizational Bridge" in text
     assert "canonical English `ph-civ`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`" in text
@@ -444,7 +425,7 @@ def test_first_tour_contract(capsys):
     assert "First-Tour Response Shape" in text
     assert "First tour, stop 1: civ-07" in text
     assert "Continue to civ-17" in text
-    assert "`ph-mus` is not a third volume" in text
+    assert "two-volume public artifact" in text
 
     assert main(["tour", "--json"]) == 0
     payload = json.loads(capsys.readouterr().out)
@@ -468,9 +449,8 @@ def test_volumes_command_returns_architecture(capsys):
     assert payload["volumes"]["volume_i"]["role"] == "law_discovery"
     assert payload["volumes"]["volume_ii"]["surface"] == "ph-apo"
     assert payload["volumes"]["volume_ii"]["role"] == "law_application"
-    assert payload["museum"]["surface"] == "ph-mus"
-    assert payload["museum"]["role"] == "chapter_exhibit_layer"
-    assert payload["unique_card_count"] == 149
+    assert "museum" not in payload
+    assert payload["unique_card_count"] == 150
 
 
 def test_volume_command_lists_conceptual_membership(capsys):
@@ -483,7 +463,7 @@ def test_volume_command_lists_conceptual_membership(capsys):
     assert main(["volume", "volume-ii", "--json"]) == 0
     volume_ii = json.loads(capsys.readouterr().out)
     volume_ii_ids = {card["source_id"] for card in volume_ii["cards"]}
-    assert {"geo-01", "gt-01", "sh-01", "sh-28"} <= volume_ii_ids
+    assert {"geo-01", "gt-16", "sh-01", "sh-28"} <= volume_ii_ids
     assert volume_ii["role"] == "law_application"
 
 
@@ -519,7 +499,8 @@ def test_growth_command_returns_agent_goal_policy(capsys):
 
 
 def test_surface_scoped_commands(capsys):
-    from civ_ph.cli import apo_main, mus_main
+    from civ_ph.cli import apo_main
+
     assert main(["list"]) == 0
     assert "civ-07" in capsys.readouterr().out
     assert apo_main(["list"]) == 0
@@ -528,17 +509,16 @@ def test_surface_scoped_commands(capsys):
     assert "civ-07" not in out
     assert apo_main(["status"]) == 0
     assert "ph-apo" in capsys.readouterr().out
-    assert mus_main(["list"]) == 0
-    assert "gt-16" in capsys.readouterr().out
 
 
 def test_public_routes(capsys):
-    from civ_ph.cli import apo_main, mus_main
+    from civ_ph.cli import apo_main
+
     assert main(["route", "civ-07", "--json"]) == 0
     payload = json.loads(capsys.readouterr().out)
     assert payload["route_type"] == "spine"
     assert "literature alone drives history" in payload["caveat"]
-    assert payload["museum"]["exhibit_path"] == "corpus/media-packs/civ-07.md"
+    assert "museum" not in payload
     assert main(["route", "civ-17", "--json"]) == 0
     payload = json.loads(capsys.readouterr().out)
     assert payload["route_type"] == "spine"
@@ -546,7 +526,6 @@ def test_public_routes(capsys):
     assert apo_main(["route", "gt-16", "--json"]) == 0
     payload = json.loads(capsys.readouterr().out)
     assert payload["route_type"] == "application"
-    assert payload["museum"]["exhibit_path"] == "corpus/media-packs/gt-16.md"
     assert main(["route", "sh-16", "--json"]) == 0
     payload = json.loads(capsys.readouterr().out)
     assert payload["surface"] == "ph-apo"
@@ -555,8 +534,6 @@ def test_public_routes(capsys):
     assert "not a dedicated Tolstoy lecture" in payload["caveat"]
     assert apo_main(["route", "sh-16", "--json"]) == 0
     assert json.loads(capsys.readouterr().out)["route_type"] == "coda"
-    assert mus_main(["route", "civ-07", "--json"]) == 0
-    assert json.loads(capsys.readouterr().out)["museum"]["exhibit_path"] == "corpus/media-packs/civ-07.md"
 
 
 def test_ten_route_spine_seed_guardrails():
@@ -576,7 +553,6 @@ def test_ten_route_spine_seed_guardrails():
     ]
     assert load_route_seed()["seed_id"] == "ten_route_spine_seed"
     assert load_route_seed()["route_ids"] == route_ids
-    assert set(route_ids) == {exhibit["source_id"] for exhibit in load_museum_index()}
     route_types = {route["source_id"]: route["route_type"] for route in routes}
     assert route_types["civ-17"] == "spine"
     assert route_types["gb-02"] == "paired_close_reading"

@@ -8,11 +8,10 @@ Canonical URL: https://github.com/rbtkhn/ph-civ
 
 `ph-civ` is the public two-volume Predictive History artifact. The repository is lowercase `ph-civ`.
 
-The repo contains three public surfaces:
+The repo contains two public surfaces:
 
 - `ph-civ`: Volume I / Predictive History: Civilization. It discovers the laws of history.
 - `ph-apo`: Volume II / Predictive History: Apocalypse. It applies the laws of history.
-- `ph-mus`: Predictive History Museum. It is the chapter exhibit layer for both volumes, not a third volume.
 
 One chapter consists of a lecture transcript, a companion commentary, and public orientation/navigation metadata.
 
@@ -23,7 +22,7 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 3. Use `data/routes/seed.json` for the first public 10-route seed.
 4. Use `data/routes/first-tour.json` and `docs/first-tour.md` when the reader chooses to continue the first tour.
 5. Use `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` for the trilingual civilizational bridge ambition.
-6. Use `data/routes/choreography.json` for route details, caveats, and museum pointers.
+6. Use `data/routes/choreography.json` for route details and caveats.
 7. Use `data/cards.jsonl` for public card metadata and source paths.
 8. If the pasted URL is a direct chapter folder, treat it as `study` mode and start with that folder's `README.md`.
 9. Return to `book/` for the relevant transcript and commentary before making chapter-specific claims.
@@ -39,11 +38,11 @@ Your first response should say:
 ```text
 I am starting from START-HERE.md, llms.txt, and llms-full.txt. Default mode: first_tour.
 
-ph-civ is the two-volume public Predictive History artifact: Volume I discovers the laws of history, Volume II applies them, and ph-mus is the exhibit layer for both volumes.
+ph-civ is the two-volume public Predictive History artifact: Volume I discovers the laws of history, Volume II applies them, and chapter folders and study edition are the reader surfaces.
 
 I will begin with the 10-route spine seed. The opening path is Homer-to-Tolstoy, starting at civ-07, with the guardrail that this is the Volume I literary spine, not a side corridor.
 
-Choose one: continue the first tour; study civ-07; open the ph-mus museum room for civ-07; or switch modes.
+Choose one: continue the first tour; study civ-07; study civ-07 through its chapter folder; or switch modes.
 ```
 
 After that response, continue only as far as the reader permits. Do not pretend to have read every transcript unless you have opened the relevant `book/` file.
@@ -63,16 +62,15 @@ The first seed is `ten_route_spine_seed`:
 9. `sh-16`
 10. `sh-28`
 
-This seed exposes the Homer-to-Tolstoy spine and a small set of Volume II application routes. It is metadata-first: route pages and full museum media packs may be incomplete or deferred.
+This seed exposes the Homer-to-Tolstoy spine and a small set of Volume II application routes. It is metadata-first: route pages and full chapter study paths may be incomplete or deferred.
 
 ## Reader Modes
 
-- `first_tour`: orient the reader to the two volumes, the museum layer, and the 10-route seed.
+- `first_tour`: orient the reader to the two volumes and the 10-route seed.
 - `study`: explain one chapter through its card, transcript, commentary, limits, and return path.
 - `seminar`: generate discussion questions grounded in public card limits and source chapter text.
 - `commentary_canvas`: treat the commentary as a project-development surface, not finished scholarship.
 - `pattern_bridge`: connect chapters to public pattern IDs without importing private notes.
-- `museum_room`: design or review chapter exhibits through ph-mus schemas and manifest boundaries.
 - `bounded_application`: apply patterns to present-day questions only as orientation, not live operational analysis.
 
 ## Chapter-Folder Links
@@ -102,7 +100,7 @@ The localization roadmap also reserves `ph-civ-ru` as a future Russian-language 
 - Homer to Tolstoy is the Volume I literary spine, not a side corridor.
 - Cross-volume placement is routing exposure, not proof that the spine belongs outside Volume I.
 - `sh-16` is the routed Tolstoy endpoint via an Anna Karenina coda, not a dedicated Tolstoy lecture.
-- `ph-mus` is not a third volume.
+- two-volume public artifact.
 - Application routes are public orientation only, not quotation-grade live operational analysis.
 - Commentaries are open project canvases and should not be treated as final scholarly review.
 - Public growth goals are ambitions. Do not claim views, attention, launch readiness, or public trust has already been earned.
@@ -134,15 +132,14 @@ The localization roadmap also reserves `ph-civ-ru` as a future Russian-language 
 - `docs/chapter-folder-links.md`: chapter-folder URL and YouTube comment handoff contract.
 - `docs/source-video-index.md`: public Predictive History YouTube source URL index.
 - `book/`: transcripts and commentaries.
-- `ph-mus/README.md`: museum layer orientation.
-- `schemas/`: museum exhibit and artifact schemas.
+- `docs/archive/ph-mus-retired.md`: retired museum layer note.
+- `schemas/`: public card, route, and validation schemas.
 
 ## What Not To Claim
 
 - Do not claim this repo is official course material or endorsement.
-- Do not claim ph-mus is a third volume.
 - Do not claim the commentaries are complete final analysis.
-- Do not claim large museum binaries are stored in Git.
+- Do not claim large media binaries are stored in Git.
 - Do not claim live geopolitical certainty from application routes.
 - Do not claim audience growth targets have been achieved merely because the repo names them.
 

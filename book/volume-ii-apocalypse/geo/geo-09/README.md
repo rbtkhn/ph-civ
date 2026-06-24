@@ -22,13 +22,6 @@ Treat this chapter folder as a small source-lattice:
 - [Legacy orientation](../../../volume-i/geo-09-orientation.yaml)
 - [Public card](../../../../data/cards/geo-09.md)
 
-## CIV-STATE Bridge
-
-- Primary civilization carrier: Russia
-- Shelf reader: [CIV-STATE Russia](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-russia/civ-state-russia-shelf-reader.md)
-- Primary sources: [Russia cybernetic primary sources](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-russia/civ-state-russia-primary-sources-cybernetic.md)
-- Secondary sources: [Russia cybernetic secondary sources](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-russia/civ-state-russia-secondary-sources-cybernetic.md)
-- Usage rule: start with this chapter packet. Open the CIV-STATE shelf-reader when you need the wider civilizational source floor behind the lecture, then descend into primary and secondary sources selectively.
 
 ## Staged Status
 

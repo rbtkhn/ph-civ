@@ -24,7 +24,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 
 ## Review Status
 
-`in_review`. Promoted from strategy-codex source archive 2026-06-09. Purgatory lecture (part 1 of 2); Paradise continues in `gb-12`.
+`in_review`. Promoted from operator source archive 2026-06-09. Purgatory lecture (part 1 of 2); Paradise continues in `gb-12`.
 
 ## Guardrails
 

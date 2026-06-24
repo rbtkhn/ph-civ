@@ -73,9 +73,6 @@ This chapter is highly useful because it reveals the self-understanding of the w
 
 This is a native Volume II / Apocalypse-facing Game Theory chapter, but it also acts as a meta-Volume-II threshold. It explains what kind of school, worldview, and anthropological subject `ph-apo` is trying to produce, which means it changes how the rest of the late sequence should be read.
 
-### Museum Hooks
-
-Potential exhibit use should wait for transcript review. A future exhibit could center on "the end of the classroom and the birth of the school" if the packet is stabilized.
 
 ### Strategy / Present-Day Application
 

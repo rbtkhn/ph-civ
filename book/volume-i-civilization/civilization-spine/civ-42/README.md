@@ -20,13 +20,6 @@ Treat this chapter folder as a small source-lattice:
 - [Legacy source packet](../../../volume-ii/civ-42/README.md)
 - [Public card](../../../../data/cards/civ-42.md)
 
-## CIV-STATE Bridge
-
-- Primary civilization carrier: Rome
-- Shelf reader: [CIV-STATE Rome](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-rome/civ-state-rome-shelf-reader.md)
-- Primary sources: [Rome colonial primary sources](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-rome/civ-state-rome-primary-sources-colonial.md)
-- Secondary sources: [Rome colonial secondary sources](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-rome/civ-state-rome-secondary-sources-colonial.md)
-- Usage rule: start with this chapter packet. Open the CIV-STATE shelf-reader when you need the wider civilizational source floor behind the lecture, then descend into primary and secondary sources selectively.
 
 ## Staged Status
 

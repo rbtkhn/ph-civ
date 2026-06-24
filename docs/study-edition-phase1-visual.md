@@ -17,7 +17,7 @@ Phase 1 adds **three anchor-locked enhancements** chosen for `civ-07` content an
 | **2** | **Greece–China contrast split** | Comparison lens | Chapter climax at `#greece-china-contrast`; encodes oral vs literacy monopoly thesis |
 | **3** | **Section seminar strip** | Question garden | Homer/oral/polis sections invite discussion; matches `START-HERE` `seminar` mode |
 
-**Deferred from brainstorm (not Phase 1):** route cinema scroll, living margin illustrations, TTS oral mode, museum vault images, full concept constellation graph.
+**Deferred from brainstorm (not Phase 1):** route cinema scroll, living margin illustrations, TTS oral mode, large off-repo media vaults, full concept constellation graph.
 
 ---
 

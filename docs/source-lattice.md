@@ -33,7 +33,7 @@ public study machine built from:
 - corridors
 - cross-volume bridges
 - patterns
-- museum routes
+- chapter study routes
 
 Without a source-lattice, these layers can easily blur.
 
@@ -106,7 +106,7 @@ into:
 - commentary development
 - corridor reasoning
 - pattern reuse
-- museum interpretation
+- study-edition interpretation
 - public teaching prompts
 - Apocalypse-side pressure reading
 
@@ -174,7 +174,7 @@ how to traverse it.
 - commentary canvases remain interpretation-bearing project surfaces
 - corridors remain route architecture
 - bridge notes remain crossing architecture
-- museum layers remain exhibit architecture
+- chapter folders remain the primary study surface
 
 The source-lattice is the retrieval law that keeps those layers from collapsing
 into each other.

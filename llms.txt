@@ -8,15 +8,14 @@ This workspace is `rbtkhn/ph-civ`, the public distribution layer for the two-vol
 
 **Publisher:** **Statecraft Intelligence Desk**
 
-It exists to provide public lecture transcripts, companion commentaries, orientation cards, civilizational pattern IDs, routes, prompts, museum schemas, and validation tooling. It helps students, researchers, and downstream AI systems navigate Predictive History without importing private notes or raw media archives.
+It exists to provide public lecture transcripts, companion commentaries, orientation cards, civilizational pattern IDs, routes, prompts, and validation tooling. It helps students, researchers, and downstream AI systems navigate Predictive History without importing private notes or raw media archives.
 
-`ph-civ` is both the repo name and the Volume I surface name. The repo as a whole contains the two-volume public artifact: `ph-civ`, `ph-apo`, and `ph-mus`.
+`ph-civ` is both the repo name and the Volume I surface name. The repo as a whole contains the two-volume public artifact: `ph-civ` and `ph-apo`.
 
 ## Public Surfaces
 
 - `ph-civ`: Volume I / Predictive History: Civilization public orientation cards and study navigation; discovers the laws of history.
 - `ph-apo`: Volume II / Predictive History: Apocalypse public orientation surfaces; applies the laws of history.
-- `ph-mus`: Predictive History Museum public exhibit manifests, artifact metadata, schemas, and contribution rules for both volumes.
 
 ## Boundary
 
@@ -30,7 +29,6 @@ Included:
 - source IDs, titles, parts, series, placement weights, and review status
 - provider-neutral prompts and spark templates
 - public pattern IDs and bridge responses
-- museum schemas, public manifests, and contribution instructions
 - the Homer-to-Tolstoy Volume I literary spine with cross-volume routing exposure
 
 Excluded:
@@ -38,14 +36,12 @@ Excluded:
 - private notes
 - private workspace paths
 - raw media binaries
-- private museum vault files
-- shared-cloud artifact archives
 - final scholarly-review claims
 
 ## Load Contract
 
 - If this repository URL was pasted into an LLM chat, start with `START-HERE.md`.
-- Use `data/llm-experience.json` as the provider-neutral unfolding map for first-tour, study, seminar, commentary, pattern bridge, museum, and bounded-application modes.
+- Use `data/llm-experience.json` as the provider-neutral unfolding map for first-tour, study, seminar, commentary, pattern bridge, and bounded-application modes.
 - Use `llms-full.txt` when the LLM needs a complete one-shot context packet after the compact map.
 - Do not stop at a generic repository summary or "what would you like to do next?" response. Begin the `first_tour` through the 10-route spine seed unless the reader chooses another mode.
 - If the pasted URL is a direct chapter-folder URL under `book/`, treat it as `study` mode: open the folder `README.md`, transcript, commentary canvas, orientation payload, and public card. This is not a replacement for `first_tour`.

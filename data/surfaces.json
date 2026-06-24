@@ -19,12 +19,6 @@
       "description": "Volume II applies the laws of history through the Apocalypse / World War-facing public orientation layer."
     }
   },
-  "museum": {
-    "surface": "ph-mus",
-    "title": "Predictive History Museum",
-    "role": "chapter_exhibit_layer",
-    "description": "Museum exhibits correspond to chapters across both conceptual volumes; ph-mus is not a third volume."
-  },
   "bridge_support_nodes": [
     "sh-11",
     "sh-16",
@@ -41,11 +35,6 @@
       "title": "Predictive History: Apocalypse",
       "status": "active",
       "description": "Volume II public surface: application of the laws of history through World War / Apocalypse-facing cards and routes."
-    },
-    "ph-mus": {
-      "title": "Predictive History Museum",
-      "status": "active_manifest_index",
-      "description": "Chapter exhibit layer for both volumes. Large artifact files live outside Git."
     }
   }
 }

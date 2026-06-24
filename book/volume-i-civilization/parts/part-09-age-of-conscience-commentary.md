@@ -192,9 +192,6 @@ Scholarship-grade alternatives; sources in [bibliography](./part-09-age-of-consc
 
 - Volume I law-discovery: modern rival civilizations + literary spine steps 4–5; Apocalypse ingress.
 
-### Museum Hooks
-
-- First Folio facsimile; Federalist pamphlet; *Crime and Punishment* manuscript tradition; Orthodox icon.
 
 ### Strategy / Present-Day Application
 

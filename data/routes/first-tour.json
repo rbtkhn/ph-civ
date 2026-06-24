@@ -11,19 +11,32 @@
     {
       "phase_id": "volume_i_literary_spine",
       "title": "Volume I Literary Spine",
-      "route_ids": ["civ-07", "civ-17", "civ-29", "civ-51"],
+      "route_ids": [
+        "civ-07",
+        "civ-17",
+        "civ-29",
+        "civ-51"
+      ],
       "function": "Show how literary memory becomes civilizational grammar without claiming literature alone drives history."
     },
     {
       "phase_id": "paired_close_readings",
       "title": "Close-Reading Reinforcement",
-      "route_ids": ["gb-02", "gb-09"],
+      "route_ids": [
+        "gb-02",
+        "gb-09"
+      ],
       "function": "Return to Homer and Dante as reading engines so the spine is not only a survey path."
     },
     {
       "phase_id": "volume_ii_application",
       "title": "Volume II Application Exposure",
-      "route_ids": ["geo-14", "gt-16", "sh-16", "sh-28"],
+      "route_ids": [
+        "geo-14",
+        "gt-16",
+        "sh-16",
+        "sh-28"
+      ],
       "function": "Show the laws under geopolitical, incentive, Tolstoy-coda, and infrastructure pressure while keeping application routes bounded."
     }
   ],
@@ -32,7 +45,7 @@
       "source_id": "civ-07",
       "tour_role": "opening_memory_system",
       "reader_question": "How does Homer turn heroic action into a civilizational memory system?",
-      "next_action": "Study civ-07 through its card, transcript, commentary, and future museum room."
+      "next_action": "Study civ-07 through its card, transcript, commentary, and commentary canvas."
     },
     {
       "source_id": "civ-17",
@@ -92,7 +105,6 @@
   "closing_choices": [
     "continue to the next route",
     "study the current route",
-    "open the ph-mus museum room for the current route",
     "switch modes"
   ],
   "guardrails": [

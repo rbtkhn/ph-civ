@@ -27,6 +27,16 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 
 `in_review`. Part VIII French Revolution I / worldviews. Pin-cite **cleared** (2026-06-10) — 6 transcript `#anchor` rails.
 
+
+
+## LLM Prompt
+
+Paste this folder link into ChatGPT, Claude, or Grok and ask:
+
+> Guide me through this chapter folder as a public study packet. Start with the transcript, then use the commentary canvas and orientation/card guardrails. Keep review status visible and separate lecture representation from verification.
+>
+> Use a source-lattice reading order: README first, transcript second, commentary/card third, and broader interpretation only after the source floor is stable.
+
 ## Guardrails
 
 This folder represents public lecture material and companion study apparatus. It is not an endorsement layer and not a substitute for source review.

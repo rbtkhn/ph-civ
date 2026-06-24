@@ -21,11 +21,6 @@ Treat this chapter folder as a small source-lattice:
 - [Apocalypse-facing wrapper](../../../volume-ii-apocalypse/sh/sh-16/README.md)
 - [Public card](../../../../data/cards/sh-16.md)
 
-## CIV-STATE Bridge
-
-- Primary civilization carrier: not yet assigned
-- Bridge note: this chapter currently spans too many civilizational objects, or points to a carrier not yet represented cleanly in CIV-STATE, to force a single confident shelf assignment.
-- Usage rule: use this chapter packet first. If you need a wider civilizational source floor, move up to the volume or spine reader before widening into CIV-STATE.
 
 ## Staged Status
 

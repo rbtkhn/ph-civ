@@ -54,7 +54,7 @@ Required frontmatter (Part):
 - `scaffold_version: ph_civ_part_commentary_v1`
 - `doorway_path`, `bibliography_path`
 
-Part Project Canvas sections mirror the chapter canvas at Part grain (leverage, patterns, museum hooks, strategy, open questions).
+Part Project Canvas sections mirror the chapter canvas at Part grain (leverage, patterns, strategy, open questions).
 
 The scaffold is intentionally permissive. It should invite development without implying that commentary is complete.
 

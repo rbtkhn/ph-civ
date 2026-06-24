@@ -21,13 +21,6 @@ Treat this chapter folder as a small source-lattice:
 - [Direct namespace packet](../../../../ph-apo/chapters/gt-09/README.md)
 - [Public card](../../../../data/cards/gt-09.md)
 
-## CIV-STATE Bridge
-
-- Primary civilization carrier: Persia
-- Shelf reader: [CIV-STATE Persia](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-persia/civ-state-persia-shelf-reader.md)
-- Primary sources: [Persia cybernetic primary sources](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-persia/civ-state-persia-primary-sources-cybernetic.md)
-- Secondary sources: [Persia cybernetic secondary sources](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-persia/civ-state-persia-secondary-sources-cybernetic.md)
-- Usage rule: start with this chapter packet. Open the CIV-STATE shelf-reader when you need the wider civilizational source floor behind the lecture, then descend into primary and secondary sources selectively.
 
 ## Staged Status
 

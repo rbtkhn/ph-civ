@@ -8,7 +8,6 @@
       "public repo surface quality",
       "shareable narrative assets",
       "chapter publishing cadence",
-      "museum exhibit readiness",
       "measurement plan",
       "human-approved publication or distribution steps"
     ]
@@ -31,7 +30,6 @@
         "scope": [
           "Homer-to-Tolstoy route",
           "Volume I landing narrative",
-          "one publishable chapter/commentary/museum path sample",
           "view-count definition for the first public route"
         ],
         "done_when": "A human-approved launch packet can point readers to the Homer-to-Tolstoy route, explain why it is the Volume I spine, and state how views will be counted without claiming views have already been earned."
@@ -41,10 +39,9 @@
       "measurable_agent_outputs": [
         "README and public contract explain the two-volume ph-civ artifact within one screen",
         "chapter and volume routes are easy to share",
-        "each publishable chapter has transcript, commentary scaffold, card, and eventual ph-mus exhibit path",
         "analytics plan defines what counts as a view across GitHub, web, video, social, and document surfaces",
         "distribution calendar converts the target into weekly and monthly milestones",
-        "launch copy and visual/museum assets are staged for human approval"
+        "launch copy and visual assets are staged for human approval"
       ]
     }
   ]

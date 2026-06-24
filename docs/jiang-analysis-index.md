@@ -46,8 +46,8 @@ Use these notes when the question is not only "what is in the corpus?" but also 
 - [Predictive History After Tolstoy](predictive-history-after-tolstoy.md)  
   The high-level handoff from literary civilization to pressure analysis.
 
-- [Strategy-Codex Bridge](strategy-codex-bridge.md)  
-  The boundary between the public mirror and live strategy-codex work.
+- [Operator workspace bridge](strategy-codex-bridge.md)  
+  The boundary between the public mirror and live operator workspace work.
 
 - [Source Video Index](source-video-index.md)  
   The public lecture map back to YouTube and transcript locations.

@@ -167,9 +167,6 @@ Scholarship-grade alternatives; sources in [bibliography](./part-03-roman-imperi
 
 - Volume I law-discovery: how imperial machinery acquires narrative legitimacy.
 
-### Museum Hooks
-
-- Cannae map; Caesar bust; Actium coin; Aeneid manuscript; Augustan portrait.
 
 ### Strategy / Present-Day Application
 

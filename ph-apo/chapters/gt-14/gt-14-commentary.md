@@ -50,7 +50,7 @@ A conventional reading would challenge the lecture's framing, timing, or strateg
 
 - Verify the transcript against the public video.
 - Check named sources, quotations, statistics, and proper nouns.
-- Decide whether any claims belong in future routes, patterns, or museum rooms after review.
+- Decide whether any claims belong in future routes or patterns after review.
 
 ---
 
@@ -70,9 +70,6 @@ This chapter is useful as a source-first public doorway for Game Theory readers 
 
 This chapter is currently routed through Volume II / Apocalypse because it makes historical laws operational through live strategic pressure, institutional struggle, or systems conflict.
 
-### Museum Hooks
-
-Potential exhibit hooks should wait for transcript fidelity review and source verification. Do not create a museum room from this provisional packet alone.
 
 ### Strategy / Present-Day Application
 

@@ -22,13 +22,6 @@ Treat this chapter folder as a small source-lattice:
 - [Legacy orientation](../../../volume-i/geo-04-orientation.yaml)
 - [Public card](../../../../data/cards/geo-04.md)
 
-## CIV-STATE Bridge
-
-- Primary civilization carrier: Persia
-- Shelf reader: [CIV-STATE Persia](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-persia/civ-state-persia-shelf-reader.md)
-- Primary sources: [Persia cybernetic primary sources](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-persia/civ-state-persia-primary-sources-cybernetic.md)
-- Secondary sources: [Persia cybernetic secondary sources](https://github.com/rbtkhn/strategy-codex/blob/main/statecraft/civ-state/volumes/civ-state-persia/civ-state-persia-secondary-sources-cybernetic.md)
-- Usage rule: start with this chapter packet. Open the CIV-STATE shelf-reader when you need the wider civilizational source floor behind the lecture, then descend into primary and secondary sources selectively.
 
 ## Staged Status
 

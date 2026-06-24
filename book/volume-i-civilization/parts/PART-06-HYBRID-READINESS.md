@@ -162,7 +162,7 @@ Planning doc for extending the **Part II–V hybrid model** (thin chapter + thic
 
 ## GB-11/12 corridor extension inventory
 
-Dante continuation beyond public mirror step `gb-10`. Source archive lives in **strategy-codex** (parent repo), not ph-civ mirror.
+Dante continuation beyond public mirror step `gb-10`. Extended Dante source archive lives outside this public mirror until promoted.
 
 | GB | Title | YouTube | Archive file | Body | Promotion blockers |
 |----|-------|---------|--------------|------|-------------------|

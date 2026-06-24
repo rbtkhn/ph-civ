@@ -131,7 +131,7 @@ HTML pages are generated from bundles; markdown sources stay authoritative.
 
 **Manifest gap (2026-06-12):** Part II (`civ-07`–`13`) is in the manifest. Parts III–VI chapters still parse transcript `###` + commentary L2 directly until manifest extension.
 
-**Do not read:** `strategy-codex` paths, private notes, `artifacts/` scratch, raw VTT.
+**Do not read:** `private operator workspace` paths, private notes, `artifacts/` scratch, raw VTT.
 
 ---
 
@@ -228,7 +228,7 @@ Requirements specific to ph-civ:
 - Launch packet copy from `data/growth-goals.json` first_live_wedge
 - Human approval before distribution push
 
-**Out of pilot scope:** Volume II Apocalypse pressure spine, ph-mus exhibit binaries, translation mirrors, strategy-codex imports.
+**Out of pilot scope:** Volume II Apocalypse pressure spine, large media exhibit binaries, translation mirrors, upstream workshop imports.
 
 ---
 

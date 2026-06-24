@@ -52,7 +52,7 @@ A conventional reading would challenge the lecture's abstraction level, historic
 
 - Verify the transcript against the public video.
 - Check named sources, quotations, statistics, and proper nouns.
-- Decide which claims should later feed broader Volume I routes, patterns, or museum rooms after review.
+- Decide which claims should later feed broader Volume I routes or patterns after review.
 
 ---
 
@@ -72,9 +72,6 @@ This chapter is useful as a source-first public doorway for Civilization-facing 
 
 This chapter is routed through Volume I / Civilization because it discovers social law, civilizational structure, or institutional pattern before those same forces are applied in the world-war sequence.
 
-### Museum Hooks
-
-Potential exhibit hooks should wait for transcript fidelity review and source verification. Do not create a museum room from this provisional packet alone.
 
 ### Strategy / Present-Day Application
 

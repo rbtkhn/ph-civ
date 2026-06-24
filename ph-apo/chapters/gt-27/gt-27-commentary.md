@@ -72,9 +72,6 @@ This chapter is useful as a public doorway into the late Game Theory war-finance
 
 This is a native Volume II / Apocalypse-facing Game Theory chapter. It belongs directly to `ph-apo` because it applies the civilizational method to active world-war and dollar-order pressure rather than discovering the Volume I literary spine.
 
-### Museum Hooks
-
-Potential exhibit hooks should wait for transcript fidelity review and source verification. Do not create a museum room from this provisional packet alone.
 
 ### Strategy / Present-Day Application
 

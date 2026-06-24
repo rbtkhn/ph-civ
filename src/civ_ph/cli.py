@@ -19,7 +19,6 @@ from .data import (
     load_growth_goals,
     load_first_tour,
     load_llm_experience,
-    load_museum_index,
     load_patterns,
     load_route_seed,
     load_spine,
@@ -50,16 +49,18 @@ VOLUME_ALIASES = {
 
 COMMENTARY_CANVAS_FIELDS = {
     "canvas_status": "open",
-    "analysis_depth": "seed",
     "scaffold_version": "ph_civ_commentary_canvas_v1",
 }
+
+ALLOWED_ANALYSIS_DEPTHS = frozenset(
+    {"seed", "layer2_slimmed", "layer2_drafted", "stub_routed_to_part"}
+)
 
 COMMENTARY_CANVAS_HEADINGS = [
     "## Project Canvas",
     "### Project Leverage",
     "### Laws / Patterns Exposed",
     "### Volume Role",
-    "### Museum Hooks",
     "### Strategy / Present-Day Application",
     "### Counter-Readings",
     "### Open Questions",
@@ -77,13 +78,13 @@ PUBLIC_BOUNDARY_SCAN_PATHS = [
     "docs",
     "ph-civ",
     "ph-apo",
-    "ph-mus",
     "prompts",
     "schemas",
 ]
 
 PUBLIC_BOUNDARY_SCAN_EXCLUDES = {
     "docs/strategy-codex-bridge.md",
+    "docs/jiang-analysis-index.md",
 }
 
 PUBLIC_BOUNDARY_FORBIDDEN_MARKERS = [
@@ -160,6 +161,20 @@ def validate_commentary_canvas(source_id: str, commentary_path) -> list[str]:
     for key, expected in COMMENTARY_CANVAS_FIELDS.items():
         if frontmatter.get(key) != expected:
             errors.append(f"{source_id} invalid {key}: {frontmatter.get(key)}")
+    depth = frontmatter.get("analysis_depth", "")
+    if depth not in ALLOWED_ANALYSIS_DEPTHS:
+        errors.append(f"{source_id} invalid analysis_depth: {depth}")
+    if depth == "stub_routed_to_part":
+        return errors
+    if "## Project Canvas (chapter-local)" in text or depth == "layer2_slimmed":
+        thin_headings = ["## Project Canvas (chapter-local)", "### Open Questions"]
+        build_note_headings = ("### Build Notes", "### Build Notes / Future Enhancements")
+        for heading in thin_headings:
+            if heading not in text:
+                errors.append(f"{source_id} missing thin commentary canvas heading: {heading}")
+        if not any(marker in text for marker in build_note_headings):
+            errors.append(f"{source_id} missing thin commentary canvas heading: ### Build Notes")
+        return errors
     for heading in COMMENTARY_CANVAS_HEADINGS:
         if heading not in text:
             errors.append(f"{source_id} missing commentary canvas heading: {heading}")
@@ -219,10 +234,6 @@ def route_public_payload(route: dict) -> dict:
             "path": route["card_path"],
             "transcript_path": route["transcript_path"],
             "commentary_path": route["commentary_path"],
-        },
-        "museum": {
-            "status": route["museum_status"],
-            "exhibit_path": route.get("museum_exhibit_path"),
         },
         "pressure_echoes": route.get("pressure_echoes", []),
         "civilization_roots": route.get("civilization_roots", []),
@@ -308,7 +319,6 @@ def first_tour_payload() -> dict:
                 "card_path": route["card_path"],
                 "transcript_path": route["transcript_path"],
                 "commentary_path": route["commentary_path"],
-                "museum_exhibit_path": route.get("museum_exhibit_path"),
             }
         )
     return {**tour, "stops": stops}
@@ -386,7 +396,6 @@ def cmd_route(args) -> int:
         return emit_json(payload)
     print(f"{payload['source_id']}\t{payload['surface']}\t{payload['title']}")
     print(f"route_type: {payload['route_type']}")
-    print(f"museum: {payload['museum']['status']}\t{payload['museum']['exhibit_path']}")
     if payload.get("caveat"):
         print(f"caveat: {payload['caveat']}")
     print(f"what changes here: {payload['what_changes_here']}")
@@ -476,26 +485,6 @@ def cmd_bridge(args) -> int:
     return 0
 
 
-def cmd_museum_list(args) -> int:
-    exhibits = load_museum_index()
-    if args.json:
-        return emit_json(exhibits)
-    for exhibit in exhibits:
-        print(f"{exhibit['source_id']}\t{exhibit['surface']}\t{exhibit['museum_status']}\t{exhibit['title']}")
-    return 0
-
-
-def cmd_museum_show(args) -> int:
-    for exhibit in load_museum_index():
-        if exhibit["source_id"] == args.source_id:
-            if args.json:
-                return emit_json(exhibit)
-            print(f"{exhibit['source_id']}\t{exhibit['surface']}\t{exhibit['title']}")
-            print(f"status: {exhibit['museum_status']}")
-            print(f"exhibit: {exhibit['museum_exhibit_path']}")
-            return 0
-    print(f"No museum exhibit for source_id: {args.source_id}", file=sys.stderr)
-    return 2
 
 
 def cmd_prompt(args) -> int:
@@ -680,7 +669,7 @@ def cmd_validate(args) -> int:
             "First-Tour Response Shape",
             "First tour, stop 1: civ-07",
             "Continue to civ-17",
-            "`ph-mus` is not a third volume",
+            "two-volume public artifact",
         ]:
             if marker not in first_tour_text:
                 errors.append(f"docs/first-tour.md missing marker: {marker}")
@@ -703,7 +692,7 @@ def cmd_validate(args) -> int:
             "Do not stop at a generic repository summary",
             "Default mode: `first_tour`",
             "Homer to Tolstoy is the Volume I literary spine",
-            "ph-mus` is not a third volume",
+            "two-volume public artifact",
         ]:
             if marker not in full_context_text:
                 errors.append(f"llms-full.txt missing marker: {marker}")
@@ -878,21 +867,13 @@ def cmd_validate(args) -> int:
         errors.append("llm-experience volume_i must use ph-civ")
     if llm_surfaces.get("volume_ii", {}).get("surface") != "ph-apo":
         errors.append("llm-experience volume_ii must use ph-apo")
-    if llm_surfaces.get("museum", {}).get("surface") != "ph-mus":
-        errors.append("llm-experience museum must use ph-mus")
-    if llm_surfaces.get("museum", {}).get("not_a_volume") is not True:
-        errors.append("llm-experience must mark ph-mus as not a volume")
     guardrails = "\n".join(llm_experience.get("guardrails", []))
     for marker in [
         "Homer to Tolstoy",
         "Anna Karenina coda",
-        "ph-mus is not a third volume",
     ]:
         if marker not in guardrails:
             errors.append(f"llm-experience missing guardrail: {marker}")
-    museum_ids = [exhibit.get("source_id") for exhibit in load_museum_index()]
-    if set(museum_ids) != set(seed_route_ids):
-        errors.append("museum index must contain the same route IDs as the seed")
     provisional_gt_ids = {f"gt-{index}" for index in range(23, 27)}
     cards_by_id = {card["source_id"]: card for card in cards}
     missing_provisional_gt = provisional_gt_ids - set(cards_by_id)
@@ -901,8 +882,8 @@ def cmd_validate(args) -> int:
     for source_id in sorted(provisional_gt_ids & set(cards_by_id)):
         if cards_by_id[source_id].get("review_status") != "provisional":
             errors.append(f"{source_id} must remain provisional")
-        if source_id in set(seed_route_ids) or source_id in set(museum_ids):
-            errors.append(f"{source_id} must not be promoted into routes or museum exhibits before review")
+        if source_id in set(seed_route_ids):
+            errors.append(f"{source_id} must not be promoted into routes before review")
     sh16_route = next((route for route in choreography if route.get("source_id") == "sh-16"), None)
     if not sh16_route:
         errors.append("choreography must include sh-16")
@@ -927,10 +908,6 @@ def cmd_validate(args) -> int:
         errors.append("volume_ii must route through ph-apo")
     if architecture.get("volumes", {}).get("volume_ii", {}).get("role") != "law_application":
         errors.append("volume_ii must use law_application role")
-    if architecture.get("museum", {}).get("surface") != "ph-mus":
-        errors.append("museum layer must route through ph-mus")
-    if architecture.get("museum", {}).get("role") != "chapter_exhibit_layer":
-        errors.append("museum layer must use chapter_exhibit_layer role")
     if architecture.get("bridge_support_nodes") != ["sh-11", "sh-16", "sh-17", "sh-18"]:
         errors.append("bridge_support_nodes invariant changed")
     literary_spine = load_spine("homer-to-tolstoy")
@@ -1039,7 +1016,6 @@ def cmd_status(args) -> int:
                 "repo_identity": architecture["repo_identity"],
                 "primary_artifact": architecture["primary_artifact"],
                 "volumes": architecture["volumes"],
-                "museum": architecture["museum"],
                 "surfaces": SURFACES,
                 "unique_card_count": len(load_cards()),
             }
@@ -1054,7 +1030,6 @@ def cmd_status(args) -> int:
         "Volume II / ph-apo / Apocalypse: "
         f"{architecture['volumes']['volume_ii']['role']}"
     )
-    print("ph-mus: chapter_exhibit_layer for both volumes")
     return 0
 
 
@@ -1097,14 +1072,12 @@ def cmd_volumes(args) -> int:
             "volume_i": volume_payload("volume_i"),
             "volume_ii": volume_payload("volume_ii"),
         },
-        "museum": architecture["museum"],
         "unique_card_count": len(load_cards()),
     }
     if args.json:
         return emit_json(payload)
     for volume in payload["volumes"].values():
         print(f"{volume['volume_id']}\t{volume['surface']}\t{volume['role']}\t{volume['card_count']}")
-    print(f"ph-mus\t{payload['museum']['role']}\t{payload['museum']['description']}")
     print(f"unique_card_count\t{payload['unique_card_count']}")
     return 0
 
@@ -1376,34 +1349,7 @@ def apo_main(argv: list[str] | None = None) -> int:
     return args.func(args)
 
 
-def build_museum_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(prog="ph-mus", description="Predictive History Museum public manifest routes.")
-    sub = parser.add_subparsers(dest="command", required=True)
 
-    p = sub.add_parser("status", help="Show ph-mus status.")
-    p.add_argument("--json", action="store_true")
-    p.set_defaults(func=lambda args: cmd_surface(argparse.Namespace(surface="ph-mus", json=args.json)))
-
-    p = sub.add_parser("list", help="List published public museum exhibit manifests.")
-    p.add_argument("--json", action="store_true")
-    p.set_defaults(func=cmd_museum_list)
-
-    p = sub.add_parser("show", help="Show one museum exhibit manifest.")
-    p.add_argument("source_id")
-    p.add_argument("--json", action="store_true")
-    p.set_defaults(func=cmd_museum_show)
-
-    p = sub.add_parser("route", help="Show the public route for one museum exhibit.")
-    p.add_argument("source_id")
-    p.add_argument("--json", action="store_true")
-    p.set_defaults(func=cmd_route)
-    return parser
-
-
-def mus_main(argv: list[str] | None = None) -> int:
-    args = build_museum_parser().parse_args(argv or ["list"])
-    args.surface_scope = "ph-mus"
-    return args.func(args)
 
 
 if __name__ == "__main__":

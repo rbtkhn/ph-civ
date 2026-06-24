@@ -91,7 +91,6 @@ def load_course_architecture() -> dict:
         "repo_identity": data["repo_identity"],
         "primary_artifact": data["primary_artifact"],
         "volumes": data["volumes"],
-        "museum": data["museum"],
         "bridge_support_nodes": data["bridge_support_nodes"],
     }
 
@@ -113,7 +112,3 @@ def get_route(source_id: str) -> dict:
         if route["source_id"] == source_id:
             return route
     raise KeyError(source_id)
-
-
-def load_museum_index() -> list[dict]:
-    return json.loads((DATA_ROOT / "museum" / "index.json").read_text(encoding="utf-8"))["exhibits"]

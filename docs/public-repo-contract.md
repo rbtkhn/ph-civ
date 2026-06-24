@@ -1,16 +1,15 @@
 # Public Repository Contract
 
-This repository is the public-facing distribution layer for the two-volume ph-civ artifact: `ph-civ`, `ph-apo`, and `ph-mus`.
+This repository is the public-facing distribution layer for the two-volume ph-civ artifact: `ph-civ` and `ph-apo`.
 
-If a reader pastes the GitHub URL into an LLM chat, the repo should unfold from `START-HERE.md` and `data/llm-experience.json`. Those files define the provider-neutral first-tour flow, reader modes, 10-route spine seed, and guardrails for using public transcripts, commentaries, routes, patterns, and museum manifests.
+If a reader pastes the GitHub URL into an LLM chat, the repo should unfold from `START-HERE.md` and `data/llm-experience.json`. Those files define the provider-neutral first-tour flow, reader modes, 10-route spine seed, and guardrails for using public transcripts, commentaries, routes, and patterns.
 
 ## Public Surfaces
 
 - `ph-civ`: **Volume I / Predictive History: Civilization** public orientation cards, paths, prompts, and study navigation for discovering the laws of history.
 - `ph-apo`: **Volume II / Predictive History: Apocalypse** public orientation cards, paths, prompts, and study navigation for applying the laws of history.
-- `ph-mus`: **Predictive History Museum** public exhibit manifests, artifact metadata, schemas, validation rules, and generated reader-facing exhibit pages for both volumes.
 
-`ph-mus` is not a third volume. It is the chapter exhibit layer corresponding to chapters across Volume I and Volume II.
+Chapter folders and the study edition are the reader surfaces for both volumes.
 
 ## Source Of Truth Boundary
 
@@ -37,9 +36,9 @@ Public reach goals belong in this repository only as strategy-facing ambitions a
 When a public-growth ambition is stated, convert it into measurable project machinery:
 
 - repo narrative and first-screen clarity
-- shareable volume, chapter, spine, route, and museum surfaces
+- shareable volume, chapter, spine, and route surfaces
 - transcript/commentary/card readiness
-- ph-mus exhibit readiness
+- chapter study readiness
 - analytics definitions and view-count boundaries
 - distribution calendar and weekly review loop
 - launch copy or assets staged for human approval
@@ -48,41 +47,10 @@ The canonical growth guardrail is `data/growth-goals.json`.
 
 Defined public-growth machinery is not the same as launch readiness. A route is launch-ready only when it can serve a first public reader without relying on private context, unsupported scholarly claims, or metric pressure to supply meaning.
 
-## Museum Storage Boundary
+The current public choreography export is `data/routes/choreography.json`. The LLM-native unfolding map is `data/llm-experience.json`; it must stay aligned with `data/routes/seed.json`, `data/cards.jsonl`, `data/patterns.json`, and `data/routes/choreography.json`.
 
-Museum artifacts must not be represented by URLs alone.
-
-Every accepted museum artifact needs:
-
-- a local file in the museum vault
-- a mirrored file in the shared document cloud workspace
-- provenance URL or citation
-- rights status
-- exhibit and room assignment
-- curator note
-- limit or caution
-
-Git should track manifests, metadata, schemas, small generated pages, and validation rules. Git should not be used as the primary storage system for large image, audio, video, PDF, scan, or derivative archives.
-
-## Chapter Exhibit Model
-
-The primary museum unit is the chapter exhibit.
-
-Each exhibit should map to one chapter in `ph-civ` or `ph-apo`. Every chapter should eventually have a corresponding `ph-mus` exhibit. A useful exhibit contains a small curated set of artifacts arranged into rooms:
-
-- `entrance_artifact`
-- `context_room`
-- `primary_artifacts_and_texts`
-- `comparison_artifacts`
-- `pressure_systems`
-- `caution_room`
-
-Flat item inventories may be useful as imports or review exports, but they are not the museum source of truth.
-
-The current public choreography export is `data/routes/choreography.json`; the public museum exhibit index is `data/museum/index.json`. These files expose only safe routing metadata and manifest pointers, not artifact binaries.
-
-The LLM-native unfolding map is `data/llm-experience.json`; it must stay aligned with `data/routes/seed.json`, `data/cards.jsonl`, `data/patterns.json`, and `data/routes/choreography.json`.
+Retired museum layer: `docs/archive/ph-mus-retired.md`.
 
 ## Human Curator Role
 
-Human curators provide judgment that cannot be automated away: selection taste, cultural and historical balance, rights prudence, emotional calibration, representative caution, and final responsibility for why an artifact belongs in a chapter exhibit.
+Human curators provide judgment that cannot be automated away: selection taste, cultural and historical balance, rights prudence, emotional calibration, representative caution, and final responsibility for why a chapter study path belongs in the public artifact.

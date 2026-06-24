@@ -35,7 +35,7 @@ A conventional reading would challenge the lecture's framing, timing, or strateg
 ## Open Issues For Review
 - Verify the transcript against the public video.
 - Check named sources, quotations, statistics, and proper nouns.
-- Decide whether any claims belong in future routes, patterns, or museum rooms after review.
+- Decide whether any claims belong in future routes or patterns after review.
 ---
 ## Project Canvas
 ### Project Leverage
@@ -46,8 +46,7 @@ This chapter is useful as a source-first public doorway for Game Theory readers 
 - civ-imperial-hubris
 ### Volume Role
 This chapter is currently routed through Volume II / Apocalypse because it makes historical laws operational through live strategic pressure, institutional struggle, or systems conflict.
-### Museum Hooks
-Potential exhibit hooks should wait for transcript fidelity review and source verification. Do not create a museum room from this provisional packet alone.
+
 ### Strategy / Present-Day Application
 Use the chapter to map actors, incentives, pressure systems, and falsifiers. Do not treat the lecture as quotation-grade live operational analysis.
 ### Counter-Readings

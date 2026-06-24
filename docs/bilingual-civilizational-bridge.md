@@ -24,7 +24,7 @@ English readers may share the surprise that a Chinese civilizational-history len
 
 Chinese readers may share the confidence that the Western canon can be studied as civilizational pattern without imitation, rejection, or civilizational scoreboard thinking.
 
-The loop strengthens when each readership sees the other reading seriously. Shared route IDs, commentary canvases, museum rooms, and LLM-native bootloaders make that cross-language attention easier to coordinate without losing source discipline.
+The loop strengthens when each readership sees the other reading seriously. Shared route IDs, commentary canvases, chapter folders, and LLM-native bootloaders make that cross-language attention easier to coordinate without losing source discipline.
 
 Russian readers add a third reinforcement line: the Homer-to-Tolstoy route can be read through Russian literary depth without making the Russian mirror an independent canon or a present-war argument.
 

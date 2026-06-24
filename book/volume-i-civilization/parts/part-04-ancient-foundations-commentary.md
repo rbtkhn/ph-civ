@@ -268,9 +268,6 @@ Scholarship-grade alternatives; sources in [bibliography](./part-04-ancient-foun
 
 - Volume I law-discovery: parallel floors beside Greece/Rome.
 
-### Museum Hooks
-
-- Pyramid cross-section; Gilgamesh tablet; Harappan seal; Cyrus cylinder; Genesis codex facsimile.
 
 ### Strategy / Present-Day Application
 

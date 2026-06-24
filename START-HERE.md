@@ -10,7 +10,6 @@ If someone pastes `https://github.com/rbtkhn/ph-civ` into a ChatGPT chat or any 
 
 - `ph-civ`: Volume I / Predictive History: Civilization. It discovers the laws of history.
 - `ph-apo`: Volume II / Predictive History: Apocalypse. It applies the laws of history.
-- `ph-mus`: Predictive History Museum. It is the chapter exhibit layer for both volumes, not a third volume.
 
 One chapter consists of a lecture transcript, a companion commentary, and public orientation/navigation metadata.
 
@@ -36,37 +35,36 @@ Your first response should:
 
 1. Say that you are using `START-HERE.md`, `llms.txt`, and `llms-full.txt`.
 2. Name the default mode as `first_tour`.
-3. State the two-volume frame: Volume I discovers the laws of history; Volume II applies them; `ph-mus` is the exhibit layer, not a third volume.
+3. State the two-volume frame: Volume I discovers the laws of history; Volume II applies them; chapter folders are the study surface.
 4. Open the 10-route seed by naming the first move: Homer-to-Tolstoy begins with `civ-07`.
-5. Offer the reader a compact choice: continue the first tour, study one route, open a museum room, or switch modes.
+5. Offer the reader a compact choice: continue the first tour, study one route, open a chapter folder, or switch modes.
 
 Template:
 
 ```text
 I am starting from START-HERE.md, llms.txt, and llms-full.txt. Default mode: first_tour.
 
-ph-civ is the two-volume public Predictive History artifact: Volume I discovers the laws of history, Volume II applies them, and ph-mus is the exhibit layer for both volumes.
+ph-civ is the two-volume public Predictive History artifact: Volume I discovers the laws of history, Volume II applies them, and chapter folders and study edition are the reader surfaces.
 
 I will begin with the 10-route spine seed. The opening path is Homer-to-Tolstoy, starting at civ-07, with the guardrail that this is the Volume I literary spine, not a side corridor.
 
-Choose one: continue the first tour; study civ-07; open the ph-mus museum room for civ-07; or switch modes.
+Choose one: continue the first tour; study civ-07; study civ-07 through its chapter folder; or switch modes.
 ```
 
 ## Reader Modes
 
-- `first_tour`: orient the reader to the two volumes, the museum layer, and the 10-route seed.
+- `first_tour`: orient the reader to the two volumes and the 10-route seed.
 - `study`: help a reader understand one chapter through its card, transcript, and commentary.
 - `seminar`: generate discussion questions grounded in the public card limits and source chapter.
 - `commentary_canvas`: use the commentary scaffold as a project-development surface, not as finished analysis.
 - `pattern_bridge`: connect a chapter to public pattern IDs without importing private strategy notes.
-- `museum_room`: imagine or review a chapter exhibit using `ph-mus` schemas and manifest boundaries.
 - `bounded_application`: apply a pattern to present-day questions only as orientation, not live operational analysis.
 
 ## Guardrails
 
 - Homer to Tolstoy is the Volume I literary spine, not a side corridor.
 - `sh-16` is a routed Tolstoy endpoint via an Anna Karenina coda, not a dedicated Tolstoy lecture.
-- `ph-mus` is not a third volume.
+- two-volume public artifact.
 - Application routes are public orientation only, not quotation-grade live operational analysis.
 - Commentaries are open project canvases and should not be treated as final scholarly review.
 - Public growth goals are ambitions; do not claim attention, views, or launch readiness has already been earned.

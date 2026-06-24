@@ -20,7 +20,7 @@ annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-06-09
 public_imported_at: 2026-06-09
-promoted_from: strategy-codex/source-archive/statecraft/2026-05-26/source-gb-11-dantes-revolution-2026-05-26.md
+promoted_from: operator-source-archive/statecraft/2026-05-26/source-gb-11-dantes-revolution-2026-05-26.md
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 transcript_fidelity: exact_body_match
@@ -32,7 +32,7 @@ commentary_path: ./gb-11-commentary.md
 
 # Part I - Great Books #11: Dante's Revolution
 
-Part I contains the lecture transcript promoted from strategy-codex source archive (operator paste, 2026-05-26). Part II is kept in the companion commentary file.
+Part I contains the lecture transcript promoted from operator source archive (operator paste, 2026-05-26). Part II is kept in the companion commentary file.
 
 ## Part I: Full transcript
 

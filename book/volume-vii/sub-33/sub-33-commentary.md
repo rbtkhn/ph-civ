@@ -79,11 +79,6 @@ This commentary is a seed canvas, not final analysis. It preserves the essay's i
 - Relationship to Volume I law discovery or Volume II law application:
 - Bridge/support role, if any:
 
-### Museum Hooks
-
-- Objects, maps, artworks, documents, timelines, or media that would make the chapter legible:
-- Suggested exhibit rooms or visitor path:
-- Rights/provenance cautions:
 
 ### Strategy / Present-Day Application
 
@@ -106,5 +101,5 @@ This commentary is a seed canvas, not final analysis. It preserves the essay's i
 ### Build Notes / Future Enhancements
 
 - Next concrete enhancement pass:
-- Needed links, manifests, patterns, or museum entries:
+- Needed links, manifests, or pattern entries:
 - Completion blockers:

@@ -51,7 +51,7 @@ A conventional reading may see the visit as tactical diplomacy, with structural 
 
 - Verify the transcript against the public video.
 - Check named sources, quotations, statistics, and proper nouns.
-- Decide whether any claims belong in future routes, patterns, or museum rooms after review.
+- Decide whether any claims belong in future routes or patterns after review.
 
 ---
 
@@ -71,9 +71,6 @@ This chapter is useful as a source-first public doorway for late Game Theory rea
 
 This is a Volume II / Apocalypse-facing Game Theory chapter. It applies the civilizational method to modern crisis material rather than discovering the Volume I literary spine.
 
-### Museum Hooks
-
-Potential exhibit hooks should wait for transcript fidelity review and source verification. Do not create a museum room from this provisional packet alone.
 
 ### Strategy / Present-Day Application
 

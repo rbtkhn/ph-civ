@@ -8,13 +8,10 @@ This repository is `rbtkhn/ph-civ`: the public-facing two-volume ph-civ artifact
 
 When asked what project this workspace is for, answer specifically:
 
-`ph-civ` is the public Predictive History distribution repository for the two-volume ph-civ artifact. It contains three public surfaces:
+`ph-civ` is the public Predictive History distribution repository for the two-volume ph-civ artifact. It contains two public surfaces:
 
 - `ph-civ`: Volume I / Predictive History: Civilization orientation cards, patterns, prompts, routes, and study navigation; discovers the laws of history.
 - `ph-apo`: Volume II / Predictive History: Apocalypse / World War orientation surfaces; applies the laws of history.
-- `ph-mus`: Predictive History Museum public exhibit manifests, artifact metadata, schemas, and contribution rules for both volumes.
-
-`ph-mus` is not a third volume. It is the chapter exhibit layer corresponding to chapters across Volume I and Volume II.
 
 The active task in this repo is maintaining public, provider-neutral educational infrastructure for Predictive History. A chapter in this repo consists of the lecture transcript, the companion commentary, and public orientation/navigation metadata. This is not a generic coding sandbox and not a private notes workspace.
 
@@ -27,8 +24,6 @@ Do not import, invent, or paste:
 - private notes
 - private workspace paths
 - raw media binaries
-- private museum vault files
-- shared-cloud artifact archives
 - claims of final scholarly review
 
 If a task asks for material outside the public dataset, say that this repo does not contain it and point back to the appropriate source boundary.
@@ -50,7 +45,7 @@ If the operator says `coffee` at the start of a chat, do not give a generic coff
 
 1. State that this workspace is `rbtkhn/ph-civ`.
 2. State that `ph-civ` is the public two-volume Predictive History distribution repository, not the private workshop.
-3. Summarize the public surfaces: Volume I / `ph-civ`, Volume II / `ph-apo`, and the `ph-mus` exhibit layer.
+3. Summarize the public surfaces: Volume I / `ph-civ` and Volume II / `ph-apo`.
 4. Mention that `rbtkhn/ph-workshop` is legacy import provenance for the current snapshot.
 5. Offer concrete next actions using the CLI, docs, cards, patterns, or validation.
 
