@@ -149,7 +149,7 @@ The fourth keeps Apocalypse from widening into free-floating assertion.
 
 ## Why This Prototype Matters
 
-This bridge is the strongest PH-CIV bridge-lattice prototype because it already
+This bridge is the strongest ph-civ bridge-lattice prototype because it already
 has:
 
 - a compact public doorway

@@ -47,7 +47,7 @@ A reader or LLM may jump too quickly into:
 
 The source-lattice exists to prevent those failure modes.
 
-## The PH-CIV Source-Lattice Layers
+## The ph-civ Source-Lattice Layers
 
 In this repo, the source-lattice should usually be read in four layers.
 
@@ -164,9 +164,9 @@ An LLM should not treat:
 
 The source-lattice gives the model a lawful order of operations.
 
-## Relationship To Existing PH-CIV Structures
+## Relationship To Existing ph-civ Structures
 
-The source-lattice does not replace existing PH-CIV architecture. It clarifies
+The source-lattice does not replace existing ph-civ architecture. It clarifies
 how to traverse it.
 
 - `START-HERE.md` and `first-tour.md` remain bootloader surfaces

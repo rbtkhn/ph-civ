@@ -207,7 +207,7 @@ reference apparatus.
 
 ## Why This Prototype Matters
 
-This route is the best PH-CIV prototype for a corridor source-lattice because it
+This route is the best ph-civ prototype for a corridor source-lattice because it
 already has:
 
 - a fixed canonical spine

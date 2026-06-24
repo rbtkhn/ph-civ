@@ -1,4 +1,4 @@
-# Hidden Doctrines of PH-CIV
+# Hidden Doctrines of ph-civ
 
 Some of the strongest claims in `ph-civ` are not always stated as explicit
 doctrine by Jiang. They are often more clearly **enacted** by the corpus
