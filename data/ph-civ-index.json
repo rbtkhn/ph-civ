@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "fingerprint": "39901aabcf32337b",
+  "fingerprint": "5253742d7828c215",
   "card_count": 150,
-  "transcript_word_total": 1022710,
+  "transcript_word_total": 1031453,
   "ssot": "data/cards.jsonl",
   "markdown_index": "docs/ph-civ-index.md",
   "surfaces": {
@@ -71,7 +71,7 @@
         "geo-strategy": 20,
         "secret-history": 28
       },
-      "transcript_word_total": 433912
+      "transcript_word_total": 442655
     }
   },
   "chapters": [
@@ -2433,7 +2433,7 @@
         "folder": "ph-apo/chapters/gt-24",
         "folder_readme": "ph-apo/chapters/gt-24/README.md"
       },
-      "transcript_word_count": 59,
+      "transcript_word_count": 8802,
       "source_video_url": "https://www.youtube.com/watch?v=8nsxuB3Vsts",
       "commentary_maturity": "l3_falsifiers",
       "scaffold_version": "ph_civ_commentary_canvas_v2",
