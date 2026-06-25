@@ -29,6 +29,8 @@ Treat this chapter folder as a small source-lattice:
 
 `in_review`. Do not treat provisional transcript text, named claims, quotations, or current-event predictions as final until review is complete.
 
+**Transcript pass 2 (2026-06-25):** Seven section rails under Part I; speaker/ASR repair on post-sponsor block (transcript-logic, no audio re-listen). Unresolved: "John" at Christians United for Israel (likely John Hagee — not pinned without audio).
+
 ## LLM Prompt
 
 Paste this folder link into ChatGPT, Claude, or Grok and ask:
