@@ -2,7 +2,7 @@
 source_id: essay-10
 title: "Secret History #7: The Voyage Home"
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-10/essay-10-transcript.md
+source_chapter_path: essays/essay-10/essay-10.md
 source_corpus_path: corpus/essays/essay-10.md
 commentary_status: in-review
 review_status: source_reviewed

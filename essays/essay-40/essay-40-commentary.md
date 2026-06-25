@@ -2,7 +2,7 @@
 source_id: essay-40
 title: The Loneliness of Mad King Trump
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-40/essay-40-transcript.md
+source_chapter_path: essays/essay-40/essay-40.md
 source_corpus_path: corpus/essays/essay-40.md
 commentary_status: in-review
 review_status: source_reviewed

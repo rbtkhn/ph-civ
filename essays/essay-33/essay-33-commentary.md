@@ -3,7 +3,7 @@ source_id: essay-33
 title: "World War Trump"
 source_series: "Predictive History Essays"
 publication_date: 2026-04-04
-source_chapter_path: essays/essay-33/essay-33-transcript.md
+source_chapter_path: essays/essay-33/essay-33.md
 source_corpus_path: corpus/essays/essay-33.md
 commentary_status: in-review
 review_status: source_reviewed

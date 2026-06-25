@@ -2,7 +2,7 @@
 source_id: essay-23
 title: Minnesota Burning
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-23/essay-23-transcript.md
+source_chapter_path: essays/essay-23/essay-23.md
 source_corpus_path: corpus/essays/essay-23.md
 commentary_status: in-review
 review_status: source_reviewed

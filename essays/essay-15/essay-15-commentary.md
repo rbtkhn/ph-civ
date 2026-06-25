@@ -2,7 +2,7 @@
 source_id: essay-15
 title: The Empire Goes to War
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-15/essay-15-transcript.md
+source_chapter_path: essays/essay-15/essay-15.md
 source_corpus_path: corpus/essays/essay-15.md
 commentary_status: in-review
 review_status: source_reviewed

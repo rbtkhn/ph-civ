@@ -2,7 +2,7 @@
 source_id: essay-12
 title: I Have Questions about Tyler Robinson
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-12/essay-12-transcript.md
+source_chapter_path: essays/essay-12/essay-12.md
 source_corpus_path: corpus/essays/essay-12.md
 commentary_status: in-review
 review_status: source_reviewed

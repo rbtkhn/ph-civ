@@ -3,7 +3,7 @@ source_id: essay-34
 title: "The US-Iran War, Round Two"
 source_series: "Predictive History Essays"
 publication_date: 2026-04-18
-source_chapter_path: essays/essay-34/essay-34-transcript.md
+source_chapter_path: essays/essay-34/essay-34.md
 source_corpus_path: corpus/essays/essay-34.md
 commentary_status: in-review
 review_status: source_reviewed

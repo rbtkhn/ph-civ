@@ -2,7 +2,7 @@
 source_id: essay-04
 title: "The Secret History of the World #1: The Cost of Money"
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-04/essay-04-transcript.md
+source_chapter_path: essays/essay-04/essay-04.md
 source_corpus_path: corpus/essays/essay-04.md
 commentary_status: in-review
 review_status: source_reviewed

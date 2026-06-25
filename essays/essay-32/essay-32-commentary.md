@@ -2,7 +2,7 @@
 source_id: essay-32
 title: The US-Iran End Game
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-32/essay-32-transcript.md
+source_chapter_path: essays/essay-32/essay-32.md
 source_corpus_path: corpus/essays/essay-32.md
 commentary_status: in-review
 review_status: source_reviewed

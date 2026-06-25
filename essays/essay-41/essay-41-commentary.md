@@ -2,7 +2,7 @@
 source_id: essay-41
 title: Peter Thiel's Republic
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-41/essay-41-transcript.md
+source_chapter_path: essays/essay-41/essay-41.md
 source_corpus_path: corpus/essays/essay-41.md
 commentary_status: in-review
 review_status: source_reviewed

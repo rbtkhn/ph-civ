@@ -2,7 +2,7 @@
 source_id: essay-09
 title: "The Secret History of the World #6: Manchurian Candidates"
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-09/essay-09-transcript.md
+source_chapter_path: essays/essay-09/essay-09.md
 source_corpus_path: corpus/essays/essay-09.md
 commentary_status: in-review
 review_status: source_reviewed

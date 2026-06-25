@@ -2,7 +2,7 @@
 source_id: essay-18
 title: "Secret History #8: The Rise of the American Kakistocracy"
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-18/essay-18-transcript.md
+source_chapter_path: essays/essay-18/essay-18.md
 source_corpus_path: corpus/essays/essay-18.md
 commentary_status: in-review
 review_status: source_reviewed

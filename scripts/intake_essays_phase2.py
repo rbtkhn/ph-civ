@@ -160,7 +160,7 @@ def build_commentary(source_id: str, title: str) -> str:
 source_id: {source_id}
 title: {escape_yaml(title)}
 source_series: "Predictive History Essays"
-source_chapter_path: essays/{source_id}/{source_id}-transcript.md
+source_chapter_path: essays/{source_id}/{source_id}.md
 source_corpus_path: corpus/essays/{source_id}.md
 commentary_status: in-review
 review_status: source_reviewed
@@ -239,7 +239,7 @@ Treat this chapter folder as a small source-lattice:
 
 ## Files
 
-- [Transcript]({source_id}-transcript.md)
+- [Essay]({source_id}.md)
 - [Commentary canvas]({source_id}-commentary.md)
 - [Public card](../../data/cards/{source_id}.md)
 
@@ -292,7 +292,7 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `essays/{source_id}/{source_id}-transcript.md` for exact essay wording and `essays/{source_id}/{source_id}-commentary.md` for bounded analysis.
+Return through `essays/{source_id}/{source_id}.md` for exact essay wording and `essays/{source_id}/{source_id}-commentary.md` for bounded analysis.
 """
 
 
@@ -310,7 +310,7 @@ def build_card_jsonl(source_id: str, meta: dict) -> dict:
             "Historical Pressure Points": "- Seed pressure points pending commentary pass\n- Civilizational framing hooks to be extracted from the transcript",
             "Limits of the Frame": "This entry is in review. Do not treat interpretive frames or forecasts as verified fact without external review.",
             "Reading Posture": "Read this as an orientation card, not as a substitute for the essay transcript or commentary canvas.",
-            "Return Path": f"Return through `essays/{source_id}/`, the commentary canvas, and `essays/{source_id}/{source_id}-transcript.md`.",
+            "Return Path": f"Return through `essays/{source_id}/`, the commentary canvas, and `essays/{source_id}/{source_id}.md`.",
             "Where This Sits": f"`{source_id}` is a public essay packet on the ph-civ essays surface (`part: civilization`).",
         },
         "series": "essays",
@@ -318,7 +318,7 @@ def build_card_jsonl(source_id: str, meta: dict) -> dict:
         "source_paths": {
             "commentary_path": f"essays/{source_id}/{source_id}-commentary.md",
             "orientation_payload_path": "",
-            "source_chapter_path": f"essays/{source_id}/{source_id}-transcript.md",
+            "source_chapter_path": f"essays/{source_id}/{source_id}.md",
             "source_corpus_path": f"corpus/essays/{source_id}.md",
         },
         "source_snapshot": {
@@ -349,7 +349,7 @@ def intake_essay(meta: dict) -> str:
     title = meta["title"]
     url = meta["canonical_url"]
 
-    (target / f"{source_id}-transcript.md").write_text(
+    (target / f"{source_id}.md").write_text(
         build_transcript(source_id, meta, workshop_meta, body), encoding="utf-8", newline="\n"
     )
     (target / f"{source_id}-commentary.md").write_text(

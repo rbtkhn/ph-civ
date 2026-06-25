@@ -2,7 +2,7 @@
 source_id: essay-20
 title: "Secret History #9: The War of Heaven and Hell"
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-20/essay-20-transcript.md
+source_chapter_path: essays/essay-20/essay-20.md
 source_corpus_path: corpus/essays/essay-20.md
 commentary_status: in-review
 review_status: source_reviewed

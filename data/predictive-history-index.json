@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "fingerprint": "148dcc91026bbb65",
+  "fingerprint": "a2ba3fd4a09ec79e",
   "card_count": 189,
   "transcript_word_total": 1278975,
   "ssot": "data/cards.jsonl",
@@ -1348,7 +1348,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-01/essay-01-transcript.md",
+        "transcript": "essays/essay-01/essay-01.md",
         "commentary": "essays/essay-01/essay-01-commentary.md",
         "folder": "essays/essay-01",
         "folder_readme": "essays/essay-01/README.md"
@@ -1369,7 +1369,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-02/essay-02-transcript.md",
+        "transcript": "essays/essay-02/essay-02.md",
         "commentary": "essays/essay-02/essay-02-commentary.md",
         "folder": "essays/essay-02",
         "folder_readme": "essays/essay-02/README.md"
@@ -1390,7 +1390,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-03/essay-03-transcript.md",
+        "transcript": "essays/essay-03/essay-03.md",
         "commentary": "essays/essay-03/essay-03-commentary.md",
         "folder": "essays/essay-03",
         "folder_readme": "essays/essay-03/README.md"
@@ -1411,7 +1411,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-04/essay-04-transcript.md",
+        "transcript": "essays/essay-04/essay-04.md",
         "commentary": "essays/essay-04/essay-04-commentary.md",
         "folder": "essays/essay-04",
         "folder_readme": "essays/essay-04/README.md"
@@ -1432,7 +1432,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-05/essay-05-transcript.md",
+        "transcript": "essays/essay-05/essay-05.md",
         "commentary": "essays/essay-05/essay-05-commentary.md",
         "folder": "essays/essay-05",
         "folder_readme": "essays/essay-05/README.md"
@@ -1453,7 +1453,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-06/essay-06-transcript.md",
+        "transcript": "essays/essay-06/essay-06.md",
         "commentary": "essays/essay-06/essay-06-commentary.md",
         "folder": "essays/essay-06",
         "folder_readme": "essays/essay-06/README.md"
@@ -1474,7 +1474,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-07/essay-07-transcript.md",
+        "transcript": "essays/essay-07/essay-07.md",
         "commentary": "essays/essay-07/essay-07-commentary.md",
         "folder": "essays/essay-07",
         "folder_readme": "essays/essay-07/README.md"
@@ -1495,7 +1495,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-08/essay-08-transcript.md",
+        "transcript": "essays/essay-08/essay-08.md",
         "commentary": "essays/essay-08/essay-08-commentary.md",
         "folder": "essays/essay-08",
         "folder_readme": "essays/essay-08/README.md"
@@ -1516,7 +1516,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-09/essay-09-transcript.md",
+        "transcript": "essays/essay-09/essay-09.md",
         "commentary": "essays/essay-09/essay-09-commentary.md",
         "folder": "essays/essay-09",
         "folder_readme": "essays/essay-09/README.md"
@@ -1537,7 +1537,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-10/essay-10-transcript.md",
+        "transcript": "essays/essay-10/essay-10.md",
         "commentary": "essays/essay-10/essay-10-commentary.md",
         "folder": "essays/essay-10",
         "folder_readme": "essays/essay-10/README.md"
@@ -1558,7 +1558,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-11/essay-11-transcript.md",
+        "transcript": "essays/essay-11/essay-11.md",
         "commentary": "essays/essay-11/essay-11-commentary.md",
         "folder": "essays/essay-11",
         "folder_readme": "essays/essay-11/README.md"
@@ -1579,7 +1579,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-12/essay-12-transcript.md",
+        "transcript": "essays/essay-12/essay-12.md",
         "commentary": "essays/essay-12/essay-12-commentary.md",
         "folder": "essays/essay-12",
         "folder_readme": "essays/essay-12/README.md"
@@ -1600,7 +1600,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-13/essay-13-transcript.md",
+        "transcript": "essays/essay-13/essay-13.md",
         "commentary": "essays/essay-13/essay-13-commentary.md",
         "folder": "essays/essay-13",
         "folder_readme": "essays/essay-13/README.md"
@@ -1621,7 +1621,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-14/essay-14-transcript.md",
+        "transcript": "essays/essay-14/essay-14.md",
         "commentary": "essays/essay-14/essay-14-commentary.md",
         "folder": "essays/essay-14",
         "folder_readme": "essays/essay-14/README.md"
@@ -1642,7 +1642,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-15/essay-15-transcript.md",
+        "transcript": "essays/essay-15/essay-15.md",
         "commentary": "essays/essay-15/essay-15-commentary.md",
         "folder": "essays/essay-15",
         "folder_readme": "essays/essay-15/README.md"
@@ -1663,7 +1663,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-16/essay-16-transcript.md",
+        "transcript": "essays/essay-16/essay-16.md",
         "commentary": "essays/essay-16/essay-16-commentary.md",
         "folder": "essays/essay-16",
         "folder_readme": "essays/essay-16/README.md"
@@ -1684,7 +1684,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-17/essay-17-transcript.md",
+        "transcript": "essays/essay-17/essay-17.md",
         "commentary": "essays/essay-17/essay-17-commentary.md",
         "folder": "essays/essay-17",
         "folder_readme": "essays/essay-17/README.md"
@@ -1705,7 +1705,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-18/essay-18-transcript.md",
+        "transcript": "essays/essay-18/essay-18.md",
         "commentary": "essays/essay-18/essay-18-commentary.md",
         "folder": "essays/essay-18",
         "folder_readme": "essays/essay-18/README.md"
@@ -1726,7 +1726,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-19/essay-19-transcript.md",
+        "transcript": "essays/essay-19/essay-19.md",
         "commentary": "essays/essay-19/essay-19-commentary.md",
         "folder": "essays/essay-19",
         "folder_readme": "essays/essay-19/README.md"
@@ -1747,7 +1747,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-20/essay-20-transcript.md",
+        "transcript": "essays/essay-20/essay-20.md",
         "commentary": "essays/essay-20/essay-20-commentary.md",
         "folder": "essays/essay-20",
         "folder_readme": "essays/essay-20/README.md"
@@ -1768,7 +1768,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-21/essay-21-transcript.md",
+        "transcript": "essays/essay-21/essay-21.md",
         "commentary": "essays/essay-21/essay-21-commentary.md",
         "folder": "essays/essay-21",
         "folder_readme": "essays/essay-21/README.md"
@@ -1789,7 +1789,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-22/essay-22-transcript.md",
+        "transcript": "essays/essay-22/essay-22.md",
         "commentary": "essays/essay-22/essay-22-commentary.md",
         "folder": "essays/essay-22",
         "folder_readme": "essays/essay-22/README.md"
@@ -1810,7 +1810,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-23/essay-23-transcript.md",
+        "transcript": "essays/essay-23/essay-23.md",
         "commentary": "essays/essay-23/essay-23-commentary.md",
         "folder": "essays/essay-23",
         "folder_readme": "essays/essay-23/README.md"
@@ -1831,7 +1831,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-24/essay-24-transcript.md",
+        "transcript": "essays/essay-24/essay-24.md",
         "commentary": "essays/essay-24/essay-24-commentary.md",
         "folder": "essays/essay-24",
         "folder_readme": "essays/essay-24/README.md"
@@ -1852,7 +1852,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-25/essay-25-transcript.md",
+        "transcript": "essays/essay-25/essay-25.md",
         "commentary": "essays/essay-25/essay-25-commentary.md",
         "folder": "essays/essay-25",
         "folder_readme": "essays/essay-25/README.md"
@@ -1873,7 +1873,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-26/essay-26-transcript.md",
+        "transcript": "essays/essay-26/essay-26.md",
         "commentary": "essays/essay-26/essay-26-commentary.md",
         "folder": "essays/essay-26",
         "folder_readme": "essays/essay-26/README.md"
@@ -1894,7 +1894,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-27/essay-27-transcript.md",
+        "transcript": "essays/essay-27/essay-27.md",
         "commentary": "essays/essay-27/essay-27-commentary.md",
         "folder": "essays/essay-27",
         "folder_readme": "essays/essay-27/README.md"
@@ -1915,7 +1915,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-28/essay-28-transcript.md",
+        "transcript": "essays/essay-28/essay-28.md",
         "commentary": "essays/essay-28/essay-28-commentary.md",
         "folder": "essays/essay-28",
         "folder_readme": "essays/essay-28/README.md"
@@ -1936,7 +1936,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-29/essay-29-transcript.md",
+        "transcript": "essays/essay-29/essay-29.md",
         "commentary": "essays/essay-29/essay-29-commentary.md",
         "folder": "essays/essay-29",
         "folder_readme": "essays/essay-29/README.md"
@@ -1957,7 +1957,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-30/essay-30-transcript.md",
+        "transcript": "essays/essay-30/essay-30.md",
         "commentary": "essays/essay-30/essay-30-commentary.md",
         "folder": "essays/essay-30",
         "folder_readme": "essays/essay-30/README.md"
@@ -1978,7 +1978,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-31/essay-31-transcript.md",
+        "transcript": "essays/essay-31/essay-31.md",
         "commentary": "essays/essay-31/essay-31-commentary.md",
         "folder": "essays/essay-31",
         "folder_readme": "essays/essay-31/README.md"
@@ -1999,7 +1999,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-32/essay-32-transcript.md",
+        "transcript": "essays/essay-32/essay-32.md",
         "commentary": "essays/essay-32/essay-32-commentary.md",
         "folder": "essays/essay-32",
         "folder_readme": "essays/essay-32/README.md"
@@ -2020,7 +2020,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-33/essay-33-transcript.md",
+        "transcript": "essays/essay-33/essay-33.md",
         "commentary": "essays/essay-33/essay-33-commentary.md",
         "folder": "essays/essay-33",
         "folder_readme": "essays/essay-33/README.md"
@@ -2041,7 +2041,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-34/essay-34-transcript.md",
+        "transcript": "essays/essay-34/essay-34.md",
         "commentary": "essays/essay-34/essay-34-commentary.md",
         "folder": "essays/essay-34",
         "folder_readme": "essays/essay-34/README.md"
@@ -2062,7 +2062,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-35/essay-35-transcript.md",
+        "transcript": "essays/essay-35/essay-35.md",
         "commentary": "essays/essay-35/essay-35-commentary.md",
         "folder": "essays/essay-35",
         "folder_readme": "essays/essay-35/README.md"
@@ -2083,7 +2083,7 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "essays/essay-36/essay-36-transcript.md",
+        "transcript": "essays/essay-36/essay-36.md",
         "commentary": "essays/essay-36/essay-36-commentary.md",
         "folder": "essays/essay-36",
         "folder_readme": "essays/essay-36/README.md"
@@ -2104,7 +2104,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-37/essay-37-transcript.md",
+        "transcript": "essays/essay-37/essay-37.md",
         "commentary": "essays/essay-37/essay-37-commentary.md",
         "folder": "essays/essay-37",
         "folder_readme": "essays/essay-37/README.md"
@@ -2125,7 +2125,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-38/essay-38-transcript.md",
+        "transcript": "essays/essay-38/essay-38.md",
         "commentary": "essays/essay-38/essay-38-commentary.md",
         "folder": "essays/essay-38",
         "folder_readme": "essays/essay-38/README.md"
@@ -2146,7 +2146,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-39/essay-39-transcript.md",
+        "transcript": "essays/essay-39/essay-39.md",
         "commentary": "essays/essay-39/essay-39-commentary.md",
         "folder": "essays/essay-39",
         "folder_readme": "essays/essay-39/README.md"
@@ -2167,7 +2167,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-40/essay-40-transcript.md",
+        "transcript": "essays/essay-40/essay-40.md",
         "commentary": "essays/essay-40/essay-40-commentary.md",
         "folder": "essays/essay-40",
         "folder_readme": "essays/essay-40/README.md"
@@ -2188,7 +2188,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-41/essay-41-transcript.md",
+        "transcript": "essays/essay-41/essay-41.md",
         "commentary": "essays/essay-41/essay-41-commentary.md",
         "folder": "essays/essay-41",
         "folder_readme": "essays/essay-41/README.md"
@@ -2209,7 +2209,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-42/essay-42-transcript.md",
+        "transcript": "essays/essay-42/essay-42.md",
         "commentary": "essays/essay-42/essay-42-commentary.md",
         "folder": "essays/essay-42",
         "folder_readme": "essays/essay-42/README.md"
@@ -2230,7 +2230,7 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-43/essay-43-transcript.md",
+        "transcript": "essays/essay-43/essay-43.md",
         "commentary": "essays/essay-43/essay-43-commentary.md",
         "folder": "essays/essay-43",
         "folder_readme": "essays/essay-43/README.md"

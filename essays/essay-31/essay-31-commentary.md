@@ -2,7 +2,7 @@
 source_id: essay-31
 title: Vietnam Redux
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-31/essay-31-transcript.md
+source_chapter_path: essays/essay-31/essay-31.md
 source_corpus_path: corpus/essays/essay-31.md
 commentary_status: in-review
 review_status: source_reviewed

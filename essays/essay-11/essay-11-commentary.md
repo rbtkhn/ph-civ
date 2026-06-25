@@ -2,7 +2,7 @@
 source_id: essay-11
 title: Tipping Point USA
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-11/essay-11-transcript.md
+source_chapter_path: essays/essay-11/essay-11.md
 source_corpus_path: corpus/essays/essay-11.md
 commentary_status: in-review
 review_status: source_reviewed

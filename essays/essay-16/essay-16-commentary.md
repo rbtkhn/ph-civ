@@ -2,7 +2,7 @@
 source_id: essay-16
 title: War Machine USA
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-16/essay-16-transcript.md
+source_chapter_path: essays/essay-16/essay-16.md
 source_corpus_path: corpus/essays/essay-16.md
 commentary_status: in-review
 review_status: source_reviewed

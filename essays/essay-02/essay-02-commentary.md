@@ -2,7 +2,7 @@
 source_id: essay-02
 title: "\"Continuity of Government\" is a Joke. Here's Why."
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-02/essay-02-transcript.md
+source_chapter_path: essays/essay-02/essay-02.md
 source_corpus_path: corpus/essays/essay-02.md
 commentary_status: in-review
 review_status: source_reviewed

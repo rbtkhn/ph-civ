@@ -3,7 +3,7 @@ source_id: essay-37
 title: "China's Third Center Strategy"
 source_series: "Predictive History Essays"
 publication_date: 2026-05-16
-source_chapter_path: essays/essay-37/essay-37-transcript.md
+source_chapter_path: essays/essay-37/essay-37.md
 source_corpus_path: corpus/essays/essay-37.md
 commentary_status: in-review
 review_status: source_reviewed

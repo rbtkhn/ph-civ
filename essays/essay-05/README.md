@@ -21,7 +21,7 @@ Treat this chapter folder as a small source-lattice:
 
 ## Files
 
-- [Transcript](essay-05-transcript.md)
+- [Essay](essay-05.md)
 - [Commentary canvas](essay-05-commentary.md)
 - [Public card](../../data/cards/essay-05.md)
 

@@ -2,7 +2,7 @@
 source_id: essay-22
 title: Blowback Venezuela
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-22/essay-22-transcript.md
+source_chapter_path: essays/essay-22/essay-22.md
 source_corpus_path: corpus/essays/essay-22.md
 commentary_status: in-review
 review_status: source_reviewed

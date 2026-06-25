@@ -2,7 +2,7 @@
 source_id: essay-38
 title: Our WTF! Years
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-38/essay-38-transcript.md
+source_chapter_path: essays/essay-38/essay-38.md
 source_corpus_path: corpus/essays/essay-38.md
 commentary_status: in-review
 review_status: source_reviewed

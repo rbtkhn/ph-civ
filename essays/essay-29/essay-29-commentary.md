@@ -2,7 +2,7 @@
 source_id: essay-29
 title: World War III Begins
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-29/essay-29-transcript.md
+source_chapter_path: essays/essay-29/essay-29.md
 source_corpus_path: corpus/essays/essay-29.md
 commentary_status: in-review
 review_status: source_reviewed

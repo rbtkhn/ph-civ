@@ -2,7 +2,7 @@
 source_id: essay-39
 title: The US-China Grand Bargain
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-39/essay-39-transcript.md
+source_chapter_path: essays/essay-39/essay-39.md
 source_corpus_path: corpus/essays/essay-39.md
 commentary_status: in-review
 review_status: source_reviewed

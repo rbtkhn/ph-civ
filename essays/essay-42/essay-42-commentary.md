@@ -2,7 +2,7 @@
 source_id: essay-42
 title: Welcome to Boomer Hell
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-42/essay-42-transcript.md
+source_chapter_path: essays/essay-42/essay-42.md
 source_corpus_path: corpus/essays/essay-42.md
 commentary_status: in-review
 review_status: source_reviewed

@@ -2,7 +2,7 @@
 source_id: essay-05
 title: "The Secret History of the World #2: Measuring the Resilience of Societies"
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-05/essay-05-transcript.md
+source_chapter_path: essays/essay-05/essay-05.md
 source_corpus_path: corpus/essays/essay-05.md
 commentary_status: in-review
 review_status: source_reviewed

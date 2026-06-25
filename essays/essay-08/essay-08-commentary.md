@@ -2,7 +2,7 @@
 source_id: essay-08
 title: "The Secret History of the World #5: The Poetry of Transgression"
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-08/essay-08-transcript.md
+source_chapter_path: essays/essay-08/essay-08.md
 source_corpus_path: corpus/essays/essay-08.md
 commentary_status: in-review
 review_status: source_reviewed

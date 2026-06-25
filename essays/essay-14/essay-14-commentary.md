@@ -2,7 +2,7 @@
 source_id: essay-14
 title: What Can Be Done?
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-14/essay-14-transcript.md
+source_chapter_path: essays/essay-14/essay-14.md
 source_corpus_path: corpus/essays/essay-14.md
 commentary_status: in-review
 review_status: source_reviewed

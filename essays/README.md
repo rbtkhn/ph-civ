@@ -6,9 +6,9 @@ Repo path: **`essays/`** at the repository root (sibling to [`ph-civ/`](ph-civ/R
 
 ## ID scheme
 
-- **Canonical `source_id`:** `essay-01` … `essay-37` (zero-padded two digits).
-- **Packet path:** `essays/essay-NN/essay-NN-transcript.md`, `essay-NN-commentary.md`, `README.md`.
-- **Workshop map:** frozen `es-01` … `es-32` in strategy-codex `codex/predictive-history/metadata/sources.yaml` promote to `essay-01` … `essay-32`; `essay-33` … `essay-37` are earlier public intakes.
+- **Canonical `source_id`:** `essay-01` … `essay-43` (zero-padded two digits).
+- **Packet path:** `essays/essay-NN/essay-NN.md`, `essay-NN-commentary.md`, `README.md`.
+- **Workshop map:** frozen `es-01` … `es-32` in strategy-codex `codex/predictive-history/metadata/sources.yaml` promote to `essay-01` … `essay-32`; `essay-33` … `essay-43` are public intakes.
 - **Legacy:** `sub-*` essay IDs and `book/volume-vii/sub-*` stubs are **deprecated** — redirects only.
 
 ## Recategorization (operator policy)
@@ -19,13 +19,13 @@ Reader rollup under [`book/volume-ii-apocalypse/sub/`](book/volume-ii-apocalypse
 
 ## Corpus scope
 
-- **Public today:** 37 `essay-*` chapter packets on repo-root `essays/`.
+- **Public today:** 43 `essay-*` chapter packets on repo-root `essays/`.
 
 ## Packet shape
 
 Each essay chapter:
 
-- `essay-NN-transcript.md` — verbatim essay body
+- `essay-NN.md` — verbatim essay body
 - `essay-NN-commentary.md` — open commentary canvas
 - `README.md` — public study doorway (`## Source Video` + Substack URL)
 

@@ -2,7 +2,7 @@
 source_id: essay-43
 title: Peace in Our Time?
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-43/essay-43-transcript.md
+source_chapter_path: essays/essay-43/essay-43.md
 source_corpus_path: corpus/essays/essay-43.md
 commentary_status: in-review
 review_status: source_reviewed

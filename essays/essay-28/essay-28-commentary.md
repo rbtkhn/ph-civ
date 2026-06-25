@@ -2,7 +2,7 @@
 source_id: essay-28
 title: Countdown to Iran
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-28/essay-28-transcript.md
+source_chapter_path: essays/essay-28/essay-28.md
 source_corpus_path: corpus/essays/essay-28.md
 commentary_status: in-review
 review_status: source_reviewed

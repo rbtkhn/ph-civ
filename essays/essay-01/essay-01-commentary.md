@@ -2,7 +2,7 @@
 source_id: essay-01
 title: Vision, Mission, Goals
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-01/essay-01-transcript.md
+source_chapter_path: essays/essay-01/essay-01.md
 source_corpus_path: corpus/essays/essay-01.md
 commentary_status: in-review
 review_status: source_reviewed

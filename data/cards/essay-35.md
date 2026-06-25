@@ -29,4 +29,4 @@ This entry is in review and preserves the essay's interpretive frame without tre
 
 ## Return Path
 
-Return through essays/essay-35/essay-35-transcript.md for exact essay wording and essays/essay-35/essay-35-commentary.md for bounded analysis.
+Return through essays/essay-35/essay-35.md for exact essay wording and essays/essay-35/essay-35-commentary.md for bounded analysis.

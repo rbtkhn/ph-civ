@@ -2,7 +2,7 @@
 source_id: essay-17
 title: Why I Refuse to Get Rich
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-17/essay-17-transcript.md
+source_chapter_path: essays/essay-17/essay-17.md
 source_corpus_path: corpus/essays/essay-17.md
 commentary_status: in-review
 review_status: source_reviewed

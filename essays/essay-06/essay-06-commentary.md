@@ -2,7 +2,7 @@
 source_id: essay-06
 title: "The Secret History of the World #3: The Corporate Re-Structuring of Canada"
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-06/essay-06-transcript.md
+source_chapter_path: essays/essay-06/essay-06.md
 source_corpus_path: corpus/essays/essay-06.md
 commentary_status: in-review
 review_status: source_reviewed

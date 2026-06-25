@@ -2,7 +2,7 @@
 source_id: essay-30
 title: The Acceleration
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-30/essay-30-transcript.md
+source_chapter_path: essays/essay-30/essay-30.md
 source_corpus_path: corpus/essays/essay-30.md
 commentary_status: in-review
 review_status: source_reviewed

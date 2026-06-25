@@ -2,7 +2,7 @@
 source_id: essay-24
 title: Iran, Greenland, and Canada
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-24/essay-24-transcript.md
+source_chapter_path: essays/essay-24/essay-24.md
 source_corpus_path: corpus/essays/essay-24.md
 commentary_status: in-review
 review_status: source_reviewed

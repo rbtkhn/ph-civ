@@ -2,7 +2,7 @@
 source_id: essay-25
 title: Carney’s Speech and Trump’s Letter
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-25/essay-25-transcript.md
+source_chapter_path: essays/essay-25/essay-25.md
 source_corpus_path: corpus/essays/essay-25.md
 commentary_status: in-review
 review_status: source_reviewed

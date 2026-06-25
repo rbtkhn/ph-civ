@@ -2,7 +2,7 @@
 source_id: essay-21
 title: "Secret History #10: The Great Revealing"
 source_series: "Predictive History Essays"
-source_chapter_path: essays/essay-21/essay-21-transcript.md
+source_chapter_path: essays/essay-21/essay-21.md
 source_corpus_path: corpus/essays/essay-21.md
 commentary_status: in-review
 review_status: source_reviewed

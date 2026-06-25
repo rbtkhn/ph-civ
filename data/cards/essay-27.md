@@ -28,4 +28,4 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `essays/essay-27/essay-27-transcript.md` for exact essay wording and `essays/essay-27/essay-27-commentary.md` for bounded analysis.
+Return through `essays/essay-27/essay-27.md` for exact essay wording and `essays/essay-27/essay-27-commentary.md` for bounded analysis.

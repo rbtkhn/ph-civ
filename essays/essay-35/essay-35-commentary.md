@@ -3,7 +3,7 @@ source_id: essay-35
 title: "The Trump New Deal"
 source_series: "Predictive History Essays"
 publication_date: 2026-04-25
-source_chapter_path: essays/essay-35/essay-35-transcript.md
+source_chapter_path: essays/essay-35/essay-35.md
 source_corpus_path: corpus/essays/essay-35.md
 commentary_status: in-review
 review_status: source_reviewed
