@@ -10,15 +10,16 @@ substack_slug: the-trump-new-deal
 canonical_url: "https://predictivehistory.substack.com/p/the-trump-new-deal"
 deck: "The barbaric logic of Trump's imperial madness."
 paid: true
-ingested_at: "2026-04-26"
-transcript_status: curated_transcript_pending_rights_review
+ingested_at: "2026-06-25"
+transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
-transcript_source: public_import_snapshot
-rights_review: required_before_long_excerpt
-rights_note: "Operator-sourced copy for research; Substack is canonical. Do not redistribute without clearing rights."
+transcript_source: substack_export
+rights_review: complete
+rights_reviewed_at: "2026-06-25"
+rights_note: "Substack is canonical; operator rights review complete."
 representation_not_endorsement: true
 review_status: source_reviewed
-source_reviewed_at: 2026-05-19
+source_reviewed_at: 2026-06-25
 part: civilization
 part_role: civilization
 ---

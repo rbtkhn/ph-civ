@@ -1,10 +1,10 @@
-<!-- predictive-history-index-fingerprint: 6e7e3f14af54d955 -->
+<!-- predictive-history-index-fingerprint: 148dcc91026bbb65 -->
 # Predictive History Chapter Index
 
 Canonical catalog of every public Predictive History lecture chapter in this repository.
 
 - **Card count:** 189
-- **Transcript words (total):** 1,271,200
+- **Transcript words (total):** 1,278,975
 - **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`data/predictive-history-index.json`](../data/predictive-history-index.json) · [`data/index.json`](../data/index.json)
 - **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py` · auto-sync during `ph-civ validate` and publish
 
@@ -291,12 +291,12 @@ YouTube and Substack source URLs appear in the **Video** column below and in [`d
 | `essay-24` | Iran, Greenland, and Canada | `in_review` | 775 | [transcript](../essays/essay-24/essay-24-transcript.md) | [commentary](../essays/essay-24/essay-24-commentary.md) | [folder](../essays/essay-24/README.md) | [video](https://predictivehistory.substack.com/p/iran-greenland-and-canada) |
 | `essay-25` | Carney’s Speech and Trump’s Letter | `in_review` | 1,104 | [transcript](../essays/essay-25/essay-25-transcript.md) | [commentary](../essays/essay-25/essay-25-commentary.md) | [folder](../essays/essay-25/README.md) | [video](https://predictivehistory.substack.com/p/carneys-speech-and-trumps-letter) |
 | `essay-26` | Twilight of the Liberal Elite | `in_review` | 1,061 | [transcript](../essays/essay-26/essay-26-transcript.md) | [commentary](../essays/essay-26/essay-26-commentary.md) | [folder](../essays/essay-26/README.md) | [video](https://predictivehistory.substack.com/p/twilight-of-the-liberal-elite) |
-| `essay-27` | Welcome to the Rupture | `in_review` | 21 | [transcript](../essays/essay-27/essay-27-transcript.md) | [commentary](../essays/essay-27/essay-27-commentary.md) | [folder](../essays/essay-27/README.md) | [video](https://predictivehistory.substack.com/p/welcome-to-the-rupture) |
-| `essay-28` | Countdown to Iran | `in_review` | 20 | [transcript](../essays/essay-28/essay-28-transcript.md) | [commentary](../essays/essay-28/essay-28-commentary.md) | [folder](../essays/essay-28/README.md) | [video](https://predictivehistory.substack.com/p/countdown-to-iran) |
-| `essay-29` | World War III Begins | `in_review` | 21 | [transcript](../essays/essay-29/essay-29-transcript.md) | [commentary](../essays/essay-29/essay-29-commentary.md) | [folder](../essays/essay-29/README.md) | [video](https://predictivehistory.substack.com/p/world-war-iii-begins) |
-| `essay-30` | The Acceleration | `in_review` | 19 | [transcript](../essays/essay-30/essay-30-transcript.md) | [commentary](../essays/essay-30/essay-30-commentary.md) | [folder](../essays/essay-30/README.md) | [video](https://predictivehistory.substack.com/p/the-acceleration) |
-| `essay-31` | Vietnam Redux | `in_review` | 19 | [transcript](../essays/essay-31/essay-31-transcript.md) | [commentary](../essays/essay-31/essay-31-commentary.md) | [folder](../essays/essay-31/README.md) | [video](https://predictivehistory.substack.com/p/vietnam-redux) |
-| `essay-32` | The US-Iran End Game | `in_review` | 22 | [transcript](../essays/essay-32/essay-32-transcript.md) | [commentary](../essays/essay-32/essay-32-commentary.md) | [folder](../essays/essay-32/README.md) | [video](https://predictivehistory.substack.com/p/the-us-iran-end-game) |
+| `essay-27` | Welcome to the Rupture | `in_review` | 1,568 | [transcript](../essays/essay-27/essay-27-transcript.md) | [commentary](../essays/essay-27/essay-27-commentary.md) | [folder](../essays/essay-27/README.md) | [video](https://predictivehistory.substack.com/p/welcome-to-the-rupture) |
+| `essay-28` | Countdown to Iran | `in_review` | 1,211 | [transcript](../essays/essay-28/essay-28-transcript.md) | [commentary](../essays/essay-28/essay-28-commentary.md) | [folder](../essays/essay-28/README.md) | [video](https://predictivehistory.substack.com/p/countdown-to-iran) |
+| `essay-29` | World War III Begins | `in_review` | 932 | [transcript](../essays/essay-29/essay-29-transcript.md) | [commentary](../essays/essay-29/essay-29-commentary.md) | [folder](../essays/essay-29/README.md) | [video](https://predictivehistory.substack.com/p/world-war-iii-begins) |
+| `essay-30` | The Acceleration | `in_review` | 1,574 | [transcript](../essays/essay-30/essay-30-transcript.md) | [commentary](../essays/essay-30/essay-30-commentary.md) | [folder](../essays/essay-30/README.md) | [video](https://predictivehistory.substack.com/p/the-acceleration) |
+| `essay-31` | Vietnam Redux | `in_review` | 1,324 | [transcript](../essays/essay-31/essay-31-transcript.md) | [commentary](../essays/essay-31/essay-31-commentary.md) | [folder](../essays/essay-31/README.md) | [video](https://predictivehistory.substack.com/p/vietnam-redux) |
+| `essay-32` | The US-Iran End Game | `in_review` | 1,288 | [transcript](../essays/essay-32/essay-32-transcript.md) | [commentary](../essays/essay-32/essay-32-commentary.md) | [folder](../essays/essay-32/README.md) | [video](https://predictivehistory.substack.com/p/the-us-iran-end-game) |
 | `essay-33` | World War Trump | `in_review` | 1,300 | [transcript](../essays/essay-33/essay-33-transcript.md) | [commentary](../essays/essay-33/essay-33-commentary.md) | [folder](../essays/essay-33/README.md) | [video](https://predictivehistory.substack.com/p/world-war-trump) |
 | `essay-34` | The US-Iran War, Round Two | `in_review` | 1,251 | [transcript](../essays/essay-34/essay-34-transcript.md) | [commentary](../essays/essay-34/essay-34-commentary.md) | [folder](../essays/essay-34/README.md) | [video](https://predictivehistory.substack.com/p/the-us-iran-war-round-two) |
 | `essay-35` | The Trump New Deal | `in_review` | 1,296 | [transcript](../essays/essay-35/essay-35-transcript.md) | [commentary](../essays/essay-35/essay-35-commentary.md) | [folder](../essays/essay-35/README.md) | [video](https://predictivehistory.substack.com/p/the-trump-new-deal) |

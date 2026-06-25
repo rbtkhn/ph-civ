@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "fingerprint": "6e7e3f14af54d955",
+  "fingerprint": "148dcc91026bbb65",
   "card_count": 189,
-  "transcript_word_total": 1271200,
+  "transcript_word_total": 1278975,
   "ssot": "data/cards.jsonl",
   "markdown_index": "docs/predictive-history-index.md",
   "surfaces": {
@@ -60,7 +60,7 @@
         "game-theory": 8,
         "great-books": 10
       },
-      "transcript_word_total": 689496
+      "transcript_word_total": 697271
     },
     "ph-apo": {
       "part": "world-war",
@@ -1899,7 +1899,7 @@
         "folder": "essays/essay-27",
         "folder_readme": "essays/essay-27/README.md"
       },
-      "transcript_word_count": 21,
+      "transcript_word_count": 1568,
       "source_video_url": "https://predictivehistory.substack.com/p/welcome-to-the-rupture",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -1920,7 +1920,7 @@
         "folder": "essays/essay-28",
         "folder_readme": "essays/essay-28/README.md"
       },
-      "transcript_word_count": 20,
+      "transcript_word_count": 1211,
       "source_video_url": "https://predictivehistory.substack.com/p/countdown-to-iran",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -1941,7 +1941,7 @@
         "folder": "essays/essay-29",
         "folder_readme": "essays/essay-29/README.md"
       },
-      "transcript_word_count": 21,
+      "transcript_word_count": 932,
       "source_video_url": "https://predictivehistory.substack.com/p/world-war-iii-begins",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -1962,7 +1962,7 @@
         "folder": "essays/essay-30",
         "folder_readme": "essays/essay-30/README.md"
       },
-      "transcript_word_count": 19,
+      "transcript_word_count": 1574,
       "source_video_url": "https://predictivehistory.substack.com/p/the-acceleration",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -1983,7 +1983,7 @@
         "folder": "essays/essay-31",
         "folder_readme": "essays/essay-31/README.md"
       },
-      "transcript_word_count": 19,
+      "transcript_word_count": 1324,
       "source_video_url": "https://predictivehistory.substack.com/p/vietnam-redux",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2004,7 +2004,7 @@
         "folder": "essays/essay-32",
         "folder_readme": "essays/essay-32/README.md"
       },
-      "transcript_word_count": 22,
+      "transcript_word_count": 1288,
       "source_video_url": "https://predictivehistory.substack.com/p/the-us-iran-end-game",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
