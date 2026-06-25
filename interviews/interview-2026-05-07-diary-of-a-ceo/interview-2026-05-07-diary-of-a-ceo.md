@@ -11,7 +11,8 @@ workshop_source_id: ext-doac-01
 interviews_episode: 16
 ingested_at: "2026-06-25"
 transcript_status: curated_transcript
-transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
+transcript_fidelity: curated_pass
 transcript_source: workshop_promotion
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -20,31 +21,36 @@ part: provenance
 part_role: provenance
 series: interviews
 ---
+fidelity_reviewed_at: 2026-06-25
+
 
 # Interviews #16: Diary of a CEO (Steven Bartlett) — World War 3 Is About To Begin
 
 ## Part I: Full transcript
+
+### cold-open-predictions-teaser
 
 In 2024, you made three predictions that have come perfectly true. Like Trump would start a war with Iran. And you've made a series of new predictions. Yes, and I'll explain each prediction one by one. Okay, so first, I predict that Trump will get a third term. But isn't this constitutionally illegal? It's not.
 The president now has emergency war powers. And so he can actually delay the election. My second prediction is Iran is now up for a war, and the United States will institute a national draft.
 Meaning that if you're between 18 and 24 in America and you're male, you'll be automatically put into the draft system.
 And they just passed a law that says that starting in December, you'll be automatically registered. Which means you're obliged to go and fight. Exactly.
 Next, the world will move towards an AI civilian state. So, everything you do online is being recorded to figure out how to control you. And then, this is the most controversial prediction. This is pretty bad. And I'll explain why. And also, I will tell you why this war can only lead to World War III. Why? There's a very strong possibility that the American empire will collapse. And also, I'll show you what the Russians will do, and how the private bankers are controlling you.
->> I'm not owned by anybody. That's what you think. So, let's talk about that.
-This is super interesting to me. My team gave me this report to show me how many of you that watch this show subscribe, and some of you have told us, according to this, that you are unsubscribed from the channel randomly. So, favor to ask all of you, please could you check right now if you've hit the subscribe button.
+**Steven Bartlett:** I'm not owned by anybody. That's what you think. So, let's talk about that.
+**Steven Bartlett:** This is super interesting to me. My team gave me this report to show me how many of you that watch this show subscribe, and some of you have told us, according to this, that you are unsubscribed from the channel randomly. So, favor to ask all of you, please could you check right now if you've hit the subscribe button.
 If you are a regular viewer of this show and you like what we do here. We're approaching quite a significant landmark on this show in terms of a subscriber number. So, if there was one simple, free thing that you could do to help us, my team, everyone here, to keep this show free, to keep it improving year over year and week over week, it is just to hit that subscribe button and to double check if you've hit it. Only thing I'll ever ask of you.
 Do we have a deal?
 If you do it, I'll tell you what I'll do. I'll make sure every single week, every single month, we fight harder and harder and harder and harder to bring you the guests and conversations that you want to hear. I stayed true to that promise since the very beginning of the Diary of a CEO, and I will not let you down. Please help us. We appreciate it. Let's get on with the show.
-Professor Dieng.
-There's so much going on in the world at the moment that it's quite confusing for an ordinary person like me, and you've blown up across the internet because you've been able to demystify all of all of this craziness, but also because in 2024, you made three predictions that have come perfectly true.
+### interview-open-predictions-and-petrodollar
+
+**Steven Bartlett:** Professor Jiang, there's so much going on in the world at the moment that it's quite confusing for an ordinary person like me, and you've blown up across the internet because you've been able to demystify all of all of this craziness, but also because in 2024, you made three predictions that have come perfectly true.
 Some might say unfortunately.
 Unfortunately, yes. What were those three predictions? My first prediction was that Trump would win in November 2024.
 Second prediction is that he would start a war against Iran.
-And the third prediction is that the United States would lose this war, and in losing this war, this would radically reshape the geopolitical landscape. How did you know that Trump would start a war with Iran? The simple answer is this. The The United States have to invaded Iran because it has no choice in the matter. If it were not to invade Iran, it would lose its empire. Its empire is based purely on US dollar, the petrodollar, which is a Ponzi scheme.
+And the third prediction is that the United States would lose this war, and in losing this war, this would radically reshape the geopolitical landscape. How did you know that Trump would start a war with Iran? The simple answer is this. The United States have to invade Iran because it has no choice in the matter. If it were not to invade Iran, it would lose its empire. Its empire is based purely on US dollar, the petrodollar, which is a Ponzi scheme.
 If it did not invade Iran, then people would choose not to trade with it anymore. People would choose to not buy US Treasuries. Why? For the longest time, this system worked fine.
 But then, in February 2022, Russia invaded Ukraine. Yeah. That wasn't the issue. The issue was the American response.
 The American response was to sanction Russia, and we moved Russia from the Swift global payment system. It also ordered the Europeans to freeze over 200 billion dollars in Russian assets. And this is a problem because the very basis for having the US dollar as the global reserve currency is that it would remain politically neutral.
-It It The Americans guaranteed seamless and politically neutral international exchange.
+It. The Americans guaranteed seamless and politically neutral international exchange.
 So, if this trend continues, right? If you don't do anything about Russia, Russia will take over Ukraine.
 And Russia then would build an alliance with China and Iran. If you look at these three countries on a map, Russia, China, and Iran, this is the entire Asian continent. And then what they can do is this. They can say, "Okay, the United States is a bully.
 They force us to play by their rules.
@@ -59,14 +65,14 @@ A lot of people say that China today, it's reliant on renewables, solar, wind. A
 So, the fact that China is losing all this energy from the Middle East presents China with a long-term strategic vulnerability.
 Okay, that's the first thing that happens.
 Second thing that happens is that Europe is now in trouble because remember, because of the of Russia's invasion of Ukraine, Russian energy was sanctioned.
-And so, Europe relied more on Middle E- on the Middle East for its energy needs, especially Qatar.
+And so, Europe relied more on the Middle East for its energy needs, especially Qatar.
 And now, Europe has lost all of this oil. So, you and then you have Japan and South Korea, these two powerful East Asia economies are also reliant on the Middle East for its energy. So, now question is if you're not getting your energy from the Middle East, where can you get your energy from? And there's only two answers.
 Either Russia or the United States.
 Russia is at war. And what's happening is the Ukrainian drones are attacking Russian oil refineries and export hubs.
 So, the world in the short-term have has no choice but to look to America for its energy needs.
 And what did Trump do recently? He took over He took over Venezuela.
 Which has the world's greatest oil reserves.
-He's threatening Canada. He's threatening Greenland, Mexico, Columbia.
+He's threatening Canada. He's threatening Greenland, Mexico, Colombia.
 If Trump controls the entire Western Hemisphere, the entire world has to beg Trump for energy and resources. And this saves both the US dollar as well as American empire. So, as part of your prediction in in 2024, I believe it was, you said that the US would lose this war, right?
 Why did you predict that the US will lose this war with Iran?
 Because the the American society does not does not have the political will.
@@ -84,9 +90,13 @@ So, in Trump's mind, he wanted to replay this the Venezuela scenario.
 And he didn't realize that Iran is fundamentally different from Venezuela.
 The short answer is he is a reality TV star. He thinks in terms of optics. He doesn't think in terms of like geopolitical strategy. The long answer is that the American military has become a very corrupt and insular institution that is trying to generate as much commercial funding as possible in order to fund the military-industrial complex.
 Did he think that he was going to bomb Iran, the people would rise up, they would elect a new government, and that would be that, and then he could control Iran?
-That's exactly what he thought. So, what I want to do now is go to the map.
->> Okay. All right? And I'll show you what he got wrong.
->> Okay. All right. So, this is a map of the Middle East.
+That's exactly what he thought.
+
+### iran-topography-attrition-and-hormuz
+
+So, what I want to do now is go to the map.
+**Steven Bartlett:** Okay. All right? And I'll show you what he got wrong.
+**Steven Bartlett:** Okay. All right. So, this is a map of the Middle East.
 And the first thing to notice about this map is the topography.
 What does that mean? How many mountains you have. So, this is What's really interesting is that the topography between Iraq and Iran are completely different.
 And this is important because to In 2003, the Americans invaded Iraq, and they won the war in about 2 weeks. And the reason why they won the war is Americans practiced something called shock and awe.
@@ -110,17 +120,19 @@ Second thing that Trump got got wrong is how vulnerable the global economy is.
 Because the Iranians can control something called the Strait of Hormuz.
 Okay? And as you can see on this map, the Strait of Hormuz is a very very narrow piece of land. It's only about 33 km across.
 You can actually swim across the Strait of Hormuz.
-Okay? And what's important is that the GCC export 20% of the world's energy. The GCC The Gulf Cooperative Council. Okay? So, the Gulf Cooperative Council are certain nations in the Middle Middle East that align politically. So, they include Qatar, Saudi Arabia, uh the UAE, Oman, Iran, Kuwait.
+Okay? And what's important is that the GCC export 20% of the world's energy. The GCC The Gulf Cooperation Council. Okay? So, the Gulf Cooperation Council are certain nations in the Middle Middle East that align politically. So, they include Qatar, Saudi Arabia, uh the UAE, Oman, Iran, Kuwait.
 They've been exporting energy.
 But not just energy, but also a lot of byproducts of of energy production including fertilizer to the world, primarily East Asia and India.
 In return, they've been getting um food back. So, most people don't don't don't appreciate this, but the GCC actually imports 89% of its food needs. The the reason why is that they become so rich these past few decades that the populations have um blown up.
 And as a result, they have to feed the population, but they don't have agricultural resources.
 They also don't have water resources.
 And so, they have two major vulnerabilities, which is food and water. And they have a lot of these other these desalination plants around the area.
-And so, >> What's a desalination plant?
->> Okay.
-So, a desalination plant takes salt water from the seas, and then through an electrochemical process, turns it into portable water that people can use uh for drinking purposes and for agricultural purposes.
->> Okay.
+And so,
+
+**Steven Bartlett:** What's a desalination plant?
+**Steven Bartlett:** Okay.
+So, a desalination plant takes salt water from the seas, and then through an electrochemical process, turns it into potable water that people can use uh for drinking purposes and for agricultural purposes.
+**Steven Bartlett:** Okay.
 Right? So, as you can see, the entire area it is extremely vulnerable to drone and missile attacks from Iran.
 So, that's the second thing that Iran has done, which Trump did not expect. He didn't expect that the Iranians would close off the Strait of Hormuz. And how the Iranians were able to close off the Strait of Hormuz was just by threatening to attack any ships that wanted to cross it. The reason why is that the ships depend on maritime insurance in order to operate.
 But if there's a risk, a very high risk of being destroyed, then um you will not be able to get insurance.
@@ -128,8 +140,10 @@ Okay. So, it's not that the Iranians have said to these ships, "You can't cross.
 And Trump didn't Do you think they'd consider this before they started bombing Iran? That Iran would have some leverage in shutting down such a critical piece of uh water for, you know, shipping fertilizer, energy, etc. You think that they would have known this.
 Right, so that's what a lot of people say, that Trump's stupid, that Trump is hot-headed, that he was misled by the Israelis.
 And there's good evidence to support this.
+### national-defense-strategy-western-hemisphere
+
 But I want to show you something. Okay, it's it's called the National Defense Strategy. All right?
-And so this is a document that was published by the Department Department of War.
+And so this is a document that was published by the Department of War.
 And in it, it explains what the American strategy to maintain global dominance is.
 And in the introduction, what it says is that for too long, America has been bullied by the war world. America is a nation that protects the world.
 Yet Europe, East Asia, takes advantage of American generosity.
@@ -167,7 +181,7 @@ And the fourth one? And the fourth one is to um rejuvenate, reinvigorate Am- Ame
 Yes. All right? So, what this means is that the Pentagon, a few weeks ago went to Detroit and talked to Ford and General Motors and said, "You know what?
 Because of this war in Iran, we might need you to stop making cars and start making more munitions and drones." How do you know they said that? It's They published it. They published it, yes.
 Really? Yes.
-So, the United States went to Forbes and GM and said, "We might need you to start making weapons with your factories." Yes, and they're happy doing this because profit margins are much greater for weapons than for for cars. This is the Pentagon, so you can charge them as you can charge them as much as you want and they'll pay for it. Whereas, you make cars, it's for the consumer market and they may not buy your cars. Mhm.
+So, the United States went to Ford and GM and said, "We might need you to start making weapons with your factories." Yes, and they're happy doing this because profit margins are much greater for weapons than for for cars. This is the Pentagon, so you can charge them as you can charge them as much as you want and they'll pay for it. Whereas, you make cars, it's for the consumer market and they may not buy your cars. Mhm.
 Right? So, so you're like Ford or General Motors, the best deal in the world is to go make weapons for the Pentagon to fight these wars in the East that could go on for forever.
 So, so so we're in a situation where okay, look, if you read the news, if you talk to a lot of people, Trump's an idiot and this war in Iran makes no sense at all.
 But, then if you just read the National Defense Strategy that is on the Department of War website and anyone can go there and download for free and read themselves, it's a very clear road map of what America needs to do in order to maintain imperial hegemony. And so, let's let's let's just summarize the major points. The first major point is to maintain control over the Western Hemisphere and create a fortress America. Which is why he invaded Venezuela and he said he's going to invade Cuba. Exactly. And also Greenland. Look at all the countries that he's named over the past year.
@@ -183,10 +197,14 @@ Hm.
 So, the war is going well for Trump.
 The war is going very well for Trump.
 Really? Yes.
+### war-phases-ground-troops-and-irgc
+
 But you said in your prediction that he would lose the war.
-What is >> What's your definition of lose the war?
+What is
+
+**Steven Bartlett:** What's your definition of lose the war?
 Losing a war means that America would send ground troops, Iran would survive the ground invasion, and this would be so politically damaging that chaos breaks out in the United States, and the US ground invasion is forced to retreat, and the United States is forced to retreat from the Middle East. And you still think that's going to happen?
->> I still think that's going to happen.
+**Steven Bartlett:** I still think that's going to happen.
 So, you think the United States is going to put ground troops in, Iran are going to resist, and then chaos is going to break out in the United States? Yes.
 Okay. So, let me explain to you why ground troops have to be sent. I mean, all right. Okay.
 So, in phase one of this war, which started February 28th, and which lasted for about 6 weeks, the intention was to decapitate the regime. And you do that by striking Tehran, and you do that by striking the military bases and installations throughout Iran. It's It's what the Americans call shock and awe.
@@ -223,7 +241,9 @@ The first problematic people are the called Baluchis, here.
 Uh in south east uh Iran, by the Pakistani border. They have a history of insurgency against the government, okay?
 Second people that have been problematic are the Kurds, who are primarily in the uh northwest of the country.
 So, if you are the US government, if you are the military, your strategy is to establish forward operating bases in these areas.
-A forward operating base is uh a spearhead of the military, where you insert ground troops to hold an area Okay, so you >> in order to resupply, in or- in order to push further into the territory. Okay, so a forward operating base would be the US putting troops into the the northwest and the southeast, and then using that as a way to uh move forward into Iran? No, you don't want to move forward into Iran because it's too large. You don't have enough forces to move into Iraq. What you want to do is this. You want to establish forward operating bases in these areas in order to arm and train ethnic insurgents. Okay. That you can also finance as well.
+A forward operating base is uh a spearhead of the military, where you insert ground troops to hold an area Okay, so you
+
+**Steven Bartlett:** in order to resupply, in or- in order to push further into the territory. Okay, so a forward operating base would be the US putting troops into the the northwest and the southeast, and then using that as a way to uh move forward into Iran? No, you don't want to move forward into Iran because it's too large. You don't have enough forces to move into Iraq. What you want to do is this. You want to establish forward operating bases in these areas in order to arm and train ethnic insurgents. Okay. That you can also finance as well.
 And you do this because you want to turn them into cannon fodder.
 You force You have to force a response from the Iranian military. Right? So, if they come in with the army in order to quell these rebellions, that's great because now you can use your air power to decimate the Iranian military. Your plan right now is the Iranian Iranian military is hiding inside mountains.
 And so, you want to force them out in the open.
@@ -242,17 +262,17 @@ Right now, there's a debate as to the true extent of leadership in Iran. Cuz Tru
 And then there's a parallel system, the state apparatus, that actually takes care of day-to-day bureaucracy. Okay, and that's secular.
 Uh the mullahs control the morality of the country, they also control foreign affairs. So, basically, uh this is important because Iran has two parallel military structures. You have the military, but you also have the IRGC.
 The IRGC are only loyal to the mullahs, which is the religious part.
->> Exactly. All right? So, you have this divide in the in the country where the IRGC see this as a religious war, as a crusade to kill the Great Satan, and they want to fight to the death. And the Great Satan is The Great Satan is the American Empire. Okay. Uh which is the source of the misery that Iranians have been suffering for the past few decades.
-And the IRGC, not only do they see America as the Great Satan, but they also see this as a global conflict because they have proxies that support their beliefs, including here in Lebanon, Hezbollah, including here in Yemen, the Houthis, and of course in Palestine, Hamas. Okay, and and before Syria was also part of their axis of resistance. But Syria has been toppled by the Americans and and Israelis. So, the IRGC see this as a religious crusade that is global in nature. The political leadership in Tehran sees it completely different. They see this as a classic primary between America and Iran, and they want to reach a political settlement as soon as possible.
+**Steven Bartlett:** Exactly. All right? So, you have this divide in the in the country where the IRGC see this as a religious war, as a crusade to kill the Great Satan, and they want to fight to the death. And the Great Satan is The Great Satan is the American Empire. Okay. Uh which is the source of the misery that Iranians have been suffering for the past few decades.
+And the IRGC, not only do they see America as the Great Satan, but they also see this as a global conflict because they have proxies that support their beliefs, including here in Lebanon, Hezbollah, including here in Yemen, the Houthis, and of course in Palestine, Hamas. Okay, and and before Syria was also part of their axis of resistance. But Syria has been toppled by the Americans and and Israelis. So, the IRGC see this as a religious crusade that is global in nature. The political leadership in Tehran sees it completely different. They see this as a classic rivalry between America and Iran, and they want to reach a political settlement as soon as possible.
 And so, in other words, these ceasefire negotiations, it's really all for show.
 Because, at the end of the day, even if the Americans gave the Iranians everything they wanted, the IRGC still controls um the battlefield, and they would not um surrender or or seek peace terms lightly. Another problem in this situation is the IRGC practices only called the Mosaic strategy. Mosaic.
 The idea of the Mosaic strategy is, okay, you know the Americans the most effective military ever in human history. You know that they practice shock and awe, decapitation.
 So, how do you respond to that? You respond to that using decentralization.
 31 provinces in the country with where own command and control that is localized. So, basically, they have 31 different armies that have their own leadership.
->> That's correct, okay? And when you do this, it's a fight to the finish. Why did they do that? They did it because the Americans possess the most sophisticated surveillance technology in the world, meaning they can easily identify the leadership, and they can easily track you down and kill you.
+**Steven Bartlett:** That's correct, okay? And when you do this, it's a fight to the finish. Why did they do that? They did it because the Americans possess the most sophisticated surveillance technology in the world, meaning they can easily identify the leadership, and they can easily track you down and kill you.
 So, the only way around that is to decentralize the leadership and spread it around the country so that the Americans cannot kill the everyone. How does the central government orchestrate 31 different armies in Iran? How does it get a message out to them? I heard Peter Hegseth make a a comment in one of the interviews saying that it takes some time for the pigeons to get out to the armies. And what he was saying, basically, is that um when the ceasefire was called and there were still some um missiles flying, he was basically saying that's just because it takes a long time to tell the 31 different armies to stop.
 The reality is that, given the Mosaic strategy, there's actually no way to coordinate these 31 different military operations.
-Because the Mojahedin was meant to the was meant to fight to the bitter end. You do not stop until you completely control the Middle East and the Americans have been forced out of the Middle East and Israel has been humbled.
+Because the Mosaic strategy was meant to fight to the bitter end. You do not stop until you completely control the Middle East and the Americans have been forced out of the Middle East and Israel has been humbled.
 Okay. So, let's go into the specifics of what the Mojahedin is. The idea is that they have an eschatology.
 Okay? So, eschatology is an understanding of how the world should be and how we move towards this world.
 And for the Iranians, their eschatology is that Iran, in order to reach its true potential, needs to be master of the Muslim world.
@@ -264,11 +284,15 @@ Overthrow the corrupt governments of the entire Muslim world.
 And install governments that put God, Allah, first.
 So, they're they're not going to quit.
 Iran.
-This war, once it starts, can only to World War III.
+This war, once it starts, can only lead to World War III.
 That's a strong statement to make. As a probability, Okay. what probability would you assign to that claim?
 I would put it pretty high, anywhere between 80 to 90% probability.
->> So that's certainty.
-Basically certainty, yes. Explain to me how that happens. Okay. So, we need to step back and appreciate um that there's a global dynamic going on.
+**Steven Bartlett:** So that's certainty.
+Basically certainty, yes.
+
+### chess-grand-strategies-and-wwiii-players
+
+Explain to me how that happens. Okay. So, we need to step back and appreciate um that there's a global dynamic going on.
 Mhm. Okay?
 And we need to appreciate the grand strategy of the different players involved. Mhm. Right? So, what I what I'm going to do is this.
 I'm going to explain to you how each nation sees itself in the world. Mhm. Okay? And to you and to that, I'm going to use a chess set, okay? Okay. All right. This is the king.
@@ -296,7 +320,7 @@ And an autocracy is good because it allows for coordination. It allows for decis
 What's bad is if this guy dies, there's a succession crisis.
 Right? So, basically, once you topple the autocrat, then the system itself breaks down. Okay, so that's the Russian system, right?
 For the Russians, the grand strategy is something called the Third Rome strategy. The Third Rome strategy?
->> Yes. Okay. So, the people in Russia believe that they are the true successors to the Roman Empire. And previously, there were two Romes. There was the First Rome, then it moved to Constantinople, and Moscow is destined to the to be the Third Rome. And what makes Moscow interesting is that it wants to unite the entire Christian world under its leadership. Um the main philosopher for the Third Rome strategy is Alexander Dugin, who in 1997 wrote a wrote a book called Foundation of Geopolitics. And what he said was this. What he said that if Russia is to defeat the Americans, it needs to build alliances throughout Eurasia in order to negate American sea power and air supremacy.
+**Steven Bartlett:** Yes. Okay. So, the people in Russia believe that they are the true successors to the Roman Empire. And previously, there were two Romes. There was the First Rome, then it moved to Constantinople, and Moscow is destined to the to be the Third Rome. And what makes Moscow interesting is that it wants to unite the entire Christian world under its leadership. Um the main philosopher for the Third Rome strategy is Alexander Dugin, who in 1997 wrote a wrote a book called Foundation of Geopolitics. And what he said was this. What he said that if Russia is to defeat the Americans, it needs to build alliances throughout Eurasia in order to negate American sea power and air supremacy.
 All right?
 So, what are the attack vectors for Russia? Okay.
 The first attack vector, the size of the country makes it almost invincible. So, think about the World War II, Operation Barbarossa, the Germans went into Russia with 6 7 million men, and it didn't get very far, okay? So, the terrain is very important. The geography is very important.
@@ -338,13 +362,15 @@ Hezbollah, Hamas, the Houthis.
 Another attack vector um is their asymmetrical warfare, meaning using drones and missiles to create as much economic damage as possible. Mhm. Okay. And the third attack vector is their geography or the topog- topography. They are a fortress, so it's almost impossible to um in- invade them.
 All right? So, that's their Shia militiamen. These religious zealots who are not afraid to die. Um essentially, they're all Many of them could be suicide bombers, okay? And and so, for them, this is a religious war. Okay. So, now we're seeing how this entire battlefield unfolds across the world.
 All right? So, I've mapped out the grand strategy of these different nation-states who will be involved in World War III.
+### global-chokepoints-russia-shadow-fleet
+
 Let's look at our present situation, okay? So, what we have so far is that the Russians are occupied with their army in Ukraine.
 Okay? This is where their infantry, their artillery is based.
 At the same time, Russia has something called the shadow fleet.
 And these are about a thousand um tankers that evade sanctions around the world. Okay? And this is essentially their navy.
 America is the most powerful military in the world. They have the most sophisticated air supremacy, as well as control over the sea lanes. And it tries not to use infantry uh because that creates civilian casualties and that pisses everyone off in America. Okay?
-These releases are essentially a mercenary army aligned with American Empire, doing the bidding of American Empire. It's fighting in against Lebanon as well as Iraq.
-The Iranians, they don't have much of an air force, but they use a lot of drones to threaten. So, this is where we are so far. According to the grand strategy, we can predict how they will make their moves over next few months, over next few years. America doesn't really care about this war in Iraq.
+The Israelis are essentially a mercenary army aligned with American Empire, doing the bidding of American Empire. It's fighting in against Lebanon as well as Iraq.
+The Iranians, they don't have much of an air force, but they use a lot of drones to threaten. So, this is where we are so far. According to the grand strategy, we can predict how they will make their moves over next few months, over next few years. America doesn't really care about this war in Iran.
 Because what America wants to do is force entire world to become dependent on American weapons and resources.
 And you do that in two ways. The first is you control the strategic choke points of the world.
 And they include the Strait of Hormuz, but you also want to control the Strait of Malacca, over here. Because that blocks off East Asia. You also want to control the Panama Canal.
@@ -358,7 +384,7 @@ The Russians have no choice but to respond.
 Because if the Americans are controlling the strategic choke points, your shadow fleet is rendered redundant, useless.
 So, how do you ship your oil around the world? We have two options.
 I'm just going to build railways to unite the Eurasian continent, okay? And I'm I'm I'll transport my oil using pipelines and railways. The problem with that is now is now that you're vulnerable to American air supremacy, drone attacks.
-So, you have no choice but to arm your shadow fleet. And now, what's going to happen is this continent of oceans between Russian shadow fleet tankers that are trying to transport oil around the world, and these American destroyers were trying to capture or destroy the shadow tankers.
+So, you have no choice but to arm your shadow fleet. And now, what's going to happen is this confrontation on the oceans between Russian shadow fleet tankers that are trying to transport oil around the world, and these American destroyers were trying to capture or destroy the shadow tankers.
 Now, the advantage that Russia has is that America doesn't have that much naval assets anymore. It used to, but not anymore.
 The other thing is that the world really needs energy, so you can imagine China financing the militarization of the Russian shadow fleet. Why would sir, why to the US try and stop Russian boats?
 Because um in this global outlook there are two nations that could provide weapons and resources to the rest of the world.
@@ -376,16 +402,20 @@ US forces captured the sanctioned tanker during a pre-dawn raid directly in the 
 These seizures are part of operation Southern Spear, a strict enforcement of the US embargo on Venezuelan oil exports. Both vessels were targeted for violating US sanctions by transporting illicit crude oil linked to Venezuela as well as Iran and Hezbollah.
 And as you point out, this is an act of war.
 So, those were ships that didn't have a country linked to them directly. That's why they call shadow fleet tankers.
-Okay. Yes, but they're essentially Russian. But they were essentially shipping oil outside of the United States the United States wouldn't control. Is that kind of >> That is correct, yes. Okay.
->> Yes. So >> So if the US said, "Listen, this is our oil get lost." That is correct, yes.
+Okay. Yes, but they're essentially Russian. But they were essentially shipping oil outside of the United States the United States wouldn't control. Is that kind of
+
+**Steven Bartlett:** That is correct, yes. Okay.
+**Steven Bartlett:** Yes. So
+
+**Steven Bartlett:** So if the US said, "Listen, this is our oil get lost." That is correct, yes.
 Right? So what the US is doing is slowly expanding its global reach. And what it's doing that is by signing treaties with nations that are part of these choke points. So the Strait of Malacca, which the United States has signed a military cooperation agreement with Indonesia.
 And with the Strait of Gibraltar, uh the Americans have signed an agreement now with Morocco.
 Right? So they are looking for the legal framework and certification to control the world's choke points, which would bring them directly in conflict with the Russian shadow fleet. So at some point you think the way that the war starts is the US Navy attacks a Russian boat.
-So I personally believe that this will be a drawn-out process that and there's no real concrete flash point. Because not only are Russian shadow flanker shadow fleet tankers being seized, but remember Russian oil farmers are being destroyed by Ukrainian drones. And the Russians believe that it is NATO that is responsible for the sabotage. So what what what do you think the catalyst moment is when this all kicks off? I think we're already in the catalyst moment. I think we're we're already in World War III because this conflict it's going to expand outwards uh into a global conflict and there's nothing anyone can do to stop this, right? Because again, you have these different competing visions of how the world should work and the Russians and Americans are already at conflict with each other.
+So I personally believe that this will be a drawn-out process that and there's no real concrete flash point. Because not only are Russian shadow fleet tankers being seized, but remember Russian oil refineries are being destroyed by Ukrainian drones. And the Russians believe that it is NATO that is responsible for the sabotage. So what what what do you think the catalyst moment is when this all kicks off? I think we're already in the catalyst moment. I think we're we're already in World War III because this conflict it's going to expand outwards uh into a global conflict and there's nothing anyone can do to stop this, right? Because again, you have these different competing visions of how the world should work and the Russians and Americans are already at conflict with each other.
 So the next step will be the Russians come into this war on the side of the Iranians. You think that's going to happen? I think that's going to happen because according to Russian grand strategy, you have no choice but to save the Iranians.
 Because you're trying to promote this view that the world is split between the spiritual and the material. The Americans are the Antichrist. The Americans support individual hedonism, whereas we Russians, we believe in humanity. We believe in goodness. We believe in community. Right? So, if you believe if you that is your argument, if that's your grand strategy, you have a more obligation, a more imperative to help the Iranians in their time of need.
-And in fact, Prime Prime Minister Araghchi of of Iran has recently visited Putin in Moscow. Putin Putin personally received him and said to Araghchi, "We, the Russian people, admire your determination, your resolve um against the Americans." And I think that is a sign that Putin has entered the chat and that the Russians will start to help the Iranians as this war progresses. So, let's go back to this map, okay?
->> Okay. And the Americans have a three-pronged strategy to strangle um Iran.
+And in fact, Foreign Minister Araghchi of of Iran has recently visited Putin in Moscow. Putin Putin personally received him and said to Araghchi, "We, the Russian people, admire your determination, your resolve um against the Americans." And I think that is a sign that Putin has entered the chat and that the Russians will start to help the Iranians as this war progresses. So, let's go back to this map, okay?
+**Steven Bartlett:** Okay. And the Americans have a three-pronged strategy to strangle um Iran.
 The first is to use ground forces to establish forward operating bases to incite ethnic violence in the country.
 The second is to block all the shipping moves and cut off Iranian financing. The third is to strangle Iran and cause the people to rise up like against the government, okay?
 And the Russians So, if things stay the stay as they are now, America wins. Easily.
@@ -399,7 +429,7 @@ And now the Americans need to expand this war around the world to try now to top
 Because the Russians are the main backers of the Iranians.
 And you're predicting that Russia will get involved here. According to the grand strategy of Russia, the Russians have no choice but to get involved because what will happen is that if you look at this map, if Iran were to be conquered by the Americans or the Israelis, the entire southern flank of the Russians were now exposed to possible attack. And that's that's something that the Russians would never allow to happen.
 The sovereign flank, so what this from underneath?
->> Basically, right?
+**Steven Bartlett:** Basically, right?
 Right? But not only that, but the Americans already have close relations with Azerbaijan.
 And they already have bases in Turkmenistan as well as Uzbekistan, right? So, you can see how once the Americans control this area, they can now attack Russia from the south. But, what's most important is the issue of global trade, where like a counter to America's naval blockade is by creating a Eurasian trade block that involves Iran, Russia, and China. You look at Russia's north-south corridor, right?
 You look at China's If you look at Russia's north-south corridor, it runs through Iran. If Russia wants to have access to the Middle East as well as Africa, it has to go through Iran. Look at China's Belt and Road Initiative, it goes through Iran as well.
@@ -409,20 +439,24 @@ It puts all of our inventory, payments, and analytics in one place, and has so m
 That's shopify.com/bartlet, and don't tell anybody.
 I run multiple companies that have multiple sales teams. And one of the things as a founder of a company that's often confusing is you find it hard to figure out where sales are. So, about 10 years ago, I started using Pipedrive in my former company, and it's also the reason why I switched over all of my commercial teams in my current media company called steven.com to use Pipedrive as well. Not only do they sponsor this show, but they've been an incredibly effective way of scaling our sales engine over the years. Pipedrive is an easy-to-use intelligent CRM, and at its very core, it makes your sales process visible through one dashboard, a visual pipeline showing every deal, what stage it's in, what needs to happen next, and it's all in real time with no delay. It doesn't magically close the deal for you, of course, but it does replace complexity with clarity. If you want to join over 100,000 companies already using Pipedrive, you can use my link for a 30-day free trial with no credit card payment needed. Head to pipedrive.com/ceo to get started. That's pipedrive.com/ceo.
 I'll see you over there.
+### timeline-trump-term-limits-and-forever-war
+
 So, when do you think this was going to happen? If you get it where to give me a timeline of events you think are going to occur.
 What timeline do you think you're operating under? I guess one of the factors here is that Trump only has what, 3 years left in power.
 So, you know, he's presumably going to leave power at some point soon. So, if you were around, you might just want to play it out and hope that there's a different leadership in place by by 20, what, be 2030?
 The political leadership in Iran believe that they can wait Trump out. So, they're waiting for the midterms, because they believe that in November, the Democrats will win in the midterms, and then they'll impeach Trump.
 And basically constrain his capacity to fight wars.
-And worst case scenario Trump will be gone in 2020 as you point out.
+And worst case scenario Trump will be gone in 2028 as you point out.
 There's some problems with this. The first major problem is the national defense strategy which we looked at previously.
 The national defense strategy, it is a long-term strategic framework for how America can control the world.
 And so one possibility is that Trump is just creating enough chaos for America to to transition. When the Democrats come to power, if they come to power, they will institutionalize the strategy. And we know this as a possibility because in Trump's first term he changed America's strategy around the world.
-And then when Biden came into power he then institutionalized the strategy uh via V China. Right? So it was Trump who launched these this terror war against China. And then Biden comes in power, he institutionalizes it.
+And then when Biden came into power he then institutionalized the strategy vis-a-vis China. Right? So it was Trump who launched these this terror war against China. And then Biden comes in power, he institutionalizes it.
 Right? So I think World War III, it's a much more long-term uh war of attrition. And I don't think that this war um will end anytime soon.
 You've made a series of new predictions.
+### eight-predictions-trump-third-term-and-ai-state
+
 You've made eight new predictions.
->> Okay.
+**Steven Bartlett:** Okay.
 And I have them in this box here. Okay.
 I'll let you review what those predictions are. Okay.
 Um this is one prediction.
@@ -458,7 +492,7 @@ Okay. And it could also be Jared Kushner or someone else, right? It doesn't have
 Well, I think there's a possibility that they figure out how to cheat in 2028.
 Oh, as in actually cheat the election.
 Right. So, At the poll booth.
->> Right. So, let's go into Trump's mind, all right? His his psychology.
+**Steven Bartlett:** Right. So, let's go into Trump's mind, all right? His his psychology.
 In his mind, he won in 2020.
 The people voted for him.
 But the Democrats stole the election with mail-in ballots and by rigging the election machines.
@@ -467,11 +501,13 @@ So, in his mind, he believes that this is actually his third term, and the peopl
 He wants uh compensation for having the election stolen from him in 2020.
 I find it really um really implausible to think that Trump would run and would run for a third time.
 So, again, this is a prediction.
->> Yeah. And it is a test of the validity of my theoretical framework.
+**Steven Bartlett:** Yeah. And it is a test of the validity of my theoretical framework.
 I was looking at some of the the constitutions and the laws, and it says that the 22nd Amendment explicitly states, "No person shall be elected to the office of the president more than twice." Some theorists have tried to argue that since the amendment says elected, a person might be able to serve a third time if they were appointed to succeed to the role.
-He's not >> If they were appointed or succeeded to the role, e.g., by being vice president first.
+He's not
+
+**Steven Bartlett:** If they were appointed or succeeded to the role, e.g., by being vice president first.
 Legal scholars and the judicial community almost universally reject this. The 12th Amendment requires that anyone serving as vice president must be eligible to be president. Since a two-term president is ineligible to be elected again, they're legally barred from being vice president. So, the point is there's nothing explicit in the constitution that bars someone from having a third term. Mhm. And there's debate in the legal community about the spirit of the 22nd Amendment. It would go to the Supreme Court, right?
->> And the Supreme Court's controlled right now by the conservatives. Trump Trump appointed three of the nine justices, and there's a possibility he gets a fourth later in the year.
+**Steven Bartlett:** And the Supreme Court's controlled right now by the conservatives. Trump Trump appointed three of the nine justices, and there's a possibility he gets a fourth later in the year.
 So, it's entirely up to the Supreme Court whether or not he can run. And again, there's nothing explicit in the constitution that forbids him from running as vice president. Okay.
 What's your next prediction?
 The My second prediction is there'll be a grand bargain between the United States and China. What does that mean?
@@ -507,13 +543,13 @@ From when? I mean, from December. This year? Yes, that that is correct. Yes.
 So, between the age of 18 and 25, you think? And what does that What does that really mean? Well, I've never not really experienced that in my lifetime. So, it means that if you're between the age of 18 and 24, either gender? No, male.
 Male, then you have to sign up for the army.
 No, you're already put into a draft.
->> Oh, you're already Okay, but you might be called upon. That's right. It's a lottery system. Okay. Right.
+**Steven Bartlett:** Oh, you're already Okay, but you might be called upon. That's right. It's a lottery system. Okay. Right.
 And uh this created a lot of backlash during the Vietnam era.
 And so, they sort of toned it down.
 But, starting in December, they just passed a law that says that starting in December, um you will be automatically registered for for the They've passed them all.
 Yes, they have.
 Well, in theory, Congress first needs to declare war. Okay, fine.
->> Right? That's the first step. And Congress has not actually declared war yet. Okay. So, you think there'll be a draft and you think this will This war in Iran is going to trickle on for a long time. How long? 10, 20 years?
+**Steven Bartlett:** Right? That's the first step. And Congress has not actually declared war yet. Okay. So, you think there'll be a draft and you think this will This war in Iran is going to trickle on for a long time. How long? 10, 20 years?
 Like Afghanistan or I don't see it stopping. Okay. Yeah.
 What's next in your prediction box?
 Okay.
@@ -532,7 +568,7 @@ And then I can figure out your thinking.
 Right? And then I can create incentives in order to guide and control your behavior. So, in China, can they see everything that you do?
 Yes, they can.
 Messages you send? Everything. Payments you make?
->> Everything.
+**Steven Bartlett:** Everything.
 Everything.
 Everything you do online is being recorded and is being inputted into the database to figure out who you are, what you want, and how to control you.
 And they think this is progress, by the way.
@@ -547,12 +583,14 @@ Huh.
 What's your next prediction?
 Israel will achieve the greater Israel project. So, you think Israel are going to conquer the Middle East?
 Israel has essentially already conquered the Middle East. The only force in their way right now is America.
+### israel-greater-israel-nato-odessa
+
 So, once America leaves the Middle East, which I expect to happen, then Israel will absorb CENTCOM, which is the um Central Command, the American military bases in the Middle East, and they will achieve the greater Israel project.
 There's no other power in in Middle East that can withstand the might and power of Israel.
 And do you have a timeline for this?
 The moment America quits this war against Iran, the moment that America leaves the Middle East, Israel will achieve the greater Israel project. And what's really interesting right now is that Israel's trying to drag this war out for as long as possible because they see this war as a way to destroy all its major enemies in the um Middle East. You know, they It's really It's already said this.
 After Iran, Turkey is next.
->> Turkey, hm.
+**Steven Bartlett:** Turkey, hm.
 Turkey is next. This war is already destroying Saudi Arabia and the GCC, right? So, the last opponent is Turkey.
 Once Turkey is brought into this war, then Israel will achieve the greater Israel project.
 And the greater Israel project covers all of this region here from Turkey, Egypt, Yemen, Oman. Is so the greater Israel project is like this, okay? So, it goes from the Nile in Egypt to the Euphrates in Iraq. And it covers part of Turkey, all Syria, all Lebanon, all Jordan, and parts of Saudi Arabia, which also includes Mecca and Medina.
@@ -569,7 +607,7 @@ Okay, so they'll control the Black Sea.
 That's right. But NATO recognizes that if Odessa falls to the Russians, the war is over.
 And Russia will have achieved all its major strategic objectives. Why is the war over?
 Because Russia doesn't want to continue on after Odessa. It doesn't need that of of Ukraine.
->> Like what does it get from taking Odessa?
+**Steven Bartlett:** Like what does it get from taking Odessa?
 Once they take Odessa, control of 1/3 of the world's carbohydrates.
 If Russia willed it, Africa would starve to death.
 The Middle East would starve. Why?
@@ -577,6 +615,8 @@ Because Russia and Ukraine export a lot of grain to these places. These places a
 Okay. And Russia's using the the Black Sea here to export. Exactly. Okay.
 What is your next prediction? This is the last one.
 Please be good.
+### east-asia-flashpoints-north-korea
+
 Okay. I was hoping for an optimistic one. But East Asia breaks out into conflict.
 Okay, what do you mean by that? Okay.
 So, we've talked a lot about the Middle East and we've talked briefly about Europe, okay? So, now let's go into East Asia.
@@ -588,7 +628,7 @@ And that's a policy that Japan cannot permit. So Japan would fight to ensure tha
 Would they actually? Because China is so strong, right? Can they just knock Japan straight out? Japan has no choice but to fight because again if China and Taiwan were to unify peacefully Japan would be cut off from the entirety of Southeast Asia. And Japan relies on Southeast Asia historically for resources.
 Why would it be cut off from Southeast Asia? Can't it just go go down here to through the Philippines?
 There's a lot of resources around the South China Sea. Okay. Right. Oil, minerals, all of that. Yeah.
->> Um so if China and Taiwan were to uh unify basically uh Japan would feel a bit threatened.
+**Steven Bartlett:** Um so if China and Taiwan were to uh unify basically uh Japan would feel a bit threatened.
 And your prediction is that there will be some kind of conflict in this region.
 Yeah, so so that's the first flashpoint, okay? Taiwan. There's another flashpoint, which is Strait of Malacca, right? Because again, America wants to control the Strait of Malacca, but China recognizes that the Strait of Malacca is key to its economic survival. And so there's a lot conflict over the Strait of Malacca, okay? That's flashpoint number two.
 The third flashpoint, which I think would be the most surprising but actually will be the most uh pressing is North Korea.
@@ -618,6 +658,8 @@ South Koreans are rich.
 They are used to democracy. They use individual rights.
 So, if I threaten to blow your city up, you're telling me you won't bribe me not to do so?
 Isn't Isn't the fastest, quickest way is to bribe me not to cause trouble for you? Okay, so you think they're going to bribe them? Extortion. This is extortion. I don't need to destroy South Korea. All I need to do is is basically threaten the South Koreans, and they'll just like bribe me not to do anything.
+### community-hope-bronze-age-collapse
+
 So, what does all of this stuff mean for the average person?
 You know, people listening right now, they're just normal people. A lot of them. Not all of them, but a lot of them are just normal people getting on with their lives and they care about their families, their their jobs, their futures. What does What what message have you got for them?
 In this new world, we will need leaders.
@@ -631,7 +673,7 @@ But, don't fear because if we come together as a community, if we go and knock o
 And one of us will help everyone else figure out how to find water or how to build a better society. And we know this because historically this has always been true. When empires collapse, infrastructure collapses. Which empire do you think is collapsing? The United States empire?
 Uh the United States empire is collapsing, yes.
 And who is taking its place? No one can take the place of American empire. So, we live in a unipolar moment. And the closest historical analogy to today is something called the Bronze Age collapse. The Bronze Bronze Age.
->> The Bronze Age collapse. This happened um about over 3,000 years ago.
+**Steven Bartlett:** The Bronze Age collapse. This happened um about over 3,000 years ago.
 And what happened during the Bronze Age collapse is that you have these established kingdoms throughout the Middle East and Europe.
 You have Mycenaean uh Greece. You had the Hittite uh Empire in Anatolia, which is present-day Turkey. You had uh the Mesopotamian Empire and the Egyptians.
 Um and one by one they collapsed. The reason why was that a perfect storm of calamities came at the same time. There were earthquakes.
@@ -656,6 +698,8 @@ And but the moment we're presented with crisis, the moment that we find our fami
 Make sure you keep what I'm about to say to yourself. I'm inviting 10,000 of you to come even deeper into the Diary of a CEO. Welcome to my inner circle. This is a brand new private community that I'm launching to the world. We have so many incredible things that happen that you are never shown. We have the briefs that are on my iPad when I'm recording the conversation. We have clips we've never released. We have behind the scenes conversations with the guest and also the episodes that we've never ever released and so much more. In the circle, you'll have direct access to me.
 You can tell us what you want this show to be, who you want us to interview, and the types of conversations you would love us to have. But, remember, for now, we're only inviting the first 10,000 people that join before it closes. So, if you want to join our private closed community, head to the link in the description below or go to doacircle.com.
 I will speak to you then.
+### plato-cave-reality-and-financial-elite
+
 Professor, what's the most important thing we haven't talked about that we should have talked about?
 So, let's talk about the nature of reality.
 To explain the nature of reality, um I'm going to explain Plato's allegory of the cave, which he talked about in his book, The Republic.
@@ -679,10 +723,10 @@ And then over time, what happens is that these people fall in love with this rea
 So that they are addicted to it.
 So if anyone comes along and says, "Hey guys, why don't you look behind you and see it's all just a farce?" These people will be so angry that they kill this person.
 All right? So I'm not sure if you've ever watched a Korean drama. Have you Have you watched a Korean TV drama? Not really, no.
->> All right. So unfortunately, I have. And these things go on for like thousands of hours. Mhm.
+**Steven Bartlett:** All right. So unfortunately, I have. And these things go on for like thousands of hours. Mhm.
 And the first first 10 hours, you're disgusted by the plot.
 Uh because it makes no sense. But by sometime by by the 20th hour, you can't stop watching it.
->> Mhm. All right? The same situation here where it's a it's a silly television drama. It's all fake. But once people watch too much of it, they want it to be true.
+**Steven Bartlett:** Mhm. All right? The same situation here where it's a it's a silly television drama. It's all fake. But once people watch too much of it, they want it to be true.
 Okay? And that's the nature of reality that we live in. All right? So, certain things to remember is that what creates this reality are not the people in charge. What creates this reality is our imagination.
 Okay.
 So, the first thing to appreciate is that everything is a hallucination.
@@ -714,7 +758,7 @@ Is that what Yes. Yes. But how But I I'm not owned by anybody.
 That's what you think. Oh, really? Yes.
 And who who am I owned by?
 Ultimately, it's the people who control the fire that are in charge, right? So, ultimately, it's these people, the second layer. Okay.
->> The game masters, the financial elite that control everything. And the financial elite then are like the World Bank, you said. No. No. The financial elite are these private bankers. Okay, so are the private bankers controlling me?
+**Steven Bartlett:** The game masters, the financial elite that control everything. And the financial elite then are like the World Bank, you said. No. No. The financial elite are these private bankers. Okay, so are the private bankers controlling me?
 Cuz you said I was in the media. Do you want to make money?
 Yeah. Then they're controlling you.
 Okay. Right?
@@ -736,7 +780,7 @@ Because if you have people in the population saying, "These These shadows are fa
 Yeah, I mean, it is pretty hard, you know, it's pretty It's not easy being a uh an independent podcaster if you have a big platform cuz you're not always the most loved by the mainstream media. And they'll figure out how to eventually But, I think that's I think that's very human, actually. I think I think the incentives are quite understandable from a human perspective.
 Look, if you look at the system, no one's really in charge, and no one's a villain.
 They just grow up in the system.
->> And everyone's protecting their incentives. Exactly. That's kind of what I mean. I'm like, yeah, I have human nature is to protect one's incentives, and you know, the media didn't like Mark Zuckerberg and Facebook because 80% of 70, 80% of ad revenue went to Google and Facebook. So, they had a bit of a war.
+**Steven Bartlett:** And everyone's protecting their incentives. Exactly. That's kind of what I mean. I'm like, yeah, I have human nature is to protect one's incentives, and you know, the media didn't like Mark Zuckerberg and Facebook because 80% of 70, 80% of ad revenue went to Google and Facebook. So, they had a bit of a war.
 So, I kind of get it. People are trying to protect what's theirs.
 And disruption causes people to, I guess, panic a little bit, but makes sense.
 But, the problem is that over time, more and more young people are going to grow up and say, "I don't see shadows.
@@ -755,7 +799,7 @@ You cannot get over that. Okay.
 And that thing will come down eventually, because that is just the fundamental fact of human history.
 Everything, no matter how stable it seems in the beginning, it all comes crashing down eventually. Eventually.
 Eventually.
->> Cyclically. Cyclically.
+**Steven Bartlett:** Cyclically. Cyclically.
 Yes.
 Um Ray Dalio talks about the cycles through history, and how so or they are, and how frequent they are. Is there a frequency to the rise and fall of these I guess perceived realities or empires as he as he calls it. Yeah, so they say empires last about 20 years.
 And so we are now in the twilight of the American empire.
@@ -763,7 +807,13 @@ And what we know is that when empires decline, it's always for the same reasons.
 And um it's always because of too much debt, too much corruption, too much inequality. And we're seeing that in America today. And the other thing that we know is you can't actually stop the decline of empires. So Oswald Spengler, who is a German theoretician, he argues that we are human beings and we have natural life cycles because we're organisms.
 Well, societies are the same way where empires, they will be born, they'll rise, and they'll die. And it's And it's a good thing because that's what allows for constant human innovation. Do you think that will happen in my lifetime?
 I'm 30 years old, 33 years old.
-It may happen in everyone's lifetime. It may happen next 5 to 10 years. We are We are seeing >> Do you think that's going to happen in the next 5 to 10 years? I think there's a very strong possibility that the American empire will collapse in the next 5 to 10 years because it is overstretched, it's in too much debt, and it is really angering the entire world. It's basically unifying the entire world against it right now. And if >> that is to be the case, what would you give me as advice as a 33-year-old? What What action should I be thinking about taking now based on what you know about history to make sure that, you know, it's not too bad for my myself? I guess I'm asking this question in light of you predicting that there might be a collapse of the sort of Western or the American empire.
+### hermetic-philosophy-life-advice-and-closing-tradition
+
+It may happen in everyone's lifetime. It may happen next 5 to 10 years. We are We are seeing
+
+**Steven Bartlett:** Do you think that's going to happen in the next 5 to 10 years? I think there's a very strong possibility that the American empire will collapse in the next 5 to 10 years because it is overstretched, it's in too much debt, and it is really angering the entire world. It's basically unifying the entire world against it right now. And if
+
+**Steven Bartlett:** that is to be the case, what would you give me as advice as a 33-year-old? What What action should I be thinking about taking now based on what you know about history to make sure that, you know, it's not too bad for my myself? I guess I'm asking this question in light of you predicting that there might be a collapse of the sort of Western or the American empire.
 And in such a scenario, I was wondering what what what it would look like to be an American.
 And is there a a solution or course of behavior one should take in such a scenario? But what I guess that's the key question which is if the US empire does collapse, how does American life change or Western life change? Okay. So, one theory that's very important to understand is something called hermetic philosophy.
 And hermetic philosophy is what underpins um Plato's allegory of the cave. Mhm.
@@ -781,12 +831,14 @@ How do I become a much more creative individual that brings goodness to the peop
 If you do that, you're changing the world everyday for the better.
 That's a nice message.
 That's a very nice message.
-And I agree. And I It's really interesting. I've spoken to a couple of physicists now who say similar things regarding about consciousness, and it really has stuck with me. A lot of things people say, you know, sometimes because I I learn so much doing this that I forget them. But this idea that um that we're all part of the same consciousness, and that I think someone said to me, a physicist said to me that um it's almost like consciousness divided into lots of little pieces so that >> That's right. Fractals. Fractals. So, that it yeah, it could it could experience the world or view the world.
->> Exactly. And I found that to be a really compelling idea. Weirdly, I was thinking about this the other day. I was in a European country, and I was I was driving in a taxi, and I looked out the window, and you had all of these like tourists just stood at the edge of the water, all just like looking up and looking around.
+And I agree. And I It's really interesting. I've spoken to a couple of physicists now who say similar things regarding about consciousness, and it really has stuck with me. A lot of things people say, you know, sometimes because I I learn so much doing this that I forget them. But this idea that um that we're all part of the same consciousness, and that I think someone said to me, a physicist said to me that um it's almost like consciousness divided into lots of little pieces so that
+
+**Steven Bartlett:** That's right. Fractals. Fractals. So, that it yeah, it could it could experience the world or view the world.
+**Steven Bartlett:** Exactly. And I found that to be a really compelling idea. Weirdly, I was thinking about this the other day. I was in a European country, and I was I was driving in a taxi, and I looked out the window, and you had all of these like tourists just stood at the edge of the water, all just like looking up and looking around.
 And I just for a second thought of it thought of them as like little peach pieces of consciousness exploring the world, cuz they were like looking up and looking around and looking at mountains and looking at the ocean and looking at the floor. And it it dawned on me for a second that that might just be consciousness is manifestation for sort of I guess exploration.
 It's which is a really interesting idea.
 I don't necessarily know what it means, but it does create a little lot of empathy.
->> So, so one one area that you might want to explore is the Kabbalah. So, what How's this What What's this Kabbalah thing? Right. It's called It's what they call the Tree of Life. And in the Tree of Life, it's it's It's what I'm trying to say is that it's a certain dynamic in the world that governs all human affairs. And this dynamic is thesis, antithesis, synthesis.
+**Steven Bartlett:** So, so one one area that you might want to explore is the Kabbalah. So, what How's this What What's this Kabbalah thing? Right. It's called It's what they call the Tree of Life. And in the Tree of Life, it's it's It's what I'm trying to say is that it's a certain dynamic in the world that governs all human affairs. And this dynamic is thesis, antithesis, synthesis.
 So, God is the will to bestow, creates Adam Kadmon, who is the will to receive.
 Adam Kadmon has to abandon God. This This destroys the world, but eventually, because the world is destroyed, Adam Kadmon and his and his descendants, us, recognize the folly of our ways and beg God for forgiveness, and this will redeem the world, repair the world.
 And if you think about it, okay? This is what underpins a lot of actions that is happening in the Middle East.
@@ -844,7 +896,11 @@ And so yes, I did succeed. And I think I thank the universe for letting me succe
 Are you happy?
 I'm very happy with my family because it's my wife and my children who bring me tremendous happiness in the world. The The YouTube channel, if they close it down tomorrow, and they might, I wouldn't be at all uh unhappy because I can just go and create more videos. Uh what matters is the source of my creativity, which is my the love I have for my family.
 That is beautiful.
-Really beautiful. I mean, it's it's really self-evident the value you're giving to people because the amount of people that showed up in my comment section and and demanded that you come here was staggering. In fact, that's actually how I I learned about you was I just saw your name so much in the comment section. So I was like, "Who's this guy?" And I went on YouTube and looked around and then I found these videos and then I got served them because I clicked on them and then I got went down the rabbit hole like everyone >> Did they just want you? Yeah. I am a polarizing figure. Oh, it's probably because >> some people really love me, but some people also really really hate me.
->> It Listen, I have I sit here with people really regardless of of of that stuff and I think that's important and quite rare. So I you know, I've sat with Kamala Harris or Ivanka Trump or Gavin Newsom or Michelle Obama, you know, and for me it's really about the pursuit of truth rather than being captured too much by you know, Right.
->> all the blocks that we have on the table. So um thank you for doing what you do because you're demystifying and you're you're giving a perspective to the world. And I think one of the things you you do that really has compelled people is you you're able to um break things down in visual ways that allow people like me who aren't the best when it comes to books and textbooks and weren't necessarily very good in school to understand concepts in a simpler way and really to bring them to life in ways that make them actionable and relevant to our lives. And so long may you carry on doing that. And that's the essential message that I hope people understand like everyone has the capacity to learn the truth for himself or herself. It's only a question of desire and will.
+Really beautiful. I mean, it's it's really self-evident the value you're giving to people because the amount of people that showed up in my comment section and and demanded that you come here was staggering. In fact, that's actually how I I learned about you was I just saw your name so much in the comment section. So I was like, "Who's this guy?" And I went on YouTube and looked around and then I found these videos and then I got served them because I clicked on them and then I got went down the rabbit hole like everyone
+
+**Steven Bartlett:** Did they just want you? Yeah. I am a polarizing figure. Oh, it's probably because
+
+**Steven Bartlett:** some people really love me, but some people also really really hate me.
+**Steven Bartlett:** It Listen, I have I sit here with people really regardless of of of that stuff and I think that's important and quite rare. So I you know, I've sat with Kamala Harris or Ivanka Trump or Gavin Newsom or Michelle Obama, you know, and for me it's really about the pursuit of truth rather than being captured too much by you know, Right.
+**Steven Bartlett:** all the blocks that we have on the table. So um thank you for doing what you do because you're demystifying and you're you're giving a perspective to the world. And I think one of the things you you do that really has compelled people is you you're able to um break things down in visual ways that allow people like me who aren't the best when it comes to books and textbooks and weren't necessarily very good in school to understand concepts in a simpler way and really to bring them to life in ways that make them actionable and relevant to our lives. And so long may you carry on doing that. And that's the essential message that I hope people understand like everyone has the capacity to learn the truth for himself or herself. It's only a question of desire and will.
 Thank you. Thank you. YouTube have this new crazy algorithm where they know exactly what video you would like to watch next based on AI and all of your viewing behavior. And the algorithm says that this video is the perfect video for you. It's different for everybody looking right now. Check this video out and I bet you you might love it.

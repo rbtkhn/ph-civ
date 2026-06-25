@@ -29,6 +29,8 @@ Treat this chapter folder as a small source-lattice:
 
 `in_review`. Do not treat provisional transcript text, named claims, quotations, or current-event predictions as final until review is complete.
 
+**Transcript pass 2 (2026-06-25):** Fourteen section rails under Part I; `>>` host markers → **Steven Bartlett:**; ASR/toponym repair (transcript-logic, no audio re-listen). Unresolved: merged host/guest paragraphs without turn breaks; Foreign Minister vs Prime Minister title for Araghchi; some sponsor/read blocks left unlabeled.
+
 ## LLM Prompt
 
 Paste this folder link into ChatGPT, Claude, or Grok and ask:
