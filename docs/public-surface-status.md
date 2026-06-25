@@ -2,7 +2,7 @@
 
 Canonical public artifact: [`rbtkhn/predictive-history`](https://github.com/rbtkhn/predictive-history). This repository is the reader-facing distribution layer for the two-volume ph-civ artifact (`ph-civ` + `ph-apo`).
 
-**Publishers:** corpus edits land in the strategy-codex staging mirror (`public/ph-civ/`); GitHub updates only via explicit `publish_public_ph_civ.py --push`. See [strategy-codex-bridge.md](strategy-codex-bridge.md).
+**Authoring:** edit and push **this repository** directly. strategy-codex keeps an inbound read-only snapshot at `public/predictive-history/`. See [strategy-codex-bridge.md](strategy-codex-bridge.md).
 
 **Machine rollups:**
 
