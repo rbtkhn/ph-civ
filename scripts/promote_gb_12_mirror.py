@@ -40,13 +40,12 @@ canonical_url: https://www.youtube.com/watch?v=FspDllFoiDE
 video_id: FspDllFoiDE
 publication_date: 2026-05-26
 source_status: metadata_checked
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-06-09
 exported_from_youtube_at: 2026-06-09
 fidelity_reviewed_at: 2026-06-09
-rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 transcript_fidelity: exact_body_match
 transcript_source: youtube_auto_captions

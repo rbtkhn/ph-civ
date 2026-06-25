@@ -19,18 +19,18 @@ completeness_state: in-review
 status: in-review
 commentary_status: in-review
 source_status: metadata_checked
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
 annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-05-14
 public_imported_at: 2026-05-14
-rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
 analysis_depth: seed
 scaffold_version: ph_civ_commentary_canvas_v1
 ---
+
 # Commentary - Great Books
 
 The source transcript is gb-01-transcript.md. This commentary uses a Great Books-native scaffold. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim source transcript body.

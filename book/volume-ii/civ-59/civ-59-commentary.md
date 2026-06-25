@@ -17,13 +17,12 @@ completeness_state: in-review
 status: in-review
 commentary_status: in-review
 source_status: metadata_checked
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
 annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-05-13
 public_imported_at: 2026-05-13
-rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
 analysis_depth: layer2_slimmed
@@ -32,6 +31,7 @@ part_id: part-10-rise-of-the-nation-state
 part_commentary_path: ../../volume-i-civilization/parts/part-10-rise-of-the-nation-state-commentary.md#civ-59
 part_bibliography_path: ../../volume-i-civilization/parts/part-10-rise-of-the-nation-state-bibliography.md
 ---
+
 # Commentary - Civilization
 The source transcript is civ-59-transcript.md. This commentary uses the multi-layer scaffold below. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim source transcript body.
 ## Layer 0 - Metadata & Quick Reference

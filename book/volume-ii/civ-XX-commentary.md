@@ -23,7 +23,6 @@ source_status: template_only
 transcript_status: not_started
 annotation_status: not_started
 review_status: not_reviewed
-rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 ---
 

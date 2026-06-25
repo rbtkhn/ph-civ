@@ -17,13 +17,12 @@ completeness_state: in-review
 status: in-review
 commentary_status: in-review
 source_status: metadata_checked
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
 annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-05-13
 public_imported_at: 2026-05-13
-rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
 analysis_depth: layer2_slimmed

@@ -11,11 +11,9 @@ canonical_url: "https://predictivehistory.substack.com/p/i-have-questions-about-
 deck: The FBI got their man again. But there are inconsistencies in the official narrative about Tyler Robinson. These inconsistencies are similar to those surrounding Luigi Mangione and Thomas Crooks.
 paid: true
 ingested_at: "2026-06-24"
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
 transcript_source: workshop_promotion
-rights_review: required_before_long_excerpt
-rights_note: "Operator-sourced copy for research; Substack is canonical. Do not redistribute without clearing rights."
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-06-24

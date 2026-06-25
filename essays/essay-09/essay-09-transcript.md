@@ -11,11 +11,9 @@ canonical_url: "https://predictivehistory.substack.com/p/the-secret-history-of-t
 deck: We know that it is hapless puppets who run the world, and we’d like to believe that the evil puppet-masters have a plan. But they have died out, and the puppets are out of control.
 paid: true
 ingested_at: "2026-06-24"
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
 transcript_source: workshop_promotion
-rights_review: required_before_long_excerpt
-rights_note: "Operator-sourced copy for research; Substack is canonical. Do not redistribute without clearing rights."
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-06-24

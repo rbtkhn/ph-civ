@@ -12,12 +12,11 @@ canonical_url: https://www.youtube.com/watch?v=dkzr5A8IlLA
 video_id: dkzr5A8IlLA
 publication_date: 2026-01-28
 source_status: metadata_checked
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-05-14
 public_imported_at: 2026-05-14
-rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 transcript_fidelity: exact_body_match
 corpus_path: ../../../corpus/great-books/gb-04.md

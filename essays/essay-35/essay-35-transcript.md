@@ -14,9 +14,6 @@ ingested_at: "2026-06-25"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
 transcript_source: substack_export
-rights_review: complete
-rights_reviewed_at: "2026-06-25"
-rights_note: "Substack is canonical; operator rights review complete."
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-06-25

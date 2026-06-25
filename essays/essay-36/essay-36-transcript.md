@@ -11,11 +11,9 @@ canonical_url: "https://predictivehistory.substack.com/p/god-emperor-trump"
 deck: "Trump's ballroom may be his temple, data center, and bid for omniscience all at once."
 paid: true
 ingested_at: "2026-05-05"
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
 transcript_source: public_import_snapshot
-rights_review: required_before_long_excerpt
-rights_note: "Operator-sourced copy for research; Substack is canonical. Do not redistribute without clearing rights."
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-05-19

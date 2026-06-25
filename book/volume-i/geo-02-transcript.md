@@ -10,14 +10,14 @@ source_type: video
 canonical_url: https://www.youtube.com/watch?v=lkKrZq4YdqY
 publication_date: 2024-05-08
 source_status: metadata_checked
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 annotation_status: not_started
 review_status: source_reviewed
-rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 corpus_path: ../../corpus/geo-strategy/geo-02.md
 commentary_path: ./geo-02-commentary.md
 ---
+
 # Part I - Geo-Strategy #2: Christian Zionism and the Middle East Conflict
 
 Part I contains the full lecture transcript. Part II is kept in the companion commentary file.

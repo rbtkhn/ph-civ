@@ -13,12 +13,11 @@ source_type: video
 canonical_url: https://www.youtube.com/watch?v=m24LnQ-Ksjk
 publication_date: 2025-05-29
 source_status: metadata_checked
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-05-13
 public_imported_at: 2026-05-13
-rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 transcript_fidelity: exact_body_match
 transcript_curation: curated_sectioned

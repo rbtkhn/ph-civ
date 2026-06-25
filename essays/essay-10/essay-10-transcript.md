@@ -11,11 +11,9 @@ canonical_url: "https://predictivehistory.substack.com/p/secret-history-7-the-vo
 deck: Yale traumatized me, and for many years I wandered alone in the darkness. Then I met the love of my life. With her, I learned that trauma can be the key to unlock the secrets of the universe.
 paid: true
 ingested_at: "2026-06-24"
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
 transcript_source: workshop_promotion
-rights_review: required_before_long_excerpt
-rights_note: "Operator-sourced copy for research; Substack is canonical. Do not redistribute without clearing rights."
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-06-24

@@ -5,10 +5,9 @@ source_series: "Secret History"
 publication_date: 2025-12-16
 source_url: "https://www.youtube.com/watch?v=ZPrecJHUOUs"
 video_id: "ZPrecJHUOUs"
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
 transcript_source: public_import_snapshot
-rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-05-14

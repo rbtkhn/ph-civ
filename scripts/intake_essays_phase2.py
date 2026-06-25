@@ -136,11 +136,9 @@ canonical_url: {escape_yaml(url)}
 deck: {escape_yaml(str(deck))}
 paid: {str(paid).lower()}
 ingested_at: "{INGESTED_AT}"
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
 transcript_source: workshop_promotion
-rights_review: required_before_long_excerpt
-rights_note: "Operator-sourced copy for research; Substack is canonical. Do not redistribute without clearing rights."
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: {INGESTED_AT}

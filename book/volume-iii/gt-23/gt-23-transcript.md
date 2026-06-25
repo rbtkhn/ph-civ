@@ -8,7 +8,6 @@ video_id: "6aNh6sBpqvQ"
 transcript_status: "public_transcript_capture_pending_fidelity_review"
 transcript_fidelity: "needs_fidelity_review"
 transcript_source: "user_pasted_public_transcript"
-rights_review: "required_before_long_excerpt"
 representation_not_endorsement: true
 review_status: "provisional"
 source_captured_at: "2026-05-20"

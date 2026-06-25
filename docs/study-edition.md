@@ -251,7 +251,7 @@ Requirements specific to ph-civ:
 Do not claim `launch_ready` until:
 
 1. Pilot chapter passes `validate_study_edition.py` (all anchors resolve).
-2. `review_status` and rights caveats render on every study page.
+2. `review_status` caveats render on every study page.
 3. Human-approved launch blurb explains two-volume frame + why Homer spine first.
 4. View-count definition documented (study page load? video click? — pick one for wedge).
 5. `data/spines/homer-to-tolstoy.json` `launch_readiness` updated only after human sign-off.

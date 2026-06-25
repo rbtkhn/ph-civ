@@ -46,7 +46,7 @@ Extend Phase 0 tokens in `site/assets/study-edition.css`:
 
 **Trust chrome (unchanged, always visible)**
 
-- Top bar: `source_reviewed` + `curated_transcript_pending_rights_review`.
+- Top bar: `source_reviewed` + `curated_transcript`.
 - Footer on gen-AI blocks: *Generated study aid · not new evidence · verify in transcript.*
 
 ---

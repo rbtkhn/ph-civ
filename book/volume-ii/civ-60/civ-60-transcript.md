@@ -13,12 +13,11 @@ source_type: video
 canonical_url: https://www.youtube.com/watch?v=_gH4PvIni5E
 publication_date: 2025-06-12
 source_status: metadata_checked
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-05-13
 public_imported_at: 2026-05-13
-rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 transcript_fidelity: exact_body_match
 transcript_curation: curated_sectioned
@@ -26,6 +25,7 @@ pin_cite_reviewed_at: 2026-06-09
 corpus_path: ../../../corpus/civilization/civ-60.md
 commentary_path: ./civ-60-commentary.md
 ---
+
 # Part I - Civilization #60: The Decline and Fall of the American Empire
 
 Part I contains the full lecture transcript imported from the public import snapshot. Part II is kept in the companion commentary file and is in review after initial analysis.

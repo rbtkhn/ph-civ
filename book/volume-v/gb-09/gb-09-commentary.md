@@ -19,7 +19,7 @@ completeness_state: in-review
 status: in-review
 commentary_status: in-review
 source_status: metadata_checked
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
 transcript_curation: curated_sectioned
 fidelity_reviewed_at: 2026-06-09
@@ -27,7 +27,6 @@ annotation_status: drafted
 review_status: source_reviewed
 source_reviewed_at: 2026-05-14
 public_imported_at: 2026-05-14
-rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 canvas_status: open
 analysis_depth: layer2_drafted
@@ -36,6 +35,7 @@ commentary_maturity: l3_falsifiers
 migration_source: extracted_from_part
 canonical_weave: interwoven@civ-30
 ---
+
 # Commentary - Great Books
 
 The source transcript is `gb-09-transcript.md`. This commentary uses the v2 multi-layer scaffold (chapter-only SSOT).

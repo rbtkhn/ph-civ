@@ -10,10 +10,9 @@ source_type: video
 canonical_url: https://www.youtube.com/watch?v=xEEpOxqdU5E
 publication_date: 2024-04-24
 source_status: metadata_checked
-transcript_status: curated_transcript_pending_rights_review
+transcript_status: curated_transcript
 annotation_status: not_started
 review_status: source_reviewed
-rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 corpus_path: ../../corpus/geo-strategy/geo-01.md
 commentary_path: ./geo-01-commentary.md
