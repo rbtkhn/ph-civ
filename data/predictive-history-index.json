@@ -1,8 +1,8 @@
 {
   "schema_version": 3,
-  "fingerprint": "6b31f61f0de84aab",
+  "fingerprint": "cfe598e56351b222",
   "card_count": 205,
-  "transcript_word_total": 1431497,
+  "transcript_word_total": 1431537,
   "ssot": "data/cards.jsonl",
   "markdown_index": "docs/predictive-history-index.md",
   "surfaces": {
@@ -90,7 +90,7 @@
       "series_counts": {
         "interviews": 16
       },
-      "transcript_word_total": 152522
+      "transcript_word_total": 152562
     }
   },
   "chapters": [
@@ -3587,7 +3587,7 @@
         "folder": "interviews/interview-2026-03-02-breaking-points",
         "folder_readme": "interviews/interview-2026-03-02-breaking-points/README.md"
       },
-      "transcript_word_count": 2460,
+      "transcript_word_count": 2443,
       "source_video_url": "https://www.youtube.com/watch?v=4Ql24Z8SIeE",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -3776,7 +3776,7 @@
         "folder": "interviews/interview-2026-05-07-diary-of-a-ceo",
         "folder_readme": "interviews/interview-2026-05-07-diary-of-a-ceo/README.md"
       },
-      "transcript_word_count": 20074,
+      "transcript_word_count": 20131,
       "source_video_url": "https://www.youtube.com/watch?v=BTJGr78-zyw",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",

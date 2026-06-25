@@ -48,3 +48,22 @@ Examples: `interview-2025-11-24-glenn-diesen`, `interview-2026-05-07-diary-of-a-
 Cards use `part: provenance`, `series: interviews`, `derived_corpus: provenance`, `placement_weight: light`. They appear in the **Provenance** section of the chapter catalog; they are not foreground Volume I/II spine routes.
 
 Related: [`book/provenance/`](../book/provenance/README.md) · catalog [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) · intake manifest [`data/interviews/manifest.json`](../data/interviews/manifest.json).
+
+## DOAC #16 — verbatim swap + section restore
+
+[`interview-2026-05-07-diary-of-a-ceo`](interview-2026-05-07-diary-of-a-ceo/) uses an **operator verbatim paste** body with **Title Case section headings** (not lowercase slug headers). After replacing the transcript body under `## Part I: Full transcript`, re-apply sections and light ASR cleanup with:
+
+```bash
+python scripts/patch_doac_sections_asr.py
+python -m civ_ph.cli index --force
+python -m civ_ph.cli validate
+```
+
+**What the script does**
+
+- Splits the verbatim body at **14 anchor phrases** (see `SECTION_ANCHORS` in the script; section map pinned from commit `c01fe76`).
+- Inserts `### Title Case — …` headings from `SECTION_TITLES`.
+- Applies light ASR fixes (e.g. `Professor Dieng` → `Professor Jiang`, duplicate-word cleanup).
+- Rewrites frontmatter: `transcript_source: operator_paste`, `transcript_curation: curated_sectioned`, `transcript_fidelity: exact_body_match`.
+
+**Staging (optional):** operator paste can land in `data/interviews/_land_doac/body.txt` before manual or scripted merge into the packet transcript. Keep staging **UTF-8** only — files under `data/` are scanned by `ph-civ validate`; UTF-16 artifacts will fail the public-boundary read pass.
