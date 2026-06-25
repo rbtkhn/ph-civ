@@ -1,8 +1,8 @@
 # Strategy-Codex Bridge
 
-`ph-civ` is the public civilizational reference layer. `strategy-codex` is the live workshop where current-event analysis, raw inputs, operator judgment, and work-in-progress synthesis happen.
+This repository (`rbtkhn/predictive-history`) is the **canonical public** Predictive History corpus. `strategy-codex` is the operator workshop for statecraft synthesis, source archive, and review — not a second edit surface for this corpus.
 
-The bridge between them is intentionally small: strategy-codex may cite public `pattern_id` values, public `source_id` cards, and public chapter bodies from this repository. It should not import private notes, raw inputs, or live strategy workspace paths into `ph-civ`.
+The bridge between them is intentionally small: strategy-codex may cite public `pattern_id` values, public `source_id` cards, and public chapter bodies from this repository. It should not import private notes, raw inputs, or live strategy workspace paths into the public tree.
 
 ## How To Use Patterns
 
@@ -19,16 +19,10 @@ sources: geo-14, gt-16
 use: public frame for Hormuz / shipping / energy pressure
 ```
 
-Candidate rehearsal example:
-
-```text
-source_id: civ-07
-pattern_id: civ-heroic-memory
-use: public orientation frame for inherited heroic memory, not proof of a live strategic claim
-```
-
 ## Boundary
 
-Do not use `ph-civ` as a strategy inbox, a dumping ground for private or non-public raw inputs, or a private editorial workspace. Public source captures that belong to released `ph-civ` or `ph-apo` chapters should live under the repo-local `sources/` tree. If a strategy-codex page needs a civilizational frame, cite the pattern and continue the live analysis in strategy-codex.
+Do not use this repo as a strategy inbox or private editorial workspace. Public source captures for released chapters live under the repo-local `sources/` tree.
 
-**Publisher loop:** corpus edits land in the strategy-codex `public/ph-civ/` staging mirror; **this** GitHub repo updates only via explicit `publish_public_ph_civ.py --push` — a strategy-codex workspace commit alone does not publish.
+**Authoring loop:** edit and push **this repository** directly. strategy-codex keeps an **inbound-only read snapshot** at `public/predictive-history/` refreshed via `sync_predictive_history_mirror.py` — do not author corpus files there.
+
+Workshop essay intake reads frozen `codex/predictive-history/` in strategy-codex and lands captures here only.

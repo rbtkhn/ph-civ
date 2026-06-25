@@ -50,7 +50,7 @@ from .public_surface_triage import (
 from .volume_i_parts import validate_volume_i_parts
 
 EXPECTED_SOURCE_REPO = "rbtkhn/ph-workshop"
-GITHUB_TREE_BASE = "https://github.com/rbtkhn/ph-civ/tree/main"
+GITHUB_TREE_BASE = "https://github.com/rbtkhn/predictive-history/tree/main"
 
 PROMPT_MODES = {
     "study": "Create a study plan that helps me understand this ph-civ orientation card without treating it as a substitute for the source lecture.",

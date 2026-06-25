@@ -1,6 +1,6 @@
 # First Tour
 
-Use this when a reader chooses `continue the first tour` after pasting `https://github.com/rbtkhn/ph-civ` into an LLM chat.
+Use this when a reader chooses `continue the first tour` after pasting `https://github.com/rbtkhn/predictive-history` into an LLM chat.
 
 The first tour is not a repository review. It is the default guided entry into the two-volume ph-civ artifact.
 

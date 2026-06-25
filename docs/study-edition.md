@@ -199,7 +199,7 @@ Requirements specific to ph-civ:
 
 | Setting | Value |
 | --- | --- |
-| Repo | `rbtkhn/ph-civ` |
+| Repo | `rbtkhn/predictive-history` |
 | URL | `https://rbtkhn.github.io/ph-civ/` |
 | Publish dir | `site/dist` (or `docs/` only if using branch docs — prefer Actions artifact) |
 | `base` / asset prefix | `/ph-civ/` |

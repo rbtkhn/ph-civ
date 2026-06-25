@@ -101,7 +101,7 @@ def test_latest_game_theory_chapters_are_provisional_source_first(capsys):
     out = capsys.readouterr().out
     assert "YouTube comment:" in out
     assert "source_video: https://www.youtube.com/watch?v=8nsxuB3Vsts" in out
-    assert "https://github.com/rbtkhn/ph-civ/tree/main/ph-apo/chapters/gt-24" in out
+    assert "https://github.com/rbtkhn/predictive-history/tree/main/ph-apo/chapters/gt-24" in out
     assert "public LLM-native Predictive History reader" in out
 
 
@@ -210,7 +210,7 @@ def test_llm_native_bootloader_contract(capsys):
     start_here = ROOT / "START-HERE.md"
     assert start_here.exists()
     start_text = start_here.read_text(encoding="utf-8")
-    assert "pastes `https://github.com/rbtkhn/ph-civ` into a ChatGPT chat or any other LLM" in start_text
+    assert "pastes `https://github.com/rbtkhn/predictive-history` into a ChatGPT chat or any other LLM" in start_text
     assert "First Response Contract" in start_text
     assert "Do not stop at a generic repository summary" in start_text
     assert "Default mode: first_tour" in start_text
@@ -281,7 +281,7 @@ def test_llms_full_context_packet_exists():
     assert packet.exists()
     text = packet.read_text(encoding="utf-8")
     assert "full one-shot LLM context packet" in text
-    assert "https://github.com/rbtkhn/ph-civ" in text
+    assert "https://github.com/rbtkhn/predictive-history" in text
     assert "First Response Contract" in text
     assert "Do not stop at a generic repository summary" in text
     assert "Default mode: `first_tour`" in text

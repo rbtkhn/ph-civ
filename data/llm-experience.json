@@ -1,7 +1,7 @@
 {
   "experience_id": "ph_civ_llm_native_bootloader",
   "repo_identity": "ph-civ",
-  "github_url": "https://github.com/rbtkhn/ph-civ",
+  "github_url": "https://github.com/rbtkhn/predictive-history",
   "primary_artifact": "two_volume_ph_civ",
   "start_here": "START-HERE.md",
   "full_context": {
@@ -94,7 +94,7 @@
     "reader_doc": "docs/chapter-folder-links.md",
     "default_mode": "study",
     "cli": "ph-civ link <source_id>",
-    "url_pattern": "https://github.com/rbtkhn/ph-civ/tree/main/book/<volume>/<source_id>",
+    "url_pattern": "https://github.com/rbtkhn/predictive-history/tree/main/book/<volume>/<source_id>",
     "purpose": "direct YouTube comment and LLM-chat handoff for one chapter folder",
     "not_replacement_for": "first_tour"
   },

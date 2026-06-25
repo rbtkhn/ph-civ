@@ -263,7 +263,7 @@ Use [`book/volume-ii/civ-07/civ-07-commentary.md`](../book/volume-ii/civ-07/civ-
 
 - Archive v1 commentary snapshots under [`docs/archive/commentary-v1/`](archive/commentary-v1/) (git tag per wave optional)  
 - Chapter README may show `commentary_maturity` badge  
-- Do not publish to `rbtkhn/ph-civ` mid-wave without explicit operator publish  
+- Do not publish to `rbtkhn/predictive-history` mid-wave without explicit operator publish  
 - Progress: `ph-civ commentary status` + [`ph-civ-index.json`](../data/ph-civ-index.json)
 
 **Phased slices:** Outline (this doc) → A (pilot + validate) → B (ledger) → C (Parts sunset) → D (tiered waves).

@@ -13,7 +13,7 @@ def read_text(path: str) -> str:
 def test_agent_identity_contract_exists():
     text = read_text("AGENTS.md")
 
-    assert "rbtkhn/ph-civ" in text
+    assert "rbtkhn/predictive-history" in text
     assert "two-volume ph-civ artifact" in text
     assert "lecture transcript" in text
     assert "companion commentary" in text

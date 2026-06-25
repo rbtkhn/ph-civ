@@ -2,7 +2,7 @@
 
 Use this file when a reader pastes the ph-civ GitHub URL into an LLM chat and wants the repo to unfold without private context, provider-specific tooling, or hidden assumptions.
 
-Canonical URL: https://github.com/rbtkhn/ph-civ
+Canonical URL: https://github.com/rbtkhn/predictive-history
 
 ## Identity
 

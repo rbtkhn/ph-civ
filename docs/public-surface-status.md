@@ -1,6 +1,6 @@
 # Public surface status
 
-Canonical public artifact: [`rbtkhn/ph-civ`](https://github.com/rbtkhn/ph-civ). This repository is the reader-facing distribution layer for the two-volume ph-civ artifact (`ph-civ` + `ph-apo`).
+Canonical public artifact: [`rbtkhn/predictive-history`](https://github.com/rbtkhn/predictive-history). This repository is the reader-facing distribution layer for the two-volume ph-civ artifact (`ph-civ` + `ph-apo`).
 
 **Publishers:** corpus edits land in the strategy-codex staging mirror (`public/ph-civ/`); GitHub updates only via explicit `publish_public_ph_civ.py --push`. See [strategy-codex-bridge.md](strategy-codex-bridge.md).
 

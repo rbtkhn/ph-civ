@@ -1,6 +1,6 @@
 # AGENTS.md - ph-civ Guardrails
 
-This repository is `rbtkhn/ph-civ`: the public-facing two-volume ph-civ artifact and study-orientation layer.
+This repository is `rbtkhn/predictive-history`: the public-facing two-volume ph-civ artifact and study-orientation layer.
 
 **Publisher:** **Statecraft Intelligence Desk**
 
@@ -43,7 +43,7 @@ If a task asks for material outside the public dataset, say that this repo does 
 
 If the operator says `coffee` at the start of a chat, do not give a generic coffee greeting. Treat it as a request to open the `ph-civ` public repo state:
 
-1. State that this workspace is `rbtkhn/ph-civ`.
+1. State that this workspace is `rbtkhn/predictive-history`.
 2. State that `ph-civ` is the public two-volume Predictive History distribution repository, not the private workshop.
 3. Summarize the public surfaces: Volume I / `ph-civ` and Volume II / `ph-apo`.
 4. Mention that `rbtkhn/ph-workshop` is legacy import provenance for the current snapshot.
