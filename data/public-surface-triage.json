@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "card_count": 183,
+  "card_count": 189,
   "bucket_counts": {
     "PUBLIC_READY": 0,
     "OPEN_CANVAS": 1,
@@ -9,7 +9,7 @@
     "NEEDS_ROUTE_REVIEW": 0,
     "NEEDS_SOURCE_FLOOR": 0,
     "NEEDS_CARD_LIMITS": 0,
-    "NEEDS_COMMENTARY_REVIEW": 177,
+    "NEEDS_COMMENTARY_REVIEW": 183,
     "STUB_ROUTED": 0,
     "UNASSIGNED": 4
   },
@@ -120,6 +120,12 @@
       "essay-35",
       "essay-36",
       "essay-37",
+      "essay-38",
+      "essay-39",
+      "essay-40",
+      "essay-41",
+      "essay-42",
+      "essay-43",
       "gb-01",
       "gb-03",
       "gb-04",
@@ -893,6 +899,48 @@
       "series": "essays"
     },
     {
+      "source_id": "essay-38",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-39",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-40",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-41",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-42",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-43",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
       "source_id": "gb-01",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
@@ -1495,8 +1543,8 @@
       "series": "secret-history"
     }
   ],
-  "fingerprint": "7824e65f60ee3287",
-  "generated_at": "2026-06-25T10:29:02Z",
+  "fingerprint": "43e6fd01d65ca659",
+  "generated_at": "2026-06-25T12:28:15Z",
   "markdown_summary": "runtime/artifacts/public-surface-triage.md",
   "inventory_json": "data/public-surface-inventory.json"
 }

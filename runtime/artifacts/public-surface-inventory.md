@@ -1,8 +1,8 @@
-<!-- public-surface-inventory-fingerprint: f4c2233fcfe2ba8c -->
+<!-- public-surface-inventory-fingerprint: 4d6a72a05c201fb9 -->
 # Public surface inventory
 
 - **Surfaces:** 26
-- **Generated:** 2026-06-25T00:40:01Z
+- **Generated:** 2026-06-25T12:28:14Z
 - **Machine SSOT:** [`data/public-surface-inventory.json`](../../data/public-surface-inventory.json)
 - **Regenerate:** `ph-civ surface-inventory`
 
@@ -16,10 +16,10 @@ Per-surface status vocabulary: [public-surface-status.md](../../docs/public-surf
 | `start_here` | bootloader | canonical | START-HERE.md | validate:llm-experience |
 | `strategy_codex_bridge` | bridge | active | docs/strategy-codex-bridge.md | manual |
 | `cards_dataset` | card_dataset | active | data/cards.jsonl | validate:cards |
-| `ph_civ_index` | chapter_catalog | generated | data/ph-civ-index.json | validate:ph-civ-index |
+| `ph_civ_index` | chapter_catalog | generated | data/predictive-history-index.json | validate:ph-civ-index |
 | `chapter_folders` | chapter_folder | active | ph-civ/chapters/* · ph-apo/chapters/* · book/volume-*/… | validate:cards |
-| `ph_apo_volume_ii_chapters` | chapter_folder | active | ph-apo/chapters/* (+ book/volume-ii-apocalypse/) | data/ph-civ-index.json |
-| `ph_civ_volume_i_chapters` | chapter_folder | active | ph-civ/chapters/* (+ book/volume-i-civilization/) | data/ph-civ-index.json |
+| `ph_apo_volume_ii_chapters` | chapter_folder | active | ph-apo/chapters/* (+ book/volume-ii-apocalypse/) | data/predictive-history-index.json |
+| `ph_civ_volume_i_chapters` | chapter_folder | active | ph-civ/chapters/* (+ book/volume-i-civilization/) | data/predictive-history-index.json |
 | `commentary_methodology_v2` | doctrine_doc | canonical | docs/commentary-methodology-v2.md | validate:commentary-canvas |
 | `public_repo_contract` | doctrine_doc | canonical | docs/public-repo-contract.md | manual |
 | `public_surface_status` | doctrine_doc | active | docs/public-surface-status.md | manual |
@@ -35,4 +35,4 @@ Per-surface status vocabulary: [public-surface-status.md](../../docs/public-surf
 | `spine_tour` | route_dataset | active | data/routes/volume-i-spine-tour.json | manual |
 | `public_surface_inventory` | schema_prompt | generated | data/public-surface-inventory.json | manual |
 | `public_surface_triage` | schema_prompt | generated | data/public-surface-triage.json | manual |
-| `transcript_commentary_chapters` | transcript | canonical | (per data/ph-civ-index.json chapters[].paths) | data/ph-civ-index.json |
+| `transcript_commentary_chapters` | transcript | canonical | (per data/predictive-history-index.json chapters[].paths) | data/predictive-history-index.json |
