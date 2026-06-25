@@ -26,7 +26,7 @@ VALIDATION_COVERAGE_MAP = {
     "volume_i_parts_deprecated": "validate:volume-i-parts-deprecated",
     "commentary_canvas": "validate:commentary-canvas",
     "manual": "manual",
-    "aggregate": "data/ph-civ-index.json",
+    "aggregate": "data/predictive-history-index.json",
 }
 
 
@@ -119,13 +119,13 @@ def static_surface_rows() -> list[dict]:
         ),
         _row(
             surface="ph_civ_index",
-            path="data/ph-civ-index.json",
+            path="data/predictive-history-index.json",
             surface_class="chapter_catalog",
             status="generated",
             generated_or_hand_authored="generated",
             regeneration_command="ph-civ index",
             validation_coverage="ph_civ_index",
-            notes="Human mirror: docs/ph-civ-index.md",
+            notes="Human mirror: docs/predictive-history-index.md",
         ),
         _row(
             surface="cards_dataset",
@@ -264,7 +264,7 @@ def aggregate_chapter_rows(cards: list[dict], repo_root: Path) -> list[dict]:
     return [
         _row(
             surface="transcript_commentary_chapters",
-            path="(per data/ph-civ-index.json chapters[].paths)",
+            path="(per data/predictive-history-index.json chapters[].paths)",
             surface_class="transcript",
             status="canonical",
             source_floor="transcript",
@@ -278,7 +278,7 @@ def aggregate_chapter_rows(cards: list[dict], repo_root: Path) -> list[dict]:
             status="active",
             reader_mode="study",
             validation_coverage="cards",
-            notes=f"{folder_count} folder-backed study doorways; full list in ph-civ-index.json",
+            notes=f"{folder_count} folder-backed study doorways; full list in predictive-history-index.json",
         ),
         _row(
             surface="ph_civ_volume_i_chapters",
@@ -327,7 +327,7 @@ def render_inventory_payload(cards: list[dict], repo_root: Path) -> dict:
         "fingerprint": fingerprint,
         "generated_at": last_checked,
         "card_count": len(cards),
-        "chapter_catalog": "data/ph-civ-index.json",
+        "chapter_catalog": "data/predictive-history-index.json",
         "markdown_summary": INVENTORY_MD_REL,
         "surface_count": len(rows),
         "surfaces": rows,

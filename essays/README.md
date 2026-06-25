@@ -29,7 +29,7 @@ Each essay chapter:
 - `essay-NN-commentary.md` — open commentary canvas
 - `README.md` — public study doorway (`## Source Video` + Substack URL)
 
-Registry: [`data/cards.jsonl`](../data/cards.jsonl) · catalog: [`docs/ph-civ-index.md`](../docs/ph-civ-index.md).
+Registry: [`data/cards.jsonl`](../data/cards.jsonl) · catalog: [`docs/predictive-history-index.md`](../docs/predictive-history-index.md).
 
 ## Catalog fields
 

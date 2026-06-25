@@ -1,5 +1,5 @@
 {
-  "card_count": 183,
+  "card_count": 189,
   "cards": [
     {
       "part": "civilization",
@@ -540,6 +540,393 @@
       "series": "civilization",
       "source_id": "civ-60",
       "title": "Civilization #60: The Decline and Fall of the American Empire"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-01.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-01",
+      "title": "Vision, Mission, Goals"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-02.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-02",
+      "title": "\"Continuity of Government\" is a Joke. Here's Why."
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-03.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-03",
+      "title": "The Third Coming"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-04.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-04",
+      "title": "The Secret History of the World #1: The Cost of Money"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-05.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-05",
+      "title": "The Secret History of the World #2: Measuring the Resilience of Societies"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-06.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-06",
+      "title": "The Secret History of the World #3: The Corporate Re-Structuring of Canada"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-07.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-07",
+      "title": "The Secret History of the World #4: Enter Epstein Island"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-08.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-08",
+      "title": "The Secret History of the World #5: The Poetry of Transgression"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-09.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-09",
+      "title": "The Secret History of the World #6: Manchurian Candidates"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-10.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-10",
+      "title": "Secret History #7: The Voyage Home"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-11.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-11",
+      "title": "Tipping Point USA"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-12.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-12",
+      "title": "I Have Questions about Tyler Robinson"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-13.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-13",
+      "title": "\"Predictive History\" Reading List"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-14.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-14",
+      "title": "What Can Be Done?"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-15.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-15",
+      "title": "The Empire Goes to War"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-16.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-16",
+      "title": "War Machine USA"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-17.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-17",
+      "title": "Why I Refuse to Get Rich"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-18.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-18",
+      "title": "Secret History #8: The Rise of the American Kakistocracy"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-19.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-19",
+      "title": "The Limits of Pax Judaica"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-20.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-20",
+      "title": "Secret History #9: The War of Heaven and Hell"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-21.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-21",
+      "title": "Secret History #10: The Great Revealing"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-22.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-22",
+      "title": "Blowback Venezuela"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-23.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-23",
+      "title": "Minnesota Burning"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-24.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-24",
+      "title": "Iran, Greenland, and Canada"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-25.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-25",
+      "title": "Carney’s Speech and Trump’s Letter"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-26.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-26",
+      "title": "Twilight of the Liberal Elite"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-27.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-27",
+      "title": "Welcome to the Rupture"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-28.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-28",
+      "title": "Countdown to Iran"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-29.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-29",
+      "title": "World War III Begins"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-30.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-30",
+      "title": "The Acceleration"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-31.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-31",
+      "title": "Vietnam Redux"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-32.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-32",
+      "title": "The US-Iran End Game"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-33.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-33",
+      "title": "World War Trump"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-34.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-34",
+      "title": "The US-Iran War, Round Two"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-35.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-35",
+      "title": "The Trump New Deal"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-36.md",
+      "placement_weight": "medium",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-36",
+      "title": "God Emperor Trump"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-37.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-37",
+      "title": "China's Third Center Strategy"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-38.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-38",
+      "title": "Our WTF! Years"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-39.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-39",
+      "title": "The US-China Grand Bargain"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-40.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-40",
+      "title": "The Loneliness of Mad King Trump"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-41.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-41",
+      "title": "Peter Thiel's Republic"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-42.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-42",
+      "title": "Welcome to Boomer Hell"
+    },
+    {
+      "part": "civilization",
+      "path": "data/cards/essay-43.md",
+      "placement_weight": "strong",
+      "review_status": "in_review",
+      "series": "essays",
+      "source_id": "essay-43",
+      "title": "Peace in Our Time?"
     },
     {
       "part": "civilization",
@@ -1314,353 +1701,20 @@
       "series": "secret-history",
       "source_id": "sh-28",
       "title": "Secret History #28: Pax Judaica"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-01.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-01",
-      "title": "Vision, Mission, Goals"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-02.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-02",
-      "title": "\"Continuity of Government\" is a Joke. Here's Why."
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-03.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-03",
-      "title": "The Third Coming"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-04.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-04",
-      "title": "The Secret History of the World #1: The Cost of Money"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-05.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-05",
-      "title": "The Secret History of the World #2: Measuring the Resilience of Societies"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-06.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-06",
-      "title": "The Secret History of the World #3: The Corporate Re-Structuring of Canada"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-07.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-07",
-      "title": "The Secret History of the World #4: Enter Epstein Island"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-08.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-08",
-      "title": "The Secret History of the World #5: The Poetry of Transgression"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-09.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-09",
-      "title": "The Secret History of the World #6: Manchurian Candidates"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-10.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-10",
-      "title": "Secret History #7: The Voyage Home"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-11.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-11",
-      "title": "Tipping Point USA"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-12.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-12",
-      "title": "I Have Questions about Tyler Robinson"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-13.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-13",
-      "title": "\"Predictive History\" Reading List"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-14.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-14",
-      "title": "What Can Be Done?"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-15.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-15",
-      "title": "The Empire Goes to War"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-16.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-16",
-      "title": "War Machine USA"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-17.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-17",
-      "title": "Why I Refuse to Get Rich"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-18.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-18",
-      "title": "Secret History #8: The Rise of the American Kakistocracy"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-19.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-19",
-      "title": "The Limits of Pax Judaica"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-20.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-20",
-      "title": "Secret History #9: The War of Heaven and Hell"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-21.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-21",
-      "title": "Secret History #10: The Great Revealing"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-22.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-22",
-      "title": "Blowback Venezuela"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-23.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-23",
-      "title": "Minnesota Burning"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-24.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-24",
-      "title": "Iran, Greenland, and Canada"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-25.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-25",
-      "title": "Carney’s Speech and Trump’s Letter"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-26.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-26",
-      "title": "Twilight of the Liberal Elite"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-27.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-27",
-      "title": "Welcome to the Rupture"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-28.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-28",
-      "title": "Countdown to Iran"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-29.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-29",
-      "title": "World War III Begins"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-30.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-30",
-      "title": "The Acceleration"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-31.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-31",
-      "title": "Vietnam Redux"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-32.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-32",
-      "title": "The US-Iran End Game"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-33.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-33",
-      "title": "World War Trump"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-34.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-34",
-      "title": "The US-Iran War, Round Two"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-35.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-35",
-      "title": "The Trump New Deal"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-36.md",
-      "placement_weight": "medium",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-36",
-      "title": "God Emperor Trump"
-    },
-    {
-      "part": "civilization",
-      "path": "data/cards/essay-37.md",
-      "placement_weight": "strong",
-      "review_status": "in_review",
-      "series": "essays",
-      "source_id": "essay-37",
-      "title": "China's Third Center Strategy"
     }
   ],
   "name": "ph-civ",
   "part_counts": {
-    "civilization": 78,
-    "world-war": 72
+    "civilization": 121,
+    "world-war": 68
   },
   "series_counts": {
     "civilization": 60,
-    "great-books": 10,
+    "essays": 43,
+    "game-theory": 28,
     "geo-strategy": 20,
-    "game-theory": 27,
-    "secret-history": 28,
-    "essays": 5
+    "great-books": 10,
+    "secret-history": 28
   },
   "source_snapshot": {
     "commit": "56a4a08",

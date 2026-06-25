@@ -8,10 +8,10 @@ from pathlib import Path
 from .commentary_v2 import commentary_metadata
 from .data import PACKAGE_ROOT, load_cards
 
-INDEX_MD_REL = "docs/ph-civ-index.md"
-INDEX_JSON_REL = "data/ph-civ-index.json"
+INDEX_MD_REL = "docs/predictive-history-index.md"
+INDEX_JSON_REL = "data/predictive-history-index.json"
 DEPRECATED_SOURCE_VIDEO_INDEX_REL = "docs/source-video-index.md"
-FINGERPRINT_MARKER = "<!-- ph-civ-index-fingerprint:"
+FINGERPRINT_MARKER = "<!-- predictive-history-index-fingerprint:"
 SCHEMA_VERSION = 2
 
 PART_SECTIONS: dict[str, list[tuple[str, str]]] = {
@@ -251,13 +251,13 @@ def render_index_body(cards: list[dict], repo_root: Path) -> str:
         by_part.setdefault(part, {}).setdefault(series, []).append(card)
 
     lines = [
-        "# ph-civ Chapter Index",
+        "# Predictive History Chapter Index",
         "",
         "Canonical catalog of every public Predictive History lecture chapter in this repository.",
         "",
         f"- **Card count:** {len(cards)}",
         f"- **Transcript words (total):** {sum(transcript_word_count(card, repo_root) for card in cards):,}",
-        f"- **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`data/ph-civ-index.json`](../data/ph-civ-index.json) · [`data/index.json`](../data/index.json)",
+        f"- **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`data/predictive-history-index.json`](../data/predictive-history-index.json) · [`data/index.json`](../data/index.json)",
         "- **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py` · auto-sync during `ph-civ validate` and publish",
         "",
         "Surfaces:",
@@ -268,7 +268,7 @@ def render_index_body(cards: list[dict], repo_root: Path) -> str:
         "Bridge support nodes (`sh-11`, `sh-16`, `sh-17`, `sh-18`) appear in Volume I membership but carry cross-volume routing; check each card's `part` and folder.",
         "",
         "YouTube and Substack source URLs appear in the **Video** column below and in "
-        "[`data/ph-civ-index.json`](../data/ph-civ-index.json) (`source_video_url`). "
+        "[`data/predictive-history-index.json`](../data/predictive-history-index.json) (`source_video_url`). "
         "**Words** counts transcript body text only (YAML frontmatter excluded). "
         "Legacy [`source-video-index.md`](source-video-index.md) redirects here.",
         "",
@@ -322,7 +322,7 @@ def read_index_fingerprint(path: Path) -> str | None:
     first_line = path.read_text(encoding="utf-8").splitlines()[0:1]
     if not first_line:
         return None
-    match = re.match(r"<!-- ph-civ-index-fingerprint: ([0-9a-f]+) -->", first_line[0])
+    match = re.match(r"<!-- predictive-history-index-fingerprint: ([0-9a-f]+) -->", first_line[0])
     return match.group(1) if match else None
 
 
@@ -396,7 +396,7 @@ def validate_ph_civ_index(cards: list[dict] | None = None, *, repo_root: Path | 
 
 DEPRECATED_SOURCE_VIDEO_INDEX_MARKERS = [
     "deprecated",
-    "ph-civ-index.md",
+    "predictive-history-index.md",
     "source_video_url",
 ]
 
@@ -413,4 +413,38 @@ def validate_deprecated_source_video_index(*, repo_root: Path | None = None) -> 
     for marker in DEPRECATED_SOURCE_VIDEO_INDEX_MARKERS:
         if marker.lower() not in lowered:
             errors.append(f"{DEPRECATED_SOURCE_VIDEO_INDEX_REL} missing marker: {marker}")
+    return errors
+
+
+DEPRECATED_PH_CIV_INDEX_MD_REL = "docs/ph-civ-index.md"
+DEPRECATED_PH_CIV_INDEX_JSON_REL = "data/ph-civ-index.json"
+
+DEPRECATED_PH_CIV_INDEX_MARKERS = [
+    "deprecated",
+    "predictive-history-index.md",
+    "predictive-history-index.json",
+]
+
+
+def validate_deprecated_ph_civ_index(*, repo_root: Path | None = None) -> list[str]:
+    root = repo_root or PACKAGE_ROOT
+    errors: list[str] = []
+    md_path = root / DEPRECATED_PH_CIV_INDEX_MD_REL
+    if not md_path.exists():
+        errors.append(f"missing deprecated redirect stub: {DEPRECATED_PH_CIV_INDEX_MD_REL}")
+    else:
+        lowered = md_path.read_text(encoding="utf-8").lower()
+        for marker in DEPRECATED_PH_CIV_INDEX_MARKERS:
+            if marker.lower() not in lowered:
+                errors.append(f"{DEPRECATED_PH_CIV_INDEX_MD_REL} missing marker: {marker}")
+
+    json_path = root / DEPRECATED_PH_CIV_INDEX_JSON_REL
+    if not json_path.exists():
+        errors.append(f"missing deprecated redirect stub: {DEPRECATED_PH_CIV_INDEX_JSON_REL}")
+    else:
+        payload = json.loads(json_path.read_text(encoding="utf-8"))
+        if payload.get("_deprecated") != "Moved to data/predictive-history-index.json":
+            errors.append(f"{DEPRECATED_PH_CIV_INDEX_JSON_REL} missing _deprecated marker")
+        if payload.get("redirect") != "data/predictive-history-index.json":
+            errors.append(f"{DEPRECATED_PH_CIV_INDEX_JSON_REL} redirect must point to canonical index")
     return errors

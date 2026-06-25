@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate docs/ph-civ-index.md from data/cards.jsonl (all ph-civ + ph-apo chapters)."""
+"""Generate docs/predictive-history-index.md from data/cards.jsonl (all ph-civ + ph-apo chapters)."""
 
 from __future__ import annotations
 

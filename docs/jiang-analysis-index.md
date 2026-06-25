@@ -49,7 +49,7 @@ Use these notes when the question is not only "what is in the corpus?" but also 
 - [Operator workspace bridge](strategy-codex-bridge.md)  
   The boundary between the public mirror and live operator workspace work.
 
-- [Chapter Catalog (ph-civ-index)](ph-civ-index.md)  
+- [Chapter Catalog (predictive-history-index)](predictive-history-index.md)  
   Public lecture map with YouTube URLs in the **Video** column (`source_video_url` in JSON).
 
 ## Use Case

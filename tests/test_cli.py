@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def test_loads_all_seeded_cards():
     cards = load_cards()
-    assert len(cards) == 150
+    assert len(cards) == 189
     assert {"civilization", "world-war"} <= {card["part"] for card in cards}
 
 
@@ -35,8 +35,8 @@ def test_all_cards_have_local_transcript_and_commentary():
         transcript_paths.append(transcript_path)
         commentary_paths.append(commentary_path)
 
-    assert len(set(transcript_paths)) == 150
-    assert len(set(commentary_paths)) == 150
+    assert len(set(transcript_paths)) == 189
+    assert len(set(commentary_paths)) == 189
 
 
 def test_all_commentaries_have_open_project_canvas():
@@ -124,7 +124,7 @@ def test_prompt_creative_contains_boundaries(capsys):
 
 def test_validate_passes(capsys):
     assert main(["validate"]) == 0
-    assert "card_count: 150" in capsys.readouterr().out
+    assert "card_count: 189" in capsys.readouterr().out
 
 
 def test_index_command_writes_fingerprinted_index():
@@ -143,10 +143,10 @@ def test_index_command_writes_fingerprinted_index():
     assert read_index_fingerprint(md_path)
     assert read_index_fingerprint(json_path)
     assert read_index_fingerprint(md_path) == read_index_fingerprint(json_path)
-    assert md_path.read_text(encoding="utf-8").startswith("<!-- ph-civ-index-fingerprint:")
+    assert md_path.read_text(encoding="utf-8").startswith("<!-- predictive-history-index-fingerprint:")
     payload = json.loads(json_path.read_text(encoding="utf-8"))
-    assert payload["card_count"] == 150
-    assert len(payload["chapters"]) == 150
+    assert payload["card_count"] == 189
+    assert len(payload["chapters"]) == 189
     assert payload["schema_version"] == 2
     assert payload["transcript_word_total"] > 1_000_000
     assert validate_ph_civ_index() == []
@@ -248,14 +248,14 @@ def test_llm_native_bootloader_contract(capsys):
     assert experience["chapter_folder_links"]["reader_doc"] == "docs/chapter-folder-links.md"
     assert experience["chapter_folder_links"]["default_mode"] == "study"
     assert experience["chapter_folder_links"]["cli"] == "ph-civ link <source_id>"
-    assert experience["chapter_catalog"]["json_path"] == "data/ph-civ-index.json"
-    assert experience["chapter_catalog"]["markdown_path"] == "docs/ph-civ-index.md"
+    assert experience["chapter_catalog"]["json_path"] == "data/predictive-history-index.json"
+    assert experience["chapter_catalog"]["markdown_path"] == "docs/predictive-history-index.md"
     assert experience["chapter_catalog"]["not_replacement_for"] == "first_tour"
-    assert "data/ph-civ-index.json" in experience["unfolding_map"]
+    assert "data/predictive-history-index.json" in experience["unfolding_map"]
     study_mode = next(mode for mode in experience["modes"] if mode["mode"] == "study")
-    assert "data/ph-civ-index.json" in study_mode["start_files"]
+    assert "data/predictive-history-index.json" in study_mode["start_files"]
     catalog_mode = next(mode for mode in experience["modes"] if mode["mode"] == "catalog")
-    assert catalog_mode["start_files"] == ["data/ph-civ-index.json", "docs/ph-civ-index.md"]
+    assert catalog_mode["start_files"] == ["data/predictive-history-index.json", "docs/predictive-history-index.md"]
     assert experience["public_surfaces"]["volume_i"]["surface"] == "ph-civ"
     assert experience["public_surfaces"]["volume_ii"]["surface"] == "ph-apo"
     assert "museum" not in experience["public_surfaces"]
@@ -272,7 +272,7 @@ def test_llm_native_bootloader_contract(capsys):
     assert payload["first_tour"]["path"] == "data/routes/first-tour.json"
     assert payload["bilingual_bridge"]["path"] == "data/bilingual-loop.json"
     assert payload["chapter_folder_links"]["reader_doc"] == "docs/chapter-folder-links.md"
-    assert payload["chapter_catalog"]["json_path"] == "data/ph-civ-index.json"
+    assert payload["chapter_catalog"]["json_path"] == "data/predictive-history-index.json"
     assert payload["first_seed"]["route_ids"] == load_route_seed()["route_ids"]
 
 
@@ -300,8 +300,8 @@ def test_llms_full_context_packet_exists():
     assert "not live war analysis" in text
     assert "Chapter-Folder Links" in text
     assert "not a replacement for `first_tour`" in text
-    assert "docs/ph-civ-index.md" in text
-    assert "data/ph-civ-index.json" in text
+    assert "docs/predictive-history-index.md" in text
+    assert "data/predictive-history-index.json" in text
     assert "Chapter Catalog" in text
 
 
@@ -310,14 +310,24 @@ def test_deprecated_source_video_index_stub():
     assert stub.exists()
     text = stub.read_text(encoding="utf-8")
     assert "deprecated" in text.lower()
-    assert "ph-civ-index.md" in text
+    assert "predictive-history-index.md" in text
+
+
+def test_deprecated_ph_civ_index_stub():
+    stub = ROOT / "docs" / "ph-civ-index.md"
+    assert stub.exists()
+    text = stub.read_text(encoding="utf-8")
+    assert "deprecated" in text.lower()
+    assert "predictive-history-index.md" in text
+    redirect = json.loads((ROOT / "data" / "ph-civ-index.json").read_text(encoding="utf-8"))
+    assert redirect.get("redirect") == "data/predictive-history-index.json"
 
 
 def test_ph_civ_index_surfaces_youtube_urls():
-    index = ROOT / "docs" / "ph-civ-index.md"
+    index = ROOT / "docs" / "predictive-history-index.md"
     assert index.exists()
     text = index.read_text(encoding="utf-8")
-    assert "ph-civ Chapter Index" in text
+    assert "Predictive History Chapter Index" in text
     assert "| Words |" in text
     assert "https://www.youtube.com/watch?v=8nsxuB3Vsts" in text
     assert "ph-apo/chapters/gt-24/gt-24-transcript.md" in text
@@ -325,10 +335,10 @@ def test_ph_civ_index_surfaces_youtube_urls():
 
 
 def test_ph_civ_index_transcript_word_counts():
-    payload = json.loads((ROOT / "data" / "ph-civ-index.json").read_text(encoding="utf-8"))
+    payload = json.loads((ROOT / "data" / "predictive-history-index.json").read_text(encoding="utf-8"))
     chapters = payload["chapters"]
     assert payload["schema_version"] == 2
-    assert len(chapters) == 150
+    assert len(chapters) == 189
     assert all("transcript_word_count" in chapter for chapter in chapters)
     assert payload["transcript_word_total"] == sum(
         chapter["transcript_word_count"] for chapter in chapters
@@ -513,7 +523,7 @@ def test_volumes_command_returns_architecture(capsys):
     assert payload["volumes"]["volume_ii"]["surface"] == "ph-apo"
     assert payload["volumes"]["volume_ii"]["role"] == "law_application"
     assert "museum" not in payload
-    assert payload["unique_card_count"] == 150
+    assert payload["unique_card_count"] == 189
 
 
 def test_volume_command_lists_conceptual_membership(capsys):
