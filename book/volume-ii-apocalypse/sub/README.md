@@ -4,8 +4,8 @@ Use this spine when you want the canonical chapter wrappers for this part of the
 
 ## Chapters
 
-- [sub-33](./sub-33/README.md) - World War Trump
-- [sub-34](./sub-34/README.md) - The US-Iran War, Round Two
-- [sub-35](./sub-35/README.md) - The Trump New Deal
-- [sub-36](./sub-36/README.md) - God Emperor Trump
-- [sub-37](./sub-37/README.md) - China's Third Center Strategy
+- [essay-33](./essay-33/README.md) - World War Trump
+- [essay-34](./essay-34/README.md) - The US-Iran War, Round Two
+- [essay-35](./essay-35/README.md) - The Trump New Deal
+- [essay-36](./essay-36/README.md) - God Emperor Trump
+- [essay-37](./essay-37/README.md) - China's Third Center Strategy

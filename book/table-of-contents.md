@@ -188,11 +188,11 @@ Tolstoy is the named hinge from law-discovery to pressure-reading. He is not onl
 
 #### Essays
 
-- [sub-33](./volume-ii-apocalypse/sub/sub-33/README.md) - World War Trump
-- [sub-34](./volume-ii-apocalypse/sub/sub-34/README.md) - The Iranian Resurrection
-- [sub-35](./volume-ii-apocalypse/sub/sub-35/README.md) - How America Will Fall
-- [sub-36](./volume-ii-apocalypse/sub/sub-36/README.md) - The Theology of Civilization
-- [sub-37](./volume-ii-apocalypse/sub/sub-37/README.md) - The American Endgame
+- [essay-33](./volume-ii-apocalypse/sub/essay-33/README.md) - World War Trump
+- [essay-34](./volume-ii-apocalypse/sub/essay-34/README.md) - The Iranian Resurrection
+- [essay-35](./volume-ii-apocalypse/sub/essay-35/README.md) - How America Will Fall
+- [essay-36](./volume-ii-apocalypse/sub/essay-36/README.md) - The Theology of Civilization
+- [essay-37](./volume-ii-apocalypse/sub/essay-37/README.md) - The American Endgame
 
 ## Part B: Canonical Chapter Registry
 
@@ -372,11 +372,11 @@ Every current public chapter ID and title appears exactly once in this registry.
 
 #### Essays
 
-- [sub-33](./volume-ii-apocalypse/sub/sub-33/README.md) - World War Trump
-- [sub-34](./volume-ii-apocalypse/sub/sub-34/README.md) - The Iranian Resurrection
-- [sub-35](./volume-ii-apocalypse/sub/sub-35/README.md) - How America Will Fall
-- [sub-36](./volume-ii-apocalypse/sub/sub-36/README.md) - The Theology of Civilization
-- [sub-37](./volume-ii-apocalypse/sub/sub-37/README.md) - The American Endgame
+- [essay-33](./volume-ii-apocalypse/sub/essay-33/README.md) - World War Trump
+- [essay-34](./volume-ii-apocalypse/sub/essay-34/README.md) - The Iranian Resurrection
+- [essay-35](./volume-ii-apocalypse/sub/essay-35/README.md) - How America Will Fall
+- [essay-36](./volume-ii-apocalypse/sub/essay-36/README.md) - The Theology of Civilization
+- [essay-37](./volume-ii-apocalypse/sub/essay-37/README.md) - The American Endgame
 
 ## Maintenance Rule
 

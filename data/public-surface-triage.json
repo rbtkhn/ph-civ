@@ -83,6 +83,43 @@
       "civ-58",
       "civ-59",
       "civ-60",
+      "essay-01",
+      "essay-02",
+      "essay-03",
+      "essay-04",
+      "essay-05",
+      "essay-06",
+      "essay-07",
+      "essay-08",
+      "essay-09",
+      "essay-10",
+      "essay-11",
+      "essay-12",
+      "essay-13",
+      "essay-14",
+      "essay-15",
+      "essay-16",
+      "essay-17",
+      "essay-18",
+      "essay-19",
+      "essay-20",
+      "essay-21",
+      "essay-22",
+      "essay-23",
+      "essay-24",
+      "essay-25",
+      "essay-26",
+      "essay-27",
+      "essay-28",
+      "essay-29",
+      "essay-30",
+      "essay-31",
+      "essay-32",
+      "essay-33",
+      "essay-34",
+      "essay-35",
+      "essay-36",
+      "essay-37",
       "gb-01",
       "gb-03",
       "gb-04",
@@ -165,44 +202,7 @@
       "sh-25",
       "sh-26",
       "sh-27",
-      "sh-28",
-      "sub-01",
-      "sub-02",
-      "sub-03",
-      "sub-04",
-      "sub-05",
-      "sub-06",
-      "sub-07",
-      "sub-08",
-      "sub-09",
-      "sub-10",
-      "sub-11",
-      "sub-12",
-      "sub-13",
-      "sub-14",
-      "sub-15",
-      "sub-16",
-      "sub-17",
-      "sub-18",
-      "sub-19",
-      "sub-20",
-      "sub-21",
-      "sub-22",
-      "sub-23",
-      "sub-24",
-      "sub-25",
-      "sub-26",
-      "sub-27",
-      "sub-28",
-      "sub-29",
-      "sub-30",
-      "sub-31",
-      "sub-32",
-      "sub-33",
-      "sub-34",
-      "sub-35",
-      "sub-36",
-      "sub-37"
+      "sh-28"
     ],
     "STUB_ROUTED": [],
     "UNASSIGNED": [
@@ -632,6 +632,265 @@
       "review_status": "in_review",
       "part": "civilization",
       "series": "civilization"
+    },
+    {
+      "source_id": "essay-01",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-02",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-03",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-04",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-05",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-06",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-07",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-08",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-09",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-10",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-11",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-12",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-13",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-14",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-15",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-16",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-17",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-18",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-19",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-20",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-21",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-22",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-23",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-24",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-25",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-26",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-27",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-28",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-29",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-30",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-31",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-32",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-33",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-34",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-35",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-36",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-37",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
     },
     {
       "source_id": "gb-01",
@@ -1234,269 +1493,10 @@
       "review_status": "in_review",
       "part": "world-war",
       "series": "secret-history"
-    },
-    {
-      "source_id": "sub-01",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-02",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-03",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-04",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-05",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-06",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-07",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-08",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-09",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-10",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-11",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-12",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-13",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-14",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-15",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-16",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-17",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-18",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-19",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-20",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-21",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-22",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-23",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-24",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-25",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-26",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-27",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-28",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-29",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-30",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-31",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-32",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-33",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-34",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-35",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-36",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
-    },
-    {
-      "source_id": "sub-37",
-      "bucket": "NEEDS_COMMENTARY_REVIEW",
-      "review_status": "in_review",
-      "part": "civilization",
-      "series": "essays"
     }
   ],
-  "fingerprint": "e472761f644611e3",
-  "generated_at": "2026-06-25T00:40:02Z",
+  "fingerprint": "7824e65f60ee3287",
+  "generated_at": "2026-06-25T10:29:02Z",
   "markdown_summary": "runtime/artifacts/public-surface-triage.md",
   "inventory_json": "data/public-surface-inventory.json"
 }

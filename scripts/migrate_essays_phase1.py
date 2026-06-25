@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Phase 1: move public sub-33..sub-37 essay packets to repo-root essays/."""
+"""Phase 1: move public essay-33..essay-37 essay packets to repo-root essays/."""
 
 from __future__ import annotations
 
@@ -9,7 +9,7 @@ import shutil
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE_IDS = ["sub-33", "sub-34", "sub-35", "sub-36", "sub-37"]
+SOURCE_IDS = ["essay-33", "essay-34", "essay-35", "essay-36", "essay-37"]
 LEGACY_PREFIX = "book/volume-vii"
 NEW_PREFIX = "essays"
 

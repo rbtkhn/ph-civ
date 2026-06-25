@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Phase 2: intake workshop Substack essays es-01..es-32 -> public ph-civ essays/sub-01..sub-32."""
+"""Phase 2: intake workshop Substack essays es-01..es-32 -> public ph-civ essays/essay-01..essay-32."""
 
 from __future__ import annotations
 
@@ -14,7 +14,7 @@ import yaml
 PH_CIV = Path(__file__).resolve().parents[1]
 WORKSHOP = PH_CIV.parent.parent / "codex" / "predictive-history"
 SOURCES_YAML = WORKSHOP / "metadata" / "sources.yaml"
-SKIP_ES_NUMBERS = {33, 34, 35}  # already public as sub-33..sub-35
+SKIP_ES_NUMBERS = {33, 34, 35}  # already public as essay-33..essay-35
 MAX_ES = 32
 INGESTED_AT = date.today().isoformat()
 
@@ -377,7 +377,7 @@ def merge_cards_jsonl(new_cards: list[dict]) -> None:
     out: list[dict] = []
     inserted = False
     for card in existing:
-        if not inserted and card.get("source_id") == "sub-33":
+        if not inserted and card.get("source_id") == "essay-33":
             out.extend(new_cards)
             inserted = True
         out.append(card)
@@ -445,8 +445,8 @@ def main() -> int:
 
     merge_cards_jsonl(new_cards)
     sync_index_json()
-    public_count = 5 + len(created)  # sub-33..37 minus overlap: 33-35 were phase1, 36-37 extra
-    # public essay folders = sub-01..32 + sub-33..37 = 37
+    public_count = 5 + len(created)  # essay-33..37 minus overlap: 33-35 were phase1, 36-37 extra
+    # public essay folders = essay-01..32 + essay-33..37 = 37
     update_essays_readme(37)
 
     print(f"intake complete: {len(created)} essays -> {', '.join(created[:5])} ... {created[-1]}")
