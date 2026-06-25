@@ -29,6 +29,8 @@ Treat this chapter folder as a small source-lattice:
 
 `in_review`. Do not treat provisional transcript text, named claims, quotations, or current-event predictions as final until review is complete.
 
+**Transcript pass 2 (2026-06-25):** Six section rails under Part I; speaker-label repair (`Thanks for inviting me` → Jiang); `block out` → `block off` (Hormuz). Eschatology / Illuminati block left verbatim (transcript-logic, no audio re-listen).
+
 ## LLM Prompt
 
 Paste this folder link into ChatGPT, Claude, or Grok and ask:
