@@ -1,8 +1,8 @@
 {
-  "schema_version": 2,
-  "fingerprint": "a2ba3fd4a09ec79e",
-  "card_count": 189,
-  "transcript_word_total": 1278975,
+  "schema_version": 3,
+  "fingerprint": "2948af5d9891ed0b",
+  "card_count": 204,
+  "transcript_word_total": 1412195,
   "ssot": "data/cards.jsonl",
   "markdown_index": "docs/predictive-history-index.md",
   "surfaces": {
@@ -13,6 +13,10 @@
     "ph-apo": {
       "part": "world-war",
       "label": "Volume II — Apocalypse (law application)"
+    },
+    "provenance": {
+      "part": "provenance",
+      "label": "Provenance (source-family residue)"
     }
   },
   "series_order": {
@@ -47,6 +51,12 @@
         "series": "essays",
         "label": "Essays"
       }
+    ],
+    "provenance": [
+      {
+        "series": "interviews",
+        "label": "Interviews"
+      }
     ]
   },
   "by_surface": {
@@ -72,6 +82,15 @@
         "secret-history": 28
       },
       "transcript_word_total": 581704
+    },
+    "provenance": {
+      "part": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "chapter_count": 15,
+      "series_counts": {
+        "interviews": 15
+      },
+      "transcript_word_total": 133220
     }
   },
   "chapters": [
@@ -3423,6 +3442,321 @@
       },
       "transcript_word_count": 10539,
       "source_video_url": "https://www.youtube.com/watch?v=dja6dkCfngE",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "interview-2025-10-30-cyrus-janssen",
+      "title": "Interviews #1: Cyrus Janssen — The World Is About to Change",
+      "part": "provenance",
+      "surface": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "series": "interviews",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "interviews/interview-2025-10-30-cyrus-janssen/interview-2025-10-30-cyrus-janssen.md",
+        "commentary": "interviews/interview-2025-10-30-cyrus-janssen/interview-2025-10-30-cyrus-janssen-commentary.md",
+        "folder": "interviews/interview-2025-10-30-cyrus-janssen",
+        "folder_readme": "interviews/interview-2025-10-30-cyrus-janssen/README.md"
+      },
+      "transcript_word_count": 6980,
+      "source_video_url": "https://www.youtube.com/watch?v=XRk5VSEzJ4Y",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "interview-2025-11-24-glenn-diesen",
+      "title": "Interviews #2: Glenn Diesen — The West's Civilizational Collapse",
+      "part": "provenance",
+      "surface": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "series": "interviews",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "interviews/interview-2025-11-24-glenn-diesen/interview-2025-11-24-glenn-diesen.md",
+        "commentary": "interviews/interview-2025-11-24-glenn-diesen/interview-2025-11-24-glenn-diesen-commentary.md",
+        "folder": "interviews/interview-2025-11-24-glenn-diesen",
+        "folder_readme": "interviews/interview-2025-11-24-glenn-diesen/README.md"
+      },
+      "transcript_word_count": 8602,
+      "source_video_url": "https://www.youtube.com/watch?v=GSSIm9xNRAE",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "interview-2026-01-05-glenn-diesen",
+      "title": "Interviews #3: Glenn Diesen — Predictions for 2026 (Empire, Rivalry & Collapse)",
+      "part": "provenance",
+      "surface": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "series": "interviews",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "interviews/interview-2026-01-05-glenn-diesen/interview-2026-01-05-glenn-diesen.md",
+        "commentary": "interviews/interview-2026-01-05-glenn-diesen/interview-2026-01-05-glenn-diesen-commentary.md",
+        "folder": "interviews/interview-2026-01-05-glenn-diesen",
+        "folder_readme": "interviews/interview-2026-01-05-glenn-diesen/README.md"
+      },
+      "transcript_word_count": 8072,
+      "source_video_url": "https://www.youtube.com/watch?v=ORyCS0r2Tpg",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "interview-2026-01-18-danny-haiphong",
+      "title": "Interviews #4: Danny Haiphong — Predictions for 2026: Trump, Iran & Empire Collapse",
+      "part": "provenance",
+      "surface": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "series": "interviews",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "interviews/interview-2026-01-18-danny-haiphong/interview-2026-01-18-danny-haiphong.md",
+        "commentary": "interviews/interview-2026-01-18-danny-haiphong/interview-2026-01-18-danny-haiphong-commentary.md",
+        "folder": "interviews/interview-2026-01-18-danny-haiphong",
+        "folder_readme": "interviews/interview-2026-01-18-danny-haiphong/README.md"
+      },
+      "transcript_word_count": 5246,
+      "source_video_url": "https://www.youtube.com/watch?v=H5lCJ0D4DpY",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "interview-2026-01-22-dimitri-lascaris",
+      "title": "Interviews #5: Dimitri Lascaris — Trump’s War on Iran, Davos, Canada–China",
+      "part": "provenance",
+      "surface": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "series": "interviews",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "interviews/interview-2026-01-22-dimitri-lascaris/interview-2026-01-22-dimitri-lascaris.md",
+        "commentary": "interviews/interview-2026-01-22-dimitri-lascaris/interview-2026-01-22-dimitri-lascaris-commentary.md",
+        "folder": "interviews/interview-2026-01-22-dimitri-lascaris",
+        "folder_readme": "interviews/interview-2026-01-22-dimitri-lascaris/README.md"
+      },
+      "transcript_word_count": 6045,
+      "source_video_url": "https://www.youtube.com/watch?v=uHIdRgFypNo",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "interview-2026-01-26-glenn-diesen",
+      "title": "Interviews #6: Glenn Diesen — Great Power Wars Over a New World Order",
+      "part": "provenance",
+      "surface": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "series": "interviews",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "interviews/interview-2026-01-26-glenn-diesen/interview-2026-01-26-glenn-diesen.md",
+        "commentary": "interviews/interview-2026-01-26-glenn-diesen/interview-2026-01-26-glenn-diesen-commentary.md",
+        "folder": "interviews/interview-2026-01-26-glenn-diesen",
+        "folder_readme": "interviews/interview-2026-01-26-glenn-diesen/README.md"
+      },
+      "transcript_word_count": 7796,
+      "source_video_url": "https://www.youtube.com/watch?v=80jUKe0blAQ",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "interview-2026-03-02-breaking-points",
+      "title": "Interviews #7: Breaking Points (Krystal & Saagar) — US WILL LOSE Iran War",
+      "part": "provenance",
+      "surface": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "series": "interviews",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "interviews/interview-2026-03-02-breaking-points/interview-2026-03-02-breaking-points.md",
+        "commentary": "interviews/interview-2026-03-02-breaking-points/interview-2026-03-02-breaking-points-commentary.md",
+        "folder": "interviews/interview-2026-03-02-breaking-points",
+        "folder_readme": "interviews/interview-2026-03-02-breaking-points/README.md"
+      },
+      "transcript_word_count": 2460,
+      "source_video_url": "https://www.youtube.com/watch?v=4Ql24Z8SIeE",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "interview-2026-03-07-nima",
+      "title": "Interviews #8: Nima (Dialogue Works) — The Iran War: The Watershed Moment That Changed the Middle East Forever",
+      "part": "provenance",
+      "surface": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "series": "interviews",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "interviews/interview-2026-03-07-nima/interview-2026-03-07-nima.md",
+        "commentary": "interviews/interview-2026-03-07-nima/interview-2026-03-07-nima-commentary.md",
+        "folder": "interviews/interview-2026-03-07-nima",
+        "folder_readme": "interviews/interview-2026-03-07-nima/README.md"
+      },
+      "transcript_word_count": 4515,
+      "source_video_url": "https://www.youtube.com/watch?v=0rIgZD-tk3s",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "interview-2026-03-09-sneako",
+      "title": "Interviews #9: SNEAKO — The End of the World",
+      "part": "provenance",
+      "surface": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "series": "interviews",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "interviews/interview-2026-03-09-sneako/interview-2026-03-09-sneako.md",
+        "commentary": "interviews/interview-2026-03-09-sneako/interview-2026-03-09-sneako-commentary.md",
+        "folder": "interviews/interview-2026-03-09-sneako",
+        "folder_readme": "interviews/interview-2026-03-09-sneako/README.md"
+      },
+      "transcript_word_count": 3039,
+      "source_video_url": "https://www.youtube.com/watch?v=o1DElACHNRo",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "interview-2026-03-16-endgame",
+      "title": "Interviews #10: Endgame — Our True Wealth Is Our Consciousness",
+      "part": "provenance",
+      "surface": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "series": "interviews",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "interviews/interview-2026-03-16-endgame/interview-2026-03-16-endgame.md",
+        "commentary": "interviews/interview-2026-03-16-endgame/interview-2026-03-16-endgame-commentary.md",
+        "folder": "interviews/interview-2026-03-16-endgame",
+        "folder_readme": "interviews/interview-2026-03-16-endgame/README.md"
+      },
+      "transcript_word_count": 21300,
+      "source_video_url": "https://www.youtube.com/watch?v=rsi7cDRUrmE",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "interview-2026-03-20-tucker-carlson",
+      "title": "Interviews #11: Tucker Carlson — Iran War, Energy, and Global Order",
+      "part": "provenance",
+      "surface": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "series": "interviews",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "interviews/interview-2026-03-20-tucker-carlson/interview-2026-03-20-tucker-carlson.md",
+        "commentary": "interviews/interview-2026-03-20-tucker-carlson/interview-2026-03-20-tucker-carlson-commentary.md",
+        "folder": "interviews/interview-2026-03-20-tucker-carlson",
+        "folder_readme": "interviews/interview-2026-03-20-tucker-carlson/README.md"
+      },
+      "transcript_word_count": 10108,
+      "source_video_url": "https://www.youtube.com/watch?v=2K2nQsTTjQE",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "interview-2026-04-01-jay-shapiro",
+      "title": "Interviews #12: Jay Shapiro — Painful Personal Path, Truth and Myth, Internet Fame",
+      "part": "provenance",
+      "surface": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "series": "interviews",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "interviews/interview-2026-04-01-jay-shapiro/interview-2026-04-01-jay-shapiro.md",
+        "commentary": "interviews/interview-2026-04-01-jay-shapiro/interview-2026-04-01-jay-shapiro-commentary.md",
+        "folder": "interviews/interview-2026-04-01-jay-shapiro",
+        "folder_readme": "interviews/interview-2026-04-01-jay-shapiro/README.md"
+      },
+      "transcript_word_count": 19426,
+      "source_video_url": "https://www.youtube.com/watch?v=oErKnj_uyPA",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "interview-2026-04-07-patrick-bet-david",
+      "title": "Interviews #13: Patrick Bet-David — Jiang Xueqin Finally Breaks His Silence (PBD Podcast #772)",
+      "part": "provenance",
+      "surface": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "series": "interviews",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "interviews/interview-2026-04-07-patrick-bet-david/interview-2026-04-07-patrick-bet-david.md",
+        "commentary": "interviews/interview-2026-04-07-patrick-bet-david/interview-2026-04-07-patrick-bet-david-commentary.md",
+        "folder": "interviews/interview-2026-04-07-patrick-bet-david",
+        "folder_readme": "interviews/interview-2026-04-07-patrick-bet-david/README.md"
+      },
+      "transcript_word_count": 12321,
+      "source_video_url": "https://www.youtube.com/watch?v=Wio--7_GIOs",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "interview-2026-04-11-glenn-diesen",
+      "title": "Interviews #14: Glenn Diesen — The Iran War & the Battle for the Petrodollar",
+      "part": "provenance",
+      "surface": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "series": "interviews",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "interviews/interview-2026-04-11-glenn-diesen/interview-2026-04-11-glenn-diesen.md",
+        "commentary": "interviews/interview-2026-04-11-glenn-diesen/interview-2026-04-11-glenn-diesen-commentary.md",
+        "folder": "interviews/interview-2026-04-11-glenn-diesen",
+        "folder_readme": "interviews/interview-2026-04-11-glenn-diesen/README.md"
+      },
+      "transcript_word_count": 6170,
+      "source_video_url": "https://www.youtube.com/watch?v=P_DHMUdOVdo",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "interview-2026-04-14-sneako-dugin",
+      "title": "Interviews #15: Sneako — Jiang Xueqin & Aleksandr Dugin (Eschatology & Geopolitics)",
+      "part": "provenance",
+      "surface": "provenance",
+      "volume_label": "Provenance (source-family residue)",
+      "series": "interviews",
+      "review_status": "in_review",
+      "placement_weight": "light",
+      "paths": {
+        "transcript": "interviews/interview-2026-04-14-sneako-dugin/interview-2026-04-14-sneako-dugin.md",
+        "commentary": "interviews/interview-2026-04-14-sneako-dugin/interview-2026-04-14-sneako-dugin-commentary.md",
+        "folder": "interviews/interview-2026-04-14-sneako-dugin",
+        "folder_readme": "interviews/interview-2026-04-14-sneako-dugin/README.md"
+      },
+      "transcript_word_count": 11140,
+      "source_video_url": "https://www.youtube.com/watch?v=n44OF1Y7zgo",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
       "deprecated_part_routing": false

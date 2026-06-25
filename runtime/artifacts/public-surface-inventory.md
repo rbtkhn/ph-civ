@@ -1,8 +1,8 @@
-<!-- public-surface-inventory-fingerprint: 4d6a72a05c201fb9 -->
+<!-- public-surface-inventory-fingerprint: 0bd364d214d409b5 -->
 # Public surface inventory
 
 - **Surfaces:** 26
-- **Generated:** 2026-06-25T12:28:14Z
+- **Generated:** 2026-06-25T13:55:28Z
 - **Machine SSOT:** [`data/public-surface-inventory.json`](../../data/public-surface-inventory.json)
 - **Regenerate:** `ph-civ surface-inventory`
 
@@ -16,7 +16,7 @@ Per-surface status vocabulary: [public-surface-status.md](../../docs/public-surf
 | `start_here` | bootloader | canonical | START-HERE.md | validate:llm-experience |
 | `strategy_codex_bridge` | bridge | active | docs/strategy-codex-bridge.md | manual |
 | `cards_dataset` | card_dataset | active | data/cards.jsonl | validate:cards |
-| `ph_civ_index` | chapter_catalog | generated | data/predictive-history-index.json | validate:ph-civ-index |
+| `predictive_history_index` | chapter_catalog | generated | data/predictive-history-index.json | validate:predictive-history-index |
 | `chapter_folders` | chapter_folder | active | ph-civ/chapters/* · ph-apo/chapters/* · book/volume-*/… | validate:cards |
 | `ph_apo_volume_ii_chapters` | chapter_folder | active | ph-apo/chapters/* (+ book/volume-ii-apocalypse/) | data/predictive-history-index.json |
 | `ph_civ_volume_i_chapters` | chapter_folder | active | ph-civ/chapters/* (+ book/volume-i-civilization/) | data/predictive-history-index.json |

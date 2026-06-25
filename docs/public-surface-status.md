@@ -22,7 +22,7 @@ Canonical public artifact: [`rbtkhn/predictive-history`](https://github.com/rbtk
 |--------|-----------------|-------------------|
 | `canonical` | transcript, START-HERE | source floor |
 | `active` | cards, routes, patterns | in use |
-| `generated` | ph-civ-index, inventory/triage JSON | regen scripts |
+| `generated` | predictive-history-index, inventory/triage JSON | regen scripts |
 | `seeded` / `open_canvas` | commentary | `analysis_depth: seed`, `canvas_status: open` |
 | `provisional` | ph-apo gt-* | `review_status: provisional` |
 | `public_ready` | curated chapter | composite gate (see triage) |

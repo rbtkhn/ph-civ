@@ -36,8 +36,7 @@ from .commentary_v2 import (
 )
 from .ph_civ_index import (
     ensure_ph_civ_index,
-    validate_deprecated_ph_civ_index,
-    validate_deprecated_source_video_index,
+    validate_no_legacy_chapter_indexes,
     validate_ph_civ_index,
 )
 from .public_surface_inventory import (
@@ -135,6 +134,8 @@ ALLOWED_ROUTE_TYPES = {"spine", "paired_close_reading", "application", "coda"}
 
 
 def card_surface(card: dict) -> str:
+    if card["part"] == "provenance":
+        return "provenance"
     return "ph-civ" if card["part"] == "civilization" else "ph-apo"
 
 
@@ -143,6 +144,8 @@ def bridge_support_ids() -> set[str]:
 
 
 def conceptual_volume_ids(card: dict) -> list[str]:
+    if card["part"] == "provenance":
+        return []
     volumes: list[str] = []
     if card["part"] == "civilization" or card["source_id"] in bridge_support_ids():
         volumes.append("volume_i")
@@ -703,7 +706,6 @@ def cmd_validate(args) -> int:
                         if marker not in readme_text:
                             errors.append(f"{source_id} chapter folder README missing marker: {marker}")
     for metadata_path in [
-        DATA_ROOT / "index.json",
         DATA_ROOT / "surfaces.json",
         DATA_ROOT / "routes" / "choreography.json",
     ]:
@@ -711,8 +713,6 @@ def cmd_validate(args) -> int:
         source_repo = metadata.get("source_snapshot", {}).get("repo")
         if source_repo != EXPECTED_SOURCE_REPO:
             errors.append(f"{metadata_path.relative_to(DATA_ROOT)} invalid source repo: {source_repo}")
-        if metadata_path.name == "index.json" and metadata.get("card_count") != len(cards):
-            errors.append("index.json card_count must match packaged cards")
     choreography = load_choreography()
     route_ids = [route.get("source_id") for route in choreography]
     if len(choreography) != 10:
@@ -878,8 +878,7 @@ def cmd_validate(args) -> int:
         ]:
             if marker not in chapter_folder_text:
                 errors.append(f"docs/chapter-folder-links.md missing marker: {marker}")
-    errors.extend(validate_deprecated_source_video_index(repo_root=DATA_ROOT.parent))
-    errors.extend(validate_deprecated_ph_civ_index(repo_root=DATA_ROOT.parent))
+    errors.extend(validate_no_legacy_chapter_indexes(repo_root=DATA_ROOT.parent))
     bilingual = load_bilingual_loop()
     if bilingual.get("loop_id") != "english_chinese_civilizational_bridge":
         errors.append("bilingual-loop.json invalid loop_id")
@@ -1116,8 +1115,7 @@ def cmd_validate(args) -> int:
     errors.extend(validate_volume_i_parts(require_doorways=True, require_chapter_anchors=True))
     ensure_ph_civ_index(cards)
     errors.extend(validate_ph_civ_index(cards))
-    errors.extend(validate_deprecated_source_video_index(repo_root=DATA_ROOT.parent))
-    errors.extend(validate_deprecated_ph_civ_index(repo_root=DATA_ROOT.parent))
+    errors.extend(validate_no_legacy_chapter_indexes(repo_root=DATA_ROOT.parent))
     if getattr(args, "surfaces", False) or getattr(args, "surface_inventory", False):
         if getattr(args, "check", False):
             errors.extend(validate_public_surface_inventory(cards))
@@ -1506,7 +1504,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     p = sub.add_parser("list", help="List cards.")
     p.add_argument("--series", choices=["civilization", "great-books", "geo-strategy", "game-theory", "secret-history"])
-    p.add_argument("--part", choices=["civilization", "world-war"])
+    p.add_argument("--part", choices=["civilization", "world-war", "provenance"])
     p.add_argument("--spine", action="store_true", help="Limit to Homer-to-Tolstoy spine cards.")
     p.add_argument("--all", action="store_true", help="Include cards outside the current public surface.")
     p.add_argument("--json", action="store_true")

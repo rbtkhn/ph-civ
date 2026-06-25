@@ -19,7 +19,7 @@ Medium-first namespaces at the repository root (siblings to `book/`):
 
 - [`essays/`](essays/README.md) — Substack and long-form essays (`essay-01` … `essay-43`)
 - [`lectures/`](lectures/README.md) — reserved lecture namespace; most lecture chapters still live under `book/` until recanonicalized
-- [`interviews/`](interviews/README.md) — reserved interview-form namespace
+- [`interviews/`](interviews/README.md) — 15 public interview provenance packets (`interview-YYYY-MM-DD-{host-slug}`); cataloged under **Provenance** in the chapter index
 
 ## First Chat Flow
 
@@ -33,7 +33,7 @@ Medium-first namespaces at the repository root (siblings to `book/`):
 8. Treat `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` as a trilingual identity/growth layer and localization roadmap, not a replacement for `first_tour`.
 9. If the pasted URL is a direct chapter folder, switch to `study` mode for that folder: open its `README.md`, transcript, commentary canvas, and public card.
 10. When quoting or interpreting, return to the relevant transcript and commentary under `book/`.
-11. Use `data/predictive-history-index.json` when the reader needs the full chapter catalog (189 public chapters: lectures plus Substack essays) or must resolve a `source_id` to paths and source URLs.
+11. Use `data/predictive-history-index.json` when the reader needs the full chapter catalog (204 public chapters: lectures, Substack essays, and provenance interviews) or must resolve a `source_id` to paths and source URLs.
 12. Use `docs/source-lattice.md` when the main difficulty is traversal discipline: doorway versus transcript versus commentary versus bridge.
 
 ## First Response Contract

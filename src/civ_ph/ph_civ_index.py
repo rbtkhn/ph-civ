@@ -10,9 +10,26 @@ from .data import PACKAGE_ROOT, load_cards
 
 INDEX_MD_REL = "docs/predictive-history-index.md"
 INDEX_JSON_REL = "data/predictive-history-index.json"
-DEPRECATED_SOURCE_VIDEO_INDEX_REL = "docs/source-video-index.md"
 FINGERPRINT_MARKER = "<!-- predictive-history-index-fingerprint:"
-SCHEMA_VERSION = 2
+SCHEMA_VERSION = 3
+
+LEGACY_CHAPTER_INDEX_PATHS = (
+    "docs/ph-civ-index.md",
+    "data/ph-civ-index.json",
+    "docs/source-video-index.md",
+    "data/index.json",
+)
+
+OPERATOR_DOC_GREP_PATHS = (
+    "docs",
+    "README.md",
+    "START-HERE.md",
+    "llms.txt",
+    "llms-full.txt",
+    "data/public-surface-inventory.json",
+)
+
+PART_ORDER = ("civilization", "world-war", "provenance")
 
 PART_SECTIONS: dict[str, list[tuple[str, str]]] = {
     "civilization": [
@@ -26,12 +43,23 @@ PART_SECTIONS: dict[str, list[tuple[str, str]]] = {
         ("secret-history", "Secret History"),
         ("essays", "Essays"),
     ],
+    "provenance": [
+        ("interviews", "Interviews"),
+    ],
 }
 
 PART_META = {
     "civilization": ("ph-civ", "Volume I — Civilization (law discovery)"),
     "world-war": ("ph-apo", "Volume II — Apocalypse (law application)"),
+    "provenance": ("provenance", "Provenance (source-family residue)"),
 }
+
+PROVENANCE_INTRO = (
+    "Provenance packets preserve old seven-volume source-family material (interviews first). "
+    "They are cataloged for source review and cross-links from "
+    "[`book/provenance/`](../book/provenance/README.md); "
+    "they are not foreground Volume I/II law-discovery routes."
+)
 
 
 def index_markdown_path(repo_root: Path | None = None) -> Path:
@@ -146,19 +174,25 @@ def chapter_entry(card: dict, repo_root: Path) -> dict:
     return entry
 
 
+def sort_cards_for_table(cards: list[dict], *, part: str | None = None) -> list[dict]:
+    effective_part = part or (cards[0]["part"] if cards else "")
+    if effective_part == "provenance":
+        return sorted(cards, key=lambda row: (row.get("publication_date", ""), row["source_id"]))
+    return sorted(cards, key=lambda row: row["source_id"])
+
+
 def render_index_payload(cards: list[dict], repo_root: Path) -> dict:
     chapters = [
         chapter_entry(card, repo_root)
         for card in sorted(cards, key=lambda row: row["source_id"])
     ]
     by_surface: dict[str, dict] = {}
-    for surface in ("ph-civ", "ph-apo"):
-        part = "civilization" if surface == "ph-civ" else "world-war"
+    for part in PART_ORDER:
+        surface, volume_label = PART_META[part]
         surface_chapters = [entry for entry in chapters if entry["surface"] == surface]
         series_counts: dict[str, int] = {}
         for entry in surface_chapters:
             series_counts[entry["series"]] = series_counts.get(entry["series"], 0) + 1
-        _, volume_label = PART_META[part]
         by_surface[surface] = {
             "part": part,
             "volume_label": volume_label,
@@ -179,14 +213,8 @@ def render_index_payload(cards: list[dict], repo_root: Path) -> dict:
         "ssot": "data/cards.jsonl",
         "markdown_index": INDEX_MD_REL,
         "surfaces": {
-            "ph-civ": {
-                "part": "civilization",
-                "label": PART_META["civilization"][1],
-            },
-            "ph-apo": {
-                "part": "world-war",
-                "label": PART_META["world-war"][1],
-            },
+            PART_META[part][0]: {"part": part, "label": PART_META[part][1]}
+            for part in PART_ORDER
         },
         "series_order": {
             part: [{"series": series, "label": label} for series, label in sections]
@@ -209,11 +237,11 @@ def md_link(label: str, rel_from_docs: str) -> str:
     return f"[{label}](../{rel_from_docs})"
 
 
-def render_table(cards: list[dict], repo_root: Path) -> list[str]:
+def render_table(cards: list[dict], repo_root: Path, *, part: str | None = None) -> list[str]:
     header = "| Source ID | Title | Review | Words | Transcript | Commentary | Folder | Video |"
     sep = "| --- | --- | --- | ---: | --- | --- | --- | --- |"
     rows = [header, sep]
-    for card in sorted(cards, key=lambda row: row["source_id"]):
+    for card in sort_cards_for_table(cards, part=part):
         entry = chapter_entry(card, repo_root)
         paths = entry["paths"]
         transcript = paths.get("transcript", "")
@@ -241,10 +269,7 @@ def render_table(cards: list[dict], repo_root: Path) -> list[str]:
 
 
 def render_index_body(cards: list[dict], repo_root: Path) -> str:
-    by_part: dict[str, dict[str, list[dict]]] = {
-        "civilization": {},
-        "world-war": {},
-    }
+    by_part: dict[str, dict[str, list[dict]]] = {part: {} for part in PART_ORDER}
     for card in cards:
         part = card["part"]
         series = card["series"]
@@ -257,24 +282,24 @@ def render_index_body(cards: list[dict], repo_root: Path) -> str:
         "",
         f"- **Card count:** {len(cards)}",
         f"- **Transcript words (total):** {sum(transcript_word_count(card, repo_root) for card in cards):,}",
-        f"- **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`data/predictive-history-index.json`](../data/predictive-history-index.json) · [`data/index.json`](../data/index.json)",
+        f"- **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`data/predictive-history-index.json`](../data/predictive-history-index.json)",
         "- **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py` · auto-sync during `ph-civ validate` and publish",
         "",
         "Surfaces:",
         "",
         "- **ph-civ** — Volume I / Civilization (`part: civilization`)",
         "- **ph-apo** — Volume II / Apocalypse (`part: world-war`)",
+        "- **provenance** — source-family residue (`part: provenance`)",
         "",
         "Bridge support nodes (`sh-11`, `sh-16`, `sh-17`, `sh-18`) appear in Volume I membership but carry cross-volume routing; check each card's `part` and folder.",
         "",
         "YouTube and Substack source URLs appear in the **Video** column below and in "
         "[`data/predictive-history-index.json`](../data/predictive-history-index.json) (`source_video_url`). "
-        "**Words** counts transcript body text only (YAML frontmatter excluded). "
-        "Legacy [`source-video-index.md`](source-video-index.md) redirects here.",
+        "**Words** counts transcript body text only (YAML frontmatter excluded).",
         "",
     ]
 
-    for part in ("civilization", "world-war"):
+    for part in PART_ORDER:
         surface, heading = PART_META[part]
         part_cards = [c for c in cards if c["part"] == part]
         lines.extend(
@@ -285,13 +310,15 @@ def render_index_body(cards: list[dict], repo_root: Path) -> str:
                 "",
             ]
         )
+        if part == "provenance":
+            lines.extend([PROVENANCE_INTRO, ""])
         for series_key, series_label in PART_SECTIONS[part]:
             series_cards = by_part.get(part, {}).get(series_key, [])
             if not series_cards:
                 continue
             lines.append(f"### {series_label}")
             lines.append("")
-            lines.extend(render_table(series_cards, repo_root))
+            lines.extend(render_table(series_cards, repo_root, part=part))
             lines.append("")
 
     lines.append("## Full alphabetical index")
@@ -394,57 +421,24 @@ def validate_ph_civ_index(cards: list[dict] | None = None, *, repo_root: Path | 
     return errors
 
 
-DEPRECATED_SOURCE_VIDEO_INDEX_MARKERS = [
-    "deprecated",
-    "predictive-history-index.md",
-    "source_video_url",
-]
-
-
-def validate_deprecated_source_video_index(*, repo_root: Path | None = None) -> list[str]:
-    root = repo_root or PACKAGE_ROOT
-    path = root / DEPRECATED_SOURCE_VIDEO_INDEX_REL
-    errors: list[str] = []
-    if not path.exists():
-        errors.append(f"missing deprecated redirect stub: {DEPRECATED_SOURCE_VIDEO_INDEX_REL}")
-        return errors
-    text = path.read_text(encoding="utf-8")
-    lowered = text.lower()
-    for marker in DEPRECATED_SOURCE_VIDEO_INDEX_MARKERS:
-        if marker.lower() not in lowered:
-            errors.append(f"{DEPRECATED_SOURCE_VIDEO_INDEX_REL} missing marker: {marker}")
-    return errors
-
-
-DEPRECATED_PH_CIV_INDEX_MD_REL = "docs/ph-civ-index.md"
-DEPRECATED_PH_CIV_INDEX_JSON_REL = "data/ph-civ-index.json"
-
-DEPRECATED_PH_CIV_INDEX_MARKERS = [
-    "deprecated",
-    "predictive-history-index.md",
-    "predictive-history-index.json",
-]
-
-
-def validate_deprecated_ph_civ_index(*, repo_root: Path | None = None) -> list[str]:
+def validate_no_legacy_chapter_indexes(*, repo_root: Path | None = None) -> list[str]:
     root = repo_root or PACKAGE_ROOT
     errors: list[str] = []
-    md_path = root / DEPRECATED_PH_CIV_INDEX_MD_REL
-    if not md_path.exists():
-        errors.append(f"missing deprecated redirect stub: {DEPRECATED_PH_CIV_INDEX_MD_REL}")
-    else:
-        lowered = md_path.read_text(encoding="utf-8").lower()
-        for marker in DEPRECATED_PH_CIV_INDEX_MARKERS:
-            if marker.lower() not in lowered:
-                errors.append(f"{DEPRECATED_PH_CIV_INDEX_MD_REL} missing marker: {marker}")
+    for rel in LEGACY_CHAPTER_INDEX_PATHS:
+        if (root / rel).exists():
+            errors.append(f"legacy chapter index must be removed: {rel}")
 
-    json_path = root / DEPRECATED_PH_CIV_INDEX_JSON_REL
-    if not json_path.exists():
-        errors.append(f"missing deprecated redirect stub: {DEPRECATED_PH_CIV_INDEX_JSON_REL}")
-    else:
-        payload = json.loads(json_path.read_text(encoding="utf-8"))
-        if payload.get("_deprecated") != "Moved to data/predictive-history-index.json":
-            errors.append(f"{DEPRECATED_PH_CIV_INDEX_JSON_REL} missing _deprecated marker")
-        if payload.get("redirect") != "data/predictive-history-index.json":
-            errors.append(f"{DEPRECATED_PH_CIV_INDEX_JSON_REL} redirect must point to canonical index")
+    forbidden = "ph-civ-index"
+    for rel in OPERATOR_DOC_GREP_PATHS:
+        path = root / rel
+        if not path.exists():
+            continue
+        if path.is_dir():
+            for doc in path.rglob("*"):
+                if doc.suffix not in {".md", ".txt", ".json"}:
+                    continue
+                if doc.is_file() and forbidden in doc.read_text(encoding="utf-8"):
+                    errors.append(f"operator doc must not reference {forbidden}: {doc.relative_to(root)}")
+        elif forbidden in path.read_text(encoding="utf-8"):
+            errors.append(f"operator doc must not reference {forbidden}: {rel}")
     return errors

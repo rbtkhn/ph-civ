@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "card_count": 189,
+  "card_count": 204,
   "bucket_counts": {
     "PUBLIC_READY": 0,
     "OPEN_CANVAS": 1,
@@ -9,7 +9,7 @@
     "NEEDS_ROUTE_REVIEW": 0,
     "NEEDS_SOURCE_FLOOR": 0,
     "NEEDS_CARD_LIMITS": 0,
-    "NEEDS_COMMENTARY_REVIEW": 183,
+    "NEEDS_COMMENTARY_REVIEW": 198,
     "STUB_ROUTED": 0,
     "UNASSIGNED": 4
   },
@@ -182,6 +182,21 @@
       "gt-26",
       "gt-27",
       "gt-28",
+      "interview-2025-10-30-cyrus-janssen",
+      "interview-2025-11-24-glenn-diesen",
+      "interview-2026-01-05-glenn-diesen",
+      "interview-2026-01-18-danny-haiphong",
+      "interview-2026-01-22-dimitri-lascaris",
+      "interview-2026-01-26-glenn-diesen",
+      "interview-2026-03-02-breaking-points",
+      "interview-2026-03-07-nima",
+      "interview-2026-03-09-sneako",
+      "interview-2026-03-16-endgame",
+      "interview-2026-03-20-tucker-carlson",
+      "interview-2026-04-01-jay-shapiro",
+      "interview-2026-04-07-patrick-bet-david",
+      "interview-2026-04-11-glenn-diesen",
+      "interview-2026-04-14-sneako-dugin",
       "sh-01",
       "sh-02",
       "sh-03",
@@ -1347,6 +1362,111 @@
       "series": "game-theory"
     },
     {
+      "source_id": "interview-2025-10-30-cyrus-janssen",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2025-11-24-glenn-diesen",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-01-05-glenn-diesen",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-01-18-danny-haiphong",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-01-22-dimitri-lascaris",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-01-26-glenn-diesen",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-03-02-breaking-points",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-03-07-nima",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-03-09-sneako",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-03-16-endgame",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-03-20-tucker-carlson",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-04-01-jay-shapiro",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-04-07-patrick-bet-david",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-04-11-glenn-diesen",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-04-14-sneako-dugin",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
       "source_id": "sh-01",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
@@ -1543,8 +1663,8 @@
       "series": "secret-history"
     }
   ],
-  "fingerprint": "43e6fd01d65ca659",
-  "generated_at": "2026-06-25T12:28:15Z",
+  "fingerprint": "c19a878857975459",
+  "generated_at": "2026-06-25T13:55:29Z",
   "markdown_summary": "runtime/artifacts/public-surface-triage.md",
   "inventory_json": "data/public-surface-inventory.json"
 }

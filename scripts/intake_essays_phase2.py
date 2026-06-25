@@ -442,7 +442,6 @@ def main() -> int:
         new_cards.append(build_card_jsonl(source_id, meta))
 
     merge_cards_jsonl(new_cards)
-    sync_index_json()
     public_count = 5 + len(created)  # essay-33..37 minus overlap: 33-35 were phase1, 36-37 extra
     # public essay folders = essay-01..32 + essay-33..37 = 37
     update_essays_readme(37)
