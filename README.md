@@ -32,13 +32,13 @@ Medium-first chapter namespaces at the repository root (siblings to [`book/`](bo
 
 ## What Is Included
 
-- 204 public cards in `data/cards.jsonl` — lecture chapters across Volume I (`ph-civ`) and Volume II (`ph-apo`), 43 Substack essays (`essay-01` … `essay-43`), and 15 provenance interviews.
-- 204 public source chapters staged through a canonical two-volume `book/` reader architecture, with legacy provenance folders and direct namespaces still preserved during recanonicalization.
-- 204 chapter commentaries attached to those staged canonical homes and preserved underlying packets, each seeded as an open commentary canvas.
+- 205 public cards in `data/cards.jsonl` — lecture chapters across Volume I (`ph-civ`) and Volume II (`ph-apo`), 43 Substack essays (`essay-01` … `essay-43`), and 16 provenance interviews.
+- 205 public source chapters staged through a canonical two-volume `book/` reader architecture, with legacy provenance folders and direct namespaces still preserved during recanonicalization.
+- 205 chapter commentaries attached to those staged canonical homes and preserved underlying packets, each seeded as an open commentary canvas.
 - Chapter-folder `README.md` doorways for folder-backed chapters, designed for direct GitHub links in YouTube comments and LLM chats.
 - Canonical public source captures under `sources/` so the repo can function independently of outside workshop storage.
 - Chapter catalog and source URLs: [`docs/predictive-history-index.md`](docs/predictive-history-index.md) and [`data/predictive-history-index.json`](data/predictive-history-index.json) (`source_video_url` per chapter).
-- A full chapter catalog at `docs/predictive-history-index.md` (human) and `data/predictive-history-index.json` (machine) listing all 204 public chapters (lectures, essays, and provenance interviews) with transcript, commentary, folder, and source URLs (regenerate: `ph-civ index`; auto-sync during `ph-civ validate` and publish).
+- A full chapter catalog at `docs/predictive-history-index.md` (human) and `data/predictive-history-index.json` (machine) listing all 205 public chapters (lectures, essays, and provenance interviews) with transcript, commentary, folder, and source URLs (regenerate: `ph-civ index`; auto-sync during `ph-civ validate` and publish).
 - Two conceptual volumes: Volume I / Civilization / `ph-civ`, and Volume II / Apocalypse / `ph-apo`.
 - A canonical two-volume reader architecture under `book/volume-i-civilization/` and `book/volume-ii-apocalypse/`, with older multi-volume source provenance kept subordinate; see [From The Old Seven Volumes To The Current Two](book/seven-volume-to-two-volume.md).
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, Secret History, and Essays.

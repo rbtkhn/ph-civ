@@ -8,7 +8,7 @@ Repo path: **`interviews/`** at the repository root (sibling to [`essays/`](../e
 
 **Pattern:** `interview-YYYY-MM-DD-{host-slug}`
 
-Examples: `interview-2025-11-24-glenn-diesen`, `interview-2026-04-13-sneako-dugin`.
+Examples: `interview-2025-11-24-glenn-diesen`, `interview-2026-05-07-diary-of-a-ceo`.
 
 | Field | Detail |
 | --- | --- |
@@ -17,9 +17,9 @@ Examples: `interview-2025-11-24-glenn-diesen`, `interview-2026-04-13-sneako-dugi
 | **Folder** | `interviews/{source_id}/` with transcript, commentary canvas, and README |
 | **Catalog** | Provenance surface in [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) |
 
-**Public today:** 15 interview chapter packets (`interview-2025-10-30-cyrus-janssen` … `interview-2026-04-13-sneako-dugin`).
+**Public today:** 16 interview chapter packets (`interview-2025-10-30-cyrus-janssen` … `interview-2026-05-07-diary-of-a-ceo`).
 
-## Workshop crosswalk (`vi-*`)
+## Workshop crosswalk (`vi-*` and external)
 
 | Workshop | Public `source_id` | Upload date |
 | --- | --- | --- |
@@ -38,6 +38,12 @@ Examples: `interview-2025-11-24-glenn-diesen`, `interview-2026-04-13-sneako-dugi
 | `vi-13` | `interview-2026-04-07-patrick-bet-david` | 2026-04-07 |
 | `vi-14` | `interview-2026-04-13-glenn-diesen` | 2026-04-13 |
 | `vi-15` | `interview-2026-04-13-sneako-dugin` | 2026-04-13 |
+
+### External (not in workshop `vi-*`)
+
+| Registry | Public `source_id` | Upload date | Source |
+| --- | --- | --- | --- |
+| `ext-doac-01` | `interview-2026-05-07-diary-of-a-ceo` | 2026-05-07 | [Diary of a CEO / Steven Bartlett](https://www.youtube.com/watch?v=BTJGr78-zyw) |
 
 Cards use `part: provenance`, `series: interviews`, `derived_corpus: provenance`, `placement_weight: light`. They appear in the **Provenance** section of the chapter catalog; they are not foreground Volume I/II spine routes.
 

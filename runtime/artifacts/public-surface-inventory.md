@@ -1,8 +1,8 @@
-<!-- public-surface-inventory-fingerprint: 0bd364d214d409b5 -->
+<!-- public-surface-inventory-fingerprint: 27792d34972ebabd -->
 # Public surface inventory
 
 - **Surfaces:** 26
-- **Generated:** 2026-06-25T14:00:53Z
+- **Generated:** 2026-06-25T15:33:48Z
 - **Machine SSOT:** [`data/public-surface-inventory.json`](../../data/public-surface-inventory.json)
 - **Regenerate:** `ph-civ surface-inventory`
 
