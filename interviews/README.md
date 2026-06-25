@@ -8,7 +8,7 @@ Repo path: **`interviews/`** at the repository root (sibling to [`essays/`](../e
 
 **Pattern:** `interview-YYYY-MM-DD-{host-slug}`
 
-Examples: `interview-2025-11-24-glenn-diesen`, `interview-2026-04-14-sneako-dugin`.
+Examples: `interview-2025-11-24-glenn-diesen`, `interview-2026-04-13-sneako-dugin`.
 
 | Field | Detail |
 | --- | --- |
@@ -17,7 +17,7 @@ Examples: `interview-2025-11-24-glenn-diesen`, `interview-2026-04-14-sneako-dugi
 | **Folder** | `interviews/{source_id}/` with transcript, commentary canvas, and README |
 | **Catalog** | Provenance surface in [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) |
 
-**Public today:** 15 interview chapter packets (`interview-2025-10-30-cyrus-janssen` … `interview-2026-04-14-sneako-dugin`).
+**Public today:** 15 interview chapter packets (`interview-2025-10-30-cyrus-janssen` … `interview-2026-04-13-sneako-dugin`).
 
 ## Workshop crosswalk (`vi-*`)
 
@@ -36,8 +36,8 @@ Examples: `interview-2025-11-24-glenn-diesen`, `interview-2026-04-14-sneako-dugi
 | `vi-11` | `interview-2026-03-20-tucker-carlson` | 2026-03-20 |
 | `vi-12` | `interview-2026-04-01-jay-shapiro` | 2026-04-01 |
 | `vi-13` | `interview-2026-04-07-patrick-bet-david` | 2026-04-07 |
-| `vi-14` | `interview-2026-04-11-glenn-diesen` | 2026-04-11 |
-| `vi-15` | `interview-2026-04-14-sneako-dugin` | 2026-04-14 |
+| `vi-14` | `interview-2026-04-13-glenn-diesen` | 2026-04-13 |
+| `vi-15` | `interview-2026-04-13-sneako-dugin` | 2026-04-13 |
 
 Cards use `part: provenance`, `series: interviews`, `derived_corpus: provenance`, `placement_weight: light`. They appear in the **Provenance** section of the chapter catalog; they are not foreground Volume I/II spine routes.
 

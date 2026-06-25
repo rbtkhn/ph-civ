@@ -1,8 +1,8 @@
 ---
-source_id: interview-2026-04-11-glenn-diesen
+source_id: interview-2026-04-13-glenn-diesen
 title: "Interviews #14: Glenn Diesen — The Iran War & the Battle for the Petrodollar"
 source_series: "Predictive History Interviews"
-source_chapter_path: interviews/interview-2026-04-11-glenn-diesen/interview-2026-04-11-glenn-diesen.md
+source_chapter_path: interviews/interview-2026-04-13-glenn-diesen/interview-2026-04-13-glenn-diesen.md
 commentary_status: in-review
 review_status: source_reviewed
 annotation_status: drafted

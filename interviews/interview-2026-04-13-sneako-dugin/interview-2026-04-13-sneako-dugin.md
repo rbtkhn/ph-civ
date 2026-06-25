@@ -1,8 +1,8 @@
 ---
-source_id: interview-2026-04-14-sneako-dugin
+source_id: interview-2026-04-13-sneako-dugin
 title: "Interviews #15: Sneako — Jiang Xueqin & Aleksandr Dugin (Eschatology & Geopolitics)"
 source_series: "Predictive History Interviews"
-publication_date: 2026-04-14
+publication_date: 2026-04-13
 source_url: "https://www.youtube.com/watch?v=n44OF1Y7zgo"
 canonical_url: "https://www.youtube.com/watch?v=n44OF1Y7zgo"
 source_kind: youtube_interview

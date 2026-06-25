@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "fingerprint": "2948af5d9891ed0b",
+  "fingerprint": "2597989092896f12",
   "card_count": 204,
   "transcript_word_total": 1412195,
   "ssot": "data/cards.jsonl",
@@ -3720,7 +3720,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "interview-2026-04-11-glenn-diesen",
+      "source_id": "interview-2026-04-13-glenn-diesen",
       "title": "Interviews #14: Glenn Diesen — The Iran War & the Battle for the Petrodollar",
       "part": "provenance",
       "surface": "provenance",
@@ -3729,10 +3729,10 @@
       "review_status": "in_review",
       "placement_weight": "light",
       "paths": {
-        "transcript": "interviews/interview-2026-04-11-glenn-diesen/interview-2026-04-11-glenn-diesen.md",
-        "commentary": "interviews/interview-2026-04-11-glenn-diesen/interview-2026-04-11-glenn-diesen-commentary.md",
-        "folder": "interviews/interview-2026-04-11-glenn-diesen",
-        "folder_readme": "interviews/interview-2026-04-11-glenn-diesen/README.md"
+        "transcript": "interviews/interview-2026-04-13-glenn-diesen/interview-2026-04-13-glenn-diesen.md",
+        "commentary": "interviews/interview-2026-04-13-glenn-diesen/interview-2026-04-13-glenn-diesen-commentary.md",
+        "folder": "interviews/interview-2026-04-13-glenn-diesen",
+        "folder_readme": "interviews/interview-2026-04-13-glenn-diesen/README.md"
       },
       "transcript_word_count": 6170,
       "source_video_url": "https://www.youtube.com/watch?v=P_DHMUdOVdo",
@@ -3741,7 +3741,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "interview-2026-04-14-sneako-dugin",
+      "source_id": "interview-2026-04-13-sneako-dugin",
       "title": "Interviews #15: Sneako — Jiang Xueqin & Aleksandr Dugin (Eschatology & Geopolitics)",
       "part": "provenance",
       "surface": "provenance",
@@ -3750,10 +3750,10 @@
       "review_status": "in_review",
       "placement_weight": "light",
       "paths": {
-        "transcript": "interviews/interview-2026-04-14-sneako-dugin/interview-2026-04-14-sneako-dugin.md",
-        "commentary": "interviews/interview-2026-04-14-sneako-dugin/interview-2026-04-14-sneako-dugin-commentary.md",
-        "folder": "interviews/interview-2026-04-14-sneako-dugin",
-        "folder_readme": "interviews/interview-2026-04-14-sneako-dugin/README.md"
+        "transcript": "interviews/interview-2026-04-13-sneako-dugin/interview-2026-04-13-sneako-dugin.md",
+        "commentary": "interviews/interview-2026-04-13-sneako-dugin/interview-2026-04-13-sneako-dugin-commentary.md",
+        "folder": "interviews/interview-2026-04-13-sneako-dugin",
+        "folder_readme": "interviews/interview-2026-04-13-sneako-dugin/README.md"
       },
       "transcript_word_count": 11140,
       "source_video_url": "https://www.youtube.com/watch?v=n44OF1Y7zgo",

@@ -1,5 +1,5 @@
 ---
-source_id: interview-2026-04-14-sneako-dugin
+source_id: interview-2026-04-13-sneako-dugin
 title: Interviews #15: Sneako — Jiang Xueqin & Aleksandr Dugin (Eschatology & Geopolitics)
 series: interviews
 part: provenance
@@ -12,7 +12,7 @@ workshop_source_id: vi-15
 
 ## Where This Sits
 
-`interview-2026-04-14-sneako-dugin` sits on the provenance surface (`part: provenance`, `series: interviews`). Workshop crosswalk: `vi-15`.
+`interview-2026-04-13-sneako-dugin` sits on the provenance surface (`part: provenance`, `series: interviews`). Workshop crosswalk: `vi-15`.
 
 ## Reading Posture
 
@@ -29,4 +29,4 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `interviews/interview-2026-04-14-sneako-dugin/interview-2026-04-14-sneako-dugin.md` for exact transcript wording and `interviews/interview-2026-04-14-sneako-dugin/interview-2026-04-14-sneako-dugin-commentary.md` for bounded analysis.
+Return through `interviews/interview-2026-04-13-sneako-dugin/interview-2026-04-13-sneako-dugin.md` for exact transcript wording and `interviews/interview-2026-04-13-sneako-dugin/interview-2026-04-13-sneako-dugin-commentary.md` for bounded analysis.

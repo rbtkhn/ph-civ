@@ -29,5 +29,5 @@ Doorways:
 - [`interview-2026-03-20-tucker-carlson`](../../interviews/interview-2026-03-20-tucker-carlson/README.md)
 - [`interview-2026-04-01-jay-shapiro`](../../interviews/interview-2026-04-01-jay-shapiro/README.md)
 - [`interview-2026-04-07-patrick-bet-david`](../../interviews/interview-2026-04-07-patrick-bet-david/README.md)
-- [`interview-2026-04-11-glenn-diesen`](../../interviews/interview-2026-04-11-glenn-diesen/README.md)
-- [`interview-2026-04-14-sneako-dugin`](../../interviews/interview-2026-04-14-sneako-dugin/README.md)
+- [`interview-2026-04-13-glenn-diesen`](../../interviews/interview-2026-04-13-glenn-diesen/README.md)
+- [`interview-2026-04-13-sneako-dugin`](../../interviews/interview-2026-04-13-sneako-dugin/README.md)

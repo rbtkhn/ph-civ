@@ -1,6 +1,6 @@
-# Interviews #14: Glenn Diesen — The Iran War & the Battle for the Petrodollar
+# Interviews #15: Sneako — Jiang Xueqin & Aleksandr Dugin (Eschatology & Geopolitics)
 
-This chapter folder is a public study doorway for `interview-2026-04-11-glenn-diesen`.
+This chapter folder is a public study doorway for `interview-2026-04-13-sneako-dugin`.
 
 ## Start Here
 
@@ -17,13 +17,13 @@ Treat this chapter folder as a small source-lattice:
 
 ## Source Video
 
-- YouTube: https://www.youtube.com/watch?v=P_DHMUdOVdo
+- YouTube: https://www.youtube.com/watch?v=n44OF1Y7zgo
 
 ## Files
 
-- [Transcript](interview-2026-04-11-glenn-diesen.md)
-- [Commentary canvas](interview-2026-04-11-glenn-diesen-commentary.md)
-- [Public card](../../data/cards/interview-2026-04-11-glenn-diesen.md)
+- [Transcript](interview-2026-04-13-sneako-dugin.md)
+- [Commentary canvas](interview-2026-04-13-sneako-dugin-commentary.md)
+- [Public card](../../data/cards/interview-2026-04-13-sneako-dugin.md)
 
 ## Review Status
 

@@ -195,8 +195,8 @@
       "interview-2026-03-20-tucker-carlson",
       "interview-2026-04-01-jay-shapiro",
       "interview-2026-04-07-patrick-bet-david",
-      "interview-2026-04-11-glenn-diesen",
-      "interview-2026-04-14-sneako-dugin",
+      "interview-2026-04-13-glenn-diesen",
+      "interview-2026-04-13-sneako-dugin",
       "sh-01",
       "sh-02",
       "sh-03",
@@ -1453,14 +1453,14 @@
       "series": "interviews"
     },
     {
-      "source_id": "interview-2026-04-11-glenn-diesen",
+      "source_id": "interview-2026-04-13-glenn-diesen",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "provenance",
       "series": "interviews"
     },
     {
-      "source_id": "interview-2026-04-14-sneako-dugin",
+      "source_id": "interview-2026-04-13-sneako-dugin",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "provenance",
@@ -1663,8 +1663,8 @@
       "series": "secret-history"
     }
   ],
-  "fingerprint": "c19a878857975459",
-  "generated_at": "2026-06-25T13:55:29Z",
+  "fingerprint": "79f0dc1758b5ce81",
+  "generated_at": "2026-06-25T14:00:54Z",
   "markdown_summary": "runtime/artifacts/public-surface-triage.md",
   "inventory_json": "data/public-surface-inventory.json"
 }

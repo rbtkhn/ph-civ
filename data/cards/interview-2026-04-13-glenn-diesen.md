@@ -1,5 +1,5 @@
 ---
-source_id: interview-2026-04-11-glenn-diesen
+source_id: interview-2026-04-13-glenn-diesen
 title: Interviews #14: Glenn Diesen — The Iran War & the Battle for the Petrodollar
 series: interviews
 part: provenance
@@ -12,7 +12,7 @@ workshop_source_id: vi-14
 
 ## Where This Sits
 
-`interview-2026-04-11-glenn-diesen` sits on the provenance surface (`part: provenance`, `series: interviews`). Workshop crosswalk: `vi-14`.
+`interview-2026-04-13-glenn-diesen` sits on the provenance surface (`part: provenance`, `series: interviews`). Workshop crosswalk: `vi-14`.
 
 ## Reading Posture
 
@@ -29,4 +29,4 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `interviews/interview-2026-04-11-glenn-diesen/interview-2026-04-11-glenn-diesen.md` for exact transcript wording and `interviews/interview-2026-04-11-glenn-diesen/interview-2026-04-11-glenn-diesen-commentary.md` for bounded analysis.
+Return through `interviews/interview-2026-04-13-glenn-diesen/interview-2026-04-13-glenn-diesen.md` for exact transcript wording and `interviews/interview-2026-04-13-glenn-diesen/interview-2026-04-13-glenn-diesen-commentary.md` for bounded analysis.
