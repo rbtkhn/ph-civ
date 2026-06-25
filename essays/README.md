@@ -2,7 +2,7 @@
 
 **Canonical public home** for Predictive History **Substack and long-form essay** chapters.
 
-Repo path: **`essays/`** at the repository root (sibling to [`ph-civ/`](ph-civ/README.md), [`ph-apo/`](ph-apo/README.md), [`book/`](book/), [`sources/`](sources/)).
+Repo path: **`essays/`** at the repository root (sibling to [`lectures/`](../lectures/README.md), [`interviews/`](../interviews/README.md), [`ph-civ/`](../ph-civ/README.md), [`ph-apo/`](../ph-apo/README.md), [`book/`](../book/), [`sources/`](../sources/)).
 
 ## ID scheme
 
@@ -27,7 +27,7 @@ Each essay chapter:
 
 - `essay-NN.md` — verbatim essay body
 - `essay-NN-commentary.md` — open commentary canvas
-- `README.md` — public study doorway (`## Source Video` + Substack URL)
+- `README.md` — public study doorway (`## Source` + Substack URL)
 
 Registry: [`data/cards.jsonl`](../data/cards.jsonl) · catalog: [`docs/predictive-history-index.md`](../docs/predictive-history-index.md).
 

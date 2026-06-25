@@ -22,15 +22,23 @@ This repo is the public distribution layer. It should contain public cards, publ
 
 It should not become the large-media vault. Large media archives stay outside Git; this repo tracks transcripts, commentaries, cards, routes, and study navigation.
 
+## Root Chapter Corpora
+
+Medium-first chapter namespaces at the repository root (siblings to [`book/`](book/), [`ph-civ/`](ph-civ/README.md), [`ph-apo/`](ph-apo/README.md)):
+
+- [`essays/`](essays/README.md) — canonical home for Substack and long-form essay chapters (`essay-01` … `essay-43`)
+- [`lectures/`](lectures/README.md) — reserved namespace for lecture chapter packets; most lecture chapters still live under `book/` during recanonicalization
+- [`interviews/`](interviews/README.md) — reserved namespace for interview-form chapter packets
+
 ## What Is Included
 
-- 150 public cards from Predictive History snapshot `56a4a08`, including the first `sub-*` essay lane, provisional `gt-23` through `gt-26` captures, and the direct `ph-apo` `gt-27` chapter.
-- 150 public source chapters staged through a canonical two-volume `book/` reader architecture, with legacy provenance folders and direct namespaces still preserved during recanonicalization.
-- 150 chapter commentaries attached to those staged canonical homes and preserved underlying packets, each seeded as an open commentary canvas.
+- 189 public cards in `data/cards.jsonl` — lecture chapters across Volume I (`ph-civ`) and Volume II (`ph-apo`) plus 43 Substack essays (`essay-01` … `essay-43`).
+- 189 public source chapters staged through a canonical two-volume `book/` reader architecture, with legacy provenance folders and direct namespaces still preserved during recanonicalization.
+- 189 chapter commentaries attached to those staged canonical homes and preserved underlying packets, each seeded as an open commentary canvas.
 - Chapter-folder `README.md` doorways for folder-backed chapters, designed for direct GitHub links in YouTube comments and LLM chats.
 - Canonical public source captures under `sources/` so the repo can function independently of outside workshop storage.
 - Chapter catalog and source URLs: [`docs/predictive-history-index.md`](docs/predictive-history-index.md) and [`data/predictive-history-index.json`](data/predictive-history-index.json) (`source_video_url` per chapter). Legacy [`docs/source-video-index.md`](docs/source-video-index.md) redirects to the chapter index.
-- A full chapter catalog at `docs/predictive-history-index.md` (human) and `data/predictive-history-index.json` (machine) listing all 150 ph-civ and ph-apo chapters with transcript, commentary, folder, and video links (regenerate: `ph-civ index`; auto-sync during `ph-civ validate` and publish).
+- A full chapter catalog at `docs/predictive-history-index.md` (human) and `data/predictive-history-index.json` (machine) listing all 189 public chapters (lectures and essays) with transcript, commentary, folder, and source URLs (regenerate: `ph-civ index`; auto-sync during `ph-civ validate` and publish).
 - Two conceptual volumes: Volume I / Civilization / `ph-civ`, and Volume II / Apocalypse / `ph-apo`.
 - A canonical two-volume reader architecture under `book/volume-i-civilization/` and `book/volume-ii-apocalypse/`, with older multi-volume source provenance kept subordinate; see [From The Old Seven Volumes To The Current Two](book/seven-volume-to-two-volume.md).
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, Secret History, and Essays.
