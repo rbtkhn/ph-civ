@@ -69,7 +69,7 @@ def test_folder_backed_chapters_have_reader_doorways():
                 for line in transcript_text.splitlines()
                 if line.startswith("source_url:")
             )
-            assert "## Source Video" in text
+            assert ("## Source Video" in text or "## Source" in text)
             assert source_url in text
 
 

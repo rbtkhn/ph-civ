@@ -690,8 +690,11 @@ def cmd_validate(args) -> int:
                         source_url = markdown_frontmatter(
                             transcript_file.read_text(encoding="utf-8")
                         ).get("source_url", "")
-                    if source_url and ("## Source Video" not in readme_text or source_url not in readme_text):
-                        errors.append(f"{source_id} chapter folder README must surface source video URL")
+                    if source_url and (
+                        ("## Source Video" not in readme_text and "## Source" not in readme_text)
+                        or source_url not in readme_text
+                    ):
+                        errors.append(f"{source_id} chapter folder README must surface source URL")
                     for marker in [
                         "public study doorway",
                         "Paste this folder link into ChatGPT, Claude, or Grok",
