@@ -2,7 +2,7 @@
 source_id: sub-37
 title: China's Third Center Strategy
 series: essays
-part: world-war
+part: civilization
 placement_weight: strong
 review_status: in_review
 ---
@@ -11,7 +11,7 @@ review_status: in_review
 
 ## Where This Sits
 
-`sub-37` carries the public `ph-apo` essay lane into great-power triangulation, where the Iran war, US-China bargaining, and Russia-China positioning are read as parts of one system crisis.
+`sub-37` carries the public `ph-civ` essay lane into great-power triangulation, where the Iran war, US-China bargaining, and Russia-China positioning are read as parts of one system crisis.
 
 ## Reading Posture
 
@@ -29,4 +29,4 @@ This entry is in review and preserves the essay's interpretive frame without tre
 
 ## Return Path
 
-Return through book/volume-vii/sub-37/sub-37-transcript.md for exact essay wording and book/volume-vii/sub-37/sub-37-commentary.md for bounded analysis.
+Return through essays/sub-37/sub-37-transcript.md for exact essay wording and essays/sub-37/sub-37-commentary.md for bounded analysis.

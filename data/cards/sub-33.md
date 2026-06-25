@@ -2,7 +2,7 @@
 source_id: sub-33
 title: World War Trump
 series: essays
-part: world-war
+part: civilization
 placement_weight: strong
 review_status: in_review
 ---
@@ -11,7 +11,7 @@ review_status: in_review
 
 ## Where This Sits
 
-`sub-33` opens the first public Apocalypse-facing essay arc inside `ph-apo`. It sits where battlefield attrition, imperial overstretch, and domestic restructuring are fused into a theory of wartime transformation.
+`sub-33` opens the first public Apocalypse-facing essay arc inside `ph-civ`. It sits where battlefield attrition, imperial overstretch, and domestic restructuring are fused into a theory of wartime transformation.
 
 ## Reading Posture
 
@@ -29,4 +29,4 @@ This entry is in review and preserves the essay's interpretive frame without tre
 
 ## Return Path
 
-Return through book/volume-vii/sub-33/sub-33-transcript.md for exact essay wording and book/volume-vii/sub-33/sub-33-commentary.md for bounded analysis.
+Return through essays/sub-33/sub-33-transcript.md for exact essay wording and essays/sub-33/sub-33-commentary.md for bounded analysis.

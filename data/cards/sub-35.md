@@ -2,7 +2,7 @@
 source_id: sub-35
 title: The Trump New Deal
 series: essays
-part: world-war
+part: civilization
 placement_weight: strong
 review_status: in_review
 ---
@@ -11,7 +11,7 @@ review_status: in_review
 
 ## Where This Sits
 
-`sub-35` belongs to the first public `ph-apo` essay arc where maritime control, war finance, and debt absorption are read as part of a broader American imperial reset.
+`sub-35` belongs to the first public `ph-civ` essay arc where maritime control, war finance, and debt absorption are read as part of a broader American imperial reset.
 
 ## Reading Posture
 
@@ -29,4 +29,4 @@ This entry is in review and preserves the essay's interpretive frame without tre
 
 ## Return Path
 
-Return through book/volume-vii/sub-35/sub-35-transcript.md for exact essay wording and book/volume-vii/sub-35/sub-35-commentary.md for bounded analysis.
+Return through essays/sub-35/sub-35-transcript.md for exact essay wording and essays/sub-35/sub-35-commentary.md for bounded analysis.

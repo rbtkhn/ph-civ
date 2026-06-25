@@ -2,7 +2,7 @@
 source_id: sub-36
 title: God Emperor Trump
 series: essays
-part: world-war
+part: civilization
 placement_weight: medium
 review_status: in_review
 ---
@@ -11,7 +11,7 @@ review_status: in_review
 
 ## Where This Sits
 
-`sub-36` extends the public `ph-apo` essay lane into the symbolic and constitutional dimension of crisis, where surveillance, sacralization, and executive concentration are read together.
+`sub-36` extends the public `ph-civ` essay lane into the symbolic and constitutional dimension of crisis, where surveillance, sacralization, and executive concentration are read together.
 
 ## Reading Posture
 
@@ -29,4 +29,4 @@ This entry is in review and preserves the essay's interpretive frame without tre
 
 ## Return Path
 
-Return through book/volume-vii/sub-36/sub-36-transcript.md for exact essay wording and book/volume-vii/sub-36/sub-36-commentary.md for bounded analysis.
+Return through essays/sub-36/sub-36-transcript.md for exact essay wording and essays/sub-36/sub-36-commentary.md for bounded analysis.
