@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "card_count": 150,
+  "card_count": 151,
   "bucket_counts": {
     "PUBLIC_READY": 0,
     "OPEN_CANVAS": 1,
@@ -9,7 +9,7 @@
     "NEEDS_ROUTE_REVIEW": 0,
     "NEEDS_SOURCE_FLOOR": 0,
     "NEEDS_CARD_LIMITS": 0,
-    "NEEDS_COMMENTARY_REVIEW": 144,
+    "NEEDS_COMMENTARY_REVIEW": 145,
     "STUB_ROUTED": 0,
     "UNASSIGNED": 4
   },
@@ -138,6 +138,7 @@
       "gt-25",
       "gt-26",
       "gt-27",
+      "gt-28",
       "sh-01",
       "sh-02",
       "sh-03",
@@ -1000,6 +1001,13 @@
       "series": "game-theory"
     },
     {
+      "source_id": "gt-28",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
       "source_id": "sh-01",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
@@ -1231,8 +1239,8 @@
       "series": "essays"
     }
   ],
-  "fingerprint": "96ad437111085148",
-  "generated_at": "2026-06-24T11:38:00Z",
+  "fingerprint": "7d1a8474f32ab6de",
+  "generated_at": "2026-06-24T14:54:31Z",
   "markdown_summary": "runtime/artifacts/public-surface-triage.md",
   "inventory_json": "data/public-surface-inventory.json"
 }

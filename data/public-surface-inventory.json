@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "fingerprint": "0bb77c8af0fec8fa",
-  "generated_at": "2026-06-24T11:37:59Z",
-  "card_count": 150,
+  "fingerprint": "396ae51a9580d771",
+  "generated_at": "2026-06-24T14:54:30Z",
+  "card_count": 151,
   "chapter_catalog": "data/ph-civ-index.json",
   "markdown_summary": "runtime/artifacts/public-surface-inventory.md",
   "surface_count": 26,
@@ -20,7 +20,7 @@
       "public_ready": false,
       "validation_coverage": "validate:volume-i-parts-deprecated",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "volume_i_parts_deprecated_json",
@@ -35,7 +35,7 @@
       "public_ready": false,
       "validation_coverage": "manual",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "agents_guardrails",
@@ -50,7 +50,7 @@
       "public_ready": true,
       "validation_coverage": "validate:public-boundary",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "start_here",
@@ -65,7 +65,7 @@
       "public_ready": true,
       "validation_coverage": "validate:llm-experience",
       "notes": "LLM paste URL entry; pairs with llm-experience.json",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "strategy_codex_bridge",
@@ -80,7 +80,7 @@
       "public_ready": true,
       "validation_coverage": "manual",
       "notes": "Publisher staging-mirror boundary; names private workshop explicitly",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "cards_dataset",
@@ -95,7 +95,7 @@
       "public_ready": true,
       "validation_coverage": "validate:cards",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "ph_civ_index",
@@ -110,7 +110,7 @@
       "public_ready": true,
       "validation_coverage": "validate:ph-civ-index",
       "notes": "Human mirror: docs/ph-civ-index.md",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "chapter_folders",
@@ -124,8 +124,8 @@
       "regeneration_command": "",
       "public_ready": true,
       "validation_coverage": "validate:cards",
-      "notes": "130 folder-backed study doorways; full list in ph-civ-index.json [path missing at generation]",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "notes": "131 folder-backed study doorways; full list in ph-civ-index.json [path missing at generation]",
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "ph_apo_volume_ii_chapters",
@@ -139,8 +139,8 @@
       "regeneration_command": "",
       "public_ready": true,
       "validation_coverage": "data/ph-civ-index.json",
-      "notes": "ph-apo surface count: 72 [path missing at generation]",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "notes": "ph-apo surface count: 73 [path missing at generation]",
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "ph_civ_volume_i_chapters",
@@ -155,7 +155,7 @@
       "public_ready": true,
       "validation_coverage": "data/ph-civ-index.json",
       "notes": "ph-civ surface count: 78 [path missing at generation]",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "commentary_methodology_v2",
@@ -170,7 +170,7 @@
       "public_ready": true,
       "validation_coverage": "validate:commentary-canvas",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "public_repo_contract",
@@ -185,7 +185,7 @@
       "public_ready": true,
       "validation_coverage": "manual",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "public_surface_status",
@@ -200,7 +200,7 @@
       "public_ready": true,
       "validation_coverage": "manual",
       "notes": "Surface readiness vocabulary SSOT",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "source_lattice",
@@ -215,7 +215,7 @@
       "public_ready": true,
       "validation_coverage": "manual",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "growth_goals",
@@ -230,7 +230,7 @@
       "public_ready": false,
       "validation_coverage": "manual",
       "notes": "Ambitions ≠ launch readiness",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "llm_experience",
@@ -245,7 +245,7 @@
       "public_ready": true,
       "validation_coverage": "validate:llm-experience",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "llms_full",
@@ -260,7 +260,7 @@
       "public_ready": true,
       "validation_coverage": "validate:llm-experience",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "llms_txt",
@@ -275,7 +275,7 @@
       "public_ready": true,
       "validation_coverage": "validate:llm-experience",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "patterns_dataset",
@@ -290,7 +290,7 @@
       "public_ready": true,
       "validation_coverage": "validate:patterns",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "choreography_routes",
@@ -305,7 +305,7 @@
       "public_ready": true,
       "validation_coverage": "validate:choreography",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "first_tour",
@@ -320,7 +320,7 @@
       "public_ready": true,
       "validation_coverage": "validate:first-tour",
       "notes": "Doctrine mirror: docs/first-tour.md",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "route_seed",
@@ -335,7 +335,7 @@
       "public_ready": true,
       "validation_coverage": "validate:choreography",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "spine_tour",
@@ -350,7 +350,7 @@
       "public_ready": true,
       "validation_coverage": "manual",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "public_surface_inventory",
@@ -365,7 +365,7 @@
       "public_ready": true,
       "validation_coverage": "manual",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "public_surface_triage",
@@ -380,7 +380,7 @@
       "public_ready": true,
       "validation_coverage": "manual",
       "notes": "",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "last_checked": "2026-06-24T14:54:30Z"
     },
     {
       "surface": "transcript_commentary_chapters",
@@ -394,8 +394,8 @@
       "regeneration_command": "",
       "public_ready": true,
       "validation_coverage": "data/ph-civ-index.json",
-      "notes": "150 chapters with transcript + commentary paths",
-      "last_checked": "2026-06-24T11:37:59Z"
+      "notes": "151 chapters with transcript + commentary paths",
+      "last_checked": "2026-06-24T14:54:30Z"
     }
   ]
 }

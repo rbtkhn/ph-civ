@@ -1,8 +1,8 @@
-<!-- public-surface-triage-fingerprint: 96ad437111085148 -->
+<!-- public-surface-triage-fingerprint: 7d1a8474f32ab6de -->
 # Public surface triage
 
-- **Chapters:** 150
-- **Generated:** 2026-06-24T11:38:00Z
+- **Chapters:** 151
+- **Generated:** 2026-06-24T14:54:31Z
 - **Machine SSOT:** [`data/public-surface-triage.json`](../../data/public-surface-triage.json)
 - **Regenerate:** `ph-civ surface-triage`
 
@@ -15,7 +15,7 @@ Rebuild wave queue: `ph-civ commentary-status`.
 | --- | --- |
 | `OPEN_CANVAS` | 1 |
 | `PROVISIONAL` | 1 |
-| `NEEDS_COMMENTARY_REVIEW` | 144 |
+| `NEEDS_COMMENTARY_REVIEW` | 145 |
 | `UNASSIGNED` | 4 |
 
 ## OPEN_CANVAS
@@ -53,7 +53,7 @@ Rebuild wave queue: `ph-civ commentary-status`.
 - `civ-25`
 - `civ-26`
 - `civ-27`
-- … and 119 more (see JSON)
+- … and 120 more (see JSON)
 
 ## UNASSIGNED
 

@@ -5,13 +5,14 @@ source_series: "Game Theory"
 publication_date: "2026-05-06"
 source_url: "https://www.youtube.com/watch?v=6aNh6sBpqvQ"
 video_id: "6aNh6sBpqvQ"
-transcript_status: "public_transcript_capture_pending_fidelity_review"
-transcript_fidelity: "needs_fidelity_review"
+transcript_status: "public_transcript_pending_rights_review"
+transcript_fidelity: "exact_body_match"
 transcript_source: "user_pasted_public_transcript"
 rights_review: "required_before_long_excerpt"
 representation_not_endorsement: true
-review_status: "provisional"
+review_status: "source_reviewed"
 source_captured_at: "2026-06-23"
+source_reviewed_at: "2026-06-23"
 part: "world-war"
 part_role: "world-war"
 ---
@@ -223,4 +224,3 @@ This helps explain why Israel is behaving the way it is behaving in the Middle E
 Each of these four different players - the United States, Russia, Iran, and Israel - has their own worldview and their own understanding, and that is what drives their actions. What is really interesting is that these four worldviews are actually not in conflict with each other. These four worldviews are what is going to drive geopolitics for the next 5 to 10 years. Because they are galvanized into achieving their worldview, this forces the world to go along even though the world may not want to go along.
 
 Next week I will talk about the civil war going on in the world between artificial intelligence and finance. Trump is visiting China in about a weekâ€™s time, so we will also look at the relationship between the United States and China. Any questions?
-

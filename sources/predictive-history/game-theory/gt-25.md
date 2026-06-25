@@ -5,13 +5,14 @@ source_series: "Game Theory"
 publication_date: "2026-05-14"
 source_url: "https://www.youtube.com/watch?v=BIl5vJn6ohI"
 video_id: "BIl5vJn6ohI"
-transcript_status: "public_transcript_capture_pending_fidelity_review"
-transcript_fidelity: "needs_fidelity_review"
+transcript_status: "public_transcript_pending_rights_review"
+transcript_fidelity: "exact_body_match"
 transcript_source: "user_pasted_public_transcript"
 rights_review: "required_before_long_excerpt"
 representation_not_endorsement: true
-review_status: "provisional"
+review_status: "source_reviewed"
 source_captured_at: "2026-06-23"
+source_reviewed_at: "2026-06-23"
 part: "world-war"
 part_role: "world-war"
 ---
@@ -100,7 +101,9 @@ So, the first thing to understand, and something that I've been teaching a lot i
 
 Behind the wall, behind the people, is this great fire, where the elite, okay? We don't know who they are, okay? But they project shadows onto the wall. And then the people who are chained don't know what's going on behind the scenes. They only see what's in front of them, which is the wall. They see the shadows, and they start to create a reality around the shadows.
 
-They think these shadows are real, and they think um and they create mythology, religion, an entire framework around the shadows. Okay? And this is what we call reality. All right. So, the main message here is that true wealth is our attention. The Okay? Our consciousness is what's true wealth. In fact, our consciousness is what's real. Everything else is an illusion.
+They think these shadows are real, and they think um and they create mythology, religion, an entire framework around the shadows. Okay? And this is what we call reality.
+
+All right. So, the main message here is that true wealth is our attention. The Okay? Our consciousness is what's true wealth. In fact, our consciousness is what's real. Everything else is an illusion.
 
 Everything else is is a shadow. Your body is a shadow. Okay? The person in front of you is a shadow. This blackboard is a shadow. What's real is the thing inside your head. The Your consciousness is what's real. Now, what power is is the capacity to direct and control this attention. Okay? How I exert power over you is by making you think the way I want you to think.
 
@@ -116,11 +119,15 @@ And then from this of course you have uh the legal system to enforce the system,
 
 Okay? Now, this is a very fragile system because it's all just a uh hallucination. So, there are enforcement mechanisms Okay? That make sure this system is stable. And these enforcement mechanisms are crime, intelligence, spies basically, spy networks, um and science. Okay? And they these three mechanisms are controlled by the true powers of this world.
 
-And they include transnational capital, basically private capital, secret societies, and elite families. And what binds them together, their basically software, their operating system is what Okay? And we'll say more about the occult later on. All right. Okay, so this is how the world is designed. Again, this is all a hallucination.
+And they include transnational capital, basically private capital, secret societies, and elite families. And what binds them together, their basically software, their operating system is what Okay? And we'll say more about the occult later on.
+
+All right. Okay, so this is how the world is designed. Again, this is all a hallucination.
 
 One thing that you don't appreciate of this system is that from this hallucination, I can actually project myself onto another force and create another hallucination. Okay? That's what Richard Nixon did. From this system, in order to maintain the empire, in order to maintain the supremacy of the US dollar, Okay? He created two new hallucinations.
 
-And they are the GCC and China. Okay? GCC and China. All right. So, what underpinned this system before was gold. The fact that US dollar could always be exchanged for gold. Once that's gone, then you need to create new two new hallucinations in order to disguise the the hallucination, okay? So, what happened was that over next few decades this system will transport itself and impose itself on the GCC and China.
+And they are the GCC and China. Okay? GCC and China.
+
+All right. So, what underpinned this system before was gold. The fact that US dollar could always be exchanged for gold. Once that's gone, then you need to create new two new hallucinations in order to disguise the the hallucination, okay? So, what happened was that over next few decades this system will transport itself and impose itself on the GCC and China.
 
 Okay? This system here. It will impose itself into the GCC as well as China. In other words, and this is really important for you guys to understand, China is a hallucination of a hallucination. It's not real. Okay, I'll explain more about this later on, okay? All right. So, once this hallucination is imposed onto the GCC and China, this creates demand for the US dollar.
 
@@ -140,7 +147,9 @@ Okay? The UAE. The UAE seen as though it was a very prosperous place. Right? It 
 
 And now the UAE is gone. You understand? That's how precarious these illusions are. One hit at the right spot, the entire illusion is shattered. You can never bring it back. Okay? And so that's what China's afraid of now. So that's why China and the United States have to work together because what's important is to maintain the nature of reality itself.
 
-The worst thing that can happen is if people wake up from this dream. Because if you wake up from this dream, everything collapses all at once. Okay? Does that make sense, guys? Any questions so far? Are we clear about this? Okay. All right. So how how Now that we have this theory, let's talk about this idea concretely.
+The worst thing that can happen is if people wake up from this dream. Because if you wake up from this dream, everything collapses all at once. Okay? Does that make sense, guys? Any questions so far? Are we clear about this? Okay.
+
+All right. So how how Now that we have this theory, let's talk about this idea concretely.
 
 Okay? All right. So the United States used to be the world's most powerful manufacturing country, okay? So before it was it was the UK, then you have the United States, okay? And the United States is in the blue. Right? And then it And then China surpassed it. This is intentional. Okay? The intention is to use manufacturing to extract the wealth of China and transfer it to America.
 
@@ -150,7 +159,9 @@ Okay, one major consequence of this um uh all of all of China's rise is the trad
 
 So, this is a system that benefits the Americans. When Trump came into power in 2016, he said, "No, no, no, no. It shows that China is taking advantage of us." And Trump doesn't really really appreciate that. No, it was designed this way. You You need to create demand for US dollars.
 
-If China is buying a lot of US dollars, that's a good thing, right? China is trading real assets, the energy of its people, for fake assets, which is just mm US dollars, okay? So, it's a good deal for America, but Trump said, "No, this is a bad deal." And this And this was what led to the trade war. Okay. So, what led to the trade war is the WTO.
+If China is buying a lot of US dollars, that's a good thing, right? China is trading real assets, the energy of its people, for fake assets, which is just mm US dollars, okay? So, it's a good deal for America, but Trump said, "No, this is a bad deal." And this And this was what led to the trade war.
+
+Okay. So, what led to the trade war is the WTO.
 
 So, in 1999, China negotiated to join the WTO, the World Trade Organization. And this is this is what going to make China rich and the largest manufacturing power in the world. But in order to join WTO, China had to uh agree to a lot of conditions. The two most important conditions was protect IP, okay? You have to protect other nations intellectual property and you have to enforce it.
 
@@ -164,7 +175,9 @@ Your dollars is more valuable than your means based on your dollars. So, wouldn'
 
 Oh, sorry, not 2016, in 2018, okay? 2018 is when the war actually started, up to today. So, for the past 8 years, this war's been going on because America's trying to protect its IP, and and because America wasn't going to open up its financial sector. The reason why Trump has come to China, the reason why he's brought so many executives is because China has essentially agreed to open up its financial sector, okay? I'll I'll discuss this later on.
 
-But you got you got you got to appreciate how this war started and why and why it's going to end. All right. Now, the thing about this war is that for the past 8 years, China and the United States have been attacking each other. There are two There are two main mechanisms in which China attacked the United States.
+But you got you got you got to appreciate how this war started and why and why it's going to end.
+
+All right. Now, the thing about this war is that for the past 8 years, China and the United States have been attacking each other. There are two There are two main mechanisms in which China attacked the United States.
 
 The first mechanism is by restricting the supply of rare earth minerals to the United States. Because as as you can see from this chart, China actually produces most of the rare earth minerals. Now, you may not know this, but actually rare earths aren't that rare. The problem is in the extraction. It is very expensive.
 
@@ -182,7 +195,9 @@ That shows you China's dependence on exports. But, if China If America's control
 
 China in only 3 years time, okay? From 2011 to 2013, used more cement than America did in 100 years. That's crazy to think about. All right? So, this shows you how dependent China is on the global economy. It It also shows you how dependent China is on the USD. Okay? Because it's only because the renminbi can be exchanged for the USD that allows China to purchase so many resources from um abroad.
 
-All right. The reality is that China is too dependent on America. This is something that Chinese policy makers have been have have been trying to change for the past 10 years. It doesn't work. Because what Chinese policy policy makers don't understand is that you're in a hallucination of a hallucination. Okay? You only exist because America created you. All right.
+All right. The reality is that China is too dependent on America. This is something that Chinese policy makers have been have have been trying to change for the past 10 years. It doesn't work. Because what Chinese policy policy makers don't understand is that you're in a hallucination of a hallucination. Okay? You only exist because America created you.
+
+All right.
 
 So, this is consumer confidence. You can see um so, 2018 is when the trade war started, okay? And at this time uh people are still okay. They're still bearing the brunt of it. But, then COVID happened, right? And then you saw this massive drop. And it never really recovered, guys. All right? It never really recovered. Consumer confidence.
 
@@ -190,7 +205,9 @@ People don't believe the economy is doing well. People are not willing to buy th
 
 Even as though there are less and less less opportunities to do well in China, more and more Chinese are going to America to study. And guess what? Not the very best are not coming back, okay? There's a gap of about a million students who stay in the West. And these are often the very best students. All right? So, I hate to say this, but you're hallucinating with hallucination, you're anxious.
 
-You want to go back to the source. Right? So, you know there will be space on your dollars. You can change your RMB for your dollars, you will do so. If you can flee the country, immigrate abroad, you will do so. All right. This is a pretty stark data, okay? So, um this shows you the current account balance.
+You want to go back to the source. Right? So, you know there will be space on your dollars. You can change your RMB for your dollars, you will do so. If you can flee the country, immigrate abroad, you will do so.
+
+All right. This is a pretty stark data, okay? So, um this shows you the current account balance.
 
 Current account Current account is basically means how much Chinese Chinese have in the bank due to trade. This um is the trade account, okay? How much Chinese actually traded. The The blue tracks the current account, okay? How much Chinese have in the bank because of the trade. The red tracks the actual trade. Okay? As you can see, for most of Chinese history up until about, you know, uh 2022, it tracks pretty closely.
 
@@ -198,13 +215,17 @@ But, starting in 2022, there's a divergence. A huge divergence. You know what? T
 
 We agree for five five hundred dollars, but you charge me a thousand dollars. Why? Because you didn't take the five five hundred dollars, and you put that money on my behalf into a US real estate. You buy property or buy stocks from me, okay? Does that make sense? This is all just money laundering. Okay? So, in other words, what's really driving China's export mania, a lot of it is just money laundering.
 
-As people try to flee the country. Okay? So, this is not good for China. All right. Um another major problem in China is the household savings rate. Where it's the highest in the world. Okay? The highest in the world. Why is Chi- Why are Chinese um savers Why are they saving 40% of their income? Well, a lot of reason is because Chinese aren't that wealthy, okay? So, even though the Chinese economy has boomed these past 30 40 years, the Chinese individual has not seen a huge improvement in his um standard of living, okay?
+As people try to flee the country. Okay? So, this is not good for China.
+
+All right. Um another major problem in China is the household savings rate. Where it's the highest in the world. Okay? The highest in the world. Why is Chi- Why are Chinese um savers Why are they saving 40% of their income? Well, a lot of reason is because Chinese aren't that wealthy, okay? So, even though the Chinese economy has boomed these past 30 40 years, the Chinese individual has not seen a huge improvement in his um standard of living, okay?
 
 And so, there is not a great confidence in the future, and that's why Chinese save a lot of their money. And there are not that many actual that that many investment vehicles as well. So, from a US perspective, this is a great opportunity, right? If Chinese are saving all this money, if you're a financier, if you're like BlackRock or a BlackRock, you're like, "Why don't you give it to me? And I'll invest the money for you and give you bigger returns.
 
 " Right? This is why they're here in China, cuz they want this. They want all that capital stored in in Chinese banks not doing anything. Like, "Give it to us and we'll make you more money, okay?" All right. Um, so, this shows you the capital account. All All this is saying is that you can't actually convert your yuan renminbi into other currencies.
 
-So, most countries have full uh, open capital accounts, okay? The The black um, is most countries. The bottom quarter of nations have closed accounts, and China is part of the uh, quarter that have closed accounts, okay? So, Chinese can actually take take their money and leave the country. Okay. So, the other thing that I want you guys to understand is, from a US perspective, there's still a lot of potential in China.
+So, most countries have full uh, open capital accounts, okay? The The black um, is most countries. The bottom quarter of nations have closed accounts, and China is part of the uh, quarter that have closed accounts, okay? So, Chinese can actually take take their money and leave the country.
+
+Okay. So, the other thing that I want you guys to understand is, from a US perspective, there's still a lot of potential in China.
 
 And the reason why is China still has a lot of debt capacity. Debt capacity just means your ability to carry debt. Why? Because China doesn't have much debt relative to other nations. Look at this, okay? China, in terms of like assets and liabilities, don't have much invested abroad. You can compare that with like other countries like Japan, United States, Germany, United Kingdom, they have a lot invested abroad.
 
@@ -212,7 +233,9 @@ China doesn't have that much invested abroad. So, in theory, you can encourage t
 
 It's about the same as India, which doesn't have that much capital, then like even Indonesia, Turkey, Mexico actually invests more abroad than China does. Brazil, Russia, Saudi Arabia invests a lot, South Africa invests a lot more than China. Okay? So, again, from a US financial financial perspective, China is a large great opportunity in the world.
 
-That's why they're coming here. Okay? They want to strike a deal where they can financialize the China the Chinese economy. Basically, use uh the Chinese economy as collateral to engage in financial speculation everywhere in the world. Okay? So, let me explain how they're going to do so. All right. So, China has a closed capital account.
+That's why they're coming here. Okay? They want to strike a deal where they can financialize the China the Chinese economy. Basically, use uh the Chinese economy as collateral to engage in financial speculation everywhere in the world. Okay? So, let me explain how they're going to do so.
+
+All right. So, China has a closed capital account.
 
 Why do you have a closed capital account? Because you know for a fact that if you open it, Chinese take the yuan B and convert all into US dollars. All right? And that causes your economy to collapse, your bank system to collapse. So, So, what's the solution here? Okay, first of all, what we need to understand something and this is like really important for you guys to appreciate.
 
@@ -220,7 +243,9 @@ Banks create money out of thin air. Okay? Money is just an illusion. So, the exa
 
 Okay? And this is how banks work. And you think that, okay, well, if deposit a million dollars in the bank, the bank then loans it to the to the restaurant entrepreneur, then in theory, the bank should have zero in the bank, right? No. The bank now has two million dollars. Okay? The banks are allowed, according to accounting, they're allowed to create money every time they issue a loan.
 
-So, that only they keep that million dollars from the depositor, but they also are able to print a million dollars to give to the restaurant entrepreneur. Does that make sense to you guys? Okay. Do you guys want to want to know why this is the case? Okay, I'll tell you anyway, okay? All right. Okay. So, before, what were what were banks? Banks were just merchants, okay? A merchant alliance.
+So, that only they keep that million dollars from the depositor, but they also are able to print a million dollars to give to the restaurant entrepreneur. Does that make sense to you guys? Okay. Do you guys want to want to know why this is the case? Okay, I'll tell you anyway, okay? All right.
+
+Okay. So, before, what were what were banks? Banks were just merchants, okay? A merchant alliance.
 
 Why? Because merchants needed capital in order to trade. So, they came together and created their own bank. Okay, so they were an alliance. And so, what merchants would do is basically deposit their gold into this alliance so that it can be distributed elsewhere. Okay? Now, the problem gold is that it's heavy, it's hard to transport.
 
@@ -232,11 +257,21 @@ I just put it into assets, right? Okay? Then someone comes and says, "I need I n
 
 That's why banks are allowed to create money out of thin air because of double-entry bookkeeping. Okay, are you are you guys clear clear about this? Yeah? Is it because that the banks have powers to print money when they uh make loans or Because I think like if some people deposit their money into the bank and the bank need to give it back.
 
-So, it might be like into the liability. Okay. All right. All right. All right. All right. You don't You don't understand what's going on. Okay. All right. Listen. It's It's not that hard. Okay? I have gold. I put the gold into the bank. People come to borrow the gold, right? And I give a paper saying this is gold.
+So, it might be like into the liability. Okay.
+
+All right. All right.
+
+All right. All right. You don't You don't understand what's going on. Okay.
+
+All right. Listen. It's It's not that hard. Okay? I have gold. I put the gold into the bank. People come to borrow the gold, right? And I give a paper saying this is gold.
 
 This It's It's money, okay? Money. Okay? Is this money a debt or a liability? It doesn't make sense as a It doesn't make sense as a liability because I don't owe that thing. Okay? And the fact that I can use this this money in order to create more money creates means it's an asset. Okay? Does that make sense? All right.
 
-So, so now this becomes a basis of the global banking system. All right. So, let let let me show you how. All right. So, what happens is this. YOU HAVE THESE BANKS IN AMERICA, in the world. They're private banks. They're run by private people who put all their money in the banks, okay? You have the US government.
+So, so now this becomes a basis of the global banking system.
+
+All right. So, let let let me show you how.
+
+All right. So, what happens is this. YOU HAVE THESE BANKS IN AMERICA, in the world. They're private banks. They're run by private people who put all their money in the banks, okay? You have the US government.
 
 You have the government. Okay. The US government does not have any money. The US government wants to borrow money. The question then is like, how do you borrow money? If you borrow money from these banks individually, that's too hard, okay? So, what happens is this. What happens is 1913 the banks got together and created something called the Federal Reserve.
 
@@ -290,7 +325,9 @@ Does that make sense, guys? So, would China agree to this? Absolutely. China has
 
 No. No. No. No. No. But, why would they do this? China would care. I don't Don't Guys, don't talk about sovereignty, rights, morality in this class, okay? It's all game theory. I don't care what this thinks. Game theory is people are going to behave in their best interest. It's that simple. Okay? No morality, no human rights, no sovereignty.
 
-All right? Okay. So, China doesn't care who controls Venezuela as long it's a stable place where China can get cheap oil. It doesn't make sense. Okay. All right. The last thing is AI. Okay? All right. So, as you can see, the United States is the world's leader in the in I simply because it has the most data centers.
+All right? Okay. So, China doesn't care who controls Venezuela as long it's a stable place where China can get cheap oil. It doesn't make sense. Okay.
+
+All right. The last thing is AI. Okay? All right. So, as you can see, the United States is the world's leader in the in I simply because it has the most data centers.
 
 In fact, America plans to build more and more data centers. China is trying to compete, but its data center development is constrained by the fact that it has limited access to semiconductors, to chips. And so, China wants more chips from the United States. And the United States can say yes. But you're like, "No, no, no, wait, wait, wait, no, no, no.
 
@@ -298,7 +335,9 @@ Doesn't that mean that China could one day overtake the United States?" Could Ch
 
 And all the while, you have to extract resources from Africa, from South America in order to feed these semiconductors. Do you understand? So, in other words, there's actually no way that one nation, only one nation, can control the entire supply chain. So, as long as America can control the trade network, America will always have the advantage in semiconductors.
 
-Okay? There's actually no way China can reverse the production of the semiconductors because it's too sophisticated. It's too expensive. Only Only one country can specialize only one field. Okay? Doesn't make sense. Okay. So, that's why this guy is important. Okay? Jensen Huang of Nvidia. Before he was not supposed to come to China.
+Okay? There's actually no way China can reverse the production of the semiconductors because it's too sophisticated. It's too expensive. Only Only one country can specialize only one field. Okay? Doesn't make sense.
+
+Okay. So, that's why this guy is important. Okay? Jensen Huang of Nvidia. Before he was not supposed to come to China.
 
 Okay? It was announced he was not coming to China. Then, as Trump was flying through Alaska to refuel, he got on board in Alaska. It was a last-minute addition. But, not only that, but there were two business people that were with Trump on his plane. Elon Musk and Jensen Huang. Okay? So, what happened? So, I work in business negotiation.
 
@@ -317,4 +356,3 @@ And the third thing that um America wants is Chinese manufacturing. Why? Because
 Americans don't want to do it because it's too expensive, it's too hard work, but the Chinese will do this. Okay? So, this is what the grand bargain will look like. Any questions? Okay. So, these are predictions. This is the way I see I see the situation and we'll know in a couple couple days if I'm right or wrong.
 
 Okay? So, we'll talk next week.
-

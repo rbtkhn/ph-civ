@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "fingerprint": "45806ab44b7bebec",
-  "card_count": 150,
-  "transcript_word_total": 1221322,
+  "fingerprint": "12e4fcd6b4f2c767",
+  "card_count": 151,
+  "transcript_word_total": 1231850,
   "ssot": "data/cards.jsonl",
   "markdown_index": "docs/ph-civ-index.md",
   "surfaces": {
@@ -64,14 +64,14 @@
     "ph-apo": {
       "part": "world-war",
       "volume_label": "Volume II — Apocalypse (law application)",
-      "chapter_count": 72,
+      "chapter_count": 73,
       "series_counts": {
         "essays": 5,
-        "game-theory": 19,
+        "game-theory": 20,
         "geo-strategy": 20,
         "secret-history": 28
       },
-      "transcript_word_total": 578158
+      "transcript_word_total": 588686
     }
   },
   "chapters": [
@@ -2265,7 +2265,7 @@
         "folder": "ph-apo/chapters/gt-16",
         "folder_readme": "ph-apo/chapters/gt-16/README.md"
       },
-      "transcript_word_count": 8936,
+      "transcript_word_count": 8940,
       "source_video_url": "https://www.youtube.com/watch?v=0aASxQrJYuo",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2307,7 +2307,7 @@
         "folder": "ph-apo/chapters/gt-18",
         "folder_readme": "ph-apo/chapters/gt-18/README.md"
       },
-      "transcript_word_count": 6401,
+      "transcript_word_count": 6396,
       "source_video_url": "https://www.youtube.com/watch?v=xrmERlHUqBk",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -2497,8 +2497,29 @@
         "folder": "ph-apo/chapters/gt-27",
         "folder_readme": "ph-apo/chapters/gt-27/README.md"
       },
-      "transcript_word_count": 9861,
+      "transcript_word_count": 9851,
       "source_video_url": "https://www.youtube.com/watch?v=x83HcLWvHI8",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "gt-28",
+      "title": "Game Theory #28: Predictive History",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "ph-apo/chapters/gt-28/gt-28-transcript.md",
+        "commentary": "ph-apo/chapters/gt-28/gt-28-commentary.md",
+        "folder": "ph-apo/chapters/gt-28",
+        "folder_readme": "ph-apo/chapters/gt-28/README.md"
+      },
+      "transcript_word_count": 10539,
+      "source_video_url": "https://www.youtube.com/watch?v=dja6dkCfngE",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
       "deprecated_part_routing": false

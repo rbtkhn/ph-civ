@@ -5,13 +5,14 @@ source_series: "Game Theory"
 publication_date: "2026-05-12"
 source_url: "https://www.youtube.com/watch?v=8nsxuB3Vsts"
 video_id: "8nsxuB3Vsts"
-transcript_status: "public_transcript_capture_pending_fidelity_review"
-transcript_fidelity: "needs_fidelity_review"
+transcript_status: "public_transcript_pending_rights_review"
+transcript_fidelity: "exact_body_match"
 transcript_source: "user_pasted_public_transcript"
 rights_review: "required_before_long_excerpt"
 representation_not_endorsement: true
-review_status: "provisional"
+review_status: "source_reviewed"
 source_captured_at: "2026-06-23"
+source_reviewed_at: "2026-06-23"
 part: "world-war"
 part_role: "world-war"
 ---
@@ -54,7 +55,9 @@ Um at bottom, you see me presenting this thesis. All great power or expansionist
 
 Okay, this is the main thesis of my talk from last class. In that, yes, we tend to ignore religion and we tend to ignore the most extreme aspects of religion. But if you want to understand history, you want to understand current events and geopolitics, you need to understand these extremists because it's often these people and this ideology that becomes the force that drives geopolitics geopolitics forward and that was my thesis from last class.
 
-So uh David Bromwich is just stating or summarizing my major point, but I did I should have really made that clear last class. Okay. Why not say that part aloud if I'm right that your view is anti-status and anti-religion. Okay. So, um here we I mean, what what we should have done is David Bromwich and I should have sat sat down together and had this conversation where I explain to him like my project is not to discuss what is good and what is evil.
+So uh David Bromwich is just stating or summarizing my major point, but I did I should have really made that clear last class. Okay. Why not say that part aloud if I'm right that your view is anti-status and anti-religion.
+
+Okay. So, um here we I mean, what what we should have done is David Bromwich and I should have sat sat down together and had this conversation where I explain to him like my project is not to discuss what is good and what is evil.
 
 That I don't think is actually particularly useful. What I'm trying to do, my major project is to figure out how the world works. And be non-judgmental in uh my speculation. With apologies for the possibly unnecessary words, but now seem the time to say it. What the US and Israel are doing to Iran is awful. You're working hard to inform people about it and every detail should count.
 
@@ -62,15 +65,23 @@ Okay? So, there's so much in this um email and you know, I could easily sit down
 
 So, I think that um what I would like to do uh for my next project is work with David Bromwich and do a series of podcasts in which we discuss um these ideas together and explore these ideas engaging intellectual speculation, but also back it up with um a lot of academic scholarship. And so, I emailed uh David Bromwich and he's agreed to this idea.
 
-So, this is a project I'll be working on uh in the future and I'm really looking forward to presenting it to the world when we're done. Okay. All right. So, let's start class. And today, I want to start artificial intelligence. And this is a major theme that will carry us through to the rest of the semester, okay? And so, um for this class, I want to introduce a book called Empire of AI, written by a journalist named Karen Hao.
+So, this is a project I'll be working on uh in the future and I'm really looking forward to presenting it to the world when we're done. Okay.
+
+All right. So, let's start class. And today, I want to start artificial intelligence. And this is a major theme that will carry us through to the rest of the semester, okay? And so, um for this class, I want to introduce a book called Empire of AI, written by a journalist named Karen Hao.
 
 She is American journalist, and she spent many decades researching OpenAI and writing about uh the advent of AI uh for major publications, including the Wall Street Journal. And um she has a very skeptical view of AI. Her I share her skepticism, okay? So, what I'm going to do in this this class is share with you my understanding of AI.
 
-I'm going to get some things wrong. Okay? So, feel free to ask questions. Feel free to criticize me. Feel free to stop me if I'm not clear. All right. So, um let's let's start class. AI. All right. So, the these are main ideas from the book. Okay? So, um I give you the page reference in case you actually want to read the book yourself.
+I'm going to get some things wrong. Okay? So, feel free to ask questions. Feel free to criticize me. Feel free to stop me if I'm not clear.
+
+All right. So, um let's let's start class. AI.
+
+All right. So, the these are main ideas from the book. Okay? So, um I give you the page reference in case you actually want to read the book yourself.
 
 And I highly recommend that you do uh to fully understand the context of these ideas, okay? So, uh let's let's read these two paragraphs, which provide us the main thesis of her argument, okay? So, Alan, could you help me read, please? Yeah. Six years after my initial skepticism about OpenAI's uh altruism, I've come to firmly believe that OpenAI's mission to ensure AGI benefits all of humanity may have begun as a secret uh sincere stroke of idealism, but it has since become a uniquely potent formula for consolidating resources and constructing an empire uh ask uh ask or power structure. It is a formula with three ingredients.
 
-Okay. All right. So, stop. Okay, all right. So, um this book is mainly about OpenAI, which is also uh the most important artificial intelligence company in the world right now, because they were the ones who pioneered ChatGPT, okay? And it started off as a project sponsored by Elon Musk and others, because they were concerned that AGI, artificial general intelligence, would be a threat to humanity.
+Okay.
+
+All right. So, stop. Okay, all right. So, um this book is mainly about OpenAI, which is also uh the most important artificial intelligence company in the world right now, because they were the ones who pioneered ChatGPT, okay? And it started off as a project sponsored by Elon Musk and others, because they were concerned that AGI, artificial general intelligence, would be a threat to humanity.
 
 So, they wanted to develop AI in a way that would serve humanity as opposed to threat- threaten humanity. And so, at first, it was a very noble mission. Okay, keep on going. Yeah. First, the mission centralized talent by relying them around a grand ambition, exactly in the way John McCarthy did with his coining of the phrase artificial intelligence.
 
@@ -106,7 +117,11 @@ Okay? So, this is a This is a very interesting aspect of humans where we often h
 
 If you go in skeptical and say this is all complete nonsense, it probably will not work on you. But, you're not going to pay $100 to go to a hypnosis show and think it doesn't really work because why would you pay $100, okay? All right, so it's almost like sunk cost fallacy. And again, this is all using just basic human psychology to trick people into believing something that is not true.
 
-Does it make sense, guys? All right. So, let me explain to you how um Open AI works, ChatGPT works. All right. Okay. So, ChatGPT is what we call a large language model. Okay? So, in other words, what it's trying to do is trying to trick you, the user, into believing that it knows what it's talking about.
+Does it make sense, guys? All right. So, let me explain to you how um Open AI works, ChatGPT works.
+
+All right.
+
+Okay. So, ChatGPT is what we call a large language model. Okay? So, in other words, what it's trying to do is trying to trick you, the user, into believing that it knows what it's talking about.
 
 Okay, and how it works is basically takes all off the internet, okay? Right? All data from the internet, and then it translates it into um a um idea. Okay, so you ask uh you query the LMM, the LMM then takes the query and then figures out the information from the internet and then presents it into a paragraph that tries to trick you into believing that it is true.
 
@@ -114,7 +129,9 @@ Okay, do you understand? All right. So, in other words, it's actually no differe
 
 All right? The trick, and this is really important to understand, guys, is it's trying to trick you. All right? It's not trying to teach you, it's not trying to tell you the truth, it's trying to trick you into believing it. That's what we call a hallucination. Okay? You have You guys have to understand this idea. There's nothing truthful about what um ChatGPT says.
 
-All it's trying to do is trying to manipulate manipulate you with words, with pretty words, into believing that it knows what it's talking about, but it itself cannot judge what it's doing. Okay? All right. Any questions so far? Are we clear? Okay. All right. So, now the question is, how does it do that? Okay? And um so, I'm going to teach you a little bit about artificial intelligence.
+All it's trying to do is trying to manipulate manipulate you with words, with pretty words, into believing that it knows what it's talking about, but it itself cannot judge what it's doing. Okay? All right. Any questions so far? Are we clear? Okay.
+
+All right. So, now the question is, how does it do that? Okay? And um so, I'm going to teach you a little bit about artificial intelligence.
 
 And please stop me if I'm not being clear about how AI works, okay? All right. So, AI doesn't exist. What exists we call supervised supervised machine learning. This is the technical term, okay? All right. Supervised machine learning, okay? And how it works is this. Before how computer programs would work is we would write the program, the algorithm.
 
@@ -124,7 +141,11 @@ Facial recognition. How do I separate faces? Okay? And so the problem is this, I
 
 Okay, so for example, eye, for example, uh nose, chin, okay? About a million, okay? About a million weights. So I know these things do matter, but I I don't know how much they matter. So I'm trying to figure out what the weighting is. And I could try to play play it by myself, like say 1%, 2%, 5%, but as you can imagine, this will take too long because there are too many possibilities.
 
-So what I do is this, I let the computer figure out it by itself. I let I let the computer figure out the weighting by itself, okay? And the way I do that is using my technique called back propagation. All right. So, what So, I control the input. Okay? The input. Then, I control the output. Yes or no. Okay. All right.
+So what I do is this, I let the computer figure out it by itself. I let I let the computer figure out the weighting by itself, okay? And the way I do that is using my technique called back propagation.
+
+All right. So, what So, I control the input. Okay? The input. Then, I control the output. Yes or no. Okay.
+
+All right.
 
 So, does the face match or does it not match? And what I'm trying to do is I'm trying to figure out a situation in which all moon faces are matched perfectly. And I do that by training the computer to constantly back propagate until it gets the waiting perfectly. Okay? So, basically, what I'm trying to do if if if if you if you if you want to stand um how this works is I'm trying to turn each face into a distinct mathematical model.
 
@@ -146,7 +167,9 @@ Edge cases. Okay? Edge cases. Edge cases breaks the system down. All right? And 
 
 In this situation, there's only one solution to make this 100%. And that is to take away the right of everyone to drive. To make every single car a computer and a robot. Does that make sense? Okay? If you take away the steering wheel, you can't cause an accident. And then the world will be perfect, okay? So, not only is AI very limited in its um capacity and capability, but AI, if it is to be effective, it demands that we fundamentally restructure human society to benefit AI.
 
-To make sure AI can be effective. And that means taking away the individuality, the diversity, and the autonomy of human beings. Okay? Does that make sense, guys? All right, let's continue with Kieran How. All right. All right, so um can you read uh Alan, please? Neural networks have shown, for example, that they can be unreliable and unpredictable.
+To make sure AI can be effective. And that means taking away the individuality, the diversity, and the autonomy of human beings. Okay? Does that make sense, guys? All right, let's continue with Kieran How.
+
+All right. All right, so um can you read uh Alan, please? Neural networks have shown, for example, that they can be unreliable and unpredictable.
 
 As statistical pattern matches, they sometimes home in and oddly specific patterns or completely incorrect ones. A deep learning model might recognize pedestrians only by the crosswalks uh crosswalks uh under underneath them and fail to register a person who is still walking. It might learn to associate a stop sign with being on the side of the road and miss the same sign extended on the side of a school bus or being held by a crossing guard.
 
@@ -166,11 +189,15 @@ What's the solution? Do you guys know? There's actually one simple solution to t
 
 What do I do?" Do you guys know? I think I would just control the whole world. Yeah, you are you already control the world. So, what do you do? How about this, okay? I'm going to KILL EVERYONE. DUH! WORLD IS PERFECT NOW. I'VE KILLED EVERYONE, OKAY? Everyone's happy. Yeah, cuz you're dead. Uh the world is perfect. Yeah, cuz everyone's dead.
 
-There are no problems. Yeah, cuz everyone's dead. Right? Perfect world, all right? Now, you're like, "Okay. All right." Ha. What I'll do is I'll tell the computer this, "You can do all this, but don't kill anyone." Right? HA. NOW, WE SOLVED THIS PROBLEM. And now what And now what does this computer do? Now what what does the AGI do? I think it take away people's agencies.
+There are no problems. Yeah, cuz everyone's dead. Right? Perfect world, all right? Now, you're like, "Okay.
+
+All right." Ha. What I'll do is I'll tell the computer this, "You can do all this, but don't kill anyone." Right? HA. NOW, WE SOLVED THIS PROBLEM. And now what And now what does this computer do? Now what what does the AGI do? I think it take away people's agencies.
 
 Like just same as killing them. Yeah. Kill everyone, okay? Why? Because there's no one around to know it killed everyone. Does that make sense, guys? This is how a computer thinks. This is how God thinks. "Well, you told me not to kill anyone, but everyone's dead, no one can stop me. No one's going to get hurt.
 
-" Right? Okay? So, this is why uh computers are stupid. All right. Okay. Let's continue. Um All right. So, the thing to understand about um ChatGPT is that it is a company that is first and foremost focused on world domination. Because only by controlling the world can you achieve AGI. Even though AGI wants to kill everyone.
+" Right? Okay? So, this is why uh computers are stupid.
+
+All right. Okay. Let's continue. Um All right. So, the thing to understand about um ChatGPT is that it is a company that is first and foremost focused on world domination. Because only by controlling the world can you achieve AGI. Even though AGI wants to kill everyone.
 
 Okay? And so, you need to make it as profitable and as uh pervasive as possible. Okay? So, here are two troubling uh signs. Okay? So, the first is a news item from CNN where ChatGPT encourages people to kill themselves. And you're like, wait a minute, that makes no sense. But think about this, okay? The point of ChatGPT is to get you to like it.
 
@@ -182,7 +209,9 @@ Anyways, think this is about the final videos." Okay, so he's trying to say, "I 
 
 Second thing is this. Sam Altman is trying to get more people to use ChatGPT. And what do people really, really want? They want sex, okay? So, what he's proposing is he's turning ChatGPT into a sex robot. Here to get more users. Cuz cuz that's all they care about. How to increase intensity, engagement, how to create more users, and how to make money.
 
-Because only by controlling the world can we create AGI. And once we have AGI, we can make the world perfect. Okay? That's the logic here. All right. Something else about OpenAI and AI in America is that it works actually very closely with China. Okay, in two ways. The first way is that in order to get more money from the government, in order to get more media attention, OpenAI and other AI companies scare Americans to believe that if America doesn't do it, China will do it.
+Because only by controlling the world can we create AGI. And once we have AGI, we can make the world perfect. Okay? That's the logic here.
+
+All right. Something else about OpenAI and AI in America is that it works actually very closely with China. Okay, in two ways. The first way is that in order to get more money from the government, in order to get more media attention, OpenAI and other AI companies scare Americans to believe that if America doesn't do it, China will do it.
 
 China will create God, okay? In fact, they spend a lot of money doing this. So, this is from Wired magazine, and it's an article talking about how uh OpenAI uses a lot of money in order to to pay uh the media to frame Chinese AI as a threat, okay? But while it's doing that, it's working closely with China in order to create AI.
 
@@ -224,7 +253,9 @@ The rapture is for all Christians who believe in him to ascend to heaven so that
 
 And so, we, the priests who created AGI, will ascend to heaven with him, okay? So, the AGI, once once we create it, it's going to create World War III, the end of the world, okay? So, we must go into our bunkers and be saved in the rapture so that we can wait until the world ends so that we can build the world again, perfectly, okay? Once the world ends, we will, with AGI, create paradise.
 
-Again, the plan is to kill everyone so that you can save the world. That's literally their plan. All right. Now, you're like, this is all very crazy, and maybe maybe Karen Hao is just a crazy person, but there's another reporter, Ronan Farrow, and he's a very famous reporter who writes for The New Yorker. And he just published a profile of Sam Altman in OpenAI, in which he says the same thing.
+Again, the plan is to kill everyone so that you can save the world. That's literally their plan.
+
+All right. Now, you're like, this is all very crazy, and maybe maybe Karen Hao is just a crazy person, but there's another reporter, Ronan Farrow, and he's a very famous reporter who writes for The New Yorker. And he just published a profile of Sam Altman in OpenAI, in which he says the same thing.
 
 Okay? All right. So, can you read this, Alan? In May, the administration recited Biden's export restriction on AI technology. Altman and Trump traveled to the Saudi royal court to meet with Bin Salman. Around the same times, the Saudis advertised the launch of a giant state-backed AI firm in the kingdom with billions to spend on international partnerships.
 
@@ -234,7 +265,9 @@ It's a Stargate. These data centers, OpenAI, AI, it's designed to summon demons 
 
 And Sam has added one in the Middle East. He went on, I think it's just like widely important to get how scary that should be. It's the most reckless things that has been done. Okay, this is it, okay? This is not a science project, guys. It's an occult project. It's designed to bring aliens, demons into this world.
 
-And then you're like, "This makes no sense." Actually does make sense, okay? Let me tell you how this works. All right. So, what's going on here? These people are cultists. They understand the fundamental nature of reality. They understand that the source of reality is human consciousness. So, if you're able to control human consciousness, you become God itself, okay? So, uh allegory of the cave, Plato.
+And then you're like, "This makes no sense." Actually does make sense, okay? Let me tell you how this works.
+
+All right. So, what's going on here? These people are cultists. They understand the fundamental nature of reality. They understand that the source of reality is human consciousness. So, if you're able to control human consciousness, you become God itself, okay? So, uh allegory of the cave, Plato.
 
 Okay. So, we talked about this before, but I'll remind you. You have a million people who are chained in a line. They are forced to look forward at a wall. Okay? A wall. And they can only look at the wall. They can't turn their heads because their necks are shackled. Behind them is a great fire. And behind them are the elite, okay? Who they are we don't know.
 
@@ -268,11 +301,12 @@ Okay? So, these are three major issues or three three major constraints on artif
 
 Okay? That is the real apocalypse. And so, this begins our journey into AI and we're going to continue this for the rest of of semester and show how AI will ultimately destroy the world. Okay? Any questions? Guys, do you guys understand what's going on? Okay? We need to point for you to understand that the people in charge of AI are crazy. These are cultists.
 
-They really they literally want to create God but to create God they first have to destroy the world. All right. Yeah. So, they want to create God, but that God will destroy the world, but I think like if they want want to use the God which is the AGI to control the world, but the creation of this God will kill themselves.
+They really they literally want to create God but to create God they first have to destroy the world.
+
+All right. Yeah. So, they want to create God, but that God will destroy the world, but I think like if they want want to use the God which is the AGI to control the world, but the creation of this God will kill themselves.
 
 So, what's the meaning? Okay. So, the idea is this. You destroy the world. Once you destroy the world from wars, from famine, from genocide, there will be no resistance to you, okay? Now you can create the world in any way you want. You use AGI to create a perfect world, which is perfect control. Okay? The point of of AGI is ultimately like the ultimate surveillance state.
 
 We'll discuss this later on. All right, where everything is monitored. Where you obey the AGI all the time. Okay? But the point is that you want to. You believe in God. You want to do good. Okay? So, is this like also a part of the secret society? This is one of my secret societies, yes. Okay? All right.
 
 Okay, so um we will continue this next week. On Thursday, Trump is in China.
-
