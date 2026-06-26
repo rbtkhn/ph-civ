@@ -12,10 +12,12 @@ interviews_episode: 3
 ingested_at: "2026-06-25"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: workshop_promotion
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-06-25
+fidelity_reviewed_at: 2026-06-25
 part: provenance
 part_role: provenance
 series: interviews
@@ -25,6 +27,8 @@ series: interviews
 
 ## Part I: Full transcript
 
+### Show Open — 2026 and Prediction Method
+
 **GLENN DIESEN:** Welcome back. We are joined today by Professor Jiang to discuss 2026 and what to expect. Thank you very much for coming back on.
 
 **JIANG XUEQIN:** Thanks, Glenn.
@@ -32,6 +36,8 @@ series: interviews
 **GLENN DIESEN:** You're renowned for using historical patterns and game theory to predict the direction of geopolitics, and from the election of Trump to the invasion of Iran, you've been pretty much spot on. So I thought, who better to ask about what to expect for this year 2026? We've certainly gone off to a very rough start.
 
 Before we look into 2026, can I ask you: what makes your geopolitical predictions more accurate? Do you rely on economic structure, elite politics, ideology, or the military balance?
+
+### Game Theory — April Visit and Petrodollar Strategy
 
 **JIANG XUEQIN:** I use game theory. I basically see geopolitics as a game played by different players who are trying to maximize their own self-interest. So I don't really look at ideology. I basically focus on self-interest.
 
@@ -50,6 +56,8 @@ What Trump wants to do is force China to continue buying US dollars. If China we
 By invading Venezuela, Trump hopes to force China to buy oil using US dollars. China gets most of its oil from the Middle East. If Trump were to attack Iran and destabilize the Middle East, China would be forced to rely more on the Western Hemisphere for its oil supply — and not just oil, but also silver, gold, lithium, copper, and basically all the minerals China needs to power its EV and AI industries.
 
 This is the grand strategy being played out: Trump is conducting these wars around the world in order to strangle the Chinese economy so that China becomes reliant on the Western Hemisphere for supplies and is therefore forced to buy more US dollars. That's the great game we are witnessing right now in 2026.
+
+### Coercion vs Trust — US-China Codependency
 
 **GLENN DIESEN:** But it looks like this can go both ways. If the United States really wanted China to use the US dollar — and there are a lot of benefits for China to do so — then they would want to do the exact opposite: create trust and an open, predictable international economic system in which the rule of law comes first.
 
@@ -87,6 +95,8 @@ How do you factor in the unknown variables? For example, if I would predict one 
 
 So how do you see an economic crisis playing into 2026, especially the US-China rivalry?
 
+### US Crisis — AI Bubble, Silver, and Civil War
+
 **JIANG XUEQIN:** America has some major weaknesses, and you're right that it's possible America faces a great financial crisis this year. Let's go over some of the major problem areas.
 
 The first is artificial intelligence. Right now most American GDP is driven by investment in AI — building data centers that consume a lot of water and electricity. These data centers cost tens of billions of dollars, and it's really unclear how they will make money. Most people use AI to generate videos or cheat in school. It's unclear how this will be beneficial to the economy. And if AI does become profitable, it will cause millions of jobs to be lost. So it seems the AI bubble is about to burst.
@@ -111,6 +121,8 @@ Because of oligarchs who control the resources, the ability to print money throu
 
 **GLENN DIESEN:** Things look a bit grim for the United States with all these bubbles. Once this begins to fall apart, civil war becomes a real possibility. But how do you see this affecting the rivalry with China? What are the strategic priorities on the Chinese side, and how do you see them pursuing them? One would assume China would also become a bit more assertive as it becomes more confident, but also as the pressure builds on the United States to break China and restore the 1990s if you will.
 
+### China Strategy — Exports, Japan, and Malacca
+
 **JIANG XUEQIN:** The greatest strength and the greatest vulnerability of the United States is the US dollar. The greatest strength and the greatest weakness of China is its reliance on exports. China is an export-oriented economy, and sometimes its export strategies are counterproductive.
 
 The United States is threatening to strangle, embargo, or blockade China. One thing that will flare up in 2026 — it's already flaring up right now — is the rivalry between China and Japan. The Japanese prime minister has said that Taiwan is part of Japan's strategic interest. If China were to get hold of Taiwan, Taiwan could blockade Japan from access to the Strait of Malacca and therefore oil from the Middle East, which Japan is dependent on. So Japan believes that if China were to invade Taiwan then Japan would have to step in.
@@ -123,6 +135,8 @@ If we shift toward Europe, which includes Russia, you said the Ukraine war has b
 
 Are we prepared to end this war, or how do you see this playing out?
 
+### Europe — Militarize Despite No Path to Victory
+
 **JIANG XUEQIN:** The future is obvious. Europe is going to militarize against Russia even though it is against the best interests of its people. Its people will be very upset with remilitarization. You're already seeing massive protests in Germany. A lot of this will be irrational. Europe has absolutely no path to victory in Ukraine, but Europe is going to send men to their deaths anyway because Europe doesn't know what else to do.
 
 What Europe is really saying is that we banked on Russia losing this war and then we could impose an indemnity on Russia and that would solve all our fiscal problems. Now that Russia is winning, we are facing economic collapse at home and we don't really want to face that. So we're going to continue the war and hope for the best. There's no strategy here. It's suicidal. It's irrational. But Europe is stuck where it is.
@@ -133,6 +147,8 @@ Why should the Russians accept the Europeans engaging in direct attacks killing 
 
 But if you open any European or German newspaper, they don't seem to realize this at all. If they recognize the possibility of war, it's because Russia will want to restore the Soviet Union or march on Paris or something along those lines. Do you think this is a real prospect?
 
+### European Elite — WWI Irrationality and Media Bubble
+
 **JIANG XUEQIN:** The leadership of Europe, the European elite, they live in their own reality. Like YouTube and social media, there are different bubbles. The European elite literally believe that Russia will collapse tomorrow. If we just wait another day then the Russian economy will collapse, the people of Russia will revolt, Putin will be overthrown, and Russia will sue for peace.
 
 If you watch their media, they repeat this over and over and it becomes a self-reinforcing bubble. The EU is this sprawling self-reinforcing bureaucracy and they're not capable of imagining defeat. They're absolutely certain that if they just wait one more day then the war will be over and they would have won.
@@ -142,6 +158,8 @@ If you talk about irrationality, go back to World War I and those four or five y
 **GLENN DIESEN:** Even now that NATO losing Ukraine is starting to become obvious, the new goal appears to be "let's lose slower." Let's keep the Ukrainians a little bit longer in the fight, even though it will be a humanitarian disaster for Ukraine and also a strategic disaster for Europe.
 
 How do you see this playing out in the European security architecture? The EU and NATO are the two main pillars of how Europe has been structured in the post-Cold War era. They were supposed to be the hegemonic order of Europe, also what US unipolarity was supposed to rest on, especially NATO. Do you see them being able to survive? 2026 might hold on, but it seems to be deteriorating fast. As we speak, Trump is laying claim to Greenland, and the Danish prime minister is trying to refer to Article 5, but I'm not sure if America would come to the defense of Greenland if America goes after Greenland. This is kind of absurd stuff.
+
+### Trump vs Europe — NATO Odessa and Immigration
 
 **JIANG XUEQIN:** The reality is that Trump hates Europe. He's hated Europe ever since 2016 when Europe basically insulted him during his first presidency. Europe thought he was a joke, a charlatan, and Europe inspired Obama to refer to him in 2020. So Trump hates Europe, and you can tell. The first thing that happened after Trump won the election was he sent JD Vance to Europe to scold Europe for failing Western civilization — for letting in too many immigrants, for embracing woke ideology, for betraying Christian values.
 
@@ -169,6 +187,8 @@ You will conscript quite a few because these European nations have become author
 
 How does this play into the United States? The Europeans were a key partner of the US in the past during the Cold War and the hegemonic era. But what do you see the Americans doing now if they are drifting further away from the Europeans? Will they abandon bloc politics or will they simply demand subservience? How will the US build this power moving forward? This is what perplexes many European politicians. Every time America slams them or threatens to take Greenland, they all go on Twitter saying "we're good allies, you need us to be great," but it doesn't appear that this sentiment is shared by Washington. So what will the US build its power on?
 
+### US Transactional Empire — Abandon Europe
+
 **JIANG XUEQIN:** The United States is now transactional. It's an empire and it's going to exploit its vassals. And if it cannot exploit its vassals, it will just abandon them.
 
 Right now, it's uncertain what it can derive from Europe. Europe has an aging population. It is not willing to fight wars. It does not have that many able-bodied men. It has very few resources. So the United States doesn't really know what it can do with Europe. In fact, the United States believes that Europe has been stealing and exploiting the United States for the past few decades. It's the American security infrastructure that has protected Europe, that has allowed Europe to create its welfare state. Americans think the Europeans are just lazy, decadent, and corrupt.
@@ -190,6 +210,8 @@ But there's no discussion in the political class what to do. It's just the assum
 **JIANG XUEQIN:** But that's again where the ideology comes in. They convince themselves that this is what glues us together as opposed to having common strategic interest.
 
 For the United States though, do you see overall its power retrenching? Will they overextend or will there just be a complete absence of a coherent strategy?
+
+### Venezuela Raid — Empire Decline and Trump World
 
 **JIANG XUEQIN:** What we're seeing is an acceleration of the demise of the American empire. Let's go back to Venezuela. Everyone saw what happened: Chinook helicopters carrying Delta Force special operators flew into Caracas, killed Maduro's security team and Cuban security team, and then escorted him to New York where he was paraded.
 
@@ -246,6 +268,8 @@ I couldn't tell you right now what will happen in April, but my thinking is — 
 Back to Iran though. There are many countries who could be next: Colombia, Cuba, Mexico, Panama, de facto Denmark with Greenland, go back to Gaza, Lebanon, they could lose Syria, go back in there, Russia intensify, China of course, Nigeria — maybe they're not done bombing there. So there seems to be a lot of countries on Trump's war list.
 
 But in terms of Iran, how likely do you think this is that there will be a do-over? Because they didn't go as well as hoped last time obviously.
+
+### Iran, April Grand Bargain, and 2026 Close
 
 **JIANG XUEQIN:** Trump was elected and the Israelis helped to elect Trump. Remember, Miriam Adelson gave $100 million to Trump. A lot of it was that Trump agreed that he would resolve the Iran issue, and we saw that in June in Operation Midnight Hammer. But Trump is transactional. So he is going to invade Iran at some point but he wants to maximize his own personal benefit.
 

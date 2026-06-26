@@ -1,5 +1,5 @@
 ---
-source_id: interview-2026-03-07-nima
+source_id: interview-2026-03-07-dialogue-works
 title: "Interviews #8: Nima (Dialogue Works) — The Iran War: The Watershed Moment That Changed the Middle East Forever"
 source_series: "Predictive History Interviews"
 publication_date: 2026-03-07
@@ -12,10 +12,12 @@ interviews_episode: 8
 ingested_at: "2026-06-25"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: workshop_promotion
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-06-25
+fidelity_reviewed_at: 2026-06-25
 part: provenance
 part_role: provenance
 series: interviews
@@ -25,6 +27,8 @@ series: interviews
 
 ## Part I: Full transcript
 
+### Show Open — Nima Welcomes Professor Jiang
+
 **Nima:** Hi everybody. Today’s Saturday, March 7th, 2026 and our new friend, Professor Jiang, is here with us. Welcome, Professor.
 
 **Jiang Xueqin:** Hi.
@@ -32,6 +36,8 @@ series: interviews
 **Nima:** And it’s the first time you are in this podcast. I know that many of our audience know you from your videos on YouTube — these amazing lectures. I got familiar recently with those lectures. I was amazed with the information, with the wisdom in those videos and how you connect the historical facts to what is going on right now and what would happen in the future considering all this history.
 
 Professor Jiang, what is happening right now in the aftermath of that devastating war in Ukraine which literally destroyed Ukraine? And right now we have a new war in the Middle East. This is not a war between the United States and Iraq or Afghanistan. They didn’t have that much power to fight back. This is Iran. That’s somehow different in terms of the size of the country, size of the population, their military power is different. What is your understanding of what’s going on in the Middle East?
+
+### World War III — Ground Troops and Strait of Hormuz
 
 **Jiang Xueqin:** We are in World War III right now. It’s only been a week, but this war between the United States and Iran can only escalate over time.
 
@@ -58,6 +64,8 @@ There is a dream of a Eurasian heartland — a grand alliance between Russia, Ir
 This is really a struggle of life and death for the American empire. And that’s why, in many ways, America has no choice now but to go all in and send ground troops.
 
 **Nima:** I think the big picture of the region is of importance. I know that you’ve been talking about the state of Israel and the agenda of the United States with the state of Israel. From what you see so far — we had the case of Venezuela where Donald Trump came in and said that we are in control of Venezuela. Right now in one of the latest interviews on Fox News, they’re talking the same way: we have to control the oil in Iran. The whole concept. How do you see the concept of Greater Israel and the concept of controlling oil?
+
+### Greater Israel — Oil Control and Mossad False Flags
 
 **Jiang Xueqin:** Israel, since its founding in 1948, has always had a messianic mission to re-establish the Kingdom of David. The Kingdom of David 3,000 years ago was this cosmopolitan empire that controlled the entire Middle East from its strategic location in the Levant. Israel wants to re-establish the Kingdom of David.
 
@@ -86,6 +94,8 @@ That is the situation right now in Iran and the Middle East.
 **Nima:** We are witnessing a conflict between two forces: one from the east, the other from the west. These two forces are fighting each other. One is not that eager to fight — I’m talking about Russia, Iran and China. Mostly they want to communicate. They started communicating with the United States. They continue these negotiations with the United States. They’re trying to do their best.
 
 On the other hand, you see the behavior of the United States is mostly like the British Empire in its last years. They want to dominate everything. They want to force everybody into submission. How do you see this great game, this great power game, working out for the region?
+
+### American Empire Decay — Cold War to Iran Blowback
 
 **Jiang Xueqin:** As you point out, America is desperate. It’s anxious. It’s afraid that its empire is collapsing and therefore is lashing out against the world.
 
@@ -123,7 +133,9 @@ Who are these Arab states and what is the agenda? Because so far from what we’
 
 On the other hand, you mentioned something so important which is the invasion on the ground in Iran. The Iranian foreign minister, having an interview with MSNBC, said that we are prepared. How do you see the whole game in the Middle East and how this war — which is not a game anymore, the war is killing people?
 
-**Jiang Xueqin:** First of all, it’s important to understand that these GCC countries are artificial constructs of empire.
+### GCC Mirage — British Construct and Regional Collapse
+
+First of all, it’s important to understand that these GCC countries are artificial constructs of empire.
 
 All these nations came into being because of the British Empire. Saudi Arabia — the House of Saud — they were put into power by the British Empire as a counterweight to the Ottoman Empire. This is the great game. The British Empire just put their puppets into place in different Middle East countries because they knew that these countries had massive amounts of oil and that oil would be the great wealth of the 20th century. It was all planned before.
 
@@ -159,7 +171,9 @@ None of these nations in the GCC are actually real nation states with real popul
 
 **Nima:** I think many of us are somehow confused with the concept of Israel because after all Donald Trump wanted to help Israel but it seems from what we’ve seen so far you see no footage is coming out of Israel and then what is happening in Israel that nobody knows because it seems that a huge devastation is happening and nobody knows what’s going on. But from Iran we know — as you mentioned the footages are coming out — where they’re heading and what is the devastation that is happening in Tehran for example.
 
-**Jiang Xueqin:** There’s a very good reason why there’s no footage coming out of Israel. The reason is Israel was completely humiliated in a 12-day war.
+### Twelve-Day War — Israeli Media Blackout and Ground Troops
+
+There’s a very good reason why there’s no footage coming out of Israel. The reason is Israel was completely humiliated in a 12-day war.
 
 Remember, Israel really thought that it would take them like a few days to destroy Iran because their entire strategy was decapitation. They went in to kill the top leadership of the Iranians and for the first few days it was really impressive. They were killing the scientists, these generals, these officials, these clerics in their homes. That showed you the extent of the Mossad network in Iran. That showed you the extent of the advancement of Israeli weaponry and it also showed you that Israel had complete dominance over the skies.
 

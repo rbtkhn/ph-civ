@@ -12,10 +12,12 @@ interviews_episode: 5
 ingested_at: "2026-06-25"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: workshop_promotion
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-06-25
+fidelity_reviewed_at: 2026-06-25
 part: provenance
 part_role: provenance
 series: interviews
@@ -24,6 +26,8 @@ series: interviews
 # Interviews #5: Dimitri Lascaris — Trump’s War on Iran, Davos, Canada–China
 
 ## Part I: Full transcript
+
+### Show Open — Montreal and Jack Keane Clip
 
 **Dimitri Lascaris:** Good day. This is Dimitri Lascaris coming to you for Reason to Resist from Montreal, Canada on January 22nd, 2026. Today I’m very pleased to be joined by Professor Jiang. Professor Jiang is a Chinese-Canadian educator, writer, historian, and geopolitical theorist based in Beijing, China. He’s also the founder and host of a widely followed and important YouTube channel called Predictive History.
 
@@ -45,6 +49,8 @@ Now last week, Professor Jiang, you gave an interview — I believe it was on Da
 
 I’m curious to know whether, in light of what has transpired over the last two to three days and in light also of retired General Keane’s commentary, has your assessment changed? Do you think that an attack on Iran is not likely at this stage, or do you think one is virtually inevitable?
 
+### Iran Air Strikes — Soleimani Legacy and 2026 Conflict
+
 **Jiang Xueqin:** Let me clarify my comments. My feeling is that they will attack Iran. They will use air strikes. It will be very impressive. They will hit a lot of military targets. It will be very sustained. But air strikes by themselves are not effective. Eventually Trump is going to halt air strikes and move his attention elsewhere, but then he’ll resume air strikes at a later point.
 
 So I think this US-Iran conflict will be in the background throughout 2026. Unless Trump is willing to commit ground troops, he cannot actually achieve any of his war aims in Iran. The regime is far too resilient, far too resourceful, far too cohesive. That’s what I meant.
@@ -55,7 +61,9 @@ If he had stayed in office then, we would have seen military strikes against Ira
 
 **Dimitri Lascaris:** I would add to that list — and I’m sure you’re aware of this — the recognition by the Trump regime in the first administration of Israel’s theft of the Syrian Golan Heights. We could probably go on and on, but I think people get the picture.
 
-Iran has long warned that if pushed, it is willing and able to close the Strait of Hormuz. If it did that for a significant period of time — let’s say six months or even more — what would you expect the impact on the global economy to be?
+### Strait of Hormuz — Escalation Ladder and Retaliation
+
+**Dimitri Lascaris:** Iran has long warned that if pushed, it is willing and able to close the Strait of Hormuz. If it did that for a significant period of time — let’s say six months or even more — what would you expect the impact on the global economy to be?
 
 **Jiang Xueqin:** If Iran were to close the Strait of Hormuz, it would really be the nuclear option. It would be worse than a nuclear bomb because it would paralyze the global economy. Most of Southeast Asia — specifically China, Japan, and South Korea — depend on most of their oil and energy from the Middle East. If that were to happen, those economies would shutter and they would have to respond militarily, especially China and Japan.
 
@@ -66,6 +74,8 @@ What I imagine is going to happen — and it’s just my best guess — is that 
 I believe there’s an escalation ladder, and we have to climb pretty far up that ladder before Iran closes the Strait of Hormuz, because if they do that this would basically become World War III. It would draw in a lot of nations and the consequences would no longer be contained. It would be very unpredictable and unprecedented if Iran were to close the Strait of Hormuz.
 
 **Dimitri Lascaris:** A couple of days ago, a publication called Defense Security Asia published an article stating that there were unconfirmed reports of a rapid Chinese military airlift into Iran involving up to 16 cargo aircraft. That would be quite a haul, potentially, of military equipment. What do you make of these reports, Professor Jiang?
+
+### China and Russia — Bolstering Iran Against US Strategy
 
 **Jiang Xueqin:** From the Chinese perspective, what Trump is really doing is initiating a long-term strategy of strangling China economically. If you read the National Security Strategy which came out last month, it’s very explicit that the United States cannot challenge China in Southeast Asia militarily. So what it’s going to do is use its proxies like Japan and strangle China economically.
 
@@ -78,6 +88,8 @@ From a Chinese military perspective, the real reason Trump is going after Iran i
 **Dimitri Lascaris:** Do you think that China might send naval vessels into the region?
 
 **Jiang Xueqin:** China doesn’t have a blue-water navy to challenge the American navy. But I think what’s going to happen this year is that very quickly Russia is going to transform its shuttle fleet — it’s about a thousand ships — into a blue-water navy. There’s no way that Russia can defeat America in the oceans, but Russia at least has to challenge America. It basically has to create a war of attrition in the seas that would hamper America’s aggression against Iran, and China would provide financing for Russia’s blue-water navy. So I think that’s what’s most likely to happen.
+
+### Davos — Carney Speech and Values-Based Realism
 
 **Dimitri Lascaris:** Let’s turn now to a less violent topic, namely the subject of Mark Carney’s much-discussed speech at Davos. The most widely discussed aspect of this speech, I think, is Carney’s acknowledgement that the rules-based order is, as he put it, a partial fiction. He didn’t tell us which part, if any, of the rules-based order was true or based on reality. But in any case, he went on to explain what he believed should replace the rules-based order, and he referred to this new foreign policy paradigm as “values-based realism,” which he said actually came from Finland’s president Alexander Stubb.
 
@@ -92,6 +104,8 @@ Moreover, after more than two years of genocide, Mark Carney’s government has 
 So again, to be perfectly blunt, Professor, I think that Mark Carney’s speech was essentially a marketing exercise. That’s my suspicion and I hope I’m wrong. He knows that the whole world now sees the reality of the rules-based international order — that it is a fraud and that the concept has been discredited. Therefore I suspect — and I could be wrong again — that Western leaders want to rebrand their foreign policy as “values-based realism.” But there doesn’t appear to be any meaningful distinction between that and the now completely discredited rules-based international order. So that’s basically my skeptical view.
 
 But I’m very curious to know what is your take — not just on this particular question, but more broadly on Mark Carney’s speech at Davos.
+
+### Toxic Canada — Thucydides, Havel, and Asset Strip
 
 **Jiang Xueqin:** Overall I agree with your sentiment. It’s better to be skeptical than it is to be naive. I did read Mark Carney’s speech and he makes two major historical allusions.
 
@@ -113,7 +127,9 @@ What he’s going to do is this: he’s going to call an early election, probabl
 
 **Dimitri Lascaris:** That’s quite distressing for those of us who live here. But I find that an entirely persuasive prediction about what is likely to happen in the months ahead.
 
-Now let’s imagine, Professor Jiang, that you were asked to provide advice to the Canadian government about how to deal with the current predicament. I know this is a huge and complex question, but I am curious to know how you would deal with it.
+### Canadian Predicament — Colonization Risks and Love Trump
+
+**Dimitri Lascaris:** Now let’s imagine, Professor Jiang, that you were asked to provide advice to the Canadian government about how to deal with the current predicament. I know this is a huge and complex question, but I am curious to know how you would deal with it.
 
 I’ve been complaining for years that our governments — successive Liberal and Conservative governments — have done so much to increase our dependency upon the United States and to de-industrialize this country, to deprive us of the capacity to produce domestically the things that are necessary for the well-being of the Canadian population. But this is the world we’re now in. We have an extraordinary degree of dependency on the United States. We have a lunatic in the White House who openly talks about turning Canada into the 51st state. There’s no way — even with the ruinous plan to increase Canada’s military spending to 5% of GDP — that we could compete with the United States in terms of military spending. We have the longest undefended border in the world with the United States. We’re in a bit of a pickle.
 
@@ -131,6 +147,8 @@ But let’s just say for the sake of argument that they bring me in and ask what
 
 But guess what? They’re not going to do that.
 
+### Beijing Trip — EV Quota, Canola, and Strategic Partnership
+
 **Dimitri Lascaris:** Well, no. That actually brings us to our next topic, which is Mark Carney’s trip to Beijing. That doesn’t seem to be the kind of thing that is going to win the goodwill and good graces of King Donald. But I want to get into the particulars of what happened there.
 
 When Mark Carney completed his meetings with Chinese President Xi Jinping, he issued a statement — his government did — which touted what he described as a new strategic partnership with China. I’m just going to put up on the screen here what I think is the most informative part of the statement, and I’ve highlighted in blue the only aspects of the agreements that were struck in China which translate into concrete improvements in the terms of trade between the two countries.
@@ -146,6 +164,8 @@ Then it goes on: “Agriculture, food and trade are foundations of a long-standi
 All this strikes me as rather modest, Professor Jiang. I don’t see this as being any profound change in the trading relationship between Canada and China. I guess I would concede that it is a significant improvement and I certainly would love to see Canada pursue closer relations in all aspects with the People’s Republic of China. But I don’t see this as being a strategic partnership.
 
 I’m curious as to your thoughts as to how important this actually is and also, secondarily, how you anticipate that the Trump regime is going to respond to this.
+
+### Carney Banker Strategy — Breakthrough, BIS, and EV Joint Ventures
 
 **Jiang Xueqin:** I would say this is a breakthrough and I would say this will lead to bigger strategic partnerships very quickly down the line.
 
@@ -194,6 +214,8 @@ The Chinese political system is very strange for Westerners. EVs are not an econ
 The problem with EVs is that they’re heavily subsidized by the government. People don’t appreciate this, but EVs lose money because they’re all heavily subsidized by the government and there’s overcapacity in China. Everywhere you go, there are lots of EVs, but they can’t actually sell all the EVs in China.
 
 For Canada to start selling EVs, for Canadians to start buying Chinese EVs, for Chinese EV companies to open shop in Canada — it would be a huge political victory for the Chinese leadership. And that’s all they care about.
+
+### Huawei, Interference Narrative, and Close
 
 **Dimitri Lascaris:** Let’s talk about another sector — telecommunications. When Mark Carney concluded this trip, the neocons in Canada started freaking out. One expression of that was this article in The Hill Times, which is a go-to newspaper for Canada’s political elite. The Hill Times went to security experts — or at least that’s the way they describe themselves — including a former director of CSIS, Canada’s spy agency, and also to politicians, and asked them about Huawei. There’s a ban on Huawei’s 5G in this country, and they warned ominously that we should not lift that ban and continued to express hostility to this really extraordinary corporation.
 

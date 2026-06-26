@@ -23,7 +23,7 @@ Doorways:
 - [`interview-2026-01-22-dimitri-lascaris`](../../interviews/interview-2026-01-22-dimitri-lascaris/README.md)
 - [`interview-2026-01-26-glenn-diesen`](../../interviews/interview-2026-01-26-glenn-diesen/README.md)
 - [`interview-2026-03-02-breaking-points`](../../interviews/interview-2026-03-02-breaking-points/README.md)
-- [`interview-2026-03-07-nima`](../../interviews/interview-2026-03-07-nima/README.md)
+- [`interview-2026-03-07-dialogue-works`](../../interviews/interview-2026-03-07-dialogue-works/README.md)
 - [`interview-2026-03-09-sneako`](../../interviews/interview-2026-03-09-sneako/README.md)
 - [`interview-2026-03-16-endgame`](../../interviews/interview-2026-03-16-endgame/README.md)
 - [`interview-2026-03-20-tucker-carlson`](../../interviews/interview-2026-03-20-tucker-carlson/README.md)

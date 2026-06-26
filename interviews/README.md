@@ -30,7 +30,7 @@ Examples: `interview-2025-11-24-glenn-diesen`, `interview-2026-05-07-diary-of-a-
 | `vi-05` | `interview-2026-01-22-dimitri-lascaris` | 2026-01-22 |
 | `vi-06` | `interview-2026-01-26-glenn-diesen` | 2026-01-26 |
 | `vi-07` | `interview-2026-03-02-breaking-points` | 2026-03-02 |
-| `vi-08` | `interview-2026-03-07-nima` | 2026-03-07 |
+| `vi-08` | `interview-2026-03-07-dialogue-works` | 2026-03-07 |
 | `vi-09` | `interview-2026-03-09-sneako` | 2026-03-09 |
 | `vi-10` | `interview-2026-03-16-endgame` | 2026-03-16 |
 | `vi-11` | `interview-2026-03-20-tucker-carlson` | 2026-03-20 |
@@ -80,6 +80,14 @@ Curated interview transcripts use **`### Title Case — …`** section headings,
 | [`interview-2026-04-07-patrick-bet-david`](interview-2026-04-07-patrick-bet-david/) | `python scripts/patch_pbd_sections_asr.py` |
 | [`interview-2026-04-13-glenn-diesen`](interview-2026-04-13-glenn-diesen/) | `python scripts/patch_glenn_diesen_april_sections_asr.py` |
 | [`interview-2026-04-13-sneako-dugin`](interview-2026-04-13-sneako-dugin/) | `python scripts/patch_sneako_dugin_sections_asr.py` |
+| [`interview-2025-10-30-cyrus-janssen`](interview-2025-10-30-cyrus-janssen/) | `python scripts/patch_cyrus_janssen_sections_asr.py` |
+| [`interview-2025-11-24-glenn-diesen`](interview-2025-11-24-glenn-diesen/) | `python scripts/patch_glenn_diesen_nov_sections_asr.py` |
+| [`interview-2026-01-05-glenn-diesen`](interview-2026-01-05-glenn-diesen/) | `python scripts/patch_glenn_diesen_jan_sections_asr.py` |
+| [`interview-2026-03-07-dialogue-works`](interview-2026-03-07-dialogue-works/) | `python scripts/patch_dialogue_works_sections_asr.py` |
+| [`interview-2026-03-09-sneako`](interview-2026-03-09-sneako/) | `python scripts/patch_sneako_sections_asr.py` |
+| [`interview-2026-01-18-danny-haiphong`](interview-2026-01-18-danny-haiphong/) | `python scripts/patch_danny_haiphong_sections_asr.py` |
+| [`interview-2026-01-22-dimitri-lascaris`](interview-2026-01-22-dimitri-lascaris/) | `python scripts/patch_dimitri_lascaris_sections_asr.py` |
+| [`interview-2026-01-26-glenn-diesen`](interview-2026-01-26-glenn-diesen/) | `python scripts/patch_glenn_diesen_jan26_sections_asr.py` |
 | [`interview-2026-04-01-jay-shapiro`](interview-2026-04-01-jay-shapiro/) | `python scripts/patch_jay_shapiro_sections_asr.py` |
 
 After any patch: `python -m civ_ph.cli index --force` and `python -m civ_ph.cli validate`.
@@ -88,7 +96,7 @@ After any patch: `python -m civ_ph.cli index --force` and `python -m civ_ph.cli 
 
 | Status | Interviews |
 | --- | --- |
-| **Curated Title Case sections** | #7 Breaking Points, #10 Endgame, #11 Tucker, #12 Jay Shapiro, #13 PBD, #14 Glenn Diesen (Apr), #15 Sneako–Dugin, #16 DOAC |
-| **No `###` sections** (flat speaker-labeled transcript) | #1–#6, #8–#9 (9 packets) |
+| **Curated Title Case sections** | All 16 interview packets (#1–#16): Cyrus Janssen, Glenn Diesen (Nov/Jan/Jan 26/Apr), Danny Haiphong, Dimitri Lascaris, Breaking Points, Dialogue Works, Sneako, Endgame, Tucker, Jay Shapiro, PBD, Sneako–Dugin, DOAC |
+| **No `###` sections** (flat speaker-labeled transcript) | — (none) |
 
-No lowercase slug headers (`### iran-attrition-…`) remain. The 10 flat transcripts were never sectioned in the PH-TRANSCRIPT-EDIT pass; adding sections there is a separate curation task, not a title-case rename.
+No lowercase slug headers remain. PH-TRANSCRIPT-EDIT Title Case pass is **complete** for all curated interview transcripts.

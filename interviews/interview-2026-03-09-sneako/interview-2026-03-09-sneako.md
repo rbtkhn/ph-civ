@@ -12,10 +12,12 @@ interviews_episode: 9
 ingested_at: "2026-06-25"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: workshop_promotion
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-06-25
+fidelity_reviewed_at: 2026-06-25
 part: provenance
 part_role: provenance
 series: interviews
@@ -25,19 +27,7 @@ series: interviews
 
 ## Part I: Full transcript
 
-**SNEAKO:** If it's true that Israel wants America to lose this war so that they can have dominant control over the Middle East—because they exist off American dollars and American troops—how could they afford, protect, and maintain a Greater Israel without American support? They're a small population with less money. Are they capable of controlling the Middle East without America?
-
-**Professor Jiang:** That's one of the great misconceptions in the world—that Israel is dependent on American power. That's not true. Israel is far more superior than people recognize. Israel has the most dominant military in the Middle East. In fact, I would argue that it's really the American military that restrains the power of the Israelis.
-
-**SNEAKO:** What about the potential of a false flag attack?
-
-**Professor Jiang:** We're already seeing hints of this. The Iranians, the Persians, are smart people. They like to think ahead. Destroying the Middle East does them no good. What they want to do is knock out American bases in the GCC so that America no longer threatens Iranian sovereignty. But ultimately, when the American bases go, the GCC then becomes client states of Iran. That will enable Iran not only to rebuild their economy and society, but to project power throughout the Muslim world.
-
-These influencers also have property in Dubai, right? So it's in their best interest to maintain the image that Dubai is still vibrant. But look, once a mirage is punctured, you can't see it again. It's done. I don't see a future here.
-
-**SNEAKO:** How many of these people—like Patrick Bet-David, I recently saw he's trying to copy your lectures a little bit—how many are examples of Mossad-paid influencers? He comes to America, encourages this war, but he's not going to fight in it. He's not going to enlist. There might be a draft coming. He doesn't go back to Iran.
-
-**Professor Jiang:** He actually got in touch on Monday. He wanted to interview me on his show. That was the same day there was a concerted online campaign against me. Everyone was attacking me with the same talking points. Who are these people and why is this happening all at the same time? So that interview request from Patrick Bet-David felt like a setup.
+### Show Open — Sneako Callback and Predictive History
 
 **SNEAKO:** What are your immediate predictions with this war?
 
@@ -54,6 +44,8 @@ You kind of predicted this with our next call. You predicted this war, the desal
 **Professor Jiang:** We usually do two hours, so I was planning on two hours, but we can cut it short if you want.
 
 **SNEAKO:** No, as much as possible. When do you think there will be a US/Israel ground invasion of Iran?
+
+### Ground Invasion — Proxies, Kurds, and Troop Counts
 
 **Professor Jiang:** This is actually very hard to figure out because the usual strategy is to use proxies. Originally it was to bribe the Kurds to invade from Iraq. Another strategy was to deploy Sunni ISIS insurgents, heavily infiltrated by the CIA and Mossad—this was used effectively in Syria. Then you support these proxies with special forces, military intelligence, targeting, and air strikes. The intention is to draw out the Iranian military as much as possible, because a ground war favors the Americans and Israelis.
 
@@ -77,6 +69,8 @@ The Americans have found themselves with no good options. It's like a drunk gamb
 
 **Professor Jiang:** Experts are saying Trump may deploy 500,000 troops, which is the bare minimum. Militarily, you'd need at least 2 million because you have to account for support and logistics. That's the issue they faced in the 2003 Iraq War. The Americans are good at shock and awe and air wars—quick in and out—but bad at long-term ground wars. They haven't fought a successful long-term ground war since Vietnam, which was a disaster.
 
+### Protest Death Toll and False-Flag Layer
+
 **SNEAKO:** There's a lot of Vietnam analogies here. It's extremely unpopular with the youth. Iran is surrounded by mountainous terrain, so if they do a ground invasion, the Iranians can hide in the mountains and play hide-and-seek until it's a failure.
 
 Let's start with the pretext of this war. They keep saying there were 30,000 protesters, which you pointed out was infiltrated by CIA and Mossad—confirmed by Mike Pompeo. Is the 30,000 number correct? We haven't seen footage of these bodies.
@@ -97,6 +91,8 @@ False flags are definitely their MO. The most serious one I fear is the Al-Aqsa 
 
 There's also talk of an aircraft carrier getting sunk—the Abraham Lincoln is a sitting duck in the Persian Gulf. That would be a mass casualty event that galvanizes the American public. Politicians have been talking about Iranian sleeper cells in America and Europe, preparing the ground for a false flag.
 
+### GCC Strikes, Mirage, and Iranian Diaspora
+
 **SNEAKO:** The GCC has been hit quite a bit—Dubai, Kuwait, Bahrain. How much of this is from Iran versus false flags? What can we expect for the future of the GCC? They control so much of the American empire and the petrodollar. Does this have the potential to collapse the US dollar?
 
 **Professor Jiang:** Past behavior is the best indicator of future behavior. Israel has a long history of false flags, escalating events, and creating chaos. The Iranians come from a Zoroastrian tradition that emphasizes being on the right side of history—fighting for truth and justice. That's why they didn't initiate this war.
@@ -113,11 +109,15 @@ The Iranians could destroy the desalination plants of the GCC at any time, but t
 
 The Persian diaspora is similar to the Cuban diaspora in Florida. They're angry, nostalgic for the glory days under the Shah, and want to go back and run the country again. The same thing happened with Venezuelans cheering regime change.
 
+### Empire Decline — Venezuela, Cuba, and Debt Bomb
+
 **SNEAKO:** We saw the same with Venezuela. Now Lindsey Graham and Trump are talking about Cuba being next. Why Cuba in the midst of the Iran war? Is it because they're not in the Rothschild central bank system?
 
 **Professor Jiang:** This is an empire in decline. Empires in decline lash out, conquering whoever they can to prove they're still powerful. The decline is irreversible because the people have become corrupt. America shifted from manufacturing to financialization, leading to the 2008 crisis and never really recovering. Signs of decadence are everywhere—high percentages of young women on OnlyFans, civil war tensions, currency debasement.
 
 If Russia controls more global resources or Iran-Russia-China form a trade bloc that negates American naval power, America's $40 trillion debt becomes a bomb waiting to explode. The empire is anxious and lashing out—talking about Mexico, Greenland, Canada, etc.
+
+### PBD Setup, Nuclear Discount, and Regional Players
 
 **SNEAKO:** Back to Patrick Bet-David—are these Western Iranians Mossad-paid influencers or just brainwashed?
 
@@ -139,6 +139,8 @@ The major lie is that we can't allow Iran to have nuclear weapons, yet Israel ha
 
 Israel is not just the nation-state—it's the entire Jewish diaspora network, including criminal and intelligence networks that helped found aspects of the CIA. It's a system of Pax Judaica.
 
+### Israel Power, Eschatology, and Kabbalah
+
 **SNEAKO:** This goes much deeper into eschatology, Chabad Lubavitch, Sabbatian Frankism, etc.
 
 **Professor Jiang:** Yes. The nation-state of Israel is just a tool. Epstein wasn't working for the state but for a larger movement tied to Chabad Lubavitch eschatology—to accelerate the end times and bring the Messiah by repairing the world through destruction.
@@ -146,6 +148,8 @@ Israel is not just the nation-state—it's the entire Jewish diaspora network, i
 **SNEAKO:** Can you explain the Kabbalah, the Monad, and how this ties into their worldview?
 
 **Professor Jiang:** [Detailed explanation of Kabbalah, Adam Kadmon, the shattering of souls, tikkun olam, hermetic principles, the Monad as pure love and consciousness, etc.]
+
+### Consciousness, Predictions, and Close
 
 **SNEAKO:** What is the real truth? Is there one true creator?
 

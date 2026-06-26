@@ -1,5 +1,5 @@
 ---
-source_id: interview-2026-03-07-nima
+source_id: interview-2026-03-07-dialogue-works
 title: Interviews #8: Nima (Dialogue Works) — The Iran War: The Watershed Moment That Changed the Middle East Forever
 series: interviews
 part: provenance
@@ -12,7 +12,7 @@ workshop_source_id: vi-08
 
 ## Where This Sits
 
-`interview-2026-03-07-nima` sits on the provenance surface (`part: provenance`, `series: interviews`). Workshop crosswalk: `vi-08`.
+`interview-2026-03-07-dialogue-works` sits on the provenance surface (`part: provenance`, `series: interviews`). Workshop crosswalk: `vi-08`.
 
 ## Reading Posture
 
@@ -29,4 +29,4 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `interviews/interview-2026-03-07-nima/interview-2026-03-07-nima.md` for exact transcript wording and `interviews/interview-2026-03-07-nima/interview-2026-03-07-nima-commentary.md` for bounded analysis.
+Return through `interviews/interview-2026-03-07-dialogue-works/interview-2026-03-07-dialogue-works.md` for exact transcript wording and `interviews/interview-2026-03-07-dialogue-works/interview-2026-03-07-dialogue-works-commentary.md` for bounded analysis.

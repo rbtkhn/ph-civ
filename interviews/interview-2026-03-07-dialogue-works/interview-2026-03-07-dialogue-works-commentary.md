@@ -1,8 +1,8 @@
 ---
-source_id: interview-2026-03-07-nima
+source_id: interview-2026-03-07-dialogue-works
 title: "Interviews #8: Nima (Dialogue Works) — The Iran War: The Watershed Moment That Changed the Middle East Forever"
 source_series: "Predictive History Interviews"
-source_chapter_path: interviews/interview-2026-03-07-nima/interview-2026-03-07-nima.md
+source_chapter_path: interviews/interview-2026-03-07-dialogue-works/interview-2026-03-07-dialogue-works.md
 commentary_status: in-review
 review_status: source_reviewed
 annotation_status: drafted

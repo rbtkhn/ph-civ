@@ -12,10 +12,12 @@ interviews_episode: 1
 ingested_at: "2026-06-25"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: workshop_promotion
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-06-25
+fidelity_reviewed_at: 2026-06-25
 part: provenance
 part_role: provenance
 series: interviews
@@ -25,9 +27,9 @@ series: interviews
 
 ## Part I: Full transcript
 
-**Cyrus Janssen:** I see geopolitics as a game among different players. These players have their own strategies, have their own interests, and they're trying to optimize the outcome using their strategies. You know, if you look at Putin and Trump together, it's clear that the two are good friends. You know, this interpersonal relationship between Trump and President Xi, it's very important. And I think that once the two meet and once the two start being friends again, then I think we will see a rapprochement. I'm really optimistic about the China-US relationship because I think that Trump and President Xi are great friends and eventually they will come to a resolution that benefits both countries.
+### Show Open — Cyrus Welcomes Professor Jiang
 
-This is Professor Jiang Xueqin, one of the fastest growing geopolitical YouTubers on the platform. Professor Jiang uses game theory to predict the future of world conflicts and gained enormous popularity earlier this year when he correctly predicted the United States would bomb Iran. In today's episode, we discuss why the Middle East is the center of global conflict, how using game theory explains exactly why Russia invaded Ukraine, and why using the same game theory logic, we can predict that China will not be invading Taiwan. If you've ever wanted to understand the logic behind great power competition, this episode will open your eyes to why there is so much conflict in the world and how we can prepare for the future. Let's dive in.
+**Cyrus Janssen:** This is Professor Jiang Xueqin, one of the fastest growing geopolitical YouTubers on the platform. Professor Jiang uses game theory to predict the future of world conflicts and gained enormous popularity earlier this year when he correctly predicted the United States would bomb Iran. In today's episode, we discuss why the Middle East is the center of global conflict, how using game theory explains exactly why Russia invaded Ukraine, and why using the same game theory logic, we can predict that China will not be invading Taiwan. If you've ever wanted to understand the logic behind great power competition, this episode will open your eyes to why there is so much conflict in the world and how we can prepare for the future. Let's dive in.
 
 Well, everyone, I'm very honored to welcome into the studio today Professor Jiang from Beijing. Professor Jiang, you have been one of the fastest growing channels on YouTube, an incredible geopolitical insider, obviously a professor there in Beijing. Professor, welcome to the show tonight.
 
@@ -35,9 +37,13 @@ Well, everyone, I'm very honored to welcome into the studio today Professor Jian
 
 **Cyrus Janssen:** Absolutely. Absolutely. Well, Professor, you know, I think what a lot of people have really taken notice on your YouTube channel is really started to gain a lot of momentum right around the time that the United States attacked Iran. You have some very amazing videos where you're using game theory to predict the future of geopolitics. I'd love for you to just explain that to our audience and a little bit more about your theory and how you're using this to analyze what's going on, but also to predict the future.
 
+### Game Theory — Predicting Geopolitics
+
 **Professor Jiang Xueqin:** I see geopolitics as a game among different players. These players have their own strategies, have their own interests, and they're trying to optimize the outcome using their strategies. If you just look at the Middle East, you look at Iran, Saudi Arabia, Israel, United States, Turkey — these are the major players and each side is trying to seek leverage over the other side. So by studying each nation's history, their internal politics, and what they believe is the best outcome for them, then you can basically predict their behavior. And that's what I've been doing for the past couple of years. And that's why I was able to predict that the United States would attack Iran.
 
 **Cyrus Janssen:** That was an amazing time to see that — that the United States would attack Iran. How are you looking right now with the situation in the Middle East, as far as this new peace deal that's going to be between Israel and Hamas? I'd like to get your thoughts on that because I think this is a much more complicated issue. Obviously, Donald Trump is saying, "Look, I've solved another war. Eight wars in eight months. I'm the peace president." How are you analyzing that?
+
+### Middle East — Trade, Oil, Eschatology, and Hamas
 
 **Professor Jiang Xueqin:** Trump is known for overstatement. He said that he's achieved Middle East peace for the first time in 3,000 years or 500 years depending on his mood. So, quite the accomplishment. The reality is that the Middle East has been at war for thousands of years. And there are some particular reasons why.
 
@@ -63,6 +69,8 @@ So I don't know how much longer this peace will last. Hopefully another few more
 
 Professor, I want to go to the most important probably conflict that we've seen in recent years. This is of course Russia-Ukraine and how this has certainly influenced Europe. We've seen the United States obviously has been dragged in. It has been the number one supporter of NATO. But we've seen an interesting dynamic with Trump recently now saying that Europe, you're on your own. You're going to have to continue to fund this war. Give me your thoughts on Russia-Ukraine. And feel free to go back as far as you want, but I'd like to understand a little bit more this conflict through your eyes and through game theory.
 
+### Russia-Ukraine — NATO Provocation and Mafia Empire
+
 **Professor Jiang Xueqin:** According to game theory, Russia had no choice but to invade Ukraine in 2022. And the reason why is NATO expansion. NATO was essentially encircling Russia. Ukraine was a red line. And I think that Russia was extremely patient with NATO for many years. But the final step was the 2014 Maidan coup when the government of Ukraine was overthrown by a CIA-backed coup. You have these belligerents in the Donbas region who are trying to ethnic cleanse Russians from that area.
 
 Putin has expressed it very clearly. He went into Ukraine to defend ethnic Russians who were crying for help. And if you look at what's happened in Ukraine, most of the frontline fighters are ethnic Russians who lived in Ukraine all their lives. So they're fighting really for the safety and security of their families.
@@ -81,6 +89,8 @@ What's really important to remember is that at the end of the day this war is ho
 
 So it's a very hard thing on one sense to be in the United States and hear "oh this is a great thing for America because we get to fight Russia without risking our lives" but then not really think about the Ukrainian lives and also the Russian lives that are being lost. I think you really hit the nail on the head there. This is a pointless and useless war.
 
+### Ukraine Finished — Casualties and Partition
+
 **Professor Jiang Xueqin:** Ukraine has no future. Ukraine is finished as a nation. Let's go over the reasons why. The first is the number of casualties on the Ukrainian side. The estimates are between 1 and 2 million men. That's the future of Ukraine.
 
 Second is that you've got millions of these Ukrainians who have fled the country as refugees. They've sought refuge in Western countries and they're not going back because there's no future for them.
@@ -93,6 +103,8 @@ I hate to say this but the Europeans really sacrificed Ukraine with this war. Uk
 
 Do you see this — analyze these comments from the US government. Is this just them trying to sell this war and manufacture consent to Westerners?
 
+### NATO Expansion — Three Facts and Domino Theory
+
 **Professor Jiang Xueqin:** Listen to the facts. The first fact is that when the Soviet Union fell, when the Berlin Wall fell, the Americans gave the Russians assurances that NATO won't expand, that NATO won't take advantage of the fall of the Soviet Union to expand throughout Europe. America has broken these promises. That's fact number one.
 
 Fact number two is that Putin has made multiple overtures to join NATO. Putin said to multiple American presidents, if NATO is a defensive alliance, if it's an alliance based on peace, then Russia wants to be part of that and then whatever conflicts that will arise, we'll just settle it within NATO. He was constantly rebuffed by these US presidents.
@@ -102,6 +114,8 @@ The third fact is the relentless expansion of NATO. NATO already has 32 members 
 You see what's happening on Russia's southern flank — Georgia, Armenia, Azerbaijan. It seems as though NATO is intent on encircling Russia just to protect its own sovereignty, just to protect its sphere of influence, just to protect its own internal cohesion. Then Russia had to act.
 
 **Cyrus Janssen:** That makes complete sense. How do you see this war between Russia and Ukraine ending? Do you see it ending anytime soon? I think the data as you've mentioned already and as many military analysts have now seen is that Russia is winning the battle. It is a war of attrition right now. And so again if you just simply take your emotion away from this and look at the reality, you look at numbers. Obviously it's a lot of casualties and a lot of wasted resources but Russia does have the upper hand. Do you see this as a conflict that President Trump is going to try to — he famously said "by day one I'm going to be able to end this war." Obviously that hasn't happened. Do you see this a conclusion within the next 6 months, year? Is this going to be another forever war? What are your thoughts on that?
+
+### Sunk Cost — Odessa as Final Battle
 
 **Professor Jiang Xueqin:** I think most military analysts actually say the war is lost. Russia has been able to establish battlefield dominance. That's air superiority. Its soldiers are extremely well disciplined. They have high morale. They're very innovative. If you just go and look at online videos of interviews of these frontline soldiers in Russia, they are extremely disciplined. They want to see this thing to the finish and they're highly motivated. And it's the complete opposite for the Ukrainians. The desertion rate among the Ukrainians is very high.
 
@@ -118,6 +132,8 @@ But unfortunately this gives time for the Ukrainians and for NATO to regroup. An
 But we're also talking about the trade relationship. Obviously Donald Trump launching a massive trade war with the entire world on this famous Liberation Day back in April. We've seen now this escalation leading to the rare earth minerals import controls and export controls from China, which is obviously the dominant player in rare earth mineral processing.
 
 Professor, give me your general thoughts on the United States and China relationship. I'd love to hear your theory and how you're looking at this relationship through your eyes.
+
+### US-China — Trade War, Rapprochement, and People-to-People
 
 **Professor Jiang Xueqin:** America is behaving like a mafia state. For the past few years America has been constantly bullying China, imposing all sorts of restrictions on semiconductors, on technology. And so with this rare earth mineral blockade China has basically signaled to the United States that it will no longer put up with this bullying. And that's the only way to deal with bullies — you have to stand up and punch the guy in the face before he starts to negotiate.
 
@@ -145,6 +161,8 @@ And look, the reality is this. You live in America. America has always been prot
 
 This is another talking point that we often hear that China's military is ramping up. 2026 is the year. 2027 is the year they're going to launch this attack against Taiwan. They're going to forcefully take the island and obviously that would cause a very big strain in the US-China relationship. But how are you, using game theory and in your analysis, looking at the situation of Taiwan and how that influences the US-China relationship?
 
+### Taiwan — Why Invasion Is Idiotic
+
 **Professor Jiang Xueqin:** From a game theory perspective, it would be idiotic to go invade Taiwan. Let's go over the reasons why.
 
 The first reason is that in East Asia China is surrounded by nemeses. Japan, Russia, India are all geopolitical threats to China in the long term. America at the end of the day is far away in the Pacific. And at the end of the day, from a game theory perspective, you want the United States — if you're China — you want the United States in East Asia in order to balance out the other threats. Because what happens if the United States were to leave? Well, Japan now has to rebuild its military. And historically Japan has had the most powerful navy in East Asia. And if you unleash Japan then Japan is able to control all the strait routes, trade routes, especially the Strait of Malacca. And China is very dependent on trade right now. China imports one-third of its food from overseas. So if Japan were to rebuild its navy and blockade China, China would be in a lot of trouble.
@@ -166,6 +184,8 @@ So if you are China and you're concerned about Taiwanese independence, then you 
 **Cyrus Janssen:** I couldn't agree more. I think all of those reasons are very similar to the analysis that we've done on our channel as well and it just doesn't make sense. And I think another important thing for many Westerners to understand is for 1.4 billion Chinese people they're looking at Taiwanese people as their neighbors, their brothers and sisters. In their eyes it's already united. It's already a province and these are the brothers and sisters. I don't think they're just going to start bombing Taipei and trying to kill people. That just doesn't make sense for Chinese. And Chinese are very peaceful. They certainly want peace and prosperity. And I like what you said there as far as the Chinese government — peace and prosperity for the nation and for the citizens. That is the overwhelming goal, not to be a hegemon, not "we want to be number one." It's about serving the society and creating a more peaceful and balanced society and hopefully one that continues to improve over time.
 
 Professor Jiang, we're coming to the end of our interview here and I've learned so much from you. I absolutely love it. What is the biggest threat that you think in the future here? For example we often hear headlines like World War III is starting next or this is the next thing that's going to happen in the world. In your eyes, what is that conflict? What is that that you're worrying about for the future?
+
+### Flash Points, Geophysical Risk, and Close
 
 **Professor Jiang Xueqin:** In the short term the geopolitical conflicts are an issue. I think that both Ukraine and the Middle East will be the two flash points. I think that Venezuela is sort of overstated. I don't think the Americans would actually send ground troops into Venezuela. They would want regime change but they would use covert shadow mechanisms to drive regime change. So I think the two major flash points going forward for the next 10 years will be Ukraine and the Middle East.
 

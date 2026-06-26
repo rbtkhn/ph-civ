@@ -1,8 +1,8 @@
-<!-- public-surface-triage-fingerprint: 5d552735fd052071 -->
+<!-- public-surface-triage-fingerprint: 637de6b89d4e37ea -->
 # Public surface triage
 
 - **Chapters:** 205
-- **Generated:** 2026-06-26T00:11:09Z
+- **Generated:** 2026-06-26T00:33:47Z
 - **Machine SSOT:** [`data/public-surface-triage.json`](../../data/public-surface-triage.json)
 - **Regenerate:** `ph-civ surface-triage`
 

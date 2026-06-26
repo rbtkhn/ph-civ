@@ -1,8 +1,8 @@
 {
   "schema_version": 3,
-  "fingerprint": "64af007f90b8129e",
+  "fingerprint": "4cdd5b15ac65714e",
   "card_count": 205,
-  "transcript_word_total": 1431354,
+  "transcript_word_total": 1431377,
   "ssot": "data/cards.jsonl",
   "markdown_index": "docs/predictive-history-index.md",
   "surfaces": {
@@ -90,7 +90,7 @@
       "series_counts": {
         "interviews": 16
       },
-      "transcript_word_total": 152379
+      "transcript_word_total": 152402
     }
   },
   "chapters": [
@@ -3461,7 +3461,7 @@
         "folder": "interviews/interview-2025-10-30-cyrus-janssen",
         "folder_readme": "interviews/interview-2025-10-30-cyrus-janssen/README.md"
       },
-      "transcript_word_count": 6980,
+      "transcript_word_count": 6927,
       "source_video_url": "https://www.youtube.com/watch?v=XRk5VSEzJ4Y",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -3482,7 +3482,7 @@
         "folder": "interviews/interview-2025-11-24-glenn-diesen",
         "folder_readme": "interviews/interview-2025-11-24-glenn-diesen/README.md"
       },
-      "transcript_word_count": 8602,
+      "transcript_word_count": 8674,
       "source_video_url": "https://www.youtube.com/watch?v=GSSIm9xNRAE",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -3503,7 +3503,7 @@
         "folder": "interviews/interview-2026-01-05-glenn-diesen",
         "folder_readme": "interviews/interview-2026-01-05-glenn-diesen/README.md"
       },
-      "transcript_word_count": 8072,
+      "transcript_word_count": 8145,
       "source_video_url": "https://www.youtube.com/watch?v=ORyCS0r2Tpg",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -3524,7 +3524,7 @@
         "folder": "interviews/interview-2026-01-18-danny-haiphong",
         "folder_readme": "interviews/interview-2026-01-18-danny-haiphong/README.md"
       },
-      "transcript_word_count": 5246,
+      "transcript_word_count": 5293,
       "source_video_url": "https://www.youtube.com/watch?v=H5lCJ0D4DpY",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -3545,7 +3545,7 @@
         "folder": "interviews/interview-2026-01-22-dimitri-lascaris",
         "folder_readme": "interviews/interview-2026-01-22-dimitri-lascaris/README.md"
       },
-      "transcript_word_count": 6045,
+      "transcript_word_count": 6122,
       "source_video_url": "https://www.youtube.com/watch?v=uHIdRgFypNo",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -3566,7 +3566,7 @@
         "folder": "interviews/interview-2026-01-26-glenn-diesen",
         "folder_readme": "interviews/interview-2026-01-26-glenn-diesen/README.md"
       },
-      "transcript_word_count": 7796,
+      "transcript_word_count": 7893,
       "source_video_url": "https://www.youtube.com/watch?v=80jUKe0blAQ",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -3594,7 +3594,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "interview-2026-03-07-nima",
+      "source_id": "interview-2026-03-07-dialogue-works",
       "title": "Interviews #8: Nima (Dialogue Works) — The Iran War: The Watershed Moment That Changed the Middle East Forever",
       "part": "provenance",
       "surface": "provenance",
@@ -3603,12 +3603,12 @@
       "review_status": "in_review",
       "placement_weight": "light",
       "paths": {
-        "transcript": "interviews/interview-2026-03-07-nima/interview-2026-03-07-nima.md",
-        "commentary": "interviews/interview-2026-03-07-nima/interview-2026-03-07-nima-commentary.md",
-        "folder": "interviews/interview-2026-03-07-nima",
-        "folder_readme": "interviews/interview-2026-03-07-nima/README.md"
+        "transcript": "interviews/interview-2026-03-07-dialogue-works/interview-2026-03-07-dialogue-works.md",
+        "commentary": "interviews/interview-2026-03-07-dialogue-works/interview-2026-03-07-dialogue-works-commentary.md",
+        "folder": "interviews/interview-2026-03-07-dialogue-works",
+        "folder_readme": "interviews/interview-2026-03-07-dialogue-works/README.md"
       },
-      "transcript_word_count": 4515,
+      "transcript_word_count": 4558,
       "source_video_url": "https://www.youtube.com/watch?v=0rIgZD-tk3s",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -3629,7 +3629,7 @@
         "folder": "interviews/interview-2026-03-09-sneako",
         "folder_readme": "interviews/interview-2026-03-09-sneako/README.md"
       },
-      "transcript_word_count": 3039,
+      "transcript_word_count": 2706,
       "source_video_url": "https://www.youtube.com/watch?v=o1DElACHNRo",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",

@@ -1,6 +1,6 @@
 # Interviews #8: Nima (Dialogue Works) — The Iran War: The Watershed Moment That Changed the Middle East Forever
 
-This chapter folder is a public study doorway for `interview-2026-03-07-nima`.
+This chapter folder is a public study doorway for `interview-2026-03-07-dialogue-works`.
 
 ## Start Here
 
@@ -21,9 +21,9 @@ Treat this chapter folder as a small source-lattice:
 
 ## Files
 
-- [Transcript](interview-2026-03-07-nima.md)
-- [Commentary canvas](interview-2026-03-07-nima-commentary.md)
-- [Public card](../../data/cards/interview-2026-03-07-nima.md)
+- [Transcript](interview-2026-03-07-dialogue-works.md)
+- [Commentary canvas](interview-2026-03-07-dialogue-works-commentary.md)
+- [Public card](../../data/cards/interview-2026-03-07-dialogue-works.md)
 
 ## Review Status
 

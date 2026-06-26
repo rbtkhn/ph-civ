@@ -12,10 +12,12 @@ interviews_episode: 4
 ingested_at: "2026-06-25"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: workshop_promotion
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-06-25
+fidelity_reviewed_at: 2026-06-25
 part: provenance
 part_role: provenance
 series: interviews
@@ -24,6 +26,8 @@ series: interviews
 # Interviews #4: Danny Haiphong — Predictions for 2026: Trump, Iran & Empire Collapse
 
 ## Part I: Full transcript
+
+### Show Open — Happy New Year and Iran Flash Point
 
 **DANNY HAIPHONG:** Welcome everyone. Good evening. Welcome back to the show. It’s your host Danny Haiphong. As you can see, I am joined by Jiang Xueqin. He is the host of Predictive History. Professor Jiang, it is really good to be back with you. How are you?
 
@@ -36,6 +40,8 @@ But let’s get started, Professor Jiang, because we have had quite the historic
 Let’s start with Iran. Even as the Trump administration has said that it has paused strikes, we now have lots of news coming out that this could indeed be a very brief pause. The Trump administration told Politico — Donald Trump did — it’s time to look for new leadership in Iran. This comes as Israeli media, according to Jordanian media citing Israeli media, saying that a US strike against Iran is still inevitable and that it could only be a matter of timing rather than a possibility, according to Israel’s Channel 12.
 
 Now, Professor Jiang, what’s so interesting is we have a situation where the United States got so close to striking Iran. Planes were actually in the air according to many sources and then suddenly there was a pause. It’s not going to happen. Trump says that Iran is not going to execute people anymore. But I think the truth is a lot deeper than this. Talk about where you see this going in 2026. Is the Iran flash point for the United States empire going to be what triggers a major cataclysmic global world war that we have been talking about so much on this show with you and with others, or is there something else going on?
+
+### Iran Chain — Color Revolution, Starlink, and Paused Strikes
 
 **JIANG XUEQIN:** Let’s talk about Iran and let’s look at the chain of events that led us to today.
 
@@ -69,6 +75,8 @@ Now, I don’t know if you remember, Professor Jiang, it wasn’t too long ago t
 
 But what’s the reality here? How much did Iran in particular, its own — in terms of game theory — its own military capabilities play into this? You mentioned Starlink. That was a huge deal. And I tend to think that when you have planes in the air kind of scouting out the situation and then they don’t do anything, they found they knew something was going to happen that wasn’t going to go too well for the US empire. What’s your take?
 
+### Trump Optics — Houthis and American Military Limits
+
 **JIANG XUEQIN:** First of all, Trump is first and foremost concerned about optics. He is a reality TV star. He spent most of his adult life in the media either as a celebrity being reported on by tabloids or himself being a reality TV star. He had a hit show called The Apprentice on NBC for over a decade and it was really the number one show on TV for the longest time. So he’s really concerned about creating optics that America is invincible and that’s why for him Venezuela was such a great success because Delta Force was able to go in, extract Maduro, and there were no casualties and that just showed America and the world that America is the most powerful military in the world.
 
 But if you look at the recent past, a much more indicative example of American military power is Operation Prosperity Guardian. That’s when the Houthis closed the Red Sea in protest of the genocide in Gaza and America deployed this massive fleet to strike at the Houthis. The Houthis at this point remember they are poor. So their navy consisted of sailboats and fishing vessels and if you just saw the videos of Operation Prosperity Guardian it is really impressive — these warships backed up by helicopters and fighter jets and everyone thought that wow the Americans are going to go in and smack the Houthis. Then they tried this for months and months and they got nowhere because the Houthis would refuse to give up and the Americans aren’t actually used to fighting a war against an adversary who refuses to give up. They’re used to shock and awe. They’re used to scaring people and intimidating people with the display of their military might. The Americans refused to take casualties. So they didn’t send in ground forces and the Houthis were able to I believe even sink an American ship. So it was a disaster for the American military and there was this huge debate among the American military as to what to do. You actually watch these panels — they’re actually on YouTube. You’ll hear these four-star generals and admirals go on and say we recognize the limitations of American power in the Red Sea. We’re not willing to make sacrifices. We’re not willing to accept casualties. We want a cheap and easy win. And so we need to reflect on how to improve. And then someone in the audience asks, “Well, what are you going to do?” And the response has always been, “Well, we’ll think about it.” And then the next question is, “What are you going to do that’s going to be different?” And the generals and admirals were like, “Nothing. We’re going to keep the course.”
@@ -78,6 +86,8 @@ So that’s the state of the American military. The American military is not in 
 Number two is that geopolitically Iran is the pivot point of the world. It always has been. The great fear is that Russia, Iran and China will link up together and create a trade pact that can negate American sea power. Russia, Iran and China through the BRI is able to trade within themselves. They’re able to use their own currency called the unit. China is able to build railways connecting Eurasia with Africa. Then basically the entire American navy is negated. America is blocked out of this trading bloc. The American economy collapses because the American economy is a Ponzi scheme. So for a variety of reasons, the Americans have absolutely no choice but to go into Iran. If they let Iran as it is, then China and Russia control basically the entire world. And so America is stuck where it is. It can’t win this war, but it has to fight this war anyway.
 
 **DANNY HAIPHONG:** And how do you see them fighting this war? Because if we go by game theory, it would seem that there are many drawbacks to getting into a major confrontation with Iran, even minus a full-scale invasion that includes what the US political class always calls boots on the ground. The Telegraph had this piece: how Iran’s military power made Trump think twice. And it shows a map of how even just its short-range missiles, which it has hundreds if not thousands of, essentially have the ability to cover its periphery from all corners and this includes valuable bases that the US keeps in the region for Iran. So how does this war actually look and is it going to happen in 2026? We are only still in the early period of this year. And as of right now, the whole Trump administration, the Israelis, they’re all saying, “No, no, no. This isn’t a permanent stop. This is just a temporary pause. It’s a matter of when, not if.”
+
+### Game Theory War — Propaganda, Bombs, and Dollars vs Iran
 
 **JIANG XUEQIN:** Let’s game theory this war between the United States and Iran, how it might play out.
 
@@ -107,6 +117,8 @@ So let’s summarize. The Americans have three major advantages. They have bombs
 
 **DANNY HAIPHONG:** And the Trump administration though continues to — and Donald Trump himself continues to focus on this decapitation of leadership saying literally that now there needs to be new leadership because what is being said right now Professor Jiang is that the Ayatollah Khamenei the supreme leader is blaming the US and Israel for the violence and the riots that occurred in Iran and you just outlined from Starlink, that was Elon Musk. How did that get into the hands of these rioters? That was jammed and then of course you have prominent Israeli media journalists saying that Israel was arming the rioters. You had Mike Pompeo saying that Mossad agents should be saluted alongside the rioters. All the evidence is there, Professor Jiang, but yet it seems like there’s just this constant need to justify a coming strike. So is this strike going to happen in 2026? No. And what do you make of these accusations and these claims now?
 
+### Color Revolution Playbook — Overstretch and Carrier Gap
+
 **JIANG XUEQIN:** It’s this classic color revolution playbook where you control the information space. They’re talking to the domestic audience. So the Israelis are talking to their own people and saying we have this, we’re going to win against Iran. So you have propaganda for your domestic audience and you have propaganda for everyone else which is like we have nothing to do with this.
 
 **DANNY HAIPHONG:** But look, this is called the color revolution playbook. Everyone with a brain knows that they’re following a script. These protests maybe they were organic to begin with but their spread has been inorganic and the violence against security services — the killing of dozens of police officers which has been confirmed — that’s clearly agent provocateurs.
@@ -115,9 +127,11 @@ It’s just so clear now what the playbook is as you said. Where does Iran fit i
 
 And it just so happens that one of the main reasons why a strike didn’t occur was because the Israelis supposedly said we don’t have enough air defenses rebuilt from the 12-day war provided to us again. And there aren’t aircraft carriers here to support a long-term strike because a lot of them have been moved to the Caribbean or remain in the Pacific.
 
+### National Security Strategy — China Blockade and 2026 Exhaustion
+
 **JIANG XUEQIN:** I think first and foremost there’s this misinterpretation of what the National Security Strategy says. I’ve read it. Nowhere does it say that America is going to retreat back into the Western Hemisphere and leave Asia and Europe to other powers, create what I call spheres of influence. Nowhere does it say that. What the National Security Strategy says is number one that America will no longer abide by these liberal multilateral organizations like the United Nations which has hampered American power. So America just thinks that these organizations that basically justify the American empire are useless and now it will just be might is right. We will act unilaterally. We will act in what will be in our best national self-interest. That’s number one.
 
-Number two is that it states explicitly that the Western Hemisphere belongs to America. This is what’s called the Trump Corollary to the Monroe Doctrine or the Dawn Roll Doctrine. It states that very clearly.
+Number two is that it states explicitly that the Western Hemisphere belongs to America. This is what’s called the Trump Corollary to the Monroe Doctrine or the Donroe Doctrine. It states that very clearly.
 
 Number three is that it will strangle China economically. The idea is you can’t fight China in Southeast Asia militarily. That’d be suicidal. You’re fighting China on its home front. So what you do is you blockade China economically. That means basically taking control of the Western Hemisphere and cutting off valuable resources to China which includes oil of course but also includes lithium, copper and silver which are crucial for high-tech, including solar panels, AI, EVs. Basically you cannot have a high-tech industry without these rare earth minerals and these other critical minerals and most of these actually mineral supplies comes from the Western Hemisphere.
 

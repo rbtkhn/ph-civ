@@ -12,10 +12,12 @@ interviews_episode: 2
 ingested_at: "2026-06-25"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: workshop_promotion
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-06-25
+fidelity_reviewed_at: 2026-06-25
 part: provenance
 part_role: provenance
 series: interviews
@@ -25,9 +27,13 @@ series: interviews
 
 ## Part I: Full transcript
 
+### Show Open — Civilizational Rise and Decline
+
 **GLENN DIESEN:** Welcome back to the program. We are here today with Professor Jiang, who is very renowned not just for his academic achievements but also for his very popular channels — and I’ll make sure to leave links in the description.
 
 You develop models for predicting geopolitical developments, and they are quite fascinating because you’re able to include a lot of variables to account for the complexity. I thought a good place to start would be a topic which many now look toward. If you go on any social media, everyone is comparing what’s happening in the West to the fall of the Roman Empire. But it does beg the question — given that you’re able to draw on all these different variables — what do you see making civilizations rise, decline, as well as collapse?
+
+### Civilizations Rise — Energy, Openness, and Cohesion
 
 **JIANG XUEQIN:** In my analysis of world history, when civilizations rise there are three factors at play.
 
@@ -40,6 +46,8 @@ The third is cohesion — do you identify as a people and work together to coord
 You look at all great empires — they all started off as these borderland tribes that, because of energy, openness, and cohesion, were able to dominate their part of the world. This includes the Athenians, the Persians, the Macedonians, the Romans, the Americans, the British, and today I would argue that the new empire coming onto the world stage is Pax Judea — Israel. Among the Israelis we see energy, openness, and cohesion.
 
 **GLENN DIESEN:** How do you assess, within this framework, what’s happening with the political West — that is, the United States and Europe? Because whatever variable one tends to look at — whether it’s politics, the economy, or social cohesion — there seems to be a lot of gloom, and for good reasons perhaps. So what direction do you see the Western world taking now?
+
+### Western Decline — Energy, Openness, and Cohesion
 
 **JIANG XUEQIN:** According to this framework, the Western world — especially the Anglo-American empire — is in rapid decline.
 
@@ -57,7 +65,9 @@ Unfortunately, all the signs — all the historical signs — are pointing towar
 
 But to what extent are we doomed, though — that is, us here living in the Western world? Because there’s a big difference between going through periods of rise and decline versus when we tilt into collapse.
 
-**JIANG XUEQIN:** That’s a great point. Social cohesion is a huge problem in the Western world, especially in America. So the question then is: why is this happening? Why is there so much social and political polarization?
+### Collapse Theories — Turchin, Piketty, and Spengler
+
+That’s a great point. Social cohesion is a huge problem in the Western world, especially in America. So the question then is: why is this happening? Why is there so much social and political polarization?
 
 For that, let’s look at three theories.
 
@@ -83,6 +93,8 @@ But to what extent do you see the problems of today being an extension of the gl
 
 Is this where we are now? The cheap money being kicked down the road? Because in 2009 I think it was about $9 trillion in debt. Now they’re up to $38 trillion. It’s going to be much harder now and they can’t use the same instruments. How do you see this issue of cheap money?
 
+### 2008 Crisis — Cheap Money and Elite Capture
+
 **JIANG XUEQIN:** You bring up a good point about the 2008-2009 great financial crisis. The great financial crisis really marked a turning point in American history — you could argue Western history as well.
 
 The 2008 financial crisis was a culmination of very troubling trends that started ever since the Reagan neoliberal era.
@@ -105,7 +117,9 @@ I like that you go back to ancient Greece and all because a key concern for peop
 
 How do you see this development? Is this then the end of or the death of democracy and the rise of tyranny, or how can we predict how this will play out?
 
-**JIANG XUEQIN:** Let’s look at ancient Rome. After the three Punic Wars, Rome was the undisputed master of the Mediterranean but it had this war machine that kept on going to start wars overseas. Why? Because the entire Roman economy was based on starting wars. What would happen is this nobility would start these wars in order to capture slaves to run their estates. When they started these wars, they would conscript these peasants. Because these peasants could no longer work the land, they had to get loans with their land as collateral. Of course, because of bad luck or because they got killed in the war, the family would lose this land. So the nobility would consolidate all this land and the peasantry became a renter class. They were forced to go into the city of Rome to look for work and this became a very unstable element in Roman society because now you have the rise of populism.
+### Roman Populism — Gracchi, Caesar, and Bernie Sanders
+
+Let’s look at ancient Rome. After the three Punic Wars, Rome was the undisputed master of the Mediterranean but it had this war machine that kept on going to start wars overseas. Why? Because the entire Roman economy was based on starting wars. What would happen is this nobility would start these wars in order to capture slaves to run their estates. When they started these wars, they would conscript these peasants. Because these peasants could no longer work the land, they had to get loans with their land as collateral. Of course, because of bad luck or because they got killed in the war, the family would lose this land. So the nobility would consolidate all this land and the peasantry became a renter class. They were forced to go into the city of Rome to look for work and this became a very unstable element in Roman society because now you have the rise of populism.
 
 The first major reformers were the Gracchi brothers, Tiberius Gracchus. His reform platform was the most innocuous, the most reasonable platform ever in human history. All he said was, “Hey guys, our peasant class can’t work the land anymore because there’s no land for them. But we, the Roman state, have all this public land that’s not being used. So let’s just give some of this public land to these peasants who want to work hard and grow food for the family.” That’s like the most reasonable strategy in the world, right? The problem is that the nobility treated public land as private land. Even though they were actually using this land, they still thought this land was their own personal land. So they took affront to Tiberius Gracchus’s proposal and on the streets of Rome they beat him to death. Not only him, but they also beat his brother to death. These are known as the Gracchi brothers.
 
@@ -123,6 +137,8 @@ Look at 2016. We would live in a different world if in 2016 Bernie Sanders were 
 
 How do you see him going down? If again he would make a prediction here with Trump? Do you see him dissolving democracy or is he able to hold the elites accountable or how do you see his path forward?
 
+### Trump — Agency and Burn-Down-the-House
+
 **JIANG XUEQIN:** In 2016, the entire world was shocked, bewildered, confused, perplexed, disturbed by the fact that he was able to beat Hillary Clinton, who is a career politician. She was secretary of state, also the first lady. She has tremendous political experience with a team of thousands of career politicians solidly behind her. She would have been a very effective politician and president if she had won. Americans didn’t want that because, as you say, they were sick of the system as it was. Hillary Clinton would have just been another corrupt politician that looked after her friends and screwed over the American middle class.
 
 They did these interviews with these average Americans and they were asked, “Why did you vote for Trump even though he was not a reliable, not an experienced politician?” Their response was because I wanted to assert my authority, because I wanted to assert my agency, because I wanted my voice to matter. I’m sick of being pissed on by the elite. That’s the reason why this Washington elite in Washington DC, in San Francisco, in New York City — they don’t even know I exist. Now by electing Trump, they know I exist and that my voice matters. That’s why they voted for him.
@@ -132,6 +148,8 @@ In 2020, the people didn’t want the division that Trump caused, so they electe
 **GLENN DIESEN:** I want to shift to more specifics because here in Europe we’re fighting now — well I would have called it a proxy war against Russia but it’s becoming increasingly a very direct war. I thought it was interesting you mentioned Spengler before in the civilizational discourse because he used to refer to the Russians as more barbaric and primitive but when he did so he did it in the context that they were more youthful and he actually saw it as being beneficial to reach out to the Russians to regain some of Europe’s vitality and youth. But there’s no such sentiment today. It’s more of course one could say there was also a bit demeaning reference to them but nonetheless in that framework of civilizations taking the lifespan of a human being the Russians were seen as being the youthful part.
 
 But today in the Ukraine war, where do you see this going? Because I’m very perplexed by the mere information which is coming out. It seems so very much divorced from reality. So for example in the 1990s the whole decade we had the discussions about the dangers of expanding NATO without taking in Russia. Now it’s all memory-holed. It never happened. So where do you see this war actually going?
+
+### Ukraine — War Over and March to Odessa
 
 **JIANG XUEQIN:** I think for the past year the war has been over. If you just look at the front lines, if you look at how the Russians are fighting this war as opposed to how the Ukrainians are fighting this war, the Russian soldiers are demonstrating energy, openness, and cohesion.
 
@@ -150,6 +168,8 @@ So NATO is sort of stuck as well in this war. It’s sunk cost fallacy. It’s l
 **GLENN DIESEN:** I like the way you used openness as a point of departure because often in the West we have to subscribe to the idea that we are open because we’re the liberal democracy where Russia’s authoritarian so it’s closed. But it seems one of our main problems in Europe is that exactly that we have become closed in terms of refusing to see reality as it is. I agree that usually in a war the invading forces versus defending forces you will see advantage of the defending response in terms of morale because they’re defending the homeland. They will have greater motivation as opposed to anyone who is just militarily opportunistic. But this has kind of been the assumption in the West that the Ukrainians would fight and the Russians would simply flee because they would realize the moral corruption of their government towards just trying to snatch some new territories. But all of this left NATO out of the equation though — and if we leave NATO out because we can’t say that we’re involved — suddenly that undermines our ability to interpret the motivations of the Russians. As you say they genuinely see this as a war for their own existence and I would add for very good reason as well. But again if we have to all conform to this narrative that it is just opportunism, they’re just hungry for more territory, this is just the Russian DNA, all our analysis will then be wrong.
 
 I’m wondering if you see the openness as part of the weakness we have because it’s not just one issue. It’s I think a big crisis we have in the West — a crisis of lack of strategy. That is we can’t even interpret threats anymore. Threats entail assessing intentions and capabilities. But when you’re obligated to hate your opponent, how can you possibly interpret their intentions and capabilities in an objective manner? In Europe, you can’t even discuss the security concerns of your opponents. Come to this continent, try to explain what do you think are the security concerns of China, Iran, Russia — you would be crucified, you would have your career destroyed. They come after you. This is incredible. How are you going to have sensible policies if you can’t actually talk about your opponents in a way that actually humanizes them?
+
+### Western Closed Society — Yale, Propaganda, and Immigration
 
 **JIANG XUEQIN:** I went to school at Yale and this was like the late ’90s and Yale College, America at that point was a very open, dynamic society where you were welcome to criticize everyone and everything. I said to myself, if a society is so open, there’s no way it could ever decline.
 
@@ -177,6 +197,8 @@ Unfortunately, I think looking forward, what’s going to happen is that the Wes
 
 **GLENN DIESEN:** If we shift toward another part of the world — because these are indeed turbulent times to a large extent by the exhaustion of the West but also the rise of new centers of power and China of course is one that exudes a lot of energy at the moment. Anyone who goes there can almost feel it in the air. But these are for this reason turbulent though. One would think that a clash between these two giants — China and the US — would come in different forms. Indeed it is in terms of an economic war, but if it’s not winning through on the American side, will they go into a military option or how do you see the US-China rivalry playing out?
 
+### US-China — Status Quo and Rapprochement
+
 **JIANG XUEQIN:** I have a very different take on the US-China rivalry than other analysts. I believe Russia and Iran are both revisionist powers in that they have been isolated, they’ve been ostracized by the global economy controlled by the United States and its allies. But China is very much a status quo power in that it has benefited tremendously these past 40 years from globalization, especially trade with the United States.
 
 You could also argue the United States economy and the Chinese economy are codependent. China is taking all its excess cheap labor and exporting to the United States. In return, the United States gives China US dollars. China is basically supporting or propping up the US dollar which everyone knows is a Ponzi scheme and the United States in return is transferring technology to China and helping China become wealthier and opening its vast consumer market to Chinese consumer goods and therefore giving Chinese millions and millions of employment opportunities.
@@ -188,6 +210,8 @@ I think the friendship between the United States and China will improve over tim
 **GLENN DIESEN:** It does seem that a lot of the hostility coming towards China from the US is based on the idea that they can’t live side by side with a powerful China. In other words, it looks as if it’s something that undermines the US hegemony as opposed to undermining the US itself. I get the impression that the US can’t really restore its former hegemony — that is, the 1990s is not coming back — and I think if there was rational discussion more of it in the US (and actually there are more and more voices suggesting that a settlement could be found with China) because if the US would accept China it doesn’t have to prevent its rise. The US would actually have some benefits to be one among equals in a multipolar system. It could reduce its foreign exposure, could stop bleeding so many resources, can get its economic house in order, stabilize society and economy. But of course states do not always act rational when they’re in decline. That’s usually where my pessimism comes from. From the realist or rational perspective one would think that the US, given that it can’t restore hegemony, that it could stabilize under a multipolar system — that there would be some room there for harmony.
 
 But my last question is though on again the two Eurasian giants. The big thing that no one seemed to predict was that China and Russia would find common ground. Indeed their economies are quite mutually complementary unlike between Europe and Russia — there’s no Ukraine in between that can be used as a proxy to decouple. Should we be surprised that if this partnership is sustained over time?
+
+### Russia-China Limits — Kazakhstan and US Balancing
 
 **JIANG XUEQIN:** I am not that optimistic about the Russia-China relationship because I think there are some geopolitical questions that need to be resolved. One flash point that comes to mind is Kazakhstan. Ever since the 1980s, China has been heavily investing in Kazakhstan because Kazakhstan is such a pivot point for the Belt and Road Initiative. Everything basically has to pass through Kazakhstan in order to reach the Middle East and to Europe. China has been spending a lot of resources trying to co-opt the Kazakhstan elite. It’s invested heavily in Kazakhstan and what’s happened these past few years is that Kazakhstan has developed a much more pro-Russian attitude. You basically had a change in the guard in Kazakhstan and so the Kazakhstan government is leaning more towards Russia.
 
@@ -207,7 +231,9 @@ Then you look at South Korea, which has always had these historical animosities 
 
 Before we go though, do you have any final thoughts?
 
-**JIANG XUEQIN:** One thing I’m looking very closely at — and I think your viewers might be interested in as well — is the rise of Pax Judea. What I’m watching is how a lot of nations believe that Pax Judea may be in their best interest and therefore they’re promoting the rise of Pax Judea.
+### Pax Judea — Close and Predictive History
+
+One thing I’m looking very closely at — and I think your viewers might be interested in as well — is the rise of Pax Judea. What I’m watching is how a lot of nations believe that Pax Judea may be in their best interest and therefore they’re promoting the rise of Pax Judea.
 
 The United States promoting the rise of Pax Judea — that’s understandable. But if I’m Russia, Israel would be a very good trading partner because eventually Russia is going to win this war in Ukraine. It’s going to control the Donbas and therefore it’s going to be able to control about a third of the world’s carbohydrates. Where’s my market? My market is in Africa. My market is in the Middle East. Israel would be the perfect entry point into these markets. If I’m Russia I think Pax Judea works to my benefit. If I’m China, Pax Judea works to my benefit as well because Pax Judea means that Israel would take control over Syria, Iraq, Egypt, possibly Libya. Israel would need a lot of infrastructure spending. It would need a lot of infrastructure projects. It would also need to spend a lot of money on data centers, on artificial intelligence, and create this massive surveillance state to watch over the Greater Israel project of Pax Judea.
 

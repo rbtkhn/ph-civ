@@ -189,7 +189,7 @@
       "interview-2026-01-22-dimitri-lascaris",
       "interview-2026-01-26-glenn-diesen",
       "interview-2026-03-02-breaking-points",
-      "interview-2026-03-07-nima",
+      "interview-2026-03-07-dialogue-works",
       "interview-2026-03-09-sneako",
       "interview-2026-03-16-endgame",
       "interview-2026-03-20-tucker-carlson",
@@ -1412,7 +1412,7 @@
       "series": "interviews"
     },
     {
-      "source_id": "interview-2026-03-07-nima",
+      "source_id": "interview-2026-03-07-dialogue-works",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "provenance",
@@ -1671,8 +1671,8 @@
       "series": "secret-history"
     }
   ],
-  "fingerprint": "5d552735fd052071",
-  "generated_at": "2026-06-26T00:11:09Z",
+  "fingerprint": "637de6b89d4e37ea",
+  "generated_at": "2026-06-26T00:33:47Z",
   "markdown_summary": "runtime/artifacts/public-surface-triage.md",
   "inventory_json": "data/public-surface-inventory.json"
 }
