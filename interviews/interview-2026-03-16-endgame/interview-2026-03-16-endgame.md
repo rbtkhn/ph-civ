@@ -25,7 +25,7 @@ series: interviews
 
 ## Part I: Full transcript
 
-### Trailer and consciousness (clip)
+### Trailer — Consciousness (Clip)
 
 **Jiang Xueqin:** techno Marxarxism. That's the world we're going into. They want a numb and indifferent
 population that they can enslave, that they can rule over, who are complacent. What they
@@ -39,7 +39,7 @@ attention, our consciousness. towards you matter, but you have to choose to matt
 to believe that you matter. And honestly, I think it's a message that the elite have
 purposefully hid from us.
 
-### Channel promo and introduction
+### Channel Promo and Introduction
 
 **Host (Endgame):** Hi friends, it's a pleasure to tell you that my book What It Takes Southeast Asia has been
 released in English and Bahasa Indonesia. You can buy it through books.game.id or at any of
@@ -51,7 +51,7 @@ thank you so much for gracing our show.
 
 **Host (Endgame):** Yeah, I want to start out with how you grew up.
 
-### Conversation (captions)
+### Conversation (Captions)
 
 _YouTube captions do not separate speakers; paragraphs below follow the published English subtitles (same text as before). Use for search and book lane; optional manual pass for Host/Jiang if needed._
 

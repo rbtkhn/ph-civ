@@ -1,8 +1,8 @@
 {
   "schema_version": 3,
-  "fingerprint": "cfe598e56351b222",
+  "fingerprint": "64af007f90b8129e",
   "card_count": 205,
-  "transcript_word_total": 1431537,
+  "transcript_word_total": 1431354,
   "ssot": "data/cards.jsonl",
   "markdown_index": "docs/predictive-history-index.md",
   "surfaces": {
@@ -90,7 +90,7 @@
       "series_counts": {
         "interviews": 16
       },
-      "transcript_word_total": 152562
+      "transcript_word_total": 152379
     }
   },
   "chapters": [
@@ -3650,7 +3650,7 @@
         "folder": "interviews/interview-2026-03-16-endgame",
         "folder_readme": "interviews/interview-2026-03-16-endgame/README.md"
       },
-      "transcript_word_count": 21300,
+      "transcript_word_count": 21299,
       "source_video_url": "https://www.youtube.com/watch?v=rsi7cDRUrmE",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -3671,7 +3671,7 @@
         "folder": "interviews/interview-2026-03-20-tucker-carlson",
         "folder_readme": "interviews/interview-2026-03-20-tucker-carlson/README.md"
       },
-      "transcript_word_count": 9336,
+      "transcript_word_count": 9337,
       "source_video_url": "https://www.youtube.com/watch?v=2K2nQsTTjQE",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -3692,7 +3692,7 @@
         "folder": "interviews/interview-2026-04-01-jay-shapiro",
         "folder_readme": "interviews/interview-2026-04-01-jay-shapiro/README.md"
       },
-      "transcript_word_count": 19426,
+      "transcript_word_count": 19060,
       "source_video_url": "https://www.youtube.com/watch?v=oErKnj_uyPA",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -3713,7 +3713,7 @@
         "folder": "interviews/interview-2026-04-07-patrick-bet-david",
         "folder_readme": "interviews/interview-2026-04-07-patrick-bet-david/README.md"
       },
-      "transcript_word_count": 12321,
+      "transcript_word_count": 12389,
       "source_video_url": "https://www.youtube.com/watch?v=Wio--7_GIOs",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -3734,7 +3734,7 @@
         "folder": "interviews/interview-2026-04-13-glenn-diesen",
         "folder_readme": "interviews/interview-2026-04-13-glenn-diesen/README.md"
       },
-      "transcript_word_count": 6170,
+      "transcript_word_count": 6213,
       "source_video_url": "https://www.youtube.com/watch?v=P_DHMUdOVdo",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
@@ -3755,7 +3755,7 @@
         "folder": "interviews/interview-2026-04-13-sneako-dugin",
         "folder_readme": "interviews/interview-2026-04-13-sneako-dugin/README.md"
       },
-      "transcript_word_count": 11140,
+      "transcript_word_count": 11212,
       "source_video_url": "https://www.youtube.com/watch?v=n44OF1Y7zgo",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",

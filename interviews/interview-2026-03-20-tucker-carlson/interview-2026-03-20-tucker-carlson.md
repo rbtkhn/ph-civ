@@ -27,7 +27,7 @@ series: interviews
 
 ## Part I: Full transcript
 
-### iran-attrition-and-global-stakes
+### Iran Attrition and Global Stakes
 
 **Tucker Carlson:** Professor Jiang, thank you very much for doing this. We've never met. I don't know a great deal about you, but I have seen a number of your videos in which you make remarkably accurate predictions. So that's what I know about you, and I'm impressed by your ability to call events before they happen.
 
@@ -49,7 +49,7 @@ Things are spinning out of control. Just recently Ali Larijani, who is the de fa
 
 That is not the worst-case scenario. The worst-case scenario would include a nuclear strike by one or more actors and the destruction of the Al-Aqsa complex in Jerusalem, which would spark a religious war. So that's as bad as it could get.
 
-### us-off-ramp-petrodollar-and-china
+### US Off-Ramp — Petrodollar and China
 
 **Tucker Carlson:** But you've just described one step before the worst — protracted, destructive, impossible to stop. So my question is, because there are so many global players — big global players, the US and China I think — who would be hurt by this, why is there not an incentive to get it settled quickly, and why can't that happen?
 
@@ -71,7 +71,7 @@ As you point out, China very much wants to see a ceasefire as soon as possible. 
 
 In fact, Chinese policymakers have come out publicly saying that they would like the carnage and the violence in the Middle East to stop as soon as possible and for the Strait of Hormuz to open up. But unfortunately, as I pointed out previously, once a war starts it achieves a momentum and a logic of its own, and it's very hard to stop a war once it starts.
 
-### three-trends-under-energy-shock
+### Three Trends Under Energy Shock
 
 **Tucker Carlson:** So if your prediction is correct — and I pray that it's not, and I'm sure you do too — and this continues to grind on in the way that it is now, destroying energy infrastructure and really destroying the civilizations of the region and Iran and the GCC, what does that look like in say two years globally? What's the effect on the global economy?
 
@@ -85,7 +85,7 @@ The third major trend is mercantilism. Now that global trade is disrupted, natio
 
 Fortunately, America doesn't have this issue because the Western Hemisphere is extremely wealthy and abundant in natural resources. But if you are Japan or Germany, then you have to reach out and expand your borders if you are to maintain your industrial might. So these are the three major trends we should be seeing very quickly.
 
-### east-asia-japan-korea-and-southeast-asia
+### East Asia — Japan, Korea, and Southeast Asia
 
 **Tucker Carlson:** We've of course seen this exact dynamic very famously in the last century. And I do think Japan is the big question mark because traditionally a rising power, a great power like China, just kind of intuitively demands hegemony in its own region. Like China controls the east — I would imagine that's the Chinese perspective. But in the way of that are Japan, the historic enemy, and South Korea, but particularly Japan. And I know that people in your country are very focused on Japan.
 
@@ -151,7 +151,7 @@ So all of Southeast Asia will be impacted, and I think China will be impacted th
 
 **Jiang Xueqin:** Yeah. And I would say the East is going to be much more impacted than the West because at the end of the day the Western Hemisphere — America — I mean the wealth in the Western Hemisphere is just tremendous. The Western Hemisphere is self-sufficient, but that's not true for Southeast Asia. Southeast Asia is very dependent on energy from overseas.
 
-### regional-horizons-gcc-iran-israel
+### Regional Horizons — GCC, Iran, and Israel
 
 **Tucker Carlson:** How does this affect Africa?
 
@@ -183,7 +183,7 @@ The American people do not want this war. American people don't even understand 
 
 [Sponsor segment omitted.]
 
-### us-military-eschatology-and-trump
+### US Military Eschatology and Trump
 
 **Jiang Xueqin:** I think the way this war is going, this plan will work. And the reason why is the American military has not fought a real war for decades. The 2003 war in Iraq was not a real war because Saddam Hussein basically gave up. He didn't have air defense because those economic sanctions had destroyed his economy. And his logic was this: let the Americans invade — they can't possibly invade because if they destroy us that would make Iran, which has hostilities against America, the regional power. So why would America do this? It is self-defeating. It is not logical. It is not rational. So I'm not worried about them attacking me. And he was surprised when they did attack because it was not logical. It was not rational.
 
@@ -237,7 +237,7 @@ Even in yourself, it's hard to know your own motives very often.
 
 **Tucker Carlson:** I think that's a wise take. What happens to North America — United States — and I do want to include Mexico and Canada. We don't think a lot about those countries, but they're both massive land masses and they have big populations and they're our neighbors. And so if the world is reorienting, I think you need to think in terms of continents rather than just nation states. What does that look like in three or four years?
 
-### north-america-europe-and-western-civ-closing
+### North America, Europe, and Western Civilization Closing
 
 **Jiang Xueqin:** From a geopolitical perspective, if America is forced to retreat back into the Western Hemisphere, it needs to worry about resources. And so it is in the best interest of America to eventually take over and colonize both Canada and Mexico.
 

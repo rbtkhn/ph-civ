@@ -25,7 +25,8 @@ series: interviews
 
 ## Part I: Full transcript
 
-**
+### Show Open — Stream Setup and Eschatology Frame
+
 **Sneako:** How you doing, Alexander?
 
 **Aleksandr Dugin:** Hello.
@@ -68,6 +69,8 @@ And once again, I want to thank you both for taking the time to come on here tod
 
 **Jiang Xueqin:** Yes. Um so I would also make the point that um you know so I really got into geopolitics and eschatology because I read Professor Dugin’s book The Foundations of Geopolitics which I highly recommend. I think it is the most important geopolitical book in our modern era. And the thing to understand about eschatology is that behind eschatology is also national character — the soul of a nation — and that’s why eschatology is so important because eschatology is just the expression of your national soul.
 
+### Dugin on Jiang — Chinese Eschatology Exception
+
 **Sneako:** Okay. Do you have major disagreements? And well, first off, how well do you know each other?
 
 **Jiang Xueqin:** It’s our first time.
@@ -90,6 +93,8 @@ Maybe they lack the majority lack this radical feeling of the end of something, 
 
 So in order to understand better each other, we need to get deep in the respective traditions. Maybe these traditions could be close to us or far from us, but we should pay some efforts to understand better each other.
 
+### Faith Traditions — Orthodox, Gnostic, and Eschatology Defined
+
 **Sneako:** Absolutely. And well, I have a couple questions for you, Alexander. I wanted to figure out more about your belief system because I saw some people are reporting that you have esoteric traditions or some are saying that you’re Orthodox Christian. It’s hard to pinpoint exactly what it is. So in your own words, what would you classify your belief system as? And before you answer, people are asking in the chat what eschatology is. Uh maybe Professor Jiang could quickly describe it the best way but I would just say end times philosophy.
 
 **Jiang Xueqin:** Right. So eschatology comes from the Greek word eschaton which means the end. So the word literally means the study of the end and what eschatology often refers to is each religious tradition’s understanding of the end point of history. Why are we here? Where are we going? Where do we come from? And the idea of eschatology is to figure out the point at which God and man reunifies which brings about the end of history. So that’s the general idea.
@@ -108,7 +113,9 @@ But trying to develop my own understanding of what are different traditions diff
 
 **Sneako:** Right I think you gave a good segue for what I can relate to what’s happened recently I’m sure Professor Jiang you saw this as well so yesterday was Orthodox Easter if I’m not mistaken I think the week before was Catholic Easter and Donald Trump recently posted well something interesting on both Sundays.
 
-On Easter Sunday he said praise be to Allah. Open up the effing strait. This is on Catholic Easter. And then yesterday first he posts a long paragraph about the pope. And he says the pope is very weak on crime. This is not a joke. He says the pope is weak on crime. And then afterwards he posts an AI image of himself with his face on Jesus and he’s putting his hand on what looks like a to me it looked like Jeffrey Epstein and in the back there’s it looks like a Roman god Libertas the Statue of Liberty goddess. Some people are saying that that’s Moloch flying in the sky and that was also altered.
+### Trump Easter Posts and Western Values Decay
+
+**Sneako:** On Easter Sunday he said praise be to Allah. Open up the effing strait. This is on Catholic Easter. And then yesterday first he posts a long paragraph about the pope. And he says the pope is very weak on crime. This is not a joke. He says the pope is weak on crime. And then afterwards he posts an AI image of himself with his face on Jesus and he’s putting his hand on what looks like a to me it looked like Jeffrey Epstein and in the back there’s it looks like a Roman god Libertas the Statue of Liberty goddess. Some people are saying that that’s Moloch flying in the sky and that was also altered.
 
 My point is when I announced this stream speaking with Professor Jiang and Alexander Dugin, to be perfectly honest, it went all over Twitter and people were saying Sneako is speaking to a CCP propagandist and a KGB propagandist. He’s speaking to China and Russian spies. And they started saying who here they are to talk about how Western values are decaying.
 
@@ -118,7 +125,11 @@ Alexander Dugin, you, I think, accurately described it and you spoke to what a l
 
 This is not what so many people want to sign up to follow. What do you think are the main causes of the problems we see with American western values right now? Maybe we could start with Professor Jiang.
 
-**Jiang Xueqin:** Right. So I think the root of the problem is 1694 because that is when the Bank of England was first chartered. And the Bank of England — the idea was that it would take transnational capital and lend it to the nation state of England with parliament as the guarantor.
+**Jiang Xueqin:** Right.
+
+### Bank of England and Anglo-Saxon Liberalism
+
+So I think the root of the problem is 1694 because that is when the Bank of England was first chartered. And the Bank of England — the idea was that it would take transnational capital and lend it to the nation state of England with parliament as the guarantor.
 
 Previously if you were a king and you wanted to fight a war, you need to hire mercenaries. So, you borrow money from merchants who lent you gold in order to finance the war. The problem with this is that the king may die, you may lose the war, or the king may renege on the contract. So there’s high risk for merchants to work with kings.
 
@@ -156,6 +167,8 @@ So but that as well is a kind of limitation for American choice. So you are obli
 
 So that is the problem. I’m not absolutely maligning. It is not about mock at American people but that is strategy and I think we feel the great contempt for American people because they became a kind of hostages of this historical social economical theology or hostages of this specially and very very heretic I would say eschatology. Right.
 
+### Scofield Bible, Gog and Magog, and Christian Zionism
+
 **Sneako:** That makes me understand your idea and how you can relate traditionalism to your theology which you stated earlier. But so what’s the solution? You also said that you think American tradition is rotten to the core. And I don’t want to believe that. I love this country. I don’t want to think that it’s all doom and gloom. We got to provide some hope.
 
 But now learning more about what the evangelical sect of Protestantism believes and the fact that they get subverted so easily with this megachurch culture that you can see epic fury and unconditional surrender these giant posters and it gets subverted by these preachers who are clearly in it just for money. I could say it’s the Erica Kirk phenomenon, right? Mostly the boomer class who is the majority of the voting block in America. They attend these sort of major stadium like rituals and they all vote for the same neocons, the same evangelicals, the same people which you rightly pointed out believe in the Scofield Bible which Professor Dugin when was the Scofield Bible written.
@@ -186,6 +199,8 @@ But to answer your question, what is Gog and Magog? What seems from what’s hap
 
 So Herzl was not a well-known person. He was a journalist in Germany but he had access to British royalty. And so I think that’s actually the chain of events you have. You have the Sabbatian Frankists. Then you have the Freemasons which then became infiltrated by the Frankists which created Christian Zionism and then Christian Zionism went on to conquer America or the founding fathers were Freemasons and capitalists and then eventually you had the creation of Zionism.
 
+### Zionism in China and Russia
+
 **Sneako:** There was something really interesting I saw yesterday. I saw these Chinese children speaking to a western journalist and they were asking him, “Do Americans eat people?” Because we heard that Epstein eats people in America. So, it’s funny that the stereotype for so long, you know, I’m half Filipino myself. We grew up hearing from Americans that Asians eat dogs and now we’re hearing Chinese children say Americans eat people.
 
 I’m wondering what the similarities are, what the ideas in China are about Zionism, but also what’s the ideas about Zionism in Russia. I want to ask you, Alexander Dugin, it’s very different. It seems like from an American perspective. It seems like Russians have a separate relationship and Putin is not as clear from what I understand and it doesn’t seem like the same problem. Also, you have different Bolshevik history. What’s the Russian relationship with Zionism?
@@ -210,9 +225,11 @@ So that was as minority faith that is guarded by the state. But what I could ass
 
 But we blame much more American hegemony than Zionism. But now this collusion, this collusion between Christian Zionism of Trump with its aggressivity, with this hegemony, with this imperialism, with this radical anti-Christian elements you have mentioned and collusion with this radical aggressive Jewish Israeli Zionism that is seen by our society as the confirmation of the fears and predictions of our elders Christian orthodox elders because it becomes more and more it looks like antichrist including this posting of Trump or this sacrilegious affirmation this idea that Trump is god Trump is pope Trump is saint and his refuse to swear on the bible on the second presidential term.
 
-So, so many elements now show that we are dealing with some eschatological moment in the history. Not we don’t want that. We don’t insist on that. Putin prefers to understand their political reality in geopolitical realist terms. But we could not prevent to see behind these events the very alternative scenario. So this is a opportunity to see if there’s some back and forth here between you two. Professor Jiang, I don’t know if you’ve heard about Professor Dugin’s theory on the Eurasia unity.
+So, so many elements now show that we are dealing with some eschatological moment in the history. Not we don’t want that. We don’t insist on that. Putin prefers to understand their political reality in geopolitical realist terms. But we could not prevent to see behind these events the very alternative scenario.
 
-Is this something that Chinese people are aware of or speak about? Do you think that there are similarities between the two nations and something that there could be unity on?
+### Eurasian Unity and Greater North America
+
+**Sneako:** So this is an opportunity to see if there’s some back and forth here between you two. Professor Jiang, I don’t know if you’ve heard about Professor Dugin’s theory on the Eurasia unity. Is this something that Chinese people are aware of or speak about? Do you think that there are similarities between the two nations and something that there could be unity on?
 
 **Jiang Xueqin:** Right. So an alternative to American hegemony is maybe Eurasian unity right especially between Russia, China and Iran. So if these three nations are able to create a trade block with BRICS as a framework then this could easily extend to Europe to Africa to the rest of Southeast Asia and in this formulation there would be no one great power right China talks about the gold corridor which is this blockchain like gold-based financial system where gold is stored in different vaults across Eurasia and this becomes the basis of a new financial system and this is all plausible and I think this could be very good.
 
@@ -258,6 +275,8 @@ So the world is not anymore unipolar. And if someone in the west could accept mu
 
 So let America let United States the United States concentrate on the western hemisphere. Let solve its inner problem. If you have enough with liberals, transgenders, illegal immigration, you are right. We could support that. That is that is correct. But when Trump started to say that there is no Epstein list, there is a hoax, when he started to betray his own most loyal most loyal friends and supporters, and when he started the new wars with Iran, with Venezuela, with Cuba, when he started to support the genocide of Gaza by Netanyahu. I think we have revised our attitude to Trump and he didn’t stop finally the support for Ukrainian regime. He promised that but he didn’t do that.
 
+### Trump Deep State — Chabad and Convergence of Interests
+
 **Sneako:** Right. So I want to ask the both of you. I’ll start with Professor Jiang. So you were mentioning the deep state. So essentially your belief is that Trump is and this is hardly a conspiracy that he is being controlled by different forces and he’s being used as a tool to push an agenda that’s against America’s interest. So right now we are back in the war. The ceasefire talks failed in Islamabad, Pakistan. JD Vance, the vice president was there, but behind him was Jared Kushner and Steve Witkoff. These are real estate moguls.
 
 So you keep saying the deep state is controlling Trump. Is it just simply the Chabad Lubavitch sect? Because Kushner has no position in the White House. He’s not part of this administration yet. He is one of the lead negotiators in the Middle East with the Gaza peace talks. And here he is in Pakistan right next to JD Vance. And the theory is that we were pulled back into this war and the ceasefire talks failed because Israel wants to continue bombing Lebanon. Professor Jiang, is the deep state simply just Chabad Lubavitch?
@@ -268,7 +287,9 @@ So you think about Jared Kushner if he were really powerful he would not be in f
 
 It’s really hard to say it’s the Epstein class, but I really think it’s a convergence of interests, right? So you have the military-industrial complex, you have the national security apparatus, you have secret societies like the Freemasons, the Rosicrucians, Knights Templars. You have Wall Street and City of London. Basically, it’s in a lot of people’s interest to have this war in Iran. It’s really a question of like who’s going to do the work, right? Who’s going to be the vanguard and who’s going to be the scapegoat? And so the people we’re seeing right now are just the vanguard, the scapegoats.
 
-**Sneako:** Professor Dugin, what is the relationship that Russia has with Chabad Lubavitch?
+### Chabad in Russia, Putin, Islam, and Epstein
+
+Professor Dugin, what is the relationship that Russia has with Chabad Lubavitch?
 
 **Aleksandr Dugin:** So, we consider that as a religious group. We have two currents in Russia, traditional Jews and this Hasidic current. So our government could not say you are right and you are wrong because it is we could not judge the contradictions in the Jewish community and because movement is very active precisely they represent one part of religious Judaism accepted as traditional branch of religion of minority and traditional Jews they represent the other part. So they have contradictions concerning possibility to teach the Kabbalah to not old Talmudic persons. So they disagree about that because Lubavitchers they pretend that everybody should could every Jew not everybody every Jew could know Kabbalah including the women and young people and that was strongly prohibited in traditional Judaism.
 
@@ -314,11 +335,13 @@ But it is absolutely impossible to KGB to manipulate Epstein class because the w
 
 So to the idea that Russian modern be capable to manipulate the whole west it is the myth of the cold war. So that belongs to totally different epoch. It is absolutely nonrealistic concerning modern day Russia. Russia is just in the first stage of revival. We just become serious normal. We were totally out totally confused during last 30 years. So we just coming into focus with the reality. We were paralyzed and seduced by the west and now we are coming to our deep identity and roots and we were totally incapable to manage such huge and evil thing as Epstein class.
 
-**Sneako:** Okay. Professor Jiang, are there any disagreements you have? And what is your perception of what Professor Dugin just said about the relationship that the West has with the Antichrist?
+### Disagreements, Antichrist, and Closing
+
+Okay. Professor Jiang, are there any disagreements you have? And what is your perception of what Professor Dugin just said about the relationship that the West has with the Antichrist?
 
 **Jiang Xueqin:** Right. So I agree overall that western civilization is based on certain ideas that are antihuman. For example, the idea of individuality, the idea of rationality, which is the basis of science, and the idea of consumerism, utilitarianism. I think that these ideas have diverged from the classical humanistic tradition and which is the cause of so much misery and discontent in the world.
 
-So people just assume that the enlightenment, the sonic revolution marked this incredible revolution in human affairs and it’s what’s led to globalization, the internet, tremendous wealth creation, space travel. But at the same time we have to look at human psychology and how miserable people are and how hopeless and helpless people feel nowadays. And this is an idea that I’ve been struggling with a long long time.
+So people just assume that the enlightenment, the scientific revolution marked this incredible revolution in human affairs and it’s what’s led to globalization, the internet, tremendous wealth creation, space travel. But at the same time we have to look at human psychology and how miserable people are and how hopeless and helpless people feel nowadays. And this is an idea that I’ve been struggling with a long long time.
 
 But I think that where Professor Dugin and I will have some differences is that for a lot of people this system is extremely attractive and they will fight to the death to maintain this system. So I feel that in Russia there’s just more urgency to fight the antichrist but maybe in more materialistic societies such as China. It’s really a question of like how do you maintain this system because it’s brought so much happiness and prosperity to so many people right so Chinese like to say that after China opened up to the world billions of people were lifted out of poverty so you’ve never seen before so much wealth creation so I wonder how attractive this idea of the antichrist and trying to stop the antichrist, how attractive it is to people. I wonder if given a choice, how many people will choose to resist?
 
@@ -334,7 +357,7 @@ So I think that idea to defend catacon is understood by small minority of modern
 
 So if we ask Russian people maybe they would prefer the west the comfort the western values and maybe some negative western values for example individualism and so on and if we ask some American people maybe they will choose spiritual vice versa. So that is about the freedom. Freedom for you but freedom for us.
 
-We could say yes to cataconic mission consciously or unconsciously and we could say no we prefer to be abstain civilization. Maybe we will not be eaten finally and we will be among those who were invited to eat children. So it is about you to accept the role of antichrist or reject. And when Trump started his second term campaign for voting campaign, we have seen we have remarked some signs of reversal of this situation and we believe that we believed in American voters in American people in American Trumpists because they have shown the to overcome this insane globalist woke perverted culture, cancel culture, globalism and concentrate they promise to concentrate on domestic affairs and to restore traditional values.
+We could say yes to cataconic mission consciously or unconsciously and we could say no we prefer to be Asian civilization. Maybe we will not be eaten finally and we will be among those who were invited to eat children. So it is about you to accept the role of antichrist or reject. And when Trump started his second term campaign for voting campaign, we have seen we have remarked some signs of reversal of this situation and we believe that we believed in American voters in American people in American Trumpists because they have shown the to overcome this insane globalist woke perverted culture, cancel culture, globalism and concentrate they promise to concentrate on domestic affairs and to restore traditional values.
 
 And we have decided maybe there the God has given the American people one chance more because you are never antichrist will come if you not welcome him if you not call for him if you don’t invite him previously.
 
@@ -343,4 +366,3 @@ So in order to be possessed by a demon you should say yes come in you are welcom
 So you can be just anti-Christian West or you can be humanity, you could be your own society, could be the real humans who choose to stay human to defend the spiritual identity and your roots your deep tradition and in that case you could avoid that. So and we will change as well our predictions or postpone them or delay them or everything depends on the human soul immortal human soul and human heart.
 
 **Sneako:** That was my favorite point of yours today. Professor Dugin saying that it’s up to you to allow the demon to enter. I think that’s an important fact to remember. Thank you so much to the both of you for coming on. I greatly appreciate this conversation.
-**

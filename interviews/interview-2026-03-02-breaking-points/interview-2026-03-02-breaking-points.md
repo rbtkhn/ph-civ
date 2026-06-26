@@ -27,7 +27,7 @@ series: interviews
 
 ## Part I: Full transcript
 
-### show-open-and-2024-predictions-clip
+### Show Open — 2024 Predictions Clip
 
 **Saagar:** All right, guys. We've got yet another heavy hitter guest and first-time guest on the show, Professor Jiang. He is the star of the popular YouTube channel Predictive History. He uses game theory to analyze past, current, and to predict future geopolitical events. And he joins us now.
 
@@ -44,7 +44,7 @@ Professor, great to have you.
 
 **Saagar:** So obviously that last one is the only one that has not yet come to fruition. It's quite a stunning prediction. Do you stand by it and what have you seen so far that leads you to sort of stand firm in that conclusion?
 
-### iran-attrition-gcc-and-ai-bubble
+### Iran Attrition — GCC and AI Bubble
 
 **Professor Jiang:** Given my analysis of how the war is progressing, I think that Iran has many more advantages over the United States.
 
@@ -64,7 +64,7 @@ Right now we know that the entire American economy is propped up by AI investmen
 
 **Saagar:** That's a dire situation that the Americans are facing right now.
 
-### munitions-interceptor-math-and-multipolar-shift
+### Munitions — Interceptor Math and Multipolar Shift
 
 **Krystal/Saagar:** Yeah. To your point, sir, an Amazon data center was literally hit in the UAE and now of course big tech companies which were looking at the UAE as a major potential data center investment hub with cheap and abundant energy are probably going to be rethinking that.
 
@@ -78,7 +78,7 @@ The entire American military strategy revolves around very sophisticated technol
 
 What we're seeing is really the puncturing of the aura of invincibility and inevitability that sustained American hegemony for the past 20 years, especially after the collapse of the Soviet Union. This is really a reordering of not just the global economy — because this signals the collapse of the petrodollar and with it the entire US dollar-based reserve currency system — but also the global hegemony of the United States. We're moving towards a multipolar world.
 
-### ground-troops-hegseth-and-gcc-pressure
+### Ground Troops — Hegseth and GCC Pressure
 
 **Krystal/Saagar:** Professor, this morning Secretary of Defense Pete Hegseth was asked a question about potential ground troops in Iran. He refused to rule out that possibility and he said, you know, "We're not going to project to you what we will or will not do. We don't want to rule anything out. We will do what it takes."
 
@@ -92,7 +92,7 @@ Remember that if the GCC countries — Saudi Arabia, Qatar, UAE, Bahrain — if 
 
 I know that there's no political will for ground troops to be used against Iran among the American people, but remember that 78% of American people were against the initial strikes against Iran in the first place.
 
-### saudi-israel-push-and-washington-post-leak
+### Saudi–Israel Push and Washington Post Leak
 
 **Krystal/Saagar:** One of the things that really comes into question, I think, with all of this, sir, when we're looking at the geopolitical picture and the sacrificing much of this from the United States on behalf of Israel, is kind of a question as to who and what wanted this.
 
@@ -104,7 +104,7 @@ It's always had problems with Iran because Iran is a theocracy opposed to the Sa
 
 So they need to be able to control the oil resources of the entire Middle East if they are to survive and thrive as a nation. I do believe that this reporting is credible even though it does make Saudi Arabia look bad. But remember, Saudi Arabia says that they wanted peace, but they are helping the Israelis and Americans attack Iran right now because they're allowing the Israelis and Americans to use Saudi airspace.
 
-### why-trump-struck-hubris-calculus-eschatology
+### Why Trump Struck — Hubris, Calculus, and Eschatology
 
 **Krystal/Saagar:** Help us understand because it still feels to me like there are some pieces that don't totally add up. You had in advance of this war on Iran, you had top military brass up to the Chairman of the Joint Chiefs of Staff saying, "This is a really bad idea. We are not ready for this." All the math on the interceptors that's been talked about for months at this point. And yet Trump still decided to go ahead. What is the calculus that he was making here that led him to take what already appears to be catastrophic actions?
 

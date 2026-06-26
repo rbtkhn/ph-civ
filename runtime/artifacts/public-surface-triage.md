@@ -2,7 +2,7 @@
 # Public surface triage
 
 - **Chapters:** 205
-- **Generated:** 2026-06-25T23:54:57Z
+- **Generated:** 2026-06-26T00:11:09Z
 - **Machine SSOT:** [`data/public-surface-triage.json`](../../data/public-surface-triage.json)
 - **Regenerate:** `ph-civ surface-triage`
 

@@ -25,7 +25,9 @@ series: interviews
 
 ## Part I: Full transcript
 
-**Patrick Bet-David:** So, my guest today is Jiang Xueqin — and I did my best to pronounce the last name. I've been looking forward to this conversation with you for quite some time. The day the interview came out with you and I believe it was Osager and Crystal, which I thought was fascinating — how a man in July of 2024 can predict that Trump's going to win, then he's going to go to war against Iran, and then Iran's going to win, which was your prediction. And I said, I want to talk to him. So let's get the nasty stuff out of the way because I actually want to have a civil conversation with you. I'm actually very curious about why you think the way you think.
+### Show Open — Predictions and Hubris
+
+**Patrick Bet-David:** So, my guest today is Jiang Xueqin — and I did my best to pronounce the last name. I've been looking forward to this conversation with you for quite some time. The day the interview came out with you and I believe it was Saagar and Crystal, which I thought was fascinating — how a man in July of 2024 can predict that Trump's going to win, then he's going to go to war against Iran, and then Iran's going to win, which was your prediction. And I said, I want to talk to him. So let's get the nasty stuff out of the way because I actually want to have a civil conversation with you. I'm actually very curious about why you think the way you think.
 One thing at the beginning: when our team reached out to you to get on the podcast, I think on a podcast you said you thought it was going to be a hit piece interview. What gave you the impression I was going to do a hit piece on you?
 
 **Jiang Xueqin:** Well, it was just the timing. Because the day you got in touch, there was a coordinated smear campaign against me on Twitter — meaning that there were some influencers who were using the same talking points against me, just saying that I just make stuff up. And it seemed very similar. So I was very afraid. Also, at that time, I was under a lot of stress. So I didn't want to put myself in a situation where I would be asked hard questions and I didn't think I would be able to respond properly. And I watched your show. I'm a huge fan of yours, Patrick. So I know you're very good. You ask very good questions.
@@ -51,6 +53,9 @@ And so the big question was: would the United States go to war with Iran? If you
 
 **Patrick Bet-David:** Got it. That's fair. And by the way, there's a very good book written by Jim Collins called How the Mighty Fall. And it validates what you're saying. Number one is hubris born of success — we're great because we're great and we're untouchable. Number two, undisciplined pursuit of more. Number three is denial of risk and peril. Number four is grasping for salvation. And then number five is capitulation to irrelevance or death.
 I'm Assyrian. Trust me, we lost our empire many, many years ago and we were very, very powerful. We don't have a country right now. So you have to always stay a little bit paranoid about what could happen.
+
+### Trump Truth Social — Escalation and Scenarios
+
 Now, let me go to the tweet of what President Trump posted on Truth Social this morning. The world is reacting to it. A lot of people are not happy. A lot of people are curious. Some people are saying this is good. But I would say a lot of the people are probably on “this is crazy what's about to happen today.”
 JD Vance said something this morning that it's probably coming to an end — a whole civilization. President Trump said on Truth Social: “A whole civilization will die tonight. Never be brought back again. I don't want that to happen, but it probably will. However, now that we have complete and total regime change where different, smarter, and less radicalized minds prevail. Maybe something revolutionary wonderful can happen. Who knows? We will find out tonight. One of the most important moments in the long and complex history of the world. 47 years of extortion, corruption, and death will finally end. God bless the great people of Iran.”
 How do you interpret that tweet?
@@ -71,14 +76,14 @@ So my concern is that Trump has surrounded himself with advisors who feed his eg
 
 **Patrick Bet-David:** Got it. That's very important. That's very important for the audience to know that because I don't think you've revealed that — because your criticism is just what you think is going to happen. But you still would have chosen Trump over Biden or Kamala.
 Now here's the question that we're talking to others: what's the best case, worst case on what could happen here?
-The best case scenario is that the Americans and Iranians reach a compromise where they agree to share the Strait of Hormuz. So they'll be toll collected because the Iranians want reparations for all the damage that the Israelis and Americans caused this past month. But they agree to share with the Americans and they agree to collect the tolls in US dollars and all sanctions are lifted and peace comes to the Middle East. And there is a possibility — I'm not saying this is impossible — but it is a very low probability. And this would be the best case scenario.
+**Jiang Xueqin:** The best case scenario is that the Americans and Iranians reach a compromise where they agree to share the Strait of Hormuz. So they'll be toll collected because the Iranians want reparations for all the damage that the Israelis and Americans caused this past month. But they agree to share with the Americans and they agree to collect the tolls in US dollars and all sanctions are lifted and peace comes to the Middle East. And there is a possibility — I'm not saying this is impossible — but it is a very low probability. And this would be the best case scenario.
 
 **Patrick Bet-David:** Best case scenario. Give me the worst case scenario.
 
 **Jiang Xueqin:** The worst case scenario is that Trump follows through and bombs all of Iran's power plants. And the reason why this is the worst case scenario is that there are certain individuals who are now trying to protect the power plants with their bodies. So the Iranian government has called on the young people of Iran to make the ultimate sacrifice and make a human chain around all power plants in Iran.
 And so if the Americans go in, they blow up all the power plants and kill a lot of young people — well, in this case, the Iranians are obligated now to destroy the entire economy of the GCC. This would include all oil fields. This would include all the desalination plants. This would include all data centers. And this would be the absolute worst case scenario.
 
-**Patrick Bet-David:** What's your likelihood of that happening? Give a percentage. Like if you're going to do a cow sheet type of — I think that's a 1%, 2%. If you were a betting man, what would you say it is?
+**Patrick Bet-David:** What's your likelihood of that happening? Give a percentage. Like if you're going to do a odds-sheet type of — I think that's a 1%, 2%. If you were a betting man, what would you say it is?
 
 **Jiang Xueqin:** I would say best case scenario is 1%. I would say worst case scenario is 10%. And I would say a limited ground incursion would be about 40%.
 
@@ -97,7 +102,11 @@ Do you think he is fully aware of the risks of what could happen if he goes aggr
 So what he's done is he's basically elevated the hawkish elements of his administration and basically ostracized or put on the sidelines the more cautionary conservative elements of his administration, who include JD Vance and Tulsi Gabbard.
 So I believe that JD Vance has been very vocal in trying to negotiate a peace treaty as soon as possible and now he's in Hungary far away from the action. And there's rumors of Tulsi Gabbard being removed from the administration at some point.
 
-**Patrick Bet-David:** Yeah, Tulsi — I think there was another name as well. Tulsi and Howard Lutnick were the two names that were brought up yesterday that may be next on the chopping blocks that he may move on from.
+**Patrick Bet-David:**
+
+### IRGC, Off-Ramp, and Four-Power Diplomacy
+
+Yeah, Tulsi — I think there was another name as well. Tulsi and Howard Lutnick were the two names that were brought up yesterday that may be next on the chopping blocks that he may move on from.
 Going back to it, Iran, IRGC — your opinion on them. You hear the phrase, you know, they're the biggest producers of terrorism or there's many different phrases people use against them. How dangerous do you think Iran is, led by the current regime, to the world — especially to the Gulf States, the six GCC countries you're talking about? But how dangerous do you think they are to society if this regime stays in power?
 
 **Jiang Xueqin:** I think there are many factions within Iran that are very concerned that if this war continues, the Revolutionary Guards will be able to control all of Iranian society. Right now they can control about 50% of the economy, but if this war continues, they might control 100% of the Iranian economy. And this would be disastrous for other factions within Iran who want a progressive secular society.
@@ -122,7 +131,11 @@ So don't you think from a purely a power play standpoint, if you went this far a
 **Jiang Xueqin:** Well, I mean, the reality is that America is going to have a hard time holding on to its empire. And Trump has said this many times. Because America is the world reserve currency, because America is responsible for protecting the sea lanes, then America is basically screwed by the world — especially the Europeans who don't have to pay for their own defense and who can use their savings to fund their lavish welfare and pension system.
 So it's not in the best interest of America to maintain its empire. If you're an average American, you're paying way too much for this empire. So why not just retreat back into the Western Hemisphere? The Western Hemisphere is completely self-sufficient. It has Canada, Mexico. Hey, if I'm Trump, I'm like, you know what? Screw Iran. Screw Ukraine. I don't need these places. I'm going to take over Canada and Mexico because Mexico has a surplus of labor, cheap labor, and Canada has infinite resources.
 
-**Patrick Bet-David:** A lot of people agree with you on that. A lot of people agree with you. But here's the problem though, Jiang. The problem is we're in too deep right now. So this is a good conversation 45 days ago. I'm saying to you, we just killed the top 50 leaders. These are — they're not going — they're a martyr-type community. Like you know how you ever go against the company and they're very litigious and you want to play nice and they're like no, we're litigious. Sue, sue, sue, sue, sue. You have to fight fire with fire.
+**Patrick Bet-David:**
+
+### NATO, Globalists, and Post-War Iran Extremism
+
+A lot of people agree with you on that. A lot of people agree with you. But here's the problem though, Jiang. The problem is we're in too deep right now. So this is a good conversation 45 days ago. I'm saying to you, we just killed the top 50 leaders. These are — they're not going — they're a martyr-type community. Like you know how you ever go against the company and they're very litigious and you want to play nice and they're like no, we're litigious. Sue, sue, sue, sue, sue. You have to fight fire with fire.
 So I'm talking today. If you go in the room and say, “Okay, let's play nice with Iran.” They're like, “You're out of your flipping mind.” And if we say, “Hey, Iran says we want to play nice.” You're out of — and we know Russia and China are going to side with them. I don't know if that strategy works today.
 Do you think Trump has a ton of leverage over NATO right now? Do you think the leverage he has over NATO?
 
@@ -145,6 +158,9 @@ Okay. So that's interesting to see what happens there. But you do agree that the
 **Jiang Xueqin:** Given what's happened so far, and given that Trump seems intent on attacking Iran's critical civil infrastructure, I think this will only embolden and empower the most extreme religious elements in Iranian society because these are the ones who are willing to die for what they believe in.
 
 **Patrick Bet-David:** Yeah. I lived with them. I lived there for almost 11 years. So I witnessed what they're like and the level of radicalism that they have is a whole different story.
+
+### China — Population, Demographics, and Lie Flat
+
 Let me ask you a couple other questions about China since you're in Beijing right now. There's this data that's going around when China went to the one-child policy that maybe the population isn't as big as they claim it is. I'm sure you've seen this where the numbers are going around, oh you know we're at 1.4 billion. We're at 1.3 billion. And there's like, nah, not necessarily. You may be at 600-700 million. One lady said 400 million. Mathematically, it's impossible to be at 400 million. But some of the numbers could say 800-900 million. What is your guesstimation of what China's population is today?
 
 **Jiang Xueqin:** Look, I live in Beijing. I visited China. There are a lot of people in China. I mean, just ride the subway. It's packed every single day. Just walk the streets. They're packed all the time, you know. And I travel a lot. There are a lot of people in China. I can't tell you what the exact statistics are. There's probably some overcounting because local governments tend to lie because obviously the more people you say you have, the more government subsidies you can get.
@@ -175,6 +191,9 @@ And now people are extremely utilitarian. They're indifferent. They're apathetic
 **Jiang Xueqin:** A very common practice is for young people to go work as nurses or maids for their retired parents. Their parents collect a very nice pension. Chinese are very frugal. You know during COVID when everyone was locked in their apartments for four years, they ate rice and vegetables all those four years. So Chinese have a lot of money saved up. They have saved up about 40% of their income which is the highest in the world. So Chinese can just get by on like white rice for the next 40 years.
 
 **Patrick Bet-David:** Yeah. And the idea is they don't invest much in the stock market. They don't believe in the market but they do believe in the real estate side — even though the real estate has taken a bit of a hit. But you've always learned the discipline, the frugality part of folks from China.
+
+### Jack Ma, Jimmy Lai, and Bureaucrat Culture
+
 Let me ask another question in regards to the lie flat. I'm going more on the business side with Jack Ma. You know, in America, everybody knows Jack. They think about Jack. They think about his sit down with Elon Musk, the good exchange that they had where Elon kind of like, “You're out of your mind. AI is going to take over.” Jack's like, “No, it's not.” And then Jack made some comments. I'm sure you remember when he gave a — not that strong of a critical comment, but the CCP didn't like it and then all of a sudden Jack Ma disappeared. Here's a guy at the time I don't know what he was worth — $50 billion give or take. He's a very wealthy man. He disappeared. What is your impression of what happened to him? Because no one's talking about Jack Ma anymore.
 
 **Jiang Xueqin:** When President Xi came into power there was a real concern among Chinese economists that the economy was overheated — meaning to put it very bluntly there's too much corruption in the system, there was too much fraud, there was so much speculation. And so it was really about how to make a more productive economy. So there were too many Chinese people who were engaging in real estate speculation and that's what was causing the real estate bubble. And you can't really have that as an economy. You want people to actually work hard, start a business, and save their money and make proper investments. But everyone was just pouring the money into real estate scams.
@@ -212,7 +231,11 @@ And this is a guy that owned Apple Daily newspaper brand that played a big role 
 In America, I think you want to be an entrepreneur. You want to start your own business, such as yourself, and you want to make it and be independent. You want to be free of government control. And you want to be able to speak your mind.
 And in China, as I mentioned, you want to be a bureaucrat.
 
-**Patrick Bet-David:** What do you like about each country? Because you chose to go back to China. And if I'm not mistaken, what happened with the PBS documentary that you tried to do that they kicked you out and then eventually they let you come back in in '03. I don't know what the timeline is there, you know, because you have a choice to be in Canada, US or China, but you chose China.
+**Patrick Bet-David:**
+
+### Biography — Yale, PBS Arrest, and Why China
+
+What do you like about each country? Because you chose to go back to China. And if I'm not mistaken, what happened with the PBS documentary that you tried to do that they kicked you out and then eventually they let you come back in in '03. I don't know what the timeline is there, you know, because you have a choice to be in Canada, US or China, but you chose China.
 So maybe walk through what happened when they kicked you out and then why you chose to go back to China.
 
 **Jiang Xueqin:** I came to China to teach English and eventually I became interested in journalism and I was hired to do freelance journalism. I got a contract from PBS to do a documentary on China's WTO entry and this required filming a worker protest. And there were quite a few worker protests during this time because there was a restructuring of state-owned enterprises. And while I was filming a worker protest I was arrested by plainclothes policemen. I was put into a car and then I was sent to a hotel for 48 hours where they interrogated me. I didn't get much sleep. I ultimately signed a confession that I was working in China illegally as a journalist. So to work in China as a journalist, you need a journalist visa and I didn't have a journalist visa. And so they deported me but they didn't charge me. So I could at any time return to China.
@@ -237,7 +260,11 @@ And so my main priority is to maintain my independence, my freedom, because I op
 
 **Jiang Xueqin:** I work at a school. I'm employed by the school. They have legal responsibility for me. And there was one time when I wrote a Substack essay that mentioned China and I was given a call by the school leadership and told to pull it down. I'm not at liberty to tell you what the content was but I will tell you that I'm being monitored very heavily.
 
-**Patrick Bet-David:** I can only imagine that. Do you feel safe for yourself in China long term?
+**Patrick Bet-David:** I can only imagine that.
+
+### Gray Zone, Monitoring, and Iran Youth Dreams
+
+Do you feel safe for yourself in China long term?
 
 **Jiang Xueqin:** I do not plan on staying in China long term. Because right now China is very interested in soft power and right now I have a lot of soft power. I have a lot of influence overseas and so they want to co-opt me. They want to compromise me and turn me into a weapon that they can use to promote their agenda overseas. And I don't want to do that.
 The longer you stay, the more people are going to think that you are somebody that's representing the CCP, that you're working with the government. Just so because I know the criticism — the moment you went viral I'm like okay let's see what happens the next two weeks because they're going to come for his throat. It happens every single time and then we all move on with the filtering process. You're not really a professor. Are you a spy? Are you tied to the government? Are you tied to this? If all of a sudden you leave and you go to Singapore or Dubai or a different place or maybe not even Dubai, but a couple places that you can go to speak, then that means you truly are a citizen of the world — that your concern is here's what I think about, here's what I want to talk about. Do whatever you want with this information.
@@ -247,7 +274,11 @@ Another question for you. I love what you said. In Canada, everybody wants to be
 **Jiang Xueqin:** I've never been to Iran. It depends where you are in Iran — the cities are very different from the rural areas. But I think that given what's been happening in this war, I think there are a lot of young children who fantasize and they grow up and they want to fight the Americans.
 So I feel as though this war — given the fact on the first day the Americans struck a school in southern Iran that killed 168 schoolgirls and they killed an 86-year-old man with prostate cancer — I feel as though there are a lot of young people who want to go to war with America right now.
 
-**Patrick Bet-David:** Yeah. And I agree with where — I'm gonna be a hero one day and you'll see even in some videos with mothers celebrating that their sons gave their lives. It's like my son's a hero. He did the right thing. It's a very different way of thinking about what happens there. Very different way of thinking about — let's talk about COVID. COVID is the time when I started talking about politics. Up until COVID I had no desire to talk politics. All I did was business and I would do my whiteboards.
+**Patrick Bet-David:** Yeah. And I agree with where — I'm gonna be a hero one day and you'll see even in some videos with mothers celebrating that their sons gave their lives. It's like my son's a hero. He did the right thing. It's a very different way of thinking about what happens there. Very different way of thinking about —
+
+### COVID Narrative, Free Speech, and Surveillance State
+
+let's talk about COVID. COVID is the time when I started talking about politics. Up until COVID I had no desire to talk politics. All I did was business and I would do my whiteboards.
 During COVID, you know, story comes out. It came out from the Wuhan lab. No, it came from the wet market. No, China had nothing to do with it. Yes, China had to do it. Nancy Pelosi goes to Chinatown. Stop being so racist. Trump's like, what are you talking about? It came from China.
 What does China say about COVID with their position? Because when the state media is telling their stories and I'm living in Iran and they're saying, “Let me tell you, US is the devil and US is this and death upon America and all this other stuff.” And you know, China is a pretty controlled environment kind of like what you talked about earlier. How does China state media control the narrative of what really happened with COVID?
 
@@ -284,6 +315,9 @@ But why would China do something like that? Why would they want somebody like me
 **Jiang Xueqin:** The Chinese approach to soft power is co-opting elites. In China, the elites have all the power, the people have no power, and they assume that's just how power works. That's just how the world works. So if I'm going to spend money on soft power, that basically means I bribe influential media elites such as yourself, such as Tom Friedman. Tom Friedman has visited China quite a lot and he said very nice things about China and quite honestly, this works. Because if you come over to China, they treat you very well. It's great food. The people are very friendly. They show you the best aspects of China and you leave with a very good feeling in your heart. So Chinese are very good at co-opting individuals and they only focus on individuals who have tremendous influence in the world such as yourself.
 
 **Patrick Bet-David:** It's a brilliant strategy if you're able to succeed with it and people can come back and being complimentary about it. You know that's what you want especially in an enemy state.
+
+### Soft Power, Muslims, Red Lines, and Closing
+
 Last question here with Muslims and what is the position that Xi Jinping or the Chinese government has towards Muslims, the religion of Islam? Of course, on the outside, they have a lot of relationships with a lot of people. But on the inside, we read about the Uyghurs. We read about the treatment of what's happened to Muslims. We read about how some stories of what they think that religion is all about. What is the sect of Muslims in China and what is the relationship with Islam and the Chinese government?
 
 **Jiang Xueqin:** There were some prominent terrorist attacks where Muslim Uyghurs launched knife attacks in train stations killing dozens of Chinese. And a lot of these Uyghurs came back from wars in the Middle East. So these were radicalized people and there was real fear among the Chinese government that radicalization had penetrated Muslim society. So there was a massive crackdown across Muslim society.

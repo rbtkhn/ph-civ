@@ -67,3 +67,28 @@ python -m civ_ph.cli validate
 - Rewrites frontmatter: `transcript_source: operator_paste`, `transcript_curation: curated_sectioned`, `transcript_fidelity: exact_body_match`.
 
 **Staging (optional):** operator paste can land in `data/interviews/_land_doac/body.txt` before manual or scripted merge into the packet transcript. Keep staging **UTF-8** only — files under `data/` are scanned by `ph-civ validate`; UTF-16 artifacts will fail the public-boundary read pass.
+
+## Interview section headings (Title Case)
+
+Curated interview transcripts use **`### Title Case — …`** section headings, not lowercase slug headers (`### iran-attrition-and-global-stakes`).
+
+| Interview | Patch script |
+| --- | --- |
+| [`interview-2026-05-07-diary-of-a-ceo`](interview-2026-05-07-diary-of-a-ceo/) | `python scripts/patch_doac_sections_asr.py` |
+| [`interview-2026-03-20-tucker-carlson`](interview-2026-03-20-tucker-carlson/) | `python scripts/patch_tucker_sections_asr.py` |
+| [`interview-2026-03-02-breaking-points`](interview-2026-03-02-breaking-points/) | `python scripts/patch_breaking_points_sections_asr.py` |
+| [`interview-2026-04-07-patrick-bet-david`](interview-2026-04-07-patrick-bet-david/) | `python scripts/patch_pbd_sections_asr.py` |
+| [`interview-2026-04-13-glenn-diesen`](interview-2026-04-13-glenn-diesen/) | `python scripts/patch_glenn_diesen_april_sections_asr.py` |
+| [`interview-2026-04-13-sneako-dugin`](interview-2026-04-13-sneako-dugin/) | `python scripts/patch_sneako_dugin_sections_asr.py` |
+| [`interview-2026-04-01-jay-shapiro`](interview-2026-04-01-jay-shapiro/) | `python scripts/patch_jay_shapiro_sections_asr.py` |
+
+After any patch: `python -m civ_ph.cli index --force` and `python -m civ_ph.cli validate`.
+
+### Section audit (2026-06-25)
+
+| Status | Interviews |
+| --- | --- |
+| **Curated Title Case sections** | #7 Breaking Points, #10 Endgame, #11 Tucker, #12 Jay Shapiro, #13 PBD, #14 Glenn Diesen (Apr), #15 Sneako–Dugin, #16 DOAC |
+| **No `###` sections** (flat speaker-labeled transcript) | #1–#6, #8–#9 (9 packets) |
+
+No lowercase slug headers (`### iran-attrition-…`) remain. The 10 flat transcripts were never sectioned in the PH-TRANSCRIPT-EDIT pass; adding sections there is a separate curation task, not a title-case rename.

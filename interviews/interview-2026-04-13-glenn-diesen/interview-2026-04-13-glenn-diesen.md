@@ -25,11 +25,13 @@ series: interviews
 
 ## Part I: Full transcript
 
+### Show Open — Petrodollar and Piracy
+
 **Glenn Diesen:** Welcome back. We are joined today by Jiang Xueqin to discuss the developments between the United States and Iran. Thank you very much for coming back on.
 
 **Jiang Xueqin:** Thanks.
 
-**Glenn Diesen:** The first thing I think about in regards to this war is that the Iranian targets all seem to be very well calculated in terms of economics. Usually in American wars there is some economic interest, but now we see them not just shutting down the Strait of Hormuz, but also forcing the Americans to spend their expensive interceptive missiles. All of this seems to have an economic underpinning, but the really big thing appears to be the possible attack now on the petrodollar.
+**Glenn Diesen:** The first thing I think about in regards to this war is that the Iranian targets all seem to be very well calculated in terms of economics. Usually in American wars there is some economic interest, but now we see them not just shutting down the Strait of Hormuz, but also forcing the Americans to spend their expensive interceptor missiles. All of this seems to have an economic underpinning, but the really big thing appears to be the possible attack now on the petrodollar.
 
 I was wondering, how do you see the vulnerability of the petrodollar in this war?
 
@@ -46,6 +48,8 @@ We saw that the United States in January attacked Venezuela and now it has attac
 And so that’s a strategy in place where the United States basically wants to take Russian and Iranian oil off the market and force the world to buy from the United States, which protects the petrodollar.
 
 But what we know from history is that this sort of hubris will lead to a backlash and it will lead to the world unifying against America eventually, because quite honestly America used to be the policeman of the world and has now become the pirate of the world. So maybe in the short term you will see the strategy working out, but definitely in the long term you will see the world becoming much more aggravated by this piracy.
+
+### War Escalation and Islamabad Talks
 
 **Glenn Diesen:** So what do they need to achieve then in this war? Because I was wondering if you were surprised that the Americans appear to have walked away from the negotiations, at least that’s what it seemed like in Islamabad. Is this to continue the war then, or is it simply because they can’t — the petrodollar won’t survive if the Strait of Hormuz is with the Iranians? What is the thinking here?
 
@@ -69,7 +73,9 @@ And so now we’re back to where we were a week ago.
 
 So the big question then is why would the Americans do this? What’s the point of this ceasefire? And so we can only speculate here.
 
-**Glenn Diesen:** Let me try to figure out how Donald Trump thinks because he’s a businessman. And what does he want? Well, his main objective is to maintain American imperial supremacy by maintaining the petrodollar. And that basically means forcing China and Japan and South Korea and Europe to buy energy using the US dollar. That’s what the petrodollar literally means.
+### Trump Business Logic and China Leverage
+
+**Jiang Xueqin:** Let me try to figure out how Donald Trump thinks because he’s a businessman. And what does he want? Well, his main objective is to maintain American imperial supremacy by maintaining the petrodollar. And that basically means forcing China and Japan and South Korea and Europe to buy energy using the US dollar. That’s what the petrodollar literally means.
 
 And so maybe the point of this war was to destroy the GCC and Iran’s capacity to deliver oil to the world market and force the world to rely on North America — Canada, Mexico, and the United States.
 
@@ -96,6 +102,8 @@ So Trump’s trying to figure out: when I go to China in mid-May, can I propose 
 And this is why we saw, right after the negotiations were cancelled, Trump announced a naval blockade against Iran — because he knows that right now China is under a lot of strain and he can bring China into an agreement and thus protect the petrodollar.
 
 So that’s my explanation for what’s going on. I could be wrong. It’s all speculation, but I think this is what makes the most sense so far.
+
+### Naval Blockade — Malacca and Countermeasures
 
 **Glenn Diesen:** The naval blockade. This is a strange conception because it’s unclear how it’s going to be upheld because they’re not naturally in the Strait either. They will be far away. So it’s essentially the blockade — would it entail attacking Chinese ships entering? I mean it seems absurd. What if the Iranians open up for Indian ships? Are they going to start attacking Indian ships? It doesn’t really make that much sense.
 
@@ -124,6 +132,8 @@ Remember, the ultimate objective is to knock Middle East oil and energy off the 
 Now, I think the next step is a ground invasion in order to force Iranians to attack GCC energy and desalination plants. Right? So the entire goal is to destroy the Middle East, which will force the world to pivot to North America.
 
 So in the short term this strategy will work out because there’s absolutely no alternative for the world to Middle East energy, but in the long term this will create a great deal of animosity towards the United States, which will ultimately destroy their empire.
+
+### Deep State, Prodi, and Military as Pirate Force
 
 **Glenn Diesen:** Romano Prodi, the former prime minister of Italy and also former president of the European Commission, he said something interesting along those lines. He was making the point that at some point the Europeans will have to start getting energy again from the Russians if they want to thrive. But he also made a prediction that the energy would open once the Americans would begin to control the energy infrastructure between Russia and Europe. So essentially the Americans taking over Nord Stream. This is when the energy will start flowing again.
 
@@ -157,7 +167,9 @@ So Trump’s like, “Well, you know what? If you won’t let me enforce tariffs
 
 And that’s why we’re seeing the Americans deploy one of their navies into the Caribbean to block trade into the Western Hemisphere. That’s why we’re seeing this war in Iran to block off the world from Middle East energy. And that’s why we’re seeing right now the US Navy basically boarding Russian shadow fleet tankers, basically stealing shadow fleet tankers, and we’ll see more of this as the months go by.
 
-**Glenn Diesen:** What’s interesting with Trump though, there’s some consistency here. I mean, many people I guess mistook his rhetoric for being all about peace. But if you listen to what he said all the way going back to the 1980s, he was essentially scolding all the Japanese and others for taking advantage of the US the way he saw it. So he didn’t say that we shouldn’t have a big empire. He just said the empire — they should pay us for the privilege of being protected.
+### Empire Extractivism and Great Power Response
+
+What’s interesting with Trump though, there’s some consistency here. I mean, many people I guess mistook his rhetoric for being all about peace. But if you listen to what he said all the way going back to the 1980s, he was essentially scolding all the Japanese and others for taking advantage of the US the way he saw it. So he didn’t say that we shouldn’t have a big empire. He just said the empire — they should pay us for the privilege of being protected.
 
 So it’s not that he didn’t want an empire. It seemed he just wanted a better return on investment. That is, you have to monetize the empire somehow, otherwise the empire will kill off the republic. So in other words it should feed it. It looks as if this is where his main difference is. But that means not just extracting from adversaries but also allies.
 
@@ -168,6 +180,8 @@ But I don’t think it’s limited to Trump. I think overall the United States w
 But after Trump left office, Biden came in with the Democrats and they institutionalized his policies. Okay? So then the first Trump administration, a lot of it was personal, especially his tariff war against China, and then Biden and the Democrats made it institutional.
 
 And so we can see the same process here where maybe Trump leaves office in 2028, the Republicans lose, the Democrats come into office and they won’t change anything. All they’re going to do is institutionalize it and make it a long-term sustainable policy because this is what benefits the American empire.
+
+### Perpetual War, BRI, and Ground Troops
 
 **Glenn Diesen:** So how will the great powers respond then? Because the US obviously shifting strategy. It’s becoming more extractive and more aggressive. Again, it’s not going down without a fight. How do you see the Chinese and the Russians reacting to this? You mentioned before the China’s gold corridor in terms of shifting more to gold instead of being reliant on the US dollar, but what is the overall strategy here? Because my impression is at least from the Russians that the interpretation that Trump was someone they could make peace with and reset relations appears to be backsliding. I think they were quite appalled by what has happened to Iran, not just the attack on economic infrastructure but also the killing of its leaders, and it seems very much to go against their interest. And also Trump never actually did what he promised, which was to end the war in Ukraine. In all fairness this could have been done if he would have cut off the intelligence agencies still working there.
 
@@ -184,6 +198,8 @@ And again this is all has to do with the limitations of Chinese strategic thinki
 In the mid and long term what’s going to happen is that Russia will start to challenge America in the seas. It’s going to challenge American maritime naval supremacy. Basically what Russia is going to do is it’s going to arm its shadow fleet. And there’s no way that Russia could defeat America militarily in the seas. But America will be forced to fight a war of attrition. And over time the American Navy will be downgraded. It will be degraded and it’ll be very hard for the American Navy to replenish its lost ships.
 
 And so that’s what we’re seeing in the long term. But in the short term there’s actually nothing Russia and China can do.
+
+### Tehran Siege and NATO Shadow War
 
 **Glenn Diesen:** I often think about the current situation. It resembles a little bit like before World War I. That is, you saw Germany building and becoming stronger and stronger in terms of industrial production, steel production, essentially all the key measurements. Meanwhile the British control the seas. Their entire ability to actually compete against the British was in the hands of the British. So all they had to do is begin to cut off or threaten their supply lines, which is why the Germans also had to find other possible corridors either land or sea.
 
@@ -203,7 +219,7 @@ And so this war in Iran cannot stop. If it stops then Russia could achieve its N
 
 And so there’s no way that America will cede Iran and leave Iran alone. It’s going to send in ground troops to create as much chaos as possible and try to disrupt the Belt and Road Initiative.
 
-So what we’re seeing is that the Israelis and Americans are targeting railways in Iran which is crucial to the Belt and Road Initiative. And so we can expect more than the law of Belt and Road infrastructure for years and years.
+So what we’re seeing is that the Israelis and Americans are targeting railways in Iran which is crucial to the Belt and Road Initiative. And so we can expect more bombing of Belt and Road infrastructure for years and years.
 
 **Glenn Diesen:** Yeah, I couldn’t help but to notice the targeting of the railroads as well as some ports in the Caspian. So this entire International North-South Transportation Corridor from Russia, Iran to India, this is being undermined, but also of course Iran’s connectivity with China.
 
