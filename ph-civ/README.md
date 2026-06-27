@@ -1,10 +1,19 @@
-# ph-civ
+# ph-civ (deprecated reader surface)
 
-ph-civ is the public namespace for Volume I / Predictive History: Civilization.
+**Redirect:** The **ph-civ** namespace is a **legacy Volume I identity surface** — deprecated for new reader onboarding.
 
-Its canonical chapter homes now stage through [book/volume-i-civilization/](../book/volume-i-civilization/README.md). This namespace remains the Volume I identity surface for routes, cards, prompts, and discovery.
+| Use instead | Path |
+| --- | --- |
+| Full catalog hub | [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) |
+| Lecture slice (147) | [`lectures/predictive-history-lecture-index.md`](../lectures/predictive-history-lecture-index.md) |
+| Deprecation archive | [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](../docs/archive/two-volume-ph-civ-apo-deprecated.md) |
+| START-HERE | [`START-HERE.md`](../START-HERE.md) |
 
-Direct namespace lanes (under [`ph-civ/`](ph-civ/README.md)):
+Card `part`, route `surface`, and the **`ph-civ` CLI** name remain unchanged for compatibility.
+
+Historical chapter homes: [`book/volume-i-civilization/`](../book/volume-i-civilization/README.md).
+
+Legacy namespace lanes under `ph-civ/`:
 
 - [chapters/](ph-civ/chapters/README.md) — chapter doorways (legacy links)
 - [lectures/](ph-civ/lectures/README.md) — lecture packets
@@ -12,4 +21,4 @@ Direct namespace lanes (under [`ph-civ/`](ph-civ/README.md)):
 
 Repo-root medium lanes:
 
-- [essays/](../essays/README.md) — Substack / long-form essays (recategorized; canonical target for `sub-*` and future essay intake)
+- [essays/](../essays/README.md) — Substack / long-form essays

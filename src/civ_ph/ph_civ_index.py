@@ -13,7 +13,25 @@ from .data import PACKAGE_ROOT, load_cards
 INDEX_MD_REL = "docs/predictive-history-index.md"
 INDEX_JSON_REL = "docs/predictive-history-index.json"
 FINGERPRINT_MARKER = "<!-- predictive-history-index-fingerprint:"
-SCHEMA_VERSION = 3
+SCHEMA_VERSION = 4
+PRIMARY_ARTIFACT = "namespace_catalog"
+
+NAMESPACE_SLICE_PATHS = {
+    "lectures": {
+        "markdown": "lectures/predictive-history-lecture-index.md",
+        "json": "lectures/predictive-history-lecture-index.json",
+    },
+    "essays": {
+        "markdown": "essays/predictive-history-essay-index.md",
+        "json": "essays/predictive-history-essay-index.json",
+    },
+    "interviews": {
+        "markdown": "interviews/predictive-history-interview-index.md",
+        "json": "interviews/predictive-history-interview-index.json",
+    },
+}
+
+TWO_VOLUME_DEPRECATED_DOC = "docs/archive/two-volume-ph-civ-apo-deprecated.md"
 
 LEGACY_CHAPTER_INDEX_PATHS = (
     "docs/ph-civ-index.md",
@@ -280,11 +298,20 @@ def sort_essays_for_table(cards: list[dict]) -> list[dict]:
     return sorted(cards, key=lambda row: (row.get("publication_date", ""), row["source_id"]))
 
 
-def render_index_payload(cards: list[dict], repo_root: Path) -> dict:
-    chapters = [
-        chapter_entry(card, repo_root)
-        for card in sorted(cards, key=lambda row: row["source_id"])
-    ]
+def build_by_series(chapters: list[dict]) -> dict[str, dict]:
+    by_series: dict[str, dict] = {}
+    for entry in chapters:
+        series = entry["series"]
+        bucket = by_series.setdefault(
+            series,
+            {"chapter_count": 0, "transcript_word_total": 0},
+        )
+        bucket["chapter_count"] += 1
+        bucket["transcript_word_total"] += entry.get("transcript_word_count", 0)
+    return dict(sorted(by_series.items()))
+
+
+def build_by_surface(chapters: list[dict]) -> dict[str, dict]:
     by_surface: dict[str, dict] = {}
     for part in PART_ORDER:
         surface, volume_label = PART_META[part]
@@ -301,24 +328,61 @@ def render_index_payload(cards: list[dict], repo_root: Path) -> dict:
                 entry.get("transcript_word_count", 0) for entry in surface_chapters
             ),
         }
+    return by_surface
+
+
+def namespace_slice_counts(cards: list[dict]) -> dict[str, int]:
+    return {
+        scope: len(filter_cards_for_scope(scope, cards))
+        for scope in NAMESPACE_SCOPES
+    }
+
+
+def render_index_payload(cards: list[dict], repo_root: Path) -> dict:
+    chapters = [
+        chapter_entry(card, repo_root)
+        for card in sorted(cards, key=lambda row: row["source_id"])
+    ]
+    by_surface = build_by_surface(chapters)
+    by_series = build_by_series(chapters)
+    slice_counts = namespace_slice_counts(cards)
 
     fingerprint = index_payload_fingerprint(chapters)
     transcript_word_total = sum(entry.get("transcript_word_count", 0) for entry in chapters)
     return {
         "schema_version": SCHEMA_VERSION,
+        "primary_artifact": PRIMARY_ARTIFACT,
         "fingerprint": fingerprint,
         "card_count": len(cards),
         "transcript_word_total": transcript_word_total,
         "ssot": "data/cards.jsonl",
         "markdown_index": INDEX_MD_REL,
-        "surfaces": {
-            PART_META[part][0]: {"part": part, "label": PART_META[part][1]}
-            for part in PART_ORDER
+        "catalog_hub": {
+            "markdown": INDEX_MD_REL,
+            "json": INDEX_JSON_REL,
         },
-        "series_order": {
-            part: [{"series": series, "label": label} for series, label in sections]
-            for part, sections in PART_SECTIONS.items()
+        "namespace_slices": {
+            scope: {
+                **NAMESPACE_SLICE_PATHS[scope],
+                "card_count": slice_counts[scope],
+            }
+            for scope in NAMESPACE_SLICE_PATHS
         },
+        "deprecated": {
+            "two_volume": {
+                "primary_artifact": "two_volume_ph_civ",
+                "archive_doc": TWO_VOLUME_DEPRECATED_DOC,
+                "surfaces": {
+                    PART_META[part][0]: {"part": part, "label": PART_META[part][1]}
+                    for part in PART_ORDER
+                },
+                "series_order": {
+                    part: [{"series": series, "label": label} for series, label in sections]
+                    for part, sections in PART_SECTIONS.items()
+                },
+            }
+        },
+        "by_series": by_series,
         "by_surface": by_surface,
         "chapters": chapters,
     }
@@ -458,11 +522,13 @@ def render_hub_slice_section(cards: list[dict]) -> list[str]:
 
 
 def render_index_body(cards: list[dict], repo_root: Path) -> str:
-    by_part: dict[str, dict[str, list[dict]]] = {part: {} for part in PART_ORDER}
-    for card in cards:
-        part = card["part"]
-        series = card["series"]
-        by_part.setdefault(part, {}).setdefault(series, []).append(card)
+    lecture_cards = filter_cards_for_scope("lectures", cards)
+    by_lecture_series: dict[str, list[dict]] = {}
+    for card in lecture_cards:
+        by_lecture_series.setdefault(card["series"], []).append(card)
+
+    essay_count = len(filter_cards_for_scope("essays", cards))
+    interview_count = len(filter_cards_for_scope("interviews", cards))
 
     lines = [
         "# Predictive History Chapter Index",
@@ -470,6 +536,7 @@ def render_index_body(cards: list[dict], repo_root: Path) -> str:
         "Canonical catalog of every public Predictive History chapter in this repository "
         "(lectures, Substack essays, and provenance interviews).",
         "",
+        f"- **Primary artifact:** `{PRIMARY_ARTIFACT}` (namespace hub + slice indexes)",
         f"- **Card count:** {len(cards)}",
         f"- **Transcript words (total):** {sum(transcript_word_count(card, repo_root) for card in cards):,}",
         (
@@ -478,42 +545,58 @@ def render_index_body(cards: list[dict], repo_root: Path) -> str:
         ),
         "- **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py` · auto-sync during `ph-civ validate` and publish",
         "",
-        "Surfaces:",
-        "",
-        "- **ph-civ** — Volume I / Civilization (`part: civilization`)",
-        "- **ph-apo** — Volume II / Apocalypse (`part: world-war`)",
-        "- **provenance** — source-family residue (`part: provenance`)",
-        "",
-        "Bridge support nodes (`sh-11`, `sh-16`, `sh-17`, `sh-18`) appear in Volume I membership but carry cross-volume routing; check each card's `part` and folder.",
-        "",
-        "YouTube and Substack source URLs appear in the **Video** column below and in "
+        "YouTube and Substack source URLs appear in catalog tables and in "
         "[`predictive-history-index.json`](predictive-history-index.json) (`source_video_url`). "
         "**Words** counts transcript body text only (YAML frontmatter excluded).",
         "",
     ]
     lines.extend(render_hub_slice_section(cards))
+    lines.extend(
+        [
+            "## Deprecated reader frame",
+            "",
+            "The **two-volume ph-civ / ph-apo** model (Volume I Civilization / Volume II Apocalypse) "
+            "is deprecated for onboarding. Legacy `part` and route `surface` metadata remain on cards for compatibility. "
+            f"See [`two-volume deprecation archive`](archive/two-volume-ph-civ-apo-deprecated.md).",
+            "",
+            "Bridge support nodes (`sh-11`, `sh-16`, `sh-17`, `sh-18`) still carry cross-part routing in routes and cards.",
+            "",
+        ]
+    )
 
-    for part in PART_ORDER:
-        surface, heading = PART_META[part]
-        part_cards = [c for c in cards if c["part"] == part]
+    for series_key, series_label in LECTURE_SECTIONS:
+        series_cards = by_lecture_series.get(series_key, [])
+        if not series_cards:
+            continue
         lines.extend(
             [
-                f"## {heading}",
+                f"## {series_label}",
                 "",
-                f"**Surface:** `{surface}` · **Chapters:** {len(part_cards)}",
+                f"**Series:** `{series_key}` · **Chapters:** {len(series_cards)}",
                 "",
             ]
         )
-        if part == "provenance":
-            lines.extend([PROVENANCE_INTRO, ""])
-        for series_key, series_label in PART_SECTIONS[part]:
-            series_cards = by_part.get(part, {}).get(series_key, [])
-            if not series_cards:
-                continue
-            lines.append(f"### {series_label}")
-            lines.append("")
-            lines.extend(render_table(series_cards, repo_root, part=part))
-            lines.append("")
+        lines.extend(render_table(series_cards, repo_root, link_prefix="../"))
+        lines.append("")
+
+    lines.extend(
+        [
+            "## Essays",
+            "",
+            f"**Substack essays:** {essay_count} — full catalog: "
+            f"[`essays/predictive-history-essay-index.md`](../essays/predictive-history-essay-index.md) · "
+            f"[json](../essays/predictive-history-essay-index.json)",
+            "",
+            "## Interviews / provenance",
+            "",
+            f"**Interview provenance:** {interview_count} — full catalog: "
+            f"[`interviews/predictive-history-interview-index.md`](../interviews/predictive-history-interview-index.md) · "
+            f"[json](../interviews/predictive-history-interview-index.json)",
+            "",
+            PROVENANCE_INTRO,
+            "",
+        ]
+    )
 
     lines.append("## Full alphabetical index")
     lines.append("")

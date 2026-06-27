@@ -87,11 +87,15 @@ def load_llm_experience() -> dict:
 
 def load_course_architecture() -> dict:
     data = load_surfaces()
+    deprecated = data.get("deprecated", {}).get("two_volume", {})
     return {
         "repo_identity": data["repo_identity"],
         "primary_artifact": data["primary_artifact"],
-        "volumes": data["volumes"],
+        "catalog_hub": data.get("catalog_hub", {}),
+        "namespace_slices": data.get("namespace_slices", {}),
+        "volumes": deprecated.get("volumes", data.get("volumes", {})),
         "bridge_support_nodes": data["bridge_support_nodes"],
+        "deprecated_two_volume": deprecated,
     }
 
 

@@ -1,18 +1,20 @@
 # First Tour
 
+> **Deprecated framing note:** Two-volume ph-civ/ph-apo onboarding is deprecated. This tour’s **route content is unchanged**; see [`archive/two-volume-ph-civ-apo-deprecated.md`](archive/two-volume-ph-civ-apo-deprecated.md). Primary catalog: [`predictive-history-index.md`](predictive-history-index.md).
+
 Use this when a reader chooses `continue the first tour` after pasting `https://github.com/rbtkhn/predictive-history` into an LLM chat.
 
-The first tour is not a repository review. It is the default guided entry into the two-volume ph-civ artifact.
+The first tour is not a repository review. It is the default guided entry into the Predictive History **namespace catalog hub** via the 10-route literary spine seed.
 
 ## Reader Promise
 
-In ten stops, the reader sees Volume I discover historical laws through civilizational memory and Volume II expose those laws under modern pressure.
+In ten stops, the reader sees civilizational memory and literary grammar on the spine, then application routes under modern pressure.
 
 ## Opening Move
 
 Begin at `civ-07`.
 
-Explain it as the Homeric memory system: heroic action becomes a grammar of honor, violence, inherited imagination, and civilizational memory. Keep the guardrail visible: Homer-to-Tolstoy is the Volume I literary spine, not a claim that literature alone drives history.
+Explain it as the Homeric memory system: heroic action becomes a grammar of honor, violence, inherited imagination, and civilizational memory. Keep the guardrail visible: Homer-to-Tolstoy is the literary spine route, not a claim that literature alone drives history.
 
 Before making chapter-specific claims, return to:
 
@@ -23,7 +25,7 @@ Before making chapter-specific claims, return to:
 
 ## Tour Phases
 
-### Volume I Literary Spine
+### Literary Spine
 
 Stops: `civ-07`, `civ-17`, `civ-29`, `civ-51`
 
@@ -35,7 +37,7 @@ Stops: `gb-02`, `gb-09`
 
 This phase returns to Homer and Dante as reading engines so the spine is not only a survey path.
 
-### Volume II Application Exposure
+### Application Exposure
 
 Stops: `geo-14`, `gt-16`, `sh-16`, `sh-28`
 
@@ -68,7 +70,7 @@ How to read it:
 Start with the card, then return to the transcript and commentary before making chapter-specific claims.
 
 Guardrail:
-Homer-to-Tolstoy is the Volume I literary spine, not a claim that literature alone drives history.
+Homer-to-Tolstoy is the literary spine route, not a claim that literature alone drives history.
 
 Next choices:
 A. Continue to civ-17.
@@ -82,4 +84,4 @@ D. Switch modes.
 - `sh-16` is a Tolstoy endpoint via an Anna Karenina coda, not a dedicated Tolstoy lecture.
 - Application routes are public orientation only, not live operational analysis.
 - Commentaries are open project canvases, not final scholarly review.
-- Chapter folders are the study surface across both volumes; two-volume public artifact.
+- Chapter folders are the study surface; namespace catalog hub.

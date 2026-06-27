@@ -1,5 +1,7 @@
 # Two Volumes, One Reader Map
 
+> **Deprecated for onboarding** — The primary public reader model is now the **namespace catalog hub** ([`docs/predictive-history-index.md`](predictive-history-index.md) + lecture / essay / interview slice indexes). See [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](archive/two-volume-ph-civ-apo-deprecated.md). This document is retained for historical context.
+
 Predictive History was not originally organized for public readers as one
 two-volume artifact.
 

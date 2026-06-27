@@ -4,11 +4,19 @@
 
 For AI agents and new chats: start with `START-HERE.md`, then `AGENTS.md` and `llms.txt`. If a user pastes `https://github.com/rbtkhn/predictive-history` into an LLM chat, use `START-HERE.md`, `data/llm-experience.json`, and `llms-full.txt` as the unfolding map and one-shot context packet. Do not stop at a generic repository summary or "what would you like to do next?" response; begin the `first_tour` through the 10-route spine seed unless the reader chooses another mode. If a user pastes a direct chapter-folder URL, treat that folder as `study` mode: open its `README.md`, transcript, commentary canvas, and public card. This repo is the public Predictive History distribution layer, not the private editorial workshop.
 
-This repository is the public-facing home for the two-volume ph-civ artifact. It contains two related Predictive History surfaces:
+## Primary reader model: namespace catalog hub
 
-- `ph-civ`: **Volume I / Predictive History: Civilization** - discovers the laws of history.
-- `ph-apo`: **Volume II / Predictive History: Apocalypse** - applies the laws of history.
-The repo name `ph-civ` names the public repository and the Volume I surface. The repo as a whole is the two-volume public artifact: `ph-civ` and `ph-apo`.
+**Primary artifact:** `namespace_catalog` — full hub at [`docs/predictive-history-index.md`](docs/predictive-history-index.md) and [`docs/predictive-history-index.json`](docs/predictive-history-index.json) (**206** public chapters).
+
+| Slice | Index | Count |
+| --- | --- | ---: |
+| Lectures | [`lectures/predictive-history-lecture-index.md`](lectures/predictive-history-lecture-index.md) | 147 |
+| Essays | [`essays/predictive-history-essay-index.md`](essays/predictive-history-essay-index.md) | 43 |
+| Interviews | [`interviews/predictive-history-interview-index.md`](interviews/predictive-history-interview-index.md) | 16 |
+
+SSOT: [`data/cards.jsonl`](data/cards.jsonl). Regenerate indexes: `ph-civ index`.
+
+**Deprecated (compat only):** two-volume **ph-civ / ph-apo** reader frame — see [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](docs/archive/two-volume-ph-civ-apo-deprecated.md). Card `part`, route `surface`, and the `ph-civ` CLI name are unchanged.
 
 It also contains the chapter body for each source item. In this repo, one chapter consists of the lecture transcript, companion commentary, and public orientation/navigation metadata. The package lets students and AI systems explore historical placement, reading posture, pressure points, limits, return paths, and guided prompts alongside the chapter text.
 
@@ -29,7 +37,7 @@ Medium-first chapter namespaces at the repository root (siblings to [`book/`](bo
 - [`essays/`](essays/README.md) — flat Substack essay bodies (`essay-YYYY-MM-DD-{slug}.md`)
 - [`commentaries/`](commentaries/README.md) — essay commentary canvases (`essay-*-commentary.md`; lectures/interviews unchanged)
 - [`lectures/`](lectures/README.md) — reserved namespace for lecture chapter packets; most lecture chapters still live under `book/` during recanonicalization
-- [`interviews/`](interviews/README.md) — 15 public interview provenance packets (`interview-YYYY-MM-DD-{host-slug}`); cataloged under **Provenance** in the chapter index
+- [`interviews/`](interviews/README.md) — 16 public interview provenance packets (`interview-YYYY-MM-DD-{host-slug}`); catalog in the interview slice index
 
 ## What Is Included
 
@@ -40,7 +48,7 @@ Medium-first chapter namespaces at the repository root (siblings to [`book/`](bo
 - Canonical public source captures under `sources/` so the repo can function independently of outside workshop storage.
 - Chapter catalog and source URLs: [`docs/predictive-history-index.md`](docs/predictive-history-index.md) and [`docs/predictive-history-index.json`](docs/predictive-history-index.json) (`source_video_url` per chapter).
 - A full chapter catalog at `docs/predictive-history-index.md` (human) and `docs/predictive-history-index.json` (machine) listing all 206 public chapters (lectures, essays, and provenance interviews) with transcript, commentary, folder, and source URLs (regenerate: `ph-civ index`; auto-sync during `ph-civ validate` and publish).
-- Two conceptual volumes: Volume I / Civilization / `ph-civ`, and Volume II / Apocalypse / `ph-apo`.
+- Two conceptual volumes (deprecated reader frame): Volume I / `ph-civ` and Volume II / `ph-apo` — see [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](docs/archive/two-volume-ph-civ-apo-deprecated.md).
 - A canonical two-volume reader architecture under `book/volume-i-civilization/` and `book/volume-ii-apocalypse/`, with older multi-volume source provenance kept subordinate; see [From The Old Seven Volumes To The Current Two](book/seven-volume-to-two-volume.md).
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, Secret History, and Essays.
 - The Homer-to-Tolstoy literary spine as the Volume I literary spine with cross-volume routing exposure.

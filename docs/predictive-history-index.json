@@ -1,63 +1,121 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
+  "primary_artifact": "namespace_catalog",
   "fingerprint": "badaffbb2d6c137a",
   "card_count": 206,
   "transcript_word_total": 1431564,
   "ssot": "data/cards.jsonl",
   "markdown_index": "docs/predictive-history-index.md",
-  "surfaces": {
-    "ph-civ": {
-      "part": "civilization",
-      "label": "Volume I — Civilization (law discovery)"
+  "catalog_hub": {
+    "markdown": "docs/predictive-history-index.md",
+    "json": "docs/predictive-history-index.json"
+  },
+  "namespace_slices": {
+    "lectures": {
+      "markdown": "lectures/predictive-history-lecture-index.md",
+      "json": "lectures/predictive-history-lecture-index.json",
+      "card_count": 147
     },
-    "ph-apo": {
-      "part": "world-war",
-      "label": "Volume II — Apocalypse (law application)"
+    "essays": {
+      "markdown": "essays/predictive-history-essay-index.md",
+      "json": "essays/predictive-history-essay-index.json",
+      "card_count": 43
     },
-    "provenance": {
-      "part": "provenance",
-      "label": "Provenance (source-family residue)"
+    "interviews": {
+      "markdown": "interviews/predictive-history-interview-index.md",
+      "json": "interviews/predictive-history-interview-index.json",
+      "card_count": 16
     }
   },
-  "series_order": {
-    "civilization": [
-      {
-        "series": "civilization",
-        "label": "Civilization"
+  "deprecated": {
+    "two_volume": {
+      "primary_artifact": "two_volume_ph_civ",
+      "archive_doc": "docs/archive/two-volume-ph-civ-apo-deprecated.md",
+      "surfaces": {
+        "ph-civ": {
+          "part": "civilization",
+          "label": "Volume I — Civilization (law discovery)"
+        },
+        "ph-apo": {
+          "part": "world-war",
+          "label": "Volume II — Apocalypse (law application)"
+        },
+        "provenance": {
+          "part": "provenance",
+          "label": "Provenance (source-family residue)"
+        }
       },
-      {
-        "series": "great-books",
-        "label": "Great Books"
-      },
-      {
-        "series": "game-theory",
-        "label": "Game Theory (Volume I lane)"
+      "series_order": {
+        "civilization": [
+          {
+            "series": "civilization",
+            "label": "Civilization"
+          },
+          {
+            "series": "great-books",
+            "label": "Great Books"
+          },
+          {
+            "series": "game-theory",
+            "label": "Game Theory (Volume I lane)"
+          }
+        ],
+        "world-war": [
+          {
+            "series": "geo-strategy",
+            "label": "Geo-Strategy"
+          },
+          {
+            "series": "game-theory",
+            "label": "Game Theory"
+          },
+          {
+            "series": "secret-history",
+            "label": "Secret History"
+          },
+          {
+            "series": "essays",
+            "label": "Essays"
+          }
+        ],
+        "provenance": [
+          {
+            "series": "interviews",
+            "label": "Interviews"
+          }
+        ]
       }
-    ],
-    "world-war": [
-      {
-        "series": "geo-strategy",
-        "label": "Geo-Strategy"
-      },
-      {
-        "series": "game-theory",
-        "label": "Game Theory"
-      },
-      {
-        "series": "secret-history",
-        "label": "Secret History"
-      },
-      {
-        "series": "essays",
-        "label": "Essays"
-      }
-    ],
-    "provenance": [
-      {
-        "series": "interviews",
-        "label": "Interviews"
-      }
-    ]
+    }
+  },
+  "by_series": {
+    "civilization": {
+      "chapter_count": 60,
+      "transcript_word_total": 532654
+    },
+    "essays": {
+      "chapter_count": 43,
+      "transcript_word_total": 54107
+    },
+    "game-theory": {
+      "chapter_count": 29,
+      "transcript_word_total": 219620
+    },
+    "geo-strategy": {
+      "chapter_count": 20,
+      "transcript_word_total": 119871
+    },
+    "great-books": {
+      "chapter_count": 10,
+      "transcript_word_total": 55561
+    },
+    "interviews": {
+      "chapter_count": 16,
+      "transcript_word_total": 152483
+    },
+    "secret-history": {
+      "chapter_count": 28,
+      "transcript_word_total": 297268
+    }
   },
   "by_surface": {
     "ph-civ": {

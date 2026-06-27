@@ -63,7 +63,11 @@ PROMPT_MODES = {
     "counter-reading": "Develop counter-readings and skeptical questions that keep the card grounded in its stated limits.",
 }
 
-SURFACES = load_surfaces()["surfaces"]
+_surfaces_root = load_surfaces()
+SURFACES = _surfaces_root.get("deprecated", {}).get("two_volume", {}).get(
+    "surfaces",
+    _surfaces_root.get("surfaces", {}),
+)
 
 VOLUME_ALIASES = {
     "volume-i": "volume_i",
@@ -796,7 +800,7 @@ def cmd_validate(args) -> int:
             "First-Tour Response Shape",
             "First tour, stop 1: civ-07",
             "Continue to civ-17",
-            "two-volume public artifact",
+            "namespace catalog hub",
         ]:
             if marker not in first_tour_text:
                 errors.append(f"docs/first-tour.md missing marker: {marker}")
@@ -811,7 +815,7 @@ def cmd_validate(args) -> int:
     full_context_path = DATA_ROOT.parent / "llms-full.txt"
     if not full_context_path.exists():
         errors.append("llms-full.txt must exist as the full LLM context packet")
-    if llm_experience.get("primary_artifact") != "two_volume_ph_civ":
+    if llm_experience.get("primary_artifact") != "namespace_catalog":
         errors.append("llm-experience.json invalid primary_artifact")
     first_response = llm_experience.get("first_response_contract", {})
     if first_response.get("default_mode") != "first_tour":
@@ -862,6 +866,12 @@ def cmd_validate(args) -> int:
             errors.append("docs/predictive-history-index.json card_count must match cards.jsonl")
         if len(catalog_payload.get("chapters", [])) != len(cards):
             errors.append("docs/predictive-history-index.json chapters must match cards.jsonl")
+        if catalog_payload.get("primary_artifact") != "namespace_catalog":
+            errors.append("docs/predictive-history-index.json must declare namespace_catalog primary_artifact")
+        if not catalog_payload.get("by_series"):
+            errors.append("docs/predictive-history-index.json must include by_series aggregation")
+        if not catalog_payload.get("by_surface"):
+            errors.append("docs/predictive-history-index.json must retain deprecated by_surface mirror")
     catalog_md = DATA_ROOT.parent / "docs" / "predictive-history-index.md"
     if not catalog_md.exists():
         errors.append("docs/predictive-history-index.md must exist as the chapter catalog")
@@ -870,8 +880,8 @@ def cmd_validate(args) -> int:
         for marker in [
             "Predictive History Chapter Index",
             "Namespace slice indexes",
-            "Volume I — Civilization",
-            "Volume II — Apocalypse",
+            "Deprecated reader frame",
+            "## Full alphabetical index",
             "predictive-history-index.json",
         ]:
             if marker not in catalog_md_text:
@@ -895,8 +905,8 @@ def cmd_validate(args) -> int:
             "First Response Contract",
             "Do not stop at a generic repository summary",
             "Default mode: `first_tour`",
-            "Homer to Tolstoy is the Volume I literary spine",
-            "two-volume public artifact",
+            "Homer to Tolstoy is the literary spine route",
+            "namespace catalog hub",
             "docs/predictive-history-index.json",
             "Chapter Catalog",
         ]:
@@ -1023,11 +1033,18 @@ def cmd_validate(args) -> int:
                 errors.append(f"docs/bilingual-civilizational-bridge.md missing marker: {marker}")
     if llm_experience.get("first_seed", {}).get("route_ids") != seed_route_ids:
         errors.append("llm-experience route IDs must match route seed")
-    llm_surfaces = llm_experience.get("public_surfaces", {})
-    if llm_surfaces.get("volume_i", {}).get("surface") != "ph-civ":
-        errors.append("llm-experience volume_i must use ph-civ")
-    if llm_surfaces.get("volume_ii", {}).get("surface") != "ph-apo":
-        errors.append("llm-experience volume_ii must use ph-apo")
+    llm_slices = llm_experience.get("namespace_slices", {})
+    for slice_key in ("lectures", "essays", "interviews"):
+        if slice_key not in llm_slices:
+            errors.append(f"llm-experience namespace_slices missing {slice_key}")
+    catalog_hub = llm_experience.get("catalog_hub", {})
+    if catalog_hub.get("json") != "docs/predictive-history-index.json":
+        errors.append("llm-experience catalog_hub must point to docs/predictive-history-index.json")
+    deprecated_artifacts = llm_experience.get("deprecated_artifacts", {})
+    if deprecated_artifacts.get("two_volume_ph_civ", {}).get("archive_doc") != (
+        "docs/archive/two-volume-ph-civ-apo-deprecated.md"
+    ):
+        errors.append("llm-experience must document deprecated two_volume_ph_civ archive doc")
     guardrails = "\n".join(llm_experience.get("guardrails", []))
     for marker in [
         "Homer to Tolstoy",
@@ -1057,9 +1074,9 @@ def cmd_validate(args) -> int:
         if "Anna Karenina coda" not in caveat or "not a dedicated Tolstoy lecture" not in caveat:
             errors.append("sh-16 route must preserve the Tolstoy caveat")
     architecture = load_course_architecture()
-    if architecture.get("repo_identity") != "ph-civ":
+    if architecture.get("repo_identity") != "predictive-history":
         errors.append("surfaces.json invalid repo_identity")
-    if architecture.get("primary_artifact") != "two_volume_ph_civ":
+    if architecture.get("primary_artifact") != "namespace_catalog":
         errors.append("surfaces.json invalid primary_artifact")
     if architecture.get("volumes", {}).get("volume_i", {}).get("surface") != "ph-civ":
         errors.append("volume_i must route through ph-civ")
@@ -1083,7 +1100,7 @@ def cmd_validate(args) -> int:
     if policy.get("must_translate_outcome_to_machinery") is not True:
         errors.append("growth goals must translate outcome goals into machinery")
     required_outputs = {
-        "README and public contract explain the two-volume ph-civ artifact within one screen",
+        "README and public contract explain the namespace catalog hub within one screen",
         "analytics plan defines what counts as a view across GitHub, web, video, social, and document surfaces",
         "distribution calendar converts the target into weekly and monthly milestones",
     }
@@ -1321,15 +1338,18 @@ def cmd_status(args) -> int:
                 "surface_triage_stale": tri_stale,
             }
         )
-    print("ph-civ: two-volume public Predictive History artifact")
+    print("predictive-history: namespace catalog hub (206 public chapters)")
     print(f"primary_artifact: {architecture['primary_artifact']}")
+    hub = architecture.get("catalog_hub", {})
+    if hub:
+        print(f"catalog_hub: {hub.get('markdown')} · {hub.get('json')}")
+    slices = architecture.get("namespace_slices", {})
+    for slice_key, paths in slices.items():
+        print(f"  {slice_key}: {paths.get('markdown')}")
     print(
-        "Volume I / ph-civ / Civilization: "
-        f"{architecture['volumes']['volume_i']['role']}"
-    )
-    print(
-        "Volume II / ph-apo / Apocalypse: "
-        f"{architecture['volumes']['volume_ii']['role']}"
+        "deprecated two-volume: "
+        f"{architecture['volumes']['volume_i']['surface']} / "
+        f"{architecture['volumes']['volume_ii']['surface']}"
     )
     print(f"unique_card_count: {len(cards)}")
     print("commentary_maturity:")
@@ -1479,7 +1499,7 @@ def cmd_start(args) -> int:
     experience = load_llm_experience()
     if args.json:
         return emit_json(experience)
-    print("ph-civ: LLM-native two-volume Predictive History bootloader")
+    print("predictive-history: LLM-native namespace catalog bootloader (ph-civ CLI compat)")
     print(f"github_url: {experience['github_url']}")
     print(f"start_here: {experience['start_here']}")
     if experience.get("full_context"):
@@ -1488,9 +1508,15 @@ def cmd_start(args) -> int:
         print(f"default_mode: {experience['first_response_contract']['default_mode']}")
         print(f"opening_path: {experience['first_response_contract']['opening_path']}")
     print(f"primary_artifact: {experience['primary_artifact']}")
-    print("surfaces:")
-    for key, surface in experience["public_surfaces"].items():
-        print(f"- {key}: {surface['surface']} - {surface['role']}")
+    catalog_hub = experience.get("catalog_hub", {})
+    if catalog_hub:
+        print(f"catalog_hub: {catalog_hub.get('markdown')}")
+    print("namespace_slices:")
+    for key, paths in experience.get("namespace_slices", {}).items():
+        print(f"- {key}: {paths.get('markdown')}")
+    deprecated = experience.get("deprecated_artifacts", {}).get("two_volume_ph_civ", {})
+    if deprecated:
+        print(f"deprecated_two_volume: {deprecated.get('archive_doc')}")
     print("first_seed:")
     print(f"- {experience['first_seed']['seed_id']}: {', '.join(experience['first_seed']['route_ids'])}")
     if experience.get("first_tour"):

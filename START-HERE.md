@@ -4,14 +4,17 @@
 
 If someone pastes `https://github.com/rbtkhn/predictive-history` into a ChatGPT chat or any other LLM, start here.
 
-`ph-civ` is the public two-volume Predictive History artifact. It is not a private workshop and not a media vault. The repo is designed so a reader and an LLM can unfold the experience together from public files only.
+This repository is the public **Predictive History** distribution layer — a **namespace catalog hub** (206 public chapters) with lecture, essay, and interview slice indexes. It is not a private workshop and not a media vault. The repo is designed so a reader and an LLM can unfold the experience together from public files only.
+
+Legacy **two-volume ph-civ / ph-apo** framing (Volume I Civilization / Volume II Apocalypse) is **deprecated** for onboarding; see [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](docs/archive/two-volume-ph-civ-apo-deprecated.md). Card `part`, route `surface`, and the `ph-civ` CLI name remain for compatibility.
 
 ## What This Is
 
-- `ph-civ`: Volume I / Predictive History: Civilization. It discovers the laws of history.
-- `ph-apo`: Volume II / Predictive History: Apocalypse. It applies the laws of history.
+- **Primary artifact:** `namespace_catalog` — [`docs/predictive-history-index.md`](docs/predictive-history-index.md) · [`docs/predictive-history-index.json`](docs/predictive-history-index.json)
+- **Slice indexes:** [`lectures/predictive-history-lecture-index.md`](lectures/predictive-history-lecture-index.md) (147) · [`essays/predictive-history-essay-index.md`](essays/predictive-history-essay-index.md) (43) · [`interviews/predictive-history-interview-index.md`](interviews/predictive-history-interview-index.md) (16)
+- **SSOT:** [`data/cards.jsonl`](data/cards.jsonl) — all 206 cards; legacy `part` and paths unchanged
 
-One chapter consists of a lecture transcript, a companion commentary, and public orientation/navigation metadata.
+One chapter consists of a lecture transcript (or essay/interview body), a companion commentary where applicable, and public orientation/navigation metadata.
 
 ## Root Chapter Corpora
 
@@ -19,21 +22,21 @@ Medium-first namespaces at the repository root (siblings to `book/`):
 
 - [`essays/`](essays/README.md) — Substack and long-form essays (`essay-2025-08-06-vision-mission-goals` … `essay-2026-06-19-peace-in-our-time`)
 - [`lectures/`](lectures/README.md) — reserved lecture namespace; most lecture chapters still live under `book/` until recanonicalized
-- [`interviews/`](interviews/README.md) — 15 public interview provenance packets (`interview-YYYY-MM-DD-{host-slug}`); cataloged under **Provenance** in the chapter index
+- [`interviews/`](interviews/README.md) — 16 public interview provenance packets (`interview-YYYY-MM-DD-{host-slug}`); full catalog in the interview slice index
 
 ## First Chat Flow
 
-1. Identify the repo as the two-volume public ph-civ artifact.
+1. Identify the repo as the Predictive History **namespace catalog hub** (206 chapters).
 2. Load `data/llm-experience.json` for the unfolding map.
 3. Use `llms-full.txt` when the chat needs a full one-shot context packet after the compact map.
 4. Use `data/routes/seed.json` for the first 10-route spine seed.
 5. Use `data/routes/first-tour.json` and `docs/first-tour.md` when the reader chooses to continue the first tour.
-6. Begin with the Homer-to-Tolstoy spine, then branch into Volume II application routes.
-7. Use `docs/two-volumes-one-reader-map.md` when the reader needs the clean public explanation for why the older seven-lane scaffold is now read as two volumes.
+6. Begin with the Homer-to-Tolstoy **literary spine route**, then branch into application routes on the seed.
+7. Use [`docs/two-volumes-one-reader-map.md`](docs/two-volumes-one-reader-map.md) only for historical context (deprecated active onboarding).
 8. Treat `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` as a trilingual identity/growth layer and localization roadmap, not a replacement for `first_tour`.
 9. If the pasted URL is a direct chapter folder, switch to `study` mode for that folder: open its `README.md`, transcript, commentary canvas, and public card.
-10. When quoting or interpreting, return to the relevant transcript and commentary under `book/`.
-11. Use `docs/predictive-history-index.json` when the reader needs the full chapter catalog (206 public chapters: lectures, Substack essays, and provenance interviews) or must resolve a `source_id` to paths and source URLs.
+10. When quoting or interpreting, return to the relevant transcript and commentary under `book/` or root corpora.
+11. Use `docs/predictive-history-index.json` when the reader needs the full chapter catalog or must resolve a `source_id` to paths and source URLs.
 12. Use `docs/source-lattice.md` when the main difficulty is traversal discipline: doorway versus transcript versus commentary versus bridge.
 
 ## First Response Contract
@@ -44,7 +47,7 @@ Your first response should:
 
 1. Say that you are using `START-HERE.md`, `llms.txt`, and `llms-full.txt`.
 2. Name the default mode as `first_tour`.
-3. State the two-volume frame: Volume I discovers the laws of history; Volume II applies them; chapter folders are the study surface.
+3. State the **namespace catalog hub** (206 chapters + slice indexes); note two-volume ph-civ/ph-apo is deprecated for onboarding.
 4. Open the 10-route seed by naming the first move: Homer-to-Tolstoy begins with `civ-07`.
 5. Offer the reader a compact choice: continue the first tour, study one route, open a chapter folder, or switch modes.
 
@@ -53,18 +56,18 @@ Template:
 ```text
 I am starting from START-HERE.md, llms.txt, and llms-full.txt. Default mode: first_tour.
 
-ph-civ is the two-volume public Predictive History artifact: Volume I discovers the laws of history, Volume II applies them, and chapter folders and study edition are the reader surfaces.
+Predictive History is organized as a namespace catalog hub (206 public chapters) with lecture, essay, and interview slice indexes; legacy two-volume ph-civ/ph-apo framing is deprecated.
 
-I will begin with the 10-route spine seed. The opening path is Homer-to-Tolstoy, starting at civ-07, with the guardrail that this is the Volume I literary spine, not a side corridor.
+I will begin with the 10-route literary spine seed. The opening path is Homer-to-Tolstoy, starting at civ-07, with the guardrail that this is the literary spine route, not a side corridor.
 
 Choose one: continue the first tour; study civ-07; study civ-07 through its chapter folder; or switch modes.
 ```
 
 ## Reader Modes
 
-- `first_tour`: orient the reader to the two volumes and the 10-route seed.
+- `first_tour`: orient the reader to the namespace catalog hub and the 10-route seed.
 - `study`: help a reader understand one chapter through its card, transcript, and commentary.
-- `catalog`: browse or resolve chapters across both volumes via `docs/predictive-history-index.json`.
+- `catalog`: browse or resolve chapters via the hub and slice indexes.
 - `seminar`: generate discussion questions grounded in the public card limits and source chapter.
 - `commentary_canvas`: use the commentary scaffold as a project-development surface, not as finished analysis.
 - `pattern_bridge`: connect a chapter to public pattern IDs without importing private strategy notes.
@@ -72,9 +75,9 @@ Choose one: continue the first tour; study civ-07; study civ-07 through its chap
 
 ## Guardrails
 
-- Homer to Tolstoy is the Volume I literary spine, not a side corridor.
+- Homer to Tolstoy is the literary spine route, not a side corridor.
 - `sh-16` is a routed Tolstoy endpoint via an Anna Karenina coda, not a dedicated Tolstoy lecture.
-- two-volume public artifact.
+- namespace catalog hub.
 - Application routes are public orientation only, not quotation-grade live operational analysis.
 - Commentaries are open project canvases and should not be treated as final scholarly review.
 - Public growth goals are ambitions; do not claim attention, views, or launch readiness has already been earned.
@@ -104,9 +107,8 @@ Choose one: continue the first tour; study civ-07; study civ-07 through its chap
 - `docs/predictive-history-index.md`
 - `data/patterns.json`
 - `docs/first-tour.md`
-- `docs/two-volumes-one-reader-map.md`
+- `docs/archive/two-volume-ph-civ-apo-deprecated.md`
 - `docs/source-lattice.md`
 - `data/bilingual-loop.json`
 - `docs/bilingual-civilizational-bridge.md`
 - `docs/chapter-folder-links.md`
-- `docs/predictive-history-index.md` (chapter catalog + source URLs; legacy `docs/source-video-index.md` redirects here)

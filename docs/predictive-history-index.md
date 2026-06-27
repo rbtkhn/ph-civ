@@ -3,20 +3,13 @@
 
 Canonical catalog of every public Predictive History chapter in this repository (lectures, Substack essays, and provenance interviews).
 
+- **Primary artifact:** `namespace_catalog` (namespace hub + slice indexes)
 - **Card count:** 206
 - **Transcript words (total):** 1,431,564
 - **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`predictive-history-index.json`](predictive-history-index.json)
 - **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py` · auto-sync during `ph-civ validate` and publish
 
-Surfaces:
-
-- **ph-civ** — Volume I / Civilization (`part: civilization`)
-- **ph-apo** — Volume II / Apocalypse (`part: world-war`)
-- **provenance** — source-family residue (`part: provenance`)
-
-Bridge support nodes (`sh-11`, `sh-16`, `sh-17`, `sh-18`) appear in Volume I membership but carry cross-volume routing; check each card's `part` and folder.
-
-YouTube and Substack source URLs appear in the **Video** column below and in [`predictive-history-index.json`](predictive-history-index.json) (`source_video_url`). **Words** counts transcript body text only (YAML frontmatter excluded).
+YouTube and Substack source URLs appear in catalog tables and in [`predictive-history-index.json`](predictive-history-index.json) (`source_video_url`). **Words** counts transcript body text only (YAML frontmatter excluded).
 
 ## Namespace slice indexes
 
@@ -28,11 +21,15 @@ Namespace catalogs beside each corpus (lectures, essays, interviews). This page 
 | Essays | [essays index](../essays/predictive-history-essay-index.md) | [json](../essays/predictive-history-essay-index.json) | 43 |
 | Interviews | [interviews index](../interviews/predictive-history-interview-index.md) | [json](../interviews/predictive-history-interview-index.json) | 16 |
 
-## Volume I — Civilization (law discovery)
+## Deprecated reader frame
 
-**Surface:** `ph-civ` · **Chapters:** 121
+The **two-volume ph-civ / ph-apo** model (Volume I Civilization / Volume II Apocalypse) is deprecated for onboarding. Legacy `part` and route `surface` metadata remain on cards for compatibility. See [`two-volume deprecation archive`](archive/two-volume-ph-civ-apo-deprecated.md).
 
-### Civilization
+Bridge support nodes (`sh-11`, `sh-16`, `sh-17`, `sh-18`) still carry cross-part routing in routes and cards.
+
+## Civilization
+
+**Series:** `civilization` · **Chapters:** 60
 
 | Source ID | Title | Review | Words | Transcript | Commentary | Folder | Video |
 | --- | --- | --- | ---: | --- | --- | --- | --- |
@@ -97,7 +94,9 @@ Namespace catalogs beside each corpus (lectures, essays, interviews). This page 
 | `civ-59` | Civilization #59: The Man of Steel | `in_review` | 11,679 | [transcript](../lectures/civilization/civ-59/civ-59-transcript.md) | [commentary](../lectures/civilization/civ-59/civ-59-commentary.md) | [folder](../lectures/civilization/civ-59/README.md) | [video](https://www.youtube.com/watch?v=QtqfIjK1GAc) |
 | `civ-60` | Civilization #60: The Decline and Fall of the American Empire | `in_review` | 10,817 | [transcript](../lectures/civilization/civ-60/civ-60-transcript.md) | [commentary](../lectures/civilization/civ-60/civ-60-commentary.md) | [folder](../lectures/civilization/civ-60/README.md) | [video](https://www.youtube.com/watch?v=_gH4PvIni5E) |
 
-### Great Books
+## Great Books
+
+**Series:** `great-books` · **Chapters:** 10
 
 | Source ID | Title | Review | Words | Transcript | Commentary | Folder | Video |
 | --- | --- | --- | ---: | --- | --- | --- | --- |
@@ -112,24 +111,9 @@ Namespace catalogs beside each corpus (lectures, essays, interviews). This page 
 | `gb-09` | Great Books #9: Dante (Re-Upload with Audio Fixed) | `in_review` | 2,089 | [transcript](../lectures/great-books/gb-09/gb-09-transcript.md) | [commentary](../lectures/great-books/gb-09/gb-09-commentary.md) | [folder](../lectures/great-books/gb-09/README.md) | [video](https://www.youtube.com/watch?v=4EZUrGPgAos) |
 | `gb-10` | Great Books #10: Dante's Hierarchy of Hell | `in_review` | 6,313 | [transcript](../lectures/great-books/gb-10/gb-10-transcript.md) | [commentary](../lectures/great-books/gb-10/gb-10-commentary.md) | [folder](../lectures/great-books/gb-10/README.md) | [video](https://www.youtube.com/watch?v=wGpdMYa2bME) |
 
-### Game Theory (Volume I lane)
+## Geo-Strategy
 
-| Source ID | Title | Review | Words | Transcript | Commentary | Folder | Video |
-| --- | --- | --- | ---: | --- | --- | --- | --- |
-| `gt-01` | Game Theory #1: The Dating Game | `provisional` | 6,683 | [transcript](../lectures/game-theory/gt-01/gt-01-transcript.md) | [commentary](../lectures/game-theory/gt-01/gt-01-commentary.md) | [folder](../lectures/game-theory/gt-01/README.md) | [video](https://www.youtube.com/watch?v=hE4l9WyLF3U) |
-| `gt-02` | Game Theory #2: Why Schools Suck | `provisional` | 7,108 | [transcript](../lectures/game-theory/gt-02/gt-02-transcript.md) | [commentary](../lectures/game-theory/gt-02/gt-02-commentary.md) | [folder](../lectures/game-theory/gt-02/README.md) | [video](https://www.youtube.com/watch?v=kS-muAuq62E) |
-| `gt-03` | Game Theory #3: Rich Dad, Poor Dad | `provisional` | 6,886 | [transcript](../lectures/game-theory/gt-03/gt-03-transcript.md) | [commentary](../lectures/game-theory/gt-03/gt-03-commentary.md) | [folder](../lectures/game-theory/gt-03/README.md) | [video](https://www.youtube.com/watch?v=MX93U4KzA28) |
-| `gt-04` | Game Theory #4: The Immigration Trap | `provisional` | 5,902 | [transcript](../lectures/game-theory/gt-04/gt-04-transcript.md) | [commentary](../lectures/game-theory/gt-04/gt-04-commentary.md) | [folder](../lectures/game-theory/gt-04/README.md) | [video](https://www.youtube.com/watch?v=35HRPLVyF0g) |
-| `gt-05` | Game Theory #5: The World Game | `provisional` | 8,281 | [transcript](../lectures/game-theory/gt-05/gt-05-transcript.md) | [commentary](../lectures/game-theory/gt-05/gt-05-commentary.md) | [folder](../lectures/game-theory/gt-05/README.md) | [video](https://www.youtube.com/watch?v=ybufqRY77PQ) |
-| `gt-06` | Game Theory #6: The World's Bank | `provisional` | 6,303 | [transcript](../lectures/game-theory/gt-06/gt-06-transcript.md) | [commentary](../lectures/game-theory/gt-06/gt-06-commentary.md) | [folder](../lectures/game-theory/gt-06/README.md) | [video](https://www.youtube.com/watch?v=CbamEcNuDXo) |
-| `gt-07` | Game Theory #7: America's Game | `provisional` | 6,672 | [transcript](../lectures/game-theory/gt-07/gt-07-transcript.md) | [commentary](../lectures/game-theory/gt-07/gt-07-commentary.md) | [folder](../lectures/game-theory/gt-07/README.md) | [video](https://www.youtube.com/watch?v=ijnkCt1QK6k) |
-| `gt-08` | Game Theory #8: Communist Specter | `provisional` | 7,114 | [transcript](../lectures/game-theory/gt-08/gt-08-transcript.md) | [commentary](../lectures/game-theory/gt-08/gt-08-commentary.md) | [folder](../lectures/game-theory/gt-08/README.md) | [video](https://www.youtube.com/watch?v=axqDLhWs93Q) |
-
-## Volume II — Apocalypse (law application)
-
-**Surface:** `ph-apo` · **Chapters:** 69
-
-### Geo-Strategy
+**Series:** `geo-strategy` · **Chapters:** 20
 
 | Source ID | Title | Review | Words | Transcript | Commentary | Folder | Video |
 | --- | --- | --- | ---: | --- | --- | --- | --- |
@@ -154,10 +138,20 @@ Namespace catalogs beside each corpus (lectures, essays, interviews). This page 
 | `geo-19` | Geo-Strategy #19: When Eschatologies Converge | `in_review` | 5,421 | [transcript](../lectures/geo-strategy/geo-19/geo-19-transcript.md) | [commentary](../lectures/geo-strategy/geo-19/geo-19-commentary.md) | [folder](../lectures/geo-strategy/geo-19/README.md) | [video](https://www.youtube.com/watch?v=YQ-xg1nIbMs) |
 | `geo-20` | Geo-Strategy #20: Why the West is Doomed | `in_review` | 5,236 | [transcript](../lectures/geo-strategy/geo-20/geo-20-transcript.md) | [commentary](../lectures/geo-strategy/geo-20/geo-20-commentary.md) | [folder](../lectures/geo-strategy/geo-20/README.md) | [video](https://www.youtube.com/watch?v=E83dpuyvpiM) |
 
-### Game Theory
+## Game Theory
+
+**Series:** `game-theory` · **Chapters:** 29
 
 | Source ID | Title | Review | Words | Transcript | Commentary | Folder | Video |
 | --- | --- | --- | ---: | --- | --- | --- | --- |
+| `gt-01` | Game Theory #1: The Dating Game | `provisional` | 6,683 | [transcript](../lectures/game-theory/gt-01/gt-01-transcript.md) | [commentary](../lectures/game-theory/gt-01/gt-01-commentary.md) | [folder](../lectures/game-theory/gt-01/README.md) | [video](https://www.youtube.com/watch?v=hE4l9WyLF3U) |
+| `gt-02` | Game Theory #2: Why Schools Suck | `provisional` | 7,108 | [transcript](../lectures/game-theory/gt-02/gt-02-transcript.md) | [commentary](../lectures/game-theory/gt-02/gt-02-commentary.md) | [folder](../lectures/game-theory/gt-02/README.md) | [video](https://www.youtube.com/watch?v=kS-muAuq62E) |
+| `gt-03` | Game Theory #3: Rich Dad, Poor Dad | `provisional` | 6,886 | [transcript](../lectures/game-theory/gt-03/gt-03-transcript.md) | [commentary](../lectures/game-theory/gt-03/gt-03-commentary.md) | [folder](../lectures/game-theory/gt-03/README.md) | [video](https://www.youtube.com/watch?v=MX93U4KzA28) |
+| `gt-04` | Game Theory #4: The Immigration Trap | `provisional` | 5,902 | [transcript](../lectures/game-theory/gt-04/gt-04-transcript.md) | [commentary](../lectures/game-theory/gt-04/gt-04-commentary.md) | [folder](../lectures/game-theory/gt-04/README.md) | [video](https://www.youtube.com/watch?v=35HRPLVyF0g) |
+| `gt-05` | Game Theory #5: The World Game | `provisional` | 8,281 | [transcript](../lectures/game-theory/gt-05/gt-05-transcript.md) | [commentary](../lectures/game-theory/gt-05/gt-05-commentary.md) | [folder](../lectures/game-theory/gt-05/README.md) | [video](https://www.youtube.com/watch?v=ybufqRY77PQ) |
+| `gt-06` | Game Theory #6: The World's Bank | `provisional` | 6,303 | [transcript](../lectures/game-theory/gt-06/gt-06-transcript.md) | [commentary](../lectures/game-theory/gt-06/gt-06-commentary.md) | [folder](../lectures/game-theory/gt-06/README.md) | [video](https://www.youtube.com/watch?v=CbamEcNuDXo) |
+| `gt-07` | Game Theory #7: America's Game | `provisional` | 6,672 | [transcript](../lectures/game-theory/gt-07/gt-07-transcript.md) | [commentary](../lectures/game-theory/gt-07/gt-07-commentary.md) | [folder](../lectures/game-theory/gt-07/README.md) | [video](https://www.youtube.com/watch?v=ijnkCt1QK6k) |
+| `gt-08` | Game Theory #8: Communist Specter | `provisional` | 7,114 | [transcript](../lectures/game-theory/gt-08/gt-08-transcript.md) | [commentary](../lectures/game-theory/gt-08/gt-08-commentary.md) | [folder](../lectures/game-theory/gt-08/README.md) | [video](https://www.youtube.com/watch?v=axqDLhWs93Q) |
 | `gt-09` | Game Theory #9: The US-Iran War | `provisional` | 6,282 | [transcript](../lectures/game-theory/gt-09/gt-09-transcript.md) | [commentary](../lectures/game-theory/gt-09/gt-09-commentary.md) | [folder](../lectures/game-theory/gt-09/README.md) | [video](https://www.youtube.com/watch?v=jIS2eB-rGv0) |
 | `gt-10` | Game Theory #10: The Law of Asymmetry | `provisional` | 7,352 | [transcript](../lectures/game-theory/gt-10/gt-10-transcript.md) | [commentary](../lectures/game-theory/gt-10/gt-10-commentary.md) | [folder](../lectures/game-theory/gt-10/README.md) | [video](https://www.youtube.com/watch?v=t5oisJiorsU) |
 | `gt-11` | Game Theory #11: The Law of Escalation | `provisional` | 8,590 | [transcript](../lectures/game-theory/gt-11/gt-11-transcript.md) | [commentary](../lectures/game-theory/gt-11/gt-11-commentary.md) | [folder](../lectures/game-theory/gt-11/README.md) | [video](https://www.youtube.com/watch?v=fz-Dan7NRss) |
@@ -180,7 +174,9 @@ Namespace catalogs beside each corpus (lectures, essays, interviews). This page 
 | `gt-28` | Game Theory #28: Predictive History | `provisional` | 10,539 | [transcript](../lectures/game-theory/gt-28/gt-28-transcript.md) | [commentary](../lectures/game-theory/gt-28/gt-28-commentary.md) | [folder](../lectures/game-theory/gt-28/README.md) | [video](https://www.youtube.com/watch?v=dja6dkCfngE) |
 | `gt-29` | Game Theory #29: Final Examination | `provisional` | 106 | [transcript](../lectures/game-theory/gt-29/gt-29-transcript.md) | [commentary](../lectures/game-theory/gt-29/gt-29-commentary.md) | [folder](../lectures/game-theory/gt-29/README.md) | [video](https://www.youtube.com/watch?v=RE2UribEFIo) |
 
-### Secret History
+## Secret History
+
+**Series:** `secret-history` · **Chapters:** 28
 
 | Source ID | Title | Review | Words | Transcript | Commentary | Folder | Video |
 | --- | --- | --- | ---: | --- | --- | --- | --- |
@@ -213,32 +209,15 @@ Namespace catalogs beside each corpus (lectures, essays, interviews). This page 
 | `sh-27` | Secret History #27: Empire of Evil | `in_review` | 13,607 | [transcript](../lectures/secret-history/sh-27/sh-27-transcript.md) | [commentary](../lectures/secret-history/sh-27/sh-27-commentary.md) | [folder](../lectures/secret-history/sh-27/README.md) | [video](https://www.youtube.com/watch?v=ZPrecJHUOUs) |
 | `sh-28` | Secret History #28: Pax Judaica | `in_review` | 15,120 | [transcript](../lectures/secret-history/sh-28/sh-28-transcript.md) | [commentary](../lectures/secret-history/sh-28/sh-28-commentary.md) | [folder](../lectures/secret-history/sh-28/README.md) | [video](https://www.youtube.com/watch?v=WFWizN3QoPg) |
 
-## Provenance (source-family residue)
+## Essays
 
-**Surface:** `provenance` · **Chapters:** 16
+**Substack essays:** 43 — full catalog: [`essays/predictive-history-essay-index.md`](../essays/predictive-history-essay-index.md) · [json](../essays/predictive-history-essay-index.json)
+
+## Interviews / provenance
+
+**Interview provenance:** 16 — full catalog: [`interviews/predictive-history-interview-index.md`](../interviews/predictive-history-interview-index.md) · [json](../interviews/predictive-history-interview-index.json)
 
 Provenance packets preserve old seven-volume source-family material (interviews first). They are cataloged for source review and cross-links from [`book/provenance/`](../book/provenance/README.md); they are not foreground Volume I/II law-discovery routes.
-
-### Interviews
-
-| Source ID | Title | Review | Words | Transcript | Commentary | Folder | Video |
-| --- | --- | --- | ---: | --- | --- | --- | --- |
-| `interview-2025-10-30-cyrus-janssen` | Interviews #1: Cyrus Janssen — The World Is About to Change | `in_review` | 6,927 | [transcript](../interviews/interview-2025-10-30-cyrus-janssen/interview-2025-10-30-cyrus-janssen.md) | [commentary](../interviews/interview-2025-10-30-cyrus-janssen/interview-2025-10-30-cyrus-janssen-commentary.md) | [folder](../interviews/interview-2025-10-30-cyrus-janssen/README.md) | [video](https://www.youtube.com/watch?v=XRk5VSEzJ4Y) |
-| `interview-2025-11-24-glenn-diesen` | Interviews #2: Glenn Diesen — The West's Civilizational Collapse | `in_review` | 8,674 | [transcript](../interviews/interview-2025-11-24-glenn-diesen/interview-2025-11-24-glenn-diesen.md) | [commentary](../interviews/interview-2025-11-24-glenn-diesen/interview-2025-11-24-glenn-diesen-commentary.md) | [folder](../interviews/interview-2025-11-24-glenn-diesen/README.md) | [video](https://www.youtube.com/watch?v=GSSIm9xNRAE) |
-| `interview-2026-01-05-glenn-diesen` | Interviews #3: Glenn Diesen — Predictions for 2026 (Empire, Rivalry & Collapse) | `in_review` | 8,145 | [transcript](../interviews/interview-2026-01-05-glenn-diesen/interview-2026-01-05-glenn-diesen.md) | [commentary](../interviews/interview-2026-01-05-glenn-diesen/interview-2026-01-05-glenn-diesen-commentary.md) | [folder](../interviews/interview-2026-01-05-glenn-diesen/README.md) | [video](https://www.youtube.com/watch?v=ORyCS0r2Tpg) |
-| `interview-2026-01-18-danny-haiphong` | Interviews #4: Danny Haiphong — Predictions for 2026: Trump, Iran & Empire Collapse | `in_review` | 5,293 | [transcript](../interviews/interview-2026-01-18-danny-haiphong/interview-2026-01-18-danny-haiphong.md) | [commentary](../interviews/interview-2026-01-18-danny-haiphong/interview-2026-01-18-danny-haiphong-commentary.md) | [folder](../interviews/interview-2026-01-18-danny-haiphong/README.md) | [video](https://www.youtube.com/watch?v=H5lCJ0D4DpY) |
-| `interview-2026-01-22-dimitri-lascaris` | Interviews #5: Dimitri Lascaris — Trump’s War on Iran, Davos, Canada–China | `in_review` | 6,122 | [transcript](../interviews/interview-2026-01-22-dimitri-lascaris/interview-2026-01-22-dimitri-lascaris.md) | [commentary](../interviews/interview-2026-01-22-dimitri-lascaris/interview-2026-01-22-dimitri-lascaris-commentary.md) | [folder](../interviews/interview-2026-01-22-dimitri-lascaris/README.md) | [video](https://www.youtube.com/watch?v=uHIdRgFypNo) |
-| `interview-2026-01-26-glenn-diesen` | Interviews #6: Glenn Diesen — Great Power Wars Over a New World Order | `in_review` | 7,893 | [transcript](../interviews/interview-2026-01-26-glenn-diesen/interview-2026-01-26-glenn-diesen.md) | [commentary](../interviews/interview-2026-01-26-glenn-diesen/interview-2026-01-26-glenn-diesen-commentary.md) | [folder](../interviews/interview-2026-01-26-glenn-diesen/README.md) | [video](https://www.youtube.com/watch?v=80jUKe0blAQ) |
-| `interview-2026-03-02-breaking-points` | Interviews #7: Breaking Points (Krystal & Saagar) — US WILL LOSE Iran War | `in_review` | 2,443 | [transcript](../interviews/interview-2026-03-02-breaking-points/interview-2026-03-02-breaking-points.md) | [commentary](../interviews/interview-2026-03-02-breaking-points/interview-2026-03-02-breaking-points-commentary.md) | [folder](../interviews/interview-2026-03-02-breaking-points/README.md) | [video](https://www.youtube.com/watch?v=4Ql24Z8SIeE) |
-| `interview-2026-03-07-dialogue-works` | Interviews #8: Nima (Dialogue Works) — The Iran War: The Watershed Moment That Changed the Middle East Forever | `in_review` | 4,558 | [transcript](../interviews/interview-2026-03-07-dialogue-works/interview-2026-03-07-dialogue-works.md) | [commentary](../interviews/interview-2026-03-07-dialogue-works/interview-2026-03-07-dialogue-works-commentary.md) | [folder](../interviews/interview-2026-03-07-dialogue-works/README.md) | [video](https://www.youtube.com/watch?v=0rIgZD-tk3s) |
-| `interview-2026-03-09-sneako` | Interviews #9: SNEAKO — The End of the World | `in_review` | 2,706 | [transcript](../interviews/interview-2026-03-09-sneako/interview-2026-03-09-sneako.md) | [commentary](../interviews/interview-2026-03-09-sneako/interview-2026-03-09-sneako-commentary.md) | [folder](../interviews/interview-2026-03-09-sneako/README.md) | [video](https://www.youtube.com/watch?v=o1DElACHNRo) |
-| `interview-2026-03-16-endgame` | Interviews #10: Endgame — Our True Wealth Is Our Consciousness | `in_review` | 21,380 | [transcript](../interviews/interview-2026-03-16-endgame/interview-2026-03-16-endgame.md) | [commentary](../interviews/interview-2026-03-16-endgame/interview-2026-03-16-endgame-commentary.md) | [folder](../interviews/interview-2026-03-16-endgame/README.md) | [video](https://www.youtube.com/watch?v=rsi7cDRUrmE) |
-| `interview-2026-03-20-tucker-carlson` | Interviews #11: Tucker Carlson — Iran War, Energy, and Global Order | `in_review` | 9,337 | [transcript](../interviews/interview-2026-03-20-tucker-carlson/interview-2026-03-20-tucker-carlson.md) | [commentary](../interviews/interview-2026-03-20-tucker-carlson/interview-2026-03-20-tucker-carlson-commentary.md) | [folder](../interviews/interview-2026-03-20-tucker-carlson/README.md) | [video](https://www.youtube.com/watch?v=2K2nQsTTjQE) |
-| `interview-2026-04-01-jay-shapiro` | Interviews #12: Jay Shapiro — Painful Personal Path, Truth and Myth, Internet Fame | `in_review` | 19,060 | [transcript](../interviews/interview-2026-04-01-jay-shapiro/interview-2026-04-01-jay-shapiro.md) | [commentary](../interviews/interview-2026-04-01-jay-shapiro/interview-2026-04-01-jay-shapiro-commentary.md) | [folder](../interviews/interview-2026-04-01-jay-shapiro/README.md) | [video](https://www.youtube.com/watch?v=oErKnj_uyPA) |
-| `interview-2026-04-07-patrick-bet-david` | Interviews #13: Patrick Bet-David — Jiang Xueqin Finally Breaks His Silence (PBD Podcast #772) | `in_review` | 12,389 | [transcript](../interviews/interview-2026-04-07-patrick-bet-david/interview-2026-04-07-patrick-bet-david.md) | [commentary](../interviews/interview-2026-04-07-patrick-bet-david/interview-2026-04-07-patrick-bet-david-commentary.md) | [folder](../interviews/interview-2026-04-07-patrick-bet-david/README.md) | [video](https://www.youtube.com/watch?v=Wio--7_GIOs) |
-| `interview-2026-04-13-glenn-diesen` | Interviews #14: Glenn Diesen — The Iran War & the Battle for the Petrodollar | `in_review` | 6,213 | [transcript](../interviews/interview-2026-04-13-glenn-diesen/interview-2026-04-13-glenn-diesen.md) | [commentary](../interviews/interview-2026-04-13-glenn-diesen/interview-2026-04-13-glenn-diesen-commentary.md) | [folder](../interviews/interview-2026-04-13-glenn-diesen/README.md) | [video](https://www.youtube.com/watch?v=P_DHMUdOVdo) |
-| `interview-2026-04-13-sneako-dugin` | Interviews #15: Sneako — Jiang Xueqin & Aleksandr Dugin (Eschatology & Geopolitics) | `in_review` | 11,212 | [transcript](../interviews/interview-2026-04-13-sneako-dugin/interview-2026-04-13-sneako-dugin.md) | [commentary](../interviews/interview-2026-04-13-sneako-dugin/interview-2026-04-13-sneako-dugin-commentary.md) | [folder](../interviews/interview-2026-04-13-sneako-dugin/README.md) | [video](https://www.youtube.com/watch?v=n44OF1Y7zgo) |
-| `interview-2026-05-07-diary-of-a-ceo` | Interviews #16: Diary of a CEO (Steven Bartlett) — World War 3 Is About To Begin | `in_review` | 20,131 | [transcript](../interviews/interview-2026-05-07-diary-of-a-ceo/interview-2026-05-07-diary-of-a-ceo.md) | [commentary](../interviews/interview-2026-05-07-diary-of-a-ceo/interview-2026-05-07-diary-of-a-ceo-commentary.md) | [folder](../interviews/interview-2026-05-07-diary-of-a-ceo/README.md) | [video](https://www.youtube.com/watch?v=BTJGr78-zyw) |
 
 ## Full alphabetical index
 

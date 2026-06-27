@@ -185,7 +185,8 @@ def test_index_command_writes_fingerprinted_index():
     payload = json.loads(json_path.read_text(encoding="utf-8"))
     assert payload["card_count"] == 206
     assert len(payload["chapters"]) == 206
-    assert payload["schema_version"] == 3
+    assert payload["schema_version"] == 4
+    assert payload["primary_artifact"] == "namespace_catalog"
     assert payload["transcript_word_total"] > 1_000_000
     assert validate_ph_civ_index() == []
 
@@ -219,9 +220,14 @@ def test_literary_spine_path_surfaces_launch_readiness(capsys):
     assert "guardrail:" in out
 
 
-def test_two_volume_architecture_is_primary():
+def test_namespace_catalog_is_primary():
     architecture = load_course_architecture()
-    assert architecture["primary_artifact"] == "two_volume_ph_civ"
+    assert architecture["primary_artifact"] == "namespace_catalog"
+    assert architecture["repo_identity"] == "predictive-history"
+    assert architecture["catalog_hub"]["markdown"] == "docs/predictive-history-index.md"
+    assert "lectures" in architecture["namespace_slices"]
+    deprecated = architecture["deprecated_two_volume"]
+    assert deprecated["primary_artifact"] == "two_volume_ph_civ"
     assert architecture["volumes"]["volume_i"]["surface"] == "ph-civ"
     assert architecture["volumes"]["volume_i"]["role"] == "law_discovery"
     assert architecture["volumes"]["volume_ii"]["surface"] == "ph-apo"
@@ -236,12 +242,13 @@ def test_public_surfaces_are_named(capsys):
     assert "Predictive History: Civilization" in capsys.readouterr().out
 
 
-def test_status_leads_with_two_volume_artifact(capsys):
+def test_status_leads_with_namespace_catalog(capsys):
     assert main(["status"]) == 0
     out = capsys.readouterr().out
-    assert "two-volume public Predictive History artifact" in out
-    assert "Volume I / ph-civ / Civilization" in out
-    assert "Volume II / ph-apo / Apocalypse" in out
+    assert "namespace catalog hub" in out
+    assert "primary_artifact: namespace_catalog" in out
+    assert "predictive-history-index.md" in out
+    assert "deprecated two-volume" in out
 
 
 def test_llm_native_bootloader_contract(capsys):
@@ -252,12 +259,13 @@ def test_llm_native_bootloader_contract(capsys):
     assert "First Response Contract" in start_text
     assert "Do not stop at a generic repository summary" in start_text
     assert "Default mode: first_tour" in start_text
-    assert "Homer to Tolstoy is the Volume I literary spine" in start_text
+    assert "literary spine route" in start_text
     assert "Anna Karenina coda" in start_text
-    assert "two-volume public artifact" in start_text
+    assert "namespace catalog hub" in start_text
 
     experience = load_llm_experience()
     assert experience["start_here"] == "START-HERE.md"
+    assert experience["primary_artifact"] == "namespace_catalog"
     assert experience["full_context"]["path"] == "llms-full.txt"
     assert experience["full_context"]["purpose"] == "one_shot_llm_context_packet"
     assert experience["first_response_contract"]["default_mode"] == "first_tour"
@@ -294,9 +302,12 @@ def test_llm_native_bootloader_contract(capsys):
     assert "docs/predictive-history-index.json" in study_mode["start_files"]
     catalog_mode = next(mode for mode in experience["modes"] if mode["mode"] == "catalog")
     assert catalog_mode["start_files"] == ["docs/predictive-history-index.json", "docs/predictive-history-index.md"]
-    assert experience["public_surfaces"]["volume_i"]["surface"] == "ph-civ"
-    assert experience["public_surfaces"]["volume_ii"]["surface"] == "ph-apo"
-    assert "museum" not in experience["public_surfaces"]
+    assert "lectures" in experience["namespace_slices"]
+    assert experience["catalog_hub"]["json"] == "docs/predictive-history-index.json"
+    assert experience["deprecated_artifacts"]["two_volume_ph_civ"]["archive_doc"] == (
+        "docs/archive/two-volume-ph-civ-apo-deprecated.md"
+    )
+    assert "museum" not in experience.get("namespace_slices", {})
     assert experience["first_seed"]["route_ids"] == load_route_seed()["route_ids"]
     guardrails = "\n".join(experience["guardrails"])
     assert "Homer to Tolstoy" in guardrails
@@ -305,6 +316,7 @@ def test_llm_native_bootloader_contract(capsys):
     assert main(["start", "--json"]) == 0
     payload = json.loads(capsys.readouterr().out)
     assert payload["experience_id"] == "ph_civ_llm_native_bootloader"
+    assert payload["primary_artifact"] == "namespace_catalog"
     assert payload["full_context"]["path"] == "llms-full.txt"
     assert payload["first_response_contract"]["default_mode"] == "first_tour"
     assert payload["first_tour"]["path"] == "data/routes/first-tour.json"
@@ -324,9 +336,9 @@ def test_llms_full_context_packet_exists():
     assert "Do not stop at a generic repository summary" in text
     assert "Default mode: `first_tour`" in text
     assert "starting at civ-07" in text
-    assert "Homer to Tolstoy is the Volume I literary spine" in text
+    assert "literary spine route" in text
     assert "Anna Karenina coda" in text
-    assert "two-volume public artifact" in text
+    assert "namespace catalog hub" in text
     assert "Do not claim live geopolitical certainty" in text
     assert "Trilingual Civilizational Bridge" in text
     assert "canonical English `ph-civ`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`" in text
@@ -365,13 +377,17 @@ def test_ph_civ_index_hub_links_namespace_slices():
     assert "| 147 |" in md
     assert "| 43 |" in md
     assert "| 16 |" in md
+    assert "## Deprecated reader frame" in md
+    assert "## Civilization" in md
+    assert "archive/two-volume-ph-civ-apo-deprecated.md" in md
 
 
 def test_ph_civ_index_provenance_section():
     payload = json.loads((ROOT / "docs" / "predictive-history-index.json").read_text(encoding="utf-8"))
     assert "provenance" in payload["by_surface"]
+    assert payload.get("by_series")
     md = (ROOT / "docs" / "predictive-history-index.md").read_text(encoding="utf-8")
-    assert "## Provenance (source-family residue)" in md
+    assert "## Interviews / provenance" in md
 
 
 def test_ph_civ_index_surfaces_youtube_urls():
@@ -388,7 +404,8 @@ def test_ph_civ_index_surfaces_youtube_urls():
 def test_ph_civ_index_transcript_word_counts():
     payload = json.loads((ROOT / "docs" / "predictive-history-index.json").read_text(encoding="utf-8"))
     chapters = payload["chapters"]
-    assert payload["schema_version"] == 3
+    assert payload["schema_version"] == 4
+    assert payload["primary_artifact"] == "namespace_catalog"
     assert len(chapters) == 206
     assert all("transcript_word_count" in chapter for chapter in chapters)
     assert payload["transcript_word_total"] == sum(
@@ -588,7 +605,7 @@ def test_first_tour_contract(capsys):
     assert "First-Tour Response Shape" in text
     assert "First tour, stop 1: civ-07" in text
     assert "Continue to civ-17" in text
-    assert "two-volume public artifact" in text
+    assert "namespace catalog hub" in text
 
     assert main(["tour", "--json"]) == 0
     payload = json.loads(capsys.readouterr().out)
@@ -607,7 +624,7 @@ def test_first_tour_contract(capsys):
 def test_volumes_command_returns_architecture(capsys):
     assert main(["volumes", "--json"]) == 0
     payload = json.loads(capsys.readouterr().out)
-    assert payload["primary_artifact"] == "two_volume_ph_civ"
+    assert payload["primary_artifact"] == "namespace_catalog"
     assert payload["volumes"]["volume_i"]["surface"] == "ph-civ"
     assert payload["volumes"]["volume_i"]["role"] == "law_discovery"
     assert payload["volumes"]["volume_ii"]["surface"] == "ph-apo"
@@ -648,8 +665,41 @@ def test_growth_goals_translate_outcomes_to_agent_machinery():
     assert "deserves audience growth" in campaign["first_live_wedge"]["readiness_question"]
     assert "Homer-to-Tolstoy route" in campaign["first_live_wedge"]["scope"]
     assert "without claiming views have already been earned" in campaign["first_live_wedge"]["done_when"]
-    assert "analytics plan defines what counts as a view across GitHub, web, video, social, and document surfaces" in campaign["measurable_agent_outputs"]
-    assert "distribution calendar converts the target into weekly and monthly milestones" in campaign["measurable_agent_outputs"]
+    outputs = campaign["measurable_agent_outputs"]
+    assert any("namespace catalog hub within one screen" in line for line in outputs)
+    assert any("analytics plan defines what counts as a view across GitHub, web, video, social, and document surfaces" in line for line in outputs)
+    assert any("distribution calendar converts the target into weekly and monthly milestones" in line for line in outputs)
+
+
+def test_hub_catalog_completeness():
+    cards = load_cards()
+    payload = json.loads((ROOT / "docs" / "predictive-history-index.json").read_text(encoding="utf-8"))
+    assert len(payload["chapters"]) == 206
+    assert payload["card_count"] == 206
+    assert payload.get("by_series")
+    assert payload.get("by_surface")
+    json_ids = {chapter["source_id"] for chapter in payload["chapters"]}
+    card_ids = {card["source_id"] for card in cards}
+    assert json_ids == card_ids
+
+
+def test_hub_full_alphabetical_index():
+    cards = load_cards()
+    md = (ROOT / "docs" / "predictive-history-index.md").read_text(encoding="utf-8")
+    alpha_start = md.index("## Full alphabetical index")
+    alpha_section = md[alpha_start:]
+    for card in cards:
+        assert f"`{card['source_id']}`" in alpha_section
+
+
+def test_two_volume_paths_deprecated():
+    archive = ROOT / "docs" / "archive" / "two-volume-ph-civ-apo-deprecated.md"
+    assert archive.exists()
+    ph_civ_readme = (ROOT / "ph-civ" / "README.md").read_text(encoding="utf-8")
+    assert "predictive-history-index.md" in ph_civ_readme
+    hub_md = (ROOT / "docs" / "predictive-history-index.md").read_text(encoding="utf-8")
+    assert "Volume I — Civilization" not in hub_md
+    assert "Volume II — Apocalypse" not in hub_md
 
 
 def test_growth_command_returns_agent_goal_policy(capsys):
