@@ -28,4 +28,4 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `essays/essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy/essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy.md` for exact essay wording and `essays/essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy/essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy-commentary.md` for bounded analysis.
+Return through `essays/essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy.md` for exact essay wording and `commentaries/essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy-commentary.md` for bounded analysis.

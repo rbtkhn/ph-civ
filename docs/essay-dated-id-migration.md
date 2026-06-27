@@ -22,3 +22,18 @@ PYTHONPATH=src python -m civ_ph.cli validate
 ## New intakes
 
 [`scripts/intake_essays_phase2.py`](../scripts/intake_essays_phase2.py) emits dated IDs from `publication_date` + `substack_slug`. Check manifest for same-day collisions before landing.
+
+## Flat layout (2026-06-26)
+
+Essay bodies and commentaries split across two root namespaces (no per-essay subfolders):
+
+| Artifact | Path |
+| --- | --- |
+| Essay body | `essays/{source_id}.md` |
+| Commentary | `commentaries/{source_id}-commentary.md` |
+
+```bash
+python scripts/flatten_essays_layout.py   # one-time; already applied
+```
+
+Old GitHub tree URLs `…/essays/{source_id}/` **404** after this cut. Use blob URLs from `ph-civ link {source_id}` for essays.

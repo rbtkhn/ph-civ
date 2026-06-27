@@ -105,6 +105,25 @@ def test_latest_game_theory_chapters_are_provisional_source_first(capsys):
     assert "public LLM-native Predictive History reader" in out
 
 
+def test_link_essay_emits_transcript_url(capsys):
+    essay_id = "essay-2025-09-27-the-empire-goes-to-war"
+    assert main(["link", essay_id, "--json"]) == 0
+    payload = json.loads(capsys.readouterr().out)
+    assert payload["source_id"] == essay_id
+    assert payload["series"] == "essays"
+    assert payload["folder_ready"] is True
+    assert payload["github_folder_url"] is None
+    assert payload["github_transcript_url"].endswith(
+        "/essays/essay-2025-09-27-the-empire-goes-to-war.md"
+    )
+    assert payload["commentary_path"] == "commentaries/essay-2025-09-27-the-empire-goes-to-war-commentary.md"
+    assert "public essay packet" in payload["suggested_llm_prompt"]
+
+    assert main(["link", essay_id]) == 0
+    out = capsys.readouterr().out
+    assert "essay: https://github.com/rbtkhn/predictive-history/blob/main/essays/" in out
+
+
 def test_show_known_card_json(capsys):
     assert main(["show", "civ-41", "--format", "json"]) == 0
     assert "\"source_id\": \"civ-41\"" in capsys.readouterr().out

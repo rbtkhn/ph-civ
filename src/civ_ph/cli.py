@@ -51,6 +51,7 @@ from .volume_i_parts import validate_volume_i_parts
 
 EXPECTED_SOURCE_REPO = "rbtkhn/ph-workshop"
 GITHUB_TREE_BASE = "https://github.com/rbtkhn/predictive-history/tree/main"
+GITHUB_BLOB_BASE = "https://github.com/rbtkhn/predictive-history/blob/main"
 
 PROMPT_MODES = {
     "study": "Create a study plan that helps me understand this ph-civ orientation card without treating it as a substitute for the source lecture.",
@@ -291,36 +292,61 @@ def chapter_folder_link_payload(card: dict) -> dict:
             transcript_file.read_text(encoding="utf-8")
         ).get("source_url")
     folder_path = "/".join(transcript_path.split("/")[:-1])
-    folder_ready = bool(
-        folder_path
-        and folder_path.endswith(f"/{card['source_id']}")
-        and commentary_path.startswith(f"{folder_path}/")
-        and (DATA_ROOT.parent / folder_path / "README.md").exists()
-    )
-    github_folder_url = (
-        f"{GITHUB_TREE_BASE}/{folder_path}" if folder_ready else None
-    )
+    is_essay = card.get("series") == "essays"
+    if is_essay:
+        folder_ready = bool(transcript_path and transcript_file.exists())
+        github_folder_url = None
+        github_transcript_url = (
+            f"{GITHUB_BLOB_BASE}/{transcript_path}" if folder_ready else None
+        )
+    else:
+        folder_ready = bool(
+            folder_path
+            and folder_path.endswith(f"/{card['source_id']}")
+            and commentary_path.startswith(f"{folder_path}/")
+            and (DATA_ROOT.parent / folder_path / "README.md").exists()
+        )
+        github_folder_url = f"{GITHUB_TREE_BASE}/{folder_path}" if folder_ready else None
+        github_transcript_url = None
     provisional = card.get("review_status") == "provisional"
     review_note = (
         " The packet is provisional, so use the review status and guardrails before quoting it."
         if provisional
         else ""
     )
-    suggested_llm_prompt = (
-        f"Guide me through the {card['source_id']} chapter folder as a public study packet. "
-        "Start with the transcript, then use the commentary canvas and orientation/card "
-        "guardrails. Keep provisional claims bounded and separate lecture representation "
-        "from verification."
-    )
-    suggested_youtube_comment = (
-        f"{card['title']} is a useful place to study how this lecture turns historical "
-        "pattern into strategic pressure.\n\n"
-        "There is a public reader packet for following it without losing the thread:\n"
-        f"{github_folder_url or '[folder not ready]'}\n\n"
-        "Paste the folder link into ChatGPT, Claude, or Grok and ask it to guide you "
-        f"through the chapter using the transcript, commentary canvas, and guardrails.{review_note} "
-        "It is part of ph-civ, a public LLM-native Predictive History reader."
-    )
+    if is_essay:
+        share_url = github_transcript_url or "[essay not ready]"
+        suggested_llm_prompt = (
+            f"Guide me through the {card['source_id']} public essay packet. "
+            "Start with the essay body, then use the commentary canvas in commentaries/ "
+            "and the orientation card guardrails. Keep provisional claims bounded and "
+            "separate source representation from verification."
+        )
+        suggested_youtube_comment = (
+            f"{card['title']} is a useful Predictive History essay for studying civilizational "
+            "pattern under pressure.\n\n"
+            "Public essay body:\n"
+            f"{share_url}\n\n"
+            "Paste the link into ChatGPT, Claude, or Grok and ask it to guide you through "
+            f"the essay, commentary canvas, and card guardrails.{review_note} "
+            "It is part of ph-civ, a public LLM-native Predictive History reader."
+        )
+    else:
+        suggested_llm_prompt = (
+            f"Guide me through the {card['source_id']} chapter folder as a public study packet. "
+            "Start with the transcript, then use the commentary canvas and orientation/card "
+            "guardrails. Keep provisional claims bounded and separate lecture representation "
+            "from verification."
+        )
+        suggested_youtube_comment = (
+            f"{card['title']} is a useful place to study how this lecture turns historical "
+            "pattern into strategic pressure.\n\n"
+            "There is a public reader packet for following it without losing the thread:\n"
+            f"{github_folder_url or '[folder not ready]'}\n\n"
+            "Paste the folder link into ChatGPT, Claude, or Grok and ask it to guide you "
+            f"through the chapter using the transcript, commentary canvas, and guardrails.{review_note} "
+            "It is part of ph-civ, a public LLM-native Predictive History reader."
+        )
     return {
         "source_id": card["source_id"],
         "title": card["title"],
@@ -329,8 +355,9 @@ def chapter_folder_link_payload(card: dict) -> dict:
         "part": card["part"],
         "review_status": card.get("review_status"),
         "folder_ready": folder_ready,
-        "chapter_folder_path": folder_path if folder_ready else None,
+        "chapter_folder_path": folder_path if folder_ready and not is_essay else None,
         "github_folder_url": github_folder_url,
+        "github_transcript_url": github_transcript_url,
         "source_video_url": source_video_url,
         "transcript_path": transcript_path,
         "commentary_path": commentary_path,
@@ -457,7 +484,10 @@ def cmd_link(args) -> int:
     print(f"{payload['source_id']}\t{payload['title']}")
     if payload.get("source_video_url"):
         print(f"source_video: {payload['source_video_url']}")
-    print(f"folder: {payload['github_folder_url']}")
+    if payload.get("github_transcript_url"):
+        print(f"essay: {payload['github_transcript_url']}")
+    elif payload.get("github_folder_url"):
+        print(f"folder: {payload['github_folder_url']}")
     print(f"review_status: {payload['review_status']}")
     print("")
     print("LLM prompt:")

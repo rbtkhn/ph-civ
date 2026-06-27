@@ -181,7 +181,7 @@ def build_commentary(source_id: str, title: str) -> str:
 source_id: {source_id}
 title: {escape_yaml(title)}
 source_series: "Predictive History Essays"
-source_chapter_path: essays/{source_id}/{source_id}.md
+source_chapter_path: essays/{source_id}.md
 source_corpus_path: corpus/essays/{source_id}.md
 commentary_status: in-review
 review_status: source_reviewed
@@ -313,7 +313,7 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `essays/{source_id}/{source_id}.md` for exact essay wording and `essays/{source_id}/{source_id}-commentary.md` for bounded analysis.
+Return through `essays/{source_id}.md` for exact essay wording and `commentaries/{source_id}-commentary.md` for bounded analysis.
 """
 
 
@@ -331,15 +331,15 @@ def build_card_jsonl(source_id: str, meta: dict) -> dict:
             "Historical Pressure Points": "- Seed pressure points pending commentary pass\n- Civilizational framing hooks to be extracted from the essay",
             "Limits of the Frame": "This entry is in review. Do not treat interpretive frames or forecasts as verified fact without external review.",
             "Reading Posture": "Read this as an orientation card, not as a substitute for the essay body or commentary canvas.",
-            "Return Path": f"Return through `essays/{source_id}/`, the commentary canvas, and `essays/{source_id}/{source_id}.md`.",
+            "Return Path": f"Return through `essays/{source_id}.md`, `commentaries/{source_id}-commentary.md`, and the public card.",
             "Where This Sits": f"`{source_id}` is a public essay packet on the ph-civ essays surface (`part: civilization`).",
         },
         "series": "essays",
         "source_id": source_id,
         "source_paths": {
-            "commentary_path": f"essays/{source_id}/{source_id}-commentary.md",
+            "commentary_path": f"commentaries/{source_id}-commentary.md",
             "orientation_payload_path": "",
-            "source_chapter_path": f"essays/{source_id}/{source_id}.md",
+            "source_chapter_path": f"essays/{source_id}.md",
             "source_corpus_path": f"corpus/essays/{source_id}.md",
         },
         "source_snapshot": {
@@ -361,24 +361,24 @@ def intake_essay(meta: dict, existing_ids: set[str]) -> str:
     slug = workshop_meta.get("substack_slug") or slug_from_url(url)
     source_id = dated_essay_id(pub, str(slug))
     assert_unique_dated_id(source_id, existing_ids)
-    target = PH_CIV / "essays" / source_id
-    if target.exists():
-        raise SystemExit(f"refusing to overwrite existing packet: {target}")
+    essay_path = PH_CIV / "essays" / f"{source_id}.md"
+    commentary_path = PH_CIV / "commentaries" / f"{source_id}-commentary.md"
+    if essay_path.exists() or commentary_path.exists():
+        raise SystemExit(f"refusing to overwrite existing packet: {essay_path} or {commentary_path}")
 
     body = extract_essay_body(workshop_text)
     if not body.strip():
         raise SystemExit(f"empty essay body: {workshop_path}")
 
-    target.mkdir(parents=True)
+    PH_CIV.joinpath("commentaries").mkdir(exist_ok=True)
     title = meta["title"]
 
-    (target / f"{source_id}.md").write_text(
+    essay_path.write_text(
         build_transcript(source_id, meta, workshop_meta, body), encoding="utf-8", newline="\n"
     )
-    (target / f"{source_id}-commentary.md").write_text(
+    commentary_path.write_text(
         build_commentary(source_id, title), encoding="utf-8", newline="\n"
     )
-    (target / "README.md").write_text(build_readme(source_id, title, url), encoding="utf-8", newline="\n")
 
     card_md = PH_CIV / "data" / "cards" / f"{source_id}.md"
     card_md.write_text(build_card_md(source_id, title), encoding="utf-8", newline="\n")
@@ -461,7 +461,7 @@ def main() -> int:
         new_cards.append(build_card_jsonl(source_id, meta))
 
     merge_cards_jsonl(new_cards)
-    public_count = len(list((PH_CIV / "essays").glob("essay-*")))
+    public_count = len(list((PH_CIV / "essays").glob("essay-*.md")))
     update_essays_readme(public_count)
 
     print(f"intake complete: {len(created)} essays -> {', '.join(created[:3])} ... {created[-1]}")

@@ -28,4 +28,4 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `essays/essay-2025-08-13-the-third-coming/essay-2025-08-13-the-third-coming.md` for exact essay wording and `essays/essay-2025-08-13-the-third-coming/essay-2025-08-13-the-third-coming-commentary.md` for bounded analysis.
+Return through `essays/essay-2025-08-13-the-third-coming.md` for exact essay wording and `commentaries/essay-2025-08-13-the-third-coming-commentary.md` for bounded analysis.

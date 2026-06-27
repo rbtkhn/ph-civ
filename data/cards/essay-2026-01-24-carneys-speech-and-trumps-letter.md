@@ -28,4 +28,4 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `essays/essay-2026-01-24-carneys-speech-and-trumps-letter/essay-2026-01-24-carneys-speech-and-trumps-letter.md` for exact essay wording and `essays/essay-2026-01-24-carneys-speech-and-trumps-letter/essay-2026-01-24-carneys-speech-and-trumps-letter-commentary.md` for bounded analysis.
+Return through `essays/essay-2026-01-24-carneys-speech-and-trumps-letter.md` for exact essay wording and `commentaries/essay-2026-01-24-carneys-speech-and-trumps-letter-commentary.md` for bounded analysis.

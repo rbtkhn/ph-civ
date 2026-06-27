@@ -29,4 +29,4 @@ This entry is in review and preserves the essay's interpretive frame without tre
 
 ## Return Path
 
-Return through essays/essay-2026-04-18-the-us-iran-war-round-two/essay-2026-04-18-the-us-iran-war-round-two.md for exact essay wording and essays/essay-2026-04-18-the-us-iran-war-round-two/essay-2026-04-18-the-us-iran-war-round-two-commentary.md for bounded analysis.
+Return through essays/essay-2026-04-18-the-us-iran-war-round-two.md for exact essay wording and commentaries/essay-2026-04-18-the-us-iran-war-round-two-commentary.md for bounded analysis.

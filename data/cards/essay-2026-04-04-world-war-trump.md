@@ -29,4 +29,4 @@ This entry is in review and preserves the essay's interpretive frame without tre
 
 ## Return Path
 
-Return through essays/essay-2026-04-04-world-war-trump/essay-2026-04-04-world-war-trump.md for exact essay wording and essays/essay-2026-04-04-world-war-trump/essay-2026-04-04-world-war-trump-commentary.md for bounded analysis.
+Return through essays/essay-2026-04-04-world-war-trump.md for exact essay wording and commentaries/essay-2026-04-04-world-war-trump-commentary.md for bounded analysis.

@@ -28,4 +28,4 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `essays/essay-2026-03-07-the-acceleration/essay-2026-03-07-the-acceleration.md` for exact essay wording and `essays/essay-2026-03-07-the-acceleration/essay-2026-03-07-the-acceleration-commentary.md` for bounded analysis.
+Return through `essays/essay-2026-03-07-the-acceleration.md` for exact essay wording and `commentaries/essay-2026-03-07-the-acceleration-commentary.md` for bounded analysis.

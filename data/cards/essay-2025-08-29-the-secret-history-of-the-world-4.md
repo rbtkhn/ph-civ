@@ -28,4 +28,4 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `essays/essay-2025-08-29-the-secret-history-of-the-world-4/essay-2025-08-29-the-secret-history-of-the-world-4.md` for exact essay wording and `essays/essay-2025-08-29-the-secret-history-of-the-world-4/essay-2025-08-29-the-secret-history-of-the-world-4-commentary.md` for bounded analysis.
+Return through `essays/essay-2025-08-29-the-secret-history-of-the-world-4.md` for exact essay wording and `commentaries/essay-2025-08-29-the-secret-history-of-the-world-4-commentary.md` for bounded analysis.

@@ -28,4 +28,4 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `essays/essay-2025-09-27-the-empire-goes-to-war/essay-2025-09-27-the-empire-goes-to-war.md` for exact essay wording and `essays/essay-2025-09-27-the-empire-goes-to-war/essay-2025-09-27-the-empire-goes-to-war-commentary.md` for bounded analysis.
+Return through `essays/essay-2025-09-27-the-empire-goes-to-war.md` for exact essay wording and `commentaries/essay-2025-09-27-the-empire-goes-to-war-commentary.md` for bounded analysis.

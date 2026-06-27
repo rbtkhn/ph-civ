@@ -28,4 +28,4 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `essays/essay-2025-10-15-secret-history-10-the-war-of-heaven/essay-2025-10-15-secret-history-10-the-war-of-heaven.md` for exact essay wording and `essays/essay-2025-10-15-secret-history-10-the-war-of-heaven/essay-2025-10-15-secret-history-10-the-war-of-heaven-commentary.md` for bounded analysis.
+Return through `essays/essay-2025-10-15-secret-history-10-the-war-of-heaven.md` for exact essay wording and `commentaries/essay-2025-10-15-secret-history-10-the-war-of-heaven-commentary.md` for bounded analysis.

@@ -28,4 +28,4 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `essays/essay-2026-05-09-the-us-china-grand-bargain/essay-2026-05-09-the-us-china-grand-bargain.md` for exact essay wording and `essays/essay-2026-05-09-the-us-china-grand-bargain/essay-2026-05-09-the-us-china-grand-bargain-commentary.md` for bounded analysis.
+Return through `essays/essay-2026-05-09-the-us-china-grand-bargain.md` for exact essay wording and `commentaries/essay-2026-05-09-the-us-china-grand-bargain-commentary.md` for bounded analysis.

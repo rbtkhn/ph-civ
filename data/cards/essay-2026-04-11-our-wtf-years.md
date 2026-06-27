@@ -28,4 +28,4 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `essays/essay-2026-04-11-our-wtf-years/essay-2026-04-11-our-wtf-years.md` for exact essay wording and `essays/essay-2026-04-11-our-wtf-years/essay-2026-04-11-our-wtf-years-commentary.md` for bounded analysis.
+Return through `essays/essay-2026-04-11-our-wtf-years.md` for exact essay wording and `commentaries/essay-2026-04-11-our-wtf-years-commentary.md` for bounded analysis.

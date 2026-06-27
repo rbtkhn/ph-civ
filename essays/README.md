@@ -1,8 +1,8 @@
 # Essays
 
-**Canonical public home** for Predictive History **Substack and long-form essay** chapters.
+**Canonical public home** for Predictive History **Substack essay bodies** (verbatim text).
 
-Repo path: **`essays/`** at the repository root (sibling to [`lectures/`](../lectures/README.md), [`interviews/`](../interviews/README.md), [`ph-civ/`](../ph-civ/README.md), [`ph-apo/`](../ph-apo/README.md), [`book/`](../book/), [`sources/`](../sources/)).
+Repo path: **`essays/`** at the repository root (sibling to [`commentaries/`](../commentaries/README.md), [`interviews/`](../interviews/README.md), [`lectures/`](../lectures/README.md), [`ph-civ/`](../ph-civ/README.md), [`book/`](../book/)).
 
 ## Public ID scheme
 
@@ -13,50 +13,32 @@ Examples: `essay-2025-08-06-vision-mission-goals`, `essay-2025-09-27-the-empire-
 | Field | Detail |
 | --- | --- |
 | **Date** | Substack `publication_date` (pinned in [`data/essays/manifest.json`](../data/essays/manifest.json)) |
-| **Slug** | `substack_slug` from packet frontmatter (URL path segment) |
-| **Folder** | `essays/{source_id}/` with essay body, commentary canvas, and README |
+| **Slug** | `substack_slug` from packet frontmatter |
+| **Essay body** | `essays/{source_id}.md` (flat file, no subfolder) |
+| **Commentary** | [`commentaries/{source_id}-commentary.md`](../commentaries/README.md) |
 | **Catalog** | ph-civ essays surface in [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) |
 
-**Public today:** 43 essay chapter packets (`essay-2025-08-06-vision-mission-goals` … `essay-2026-06-19-peace-in-our-time`).
+**Public today:** 43 essay bodies (`essay-2025-08-06-vision-mission-goals` … `essay-2026-06-19-peace-in-our-time`).
 
 ### Workshop crosswalk (`es-*`)
 
-Frozen workshop `es-01` … `es-32` in strategy-codex `codex/predictive-history/metadata/sources.yaml` map to dated public IDs. Full legacy ↔ dated crosswalk: [`data/essays/manifest.json`](../data/essays/manifest.json) (`legacy_source_id`, optional `workshop_source_id`, `source_id`).
+Full legacy ↔ dated crosswalk: [`data/essays/manifest.json`](../data/essays/manifest.json).
 
-| Legacy | Workshop | Example dated `source_id` |
-| --- | --- | --- |
-| `essay-01` | `es-01` | `essay-2025-08-06-vision-mission-goals` |
-| `essay-32` | `es-32` | `essay-2025-10-15-secret-history-10-the-war-of-heaven` (see manifest for exact slug) |
-| `essay-33` … `essay-43` | — | public intakes after workshop promotion |
+**Deprecated paths:**
 
-**Deprecated:** sequential `essay-NN` folder URLs (`…/essays/essay-07/…`) **404 after 2026-06-26 hard cut**. Substack canonical URLs are unchanged. See [`docs/essay-dated-id-migration.md`](../docs/essay-dated-id-migration.md).
+- Sequential `essay-NN` folder URLs (2026-06-26 dated-ID cut)
+- Per-essay subfolder URLs `…/essays/{source_id}/` (2026-06-26 flat layout cut) — use `essays/{source_id}.md` instead
 
-**Same-day collision rule:** if two essays share a `publication_date`, append `-2` or a title fragment to the slug before assigning `source_id` (none in corpus today).
-
-## Recategorization (operator policy)
-
-Essays are **medium-first** on **`essays/<source_id>/`** with catalog surface **`ph-civ`** / part **`civilization`**.
-
-Reader rollup under [`book/volume-ii-apocalypse/sub/`](../book/volume-ii-apocalypse/sub/) may remain as **cross-links**; **`essays/essay-YYYY-MM-DD-*`** is the canonical namespace.
+Substack canonical URLs unchanged. See [`docs/essay-dated-id-migration.md`](../docs/essay-dated-id-migration.md).
 
 ## Packet shape
 
-Each essay chapter:
+| Artifact | Path |
+| --- | --- |
+| Essay body | `essays/{source_id}.md` |
+| Commentary canvas | `commentaries/{source_id}-commentary.md` |
+| Orientation card | `data/cards/{source_id}.md` |
 
-- `{source_id}.md` — verbatim essay body
-- `{source_id}-commentary.md` — open commentary canvas
-- `README.md` — public study doorway (`## Source` + Substack URL)
+No per-essay README doorway — study entry is essay body + commentary + card. Share link: `ph-civ link {source_id}` (essays emit transcript blob URL).
 
-Registry: [`data/cards.jsonl`](../data/cards.jsonl) · catalog: [`docs/predictive-history-index.md`](../docs/predictive-history-index.md).
-
-## Catalog fields
-
-| Field | Value |
-|-------|--------|
-| `source_id` | `essay-YYYY-MM-DD-{substack-slug}` |
-| `series` | `essays` |
-| `part` | `civilization` |
-| `surface` | `ph-civ` |
-| `source_paths.*` | under `essays/{source_id}/` |
-
-Intake script: [`scripts/intake_essays_phase2.py`](../scripts/intake_essays_phase2.py)
+Intake: [`scripts/intake_essays_phase2.py`](../scripts/intake_essays_phase2.py)

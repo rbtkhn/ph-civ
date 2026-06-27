@@ -26,7 +26,8 @@ It should not become the large-media vault. Large media archives stay outside Gi
 
 Medium-first chapter namespaces at the repository root (siblings to [`book/`](book/), [`ph-civ/`](ph-civ/README.md), [`ph-apo/`](ph-apo/README.md)):
 
-- [`essays/`](essays/README.md) — canonical home for Substack and long-form essay chapters (`essay-2025-08-06-vision-mission-goals` … `essay-2026-06-19-peace-in-our-time`)
+- [`essays/`](essays/README.md) — flat Substack essay bodies (`essay-YYYY-MM-DD-{slug}.md`)
+- [`commentaries/`](commentaries/README.md) — essay commentary canvases (`essay-*-commentary.md`; lectures/interviews unchanged)
 - [`lectures/`](lectures/README.md) — reserved namespace for lecture chapter packets; most lecture chapters still live under `book/` during recanonicalization
 - [`interviews/`](interviews/README.md) — 15 public interview provenance packets (`interview-YYYY-MM-DD-{host-slug}`); cataloged under **Provenance** in the chapter index
 

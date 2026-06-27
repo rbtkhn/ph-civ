@@ -28,4 +28,4 @@ This entry is in review. Do not treat interpretive frames, hidden-intention clai
 
 ## Return Path
 
-Return through `essays/essay-2026-02-21-countdown-to-iran/essay-2026-02-21-countdown-to-iran.md` for exact essay wording and `essays/essay-2026-02-21-countdown-to-iran/essay-2026-02-21-countdown-to-iran-commentary.md` for bounded analysis.
+Return through `essays/essay-2026-02-21-countdown-to-iran.md` for exact essay wording and `commentaries/essay-2026-02-21-countdown-to-iran-commentary.md` for bounded analysis.
