@@ -12,10 +12,12 @@ interviews_episode: 10
 ingested_at: "2026-06-25"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: workshop_promotion
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-06-25
+fidelity_reviewed_at: 2026-06-26
 part: provenance
 part_role: provenance
 series: interviews
@@ -25,9 +27,10 @@ series: interviews
 
 ## Part I: Full transcript
 
+
 ### Trailer — Consciousness (Clip)
 
-**Jiang Xueqin:** techno Marxarxism. That's the world we're going into. They want a numb and indifferent
+**Jiang Xueqin:** technomarxism. That's the world we're going into. They want a numb and indifferent
 population that they can enslave, that they can rule over, who are complacent. What they
 want is compliancy. I feel sorry for these people because the way the world is going, I
 don't think that they are psychologically equipped to survive. The entire universe is
@@ -39,21 +42,22 @@ attention, our consciousness. towards you matter, but you have to choose to matt
 to believe that you matter. And honestly, I think it's a message that the elite have
 purposefully hid from us.
 
+
 ### Channel Promo and Introduction
 
 **Host (Endgame):** Hi friends, it's a pleasure to tell you that my book What It Takes Southeast Asia has been
 released in English and Bahasa Indonesia. You can buy it through books.game.id or at any of
 these stores. Now back to the show. Hi friends. So today we're honored to uh be graced by
-Jang Suin who has uh given lots of analyses about what's happening around the world. Jang,
+Jiang Xueqin who has uh given lots of analyses about what's happening around the world. Jiang,
 thank you so much for gracing our show.
 
 **Jiang Xueqin:** Thanks so much for inviting me.
 
+### Early Life — Toronto Immigrant Upbringing and Yale Acceptance
+
 **Host (Endgame):** Yeah, I want to start out with how you grew up.
 
-### Conversation (Captions)
 
-_YouTube captions do not separate speakers; paragraphs below follow the published English subtitles (same text as before). Use for search and book lane; optional manual pass for Host/Jiang if needed._
 
 **Host (Endgame):** Uh you grew up in Canada and you've uh you've you know mentioned that you know you you were
 not at the top of the class but you were up there within the top echelon. Uh and then you
@@ -121,7 +125,7 @@ letter from Yale.
 Now the thing to know about the US application process is that you know from the size of the
 envelope if they accepted you or rejected you right so if they accepted you it's a huge
 envelope because they want too right yeah it's very thick it's because they have a lot of
-brochures they want to sell you on um on on on wanting the the acceptance right they want
+brochures they want to sell you on um on on on wanting the acceptance right they want
 you to accept their acceptance right so usually you just know from the size of the envelope
 if you got in or not so I got a small envelope.
 
@@ -136,29 +140,35 @@ I put my backpack on on the bed. I laid I laid down on the on my bed and it was 
 I I remember it being a very dark room. And I opened the letter and the first word I said
 the first word that it said was congratulations. And that was a shock. I mean, like like it
 was it was someone punched me. And and I I didn't know what I was what I was reading. So, I
-I kept on reading and it seemed as though Yo had accepted me, but I didn't believe it.
+I kept on reading and it seemed as though Yale had accepted me, but I didn't believe it.
 
 So what I did was the first thing I did was I picked up the phone and I called Yale
-University. It took me half an hour, but I finally got food and admissions officer who
-confirmed that I' had been accepted into Yale. And um and that's the story. And and and you
+University. It took me half an hour, but I finally got through to an admissions officer who
+confirmed that I'd been accepted into Yale. And um and that's the story. And and and you
 know that forever changed my life because going to Yale, as you can imagine, opened up the
-entire world to uh to me. Wow. Talk about the essay that you wrote.
+entire world to uh to me. Wow.
 
-Uh when I was a high school student, um I went to a normal high school in Toronto, my world
+### Yale Essay — Feynman, Poetry, and Skull and Bones
+
+**Host (Endgame):** Talk about the essay that you wrote.
+
+**Jiang Xueqin:** Uh when I was a high school student, um I went to a normal high school in Toronto, my world
 was was very limited and I didn't have packagers, you know, they're called packagers who
 help you write the essays. Uh I didn't have people I knew who went to Yale and who could
 guide me uh in the process. So I just wrote a very mundane essay. I mean I wrote about my
-love for Richard Fineman, you know. Um at that time in high school, I fell in love with
+love for Richard Feynman, you know. Um at that time in high school, I fell in love with
 physics. I fell in love with quantum physics.
 
-I watched all Richard Feman's lectures. I I just think he's the he's the greatest science
-educator ever. Um yeah and um so I wrote about um my love for Richard Feman and how I myself
+I watched all Richard Feynman's lectures. I I just think he's the he's the greatest science
+educator ever. Um yeah and um so I wrote about um my love for Richard Feynman and how I myself
 wanted to pursue particle physics and then I I did that for a year at Yale and I gave up
 because I was not cut out to be a particle physicist. I switch over to to the other extreme
 which was English poetry. Right. So I went from particle physics to English poetry.
 
-Um, after one year, did you know anything about English lit or English poetry or you just it
-was random? Yeah, I know. I mean, I um I mean it was a it was a standard Toronto public
+**Host (Endgame):** Um, after one year, did you know anything about English lit or English poetry or you just it
+was random?
+
+**Jiang Xueqin:** Yeah, I know. I mean, I um I mean it was a it was a standard Toronto public
 school education. So, in high school, you know, you um you read Hamlet, you read Julius
 Caesar, um but you also read a lot of like bad Canadian fiction, they make you read bad
 Canadian fiction. Uh they make you read Azro, Margaret Atwood, and I mean they're good
@@ -207,8 +217,10 @@ that I was a teacher I'm still a teacher um and as you can imagine um literature
 with a very strong communication um very strong uh communication and so So that education um
 really empowered me for for for the rest of my life.
 
-Did did you ever have any curiosity with respect to the Russian stuff or the Chinese stuff
-toki? Right. So yeah. Right. So again you receive a very broad education at Yale. So it's
+**Host (Endgame):** Did did you ever have any curiosity with respect to the Russian stuff or the Chinese stuff
+toki? 
+
+**Jiang Xueqin:** Right. So yeah. Right. So again you receive a very broad education at Yale. So it's
 fascinated with Russian culture and history uh and literature. Um so I did read Pisto. I
 love Anacarina. Um I I I read that at Yale. It it's it's such a wonderful wonderful book. Um
 I spent a lot of time focusing on the Russian Revolution. Um so we read Vlad Vladimir Lenin.
@@ -219,31 +231,31 @@ history which I which I believe was taught by Peter Steinberg and and he he's a 
 prominent Russian historian. Um and it was it was a wonderful course. Um, and yeah, so I I I
 I do have some background in in that. Yes.
 
-Because I would have thought that, you know, you you've you've talked quite a bit about how
+**Host (Endgame):** Because I would have thought that, you know, you you've you've talked quite a bit about how
 class structures are shaped by ideology and, you know, how Marxism, socialism, communism,
 capitalism.
 
-I mean a lot of the stuff would have you know been shaped by a lot of the readings that came
+**Jiang Xueqin:** I mean a lot of the stuff would have you know been shaped by a lot of the readings that came
 out of Russia and other European countries and of course you know the UK and the US now did
-you come across the the secret society at Yale the bones and skulls right so um and I mean
+you come across the secret society at Yale the bones and skulls right so um and I mean
 like everyone knows this but even at Yale there's a hierarchy and skull and bones is at the
 very top so I didn't know this at that time when I first went to Yale.
 
 Um, but you know, if you come from the private school boarding system, and a lot of Yaleies
-did come from that system like Graten and Endover and Exiter and St. Paul's, they they knew
+did come from that system like Graten and Endover and Exeter and St. Paul's, they they knew
 the point of going to Yale was to try to get into one of these secret societies your senior
 year. You know, it's the same system at Princeton and Harvard where uh, you know, it's a
-hierarchy and the the very point um of a university is to prove your social worth. Um, but I
+hierarchy and the very point um of a university is to prove your social worth. Um, but I
 didn't know that.
 
 I mean, like I was just this poor Chinese immigrant who luck myself who looked into Yale uh
 from Toronto. So, I was very naive um about Yale. And I thought, well, the entire point of
 going to Yale is to get an education, right? The entire point of Yale is to read good books,
 talk to your professors, and open your mind. And so, that's what I did for four years. But I
-wasn't really involved in the the social scene.
+wasn't really involved in the social scene.
 
 I wasn't really involved in like the politics where you know you meet friends, you join the
-right clubs but but but this this this is what I know about Skone and Bones. Okay, so Skone
+right clubs but but but this this this is what I know about Skull and Bones. Okay, so Skone
 Bones um every year 12 juniors are tapped. Okay, they're um 12 or 15. Excuse me. I thought
 it was 15. Oh, it's 12 now. Okay. You know, you know what? You know what? I thought it was
 12, but it could be 15. Okay. So So maybe 15 could be 12. I'm not sure. Okay. But you don't
@@ -263,14 +275,14 @@ you something funny. So I'm the class of 1999. And apparently the class of 1999 
 mediocre class and that's probably how I got in.
 
 Um um and so that year I knew who I I my friend was the editor of the Yale Daily News and he
-was so angry that he was not tapped to join Skill and Bones that he started his own secret
+was so angry that he was not tapped to join Skull and Bones that he started his own secret
 society and you know he he was rich. So, but like like like that's that just knows just the
 absurdity of the competition, you know, around joining these secret societies and and and
 and so yeah, so he and some other people start their own secret society.
 
 He he thought that, you know, I I'm not ed of Daily News and so I must be tapped, but but
 apparently it's not that um I mean it's not that strict. Um, and um, uh, the third thing I
-will say about Scrum and Bones is that the people that I know who got into Scrum Bones are
+will say about Skull and Bones is that the people that I know who got into Skull Bones are
 actually pretty low-key people. They're not people you you would think are intellectually
 vibrant and charismatic.
 
@@ -280,11 +292,12 @@ to navigate that system. So um so yeah so so so I yeah I do know about Skull and
 to be honest with you um I was in a different world. I was very much marginalized and
 alienated at at Yale.
 
-Did did you get a sense at that time that that was sort of like a the way for anybody to get
+**Host (Endgame):** Did did you get a sense at that time that that was sort of like a the way for anybody to get
 powerful, get rich or whatever. that that was a precondition for somebody to belong to some
 ritual, you know, activity in order to be powerful or to be wealthy, to be rich or to be
-whatever in a position of leadership or authority, right? So again, I was very naive when I
-was at Yale. Um, you know, I was a poor person. I have absolutely no idea how power works.
+whatever in a position of leadership or authority, right?
+
+**Jiang Xueqin:** So again, I was very naive when I was at Yale. Um, you know, I was a poor person. I have absolutely no idea how power works.
 
 So I believe in the complete opposite where the world is run by ideas.
 
@@ -400,40 +413,48 @@ his favor and like like I I just saw the like the gradual decline of journalism 
 know after that was the co affair and I was in China at that time and I didn't think it was
 that that big of a deal but the journalist journalism was making out to be like this you
 know uh apocalypse then of course was the war in uh Ukraine And I mean that was just pure
-dingoism, right?
+jingoism, right?
 
-I mean like rather than trying to report the the war in a fair and balanced manner, it was
+I mean like rather than trying to report the war in a fair and balanced manner, it was
 just like you know Russia is this uh evil empire that's about that's about to collapse at
 any point. Ukraine is heroic and it it didn't it didn't go into any of the history behind
-this war and the fact that you know the ass battalion are a bunch of neo-Nazis. They never
+this war and the fact that you know the Azov battalion are a bunch of neo-Nazis. They never
 ever mentioned that. It's something that you have to learn from um online media, independent
 media.
 
 So think uh so I learned that from the Jimmy door show. Okay. So at that point, okay, by the
-time the war in Ukraine, I had given up on journalism. Now I switched to the internet. I was
-watching Jimmy Door a lot. I was watching Ter Carson a lot. I was a huge fan of Ter Carson
+time the war in Ukraine,
+
+### Journalistic Disillusion — Depression and Jimmy Dore
+
+I had given up on journalism. Now I switched to the internet. I was
+watching Jimmy Door a lot. I was watching Tucker Carlson a lot. I was a huge fan of Tucker Carlson
 at that point because he was the only one who was actually speaking the truth about the
 world. Oh yeah. Um so so so yeah. And try to stop the war. Yeah. Exactly. Try to stop the
 war three times.
 
-Yeah, I'm actually talk talking to Taro Carlson next week. We have a two-hour uh
+Yeah, I'm actually talk talking to Tucker Carlson next week. We have a two-hour uh
 conversation schedule. So, I'm really I'm about that because, you know, like as you said, as
 you said, he's been working his ass off for the past 10 years trying to stop America from
 imploding from from like committing suicide. You know, he was the one who tried to stop the
 Ukraine war, but he he but you know, he did everything he could to stop this war in Iran.
 
 So uh you may remember but in January 2020 the uh President Trump ordered the assassination
-of Kasam Salmani who's the right and that's a definition of war right and and and so and so
+of Qassem Soleimani who's the right and that's a definition of war right and and and so and so
 there's real fear that Trump would order a fullscale uh war against Iran and you know Tur
 Carlson to his credit he flew all the way down to Mara Lago to you know tell Trump you
 cannot do this you're going to betray your base you're going to destroy your political
 career And it worked.
 
-And so Taro Carlson in 2020 saved us from nuclear apocalypse. Um and actually walter gate to
-lean said we have to thank Turo Carlson because you know he saved the world. Unfortunately
+And so Tucker Carlson in 2020 saved us from nuclear apocalypse. Um and actually walter gate to
+lean said we have to thank Tucker Carlson because you know he saved the world. Unfortunately
 that's not going to help today. But yeah. Well the last bit on journalism at the rate that
 journalism has been somewhat controlled by the state or oligarchical forces. How do you
-think journalism is going to have to get normalized for the benefit of humanity? You think
+think
+
+### Journalism Future — AI Matrix vs Truth-Seeking
+
+journalism is going to have to get normalized for the benefit of humanity? You think
 podcasting is the way forward?
 
 Um, you know, so that there's more truth seeking as opposed to political correctness
@@ -470,13 +491,13 @@ bought CNN and commercial with CBS News. That's going to destroy all of corporat
 right? They're trying to control the narrative because they're desperate and anxious. But
 when you do that, you just force people away.
 
-And so it's possible people shift to AI and that's what you know obviously s Alman and his
+And so it's possible people shift to AI and that's what you know obviously Sam Altman and his
 investors want. But the real solution is for is for us to recognize that we have our own
 individual responsibility to seek the truth for ourselves and to um and and to formulate our
-own understanding of of the world. We can't just be passive and rely on a talking head to
+own understanding of the world. We can't just be passive and rely on a talking head to
 tell us what to what to think anymore. We have to think for ourselves now.
 
-Well, I think the the concern with the pre-existing AI platforms, not all of them, but most
+Well, I think the concern with the pre-existing AI platforms, not all of them, but most
 of them, you know, they're they're more political correctness seeking, but I think it's
 structurally driven by the fact that they're close sourced and forprofit and and I think the
 way forward if we want to get truth out of the system for humanity, I think you got to make
@@ -484,7 +505,11 @@ sure that we maintain an open-source and not for profofit, you know, type of an 
 that will secure and and ensure you know the democratization of information and ideas.
 
 I think transparency is what's key. I I completely agree with you. Transparency and
-openness. Yeah. I want to the next big topic I want to switch over to is really the the
+openness. Yeah. I want to the
+
+### Rules-Based Order — Empire Hubris, 2008, and Trump
+
+next big topic I want to switch over to is really the
 international rules-based uh order, right? uh you you've you've talked quite at length about
 the evolution of the pre-existing order, call it the Washington consensus, the Bretonwoods
 and all that, right? How how do you see it uh evolving so far and going forward, right?
@@ -503,7 +528,7 @@ led us to these Middle East wars where America for no particular reason destroye
 Afghanistan, Iraq, Libya, and Syria.
 
 People people don't remember this, but in 1980s, Libya, Syria, and Iraq were not Islamic
-countries. These were vibrant middle-ass societies that were that was well educated and
+countries. These were vibrant Middle East societies that were that was well educated and
 which was prosperous. And now you go to Libya, uh, Syria, and Iraq, they're completely
 destroyed. And these u millions of refugees are forced to seek shelter in Europe which is
 also causing a lot of problems um as well. So the wars in the Middle East are are were just
@@ -551,14 +576,17 @@ cheats us, right? Especially the Chinese, they they steal from us. They take our
 where we Americans are too trusting, too generous. And that's a message that was really that
 really resonated with American public in 2016. And honestly, it still resonates today. Wow.
 
-You know, one one would think with an intuition that during uniolarity it would have been so
+You know, one one would think with an intuition that during unipolarity it would have been so
 easy to transnationalize any particular narrative right within intuition to the extent that
-we believe that uniolarity is going to shift over to multiparity. Do you think it's going to
+we believe that unipolarity is going to shift over to multipolarity. Do you think it's going to
 be as easy or more difficult to transnationalize any particular narrative? Look, what I
 think is happening in the world right now is not necessarily like a global conflict between
 different nation states.
 
 It's more civil war within these different nation states. Okay, if that makes sense. So, so
+
+### US Civil War — Trump, Elections, and Narrative Control
+
 let's look at the United States. Trump, does Trump really care about Venezuela? Does he
 really care about Iran? Does he really care about these? I don't think he does. He's never
 been these places, you know? He he he's he's a transactional individual. What he cares about
@@ -568,9 +596,9 @@ In Trump's mind, he had one election in 2020, fair and square, and but the elite
 Democrats, cheated him. Okay? $6 billion were spent on that election uh by the Democrats
 against Trump. Um there there was something called the um um blue blue tide. Okay. So, what
 what happened was that um a few days before before the action, Bernie Sanders went on the
-Jimmy Kimmo show. And you guys, you can just Google this, okay?
+Jimmy Kimmel show. And you guys, you can just Google this, okay?
 
-It's online, but Sanders was on the Jimmy Kimmo show and he said this, "Okay, here's what
+It's online, but Sanders was on the Jimmy Kimmel show and he said this, "Okay, here's what
 what's happened uh in November." The first night it will seem as though Trump had won.
 Wisconsin, Pennsylvania, Michigan will go Trump's way. I'm telling you right now, do not
 panic. Stay calm. Why? Because there are these mailin ballots and there are millions of
@@ -601,7 +629,7 @@ and he won in 2024.
 I guarantee you like after what happened in 2020, his entire concern, his entire
 administration is getting back at the Democrats for what happened. Destroying the deep
 state. Okay? Now, you can't take on the deep state directly. That's not how Washington DC
-works. But you take the the deep state uh you you you attack the deep state in the margins.
+works. But you take the deep state uh you you you attack the deep state in the margins.
 Okay. And what are the margins? Well, Venezuela is a margin, right?
 
 So um you know last August he started to deploy the American Navy to the Caribbean and he
@@ -611,7 +639,7 @@ that? And the answer is the CIA uh the deep state a lot of the financing actuall
 narco trafficking. The CIA is notorious for being the world's um greatest drug trafficker.
 
 Okay, so go back to the Iran Contra scandal, right? Also remember Afghanistan before the
-Americans, the Taban already wiped out the the opium trade in Afghanistan. Americans go back
+Americans, the Taban already wiped out the opium trade in Afghanistan. Americans go back
 in and what's happening American soldiers are protecting poppy fields. And where and where's
 this opium going?
 
@@ -626,7 +654,7 @@ so so I think it's better to view uh the world as an expression of the civil war
 United States rather than really a war um among nations can I can I take it that you you
 still believe that the elite class is still going to be able to continue ruling the And if
 that's the premise, then the world is really not going to shift over from unipolarity to
-multiparity because the same group people all over the world are just going to be running
+multipolarity because the same group people all over the world are just going to be running
 around and telling everybody what to do.
 
 Is that the right way of thinking or right? So in theory that's true. Okay. But but but
@@ -662,7 +690,7 @@ and 2009. Wow. Now AI is only likely to further elitize the pre-existing elitiza
 I mean we we we've seen you know we've we've read a number of books one of which would have
 been written by Darren Aimoglu you know power in progress that talks about how the median
 wage in the US went up on a yearly basis by 2.5% from 1945 to 1973 but thereafter that was
-around a time when internet started getting hot the the median wage started going up on a
+around a time when internet started getting hot the median wage started going up on a
 yearly basis only by less than half of a percent.
 
 It just it just tells me at least intuitively that technological innovation doesn't lead up
@@ -693,11 +721,15 @@ financing right so it's just bubble way waiting to burst and and you talk to AI 
 you don't get it man AI is going to transform humanity AI is going to create a world of
 abundance no one has to work anymore so it's a new world and so you don't have to worry
 about about it so it's really the same narrative but it's different players right um and and
-and and that's what's happening talk talk about how AI is going to replace fiat and how AI
+and and that's what's happening
+
+**Host (Endgame):** Talk talk about how AI is going to replace fiat and how AI
 is going to be able to create the illusion of God and how AI is going to be able create the
 illusion of the antichrist and all that which we've been talking quite a bit.
 
-Okay. All right. So, this is a really uh good question, but but I I need to go slowly so
+### Consciousness — Plato, Wealth, Technomarxism, and Transhumanism
+
+**Jiang Xueqin:** Okay. All right. So, this is a really uh good question, but but I I need to go slowly so
 that um I want to make sure I'm make myself clear. Okay. All right. Right. So, the key idea
 is Plato's allegory of the cave. So, uh in the cave, everyone is sitting down and chained to
 the floor. Okay. You're just shackled, so you can't move. Even your neck is shackled so you
@@ -750,15 +782,15 @@ robot. When they buy a robot, they play with all the time and it's like their be
 Guess what, guys? This robot can be controlled and this robot can manipulate you into
 thinking certain things, right?
 
-Chachi BT, you know, there's all these stories of how Chachi has become the best friend of
-people and Chachi has driven people to suicide because Chachi just kind of just tells you
+ChatGPT, you know, there's all these stories of how ChatGPT has become the best friend of
+people and ChatGPT has driven people to suicide because ChatGPT just kind of just tells you
 what you want to hear. Well, that's what AI is. AI is something that um basically becomes
 your most intimate friend and is able to direct your attention, direct your focus. And you
 know, you could you you can have any AI you want. If you believe in demons, your AI can be a
 demon who urges you to great things. Okay?
 
-So, you know, Lex Wer um you know, who was at Epson Files, there there's a report about Lex
-Wesner, the the billionaire behind Victoria Secret for those who don't know, he has his own
+So, you know, Lex Wexner um you know, who was at Epstein files, there there's a report about Lex
+Wesner, the billionaire behind Victoria Secret for those who don't know, he has his own
 personal demon, man. Okay. And this demon tells him, you got to go, you got to go make more
 money. And that's what drives him. Okay. Well, you know what? You if with AI, you can have
 your own personal demon, but you also have your own personal angel. You can have you can
@@ -774,7 +806,7 @@ upgrade your AI.
 So so so so as though you know your AI is your lover and you're working for your AI, right?
 And quite honestly, this system is going to work. What it is is technomarxism. That's what
 that's the world we're going into. That's pretty scary. You you've also talked about
-transhumanism and and how that relates to the the rich and the common people, right?
+transhumanism and and how that relates to the rich and the common people, right?
 
 I mean, it it's really about the advancement of human conditions by way of technological
 innovation, but but it's just going to splice up humanity because the guys that are at the
@@ -794,13 +826,16 @@ essentially to this system where you're microchipped and there are drugs that ca
 your behavior.
 
 So think of brave new world where they divide the world into different classes like the
-alphas, the betas, the the the the deltas and and that's the world we're living in. We will
+alphas, the betas, the deltas and and that's the world we're living in. We will
 we'll go into where depending on your class um your behavior will be modified in a certain
 way. So like it's possible you can never get angry. You can't never get angry. You can never
 rebel, right? You can never think for yourself, but you'll always be happy, right?
 
-So the phrase of course is you'll own nothing and be happy. Wow. The the last bit on the
+So the phrase of course is you'll own nothing and be happy. Wow. the last bit on the
 international rules rules base order is is with regards to what came out a few weeks ago
+
+### Board of Peace — Trump World and De-industrialization Trends
+
 called the board of peace. What what's your take on this? I mean it it just sounds to me
 like the privatization of peace. Trump's ambition is to create Trump world. Okay. So he
 wants to create an alternate reality where he's God. Right. So um you're right in that this
@@ -812,7 +847,7 @@ to United Nations he was ridiculed. He was humiliated you know he gave a speech 
 about uh the German energy dependence on Russia and the German ambassadors at the back of
 the room just laughed at him through the entire time.
 
-He uh he went to the meeting he met he met Greta Fernberg and Greta Fernberg just sneered at
+He uh he went to the meeting he met he met Greta Thunberg and Greta Thunberg just sneered at
 at him. Right. So, so he was despised in the UN and he was considered the source of all the
 evil in the world at the UN. So, he really hates the UN. Um, and then what he's really
 pissed off as well is the Nobel Peace Prize. So, Obama like the moment he got in office, he
@@ -825,7 +860,7 @@ he says like you know like you know if you gave me the Nobel Peace Prize I would
 invaded Venezuela. If you gave me the Nobel Peace Prize I would not have invaded Iran. Okay.
 
 He keeps on talking like that which tells you his obsession with this stupid thing. And so
-the border of peace it's really Trump trying to create his another alternative global system
+the Board of Peace it's really Trump trying to create his another alternative global system
 where he's the top dog. He's dictator for life and he can use this to supplant uh the United
 Nations and the old rulesbased international order.
 
@@ -839,7 +874,7 @@ Okay, you go on Twitter, you doom scroll, you you you you watch the news.
 
 Okay, everyone's attention is focused on Trump and we understand the cabalistic
 understanding of the world which is that the world is consciousness right back go back to
-Plato's allegory of the cave then that sort of energy you know the the entire collective
+Plato's allegory of the cave then that sort of energy you know the entire collective
 consciousness of the humanity is focused on one individual what does that do and the theory
 is that that means that person can live forever eternally I mean he might need organ
 transplants he might need a more cybernetic body he might have to may have to replace his
@@ -852,7 +887,7 @@ lives? And sounds like he wants to live forever.
 
 at the rate that you know there's no mention of any prospect for a two-state solution and
 there's no participation of the Palestinians how does that vote for world peace I I I think
-the border of peace it's meant to replace the UN security council right so given the war in
+the Board of Peace it's meant to replace the UN security council right so given the war in
 Iran um the world is going to fracture right and so there's going to be some major trends
 that emerge very quickly because of this war the first major trend is de-industrialization.
 There's there's no way around it, right?
@@ -865,7 +900,7 @@ de-industrialize. That's point number one. Point number two is that the world ha
 practice now nation states have to practice mercantalism.
 
 Okay, they basically have to u become self-sufficient and they have to create their own
-supply lines. The the one of the nations that has this most pressing need of course is
+supply lines. the one of the nations that has this most pressing need of course is
 Japan. Japan is one of those technologically advanced nations in the world. It's very
 wealthy but it doesn't it doesn't have independent global supply chains. You know, if the
 United States were were to cut off Japan from the American system, Japan starves to death.
@@ -879,7 +914,7 @@ Okay. So, um um so mercantalism. And then the third um of course is this war ove
 Um so basically over water basically so um as current uh geohysical trends continue many
 nations in the world especially in the Middle East India Pakistan they're going to face some
 water shortages. Um so so so I think these are the three big trends that we have to
-anticipate because of this war in the Middle East. And so this border of peace is meant to
+anticipate because of this war in the Middle East. And so this Board of Peace is meant to
 be above this fracturing of the universe and try to bring stability and order to areas that
 conform to Trump's vision of the world.
 
@@ -894,6 +929,9 @@ So Trump is very serious about Greenland, very serious about Canada, very seriou
 Mexico, very serious about Cuba, okay? He wants to create something called a technate, which
 is this North American empire um that's ruled by technocracy. And then you have some vassel
 states around the world as well. That is his uh long-term ambition. All right, I want to
+
+### Middle East War — Empire, Chaos, and 2024 Predictions
+
 segue to the third big point, uh which is what's going on in the Middle East, right?
 
 In in the last couple of decades or so, we've we've seen an evolution of rationale, you
@@ -1037,7 +1075,7 @@ monitor uh elections.
 
 So remember during the State of the Union address, Trump emphasized how important it was to
 pass a safe America act to make sure that only legal citizens could vote and that meant
-checking their IDs. Um so so he's trying to basically um better control the outcome of of
+checking their IDs. Um so so he's trying to basically um better control the outcome of
 elections and with this war in Iran uh he can do that. If if you know there are protests,
 there are riots because of this war because Trump is drafting young men to go dive in Iran,
 that benefits him, right?
@@ -1062,9 +1100,13 @@ was not able to pass because four Democrats voted against it. But but like what 
 recognize is that it's all fixed, man.
 
 They just picked four random Democrats to make sure it wouldn't pass. And if um I got I got
-to ask you, you you were so preient in 2024, right? making a prediction that Trump was going
+to ask you, you you were so prescient in 2024, right? making a prediction that Trump was going
 to win, Trump was going to go to war. Then, well, you made the third prediction that, you
-know, the US was going to lose. Did did you have all this in mind in 2024, early 2024, when
+know, the US was going to lose.
+
+### Eschatology — Epstein, Secret Societies, and End Times
+
+Did did you have all this in mind in 2024, early 2024, when
 you said all those things?
 
 Um, you know, I can't really see the specifics, okay, but I I do see the broad contours, the
@@ -1117,7 +1159,7 @@ conclusions right we want to live our lives we want to be happy want to feel goo
 ourselves.
 
 We don't want to be thinking like, "Oh my god, the world can end tomorrow." I mean, um um so
-I Yeah. For for the the Iranians, not losing is a victory right now. Would would you argue
+I Yeah. For for the Iranians, not losing is a victory right now. Would would you argue
 that there has been a miscalculation on the US's side? Okay. With with the way the war is so
 so so again this goes looking or or likely to get more protracted, right? So again, this
 goes back to the question of why this is happening. Okay. So, so, so again, we need to
@@ -1126,14 +1168,18 @@ figure out what the possibilities are.
 The first possibility is to maintain empire, okay? And imperial hubris. That's number one.
 Number two is this Trump, the chaos president who's who's destroying the who's trying to
 destroy the world to make it in his image and win the civil war against Democrats and deep
-state in America. Okay. The third thing, and this is really important, is esquetological.
+state in America. Okay.
+
+### War Expansion — Al-Aqsa, Greater Israel, and Nuclear Ladder
+
+The third thing, and this is really important, is eschatological.
 Okay?
 
 meaning that um if you look at the Epstein files, it makes you wonder who really controls
 the world because for the longest time it was assumed that Epstein was this MSAD agent and
 his and Epstein island was uh a honeypot operation and that was the longest assumption. But
 when you actually read his emails and look at what he was doing, what you recognize is that
-Epson Island was just a weekend getaway. it was not really that important.
+Epstein Island was just a weekend getaway. it was not really that important.
 
 People were looking to get invited to Epstein Island in the blackmail. He wasn't doing a
 blackmail operation. How he made his money was through arms trafficking, through uh money
@@ -1190,7 +1236,7 @@ A world war has to be fought. A lot of people have to die. I'm not talking like 
 humanity, by the way. I'm not talking like, you know, like a million people. I'm talking
 like 99% of humanity has to die. Okay? So, that is a possibility. Okay? And again, I don't
 know for a fact this happening, but I'm just saying like we have to consider this
-possibility that all this is esquetolog esquetological and there are these secret societies
+possibility that all this is esquetolog eschatological and there are these secret societies
 behind the scenes who are manipulating us into these events.
 
 They're not manipulating, they're accelerating events uh that would have happened. But you
@@ -1209,10 +1255,10 @@ literally how they think the world is dying.
 
 Just shoot it to death so a new world can be born. You know, there's there's an allegation
 recently that some members of the military are, you know, calling it a religious calling for
-people to go to war because it's part of that esquetology that you alluded to earlier. And
-it's it's just a little concerning that you know the the war is being provoked on the basis
-of you know religious calling as opposed to the the the institutional or constitutional you
-know existence of of a particular country.
+people to go to war because it's part of that eschatology that you alluded to earlier. And
+it's it's just a little concerning that you know the war is being provoked on the basis
+of you know religious calling as opposed to the institutional or constitutional you
+know existence of a particular country.
 
 Now can can one argue that this is a serious miscalculation then and and to the extent that
 we believe it is a miscalculation the it's likely to get more protracted. This is going to
@@ -1220,7 +1266,7 @@ carry on many more than just four weeks right or 5 weeks. It's going to get much
 that. And and I just I I want to just find out how protracted is it going to get? Is it
 going to entail potentially nuclear proliferation within the region?
 
-Look, if you just look at the esquetology, it is possible the stupid war never ends. Okay?
+Look, if you just look at the eschatology, it is possible the stupid war never ends. Okay?
 So, there's a sequence of events that have to happen, okay? And they they map this out. And
 again, what I think I think I think what's really important to remember is like it's not
 like they are actually manipulating things behind the scenes that too conspiratorial. It's
@@ -1248,7 +1294,7 @@ nation. And that that's that's the point. Okay.
 That's uh number one, the ground invasion. Another thing another that that that's happened
 according to script is the destruction of the Al-Aqsa mosque.
 
-So there are rumors that for the past few days, the Israelis have closed down the Actic moss
+So there are rumors that for the past few days, the Israelis have closed down the Al-Aqsa mosque
 and there are rumors that for many years Israel under the pretext of an archeological study
 have been digging under the eyes of Hamas and the fear is that they will implant explosives
 so that they can create a false flag incident where an Iranian missile comes into Jerusalem
@@ -1256,9 +1302,9 @@ and then they blow up the moss and blame it on the Iranians. Okay.
 
 And there's actually a a YouTube video of a very of an Israeli preacher uh a rabbi talking
 about this how the plan is to start a war have the Iranians uh have Iranian missile come up
-the alexic moss blame it on the Iranians and start a war between the Arabs and the Persians
+the Al-Aqsa mosque blame it on the Iranians and start a war between the Arabs and the Persians
 and let these animals kill each other okay that's literally what the plan is so the great
-fear the great question is the alexic moss and that's a li litmus test of whether this war
+fear the great question is the Al-Aqsa mosque and that's a li litmus test of whether this war
 is esotical or not okay so that's the second thing um the third thing is that this war will
 expand.
 
@@ -1288,24 +1334,28 @@ SA facility was actually came from Lebanon. So it actually came from the west ra
 the east.
 
 That doesn't make any sense, right? Um then there are rumors that this drone that attacked
-Azaran was actually a Msad false flag rather than Iranians. Okay. T Carlson a few days ago
+Azaran was actually a Mossad false flag rather than Iranians. Okay. T Carlson a few days ago
 said that he had sources in Qatar who told him that Qatar had arrested two MSAD agents were
 suspected of trying trying to create um sabotage in Qatar. Okay. So it is the Israel MO to
 create as much false flags as possible to engineer an entire regional configuration that
 would benefit um uh Israel.
 
-Uh now now now we know that the the Iranians are uh striking Israel very hard but but did
+Uh now now now we know that the Iranians are uh striking Israel very hard but but did
 you know that there are certain Israelis who actually setting fire to their own homes and
 blame it on the Iranians? And it's like well why why would they do that? And the answer is
 the insurance money as well as they need to burn down Israel in order to create the pack
-Judea. Right. Right. Um because there are investors who want to come in and buy up the the
+Judea. Right. Right. Um because there are investors who want to come in and buy up the
 this real estate.
 
 Remember buy when there's blood on the streets. Okay. So so a lot of this is being
 manufactured for the benefit of transnational capital, right? So um this war is going to
 expand and then Israel is not going to stop until it's really conquered the entire uh Middle
-East and it creates uh Pax Judea. All right. So you have Paka sorry game theory this forward
-uh what's what's the likelihood this is likely to get nuclear? Oh um I actually think the
+East and it creates uh Pax Judaica. All right. So you have Paka sorry game theory this forward
+uh what's
+
+### GCC Economics — Hormuz, Water, and Regional Collapse
+
+what's the likelihood this is likely to get nuclear? Oh um I actually think the
 probability is close to zero. All right.
 
 So let me explain why. Um, first of all, there's an escalation ladder, okay? You just can't
@@ -1348,7 +1398,7 @@ considered used against Russia and Russia will respond accordingly to their mili
 doctrine. So that's the second limitation.
 
 And the third limitation is people assume that the Israelis and Americans want to win this
-war. And according to esquetology, um no, the purpose is to lose this war, right? Um so you
+war. And according to eschatology, um no, the purpose is to lose this war, right? Um so you
 would use nuclear weapons if you really want to win this war. But you know, like if you just
 want to um force America out of the Middle East, you want to force America to retreat from
 the Middle East and you want Israel to build a greater Israel project, then you don't need
@@ -1378,13 +1428,17 @@ Pakistan is in war, it doesn't have to meet any of these obligations, right?
 
 So Pakistan is trying to remove itself from the uh equation, but we still know that America
 is conducting air strikes from Pakistani airspace and it's there's concern that um the
-Americans will fund and support the bollocks uh you know this ethnic group, the the Balakis
+Americans will fund and support the Baloch uh you know this ethnic group, the Balakis
 in uh south uh east Iran. Uh and and they've always had like ethnic conflicts with the
 Persians. Okay.
 
 But but I I but I think that Pakistan is smart enough to like stay away from from this war
 to to the extent that the desalination plans and the oil refineries are getting hit on both
-sides on the Israeli GCC and Iranian sites draw the picture in terms of the economic
+sides on the Israeli GCC and Iranian sites
+
+### Gog and Magog — China Outside Eschatology
+
+draw the picture in terms of the economic
 repercussion on the Middle East and also on the rest of the world including Japan, Korea,
 China, India, Southeast Asia and the rest of the world.
 
@@ -1427,10 +1481,10 @@ so there are a lot of these contradictions in the in the in the GCC. Uh so the G
 basically dead. I mean the GC is a construct of American empire. The if empire American
 empire dies so does the GCC. All right.
 
-Um um so the the only way to save the GCC is if it's able to negotiate a ceasefire between
+Um um so the only way to save the GCC is if it's able to negotiate a ceasefire between
 America and Iran and the GCC then becomes the client states of Iran. And the why would the
 Americans allow that? They would rather have the GC destroyed, right? So so so I mean it's
-it's it just it just I mean like like I think it's pretty clear. Um so so you think the the
+it's it just it just I mean like like I think it's pretty clear. Um so so you think the
 the safe haven premium has been taken out? Yeah. For the GCC countries. Yeah.
 
 I mean, well, well, I think what's happened is the illusion for for a long time or for good
@@ -1443,24 +1497,24 @@ centuries.
 Um and these are the most powerful people in the world. So they don't really care what we
 think. They don't really care if even if um if we know their plans. There's they're going to
 implement it. All the all the all the pieces are in place for Pax Judeeka. Um and so you
-have Pax Judea where Israel becomes this hub of global finance, global trade, global
+have Pax Judaica where Israel becomes this hub of global finance, global trade, global
 technology. Um and and you're like, well, Israel doesn't have that have that many people.
 Well, guess what?
 
 They can import the labor from India, right? Uh they can import tens of millions of people
-to work as laborers in this packa. And and so why why is it before the war uh Maldi visited
+to work as laborers in this Pax Judaica. And and so why why is it before the war uh Modi visited
 u um Jerusalem and signed all these wonderful agreements with uh Israel? Because what Israel
 wants is access to the cheap labor of India, right? Right? And that makes sense for India
 because remember how China became wealthy is by exporting cheap labor overseas. Right?
 
 It had an abundance of cheap labor and then it it took people from the fields put them in
 the factories and that's how China became wealthy. Now India because of political issues
-because of of logistic issues cannot actually replicate the Chinese miracle. But what it can
+because of logistic issues cannot actually replicate the Chinese miracle. But what it can
 do is export its people overseas um to to become wealthy. Okay. And and that's what it's
 doing in Canada. That's what and and that's what it will do with Issue. Okay. So that that's
 that that's a plan.
 
-So Indians, Chinese and Filipinos will become the laborers of tax um Judeica and and so what
+So Indians, Chinese and Filipinos will become the laborers of Pax Judaica and and so what
 they're trying to do is they're trying to create the conditions for world war uh between
 Israel and the and Gog and Magog. Okay. And the biggest question is like who is Gog and
 Magog? And again, we're not clear. Okay. But the most likely candidates, if you just know
@@ -1470,25 +1524,29 @@ are Russia and Persia. Okay?
 So, think about this where Russia is winning this war uh in Ukraine. It's now going to
 become a superpower. Um and then Iran even though it will lose against uh America, it will
 be able to rebuild itself as a much stronger nation and eventually uh Russia and Persia will
-feel threatened by Israel and this will lead to the war of Gamok. So that I think is the
-general gist. But but again I mean the thing about esquetology is that it's never that
+feel threatened by Israel and this will lead to the war of Gog and Magog. So that I think is the
+general gist. But but again I mean the thing about eschatology is that it's never that
 specific. It's never that detailed.
 
 It's it's a general framework. Okay. So there will be a world war. the final war and
 possibly a nuclear war. But um who Gog and Magog is is up for debate. Look, there are others
-who suggest that Gaga Magog is actually metaphorical, right? But but but but I think these
+who suggest that Gog and Magog is actually metaphorical, right? But but but but I think these
 both take it literally. And I I think if you take it literally, then it would be Russia and
-Persia. Well, how does China look look at all this? Yeah. Okay. So, or how does it fit into
+Persia.
+
+### Civil War Manufacturing — ICE, Minnesota, and Attention
+
+Well, how does China look look at all this? Yeah. Okay. So, or how does it fit into
 the picture? Yeah.
 
-So in the esquetology there are two nations that are not involved. Okay. And it's really
+So in the eschatology there are two nations that are not involved. Okay. And it's really
 important they're not involved. The first nation of course United States. The United States
 is not involved in any of this. The second nation is China. All right. So let's talk about
 United States. So United States is a is this global empire and they're not United States is
 not involved in this estology and the United States can be a wild card because United States
 could support Paka.
 
-The United States could also support GA mal. So you want the United States out of this uh
+The United States could also support Gog and Magog. So you want the United States out of this uh
 equation and the way you do that is you manufacture a civil war in the United States that
 occupies Americans for years, possibly decades. Okay? But you have to remove America from
 the rest of the world and have them uh secluded in the Western Hemisphere. All right? So so
@@ -1510,7 +1568,7 @@ China is actually in its own world.
 
 And it's called the middle kingdom for a reason because China is its own universe. And so
 China does not want to get involved in this war and China doesn't want to be part of this
-esquetology. And um and it's possible okay that East Asia will suffer from a series of
+eschatology. And um and it's possible okay that East Asia will suffer from a series of
 calamities that negates its involvement in the world. Okay. So so so I mean like I I I know
 it's hard to understand. Okay. But the occultists don't believe China is relevant. They
 don't think Southeast Asia is basically. Wow.
@@ -1519,10 +1577,14 @@ I I want to go back to what you alluded to earlier. Uh if if Trump is a believer
 then there's not likely to be a midterm because he's going to use this emergency powers,
 right? At the rate that, you know, midterms are at the state level, but he's going to be
 able to use that emergency power to to over basically come or veto over the state level. It
-is laws or regulations? It is possible. And what's the likelihood for for for a civil war
+is laws or regulations? It is possible. And
+
+### Education — Great Books, You Matter, and Free Will
+
+what's the likelihood for for for a civil war
 which you've alluded to earlier?
 
-You know, again, the civil war in America is part of the esquetology. Um, and you know,
+You know, again, the civil war in America is part of the eschatology. Um, and you know,
 honestly, I feel as though they're manufacturing civil war right now. You know, if you go
 back to Minnesota, right, in J in early January, right, when the ICE people went in, a lot
 of things that were happening seem overly provocative, right? So, so, so people may not
@@ -1546,7 +1608,7 @@ basically.
 I mean like like that's literally the plot of the movie. And and like you know, I watch it.
 It's very emotional. It almost makes you want to get involved in this war. It makes you want
 to fight for justice. And it's not an accident that uh right afterwards you have, you know,
-uh this conflict between ICE and protesters in Minnesota. The Rain Good shooting uh seemed a
+uh this conflict between ICE and protesters in Minnesota. The Renee Good shooting uh seemed a
 bit manufacturer. Ax Alex Ax Petty pretty ax um what was petty or pretty.
 
 Anyway, um he was it was that was definitely manufacturer. They they basically hunted him
@@ -1577,9 +1639,12 @@ They want a numb and indifferent population that they can enslave, that they can
 who are complacent, who are complicit. Okay. The most important word nowadays that you're
 taught is to be complicit. Uh sorry, not complicit. Um compliant. Okay. To be compliant.
 Complant. Yeah. Yeah. Right. And uh what they want is compliancy. And that's what you're
-talking nowadays. Talk talk this is the last bit of the the discussion.
+talking nowadays. Talk talk this is the last bit of the discussion.
 
 and talk a bit about what you're doing in in in the field of education. How how do you think
+
+### Closing — Trump-Xi Meeting and Third Term
+
 contemporary education ought to be like going forward? I teach a great books not not just
 for China but but for humanity in general. I mean I teach the great books. I teach Plato,
 Homer, Dante, Milton, Shakespeare. I mean I I and I I what I try to do is I try to show
@@ -1621,7 +1686,7 @@ I want to look at things as they are as opposed to as how they should be and rea
 get get into the essence of truth. You'll be laughed at at university. Everyone everyone
 will think you're crazy. I know because I work with professors. Wow.
 
-the uh you know I come from a place where I think the the quality of teachers or teaching
+the uh you know I come from a place where I think the quality of teachers or teaching
 could be better and and I'm I'm a I'm in a camp that believes that teachers are really
 playing the role of infusing imagination ambition and to some extent serendipity to the
 students right and and and I think you're a great example of that somebody who can actually
@@ -1643,7 +1708,7 @@ be a good person, that affects everything. Okay? It's it's a butterfly.
 It's like the butterfly effect where just by choosing to be good, you spread good in the
 world. So you do matter but you have to choose to matter. Okay? You have to believe that you
 matter. A very important principle in the world that's very uh that that people don't really
-appreciate is idea of free will. Well, and then was like, you know, oh, Professor Dang, Mr.
+appreciate is idea of free will. Well, and then was like, you know, oh, Professor Jiang, Mr.
 Dang, you are saying so many controversial things. Aren't you afraid for your own personal
 safety?
 
@@ -1683,4 +1748,4 @@ could be wrong, but but that that's my gut instinct. Final one, quick one.
 
 You think Trump is going to be able to pull it off in running for a third term? I would bet
 good money on it. Yes. Thank you so much, man. You've been kind with your time. Thank you.
-That was Jang Suin. Thank you. Heat. Heat.
+That was Jiang Xueqin. Thank you. Heat. Heat.

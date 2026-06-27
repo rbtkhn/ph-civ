@@ -27,7 +27,7 @@ Treat this chapter folder as a small source-lattice:
 
 ## Review Status
 
-`in_review`. Do not treat provisional transcript text, named claims, quotations, or current-event predictions as final until review is complete.
+`source_reviewed`. Transcript pass 2 (2026-06-26): eighteen Title Case section rails; caption monolith split; light ASR/toponym repair via `patch_endgame_sections_asr.py`. Speaker pass 2 (same day): Host/Jiang labels in Channel Promo, Early Life, Yale Essay, and Consciousness (sample sections); split merged caption turns where unambiguous. Unresolved: remaining sections still caption-merged; sponsor/read blocks unlabeled.
 
 ## LLM Prompt
 

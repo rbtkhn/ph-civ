@@ -11,13 +11,13 @@ workshop_source_id: vi-11
 interviews_episode: 11
 ingested_at: "2026-06-25"
 transcript_status: curated_transcript
-transcript_fidelity: curated_pass
+transcript_fidelity: exact_body_match
 transcript_curation: curated_sectioned
 transcript_source: workshop_promotion
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-06-25
-fidelity_reviewed_at: 2026-06-25
+fidelity_reviewed_at: 2026-06-26
 part: provenance
 part_role: provenance
 series: interviews
