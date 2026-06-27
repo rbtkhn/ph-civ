@@ -969,114 +969,105 @@ I will speak to you then.
 
 **Steven Bartlett:** Professor, what's the most important thing we haven't talked about that we should have talked about?
 
-**Jiang Xueqin:** So, let's talk about the nature of reality.
-To explain the nature of reality, um I'm going to explain Plato's allegory of the cave, which he talked about in his book, The Republic.
-Right, exactly. This book. Yes, The Republic, okay? One of the masterpieces of Greek civilization as well as Western civilization. All right. So, this is how Plato explains the nature of reality.
-And so, he uses a metaphor called the cave. So, I want you to imagine a dark cavern that is huge. Mhm. And in this cavern, there are hundreds of people lined up together.
-And they're all sitting in a row, and this goes on for, you know, miles and miles, just thousands of people.
-And they are chained to the ground.
-And they're next or shackled, so they can't actually move.
-And all they can do is stare in front of them at a giant wall that's empty.
-Okay?
-Now, behind these people, and again, they can't they can't see behind them, right?
-Is a great fire.
-Along the alongside this fire are people, okay? We don't know who they are. They they'll never explain who these people are. They take puppets, and they project these puppets off the fire onto the wall.
-And when people see the shadows, they think that this is reality.
-And as such, they begin to create narratives to explain this reality. They create language. They give shadows names.
-They explain where these shadows come from. They create religion.
-Then these people decide to specialize.
-So some people who are priests who explain this new religion. There are some people who are poets that talk about the beauty of the shadows.
-And then you have teachers who teach about the shadows to children.
-And then over time, what happens is that these people fall in love with this reality.
-So that they are addicted to it.
-So if anyone comes along and says, "Hey guys, why don't you look behind you and see it's all just a farce?" These people will be so angry that they kill this person.
-All right? So I'm not sure if you've ever watched a Korean drama. **Jiang Xueqin:** Have you watched a Korean TV drama?
+**Jiang Xueqin:** So, let's talk about the nature of reality. To explain the nature of reality, um I'm going to explain Plato's allegory of the cave, which he talked about in his book, The Republic.
+
+**Steven Bartlett:** Right, exactly. This book.
+
+**Jiang Xueqin:** Yes, The Republic, okay? One of the masterpieces of Greek civilization as well as Western civilization. All right. So, this is how Plato explains the nature of reality. And so, he uses a metaphor called the cave. So, I want you to imagine a dark cavern that is huge.
+
+**Steven Bartlett:** Mhm.
+
+**Jiang Xueqin:** And in this cavern, there are hundreds of people lined up together. And they're all sitting in a row, and this goes on for, you know, miles and miles, just thousands of people. And they are chained to the ground. And they're next or shackled, so they can't actually move. And all they can do is stare in front of them at a giant wall that's empty.
+
+**Steven Bartlett:** Okay?
+
+**Jiang Xueqin:** Now, behind these people, and again, they can't they can't see behind them, right? Is a great fire. Along the alongside this fire are people, okay? We don't know who they are. They they'll never explain who these people are. They take puppets, and they project these puppets off the fire onto the wall. And when people see the shadows, they think that this is reality. And as such, they begin to create narratives to explain this reality. They create language. They give shadows names. They explain where these shadows come from. They create religion. Then these people decide to specialize. So some people who are priests who explain this new religion. There are some people who are poets that talk about the beauty of the shadows. And then you have teachers who teach about the shadows to children. And then over time, what happens is that these people fall in love with this reality. So that they are addicted to it. So if anyone comes along and says, "Hey guys, why don't you look behind you and see it's all just a farce?" These people will be so angry that they kill this person.
+
+**Steven Bartlett:** All right?
+
+**Jiang Xueqin:** So I'm not sure if you've ever watched a Korean drama. Have you watched a Korean TV drama?
 
 **Steven Bartlett:** Not really, no.
-**Steven Bartlett:** All right. So unfortunately, I have. And these things go on for like thousands of hours. Mhm.
-And the first first 10 hours, you're disgusted by the plot.
-Uh because it makes no sense. But by sometime by by the 20th hour, you can't stop watching it.
-**Steven Bartlett:** Mhm. All right? The same situation here where it's a it's a silly television drama. It's all fake. But once people watch too much of it, they want it to be true.
-Okay? And that's the nature of reality that we live in. All right? So, certain things to remember is that what creates this reality are not the people in charge. What creates this reality is our imagination.
-Okay.
-So, the first thing to appreciate is that everything is a hallucination.
-And this is something that neuroscientists have confirmed. So, what we're going to do is we're going to take Plato's allegory of the cave, the framework, and then apply it to our reality to understand how it's created. Okay? So, in the first layer, you need a power, a force, to put people in chains, right?
-And this is what we call the military-industrial complex of America as well as the empire.
-So, going back to this example, it's the layer that puts the people into chains.
-But now, the second step is you need people to create the reality, to direct people's attention, to create the game.
-And this these people are the financial elite, the Bank of International Settlements based in Basel.
-So, what do they do?
-These people are the ones who set the exchange currency rates. And they also allow for seamless financial transactions, the Swift system, basically.
-Then, Wall Street and the City of London were the financiers.
-And then you have the Federal Reserve.
-The Federal Reserve system. Because the Federal Reserve are the people who print money.
-Okay.
-Now, once you create the rules of the game, you need to create the game itself, which is the global economy.
-Right?
-Global economy.
-And obviously, this is a pretty vast system that encompasses everything, okay?
-Now, you have to explain to people how the global economy works.
-You cannot tell people, "Oh, really, there are these secret people working on the scenes that are projecting shadows onto a wall." So, what you do is you create multilateral organizations that pretend to control the global economy, and they are the World Bank, United Nations, WTO.
-You make people believe that this is all being controlled impartially for our benefit.
-Now, you have to convince people that the system is legitimate.
-That what you're actually seeing the shadows on the wall, they're real. And that's why you need the media.
-That's why you need culture such as Hollywood, movies basically. And you need education, school system.
-Okay? These are the people who who are all prisoners who have become leaders of the prisoners and who are helping them understand the shadows on the wall.
-So, am I in the media?
-Yes, you are. Am I? Yes. So, am I What am I doing? What Am I one of the people in the fire controlling the narrative?
-Is that what Yes. Yes. But how But I I'm not owned by anybody.
-That's what you think. Oh, really? Yes.
-And who who am I owned by?
-Ultimately, it's the people who control the fire that are in charge, right? So, ultimately, it's these people, the second layer. Okay.
-**Steven Bartlett:** The game masters, the financial elite that control everything. And the financial elite then are like the World Bank, you said. No. No. The financial elite are these private bankers. Okay, so are the private bankers controlling me?
-Cuz you said I was in the media. Do you want to make money?
-Yeah. Then they're controlling you.
-Okay. Right?
-How are they controlling me? Because they control the creation of money.
-And so, now that you have the media, the schools, and the cultural systems helping people understand the shadows on the wall, these shadows now become internalized. And they dictate the values and norms of people, what they believe to be good and bad.
-They dictate habits and customs, how you live your life.
-And they dictate the legal system, who's punished for what. Okay? And this becomes a top edifice.
-And what's amazing about the system is that in our minds, okay? In our minds, we believe that the system is, first of all, the complete opposite.
-Where where the foundation is actually the laws, the habits, and the values.
-When in fact, in reality, these are just figments of our imagination. Okay? That's point one.
-Point two is that this is a very very delicate structure. So, if anyone doesn't cooperate, okay?
-Then this is this edifice collapses.
-It's because it's a very very delicate system, okay?
-And the third thing, and this is the most important to understand the world that we live in, as this system becomes much more wobbly, meaning that young people don't really believe in the shadows anymore. Young people grow up and says, "Hmm, are these shadows really real? They don't feel real to me." The system needs to become much more authoritarian.
-It needs to force people to believe what they refuse to believe.
-Because everyone in the system is incentivized to ensure this edifice is stable. Do you think this is somewhat linked to what's going on with independent media?
-Exactly. Because independent media are asking a lot of questions about the way society functions. Exactly. And that's why we're seeing governments becoming very worried about independent media.
-Because if you have people in the population saying, "These These shadows are fake." This creates a ripple effect. It causes uh people to start questioning the shadows on the wall. You can't have that. So, that's why it's important to have censorship. That's why it's important to deplatform people. That's why you have woke politics, DEI. This is a enforcement mechanism.
-Yeah, I mean, it is pretty hard, you know, it's pretty It's not easy being a uh an independent podcaster if you have a big platform cuz you're not always the most loved by the mainstream media. And they'll figure out how to eventually But, I think that's I think that's very human, actually. I think I think the incentives are quite understandable from a human perspective.
-Look, if you look at the system, no one's really in charge, and no one's a villain.
-They just grow up in the system.
-**Steven Bartlett:** And everyone's protecting their incentives. Exactly. That's kind of what I mean. I'm like, yeah, I have human nature is to protect one's incentives, and you know, the media didn't like Mark Zuckerberg and Facebook because 80% of 70, 80% of ad revenue went to Google and Facebook. So, they had a bit of a war.
-So, I kind of get it. People are trying to protect what's theirs.
-And disruption causes people to, I guess, panic a little bit, but makes sense.
-But, the problem is that over time, more and more young people are going to grow up and say, "I don't see shadows.
-I'm pretty sure we're being lied to." In which case, this presents an opportunity to overthrow the system and create a new system.
-And this is why AI is important.
-But, we we we currently believe this one. We currently believe in this structure. It's almost It's really difficult, I think, for the average person listening now to accept the fact that they have believed a bunch of fundamental ideas and stories that everything they care about is sat upon.
-But, I mean, you only if you read the book Sapiens and understood that humans got here because we had a remarkable ability to believe in stories that maybe the orangutan could not believe. It couldn't believe in money and governments, and religions, and all these kinds of things. It makes perfect sense that yeah, there's really foundational stories we are accepting, and that's what's brought us here today.
-That's what keeps me from running out on the street without our clothes on, or doing other illicit activities, is I'm held in place by a set of stories um that I've accepted, and they are stacked one upon the other to make me believe that everything I'm saying and accepting is valid.
-But you know, I guess the question becomes, am I okay with this reality?
-And what's stopping us from creating our own reality that benefits everyone? Is that possible?
-Well, in theory, it's possible, but as you point out, there's certain people who are happy with the system and want to maintain the system. And that's why we're going to war around the world, because it's not just a war between different nation-states. It's also a war for the fundamental nature of reality.
-You have the bankers versus the tech bros, right? That's what we're seeing in the world right now.
-Where for the longest time, Wall Street has controlled America, but now with the with the Trump revolution, you have Palantir.
-You have people like Larry Ellison, Peter Thiel, uh Sam Altman, who want to create Operation Stargate, which gives them complete control over people's imagination.
-You cannot get over that. Okay.
-And that thing will come down eventually, because that is just the fundamental fact of human history.
-Everything, no matter how stable it seems in the beginning, it all comes crashing down eventually. Eventually.
-Eventually.
+
+**Jiang Xueqin:** All right. So unfortunately, I have. And these things go on for like thousands of hours.
+
+**Steven Bartlett:** Mhm.
+
+**Jiang Xueqin:** And the first first 10 hours, you're disgusted by the plot. Uh because it makes no sense. But by sometime by by the 20th hour, you can't stop watching it.
+
+**Steven Bartlett:** Mhm.
+
+**Steven Bartlett:** All right?
+
+**Jiang Xueqin:** The same situation here where it's a it's a silly television drama. It's all fake. But once people watch too much of it, they want it to be true. Okay? And that's the nature of reality that we live in. All right? So, certain things to remember is that what creates this reality are not the people in charge. What creates this reality is our imagination. Okay. So, the first thing to appreciate is that everything is a hallucination. And this is something that neuroscientists have confirmed. So, what we're going to do is we're going to take Plato's allegory of the cave, the framework, and then apply it to our reality to understand how it's created. Okay? So, in the first layer, you need a power, a force, to put people in chains, right? And this is what we call the military-industrial complex of America as well as the empire. So, going back to this example, it's the layer that puts the people into chains. But now, the second step is you need people to create the reality, to direct people's attention, to create the game. And this these people are the financial elite, the Bank for International Settlements based in Basel. So, what do they do? These people are the ones who set the exchange currency rates. And they also allow for seamless financial transactions, the Swift system, basically. Then, Wall Street and the City of London were the financiers. And then you have the Federal Reserve. The Federal Reserve system. Because the Federal Reserve are the people who print money. Okay. Now, once you create the rules of the game, you need to create the game itself, which is the global economy.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** Global economy. And obviously, this is a pretty vast system that encompasses everything, okay? Now, you have to explain to people how the global economy works. You cannot tell people, "Oh, really, there are these secret people working on the scenes that are projecting shadows onto a wall." So, what you do is you create multilateral organizations that pretend to control the global economy, and they are the World Bank, United Nations, WTO. You make people believe that this is all being controlled impartially for our benefit. Now, you have to convince people that the system is legitimate. That what you're actually seeing the shadows on the wall, they're real. And that's why you need the media. That's why you need culture such as Hollywood, movies basically. And you need education, school system. Okay? These are the people who who are all prisoners who have become leaders of the prisoners and who are helping them understand the shadows on the wall.
+
+**Steven Bartlett:** So, am I in the media?
+
+**Jiang Xueqin:** Yes, you are.
+
+**Steven Bartlett:** Am I?
+
+**Jiang Xueqin:** Yes.
+
+**Steven Bartlett:** So, am I What am I doing? What Am I one of the people in the fire controlling the narrative?
+
+**Jiang Xueqin:** Is that what Yes. Yes.
+
+**Steven Bartlett:** But how But I I'm not owned by anybody.
+
+**Jiang Xueqin:** That's what you think.
+
+**Steven Bartlett:** Oh, really?
+
+**Jiang Xueqin:** Yes.
+
+**Steven Bartlett:** And who who am I owned by?
+
+**Jiang Xueqin:** Ultimately, it's the people who control the fire that are in charge, right? So, ultimately, it's these people, the second layer. Okay.
+
+**Steven Bartlett:** The game masters, the financial elite that control everything. And the financial elite then are like the World Bank, you said.
+
+**Jiang Xueqin:** No. No. The financial elite are these private bankers.
+
+**Steven Bartlett:** Okay, so are the private bankers controlling me? Cuz you said I was in the media. Do you want to make money?
+
+**Steven Bartlett:** Yeah.
+
+**Jiang Xueqin:** Then they're controlling you.
+
+**Jiang Xueqin:** Okay.
+
+**Steven Bartlett:** Right?
+
+**Steven Bartlett:** How are they controlling me?
+
+**Jiang Xueqin:** Because they control the creation of money. And so, now that you have the media, the schools, and the cultural systems helping people understand the shadows on the wall, these shadows now become internalized. And they dictate the values and norms of people, what they believe to be good and bad. They dictate habits and customs, how you live your life. And they dictate the legal system, who's punished for what. Okay? And this becomes a top edifice. And what's amazing about the system is that in our minds, okay? In our minds, we believe that the system is, first of all, the complete opposite. Where where the foundation is actually the laws, the habits, and the values. When in fact, in reality, these are just figments of our imagination. Okay? That's point one. Point two is that this is a very very delicate structure. So, if anyone doesn't cooperate, okay? Then this is this edifice collapses. It's because it's a very very delicate system, okay? And the third thing, and this is the most important to understand the world that we live in, as this system becomes much more wobbly, meaning that young people don't really believe in the shadows anymore. Young people grow up and says, "Hmm, are these shadows really real? They don't feel real to me." The system needs to become much more authoritarian. It needs to force people to believe what they refuse to believe. Because everyone in the system is incentivized to ensure this edifice is stable.
+
+**Steven Bartlett:** Do you think this is somewhat linked to what's going on with independent media?
+
+**Jiang Xueqin:** Exactly. Because independent media are asking a lot of questions about the way society functions. Exactly. And that's why we're seeing governments becoming very worried about independent media. Because if you have people in the population saying, "These These shadows are fake." This creates a ripple effect. It causes uh people to start questioning the shadows on the wall. You can't have that. So, that's why it's important to have censorship. That's why it's important to deplatform people. That's why you have woke politics, DEI. This is a enforcement mechanism.
+
+**Steven Bartlett:** Yeah, I mean, it is pretty hard, you know, it's pretty It's not easy being a uh an independent podcaster if you have a big platform cuz you're not always the most loved by the mainstream media. And they'll figure out how to eventually But, I think that's I think that's very human, actually. I think I think the incentives are quite understandable from a human perspective.
+
+**Jiang Xueqin:** Look, if you look at the system, no one's really in charge, and no one's a villain. They just grow up in the system.
+
+**Steven Bartlett:** And everyone's protecting their incentives. Exactly. That's kind of what I mean. I'm like, yeah, I have human nature is to protect one's incentives, and you know, the media didn't like Mark Zuckerberg and Facebook because 80% of 70, 80% of ad revenue went to Google and Facebook. So, they had a bit of a war. So, I kind of get it. People are trying to protect what's theirs. And disruption causes people to, I guess, panic a little bit, but makes sense. But, the problem is that over time, more and more young people are going to grow up and say, "I don't see shadows. I'm pretty sure we're being lied to." In which case, this presents an opportunity to overthrow the system and create a new system. And this is why AI is important. But, we we we currently believe this one. We currently believe in this structure. It's almost It's really difficult, I think, for the average person listening now to accept the fact that they have believed a bunch of fundamental ideas and stories that everything they care about is sat upon. But, I mean, you only if you read the book Sapiens and understood that humans got here because we had a remarkable ability to believe in stories that maybe the orangutan could not believe. It couldn't believe in money and governments, and religions, and all these kinds of things. It makes perfect sense that yeah, there's really foundational stories we are accepting, and that's what's brought us here today. That's what keeps me from running out on the street without our clothes on, or doing other illicit activities, is I'm held in place by a set of stories um that I've accepted, and they are stacked one upon the other to make me believe that everything I'm saying and accepting is valid. But you know, I guess the question becomes, am I okay with this reality? And what's stopping us from creating our own reality that benefits everyone? Is that possible?
+
+**Jiang Xueqin:** Well, in theory, it's possible, but as you point out, there's certain people who are happy with the system and want to maintain the system. And that's why we're going to war around the world, because it's not just a war between different nation-states. It's also a war for the fundamental nature of reality. You have the bankers versus the tech bros, right? That's what we're seeing in the world right now. Where for the longest time, Wall Street has controlled America, but now with the with the Trump revolution, you have Palantir. You have people like Larry Ellison, Peter Thiel, uh Sam Altman, who want to create Operation Stargate, which gives them complete control over people's imagination. You cannot get over that. Okay. And that thing will come down eventually, because that is just the fundamental fact of human history. Everything, no matter how stable it seems in the beginning, it all comes crashing down eventually. Eventually.
+
 **Steven Bartlett:** Cyclically. Cyclically.
-Yes.
-Um Ray Dalio talks about the cycles through history, and how so or they are, and how frequent they are. Is there a frequency to the rise and fall of these I guess perceived realities or empires as he as he calls it. Yeah, so they say empires last about 20 years.
-And so we are now in the twilight of the American empire.
-And what we know is that when empires decline, it's always for the same reasons.
-And um it's always because of too much debt, too much corruption, too much inequality. And we're seeing that in America today. And the other thing that we know is you can't actually stop the decline of empires. So Oswald Spengler, who is a German theoretician, he argues that we are human beings and we have natural life cycles because we're organisms.
-Well, societies are the same way where empires, they will be born, they'll rise, and they'll die. And it's And it's a good thing because that's what allows for constant human innovation. Do you think that will happen in my lifetime?
-I'm 30 years old, 33 years old.
+
+**Jiang Xueqin:** Yes.
+
+**Steven Bartlett:** Um Ray Dalio talks about the cycles through history, and how so or they are, and how frequent they are. Is there a frequency to the rise and fall of these I guess perceived realities or empires as he as he calls it.
+
+**Jiang Xueqin:** Yeah, so they say empires last about 250 years. And so we are now in the twilight of the American empire. And what we know is that when empires decline, it's always for the same reasons. And um it's always because of too much debt, too much corruption, too much inequality. And we're seeing that in America today. And the other thing that we know is you can't actually stop the decline of empires. So Oswald Spengler, who is a German theoretician, he argues that we are human beings and we have natural life cycles because we're organisms. Well, societies are the same way where empires, they will be born, they'll rise, and they'll die. And it's And it's a good thing because that's what allows for constant human innovation.
+
+**Steven Bartlett:** Do you think that will happen in my lifetime? I'm 30 years old, 33 years old.
 ### Hermetic Philosophy, Life Advice, and Closing Tradition
 
 **Jiang Xueqin:** It may happen in everyone's lifetime. It may happen in the next 5 to 10 years.
