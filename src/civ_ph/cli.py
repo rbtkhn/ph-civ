@@ -51,6 +51,7 @@ from .public_surface_triage import (
     validate_public_surface_triage,
 )
 from .volume_i_parts import validate_volume_i_parts
+from .book_namespace_guard import validate_book_namespace
 
 EXPECTED_SOURCE_REPO = "rbtkhn/ph-workshop"
 GITHUB_TREE_BASE = "https://github.com/rbtkhn/predictive-history/tree/main"
@@ -1169,6 +1170,7 @@ def cmd_validate(args) -> int:
         else:
             errors.append(f"v2 pilot missing commentary file: {pilot_id}")
     errors.extend(validate_volume_i_parts(require_doorways=True, require_chapter_anchors=True))
+    errors.extend(validate_book_namespace())
     ensure_all_indexes(cards)
     errors.extend(validate_all_indexes(cards))
     errors.extend(validate_no_legacy_chapter_indexes(repo_root=DATA_ROOT.parent))
