@@ -31,6 +31,8 @@ Treat this chapter folder as a small source-lattice:
 
 **Transcript pass 2 (2026-06-25):** Fourteen section rails under Part I; `>>` host markers → **Steven Bartlett:**; ASR/toponym repair (transcript-logic, no audio re-listen). Unresolved: merged host/guest paragraphs without turn breaks; Foreign Minister vs Prime Minister title for Araghchi; some sponsor/read blocks left unlabeled.
 
+**Transcript pass 3 (2026-06-26):** Completed **Steven Bartlett:** labels for remaining `>>` host markers (33 lines); cold-open/sponsor block speaker tags; light ASR (GCC, potable water, Colombia, Department of War dedup, inline host splits). Unresolved: merged host/guest paragraphs in main dialogue; Foreign Minister vs Prime Minister title for Araghchi; long sponsor/read blocks left unlabeled.
+
 ## LLM Prompt
 
 Paste this folder link into ChatGPT, Claude, or Grok and ask:
