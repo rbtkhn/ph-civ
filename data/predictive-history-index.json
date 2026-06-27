@@ -1,8 +1,8 @@
 {
   "schema_version": 3,
-  "fingerprint": "c37f0cc4e3d147e0",
-  "card_count": 205,
-  "transcript_word_total": 1431458,
+  "fingerprint": "b8fa9c8affc856a4",
+  "card_count": 206,
+  "transcript_word_total": 1431564,
   "ssot": "data/cards.jsonl",
   "markdown_index": "docs/predictive-history-index.md",
   "surfaces": {
@@ -75,13 +75,13 @@
     "ph-apo": {
       "part": "world-war",
       "volume_label": "Volume II — Apocalypse (law application)",
-      "chapter_count": 68,
+      "chapter_count": 69,
       "series_counts": {
-        "game-theory": 20,
+        "game-theory": 21,
         "geo-strategy": 20,
         "secret-history": 28
       },
-      "transcript_word_total": 581704
+      "transcript_word_total": 581810
     },
     "provenance": {
       "part": "provenance",
@@ -3396,6 +3396,27 @@
       },
       "transcript_word_count": 10539,
       "source_video_url": "https://www.youtube.com/watch?v=dja6dkCfngE",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "gt-29",
+      "title": "Game Theory #29: Final Examination",
+      "part": "world-war",
+      "surface": "ph-apo",
+      "volume_label": "Volume II — Apocalypse (law application)",
+      "series": "game-theory",
+      "review_status": "provisional",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "lectures/game-theory/gt-29/gt-29-transcript.md",
+        "commentary": "lectures/game-theory/gt-29/gt-29-commentary.md",
+        "folder": "lectures/game-theory/gt-29",
+        "folder_readme": "lectures/game-theory/gt-29/README.md"
+      },
+      "transcript_word_count": 106,
+      "source_video_url": "https://www.youtube.com/watch?v=RE2UribEFIo",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",
       "deprecated_part_routing": false

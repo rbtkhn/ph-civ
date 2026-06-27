@@ -15,7 +15,7 @@ All lecture chapter packets (transcript + commentary + orientation where present
 | `game-theory` | `lectures/game-theory/gt-*` |
 | `secret-history` | `lectures/secret-history/sh-*` |
 
-**146** cataloged lecture cards in `data/cards.jsonl` point at `lectures/`. **gt-29** moved on disk; still not in `cards.jsonl` (205-card count unchanged).
+**147** cataloged lecture cards in `data/cards.jsonl` point at `lectures/` (including **gt-29**). Total public card count: **206**.
 
 ## Legacy compat
 

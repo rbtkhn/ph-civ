@@ -1,10 +1,10 @@
-<!-- predictive-history-index-fingerprint: c37f0cc4e3d147e0 -->
+<!-- predictive-history-index-fingerprint: b8fa9c8affc856a4 -->
 # Predictive History Chapter Index
 
 Canonical catalog of every public Predictive History lecture chapter in this repository.
 
-- **Card count:** 205
-- **Transcript words (total):** 1,431,458
+- **Card count:** 206
+- **Transcript words (total):** 1,431,564
 - **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`data/predictive-history-index.json`](../data/predictive-history-index.json)
 - **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py` · auto-sync during `ph-civ validate` and publish
 
@@ -117,7 +117,7 @@ YouTube and Substack source URLs appear in the **Video** column below and in [`d
 
 ## Volume II — Apocalypse (law application)
 
-**Surface:** `ph-apo` · **Chapters:** 68
+**Surface:** `ph-apo` · **Chapters:** 69
 
 ### Geo-Strategy
 
@@ -168,6 +168,7 @@ YouTube and Substack source URLs appear in the **Video** column below and in [`d
 | `gt-26` | Game Theory #26: The Holy Empire of AI | `provisional` | 9,590 | [transcript](../lectures/game-theory/gt-26/gt-26-transcript.md) | [commentary](../lectures/game-theory/gt-26/gt-26-commentary.md) | [folder](../lectures/game-theory/gt-26/README.md) | [video](https://www.youtube.com/watch?v=RG1clZlrfOo) |
 | `gt-27` | Game Theory #27: Putin Enters the Chat | `provisional` | 9,851 | [transcript](../lectures/game-theory/gt-27/gt-27-transcript.md) | [commentary](../lectures/game-theory/gt-27/gt-27-commentary.md) | [folder](../lectures/game-theory/gt-27/README.md) | [video](https://www.youtube.com/watch?v=x83HcLWvHI8) |
 | `gt-28` | Game Theory #28: Predictive History | `provisional` | 10,539 | [transcript](../lectures/game-theory/gt-28/gt-28-transcript.md) | [commentary](../lectures/game-theory/gt-28/gt-28-commentary.md) | [folder](../lectures/game-theory/gt-28/README.md) | [video](https://www.youtube.com/watch?v=dja6dkCfngE) |
+| `gt-29` | Game Theory #29: Final Examination | `provisional` | 106 | [transcript](../lectures/game-theory/gt-29/gt-29-transcript.md) | [commentary](../lectures/game-theory/gt-29/gt-29-commentary.md) | [folder](../lectures/game-theory/gt-29/README.md) | [video](https://www.youtube.com/watch?v=RE2UribEFIo) |
 
 ### Secret History
 
@@ -394,6 +395,7 @@ Provenance packets preserve old seven-volume source-family material (interviews 
 | `gt-26` | Game Theory #26: The Holy Empire of AI | `provisional` | 9,590 | [transcript](../lectures/game-theory/gt-26/gt-26-transcript.md) | [commentary](../lectures/game-theory/gt-26/gt-26-commentary.md) | [folder](../lectures/game-theory/gt-26/README.md) | [video](https://www.youtube.com/watch?v=RG1clZlrfOo) |
 | `gt-27` | Game Theory #27: Putin Enters the Chat | `provisional` | 9,851 | [transcript](../lectures/game-theory/gt-27/gt-27-transcript.md) | [commentary](../lectures/game-theory/gt-27/gt-27-commentary.md) | [folder](../lectures/game-theory/gt-27/README.md) | [video](https://www.youtube.com/watch?v=x83HcLWvHI8) |
 | `gt-28` | Game Theory #28: Predictive History | `provisional` | 10,539 | [transcript](../lectures/game-theory/gt-28/gt-28-transcript.md) | [commentary](../lectures/game-theory/gt-28/gt-28-commentary.md) | [folder](../lectures/game-theory/gt-28/README.md) | [video](https://www.youtube.com/watch?v=dja6dkCfngE) |
+| `gt-29` | Game Theory #29: Final Examination | `provisional` | 106 | [transcript](../lectures/game-theory/gt-29/gt-29-transcript.md) | [commentary](../lectures/game-theory/gt-29/gt-29-commentary.md) | [folder](../lectures/game-theory/gt-29/README.md) | [video](https://www.youtube.com/watch?v=RE2UribEFIo) |
 | `interview-2025-10-30-cyrus-janssen` | Interviews #1: Cyrus Janssen — The World Is About to Change | `in_review` | 6,927 | [transcript](../interviews/interview-2025-10-30-cyrus-janssen/interview-2025-10-30-cyrus-janssen.md) | [commentary](../interviews/interview-2025-10-30-cyrus-janssen/interview-2025-10-30-cyrus-janssen-commentary.md) | [folder](../interviews/interview-2025-10-30-cyrus-janssen/README.md) | [video](https://www.youtube.com/watch?v=XRk5VSEzJ4Y) |
 | `interview-2025-11-24-glenn-diesen` | Interviews #2: Glenn Diesen — The West's Civilizational Collapse | `in_review` | 8,674 | [transcript](../interviews/interview-2025-11-24-glenn-diesen/interview-2025-11-24-glenn-diesen.md) | [commentary](../interviews/interview-2025-11-24-glenn-diesen/interview-2025-11-24-glenn-diesen-commentary.md) | [folder](../interviews/interview-2025-11-24-glenn-diesen/README.md) | [video](https://www.youtube.com/watch?v=GSSIm9xNRAE) |
 | `interview-2026-01-05-glenn-diesen` | Interviews #3: Glenn Diesen — Predictions for 2026 (Empire, Rivalry & Collapse) | `in_review` | 8,145 | [transcript](../interviews/interview-2026-01-05-glenn-diesen/interview-2026-01-05-glenn-diesen.md) | [commentary](../interviews/interview-2026-01-05-glenn-diesen/interview-2026-01-05-glenn-diesen-commentary.md) | [folder](../interviews/interview-2026-01-05-glenn-diesen/README.md) | [video](https://www.youtube.com/watch?v=ORyCS0r2Tpg) |

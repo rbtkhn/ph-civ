@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def test_loads_all_seeded_cards():
     cards = load_cards()
-    assert len(cards) == 205
+    assert len(cards) == 206
     assert {"civilization", "world-war"} <= {card["part"] for card in cards}
 
 
@@ -35,8 +35,8 @@ def test_all_cards_have_local_transcript_and_commentary():
         transcript_paths.append(transcript_path)
         commentary_paths.append(commentary_path)
 
-    assert len(set(transcript_paths)) == 205
-    assert len(set(commentary_paths)) == 205
+    assert len(set(transcript_paths)) == 206
+    assert len(set(commentary_paths)) == 206
 
 
 def test_all_commentaries_have_open_project_canvas():
@@ -162,7 +162,7 @@ def test_prompt_creative_contains_boundaries(capsys):
 
 def test_validate_passes(capsys):
     assert main(["validate"]) == 0
-    assert "card_count: 205" in capsys.readouterr().out
+    assert "card_count: 206" in capsys.readouterr().out
 
 
 def test_index_command_writes_fingerprinted_index():
@@ -183,8 +183,8 @@ def test_index_command_writes_fingerprinted_index():
     assert read_index_fingerprint(md_path) == read_index_fingerprint(json_path)
     assert md_path.read_text(encoding="utf-8").startswith("<!-- predictive-history-index-fingerprint:")
     payload = json.loads(json_path.read_text(encoding="utf-8"))
-    assert payload["card_count"] == 205
-    assert len(payload["chapters"]) == 205
+    assert payload["card_count"] == 206
+    assert len(payload["chapters"]) == 206
     assert payload["schema_version"] == 3
     assert payload["transcript_word_total"] > 1_000_000
     assert validate_ph_civ_index() == []
@@ -376,7 +376,7 @@ def test_ph_civ_index_transcript_word_counts():
     payload = json.loads((ROOT / "data" / "predictive-history-index.json").read_text(encoding="utf-8"))
     chapters = payload["chapters"]
     assert payload["schema_version"] == 3
-    assert len(chapters) == 205
+    assert len(chapters) == 206
     assert all("transcript_word_count" in chapter for chapter in chapters)
     assert payload["transcript_word_total"] == sum(
         chapter["transcript_word_count"] for chapter in chapters
@@ -561,7 +561,7 @@ def test_volumes_command_returns_architecture(capsys):
     assert payload["volumes"]["volume_ii"]["surface"] == "ph-apo"
     assert payload["volumes"]["volume_ii"]["role"] == "law_application"
     assert "museum" not in payload
-    assert payload["unique_card_count"] == 205
+    assert payload["unique_card_count"] == 206
 
 
 def test_volume_command_lists_conceptual_membership(capsys):

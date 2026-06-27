@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "card_count": 205,
+  "card_count": 206,
   "bucket_counts": {
     "PUBLIC_READY": 0,
     "OPEN_CANVAS": 1,
@@ -9,7 +9,7 @@
     "NEEDS_ROUTE_REVIEW": 0,
     "NEEDS_SOURCE_FLOOR": 0,
     "NEEDS_CARD_LIMITS": 0,
-    "NEEDS_COMMENTARY_REVIEW": 199,
+    "NEEDS_COMMENTARY_REVIEW": 200,
     "STUB_ROUTED": 0,
     "UNASSIGNED": 4
   },
@@ -182,6 +182,7 @@
       "gt-26",
       "gt-27",
       "gt-28",
+      "gt-29",
       "interview-2025-10-30-cyrus-janssen",
       "interview-2025-11-24-glenn-diesen",
       "interview-2026-01-05-glenn-diesen",
@@ -1363,6 +1364,13 @@
       "series": "game-theory"
     },
     {
+      "source_id": "gt-29",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
       "source_id": "interview-2025-10-30-cyrus-janssen",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
@@ -1671,8 +1679,8 @@
       "series": "secret-history"
     }
   ],
-  "fingerprint": "5ad054c425ac6919",
-  "generated_at": "2026-06-27T02:50:43Z",
+  "fingerprint": "d18b370174c8c5e0",
+  "generated_at": "2026-06-27T02:59:03Z",
   "markdown_summary": "runtime/artifacts/public-surface-triage.md",
   "inventory_json": "data/public-surface-inventory.json"
 }
