@@ -5,7 +5,7 @@
   "part_count": 10,
   "volume": "I",
   "volume_display": "Volume I \u2014 Civilization",
-  "spine_ssot": "book/volume-i-civilization/interwoven-reader/README.md",
+  "spine_ssot": "docs/archive/two-volume-reader-order-interwoven.md",
   "doorway_shelf": "book/volume-i-civilization/parts/",
   "photocopy_blocklist": [
     "The Life of Greece",

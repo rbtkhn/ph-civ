@@ -9,7 +9,7 @@
 - Treating the repository as a **two-volume semester** (law discovery vs law application) in START-HERE, LLM bootloaders, and generated catalog intros
 - Active use of [`docs/archive/two-volumes-one-reader-map.md`](./two-volumes-one-reader-map.md) for new-reader onboarding (document retained for history)
 
-Historical chain: [`book/seven-volume-to-two-volume.md`](../../book/seven-volume-to-two-volume.md) → two-volume reader map → **namespace catalog hub** (this deprecation).
+Historical chain: [`seven-volume-to-two-volume.md`](./seven-volume-to-two-volume.md) → [`two-volume-reader-order.md`](./two-volume-reader-order.md) → **namespace catalog hub** (this deprecation).
 
 ## What replaces it
 

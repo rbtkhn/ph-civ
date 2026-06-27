@@ -1,3 +1,5 @@
+> **Legacy archive.** Not the primary onboarding model. Active public hub: [predictive-history-index.md](../predictive-history-index.md) · [predictive-history-index.json](../predictive-history-index.json).
+
 # From The Old Seven Volumes To The Current Two
 
 Predictive History was originally assembled through source-family lanes. The current public book is organized for readers instead.

@@ -1,3 +1,5 @@
+> **Legacy archive — book/provenance.** Not the primary onboarding model. Active public hub: [predictive-history-index.md](../predictive-history-index.md) · [predictive-history-index.json](../predictive-history-index.json).
+
 # Provenance
 
 This folder names the old source-family scaffold as provenance. In the staged pass, the old `book/volume-*` folders still carry the underlying packets, but they no longer define the intended public reading order.

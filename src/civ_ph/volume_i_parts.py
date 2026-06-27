@@ -8,7 +8,9 @@ from pathlib import Path
 from civ_ph.data import PACKAGE_ROOT
 
 REGISTRY_PATH = PACKAGE_ROOT / "data" / "parts" / "volume-i-parts.json"
-INTERWOVEN_PATH = PACKAGE_ROOT / "book" / "volume-i-civilization" / "interwoven-reader" / "README.md"
+INTERWOVEN_PATH = (
+    PACKAGE_ROOT / "docs" / "archive" / "two-volume-reader-order-interwoven.md"
+)
 
 CIV_LINE = re.compile(
     r"^- \[(civ-\d+)\]\([^)]+\) - Civilization #\d+: (.+)$"

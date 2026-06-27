@@ -1,6 +1,8 @@
+> **Legacy archive.** Not the primary onboarding model. Active public hub: [predictive-history-index.md](../predictive-history-index.md) · [predictive-history-index.json](../predictive-history-index.json).
+
 # Table of Contents
 
-This file is the canonical anti-drift reader map for the two-volume `ph-civ` book.
+This file preserves the historical anti-drift reader map for the two-volume `ph-civ` book.
 
 It has two jobs at once:
 

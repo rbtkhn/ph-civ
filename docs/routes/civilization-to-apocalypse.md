@@ -1,3 +1,5 @@
+> **Route doc.** Volume I → Volume II hinge. Primary hub: [predictive-history-index.md](../predictive-history-index.md).
+
 # From Civilization To Apocalypse
 
 Predictive History begins with Tolstoy's problem: ordinary history too often turns pressure into biography. It names Napoleon, Caesar, Stalin, or some other visible actor, then mistakes the actor for the cause. The introduction, [Predictive History After Tolstoy](../../docs/routes/predictive-history-after-tolstoy.md), frames the whole corpus as a response to that error. The task is not to erase agency. It is to ask what makes agency historically possible.
