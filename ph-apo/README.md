@@ -1,14 +1,17 @@
-# ph-apo (deprecated reader surface)
+# ph-apo — Deprecated Compatibility Namespace
 
-**Redirect:** The **ph-apo** namespace is a **legacy Volume II identity surface** — deprecated for new reader onboarding.
+`ph-apo/` is no longer an active public reader root.
 
-| Use instead | Path |
-| --- | --- |
-| Full catalog hub | [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) |
-| Lecture slice (147) | [`lectures/predictive-history-lecture-index.md`](../lectures/predictive-history-lecture-index.md) |
-| Deprecation archive | [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](../docs/archive/two-volume-ph-civ-apo-deprecated.md) |
-| START-HERE | [`START-HERE.md`](../START-HERE.md) |
+Use the **namespace catalog hub**:
 
-Card `part`, route `surface`, and the **`ph-civ` CLI** name remain unchanged for compatibility.
+- [`docs/predictive-history-index.md`](../docs/predictive-history-index.md)
+- [`docs/predictive-history-index.json`](../docs/predictive-history-index.json)
+- [`lectures/`](../lectures/README.md) · [`essays/`](../essays/README.md) · [`interviews/`](../interviews/README.md)
 
-Historical chapter homes: [`lectures/`](../lectures/README.md).
+Historical two-volume framing and retired namespace paths:
+
+- [`docs/archive/deprecated-reader-namespaces.md`](../docs/archive/deprecated-reader-namespaces.md)
+- [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](../docs/archive/two-volume-ph-civ-apo-deprecated.md)
+- [`docs/migrations/PH-SURFACE-RETIREMENT.md`](../docs/migrations/PH-SURFACE-RETIREMENT.md)
+
+Do not add new canonical chapter content under `ph-apo/`.

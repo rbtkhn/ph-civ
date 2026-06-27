@@ -12,7 +12,7 @@ When asked what project this workspace is for, answer specifically:
 
 `predictive-history` is the public distribution repository organized as a **namespace catalog hub**: full catalog in `docs/`, slice indexes under `lectures/`, `essays/`, and `interviews/`, and canonical chapter bodies in those root corpora.
 
-**Compatibility (not primary onboarding):** legacy two-volume **ph-civ / ph-apo** framing, card `part`, route `surface`, and the **`ph-civ` CLI** name remain for routes and tooling. Do **not** revive Volume I/II as the default reader model — see `docs/archive/two-volume-ph-civ-apo-deprecated.md`.
+**Compatibility (not primary onboarding):** legacy two-volume **ph-civ / ph-apo** tombstone folders, card `part`, route `surface`, and the **`ph-civ` CLI** name remain temporarily for routes and tooling during surface retirement — see `docs/migrations/PH-SURFACE-RETIREMENT.md`. Do **not** revive Volume I/II as the default reader model — see `docs/archive/two-volume-ph-civ-apo-deprecated.md`.
 
 The active task in this repo is maintaining public, provider-neutral educational infrastructure for Predictive History. A chapter consists of a transcript (or essay/interview body), companion commentary where applicable, and public orientation metadata. This is not a generic coding sandbox and not a private notes workspace.
 

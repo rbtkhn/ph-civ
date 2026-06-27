@@ -1,33 +1,32 @@
 # Public Repository Contract
 
-This repository is the public-facing distribution layer for the two-volume ph-civ artifact: `ph-civ` and `ph-apo`.
+This repository is the public-facing distribution layer for **Predictive History**: a namespace catalog hub over lecture, essay, and interview corpora.
 
 If a reader pastes the GitHub URL into an LLM chat, the repo should unfold from `START-HERE.md` and `data/llm-experience.json`. Those files define the provider-neutral first-tour flow, reader modes, 10-route spine seed, and guardrails for using public transcripts, commentaries, routes, and patterns.
 
 ## Public Surfaces
 
-- `ph-civ`: **Volume I / Predictive History: Civilization** public orientation cards, paths, prompts, and study navigation for discovering the laws of history.
-- `ph-apo`: **Volume II / Predictive History: Apocalypse** public orientation cards, paths, prompts, and study navigation for applying the laws of history.
+- **Catalog hub** — `docs/predictive-history-index.md` / `.json` (full public chapter index)
+- **Corpora** — `lectures/`, `essays/`, `interviews/` (canonical chapter bodies + slice indexes)
+- **Study edition** — GitHub Pages under `/predictive-history/` (see `docs/onboarding/study-edition.md`)
 
-Chapter folders and the study edition are the reader surfaces for both volumes.
+Legacy two-volume folders **`ph-civ/`**, **`ph-apo/`**, and **`book/`** are tombstone-only compat namespaces — not active reader roots. See [`docs/archive/deprecated-reader-namespaces.md`](../archive/deprecated-reader-namespaces.md).
 
 ## Source Of Truth Boundary
 
 This repo publishes public-facing material, including chapter transcripts, chapter commentaries, public cards, routes, prompts, schemas, and manifests. It is not a private notes workspace and not the large artifact archive.
 
-Canonical lecture transcripts live under `lectures/` so `ph-civ` remains independently usable without any outside workshop storage. Chapter packets preserve the full transcript body inside the repo, even when folder READMEs render as lighter public study doorways.
+Canonical lecture transcripts live under `lectures/` so the public reader remains independently usable without any outside workshop storage. Chapter packets preserve the full transcript body inside the repo, even when folder READMEs render as lighter public study doorways.
 
-The current chapter corpus was imported from the maintained Predictive History workspace and keeps that snapshot as provenance. Physical source series and folder labels are provenance metadata; the public reader architecture is the two-volume ph-civ rollup.
-
-Legacy `book/` wrapper trees were removed (2026-06). Canonical chapter growth lands under `lectures/`, `essays/`, and `interviews/`. Compat chapter stubs may remain under `ph-civ/chapters/` and `ph-apo/chapters/`.
+The current chapter corpus was imported from the maintained Predictive History workspace and keeps that snapshot as provenance. Physical source series and folder labels are provenance metadata; the public reader architecture is the **namespace catalog hub**.
 
 Each public chapter consists of:
 
-- lecture transcript
+- lecture transcript (or essay/interview body)
 - companion commentary as an open project canvas
 - public orientation/navigation metadata
 
-Commentaries are not presumed complete at seed time. Each commentary must carry the shared Project Canvas scaffold so the chapter can be enhanced one by one without losing its role in the larger ph-civ project.
+Commentaries are not presumed complete at seed time. Each commentary must carry the shared Project Canvas scaffold so the chapter can be enhanced one by one without losing its role in the larger project.
 
 ## Public Growth Goals
 

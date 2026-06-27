@@ -1,24 +1,17 @@
-# ph-civ (deprecated reader surface)
+# ph-civ — Deprecated Compatibility Namespace
 
-**Redirect:** The **ph-civ** namespace is a **legacy Volume I identity surface** — deprecated for new reader onboarding.
+`ph-civ/` is no longer an active public reader root.
 
-| Use instead | Path |
-| --- | --- |
-| Full catalog hub | [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) |
-| Lecture slice (147) | [`lectures/predictive-history-lecture-index.md`](../lectures/predictive-history-lecture-index.md) |
-| Deprecation archive | [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](../docs/archive/two-volume-ph-civ-apo-deprecated.md) |
-| START-HERE | [`START-HERE.md`](../START-HERE.md) |
+Use the **namespace catalog hub**:
 
-Card `part`, route `surface`, and the **`ph-civ` CLI** name remain unchanged for compatibility.
+- [`docs/predictive-history-index.md`](../docs/predictive-history-index.md)
+- [`docs/predictive-history-index.json`](../docs/predictive-history-index.json)
+- [`lectures/`](../lectures/README.md) · [`essays/`](../essays/README.md) · [`interviews/`](../interviews/README.md)
 
-Historical chapter homes: [`lectures/`](../lectures/README.md).
+Historical two-volume framing and retired namespace paths:
 
-Legacy namespace lanes under `ph-civ/`:
+- [`docs/archive/deprecated-reader-namespaces.md`](../docs/archive/deprecated-reader-namespaces.md)
+- [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](../docs/archive/two-volume-ph-civ-apo-deprecated.md)
+- [`docs/migrations/PH-SURFACE-RETIREMENT.md`](../docs/migrations/PH-SURFACE-RETIREMENT.md)
 
-- [chapters/](ph-civ/chapters/README.md) — chapter doorways (legacy links)
-- [lectures/](ph-civ/lectures/README.md) — lecture packets
-- [interviews/](ph-civ/interviews/README.md) — interview-form sources
-
-Repo-root medium lanes:
-
-- [essays/](../essays/README.md) — Substack / long-form essays
+Do not add new canonical chapter content under `ph-civ/`.

@@ -75,13 +75,11 @@ def discover_folder_moves(glob_pattern: str, series: str, legacy_parent: Path) -
 
 def discover_gt_moves() -> list[MoveSpec]:
     moves: list[MoveSpec] = []
-    for pattern in ("ph-civ/chapters/gt-*", "ph-apo/chapters/gt-*"):
-        for src in sorted(ROOT.glob(pattern)):
-            if not src.is_dir():
-                continue
-            sid = src.name
-            dst = ROOT / "lectures" / "game-theory" / sid
-            moves.append(MoveSpec(sid, "game-theory", src, dst, src))
+    for src in sorted((ROOT / "lectures" / "game-theory").glob("gt-*")):
+        if not src.is_dir():
+            continue
+        sid = src.name
+        moves.append(MoveSpec(sid, "game-theory", src, src, src))
     return moves
 
 
@@ -236,8 +234,7 @@ def write_legacy_stub(spec: MoveSpec, *, dry_run: bool) -> None:
         stub_dir = ROOT / "book" / "volume-i" / spec.source_id
         legacy_label = "`book/volume-i` flat-file"
     elif spec.series == "game-theory":
-        stub_dir = spec.legacy_dir
-        legacy_label = "`ph-civ` / `ph-apo` chapters"
+        return
     else:
         stub_dir = spec.legacy_dir
         legacy_label = f"`book/{spec.legacy_dir.parent.name}`"
@@ -381,8 +378,7 @@ def refresh_staged_wrappers(moves: list[MoveSpec], *, dry_run: bool) -> None:
             elif series == "geo-strategy":
                 new_block += f"- [Legacy redirect](../../../volume-i/{sid}/README.md)\n"
             elif series == "game-theory":
-                new_block += f"- [Legacy redirect (ph-apo)](../../../../ph-apo/chapters/{sid}/README.md)\n"
-                new_block += f"- [Legacy redirect (ph-civ)](../../../../ph-civ/chapters/{sid}/README.md)\n"
+                pass
             if "## Current Source Packet" in text:
                 text = re.sub(
                     r"## Current Source Packet\n\n.*?(?=\n## |\Z)",
@@ -437,7 +433,7 @@ def update_namespace_readmes(*, dry_run: bool) -> None:
     if lectures_readme.is_file():
         text = lectures_readme.read_text(encoding="utf-8")
         old = "Most lecture chapters still live under [`book/`](../book/) during recanonicalization."
-        new = "Canonical lecture packets live under `lectures/<series>/`; legacy `book/volume-*` and `ph-civ`/`ph-apo` chapter paths are compat redirect stubs."
+        new = "Canonical lecture packets live under `lectures/<series>/`; legacy `book/volume-*` paths are compat redirect stubs."
         if old in text:
             text = text.replace(old, new)
             if not dry_run:

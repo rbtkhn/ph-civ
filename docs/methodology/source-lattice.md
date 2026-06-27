@@ -74,8 +74,7 @@ For `ph-civ`, primary sources usually include:
 - the lecture transcript
 - direct source texts or named literary/philosophical works when the chapter is
   explicitly built around them
-- source-bounded chapter bodies under `book/`, `ph-civ/chapters/`, or
-  `ph-apo/chapters/`
+- source-bounded chapter bodies under root corpora (`lectures/`, `essays/`, `interviews/`)
 
 The transcript body is the core source floor. It should not be silently
 rewritten into guardrail language.

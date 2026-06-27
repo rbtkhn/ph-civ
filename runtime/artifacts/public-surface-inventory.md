@@ -1,8 +1,8 @@
-<!-- public-surface-inventory-fingerprint: 5b09370944087a2a -->
+<!-- public-surface-inventory-fingerprint: 2710a27df4cf49a0 -->
 # Public surface inventory
 
 - **Surfaces:** 26
-- **Generated:** 2026-06-27T09:55:37Z
+- **Generated:** 2026-06-27T15:45:20Z
 - **Machine SSOT:** [`data/public-surface-inventory.json`](../../data/public-surface-inventory.json)
 - **Regenerate:** `ph-civ surface-inventory`
 
@@ -17,9 +17,9 @@ Per-surface status vocabulary: [public-surface-status.md](../../docs/catalogs/pu
 | `strategy_codex_bridge` | bridge | active | docs/methodology/strategy-codex-bridge.md | manual |
 | `cards_dataset` | card_dataset | active | data/cards.jsonl | validate:cards |
 | `predictive_history_index` | chapter_catalog | generated | docs/predictive-history-index.json | validate:predictive-history-index |
-| `chapter_folders` | chapter_folder | active | lectures/* · ph-civ/chapters/* · ph-apo/chapters/* | validate:cards |
-| `ph_apo_volume_ii_chapters` | chapter_folder | active | lectures/* (+ ph-apo/chapters redirect stubs) | docs/predictive-history-index.json |
-| `ph_civ_volume_i_chapters` | chapter_folder | active | lectures/* (+ ph-civ/chapters redirect stubs) | docs/predictive-history-index.json |
+| `chapter_folders` | chapter_folder | active | lectures/* | validate:cards |
+| `ph_apo_volume_ii_chapters` | chapter_folder | active | lectures/*  | docs/predictive-history-index.json |
+| `ph_civ_volume_i_chapters` | chapter_folder | active | lectures/*  | docs/predictive-history-index.json |
 | `commentary_methodology_v2` | doctrine_doc | canonical | docs/methodology/commentary-methodology-v2.md | validate:commentary-canvas |
 | `public_repo_contract` | doctrine_doc | canonical | docs/contracts/public-repo-contract.md | manual |
 | `public_surface_status` | doctrine_doc | active | docs/catalogs/public-surface-status.md | manual |
