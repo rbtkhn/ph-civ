@@ -14,8 +14,11 @@ from lecture_rails_lib import (
     audit_lectures,
     classify_transcript,
     draft_geo_map,
+    draft_pivot_geo_map,
     draft_section_map,
+    fill_section_anchors,
     list_transcript_paths,
+    load_flat_transcript_body,
     load_lecture_card_ids,
     retitle_slug_transcript,
     save_section_map,
@@ -115,6 +118,40 @@ def cmd_geo_from_timestamps(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_geo_upgrade(args: argparse.Namespace) -> int:
+    """Re-draft anchor-based maps for geo packets and re-apply on flat bodies."""
+    paths = _paths_for_source_or_series(args)
+    if args.from_id or args.to_id:
+        lo = int(args.from_id or "1")
+        hi = int(args.to_id or "20")
+        paths = [
+            p
+            for p in paths
+            if lo <= int(p.parent.name.split("-")[1]) <= hi
+        ]
+    upgraded = 0
+    for path in paths:
+        source_id = path.name.replace("-transcript.md", "")
+        flat = load_flat_transcript_body(path)
+        try:
+            sections = draft_geo_map(path)
+        except ValueError:
+            sections = draft_pivot_geo_map(path, flat, target_sections=args.sections)
+        sections = fill_section_anchors(sections, flat)
+        if args.dry_run:
+            print(f"dry-run {source_id}: {len(sections)} sections")
+            for s in sections:
+                anchor = s.get("anchor", "—")
+                print(f"  - {s['title']}: {str(anchor)[:50]}")
+            continue
+        save_section_map(source_id, sections)
+        apply_section_map(path, sections, flat_body=flat)
+        upgraded += 1
+        print(f"upgraded {source_id} ({len(sections)} anchor rails)")
+    print(f"geo-upgrade touched: {upgraded}")
+    return 0
+
+
 def cmd_apply(args: argparse.Namespace) -> int:
     if args.source_id:
         ids = [args.source_id]
@@ -199,6 +236,15 @@ def main(argv: list[str] | None = None) -> int:
     p_geo.add_argument("--series", default="geo-strategy")
     p_geo.add_argument("--dry-run", action="store_true")
     p_geo.set_defaults(func=cmd_geo_from_timestamps)
+
+    p_up = sub.add_parser("geo-upgrade", help="anchor-based geo map upgrade (timestamps or pivots)")
+    p_up.add_argument("--series", default="geo-strategy")
+    p_up.add_argument("--source-id")
+    p_up.add_argument("--from-id", help="geo episode lower bound, e.g. 4")
+    p_up.add_argument("--to-id", help="geo episode upper bound, e.g. 20")
+    p_up.add_argument("--sections", type=int, default=6, help="target rails for pivot tier")
+    p_up.add_argument("--dry-run", action="store_true")
+    p_up.set_defaults(func=cmd_geo_upgrade)
 
     p_apply = sub.add_parser("apply", help="apply section map YAML")
     p_apply.add_argument("--source-id")

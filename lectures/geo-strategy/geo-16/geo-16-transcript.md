@@ -25,11 +25,15 @@ part_role: world-war
 
 
 
-### Core Analysis
+### Things Seem Quiet Down The Middle
 
 
 
-### Strategic Implications
+### Things Seem Quiet Down The Middle
+
+
+
+### Things Seem Quiet Down The Middle
 
 
 

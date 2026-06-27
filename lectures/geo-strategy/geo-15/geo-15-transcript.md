@@ -25,11 +25,15 @@ part_role: world-war
 
 
 
-### Core Analysis
+### You There's Been Ceasefire Announced The
 
 
 
-### Strategic Implications
+### You There's Been Ceasefire Announced The
+
+
+
+### You There's Been Ceasefire Announced The
 
 
 

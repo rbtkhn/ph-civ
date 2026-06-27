@@ -202,6 +202,7 @@ python scripts/lecture_section_pass.py slug-retitle --series civilization
 python scripts/verify_transcript_pin_cites.py
 python scripts/lecture_section_pass.py draft-map --series geo-strategy --template geo-flat
 python scripts/lecture_section_pass.py geo-from-timestamps
+python scripts/lecture_section_pass.py geo-upgrade --from-id 4 --to-id 20
 python scripts/lecture_section_pass.py apply --series geo-strategy
 python scripts/lecture_section_pass.py auto-section --series game-theory --template gt-monologue
 ```

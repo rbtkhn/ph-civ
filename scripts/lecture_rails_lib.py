@@ -34,6 +34,19 @@ GEO_TIMESTAMP_LINE_RE = re.compile(
     r"^-\s*(?P<title>.+?):\s*`[^`]+`",
     re.M,
 )
+GEO_TIMESTAMP_SKIP_RE = re.compile(r"not supplied", re.I)
+PIVOT_TRIGGER_RE = re.compile(
+    r"\b("
+    r"today we look|today we will|today i'm going|going to share|"
+    r"third and final|the year is \d{4}|"
+    r"let's look at a map|let's review|let's begin|let's start|"
+    r"question now is|the question then is|the question is|"
+    r"moving on|next topic|in conclusion|to summarize|"
+    r"all right so|okay so the|so um today|regime change|three pillars"
+    r")\b",
+    re.I,
+)
+PRE_RAILS_GIT_REF = "f108cb2^"
 
 
 @dataclass
@@ -158,11 +171,154 @@ def parse_geo_timestamp_titles(doc: str) -> list[str]:
     titles: list[str] = []
     for match in GEO_TIMESTAMP_LINE_RE.finditer(tail):
         title = match.group("title").strip()
+        if GEO_TIMESTAMP_SKIP_RE.search(title):
+            continue
         if title.lower().startswith("opening"):
             titles.append("Opening")
         else:
             titles.append(title[0].upper() + title[1:] if title else title)
     return titles
+
+
+def strip_section_headings(body: str) -> str:
+    lines = [line for line in body.splitlines() if not line.startswith("### ")]
+    text = "\n".join(lines)
+    return re.sub(r"\n{3,}", "\n\n", text).strip()
+
+
+def load_flat_transcript_body(path: Path, *, git_ref: str | None = PRE_RAILS_GIT_REF) -> str:
+    """Return Part I body without section headings — prefer pre-rails git snapshot."""
+    rel = path.relative_to(REPO_ROOT).as_posix()
+    if git_ref:
+        import subprocess
+
+        proc = subprocess.run(
+            ["git", "show", f"{git_ref}:{rel}"],
+            cwd=REPO_ROOT,
+            capture_output=True,
+            text=True,
+        )
+        if proc.returncode == 0 and PART_I_MARKER in proc.stdout:
+            _, body = split_part_i(proc.stdout)
+            flat = strip_section_headings(body)
+            if flat:
+                return flat
+    doc = path.read_text(encoding="utf-8")
+    _, body = split_part_i(doc)
+    return strip_section_headings(body)
+
+
+def title_from_anchor_snippet(snippet: str) -> str:
+    words = re.findall(r"[a-zA-Z']+", snippet.lower())
+    stop = {
+        "okay", "yeah", "well", "right", "lets", "look", "today", "start",
+        "class", "review", "where", "are", "with", "that", "this", "have",
+        "from", "your", "know", "will", "just", "very", "also", "then",
+    }
+    picked = [w for w in words if w not in stop and len(w) > 2][:6]
+    if not picked:
+        picked = words[:5]
+    return " ".join(w.capitalize() for w in picked) or "Core Analysis"
+
+
+def find_pivot_anchors(flat: str, count: int) -> list[str]:
+    hits: list[tuple[int, str]] = [(0, flat.strip()[:55])]
+    for match in PIVOT_TRIGGER_RE.finditer(flat):
+        pos = match.start()
+        if pos < 80:
+            continue
+        snippet = flat[pos : pos + 70].replace("\n", " ").strip()
+        if any(abs(pos - h[0]) < 350 for h in hits[1:]):
+            continue
+        hits.append((pos, snippet))
+    hits.sort(key=lambda x: x[0])
+
+    if len(hits) < count:
+        paragraphs = [p.strip() for p in re.split(r"\n\n+", flat) if p.strip()]
+        if len(paragraphs) >= count:
+            for i in range(1, count):
+                idx = min(len(paragraphs) - 1, (i * len(paragraphs)) // count)
+                snippet = paragraphs[idx][:70].replace("\n", " ").strip()
+                pos = flat.find(paragraphs[idx][:30])
+                if pos == -1:
+                    pos = i * 1000
+                if not any(abs(pos - h[0]) < 350 for h in hits):
+                    hits.append((pos, snippet))
+            hits.sort(key=lambda x: x[0])
+
+    if len(hits) <= count:
+        return [h[1] for h in hits]
+    interior = hits[1:]
+    step = max(1, len(interior) // max(1, count - 1))
+    chosen = [hits[0][1]] + [interior[i][1] for i in range(0, len(interior), step)]
+    return chosen[:count]
+
+
+def fill_section_anchors(sections: list[dict], flat: str) -> list[dict]:
+    titles = [s["title"] for s in sections]
+    if sections[0].get("split") == "paragraph":
+        return sections
+    filled: list[dict] = []
+    try:
+        built = build_anchors_for_titles(titles, flat)
+    except ValueError:
+        built = []
+    for i, section in enumerate(sections):
+        entry = {"title": section["title"]}
+        if i < len(sections) - 1:
+            anchor = section.get("anchor")
+            if anchor and not section.get("anchor_missing"):
+                try:
+                    find_anchor_pos(flat, str(anchor)[:40], 0)
+                    entry["anchor"] = str(anchor).strip()
+                except ValueError:
+                    anchor = None
+            if not anchor and i < len(built):
+                entry["anchor"] = built[i]
+            elif not anchor:
+                entry["anchor_missing"] = True
+        filled.append(entry)
+    return filled
+
+
+def draft_pivot_geo_map(path: Path, flat: str, *, target_sections: int = 6) -> list[dict]:
+    titles_from_ts = parse_geo_timestamp_titles(path.read_text(encoding="utf-8"))
+    if not titles_from_ts:
+        titles_from_ts = parse_geo_timestamp_titles(
+            subprocess_get_git_doc(path) or path.read_text(encoding="utf-8")
+        )
+    if titles_from_ts:
+        sections = [{"title": t} for t in titles_from_ts]
+        return fill_section_anchors(sections, flat)
+
+    anchors = find_pivot_anchors(flat, max(4, target_sections - 1))
+    sections: list[dict] = [{"title": "Opening", "anchor": flat.strip()[:55]}]
+    for anchor in anchors[1:]:
+        if len(sections) >= target_sections - 1:
+            break
+        sections.append({"title": title_from_anchor_snippet(anchor), "anchor": anchor[:80]})
+    if len(sections) < 4:
+        paragraphs = [p.strip() for p in re.split(r"\n\n+", flat) if p.strip()]
+        needed = 4 - len(sections)
+        for i in range(1, needed + 1):
+            idx = min(len(paragraphs) - 1, (i * len(paragraphs)) // (needed + 1))
+            anchor = paragraphs[idx][:70].replace("\n", " ").strip()
+            sections.append({"title": title_from_anchor_snippet(anchor), "anchor": anchor[:80]})
+    sections.append({"title": "Closing Questions"})
+    return sections
+
+
+def subprocess_get_git_doc(path: Path) -> str | None:
+    import subprocess
+
+    rel = path.relative_to(REPO_ROOT).as_posix()
+    proc = subprocess.run(
+        ["git", "show", f"{PRE_RAILS_GIT_REF}:{rel}"],
+        cwd=REPO_ROOT,
+        capture_output=True,
+        text=True,
+    )
+    return proc.stdout if proc.returncode == 0 else None
 
 
 def anchor_from_title(title: str, body: str, start: int = 0) -> str | None:
@@ -221,11 +377,17 @@ def build_anchors_for_titles(titles: list[str], body: str) -> list[str]:
     return anchors
 
 
-def apply_section_map(path: Path, sections: list[dict], *, dry_run: bool = False) -> None:
+def apply_section_map(
+    path: Path,
+    sections: list[dict],
+    *,
+    dry_run: bool = False,
+    flat_body: str | None = None,
+) -> None:
     doc = path.read_text(encoding="utf-8")
     head, body = split_part_i(doc)
     titles = [s["title"] for s in sections]
-    flat = body.strip()
+    flat = flat_body if flat_body is not None else strip_section_headings(body)
 
     if sections[0].get("split") == "paragraph":
         new_body = insert_sections_paragraph_split(flat, titles)
@@ -330,21 +492,14 @@ def draft_geo_map(path: Path) -> list[dict]:
     doc = path.read_text(encoding="utf-8")
     titles = parse_geo_timestamp_titles(doc)
     if not titles:
-        raise ValueError(f"{path.name}: no Source timestamps block")
-    _, body = split_part_i(doc)
-    sections: list[dict] = []
-    cursor = 0
-    for i, title in enumerate(titles):
-        entry: dict = {"title": title}
-        if i < len(titles) - 1:
-            anchor = anchor_from_title(title, body, cursor)
-            if anchor:
-                entry["anchor"] = anchor[:80].strip()
-                cursor = find_anchor_pos(body, entry["anchor"][:40], cursor) + 1
-            else:
-                entry["anchor_missing"] = True
-        sections.append(entry)
-    return sections
+        git_doc = subprocess_get_git_doc(path)
+        if git_doc:
+            titles = parse_geo_timestamp_titles(git_doc)
+    if not titles:
+        raise ValueError(f"{path.name}: no usable Source timestamps block")
+    flat = load_flat_transcript_body(path)
+    sections = [{"title": t} for t in titles]
+    return fill_section_anchors(sections, flat)
 
 
 def transcript_heading_fragments(path: Path) -> set[str]:

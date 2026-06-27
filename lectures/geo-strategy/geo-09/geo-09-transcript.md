@@ -32,11 +32,19 @@ Source timestamps:
 
 
 
-### Core Analysis
+### The First Major Problem Capitalism It's
 
 
 
-### Strategic Implications
+### All For All These Reasons Capitalism
+
+
+
+### The And And Was Basically The
+
+
+
+### All Sounds Like Subtle Shift Going
 
 
 

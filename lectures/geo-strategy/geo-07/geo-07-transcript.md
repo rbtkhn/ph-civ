@@ -32,11 +32,19 @@ Source timestamps:
 
 
 
-### Core Analysis
+### The Motive Clear And The Problem
 
 
 
-### Strategic Implications
+### The The Person The Real Power
+
+
+
+### The First Group Protest Was You
+
+
+
+### All Again Don't What Happened But
 
 
 

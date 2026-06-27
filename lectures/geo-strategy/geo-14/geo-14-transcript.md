@@ -25,11 +25,15 @@ part_role: world-war
 
 
 
-### Core Analysis
+### The Question How Would Iran Force
 
 
 
-### Strategic Implications
+### Regime Change Iran And May Even
+
+
+
+### You Last Night Trump Ordered The
 
 
 

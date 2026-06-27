@@ -32,11 +32,19 @@ Source timestamps:
 
 
 
-### Core Analysis
+### The First Reason Free Freedom And
 
 
 
-### Strategic Implications
+### All We'll First Historical Analysis Find
+
+
+
+### The The The Adversary Most Willing
+
+
+
+### The Problem Zelenskyy Cared About What
 
 
 
