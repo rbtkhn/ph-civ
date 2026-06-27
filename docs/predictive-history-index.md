@@ -24,9 +24,9 @@ Namespace catalogs beside each corpus (lectures, essays, interviews). This page 
 
 | Slice | Markdown | JSON | Cards |
 | --- | --- | --- | ---: |
-| Lectures | [lectures index](../lectures/predictive-history-lectures-index.md) | [json](../lectures/predictive-history-lectures-index.json) | 147 |
-| Essays | [essays index](../essays/predictive-history-essays-index.md) | [json](../essays/predictive-history-essays-index.json) | 43 |
-| Interviews | [interviews index](../interviews/predictive-history-interviews-index.md) | [json](../interviews/predictive-history-interviews-index.json) | 16 |
+| Lectures | [lectures index](../lectures/predictive-history-lecture-index.md) | [json](../lectures/predictive-history-lecture-index.json) | 147 |
+| Essays | [essays index](../essays/predictive-history-essay-index.md) | [json](../essays/predictive-history-essay-index.json) | 43 |
+| Interviews | [interviews index](../interviews/predictive-history-interview-index.md) | [json](../interviews/predictive-history-interview-index.json) | 16 |
 
 ## Volume I — Civilization (law discovery)
 

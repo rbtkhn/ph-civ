@@ -17,7 +17,7 @@ All lecture chapter packets (transcript + commentary + orientation where present
 
 **147** cataloged lecture cards in `data/cards.jsonl` point at `lectures/` (including **gt-29**). Total public card count: **206**.
 
-**Catalog:** lectures slice [`lectures/predictive-history-lectures-index.md`](../lectures/predictive-history-lectures-index.md) · full hub [`docs/predictive-history-index.md`](predictive-history-index.md) (machine JSON colocated in `docs/`).
+**Catalog:** lectures slice [`lectures/predictive-history-lecture-index.md`](../lectures/predictive-history-lecture-index.md) · full hub [`docs/predictive-history-index.md`](predictive-history-index.md) (machine JSON colocated in `docs/`).
 
 ## Legacy compat
 

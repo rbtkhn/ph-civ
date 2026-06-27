@@ -12,7 +12,7 @@ This folder names the old source-family scaffold as provenance. In the staged pa
 
 ## Interviews (public provenance packets)
 
-Fifteen workshop interviews (`vi-01` … `vi-15`) plus one external Diary of a CEO packet are promoted to repo-root [`interviews/`](../../interviews/README.md) with date-slug public IDs (`interview-YYYY-MM-DD-{host-slug}`). Catalog: [`predictive-history-interviews-index.md`](../../interviews/predictive-history-interviews-index.md) · full hub [`docs/predictive-history-index.md`](../../docs/predictive-history-index.md).
+Fifteen workshop interviews (`vi-01` … `vi-15`) plus one external Diary of a CEO packet are promoted to repo-root [`interviews/`](../../interviews/README.md) with date-slug public IDs (`interview-YYYY-MM-DD-{host-slug}`). Catalog: [`predictive-history-interview-index.md`](../../interviews/predictive-history-interview-index.md) · full hub [`docs/predictive-history-index.md`](../../docs/predictive-history-index.md).
 
 Doorways:
 

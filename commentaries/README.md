@@ -17,4 +17,4 @@ Repo path: **`commentaries/`** at the repository root (sibling to [`essays/`](..
 | [`essays/{source_id}.md`](../essays/) | Verbatim essay body |
 | [`data/cards/{source_id}.md`](../data/cards/) | Public orientation card |
 
-Registry: [`data/cards.jsonl`](../data/cards.jsonl) · essays slice [`predictive-history-essays-index.md`](../essays/predictive-history-essays-index.md) · full hub [`docs/predictive-history-index.md`](../docs/predictive-history-index.md).
+Registry: [`data/cards.jsonl`](../data/cards.jsonl) · essays slice [`predictive-history-essay-index.md`](../essays/predictive-history-essay-index.md) · full hub [`docs/predictive-history-index.md`](../docs/predictive-history-index.md).

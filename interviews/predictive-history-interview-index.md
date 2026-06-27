@@ -1,11 +1,11 @@
-<!-- predictive-history-interviews-index-fingerprint: f7cac96e90caaae6 -->
+<!-- predictive-history-interview-index-fingerprint: f7cac96e90caaae6 -->
 # Predictive History Interviews Index
 
 Catalog of interview provenance packets under `interviews/`.
 
 - **Card count:** 16
 - **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`data/interviews/manifest.json`](../data/interviews/manifest.json)
-- **Machine catalog:** [`predictive-history-interviews-index.json`](predictive-history-interviews-index.json)
+- **Machine catalog:** [`predictive-history-interview-index.json`](predictive-history-interview-index.json)
 - **Full hub:** [`docs/predictive-history-index.md`](../docs/predictive-history-index.md)
 - **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py`
 

@@ -1,10 +1,10 @@
-<!-- predictive-history-lectures-index-fingerprint: 84a8e664c411d1e9 -->
+<!-- predictive-history-lecture-index-fingerprint: 84a8e664c411d1e9 -->
 # Predictive History Lectures Index
 
 Catalog of lecture chapter packets under `lectures/` (video-sourced transcripts).
 
 - **Card count:** 147
-- **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`predictive-history-lectures-index.json`](predictive-history-lectures-index.json)
+- **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`predictive-history-lecture-index.json`](predictive-history-lecture-index.json)
 - **Full hub:** [`docs/predictive-history-index.md`](../docs/predictive-history-index.md)
 - **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py`
 

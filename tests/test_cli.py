@@ -358,9 +358,9 @@ def test_no_legacy_chapter_indexes():
 def test_ph_civ_index_hub_links_namespace_slices():
     md = (ROOT / "docs" / "predictive-history-index.md").read_text(encoding="utf-8")
     assert "## Namespace slice indexes" in md
-    assert "../lectures/predictive-history-lectures-index.md" in md
-    assert "../essays/predictive-history-essays-index.md" in md
-    assert "../interviews/predictive-history-interviews-index.md" in md
+    assert "../lectures/predictive-history-lecture-index.md" in md
+    assert "../essays/predictive-history-essay-index.md" in md
+    assert "../interviews/predictive-history-interview-index.md" in md
     assert "| Lectures |" in md
     assert "| 147 |" in md
     assert "| 43 |" in md
@@ -401,40 +401,40 @@ def test_ph_civ_index_transcript_word_counts():
 
 def test_lectures_index_exists_and_matches_cards():
     payload = json.loads(
-        (ROOT / "lectures" / "predictive-history-lectures-index.json").read_text(encoding="utf-8")
+        (ROOT / "lectures" / "predictive-history-lecture-index.json").read_text(encoding="utf-8")
     )
     assert payload["scope"] == "lectures"
     assert payload["hub_index"] == "docs/predictive-history-index.md"
     assert payload["card_count"] == 147
     assert len(payload["chapters"]) == 147
-    md = (ROOT / "lectures" / "predictive-history-lectures-index.md").read_text(encoding="utf-8")
-    assert md.startswith("<!-- predictive-history-lectures-index-fingerprint:")
+    md = (ROOT / "lectures" / "predictive-history-lecture-index.md").read_text(encoding="utf-8")
+    assert md.startswith("<!-- predictive-history-lecture-index-fingerprint:")
     assert "civilization/civ-01/" in md
 
 
 def test_essays_index_exists_and_matches_cards():
     payload = json.loads(
-        (ROOT / "essays" / "predictive-history-essays-index.json").read_text(encoding="utf-8")
+        (ROOT / "essays" / "predictive-history-essay-index.json").read_text(encoding="utf-8")
     )
     assert payload["scope"] == "essays"
     assert payload["hub_index"] == "docs/predictive-history-index.md"
     assert payload["card_count"] == 43
     assert len(payload["chapters"]) == 43
-    md = (ROOT / "essays" / "predictive-history-essays-index.md").read_text(encoding="utf-8")
-    assert md.startswith("<!-- predictive-history-essays-index-fingerprint:")
+    md = (ROOT / "essays" / "predictive-history-essay-index.md").read_text(encoding="utf-8")
+    assert md.startswith("<!-- predictive-history-essay-index-fingerprint:")
     assert "../commentaries/" in md
 
 
 def test_interviews_index_exists_and_matches_cards():
     payload = json.loads(
-        (ROOT / "interviews" / "predictive-history-interviews-index.json").read_text(encoding="utf-8")
+        (ROOT / "interviews" / "predictive-history-interview-index.json").read_text(encoding="utf-8")
     )
     assert payload["scope"] == "interviews"
     assert payload["hub_index"] == "docs/predictive-history-index.md"
     assert payload["card_count"] == 16
     assert len(payload["chapters"]) == 16
-    md = (ROOT / "interviews" / "predictive-history-interviews-index.md").read_text(encoding="utf-8")
-    assert md.startswith("<!-- predictive-history-interviews-index-fingerprint:")
+    md = (ROOT / "interviews" / "predictive-history-interview-index.md").read_text(encoding="utf-8")
+    assert md.startswith("<!-- predictive-history-interview-index-fingerprint:")
     assert "interview-2025-10-30-cyrus-janssen/" in md
 
 

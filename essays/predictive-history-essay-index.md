@@ -1,11 +1,11 @@
-<!-- predictive-history-essays-index-fingerprint: bd967d557b8a4a2b -->
+<!-- predictive-history-essay-index-fingerprint: bd967d557b8a4a2b -->
 # Predictive History Essays Index
 
 Catalog of Substack essay bodies under `essays/` (flat files).
 
 - **Card count:** 43
 - **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`data/essays/manifest.json`](../data/essays/manifest.json)
-- **Machine catalog:** [`predictive-history-essays-index.json`](predictive-history-essays-index.json)
+- **Machine catalog:** [`predictive-history-essay-index.json`](predictive-history-essay-index.json)
 - **Full hub:** [`docs/predictive-history-index.md`](../docs/predictive-history-index.md)
 - **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py`
 

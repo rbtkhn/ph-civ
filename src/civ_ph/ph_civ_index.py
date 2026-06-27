@@ -21,6 +21,12 @@ LEGACY_CHAPTER_INDEX_PATHS = (
     "docs/source-video-index.md",
     "data/index.json",
     "data/predictive-history-index.json",
+    "lectures/predictive-history-lectures-index.md",
+    "lectures/predictive-history-lectures-index.json",
+    "essays/predictive-history-essays-index.md",
+    "essays/predictive-history-essays-index.json",
+    "interviews/predictive-history-interviews-index.md",
+    "interviews/predictive-history-interviews-index.json",
 )
 
 OPERATOR_DOC_GREP_PATHS = (
@@ -108,23 +114,23 @@ def _interview_filter(card: dict) -> bool:
 NAMESPACE_SCOPES: dict[str, NamespaceScope] = {
     "lectures": NamespaceScope(
         scope="lectures",
-        md_rel="lectures/predictive-history-lectures-index.md",
-        json_rel="lectures/predictive-history-lectures-index.json",
-        fingerprint_marker="<!-- predictive-history-lectures-index-fingerprint:",
+        md_rel="lectures/predictive-history-lecture-index.md",
+        json_rel="lectures/predictive-history-lecture-index.json",
+        fingerprint_marker="<!-- predictive-history-lecture-index-fingerprint:",
         filter_fn=_lecture_filter,
     ),
     "essays": NamespaceScope(
         scope="essays",
-        md_rel="essays/predictive-history-essays-index.md",
-        json_rel="essays/predictive-history-essays-index.json",
-        fingerprint_marker="<!-- predictive-history-essays-index-fingerprint:",
+        md_rel="essays/predictive-history-essay-index.md",
+        json_rel="essays/predictive-history-essay-index.json",
+        fingerprint_marker="<!-- predictive-history-essay-index-fingerprint:",
         filter_fn=_essay_filter,
     ),
     "interviews": NamespaceScope(
         scope="interviews",
-        md_rel="interviews/predictive-history-interviews-index.md",
-        json_rel="interviews/predictive-history-interviews-index.json",
-        fingerprint_marker="<!-- predictive-history-interviews-index-fingerprint:",
+        md_rel="interviews/predictive-history-interview-index.md",
+        json_rel="interviews/predictive-history-interview-index.json",
+        fingerprint_marker="<!-- predictive-history-interview-index-fingerprint:",
         filter_fn=_interview_filter,
     ),
 }
@@ -434,18 +440,18 @@ def render_hub_slice_section(cards: list[dict]) -> list[str]:
         "| --- | --- | --- | ---: |",
         (
             f"| Lectures | "
-            f"[lectures index](../lectures/predictive-history-lectures-index.md) | "
-            f"[json](../lectures/predictive-history-lectures-index.json) | {lecture_count} |"
+            f"[lectures index](../lectures/predictive-history-lecture-index.md) | "
+            f"[json](../lectures/predictive-history-lecture-index.json) | {lecture_count} |"
         ),
         (
             f"| Essays | "
-            f"[essays index](../essays/predictive-history-essays-index.md) | "
-            f"[json](../essays/predictive-history-essays-index.json) | {essay_count} |"
+            f"[essays index](../essays/predictive-history-essay-index.md) | "
+            f"[json](../essays/predictive-history-essay-index.json) | {essay_count} |"
         ),
         (
             f"| Interviews | "
-            f"[interviews index](../interviews/predictive-history-interviews-index.md) | "
-            f"[json](../interviews/predictive-history-interviews-index.json) | {interview_count} |"
+            f"[interviews index](../interviews/predictive-history-interview-index.md) | "
+            f"[json](../interviews/predictive-history-interview-index.json) | {interview_count} |"
         ),
         "",
     ]
@@ -529,7 +535,7 @@ def render_lectures_index_body(cards: list[dict], repo_root: Path) -> list[str]:
         "",
         f"- **Card count:** {len(filtered)}",
         f"- **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · "
-        f"[`predictive-history-lectures-index.json`](predictive-history-lectures-index.json)",
+        f"[`predictive-history-lecture-index.json`](predictive-history-lecture-index.json)",
         f"- **Full hub:** [`docs/predictive-history-index.md`](../docs/predictive-history-index.md)",
         "- **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py`",
         "",
@@ -561,7 +567,7 @@ def render_essays_index_body(cards: list[dict], repo_root: Path) -> list[str]:
         f"- **Card count:** {len(filtered)}",
         f"- **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · "
         f"[`data/essays/manifest.json`](../data/essays/manifest.json)",
-        f"- **Machine catalog:** [`predictive-history-essays-index.json`](predictive-history-essays-index.json)",
+        f"- **Machine catalog:** [`predictive-history-essay-index.json`](predictive-history-essay-index.json)",
         f"- **Full hub:** [`docs/predictive-history-index.md`](../docs/predictive-history-index.md)",
         "- **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py`",
         "",
@@ -583,7 +589,7 @@ def render_interviews_index_body(cards: list[dict], repo_root: Path) -> list[str
         f"- **Card count:** {len(filtered)}",
         f"- **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · "
         f"[`data/interviews/manifest.json`](../data/interviews/manifest.json)",
-        f"- **Machine catalog:** [`predictive-history-interviews-index.json`](predictive-history-interviews-index.json)",
+        f"- **Machine catalog:** [`predictive-history-interview-index.json`](predictive-history-interview-index.json)",
         f"- **Full hub:** [`docs/predictive-history-index.md`](../docs/predictive-history-index.md)",
         "- **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py`",
         "",
