@@ -1,11 +1,10 @@
-"""Promote gt-29 full transcript from sources capture into lectures/."""
+"""Refresh gt-29 lecture transcript frontmatter (lectures/ is canonical SSOT)."""
 from __future__ import annotations
 
 import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SRC = ROOT / "sources/predictive-history/game-theory/gt-29.md"
 LEC = ROOT / "lectures/game-theory/gt-29/gt-29-transcript.md"
 
 FRONTMATTER = """---
@@ -21,7 +20,7 @@ transcript_source: "user_pasted_public_transcript"
 representation_not_endorsement: true
 review_status: "provisional"
 source_captured_at: "2026-06-04"
-fidelity_review_note: "Lecture transcript promoted from sources capture 2026-06-26; bodies aligned pending external ASR verification."
+fidelity_review_note: "Lecture transcript body aligned 2026-06-26. External YouTube ASR compare not completed in CI (bot-check); run scripts/verify_gt29_youtube_asr.py locally. See artifacts/gt-29-asr-verify.md."
 part: "world-war"
 part_role: "world-war"
 date_inference_note: "Publication date inferred from lecture references to 'next Sunday, June 7' and 'tomorrow will be my last class'."
@@ -51,20 +50,12 @@ def extract_transcript_body(text: str) -> str:
 
 
 def main() -> None:
-    src_text = SRC.read_text(encoding="utf-8")
-    if src_text.startswith("# Moved\n"):
-        raise SystemExit(f"{SRC} is a redirect stub; read canonical body from {LEC}")
-    body = extract_transcript_body(src_text)
+    if not LEC.exists():
+        raise SystemExit(f"missing canonical transcript: {LEC}")
+    body = extract_transcript_body(LEC.read_text(encoding="utf-8"))
     payload = FRONTMATTER + body
     LEC.write_text(payload, encoding="utf-8")
-    lecture_rel = "lectures/game-theory/gt-29/gt-29-transcript.md"
-    rel_link = "../../../" + lecture_rel
-    SRC.write_text(
-        f"# Moved\n\nThis capture moved to [`{lecture_rel}`]({rel_link}).\n",
-        encoding="utf-8",
-    )
     print(f"wrote {LEC.relative_to(ROOT)} ({len(payload)} chars)")
-    print(f"stubbed {SRC.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":

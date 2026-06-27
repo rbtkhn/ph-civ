@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Promote sources/predictive-history/game-theory captures into card transcript paths."""
+"""Promote lectures/game-theory transcripts into card transcript paths when thin."""
 
 from __future__ import annotations
 
@@ -10,7 +10,7 @@ from pathlib import Path
 from civ_ph.data import PACKAGE_ROOT, load_cards
 from civ_ph.ph_civ_index import count_transcript_words, ensure_ph_civ_index
 
-SOURCES_DIR = PACKAGE_ROOT / "sources/predictive-history/game-theory"
+LECTURES_DIR = PACKAGE_ROOT / "lectures/game-theory"
 DEFAULT_CAPTURE_DATE = "2026-06-23"
 
 
@@ -34,7 +34,6 @@ def promote_file(src: Path, dest: Path, *, capture_date: str) -> int:
     text = refresh_capture_date(src.read_text(encoding="utf-8"), capture_date)
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(text, encoding="utf-8")
-    src.write_text(text, encoding="utf-8")
     return count_transcript_words(text)
 
 
@@ -61,9 +60,9 @@ def main() -> int:
             skipped.append((source_id, "missing source_chapter_path"))
             continue
         dest = PACKAGE_ROOT / rel
-        src = SOURCES_DIR / f"{source_id}.md"
+        src = LECTURES_DIR / source_id / f"{source_id}-transcript.md"
         if not src.exists():
-            skipped.append((source_id, "missing sources capture"))
+            skipped.append((source_id, "missing lecture transcript"))
             continue
         dest_words = (
             count_transcript_words(dest.read_text(encoding="utf-8")) if dest.exists() else 0

@@ -12,4 +12,4 @@ historical_pressure_points:
 limits_of_the_frame: |
   This entry is in review and preserves the lecture's interpretive frame without treating it as final scholarly judgment. Claims involving current events, religion, violence, forecasts, or named political actors require external review before quotation-grade or publication-grade use.
 return_path: |
-  Return through lectures/game-theory/gt-11/, the commentary canvas, and the canonical source capture under sources/. The full lecture transcript is preserved in-repo in the source capture.
+  Return through lectures/game-theory/gt-11/, the commentary canvas, and the lecture transcript. The full transcript is preserved in-repo under lectures/.

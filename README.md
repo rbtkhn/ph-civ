@@ -47,7 +47,7 @@ Medium-first chapter namespaces at the repository root (siblings to [`book/`](bo
 - 206 public source chapters under canonical root namespaces (`lectures/`, `essays/`, `interviews/`) with legacy `book/` redirect stubs during recanonicalization.
 - 206 chapter commentaries attached to those canonical homes, each seeded as an open commentary canvas.
 - Chapter-folder `README.md` doorways for folder-backed chapters, designed for direct GitHub links in YouTube comments and LLM chats.
-- Canonical public source captures under `sources/` so the repo can function independently of outside workshop storage.
+- Full lecture transcripts under `lectures/` so the repo can function independently of outside workshop storage.
 - Chapter catalog and source URLs: [`docs/predictive-history-index.md`](docs/predictive-history-index.md) and [`docs/predictive-history-index.json`](docs/predictive-history-index.json) (`source_video_url` per chapter).
 - A full chapter catalog at `docs/predictive-history-index.md` (human) and `docs/predictive-history-index.json` (machine) listing all 206 public chapters (lectures, essays, and provenance interviews) with transcript, commentary, folder, and source URLs (regenerate: `ph-civ index`; auto-sync during `ph-civ validate` and publish).
 - Two conceptual volumes (deprecated reader frame): Volume I / `ph-civ` and Volume II / `ph-apo` — see [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](docs/archive/two-volume-ph-civ-apo-deprecated.md).

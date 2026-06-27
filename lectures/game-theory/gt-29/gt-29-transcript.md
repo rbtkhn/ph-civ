@@ -11,7 +11,7 @@ transcript_source: "user_pasted_public_transcript"
 representation_not_endorsement: true
 review_status: "provisional"
 source_captured_at: "2026-06-04"
-fidelity_review_note: "Lecture/sources bodies aligned 2026-06-26. External YouTube ASR compare not completed in CI (bot-check); run scripts/verify_gt29_youtube_asr.py locally. See artifacts/gt-29-asr-verify.md."
+fidelity_review_note: "Lecture transcript body aligned 2026-06-26. External YouTube ASR compare not completed in CI (bot-check); run scripts/verify_gt29_youtube_asr.py locally. See artifacts/gt-29-asr-verify.md."
 part: "world-war"
 part_role: "world-war"
 date_inference_note: "Publication date inferred from lecture references to 'next Sunday, June 7' and 'tomorrow will be my last class'."

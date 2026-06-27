@@ -16,7 +16,7 @@ if str(_PACKAGE_ROOT / "src") not in sys.path:
 from civ_ph.data import PACKAGE_ROOT
 from civ_ph.ph_civ_index import count_transcript_words, ensure_ph_civ_index
 
-SOURCES = PACKAGE_ROOT / "sources/predictive-history/game-theory"
+LECTURES = PACKAGE_ROOT / "lectures/game-theory"
 REVIEW_DATE = "2026-06-23"
 
 SHARED_REPLACEMENTS: list[tuple[str, str]] = [
@@ -363,7 +363,7 @@ def compose(source_id: str, body: str) -> str:
 
 
 def process(source_id: str, extra: list[tuple[str, str]]) -> int:
-    src_path = SOURCES / f"{source_id}.md"
+    src_path = LECTURES / source_id / f"{source_id}-transcript.md"
     body = extract_body(src_path.read_text(encoding="utf-8"))
     body = apply_replacements(body, extra)
     if source_id in EXTENDED_PARAGRAPH_IDS:
@@ -371,7 +371,6 @@ def process(source_id: str, extra: list[tuple[str, str]]) -> int:
     else:
         body = add_paragraph_breaks(body)
     text = compose(source_id, body)
-    src_path.write_text(text, encoding="utf-8")
     dest = PACKAGE_ROOT / META[source_id]["dest"]
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(text, encoding="utf-8")

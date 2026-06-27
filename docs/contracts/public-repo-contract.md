@@ -15,7 +15,7 @@ Chapter folders and the study edition are the reader surfaces for both volumes.
 
 This repo publishes public-facing material, including chapter transcripts, chapter commentaries, public cards, routes, prompts, schemas, and manifests. It is not a private notes workspace and not the large artifact archive.
 
-Canonical public source captures should also live inside this repository under a repo-local `sources/` tree so `ph-civ` remains independently usable without any outside workshop storage. Those source captures should preserve the full lecture transcript body inside the repo, even when direct chapter packets are rendered as lighter public study doorways.
+Canonical lecture transcripts live under `lectures/` so `ph-civ` remains independently usable without any outside workshop storage. Chapter packets preserve the full transcript body inside the repo, even when folder READMEs render as lighter public study doorways.
 
 The current chapter corpus was imported from the maintained Predictive History workspace and keeps that snapshot as provenance. Physical source series and folder labels are provenance metadata; the public reader architecture is the two-volume ph-civ rollup.
 

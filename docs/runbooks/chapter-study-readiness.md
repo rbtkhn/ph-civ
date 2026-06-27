@@ -13,7 +13,7 @@ Bring one chapter folder to a trustworthy public study doorway: transcript sourc
 ## Inputs
 
 - `source_id` and paths from `data/cards.jsonl`
-- Transcript under `sources/` or chapter folder
+- Transcript under `lectures/` or chapter folder
 - Companion `*-commentary.md`
 
 ## Steps

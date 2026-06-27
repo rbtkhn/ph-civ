@@ -55,7 +55,6 @@ See [`docs/README.md`](../README.md) for contracts, methodology, migrations, onb
 | --- | --- |
 | [`book/`](../../book/) | Reader architecture wrappers and legacy redirect stubs |
 | [`ph-civ/`](../../ph-civ/README.md) / [`ph-apo/`](../../ph-apo/README.md) | Deprecated reader surfaces; CLI/card compat only |
-| [`sources/`](../../sources/) | Legacy import captures; Game Theory gt-01–29 redirect to `lectures/` |
 
 Two-volume onboarding is deprecated — [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](../archive/two-volume-ph-civ-apo-deprecated.md).
 

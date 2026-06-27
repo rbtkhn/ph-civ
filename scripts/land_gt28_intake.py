@@ -290,7 +290,7 @@ def write_card_md() -> None:
 
             ## Return Path
 
-            Return through `lectures/game-theory/gt-28/`, the commentary canvas, and the canonical source capture under `sources/`. This card is a provisional doorway, not a launch claim.
+            Return through `lectures/game-theory/gt-28/`, the commentary canvas, and the lecture transcript under `lectures/`. This card is a provisional doorway, not a launch claim.
             """
         ),
         encoding="utf-8",
@@ -322,7 +322,7 @@ def card_jsonl_entry() -> dict:
             ),
             "Return Path": (
                 "Return through `lectures/game-theory/gt-28/`, the commentary canvas, and "
-                "the canonical source capture under `sources/`. This card is a provisional "
+                "the lecture transcript under `lectures/`. This card is a provisional "
                 "doorway, not a launch claim."
             ),
             "Where This Sits": (

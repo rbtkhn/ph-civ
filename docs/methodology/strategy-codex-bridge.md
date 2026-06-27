@@ -21,7 +21,7 @@ use: public frame for Hormuz / shipping / energy pressure
 
 ## Boundary
 
-Do not use this repo as a strategy inbox or private editorial workspace. Public source captures for released chapters live under the repo-local `sources/` tree.
+Do not use this repo as a strategy inbox or private editorial workspace. Public lecture transcripts for released chapters live under `lectures/`.
 
 **Authoring loop:** edit and push **this repository** directly. strategy-codex keeps an **inbound-only read snapshot** at `public/predictive-history/` refreshed via `sync_predictive_history_mirror.py` — do not author corpus files there.
 
