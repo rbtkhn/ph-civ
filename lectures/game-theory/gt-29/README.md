@@ -11,7 +11,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 Treat this chapter folder as a small source-lattice:
 
 1. `Doorway` - this README tells you what the packet is and what limits apply.
-2. `Primary source floor` - read the transcript and public source capture first.
+2. `Primary source floor` - read the transcript first; the matching source capture under `sources/` is a provenance mirror.
 3. `Secondary support` - use the commentary canvas, orientation payload, and public card only after the source floor is open.
 4. `Widened interpretation` - draw comparisons or broader claims only after keeping the review status in view.
 
@@ -33,7 +33,7 @@ Treat this chapter folder as a small source-lattice:
 
 ## Review Status
 
-`provisional`. Do not treat provisional transcript text, named claims, quotations, current-event predictions, or date placement as final until review is complete.
+`provisional`. Transcript body is in-folder (aligned with the sources capture). **YouTube ASR verification is not closed** — automated fetch hit YouTube bot-check from this environment; structural anchors pass. Run `python scripts/verify_gt29_youtube_asr.py --cookies-from-browser chrome` locally and read [`artifacts/gt-29-asr-verify.md`](../../../artifacts/gt-29-asr-verify.md). Do not upgrade `review_status` until ASR compare ≥ 0.90 or operator sign-off.
 
 ## LLM Prompt
 

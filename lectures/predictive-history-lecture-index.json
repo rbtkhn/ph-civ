@@ -1,9 +1,9 @@
 {
   "schema_version": 4,
   "scope": "lectures",
-  "fingerprint": "d98522791af7eb70",
+  "fingerprint": "44a299995ae54e36",
   "card_count": 147,
-  "transcript_word_total": 1224975,
+  "transcript_word_total": 1243392,
   "ssot": "data/cards.jsonl",
   "markdown_index": "lectures/predictive-history-lecture-index.md",
   "hub_index": "docs/predictive-history-index.md",
@@ -2624,7 +2624,7 @@
         "folder": "lectures/game-theory/gt-29",
         "folder_readme": "lectures/game-theory/gt-29/README.md"
       },
-      "transcript_word_count": 107,
+      "transcript_word_count": 18524,
       "source_video_url": "https://www.youtube.com/watch?v=RE2UribEFIo",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",

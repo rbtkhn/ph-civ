@@ -1,4 +1,4 @@
-<!-- predictive-history-lecture-index-fingerprint: d98522791af7eb70 -->
+<!-- predictive-history-lecture-index-fingerprint: 44a299995ae54e36 -->
 # Predictive History Lectures Index
 
 Catalog of lecture chapter packets under `lectures/` (video-sourced transcripts).
@@ -153,7 +153,7 @@ Catalog of lecture chapter packets under `lectures/` (video-sourced transcripts)
 | `gt-26` | Game Theory #26: The Holy Empire of AI | `provisional` | 9,590 | [transcript](lectures/game-theory/gt-26/gt-26-transcript.md) | [commentary](lectures/game-theory/gt-26/gt-26-commentary.md) | [folder](lectures/game-theory/gt-26/README.md) | [video](https://www.youtube.com/watch?v=RG1clZlrfOo) |
 | `gt-27` | Game Theory #27: Putin Enters the Chat | `provisional` | 9,851 | [transcript](lectures/game-theory/gt-27/gt-27-transcript.md) | [commentary](lectures/game-theory/gt-27/gt-27-commentary.md) | [folder](lectures/game-theory/gt-27/README.md) | [video](https://www.youtube.com/watch?v=x83HcLWvHI8) |
 | `gt-28` | Game Theory #28: Predictive History | `provisional` | 10,539 | [transcript](lectures/game-theory/gt-28/gt-28-transcript.md) | [commentary](lectures/game-theory/gt-28/gt-28-commentary.md) | [folder](lectures/game-theory/gt-28/README.md) | [video](https://www.youtube.com/watch?v=dja6dkCfngE) |
-| `gt-29` | Game Theory #29: Final Examination | `provisional` | 107 | [transcript](lectures/game-theory/gt-29/gt-29-transcript.md) | [commentary](lectures/game-theory/gt-29/gt-29-commentary.md) | [folder](lectures/game-theory/gt-29/README.md) | [video](https://www.youtube.com/watch?v=RE2UribEFIo) |
+| `gt-29` | Game Theory #29: Final Examination | `provisional` | 18,524 | [transcript](lectures/game-theory/gt-29/gt-29-transcript.md) | [commentary](lectures/game-theory/gt-29/gt-29-commentary.md) | [folder](lectures/game-theory/gt-29/README.md) | [video](https://www.youtube.com/watch?v=RE2UribEFIo) |
 
 ## Secret History
 
