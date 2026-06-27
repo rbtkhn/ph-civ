@@ -104,49 +104,67 @@ That's exactly what he thought.
 
 ### Iran Topography, Attrition, and Hormuz
 
-So, what I want to do now is go to the map.
+**Jiang Xueqin:** So, what I want to do now is go to the map.
+
 **Steven Bartlett:** Okay. All right? And I'll show you what he got wrong.
+
 **Steven Bartlett:** Okay. All right. So, this is a map of the Middle East.
-And the first thing to notice about this map is the topography.
-What does that mean? How many mountains you have. So, this is What's really interesting is that the topography between Iraq and Iran are completely different.
-And this is important because to In 2003, the Americans invaded Iraq, and they won the war in about 2 weeks. And the reason why they won the war is Americans practiced something called shock and awe.
+
+**Jiang Xueqin:** And the first thing to notice about this map is the topography.
+
+**Steven Bartlett:** What does that mean?
+
+**Jiang Xueqin:** How many mountains you have. So, what's really interesting is that the topography between Iraq and Iran are completely different.
+And this is important because in 2003, the Americans invaded Iraq, and they won the war in about 2 weeks. And the reason why they won the war is Americans practiced something called shock and awe.
 The idea of shock and awe is that it is a military strategy that believes that if you cut off the head of the snake, the snake will die. The decapitation strike.
 And so, what they did was they went into Baghdad, seized Baghdad, and the regime collapsed, and the war was over.
 And they were able to do this because of the topography.
 If you look at a map of Iraq, it's all flat, it's all desert.
 Meaning that you can just fly in your planes, cut off the head of the snake, and the war is over. There's absolutely no way you can defend against air strikes because you're entirely a desert.
-Now, let's go to let's look at the topography of I of Iran. And Iran is all mountainous.
+Now, let's look at the topography of Iran. And Iran is all mountainous.
 In fact, you can make the argument that Iran is a fortress.
 Okay?
-And so the first thing is that Iran can choose to fight a war of attrition. What's a war of attrition? A war of attrition is a game of uncle.
-What's that? Right. A game of uncle is where uh we don't have enough power to destroy each other. So we what we try to do is we try to create pain points, leverage points to force you to submit, to cry uncle.
-Right? So because Iran is too large and has 92 million people, it's impossible for the Americans and Israelis to destroy Iran. So what they try to do instead is bomb enough targets so that they recognize that resistance resistance is futile and they surrender.
+And so the first thing is that Iran can choose to fight a war of attrition.
+
+**Steven Bartlett:** What's a war of attrition?
+
+**Jiang Xueqin:** A war of attrition is a game of uncle.
+
+**Steven Bartlett:** What's that?
+
+**Jiang Xueqin:** Right. A game of uncle is where we don't have enough power to destroy each other. So we try to create pain points, leverage points to force you to submit, to cry uncle.
+Right? So because Iran is too large and has 92 million people, it's impossible for the Americans and Israelis to destroy Iran. So what they try to do instead is bomb enough targets so that they recognize that resistance is futile and they surrender.
 Okay? That's the extent of the strategy.
 But again, the problem with this is that one, Iran is much too big. Number two is that it is a mountain fortress, which means that you can hide your weapons and your military inside mountains.
 Right? Which allows you to conduct a guerrilla warfare strategy against your opponent.
 And this is exactly what Iran is doing right now, where their underground missile bases are hidden inside the mountains and then they're able to strike targets throughout the Middle East. Primarily American bases, but also energy installations that are key to the American petrodollar system.
 And so, it's a game of uncle where the Americans are trying to create as much damage as possible in every nation and Iran's response is trying to destroy as much of the global economy as possible to force the world to pressure America to call the war off. So, that's the situation we are facing right now.
-Second thing that Trump got got wrong is how vulnerable the global economy is.
+Second thing that Trump got wrong is how vulnerable the global economy is.
 Because the Iranians can control something called the Strait of Hormuz.
 Okay? And as you can see on this map, the Strait of Hormuz is a very very narrow piece of land. It's only about 33 km across.
 You can actually swim across the Strait of Hormuz.
-Okay? And what's important is that the GCC export 20% of the world's energy. The GCC The Gulf Cooperation Council. Okay? So, the Gulf Cooperation Council are certain nations in the Middle East that align politically. So, they include Qatar, Saudi Arabia, uh the UAE, Oman, Iran, Kuwait.
+Okay? And what's important is that the GCC export 20% of the world's energy. The GCC — the Gulf Cooperation Council. Okay? So, the Gulf Cooperation Council are certain nations in the Middle East that align politically. So, they include Qatar, Saudi Arabia, uh the UAE, Oman, Iran, Kuwait.
 They've been exporting energy.
 But not just energy, but also a lot of byproducts of energy production including fertilizer to the world, primarily East Asia and India.
-In return, they've been getting um food back. So, most people don't don't don't appreciate this, but the GCC actually imports 89% of its food needs. the reason why is that they become so rich these past few decades that the populations have um blown up.
+In return, they've been getting food back. So, most people don't appreciate this, but the GCC actually imports 89% of its food needs. The reason why is that they become so rich these past few decades that the populations have blown up.
 And as a result, they have to feed the population, but they don't have agricultural resources.
 They also don't have water resources.
-And so, they have two major vulnerabilities, which is food and water. And they have a lot of these other these desalination plants around the area.
-And so, >> What's a desalination plant?
+And so, they have two major vulnerabilities, which is food and water. And they have a lot of these desalination plants around the area.
+
+**Steven Bartlett:** What's a desalination plant?
+
+**Jiang Xueqin:** So, a desalination plant takes salt water from the seas, and then through an electrochemical process, turns it into potable water that people can use for drinking purposes and for agricultural purposes.
+
 **Steven Bartlett:** Okay.
-So, a desalination plant takes salt water from the seas, and then through an electrochemical process, turns it into potable water that people can use uh for drinking purposes and for agricultural purposes.
-**Steven Bartlett:** Okay.
-Right? So, as you can see, the entire area it is extremely vulnerable to drone and missile attacks from Iran.
+
+**Jiang Xueqin:** Right? So, as you can see, the entire area is extremely vulnerable to drone and missile attacks from Iran.
 So, that's the second thing that Iran has done, which Trump did not expect. He didn't expect that the Iranians would close off the Strait of Hormuz. And how the Iranians were able to close off the Strait of Hormuz was just by threatening to attack any ships that wanted to cross it. The reason why is that the ships depend on maritime insurance in order to operate.
-But if there's a risk, a very high risk of being destroyed, then um you will not be able to get insurance.
+But if there's a risk, a very high risk of being destroyed, then you will not be able to get insurance.
 Okay. So, it's not that the Iranians have said to these ships, "You can't cross." It's just that the insurers refused to allow these ships to cross because it's too dangerous.
-And Trump didn't Do you think they'd consider this before they started bombing Iran? That Iran would have some leverage in shutting down such a critical piece of uh water for, you know, shipping fertilizer, energy, etc. You think that they would have known this.
-Right, so that's what a lot of people say, that Trump's stupid, that Trump is hot-headed, that he was misled by the Israelis.
+
+**Steven Bartlett:** Do you think they'd consider this before they started bombing Iran? That Iran would have some leverage in shutting down such a critical piece of water for shipping fertilizer, energy, etc. You think that they would have known this?
+
+**Jiang Xueqin:** Right, so that's what a lot of people say, that Trump's stupid, that Trump is hot-headed, that he was misled by the Israelis.
 And there's good evidence to support this.
 
 ### National Defense Strategy — Western Hemisphere
