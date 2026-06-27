@@ -589,133 +589,206 @@ You've made a series of new predictions.
 ### Eight Predictions — Trump Third Term and AI State
 
 **Steven Bartlett:** You've made eight new predictions.
-**Steven Bartlett:** Okay.
-And I have them in this box here. Okay.
-I'll let you review what those predictions are. Okay.
-Um this is one prediction.
-Okay.
-Okay. So this is my most controversial prediction, okay? I predict that there will be a use of war and Trump will get a third term.
-You think Trump will get a third term?
-Isn't that constitutionally illegal?
-There are things that are unconventional and immoral and wrong and evil and dangerous.
-And there's certain things that are illegal.
-Trump getting a third term is not illegal.
-So, let me explain the loophole.
-What Trump could do is this, okay? There There two possibilities. The first possibility is in 2028, he has his son, Don Jr., run as a president and he runs as the vice president.
-And then when Don Jr. wins, if he wins, then Don Jr. could abdicate and Trump would be the president.
-And in the Constitution, if you read the Constitution very carefully, it doesn't actually prohibit people from doing that. It's not been done in the past.
-And like no sane person with any morality would do this.
-But that doesn't stop Trump from from doing this, okay? That's one possibility. Another possibility is that by 2028, America is at war with everyone. There's a national draft.
-The president now has emergency war powers. And so, he can actually suspend the Constitution and delay the election, which is what Zelenskyy did in Ukraine.
-So, these are two different possibilities.
-But I think that given Trump's track record, given his personality, I think he very much um wants a third term.
-And I think that he will do everything possible to get a third term.
-He would turn 83 years old in the same year that he finishes his second term.
-This is the man who eats McDonald's hamburgers every day.
-He doesn't really work out.
-Yet, on the campaign trail, he's able to go to two rallies a day.
-And in each rally, there's 50,000 people. And he will talk on and on and on.
-Then, at night, when he should he should be sleeping, he's either on Truth Social tweeting about the world, or he's calling up reporters and telling him or her some confidential that he really shouldn't be discussing with the media.
-This is a man who is addicted to attention.
-This is a man who loves the spotlight.
-He's lived all his life in the spotlight.
-For him, death is to be ignored.
-So, given his personality, he would rather die in office than live uh peacefully somewhere else. And of those two strategies that you named, where he puts his son in and then becomes president that way, or you know, there's a war breaks out, so he has he says he has to stay in office. Of those two strategies, which one do you think he's more likely to deploy? I actually think that, given his narcissism, he would prefer the first strategy. His putting his son in? Because because that shows himself and the world that America loves him.
-Okay. And it could also be Jared Kushner or someone else, right? It doesn't have to be his son necessarily. Trump does not trust anyone. Trump has never had a polit- polit In fact, everyone that's really worked for Trump has been kind of screwed over by him. Do you not think that if his son decided to run and then announced that the vice president was his dad, do you not think that there would be such a huge backlash in the United States that his son wouldn't win?
-Well, I think there's a possibility that they figure out how to cheat in 2028.
-Oh, as in actually cheat the election.
-Right. So, At the poll booth.
+
+**Steven Bartlett:** Okay. And I have them in this box here. Okay. I'll let you review what those predictions are. Okay.
+
+**Jiang Xueqin:** Um this is one prediction. Okay. Okay. So this is my most controversial prediction, okay? I predict that there will be a use of war and Trump will get a third term.
+
+**Steven Bartlett:** You think Trump will get a third term?
+
+**Steven Bartlett:** Isn't that constitutionally illegal?
+
+**Jiang Xueqin:** There are things that are unconventional and immoral and wrong and evil and dangerous. And there's certain things that are illegal. Trump getting a third term is not illegal. So, let me explain the loophole. What Trump could do is this, okay? There are two possibilities. The first possibility is in 2028, he has his son, Don Jr., run as a president and he runs as the vice president. And then when Don Jr. wins, if he wins, then Don Jr. could abdicate and Trump would be the president. And in the Constitution, if you read the Constitution very carefully, it doesn't actually prohibit people from doing that. It's not been done in the past. And like no sane person with any morality would do this. But that doesn't stop Trump from from doing this, okay? That's one possibility. Another possibility is that by 2028, America is at war with everyone. There's a national draft. The president now has emergency war powers. And so, he can actually suspend the Constitution and delay the election, which is what Zelenskyy did in Ukraine. So, these are two different possibilities. But I think that given Trump's track record, given his personality, I think he very much um wants a third term. And I think that he will do everything possible to get a third term. He would turn 83 years old in the same year that he finishes his second term. This is the man who eats McDonald's hamburgers every day. He doesn't really work out. Yet, on the campaign trail, he's able to go to two rallies a day. And in each rally, there's 50,000 people. And he will talk on and on and on. Then, at night, when he should he should be sleeping, he's either on Truth Social tweeting about the world, or he's calling up reporters and telling him or her some confidential that he really shouldn't be discussing with the media. This is a man who is addicted to attention. This is a man who loves the spotlight. He's lived all his life in the spotlight. For him, death is to be ignored. So, given his personality, he would rather die in office than live uh peacefully somewhere else.
+
+**Steven Bartlett:** And of those two strategies that you named, where he puts his son in and then becomes president that way, or you know, there's a war breaks out, so he has he says he has to stay in office. Of those two strategies, which one do you think he's more likely to deploy?
+
+**Jiang Xueqin:** I actually think that, given his narcissism, he would prefer the first strategy.
+
+**Steven Bartlett:** His putting his son in?
+
+**Jiang Xueqin:** Because because that shows himself and the world that America loves him.
+
+**Steven Bartlett:** Okay. And it could also be Jared Kushner or someone else, right?
+
+**Jiang Xueqin:** It doesn't have to be his son necessarily. Trump does not trust anyone. Trump has never had a polit- polit In fact, everyone that's really worked for Trump has been kind of screwed over by him.
+
+**Steven Bartlett:** Do you not think that if his son decided to run and then announced that the vice president was his dad, do you not think that there would be such a huge backlash in the United States that his son wouldn't win?
+
+**Jiang Xueqin:** Well, I think there's a possibility that they figure out how to cheat in 2028.
+
+**Steven Bartlett:** Oh, as in actually cheat the election.
+
+**Jiang Xueqin:** Right. So, at the poll booth.
+
 **Steven Bartlett:** Right. So, let's go into Trump's mind, all right? His his psychology.
-In his mind, he won in 2020.
-The people voted for him.
-But the Democrats stole the election with mail-in ballots and by rigging the election machines.
-Okay? He In his mind, he literally believes that.
-So, in his mind, he believes that this is actually his third term, and the people and the government, they owe him a second term, which is what he wants now.
-He wants uh compensation for having the election stolen from him in 2020.
-I find it really um really implausible to think that Trump would run and would run for a third time.
-So, again, this is a prediction.
-**Steven Bartlett:** Yeah. And it is a test of the validity of my theoretical framework.
-I was looking at some of the constitutions and the laws, and it says that the 22nd Amendment explicitly states, "No person shall be elected to the office of the president more than twice." Some theorists have tried to argue that since the amendment says elected, a person might be able to serve a third time if they were appointed to succeed to the role.
+
+**Jiang Xueqin:** In his mind, he won in 2020. The people voted for him. But the Democrats stole the election with mail-in ballots and by rigging the election machines. Okay? He In his mind, he literally believes that. So, in his mind, he believes that this is actually his third term, and the people and the government, they owe him a second term, which is what he wants now. He wants uh compensation for having the election stolen from him in 2020.
+
+**Steven Bartlett:** I find it really um really implausible to think that Trump would run and would run for a third time.
+
+**Jiang Xueqin:** So, again, this is a prediction.
+
+**Steven Bartlett:** Yeah.
+
+**Jiang Xueqin:** And it is a test of the validity of my theoretical framework.
+
+**Steven Bartlett:** I was looking at some of the constitutions and the laws, and it says that the 22nd Amendment explicitly states, "No person shall be elected to the office of the president more than twice." Some theorists have tried to argue that since the amendment says elected, a person might be able to serve a third time if they were appointed to succeed to the role.
+
 **Steven Bartlett:** If they were appointed or succeeded to the role, e.g., by being vice president first.
 
-**Jiang Xueqin:** He's not.
-Legal scholars and the judicial community almost universally reject this. The 12th Amendment requires that anyone serving as vice president must be eligible to be president. Since a two-term president is ineligible to be elected again, they're legally barred from being vice president. So, the point is there's nothing explicit in the constitution that bars someone from having a third term. Mhm. And there's debate in the legal community about the spirit of the 22nd Amendment. It would go to the Supreme Court, right?
+**Jiang Xueqin:** He's not. Legal scholars and the judicial community almost universally reject this. The 12th Amendment requires that anyone serving as vice president must be eligible to be president. Since a two-term president is ineligible to be elected again, they're legally barred from being vice president. So, the point is there's nothing explicit in the constitution that bars someone from having a third term.
+
+**Steven Bartlett:** Mhm.
+
+**Jiang Xueqin:** And there's debate in the legal community about the spirit of the 22nd Amendment.
+
+**Steven Bartlett:** It would go to the Supreme Court, right?
+
 **Steven Bartlett:** And the Supreme Court's controlled right now by the conservatives. Trump appointed three of the nine justices, and there's a possibility he gets a fourth later in the year.
-So, it's entirely up to the Supreme Court whether or not he can run. And again, there's nothing explicit in the constitution that forbids him from running as vice president. Okay.
-What's your next prediction?
-The My second prediction is there'll be a grand bargain between the United States and China. What does that mean?
-It means that people expect that the United States and China will go to war at some point over Taiwan.
-It means A lot of people expect that China wants to challenge American hegemony and replace America as the global superpower.
-But China does not want to do that.
-China's probably happy with America being the world's hegemon, because you have to invest so much of your resources into fighting these wars that bankrupt your nation. China China China doesn't want to fight these wars.
-So, what China's going to do is try to triangulate between Russia and the United States. This is what happened during the Cold War, when China was not actually on the side of the Soviet Union. China was part of the non-aligned community.
-And that's what China's going to strive for in World War III, where China may help out Iran, may provide financing for Russia, but it's also going to strike deals with the United States as well.
-Mhm. Okay.
-So, I think that Trump and President Xi are supposed to meet at least three times, possibly four times this year. Only this year. The first will be in mid-May in Beijing.
-And I think that they will start a process in which China and America come to an arrangement that benefits both economically.
-What does America want? America wants China to continue to buy US Treasuries in order to finance the American debt.
-What does China want? China wants energy resources from the Western Hemisphere and it wants to access the American market. Mhm. So, there's no reason why China and America cannot come to an arrangement that benefits both. And Trump is very much a transactional character. And what will that mean for the world?
-It means that China is not really part of World War in a meaningful way.
-Okay. So, they're going to do a deal.
-They'll continue to work together as friends.
-But China or will be friends of both Russia and the United States as Russia and the United States fight each other.
-Okay.
-What's your next prediction?
-Iran is another forever war and the United States will institute a national draft.
-Iran is another forever war and the United States will institute a national draft. So, you think Iran is going to Iran as a war is going to tumble on for decades and that the US are going to draft people which means you're obliged to go and fight. Exactly. Okay.
-So, the logic is this.
-America doesn't really care if Iran is defeated or not. That's not really part of the American grand strategy.
-Iran right now is a perfect pretext for America to expand outwards and establish maritime choke points around the world.
-And to force the world to buy American energy.
-So, this war in Iran benefits America tremendously. So, why not have it go on for a long, long time?
-In order to make sure this war goes on for a long time, you need ground troops.
-And you need a lot of ground troops.
-And that's why you need a national draft.
-So, what would a national draft look like in the United States? Everyone between the age of 18 and 25 has to sign up to the army. Right. So, most people don't appreciate this, but America has always had a draft. But, for the longest time, it didn't really care whether or not you actually signed for the draft. And starting in December, participation in the draft will be automatic. Meaning that if you're between 18 and 24 in America and you're male, you'll be automatically put into the draft system.
-From when? I mean, from December. This year? Yes, that that is correct. Yes.
-So, between the age of 18 and 25, you think? And what does that What does that really mean? Well, I've never not really experienced that in my lifetime. So, it means that if you're between the age of 18 and 24, either gender? No, male.
-Male, then you have to sign up for the army.
-No, you're already put into a draft.
-**Steven Bartlett:** Oh, you're already Okay, but you might be called upon. That's right. It's a lottery system. Okay. Right.
-And uh this created a lot of backlash during the Vietnam era.
-And so, they sort of toned it down.
-But, starting in December, they just passed a law that says that starting in December, um you will be automatically registered for for the They've passed them all.
-Yes, they have.
-Well, in theory, Congress first needs to declare war. Okay, fine.
+
+**Jiang Xueqin:** So, it's entirely up to the Supreme Court whether or not he can run. And again, there's nothing explicit in the constitution that forbids him from running as vice president. Okay.
+
+**Steven Bartlett:** What's your next prediction?
+
+**Jiang Xueqin:** My second prediction is there'll be a grand bargain between the United States and China.
+
+**Steven Bartlett:** What does that mean?
+
+**Jiang Xueqin:** It means that people expect that the United States and China will go to war at some point over Taiwan. It means A lot of people expect that China wants to challenge American hegemony and replace America as the global superpower. But China does not want to do that. China's probably happy with America being the world's hegemon, because you have to invest so much of your resources into fighting these wars that bankrupt your nation. China China China doesn't want to fight these wars. So, what China's going to do is try to triangulate between Russia and the United States. This is what happened during the Cold War, when China was not actually on the side of the Soviet Union. China was part of the non-aligned community. And that's what China's going to strive for in World War III, where China may help out Iran, may provide financing for Russia, but it's also going to strike deals with the United States as well.
+
+**Steven Bartlett:** Mhm.
+
+**Steven Bartlett:** Okay.
+
+**Jiang Xueqin:** So, I think that Trump and President Xi are supposed to meet at least three times, possibly four times this year. Only this year. The first will be in mid-May in Beijing. And I think that they will start a process in which China and America come to an arrangement that benefits both economically. What does America want? America wants China to continue to buy US Treasuries in order to finance the American debt. What does China want? China wants energy resources from the Western Hemisphere and it wants to access the American market.
+
+**Steven Bartlett:** Mhm.
+
+**Jiang Xueqin:** So, there's no reason why China and America cannot come to an arrangement that benefits both. And Trump is very much a transactional character.
+
+**Steven Bartlett:** And what will that mean for the world?
+
+**Jiang Xueqin:** It means that China is not really part of World War in a meaningful way.
+
+**Steven Bartlett:** Okay. So, they're going to do a deal.
+
+**Steven Bartlett:** They'll continue to work together as friends.
+
+**Jiang Xueqin:** But China or will be friends of both Russia and the United States as Russia and the United States fight each other.
+
+**Steven Bartlett:** Okay.
+
+**Steven Bartlett:** What's your next prediction?
+
+**Jiang Xueqin:** Iran is another forever war and the United States will institute a national draft.
+
+**Steven Bartlett:** Iran is another forever war and the United States will institute a national draft. So, you think Iran is going to Iran as a war is going to tumble on for decades and that the US are going to draft people which means you're obliged to go and fight.
+
+**Jiang Xueqin:** Exactly.
+
+**Steven Bartlett:** Okay.
+
+**Jiang Xueqin:** So, the logic is this. America doesn't really care if Iran is defeated or not. That's not really part of the American grand strategy. Iran right now is a perfect pretext for America to expand outwards and establish maritime choke points around the world. And to force the world to buy American energy. So, this war in Iran benefits America tremendously. So, why not have it go on for a long, long time? In order to make sure this war goes on for a long time, you need ground troops. And you need a lot of ground troops. And that's why you need a national draft.
+
+**Steven Bartlett:** So, what would a national draft look like in the United States?
+
+**Jiang Xueqin:** Everyone between the age of 18 and 25 has to sign up to the army.
+
+**Steven Bartlett:** Right.
+
+**Jiang Xueqin:** So, most people don't appreciate this, but America has always had a draft. But, for the longest time, it didn't really care whether or not you actually signed for the draft. And starting in December, participation in the draft will be automatic. Meaning that if you're between 18 and 24 in America and you're male, you'll be automatically put into the draft system.
+
+**Steven Bartlett:** From when? I mean, from December.
+
+**Steven Bartlett:** This year?
+
+**Jiang Xueqin:** Yes, that that is correct. Yes.
+
+**Steven Bartlett:** So, between the age of 18 and 25, you think? And what does that What does that really mean? Well, I've never not really experienced that in my lifetime. So, it means that if you're between the age of 18 and 24, either gender?
+
+**Jiang Xueqin:** No, male.
+
+**Steven Bartlett:** Male, then you have to sign up for the army.
+
+**Jiang Xueqin:** No, you're already put into a draft.
+
+**Steven Bartlett:** Oh, you're already Okay, but you might be called upon.
+
+**Jiang Xueqin:** That's right. It's a lottery system.
+
+**Steven Bartlett:** Okay.
+
+**Steven Bartlett:** Right.
+
+**Jiang Xueqin:** And uh this created a lot of backlash during the Vietnam era. And so, they sort of toned it down. But, starting in December, they just passed a law that says that starting in December, um you will be automatically registered for for the They've passed them all.
+
+**Steven Bartlett:** Yes, they have.
+
+**Jiang Xueqin:** Well, in theory, Congress first needs to declare war.
+
+**Steven Bartlett:** Okay, fine.
+
 **Steven Bartlett:** Right? That's the first step. And Congress has not actually declared war yet. Okay. So, you think there'll be a draft and you think this will This war in Iran is going to trickle on for a long time. How long? 10, 20 years?
-Like Afghanistan or I don't see it stopping. Okay. Yeah.
-What's next in your prediction box?
-Okay.
-Okay, this is pretty bad. The world will move towards an AI surveillance state.
-I feel like that's already happening.
-I think it's pretty obvious. Yeah. What does that mean in reality for the average person? Because you know, we're seeing some of these big companies like OpenAI and Anthropic all sort of signing up to government um military surveillance projects.
-What does that mean for the average person? Right. So, for the average person, it means two things. It means digital ID and digital currency.
-Okay. So, what that what that will allow is for the government to basically monitor everything you do online and control all financial transactions. It it can basically program your bank account. So, like, you can't buy cigarettes or you can't buy drugs. Um and this will allow the government to basically um categorize everyone and put everyone into a certain database to monitor that person. And once you have once you're able to categorize everyone, you're allowed then you're you are able to use AI to predict their behavior. Isn't this what goes on in some parts of the This is what goes on in China.
-And that's how I know about this.
-How does it work in China?
-Well, in China, we all have digital ID.
-If you want to access anything in China, you need your digital ID. So, you want to open a bank account, you have to you have to use um a digital ID. If you want to use any uh e-payments, you have to use digital ID. If you want to use a phone, you have to use digital ID, okay? So, everyone's part of this national database.
-And this this allows government to do is basically monitor everything you do.
-Because basically, depending on how you buy things, I can then extrapolate to figure out your behavior.
-And then I can figure out your thinking.
-Right? And then I can create incentives in order to guide and control your behavior. So, in China, can they see everything that you do?
-Yes, they can.
-Messages you send? Everything. Payments you make?
+
+**Jiang Xueqin:** Like Afghanistan or I don't see it stopping.
+
+**Steven Bartlett:** Okay. Yeah.
+
+**Steven Bartlett:** What's next in your prediction box?
+
+**Jiang Xueqin:** Okay. Okay, this is pretty bad. The world will move towards an AI surveillance state.
+
+**Steven Bartlett:** I feel like that's already happening.
+
+**Jiang Xueqin:** I think it's pretty obvious.
+
+**Steven Bartlett:** Yeah.
+
+**Steven Bartlett:** What does that mean in reality for the average person? Because you know, we're seeing some of these big companies like OpenAI and Anthropic all sort of signing up to government um military surveillance projects.
+
+**Steven Bartlett:** Right.
+
+**Jiang Xueqin:** So, for the average person, it means two things. It means digital ID and digital currency. Okay. So, what that what that will allow is for the government to basically monitor everything you do online and control all financial transactions. It it can basically program your bank account. So, like, you can't buy cigarettes or you can't buy drugs. Um and this will allow the government to basically um categorize everyone and put everyone into a certain database to monitor that person. And once you have once you're able to categorize everyone, you're allowed then you're you are able to use AI to predict their behavior.
+
+**Steven Bartlett:** Isn't this what goes on in some parts of the
+
+**Jiang Xueqin:** This is what goes on in China. And that's how I know about this.
+
+**Steven Bartlett:** How does it work in China?
+
+**Jiang Xueqin:** Well, in China, we all have digital ID. If you want to access anything in China, you need your digital ID. So, you want to open a bank account, you have to you have to use um a digital ID. If you want to use any uh e-payments, you have to use digital ID. If you want to use a phone, you have to use digital ID, okay? So, everyone's part of this national database. And this this allows government to do is basically monitor everything you do. Because basically, depending on how you buy things, I can then extrapolate to figure out your behavior. And then I can figure out your thinking.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** And then I can create incentives in order to guide and control your behavior.
+
+**Steven Bartlett:** So, in China, can they see everything that you do?
+
+**Jiang Xueqin:** Yes, they can.
+
+**Steven Bartlett:** Messages you send?
+
+**Jiang Xueqin:** Everything.
+
+**Steven Bartlett:** Payments you make?
+
 **Steven Bartlett:** Everything.
-Everything.
-Everything you do online is being recorded and is being inputted into the database to figure out who you are, what you want, and how to control you.
-And they think this is progress, by the way.
-This is progress because I'm making you a better person, right?
-I'm helping you achieve your dream. I'm I'm helping you lose weight. I'm helping you avoid drugs. I'm helping you work harder.
-Wouldn't you be in trouble if you talk against this system?
-Well, me personally, okay. So, I operate in a gray area where I do not interact with the Chinese internet.
-So, everything I do is in English. It's meant for consumption in the Western world.
-And um I I don't talk to Chinese reporters. I don't talk to Chinese social media. I've no Chinese media presence.
-And I am not at all influential in China. And I prefer it that way because if I be ever became famous in China, then they would obviously want to control me in order to better influence other people.
-Huh.
-What's your next prediction?
-Israel will achieve the greater Israel project. So, you think Israel are going to conquer the Middle East?
-Israel has essentially already conquered the Middle East. The only force in their way right now is America.
+
+**Jiang Xueqin:** Everything you do online is being recorded and is being inputted into the database to figure out who you are, what you want, and how to control you. And they think this is progress, by the way. This is progress because I'm making you a better person, right? I'm helping you achieve your dream. I'm I'm helping you lose weight. I'm helping you avoid drugs. I'm helping you work harder.
+
+**Steven Bartlett:** Wouldn't you be in trouble if you talk against this system?
+
+**Jiang Xueqin:** Well, me personally, okay. So, I operate in a gray area where I do not interact with the Chinese internet. So, everything I do is in English. It's meant for consumption in the Western world. And um I I don't talk to Chinese reporters. I don't talk to Chinese social media. I've no Chinese media presence. And I am not at all influential in China. And I prefer it that way because if I be ever became famous in China, then they would obviously want to control me in order to better influence other people.
+
+**Steven Bartlett:** Huh.
+
+**Steven Bartlett:** What's your next prediction?
+
+**Jiang Xueqin:** Israel will achieve the greater Israel project.
+
+**Steven Bartlett:** So, you think Israel are going to conquer the Middle East?
+
+**Jiang Xueqin:** Israel has essentially already conquered the Middle East. The only force in their way right now is America.
 ### Israel — Greater Israel, NATO, and Odessa
 
 **Jiang Xueqin:** So, once America leaves the Middle East, which I expect to happen, then Israel will absorb CENTCOM, which is the um Central Command, the American military bases in the Middle East, and they will achieve the greater Israel project.

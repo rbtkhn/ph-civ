@@ -34,6 +34,8 @@ Treat this chapter folder as a small source-lattice:
 **Transcript pass 6 (2026-06-26):** Pass **C** turn labeling in **War Phases — Ground Troops and IRGC** (~22 exchanges); fixed pass-3 mis-attributed Steven lines on IRGC/Mosaic block; light ASR (FOB/Iraq→Iran, Mosaic, Hegseth, stirring up). Three sections turn-labeled (Iran Topography, NDS, War Phases). Other sections still merged.
 
 
+**Transcript pass 9 (2026-06-26):** Pass **C** hand turn labeling in **Eight Predictions — Trump Third Term and AI State** (~52 exchanges); constitution/third-term, US-China bargain, draft, AI surveillance blocks split; light ASR (There are two possibilities; My second prediction).
+
 **Transcript pass 8 (2026-06-26):** Pass **C** hand turn labeling in **Chess Grand Strategies and WWIII Players** (~38 exchanges); split embedded host Mhm/Okay/Exactly interjections; ASR fix (Russian third world → Third Rome strategy). Exemplar for lecture-style pass C on DOAC.
 
 **Transcript pass 7 (2026-06-26):** Batch pass **C** turn labeling across remaining 11 sections (Interview Open through Hermetic closing); mechanical `>>` cleanup; sponsor blocks left unlabeled. Three prior sections (Iran Topography, NDS, War Phases) unchanged. Unresolved: ambiguous merged paragraphs; Araghchi title; DOAC Circle / sponsor reads.
