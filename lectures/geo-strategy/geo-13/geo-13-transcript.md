@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=8XdL-7tAqnU"
 video_id: "8XdL-7tAqnU"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Geo-Strategy #13: US-Iran War Incoming
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Core Analysis
+
+
+
+### Strategic Implications
+
+
+
+### Closing Questions
 
 Um um as everyone knows um it seems this war in the Middle East is uh blowing up and it seems like even though the United States has yet to declare war on Iran um it will probably happen um in the next couple of days with the United States um bombing Iran.
 Um so um today I'm going to share with you my impressions, my analysis of what's happened of what's happening in the Middle East. Um and I hope that um this discussion will be clarifying and illuminating for uh many of you. So, um it's very clear what the US intention is. Um because we've seen what the United States has done to Iraq, Libya, and Syria.

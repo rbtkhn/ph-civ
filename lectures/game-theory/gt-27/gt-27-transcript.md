@@ -20,11 +20,14 @@ part_role: "world-war"
 
 ## Part I: Full transcript
 
+
+### Opening
+
 A couple quick announcements before we start class. Next Thursday will be our last class and we will do the final examination next Thursday. It'll be the same format as the midterm examination where you can prepare some questions and we will review what we've learned so far in class. Um if you are on YouTube and you want to ask some questions, please leave the question behind.
 
 Um in the comment section and my wife will go over and select um some questions for us to do next Thursday. Next Tuesday we will do an overview of everything we've learned so far and make certain predictions about the next 5 to 10 years. Okay?
 
- So next week will be our last week. Um today I want to talk about Putin in Beijing.
+So next week will be our last week. Um today I want to talk about Putin in Beijing.
 
 So he came to Beijing um Tuesday evening. He had a full day yesterday and then he left last night. And um as you can see, President Putin and President Xi are very good friends. They went to a conference hall where they unveiled a photo of the two being very close. Um, this is President Putin's 25th visit to China and in November he's coming back to Shenzhen to attend APEC and that'll be his 26.
  He's a very good friend of China's and the two are very close. This is the two of them at an education conference announcing a year of education exchange between Russia and China. And the goal is to enhance people-to-people um connections between China and Russia. The major um output of the meeting was their different perspectives on the multipolar world. Okay.
@@ -64,6 +67,8 @@ All right. So, this is a lot of words, but I will emphasize certain takeaways. F
  Second, he sees the real enemies as those who are trying to overturn the World War II order. And those nations of course are Japan, Germany, and Israel. And the last thing he will point out is that all unilateralism and hegemonism are bad. Okay? If you act by yourself and you declare war against other nations, that's bad.
  So obviously the United States attacking Venezuela is bad. Obviously the United States attacking Iran is bad. But what about Russia attacking Ukraine? Well, according to this framework, this is also bad. Okay, according to this logic of what he said specifically, this is also bad. So it seems as though China and Russia are best friends and they will unify against United States together.
  But this statement reveals that actually things aren't as simple as they seem.
+
+### Theory Survey
 
 All right. Also, what's important for us to understand is that yes, there are many areas where China and Russia can work together, but the cooperation is not going as smoothly as one would imagine.
 
@@ -124,6 +129,8 @@ All right. So um war World War II has ended and the United States has a problem.
  So then what it started to happen was that instead of America lending money to the Europeans and the Japanese to buy things from them, they start to borrow money in order to purchase the European and Japanese manufactured goods.
 
 Okay. So now this relationship goes backwards.
+
+### Core Model
 
 All right. Now USA went from a credit nation to a debtor nation.
  But not only that, but the Americans recognized that you know what, we can print as much money as we want. So we can spend as much money as we want. And so the Americans start started to do stupid things like start a war in Vietnam that he could not win. Like send a man to the moon for no particular reason.
@@ -206,6 +213,8 @@ Okay. So you can see how after the war started you have this huge bump um in mil
  Why? Because as this war drags on, it's going to create a lot of political tension back at home, especially if you're drafting young men to fight this war. Okay? And if that were to happen, eventually uh right-wing political parties, AfD would come into power. And how does Putin know this? Because this has this has historically been true.
  This this is what happened in Russia during World War I when the Bolsheviks came into power. It almost happened in Germany. Okay. When communist almost came to power in Germany.
 
+### Examples
+
 All right. So war creates political tensions and the the longer the war drags on uh the more the greater the tension is.
 
 Okay. So basically what Putin wants to do is create a civil war in Europe, allow these right-wing pro-Russia parties to come into power and then form an alliance between Europe, Germany and Russia. Okay.
@@ -266,7 +275,9 @@ Okay. First is the um debt interest. So right now the debt is at $39 trillion.
  This is this is a disaster for America. Okay? So America needs to basically act now. Okay, it needs to move down the treasury rate. Okay, the way you move down the treasury rate is by forcing people to buy US treasuries from you. Okay, so this is a war that's going on between Russian and America, between Putin and Trump, where Putin is trying to get people to not buy US treasuries and Trump is trying to force people to buy US treasuries.
  Okay? And this is a war that's being fought right now. Okay? Any questions about what's going on? Okay.
 
- How will America become or how will America end if like the world and America is so addicted to US dollars?
+### Closing
+
+How will America become or how will America end if like the world and America is so addicted to US dollars?
 
 >> Wait, wait. Could you ask that question again?
 
@@ -317,5 +328,5 @@ Okay. So, um Putin's plan is just be is to remain good friends with China. He kn
 
 All right. But they need a nation state as their host. Okay? Clear?
 
- All right. So, next week is the final examination. So, if you're on YouTube, you're watching YouTube, please post your questions in the comment section and my wife, my beautiful wife will select um the very best.
+All right. So, next week is the final examination. So, if you're on YouTube, you're watching YouTube, please post your questions in the comment section and my wife, my beautiful wife will select um the very best.
  Okay? All right. See you guys next week.

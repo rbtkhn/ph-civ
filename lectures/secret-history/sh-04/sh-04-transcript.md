@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=BtlWoqWLm9Q"
 video_id: "BtlWoqWLm9Q"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #4: How Evil Triumphs
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 Today we are going to discuss some extremely controversial topics and because this is going to go on YouTube there are certain words I cannot say. So just to warn you I will write down these words but I will not say them because if I do say them then I will get censored on YouTube. Today we're going to look at how evil triumphs.
  Why is the world so evil? And there's going to be a lot of extremely disturbing topics we're going to discuss. Um, but you're mature and it's important that we discuss these topics in order to understand how the world works. So, let's just start. Um, and we will do a lot of speculation and theorizing in this class.

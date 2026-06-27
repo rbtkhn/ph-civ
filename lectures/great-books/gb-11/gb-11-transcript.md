@@ -35,17 +35,17 @@ Part I contains the lecture transcript promoted from operator source archive (op
 
 ## Part I: Full transcript
 
-### opening-purgatory-series
+### Opening Purgatory Series
 
 
 So, we have a two-part lecture series to finish the Divine Comedy. So, uh today we start part one, and then next Wednesday we do part two. So, the Divine Comedy is the most influential work of literature in European history. Why? Because Dante's Comedy will give rise to the Protestant Reformation, as well as the scientific revolution, the Enlightenment, Renaissance, basically modernity itself.
 
 Okay? So, the question is, how did Dante accomplish this? He accomplished this basically by responding to Virgil. Okay? So, for the longest time, for about a thousand years, Virgil was the most dominant thinker in European history. And Virgil's Aeneid, which we read, becomes the basis for Augustine. Um he wrote two major books, Confessions and City of God.
 
-### augustine-virgil-human-nature
+### Augustine Virgil Human Nature
 
 
-And this will become the basis of the Catholic Church. All right? So, how did Virgil come to become the soul of the Catholic Church? With the He came up with the idea of human nature. Okay? So, Augustine will emphasize the idea of original sin. Okay, so the original sin was an act of disobedience when Adam and Eve ate from the tree of the fruit or sorry, the the tree of knowledge, okay? They ate the fruit from the tree of knowledge.
+And this will become the basis of the Catholic Church. All right? So, how did Virgil come to become the soul of the Catholic Church? With the He came up with the idea of human nature. Okay? So, Augustine will emphasize the idea of original sin. Okay, so the original sin was an act of disobedience when Adam and Eve ate from the tree of the fruit or sorry, the tree of knowledge, okay? They ate the fruit from the tree of knowledge.
 
 That's an act of disobedience because God explicitly said, "You can do whatever you want in this garden of Eden, but don't eat that fruit." And they disobeyed God. And Augustine points out that what compelled this original sin is pride. We humans cannot bear to serve God, to be humble before God. We seek to overthrow God.
 
@@ -57,7 +57,7 @@ And so, as long as we are loyal to the Catholic Church, we'll be fine. The Catho
 
 um and intellectual creativity.
 
-### dante-intuition-rebuttal
+### Dante Intuition Rebuttal
 
 
 So, what Dante's going to do is he's going to assert the power and the truth of individual intuition. Okay? So, the major argument that Dante's is going to make is that yes, it is true that we are made of dust. It is true that we've bodies. We uh seek pleasures. But, that divine spark in us, it never went away.
@@ -72,7 +72,7 @@ In fact, you want to encourage individual intuition as much as possible, okay? S
 
 Okay? So, we're going to look at Purgatory today, and then next class we'll look at Paradise. All right. So, Purgatory is modeled very much uh in a very similar way as the Inferno, okay? So, the wonderful thing about the Divine Comedy is it's structured. It's very visual. So, in Purgatory, what you do is, first of all, you enter Purgatory, okay? You enter Purgatory.
 
-### purgatory-structure
+### Purgatory Structure
 
 
 But the moment you enter purgatory, what an angel who guards the purgatory will do is stamp seven P's onto you, okay? Each P represents a sin. And so, what you do is you climb each terrace of this mountain, and each terrace um has an a particular sin, okay? So, terrace one is pride, terrace two is envy, terrace three is anger, terrace four is laziness, terrace five is covetousness, terrace six is gluttony, and terrace seven is lust, okay? So, it's almost like the inverse of Inferno.
@@ -83,7 +83,7 @@ structure of uh purgatory. Any questions so far? All right. All right. So, we're
 
 Okay? So, Erica, can you replace And even as I turned towards him, I asked, "What did the spirit of Romagna mean when he said, 'Sharing cannot have a part'?"
 
-### envy-terrace-sharing
+### Envy Terrace Sharing
 
 
 And his reply, "He knows the harm that lies in his worst vice. If he chastisizes it, to ease his expiation, do not wonder. For when your longings center on things such as sharing, then the portion's less to each, then envy stirs the bellows of her sighs.
@@ -106,7 +106,7 @@ And if my speech has not appeased your hunger, you will see Beatrice. She will f
 
 And so, the more um kindness, the more love you generate to other people, they reflect that. And that spreads love and kindness all around the universe, okay?
 
-### indras-net-love-fractal
+### Indras Net Love Fractal
 
 
 So, when we need to visualize this, it's with something called Indra's net. And this is a concept from Hinduism and Buddhism, okay? So, what is a soul? Who are we? Well, we are a pearl in a universe of pearl of pearls, okay? It's a net.
@@ -171,12 +171,12 @@ Okay, the power to curb that love is still your own. This is what This is what w
 
 Right? In other words, obedience is good. Obedience is what is free will. Okay? If we're able to shift from emotions to reason, that is good. What is reason?
 
-### virgil-love-reason-free-will
+### Virgil Love Reason Free Will
 
 
 Reason is the capacity to restrain our emotions by obeying authority. Because it's only authority that allows us to control ourselves. Do you know what's right and wrong, okay? And this And this was the essence.
 
-This was the main message of the Aeneid, right? Aeneas is on a mission to found the Roman Empire. He goes from Troy to Carthage to the Italian Peninsula. But it's actually a spiritual journey because when he starts his journey, he's very emotional. He sees Helen. Um and he wants to kill Helen because he thinks that Helen is the person who caused the destruction of of Troy.
+This was the main message of the Aeneid, right? Aeneas is on a mission to found the Roman Empire. He goes from Troy to Carthage to the Italian Peninsula. But it's actually a spiritual journey because when he starts his journey, he's very emotional. He sees Helen. Um and he wants to kill Helen because he thinks that Helen is the person who caused the destruction of Troy.
 
 Troy's been destroyed and Aeneas wants to fight the Greeks and die in the process because he wants to save his homeland even though it's been destroyed, okay? He goes to Carthage and he's not supposed to be at Carthage. He falls in love with Dido and he wants to stay there. And each time the gods have to come and say, "Hey, man, listen, you have a mission to do.
 
@@ -212,7 +212,7 @@ If you have the will, you can always achieve heaven. Okay? So people in Inferno,
 
 God is all forgiving. Okay, keep Keep on going. Soul had the will to climb before, but that will was opposed by longing to do penance as once to sin instilled by divine justice. Okay, this is a very important, okay, guys?
 
-### purgatory-will-penance
+### Purgatory Will Penance
 
 
 The issue is not that God has not forgiven us. The issue is that we have not forgiven ourselves.
@@ -229,7 +229,7 @@ In that age when the worthy Titus, with help from the highest king, avenged the 
 
 So gentle was the spirit of my verse that Rome drew me, son of Tolus, to her, and there my brow deserved a crown of myrtle.
 
-### statius-paradox
+### Statius Paradox
 
 
 On Earth my name is still remembered, Statius. I sang of Thebes and then of great Achilles. I fell along the way of that last labor. The sparks that warmed me, the seeds of my ardor, were from the holy fire, the same that gave more than a thousand poets light and flame.
@@ -312,7 +312,7 @@ It's Virgil that brought him through Inferno and brought him through Purgatory s
 
 I turned around into my left, just as a little child, afraid or in distress, will hurry to his mother, anxiously, to say to Virgil, "I am left with less than one drop of my blood that does not tremble. I recognize the signs of the old flame." But Virgil had deprived us of himself.
 
-### virgil-disappears-beatrice
+### Virgil Disappears Beatrice
 
 
 Virgil, the gentlest father, Virgil, he to whom I gave myself for my salvation, and even all our ancient mother lost was not enough to keep my cheeks, though washed with dew, from darkening again with tears. Okay. So, he is extremely

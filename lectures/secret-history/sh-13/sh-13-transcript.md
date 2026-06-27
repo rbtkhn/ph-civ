@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=FJF8oD_5c_w"
 video_id: "FJF8oD_5c_w"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #13: Mandate of Heaven
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 Today we discuss the idea of civilization and um first I want to present to you the general understanding of how we get civilization and then I will present to you an alternative. Okay. So the traditional understanding is the Marxist understanding. This is idea proposed by Karl Marx and it's the dominant idea.
  So in the beginning we were hunter gatherers and it sucked to be hunter gatherer because you could not find food and then we discovered agriculture farming that allowed for surplus food. Surplus just means that you have more food than you can eat. And so now you have people who don't have to work. Okay? An elite.

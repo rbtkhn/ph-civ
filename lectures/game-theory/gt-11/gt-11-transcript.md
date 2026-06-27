@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=fz-Dan7NRss"
 video_id: "fz-Dan7NRss"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,25 @@ part_role: world-war
 # Game Theory #11: The Law of Escalation
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Theory Survey
+
+
+
+### Core Model
+
+
+
+### Examples
+
+
+
+### Closing
 
 We continue our analysis of the US Iran war. And in this war, there are three major questions that will determine the outcome of this war as well as the world afterwards. Okay. And these three questions are number one, will the US launch a ground invasion? So right now the United States and Israel are primarily focused on a air war striking um Iran from a distance.
  In the past we would call this siege warfare. And as long as it remains an ear war, the United States can choose to deescalate and withdraw from the Middle East. They would lose this war, but the loss would not be catastrophic. Whereas if they choose to launch a ground invasion, it would escalate very quickly and they would be trapped in Iran for the next 5 to 10 years.

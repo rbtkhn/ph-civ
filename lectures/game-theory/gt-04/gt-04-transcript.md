@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=35HRPLVyF0g"
 video_id: "35HRPLVyF0g"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,25 @@ part_role: civilization
 # Game Theory #4: The Immigration Trap
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Theory Survey
+
+
+
+### Core Model
+
+
+
+### Examples
+
+
+
+### Closing
 
 Today we will look at immigration. Who wins the game of immigration and who loses? Why do they win? Why do they lose? Okay, so let's look at the United States, which is where most immigrants go. And as you can see from this chart, there are certain ethnic groups that do better than other ethnic groups.
 So um the Indian people make the most money in America. And this makes sense because um India has a very competitive college system where only the best and brightest get into their technical institutes and then after college they go United States to do graduate work. Then they go on to Silicon Valley to become uh engineers, some become doctors.

@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=9MURGjjG4aA"
 video_id: "9MURGjjG4aA"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,9 @@ part_role: world-war
 # Secret History #9: The Theory of Everything
 
 ## Part I: Full transcript
+
+
+### Cold Open
 
 Good morning class. Today we do the theory of everything. So very quickly I will explain to you what science tells us about where we came from, who we are, and where we're going. So as you may know, it all started with a big bang. Okay, the big bang. So, in the beginning there was a massive ball of energy and then it exploded.
 
@@ -85,6 +89,8 @@ Okay? This this is what you're taught in school. Okay? I'm going to say somethin
 
 Okay? So what happens is you actually you actually think or imagine the story or the idea to begin with. Okay? And then you start working backwards to create the process. You're taught in school it's a process that creates the the idea. What I'm telling you is that in reality, it's the idea that creates the process.
 
+### Lecture Block
+
 Okay? So, let me give you an example of this. If you look at every major scientific discovery, it all came to the person in a dream or when he was or it sort of popped into that person's head. Okay? It's just think of a light bulb light bulb popping up. Okay? So, an example is Albert Einstein. Albert Einstein created his theory of relativity not in a laboratory, not by um doing research with other scientists, but simply by sitting in a patent office every day and just daydreaming.
 
 And then boom, the idea came to his head. He's like, "Okay, now I have this idea. Now what he's going to do is go back and look for the evidence to support his idea." >> Yes. >> Hypothesis. Okay. Um, is a hypothesis the idea? Okay. No, the hypothesis is the assumption. Okay. What? Okay. What what I'm trying to tell tell you is this.
@@ -151,6 +157,8 @@ Okay. So why is that? So these are the three problems. And so what happens is th
 
 Okay? The noumenon you can never access because it's beyond us. It's a Geist that gives us time and space and as a result because it's all coming from one source we see the world in the same way. Okay. All right. So this sounds complicated but but but let me now use quantum mechanics to explain what this means. Okay. Let's let's talk about quantum mechanics.
 
+### Q and A Block
+
 Okay. So in science class you're taught the Bohr model of the atom. Okay it's a simple model. You have the nucleus and then around the nucleus you have these electrons that orbit the nucleus. Okay you taught this in physics class. >> Um if you are in more advanced physics you were taught that it's actually an electron cloud.
 
 >> Why? Because we never know for sure what electrons are. So we can only know the probability of where they are in orbit. Okay? So it's called electron cloud. And this is what you're taught in school. When you go to university, you're you will be taught this is completely and utterly wrong. Why? Because this assumes that these atoms are matter. They're solid.
@@ -216,6 +224,8 @@ So Dante uses the idea of mirrors. There's a candle, there's a flame, and we're 
 Okay? So for Dante and for our early civilizations, God is love forever. Okay? Eternal love. But God is also eternal compassion, eternal forgiveness. God will never forgive you. Sorry, God will never forget you. Okay? He will always forgive you. But you have to believe in God to return to God. You have to live a life of righteousness, of love, of compassion, of imagination.
 
 if you want to return to God. Okay. So that's how the universe is set up. We are here, our divine mission is to expand the consciousness of the universe. And we do that by embracing love and by imagining the world to be a better place. Okay. All right. So now let's go back and ask ourselves this question. If every single early religion, whether it's Daoism or Hinduism or the Egyptians or the Native Americans, if every early religion all believed this and they all knew this, how did we come to forget or deny this with a material
+
+### Closing
 
 reality? Okay, remember the big bang, evolution, neuroscience, it's to teach us that there's no God, there's no purpose, it's all just random, it's all just material. So, how do we get this to this point? Okay, the answer is very simple and we'll be discussing this throughout CLA, throughout the rest of the semester.
 

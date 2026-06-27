@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=EgGfQdv_rPc"
 video_id: "EgGfQdv_rPc"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,9 @@ part_role: world-war
 # Secret History #5: The Birth of Evil
 
 ## Part I: Full transcript
+
+
+### Cold Open
 
 Okay. So today we continue the topic of secret societies. Last class we discussed how they come into power. Today where we will look at where they come from and what they believe. Okay. So to understand secret societies I first need to explain to you the history of religion in the western world. So in the western world there have been three major stages of religious development and again I will oversimplify for the purpose of clarity. Okay.
 
@@ -96,6 +100,8 @@ Okay, our world is controlled by these three forces. Now, what's important for u
 
 But the Christian world now is counterintuitive. Okay. So as a result um for monotheism to triumph because it is so counter counterintuitive it must now destroy the polytheistic world. Okay. So the Romans spent a lot of time taking centuries and centuries to destroy the polytheistic world. But the thing is this, you can never ever kill an idea.
 
+### Lecture Block
+
 The idea if it is being suppressed just goes underground. Okay? So remember here in the mother god civilization the main instrument of religious worship are fertility cults run by women. Well now that war has come and men have taken over from women. What happened is that the woman went underground to create new religious organizations called mystery schools.
 
 And mystery schools what they're trying to do is they're trying to maintain the best knowledge and traditions of the mother civiliz the mother god of civilization. Okay. Especially the fact that we come from the mind. We created the universe through our imagination. Okay, that's the main secret that they're trying to maintain.
@@ -172,6 +178,8 @@ And these children now are like demagogues, right? So what do they do? Well, the
 
 The problem though is the Nephilim are divine and therefore they cannot be killed. So you can get rid of their mortal bodies, but now they become demons who live underground and are in the shadows. And guess what guys, they're still here today. So these these two societies, they believe the Nephilim are real and they still control the world.
 
+### Q and A Block
+
 The richest people in the world are actually Nephilim, okay? because they've been around for thousands of years and therefore they're able to control the development of humanity. Okay? So they called the Nephilim. So that's easy to understand. But now the question then is wait a minute.
 
 Why did Adam eat that app that fruit and why did Jesus have to kill himself? Well, now it gets really complicated. Okay? So now I need I need to explain to you what the secret societies believe. Okay? Remember they believe that mind leads to matter. What does that mean? Okay, let me explain what this means. Mind leads to matter. In the beginning, the true God is called the Monad.
@@ -245,6 +253,8 @@ You have trusted me to lead you for all eternity and therefore I will risk my en
 If there be cure or charm to resppite or deceive or slack the pain of this ill mansion, interimmit no watch against a wakeful foe, why I abroad, through all the crows of dark destruction, seek deliverance for us all. this enterprise none shall partake with me. I am your leader. I will go by myself.
 
 You guys can just sit here and like sip, you know, have some drinks, watch some TV, enjoy yourself. I don't care. Okay? I'm your leader. I will go by myself to redeem us, to deliver us from um our torment. Okay? So, as you can see, this is heroic. He is the grand hero. A couple things I will say about the speech is number one what he's describing and secretists believe is believe this is he's describing his ascent from hell as almost uh our souls leave our bodies to the heavens. Okay.
+
+### Closing
 
 And some secret sites believe that when you die, the first person you meet is Satan because it is Satan who knows how to take you from this world, the prison world to the light because he's he's done this. Okay. So, Satan is a very important part of our journey back to the moon. That's a also if you study this um poetry very closely you study the imagery he what he's describing almost is a baby leaving the womb right because the baby is a is in the womb a prison and then the baby escapes.
 

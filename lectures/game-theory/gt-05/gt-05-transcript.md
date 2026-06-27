@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=ybufqRY77PQ"
 video_id: "ybufqRY77PQ"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,25 @@ part_role: civilization
 # Game Theory #5: The World Game
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Theory Survey
+
+
+
+### Core Model
+
+
+
+### Examples
+
+
+
+### Closing
 
 Today we examine the question why is it that states, countries, nations, they rise and they fall. Okay, so let's start off with an example that you know pretty well. So this is the waring states period and at this point in history there are many powerful states. Okay. So for example the true, the jao, the way.
 Okay. And if at this point in history, this is about 250 uh B.CE. I asked you to figure out using game theory, which state would unite China and become the first great empire of China. Well, there are certain metrics that you would use to figure out which state would win out. Okay, so obviously you would look at population.

@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=axqDLhWs93Q"
 video_id: "axqDLhWs93Q"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,25 @@ part_role: civilization
 # Game Theory #8: Communist Specter
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Theory Survey
+
+
+
+### Core Model
+
+
+
+### Examples
+
+
+
+### Closing
 
 Today we discuss communism, Marxism. We will discuss uh what it is, where did it come from and why did it succeed. Now the 20th century um had the cold war and so that was an ideological struggle between capitalism and communism. And for the longest time we believe that capitalism and communism were polar opposites, a dialectic, okay, a black and white.
 But if that is the case, then how do we explain China? Because for the longest time, China was a communist country and then in 1980s it started to reform and now China is very much a capitalist country. In fact, if you think about it, this transition has been seamless. There hasn't been much conflict because of this transition.

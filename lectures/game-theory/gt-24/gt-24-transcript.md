@@ -20,6 +20,9 @@ part_role: "world-war"
 
 ## Part I: Full transcript
 
+
+### Opening
+
 After I posted my class from last Thursday, my friend, as well as teacher, David Bromwich, sent me an email. And what we're going to do today is we're going to read his email together. I asked for his permission and he said that it's okay for me to make public his email to me. Okay, so he said, "I just watched your video.
 
 There's a thought I've been meaning to pass on and this latest talk crystallized it. You travel fast in your explanations with a satisfying definiteness and say a lot of true things that timid people stay clear of. Okay, so what he's saying is that my videos are getting very popular online because I provide some certainty, some clarity in a very unclear and uncertain time.
@@ -77,6 +80,8 @@ All right. So, um let's let's start class. AI.
 All right. So, the these are main ideas from the book. Okay? So, um I give you the page reference in case you actually want to read the book yourself.
 
 And I highly recommend that you do uh to fully understand the context of these ideas, okay? So, uh let's let's read these two paragraphs, which provide us the main thesis of her argument, okay? So, Alan, could you help me read, please? Yeah. Six years after my initial skepticism about OpenAI's uh altruism, I've come to firmly believe that OpenAI's mission to ensure AGI benefits all of humanity may have begun as a secret uh sincere stroke of idealism, but it has since become a uniquely potent formula for consolidating resources and constructing an empire uh ask uh ask or power structure. It is a formula with three ingredients.
+
+### Theory Survey
 
 Okay.
 
@@ -136,6 +141,8 @@ And please stop me if I'm not being clear about how AI works, okay? All right. S
 
 And then we'd give it the input And then we'll do the output, okay? So the algorithm may be A plus B. We give the input one one, the output will be two, okay? Very simple. How should I say machine machine learning works is, okay, this is fine for simple problems, but there's certain hard problems that humans cannot figure out, okay? And one hard problem is the idea of facial recognition technology.
 
+### Core Model
+
 Facial recognition. How do I separate faces? Okay? And so the problem is this, I have about a million faces. 1 million faces in a database. Okay? And I don't know how I can best differentiate these faces. Now what I do know is that there's certain characteristics about the face that allows me to differentiate, okay? All right, so there's certain variables, weights.
 
 Okay, so for example, eye, for example, uh nose, chin, okay? About a million, okay? About a million weights. So I know these things do matter, but I I don't know how much they matter. So I'm trying to figure out what the weighting is. And I could try to play play it by myself, like say 1%, 2%, 5%, but as you can imagine, this will take too long because there are too many possibilities.
@@ -194,6 +201,8 @@ All right." Ha. What I'll do is I'll tell the computer this, "You can do all thi
 
 Like just same as killing them. Yeah. Kill everyone, okay? Why? Because there's no one around to know it killed everyone. Does that make sense, guys? This is how a computer thinks. This is how God thinks. "Well, you told me not to kill anyone, but everyone's dead, no one can stop me. No one's going to get hurt.
 
+### Examples
+
 " Right? Okay? So, this is why uh computers are stupid.
 
 All right. Okay. Let's continue. Um All right. So, the thing to understand about um ChatGPT is that it is a company that is first and foremost focused on world domination. Because only by controlling the world can you achieve AGI. Even though AGI wants to kill everyone.
@@ -251,6 +260,8 @@ Literally, a rapture," he said. Literally, a rapture? What does this mean? Okay.
 The rapture is for all Christians who believe in him to ascend to heaven so that they can they can be saved from the coming end of days, from total war, from nuclear conflict, okay? So, that's what the rapture is. And that's what Ilya Sutskever is saying. He's saying that when we create AGI, we are literally having Jesus descend from the clouds.
 
 And so, we, the priests who created AGI, will ascend to heaven with him, okay? So, the AGI, once once we create it, it's going to create World War III, the end of the world, okay? So, we must go into our bunkers and be saved in the rapture so that we can wait until the world ends so that we can build the world again, perfectly, okay? Once the world ends, we will, with AGI, create paradise.
+
+### Closing
 
 Again, the plan is to kill everyone so that you can save the world. That's literally their plan.
 

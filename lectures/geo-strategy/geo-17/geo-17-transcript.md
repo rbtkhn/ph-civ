@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=5I2VPYPJJ68"
 video_id: "5I2VPYPJJ68"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Geo-Strategy #17: The Universal Law of Game Theory
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Core Analysis
+
+
+
+### Strategic Implications
+
+
+
+### Closing Questions
 
 Good morning, YouTube. Professor Tang here um with another video update on the situation in the Middle East. I wanted to originally do this talk next week because I wanted to get a haircut this weekend and surprise everyone. Um but uh on Twitter, many of you um have been clamoring for the next edition in this series. So here we are.
 In my last video, I discussed how Isaac Newton built the intellectual foundations for Christian Zionism, which is driving American Middle East policy today. And today I want to explain to you why Christian Zionism is such a powerful force in the world. Um, as you know, Netanyahu is visiting Washington this week, meeting with senior lawmakers, including with President Donald Trump in the White House.

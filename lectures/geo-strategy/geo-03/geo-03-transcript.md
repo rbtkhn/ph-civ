@@ -33,6 +33,29 @@ Source timestamps:
 - Easy money and the imperial close: `00:41:56.839`
 ## Part I: Full transcript
 
+
+### Opening
+
+
+
+### Manufacturing, Reagan, and financialization
+
+
+
+### Declaration of Independence and theism
+
+
+
+### Gold standard, Bretton Woods, and trade
+
+
+
+### National debt, Ukraine, and reindustrialization
+
+
+
+### Easy money and the imperial close
+
 so in this class this semester I'm making three big predictions right first is that Trump will win uh in November second is that um United States will go to war against Iran and the third big big prediction is that the United States will lose this war which will forever change the global order um the past uh so last class we looked at one reason why the United States would invade Iran uh which is the Israel Lobby and in today's class we'll look at another reason which is the defense of Empire America is an Empire and it must
 defend its Imperial status so let's examine what an Empire means for America so from 1950 to 1980 America's economy was mainly focused on manufacturing factories okay so um manufacturing as a share of GDP was 40% it made 40% of profits okay and and employed 30% of the workforce so during World War II uh America had a lot of factories produce weapons and after World War III these factories produce consumer goods cars electronics to sell to the world and this made um the American workers the wealthiest and most well
 educated middle class ever in human history if you were a factory worker from 1950 to 1980 you had a really good life um you worked 40 hours a week you had health insurance you could buy your own house your wife didn't have to work you could have three to four kids you could have two cars every year you could go on vacation to some to some place nice you could eat out once a week and then you retired and had a very good pension so it was really the best life um and so workers from 1950 1980 in America were really the luckiest people on the planet

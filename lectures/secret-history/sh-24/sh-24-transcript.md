@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=TEdVhyE8pO0"
 video_id: "TEdVhyE8pO0"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #24: Empire of Church
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 Okay, good morning class. Um, so we have five more classes in the semester and the four last classes are the most important. So what what I will do this class is set up the uh background and context for the last four classes. So um what I want to do first is review what what we've learned so far.
  Okay, so we discussed the um Roman Republic. the Roman Republic and it was essentially an oligarchy. Okay, so oligarchy just means rule by the few. So it's very much like Sparta. It is a war society. And at this point in history, the fact that the Roman Republic was an oligarchy, basically it had about 100 families that commanded it.

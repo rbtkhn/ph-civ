@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=Ts-AA6LQf6I"
 video_id: "Ts-AA6LQf6I"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,9 @@ part_role: world-war
 # Game Theory #21: World War Trump
 
 ## Part I: Full transcript
+
+
+### Opening
 
 There has been, so far, a two-week ceasefire between Iran and the United States. The ceasefire is supposed to end tomorrow. And right now the Americans have gone to Islamabad to negotiate a possible peace treaty. The Iranians may go, they may not go. We don't know yet.
 
@@ -90,6 +94,8 @@ So there are a lot of conflicting signals coming from Trump. What I want to show
 Because this war is not going to end soon. It won't be a few months. It'll probably be a few years. And quite honestly, it may take ten or twenty years.
 
 So let's look over some more news.
+
+### Theory Survey
 
 As I mentioned previously, oil refineries are getting sabotaged, either by accident or purposefully. What this tells us is that in the past forty-five days there have been at least forty-five recorded incidents around the world of oil refineries being set on fire.
 
@@ -166,6 +172,8 @@ Please continue reading, Ivory.
 
 **Jiang Xueqin:**
 Stop.
+
+### Core Model
 
 The important sentence here is, "We will support a policy of actual peace through strength." What this means is that we will be so mighty, we will be so invincible, we will be so fearless, that we will instill fear in others. They'll be so afraid to fight us, and therefore we'll have peace. So it's the idea of hegemony: peace through might, peace through power. We have to demonstrate we are invincible. When people fear us, that's when people will obey us. When people obey us, that's when we have peace.
 
@@ -247,6 +255,8 @@ This is important because the United States has signed a deal with Indonesia. So
 
 What we're also seeing is that Japan is now rapidly remilitarizing. They're signing more agreements with Australia and other nations. They're building more weapons. This is all being encouraged by the United States as a deterrent to China.
 
+### Examples
+
 Again, this is really important. America does not want to destroy China. It does not want to humiliate China. It wants to control China, because the Chinese economy is still very strong and powerful, and America wants to make sure that the Chinese are buying more U.S. dollars.
 
 It is entirely possible that what's going to happen is that the Chinese will have no choice but to buy from America, especially energy. The entire Western Hemisphere belongs to America. If you want to trade with the Western Hemisphere, then you need to sign a trade deal with America.
@@ -318,6 +328,8 @@ And the reason why we think this, or we can suspect this, is look at their budge
 Also, data centers, guys. Data centers. I know that some of you are big fans of artificial intelligence, but artificial intelligence doesn't really make any money. You can't make money off ChatGPT. You can't make money off digital girlfriends or digital pets, right? So why is America building all these data centers around the world?
 
 In fact, the federal government under Trump has a plan called Operation Stargate where they will invest $500 billion in building data centers around the United States.
+
+### Closing
 
 Well, you would want to build data centers if you want to create an AI surveillance state where everyone has digital ID, digital currency, and where everyone can be monitored to avoid people from rebelling against Trump.
 
@@ -396,4 +408,3 @@ Trump's plan to stay in power is just basically cheat. He'll cheat. He'll rig th
 Any more questions, guys?
 
 All right. So we'll continue this next class.
-

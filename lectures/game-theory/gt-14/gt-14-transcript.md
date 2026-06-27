@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=nOQqGy4boBY"
 video_id: "nOQqGy4boBY"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,25 @@ part_role: world-war
 # Game Theory #14: The Law of Proximity
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Theory Survey
+
+
+
+### Core Model
+
+
+
+### Examples
+
+
+
+### Closing
 
 Last night there was a major escalation in this war. So the Israelis have bombed the Iranian uh oil fields and in response the Iranians now are attacking the um energy infrastructure of the GCC. Okay. So let's have a look at what this attack looks like. >> Hello you guys. >> This is Qatar. Oh my god. Oh >> Okay, so Qatar provides 20% of the world's LNG.
 Um, and this is a major escalation. And again um as I pointed out last class the entire strategy of Iran is to destroy the global economy. Okay. And this is how it would do so. It also attacked Tel Aviv in response for the assassination of their de facto leader Ali Ali Lejani. Okay.

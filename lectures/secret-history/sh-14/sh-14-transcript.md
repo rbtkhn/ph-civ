@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=JpTI2gFYWrU"
 video_id: "JpTI2gFYWrU"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #14: Legacy of the Steppes
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 Okay. So today we are going to discuss civilization versus the steppes. Okay. Civilization versus the steppes. The steppes are the grasslands and you people often refer to them as barbarians. Okay. So in China we refer to these people as like barbarians. And in school you're taught that there are major differences between civilization and barbarians.
  Right? So um the first major difference is that in civilization you are allowed intellectual freedom because only by reading books only by going to school only by learning how to think can you be free to think. Okay. Um and on the steppe we think of them as emotional slaves. They are unpredictable. They are violent. Okay. Second thing is that we think of civilization as open and curious.

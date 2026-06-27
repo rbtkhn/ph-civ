@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=jIS2eB-rGv0"
 video_id: "jIS2eB-rGv0"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,17 @@ part_role: world-war
 # Game Theory #9: The US-Iran War
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Theory Survey
+
+
+
+### Core Model
 
 I hope everyone had a nice break and welcome back to the end of the world. So, as you know, World War III has started. United States and Israel have start to attack Iran and we are now in the fourth day of this war. And we can expect this war to last for many weeks, possibly also for many years.
  But I promise you that after this war is done, the world will never be the same again. So what what we will do these next few weeks is use game theory and understand and analyze the geopolitical situation. And so I'm going to teach you the ideas, the theories, the techniques to understand the world around you and make predictions.
@@ -42,6 +54,12 @@ And so the religion of the Iranians is called Shia um Muslim. And this is differ
  All right, this is their naval base in the Middle East. And as you can see, the Iranians are attacking it with missiles and it's being blown up. Bin is interesting because it has about 50% or even more. Okay. Shia, which is the religion of the Iranians, but the people in charge are the Sunnis. And so what is the what makes this strike really important for from our perspective is first of all, not only are the Iranians attacking US military assets, not only are they destroying the economies of the GCC, but they're also
 also trying to ignite a religious war, right? If you're Shia, you're loyal to the Aatollah. And if he's dead, then you must as a religious obligation now commit jihad against your enemies. And it's no different in other religions where listen, if you want to kill the Pope, the Catholics would be really angry at you and they would want to kill you, right? So now you have the Shia who will probably eventually arise creating a revolution in Ban. Okay? Okay.
  So I think Boran will be the first to fall. Dubai will probably go bankrupt. Okay. But in the long term we can expect the entire GCC area including Saudi Arabia to eventually collapse. Okay. And this something we will use game theory to understand. All right let's continue.
+
+### Examples
+
+
+
+### Closing
 
 So we will know how this war develops just based on geography. Okay.
  So this is a map and this map even even if you don't really know the war, even if you don't know the participants, even if you don't know the weaponry, this map will tell you exactly how this war will progress. All right, so some certain things to keep in mind about this map. This is what we call this area.

@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=YQ-xg1nIbMs"
 video_id: "YQ-xg1nIbMs"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Geo-Strategy #19: When Eschatologies Converge
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Core Analysis
+
+
+
+### Strategic Implications
+
+
+
+### Closing Questions
 
 Now, some of you in the comment section have been asking me why World War III has not started, why the conflict between the United States and Iran has abated. The answer is because modern warfare is hybrid warfare. 90% of warfare you will not see.
 So much of warfare nowadays is informational—controlling the media narrative, electronic cyber warfare, psychological—weakening the will of the people to fight you—and covert ops, economic sabotage, imposing sanctions, trying to assassinate the leaders of Iran. So the United States and Israel are committed to a policy of regime change in Iran.

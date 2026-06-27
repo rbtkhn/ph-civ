@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=txgPfnXgzcE"
 video_id: "txgPfnXgzcE"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,9 @@ part_role: world-war
 # Game Theory #22: Twilight of the Nation-State
 
 ## Part I: Full transcript
+
+
+### Opening
 
 There is a ceasefire now between Iran and the United States. But most analysts expect that this war will resume in a week, two weeks, a month. It will resume because it is impossible for the United States and Iran to come to a mutually beneficial and satisfying arrangement.
 
@@ -90,6 +94,8 @@ But of course the problem with nationalism, the problem with populations that wa
 And so what happens is that to solve this problem, all these nations focus on trying to grow the population as fast as possible, as much as possible. And this is what led to this massive population growth. But with more population, what was happening was that these wars were becoming deadlier and deadlier, culminating, of course, in World War II.
 
 And by World War II, Europe had exhausted itself. Too many people had died. Their civilization was destroyed. And so this allowed America to come into power.
+
+### Theory Survey
 
 America had a different theory of the nation-state.
 
@@ -173,6 +179,8 @@ So, Ivory, can you read this?
 **Jiang Xueqin:**
 Bismarck will turn Germany into the most powerful nation in the world by recognizing that it's not just soldiers who contribute to the war effort. It's also your people as well. It's your people who make the machines of war, the machine guns, the artillery, the ammunition. And therefore, you have to make sure they are healthy.
 
+### Core Model
+
 You don't want sick workers. That's why he passed a lot of progressive worker reforms, including health insurance, accident insurance, old-age pensions, worker protection, child protection.
 
 It is because he recognizes that a nation-state is first and foremost about making warriors. And if you want to win, you have to make sure you have as many people as possible and everyone is contributing to the war effort. And to do that, you need to make sure that everyone is taken care of, including your soldiers, including your workers.
@@ -247,6 +255,8 @@ So this is what a 21st-century war strategy looks like. And this is what the Ame
 
 Why haven't they done this before? Because these are war crimes. There are lots of treaties, the Geneva Convention, that prohibit you from fighting these wars. But as the Americans become much more desperate, as they continue to lose this war, they'll say, "Screw this. I'm going to win this war no matter what it takes."
 
+### Examples
+
 So let me show you how this war will be fought.
 
 Right now they're trying to target weapons. They're trying to target military bases. That doesn't get you anywhere. You need to better use your weapon systems because there are not enough munitions to destroy the entire Iranian military. So you have to be strategic now.
@@ -318,6 +328,8 @@ And we saw this play out most recently last year in Nepal, when young people ove
 Now, guys, here's the thing. In Nepal, most people don't speak English. They don't read English. So why are these young people holding up signs saying, "Okay Boomer, time's up"? That's in English. Who's it for? Also, "Okay Boomer" is an American phrase. It's an American phrase, not a Nepalese phrase.
 
 In other words, they're doing this not to have impact locally in Nepal. They're doing this because someone's paying them to do this. It's being funded by Washington. Washington is like, "Okay, I'll pay you this amount of money if you give me a slogan, if you hold a slogan so I can show my boss that this protest is working."
+
+### Closing
 
 Also, guys, here's another sign: "We pay you flex enough." Another English sign. So again, why are they doing this when the local population doesn't even speak English? They're doing it for Washington. They're not doing it for their own country. They're doing it for their masters in Washington.
 
@@ -396,4 +408,3 @@ Any more questions, guys?
 Okay, great. So there's no class on Thursday and next Tuesday, but we'll come back next Thursday and we'll continue this.
 
 All right. Thank you.
-

@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=aQSDSqdlFxk"
 video_id: "aQSDSqdlFxk"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,25 @@ part_role: world-war
 # Game Theory #13: Epstein's World
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Theory Survey
+
+
+
+### Core Model
+
+
+
+### Examples
+
+
+
+### Closing
 
 Today I want to look at three questions. Why did this war between the United States and Iran start? How will this war end? And what will happen after this war ends? And to answer these three questions, we need we need to discuss the nature and structure of our reality. And the first thing you need to understand which is very hard is that our world is a hallucination.
  It's a collective fantasy. All right. So to understand this idea let's look at Plato's allegory of the cave. Okay. Plato, sorry, [clears throat] Plato's allegory of the cave. And so in this cave, we're deep inside the earth and it's dark. There's some light coming in, but not much. And we're all chained in a line together, okay? And there's about a million of us.

@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=PlMNq44tBG0"
 video_id: "PlMNq44tBG0"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -19,6 +20,21 @@ civilization_support: true
 # Secret History #17: Literary Genesis
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 Today we do the Bible, the most influential book in human history, and we'll discuss why the Jewish people are so creative. Today, the most creative people in the world are Jews. In the past 200 years, um there have been three extremely influential individuals. Karl Marx, Sigmund Freud, Albert Einstein.
  They're all Jews. So why are Jews so creative? And the answer is the Bible. Okay. So um let me provide some background as to how Israel, the nation of Israel was first formed. So remember um the Bronze Age, the Middle East was the center of the world. Okay? So you had Egypt, then you had the Levant. Up north is Anatolia.

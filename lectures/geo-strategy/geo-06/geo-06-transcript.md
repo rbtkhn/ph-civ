@@ -28,6 +28,20 @@ Source timestamps:
 ## Part I: Full transcript
 
 
+### Opening
+
+
+
+### Core Analysis
+
+
+
+### Strategic Implications
+
+
+
+### Closing Questions
+
 let's start class so um last week we discussed the possibility that um Trump will become president and we discussed that um if he does become president in a second term there will be a very strong likelihood that the United States will go to war with Iran now um the question today is okay okay Trump wants to go to war but will the US military agree ultimately it is the Pentagon that must implement this war and if there is enough opposition from the military then um it is very hard for Trump to push a war I want to make the argument today
 that the military will go along with the war and it has to do with what happened in 2003 okay so let's let's go back to the last time that America fought a major war it was the 2003 invasion of Iraq called operation Iraqi Freedom okay so at that time uh President George Bush and his people uh Vice President Dick Cheney uh Secretary of Defense Donald Rumsfeld and his Deputy Paul Wolfowitz they want this war and they go to the Pentagon and and and say listen we we want this war give us a plan and the Pentagon uh the generals they're very
 experienced and conservative people and in general when you fight a war there are three things you must focus on okay the first idea is mass forces when you fight a war you want to overwhelm your enemy so when we say Mass forces we basically mean infantry and armor most wars um are fought using tanks and soldiers and um the Iraq Army at that time had about 370,000 soldiers okay and in general the general rule thumb when you invade a country is you want to have a three to1 Advantage okay the reason why is that when you invade

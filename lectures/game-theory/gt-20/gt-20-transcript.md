@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=ue8y5e3HnHE"
 video_id: "ue8y5e3HnHE"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,25 @@ part_role: world-war
 # Game Theory #20: Mid-Term Examination
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Theory Survey
+
+
+
+### Core Model
+
+
+
+### Examples
+
+
+
+### Closing
 
 Today is our midterm examination. A
 chance for you to question and examine
@@ -1896,4 +1916,3 @@ All right. Okay. All right. So, that is
 it. Thank you for the midterm. Um, and I
 will see everyone the week after. Okay,
 so we're taking a break next week.
-

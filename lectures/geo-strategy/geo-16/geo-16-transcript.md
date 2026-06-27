@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=Kw-TiN6dEcM"
 video_id: "Kw-TiN6dEcM"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Geo-Strategy #16: Newton's Divine Plan
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Core Analysis
+
+
+
+### Strategic Implications
+
+
+
+### Closing Questions
 
 So things seem to have quiet down in the Middle East. Um, but as I said, all sides, United States, Iran, and Israel have committed to war. And the ceasefire, it's really a way to attempt to control the narrative. Now, um, as you know, the Iranians have responded to the American bombing.
 Um, the Iranians notify the Americans that they would send missiles against US bases, empty US bases in Qatar. And um that seemed to be the full extent of the Iranian retaliation. And Donald Trump was very pleased with this very tet response. And um many of you might be wondering why was the Iranian response so tipp tippid and so muted.

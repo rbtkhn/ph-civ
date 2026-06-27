@@ -20,6 +20,9 @@ part_role: "world-war"
 
 ## Part I: Full transcript
 
+
+### Opening
+
 Last semester we looked at secret societies and esquetology, secret history. This semester we're doing game theory. In this class I want to connect the two and show you how the world works.
 
 Okay. So, first thing I want to do is go over some popular conspiracy theories about how the world works. And um there are different variations.
@@ -105,6 +108,8 @@ All right. So now I'm going to go much more specific. Okay.
 All right. So there's another way to frame this which is to say that in the world in society there are different groupings. Okay.
 
 So, think of politics, think of finance, science, religion, military.
+
+### Theory Survey
 
 Okay. Now, the thing about each of these different fields or disciplines is that you have a diversity, a range of behavior with different belief systems.
 
@@ -194,6 +199,8 @@ It is only on that condition that it ceased to be a st a stereial love of scienc
 
 Okay. So, Freemasonry is the ultimate religion. Why? Because it encompasses all previous religions including uh Egyptian uh hermitism. Okay.
 
+### Core Model
+
 Including the Greek mystery cults of Pythagoras uh including the Cabala.
 
 Okay. So it has scor it has scouted the entire history and found the best ideas of humanity and put them together to create Freemasonry. And the ultimate goal is for each of us to become a stone stoic unrelenting perfect faith.
@@ -279,6 +286,8 @@ All right. So again, the thing about civil societies is that those who are the m
 All right. So can you continue? Um yeah. You have heard more than one definition of Freemasonry.
 
 The truest and the most significant you have yet to hear it is taught to the entered apprentice, the fellow craft and the master. And it is taught in every degree through which you have advanced to. It is. It is a definition of what Freemasonry is, of what its purposes and its very essence and spirit are. And it has for every one of us the forces and uh sens sensit sensity of a divine law and impose on every one of us a solemn obligations.
+
+### Examples
 
 It is symbolized and taught to the apprentice as well as to you by the compass and the square upon which as well as upon the book of your religion and the book of law of the Scottish Freemasonry. You have taken so many obligations as a knight you have been taught by the swords the symbols of honor and duty on which you have taken your vows vows.
 
@@ -367,6 +376,8 @@ You don't have to rush. Yeah. Okay. Just just read slower. Keep on going. That i
 It stretches stresses man's capacity to shape his material destiny fit. Okay. Stop. Okay.
 
 All right. So this is an amazing passage.
+
+### Closing
 
 Okay. This is a guy who is national security adviser to Jimmy Carter at this time. This is the height of the cold war. America is fighting a war with the Soviet Union and the National Security Advisor of the United States to Jimmy Carter says that democracy is bad. Marxism is good.
 

@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=ZPrecJHUOUs"
 video_id: "ZPrecJHUOUs"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #27: Empire of Evil
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 We've discussed transnational capital, the British Empire. We've also discussed the Sabbatean Frankists. Today we will put the two ideas together and show how the alliance between these two different forces have created modernity or the ideas that underpin our society today including Marxism, Darwinism, individualism, liberalism and Freudian psychology.
 All right. So, we will talk a lot about Jews today, but just as a caveat, it's important for us to remember that it's easy to see a Jewish conspiracy everywhere. But things are actually much more complicated than that. The argument I want to make you to you today is that the Jews are construct and tool of empire.

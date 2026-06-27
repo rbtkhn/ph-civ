@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=ZgvAHZqaawA"
 video_id: "ZgvAHZqaawA"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Geo-Strategy #18: Is Putin the Ubermensch?
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Core Analysis
+
+
+
+### Strategic Implications
+
+
+
+### Closing Questions
 
 two big news to report. The first big news is that there's chatter now that the Israelis will resume air strikes against Iran very very shortly. And this comes after Netanyahu's visit to Washington last week where he presumably received permission to do so from the Trump administration.
 Second big news is that NATO will resume weapon shipments to Ukraine. Trump has given Putin a 50-day ultimatum to end this war in Ukraine or else Trump will be really really angry at him. I understand that there are many who are disappointed that Trump has not been able to end this war in Ukraine in one day as he promised um during the campaign.

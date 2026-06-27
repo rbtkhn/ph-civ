@@ -21,6 +21,13 @@ date_inference_note: "Publication date inferred from lecture references to 'next
 
 ## Part I: Full transcript
 
+
+### Opening and Thanks
+
+
+
+### Substack Questions
+
 So, welcome to the final examination. Before I start, I want to I want to thank the people. Uh, first of all, I'd like to thank Alan and Vincent for being in this class all year long. Uh, you have been consistent and hardworking uh throughout the year. So, thank you very much. I'm sorry if now and then I lose my temper.
 Um, but I really appreciate your dedication. I've really appreciated uh the questions you've asked in this class. I I would like to thank the school for giving me this platform and this classroom and this smartboard for the past four years, believe it or not. But I've been here for 4 years in this classroom. Uh the school has been very generous with me letting me teach whatever I want including the great books including geost strategy including game theory including uh secret history.
 I'll be leaving the school at the end of this week. So this is my second last class. Tomorrow will be my last class. Um the reason why I'm leaving the school is I feel that I have a global audience and I want to grow this global audience by going out go going out into the world and engaging people outside in the world.
@@ -62,6 +69,12 @@ So could America change? Possibly. But it would take tremendous leadership; a fi
 Okay? And it's these this conflict among these vested interests what we call elite over production. That's what leds what leads to decline. And the reason why it leads to decline is they're so focused on their internal conflict. They ignore the larger picture and they only win if they're focused on winning. So they're willing to do whatever it takes to win even if it means the destruction of their own civilization.
 All right? They're willing to sacrifice everything, anything in order to win. What is a billionaire? A billionaire is a person who is willing to kill his own grandmother for money. Okay, that's what a billionaire is. All right.
 From um I I'm sorry, I can't pronounce this person. Okay. All right.
+
+### YouTube Questions
+
+
+
+### Closing
 
 Um why do you never mention Vedic eschatology? Um it's very very important. Yes. And Vedic thought has spread across Europe and America through new age collectives and movements. Um, do you think these will shape the world in the coming decades? Um, are you overlook them because your don't seem aggressive enough to move history? Okay.
 So, um, one thing I want to clarify is that the way I teach is I see learning as a journey. Okay. So, when I teach, I'm asking questions and I'm trying to work out the answers myself. So it isn't like I know all the answers and then I'm giving you a glimpse into my mind. That's how it works. Okay? I myself am working with certain assumptions.

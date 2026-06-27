@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=zAer-Mqe7tQ"
 video_id: "zAer-Mqe7tQ"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -19,12 +20,25 @@ part_role: world-war
 
 ## Part I: Full transcript
 
+
+### Opening
+
+
+
+### Theory Survey
+
 When the Berlin wall fell, there was an American State Department official named Francis Fukayama and he wrote a very influential essay called the end of history. And for decades, capitalism was in a struggle with communism. And in his essay, Fukuyama argued that with the triumph of capitalism, we've come to the end of history.
  Meaning, we now know what humanity most strives for, which is a liberal consumer democracy where people feel empowered to have the freedom to buy whatever they want. And this for him was the apex of human civilization. And this creates what is called the unipolar moment where America is the global hedgeimon.
  And it creates a world that is heavily glo globalized, capitalistic um and very individualistic. And this is a very unique moment in human history. And we've come with this one I ran to the end of this moment. All right. So let me first explain the three major characteristics of this unipolar moment. The first is what I call PAX Americana where American power American military might guarantee peace in the entire world.
  And this is unique in human history where for the first time there was a power that was able to dominate the entire globe and America was able to do so through three mechanisms. Okay. The first is of course its military power but but specifically aerial supremacy. Okay, which is backed up by special forces and the CIA. So the CIA was able to infiltrate every single government in the world and identify who would be loyal to the American Empire and then promote this person.
  If there are individuals that challenged the American Empire, these people were demoted or eliminated. nations that prove problematic for example maybe Syria or Libya spe special forces went in to sabotage the economy and then aerero power went in destroy the government and um so this past Americana now what's good about this is that it did bring peace to very problematic regions for example in in East Asia Japan South Korea North Korea China Vietnam um to not compete against each other.
  They just participate in global economy which brought tremendous wealth and prosperity to uh the East Asia region. This is true also in Europe uh and South America as as well. Okay. So um a supremacy then you have something called surveillance and basically what I mean by that is the internet. So believe it or not, but the internet was created not not to actually help you communicate and to watch pornography.
+
+### Core Model
+
+
+
+### Examples
 
 was actually to to have um a mass surveillance system over the entire human population so that the Pentagon the military knew exactly the vibe or the culture uh the attitudes the emotions of each region and through social media through mechanisms such as Facebook and Twitter they were able to manipulate certain uh emotions. Okay.
  So the second mechanism is mass surveillance through the publicization of the internet. Um and the third is something called a rulesbased international order. Okay. And what this means is American power hid behind multilateral organizations such as the uh United Nations such as the World Bank, such as the World Trade Organization.
@@ -58,7 +72,9 @@ because Japan in Japan this problem is the most present. They are the um um the 
  So basically, we're in a new world because our world today is built entirely entirely on access to cheap petroleum products, cheap energy, right? Why are why are you allowed to be in school learning from me rather than the fields farming? Because of energy, right? Because of oil from the Middle East. Your computer is based on what? >> Petroleum.
 This camera filming is based on what? Petroleum. This pad petroleum. This clothing petroleum. The medicine you eat petroleum. The food that you eat comes from fertilizers which is based also on petroleum. So basically everything in this room everything in the world is based on cheap petroleum. The entire global economy the main foundation is cheap petroleum.
 
- So what happens in a world where petroleum is cheap? Well, now you have a you need a massive rebalancing in the world. Okay. The other thing about the world is this is the GCC countries. Okay. um uh the Middle East countries. And as you can see, this is really important to see is um around the year 2005, they started to have massive massive um account surplus, meaning they were selling so much oil they couldn't really spend all their money.
+### Closing
+
+So what happens in a world where petroleum is cheap? Well, now you have a you need a massive rebalancing in the world. Okay. The other thing about the world is this is the GCC countries. Okay. um uh the Middle East countries. And as you can see, this is really important to see is um around the year 2005, they started to have massive massive um account surplus, meaning they were selling so much oil they couldn't really spend all their money.
  Do you guys know why? What? Why was this happening? What happened in 2005, 2004 that made these countries extremely wealthy? All right, China. Okay, think about it. What's China doing? Well, China in the 80s and '90s was putting factories, right? But then China setting up this account surplus. So now China wants to develop its industrial base, right? And how do you do that? by importing oil from the GCC, right? And that's why we have these skyscrapers, these malls, these roads, okay? Because China was able to import all this cheap oil from the GCC. And
 then the GCC would take this money, okay, and then invest it back into the American stock market. But not just that, but they would invest it in Africa. They would in invest in infrastructure. So for the longest time the Chinese economy and the GCC are the two main pillars of the entire global economy. Okay.
  And what this means is that if the GCC no longer is able to uh export oil, this have a major impact on China and together the two are going to have a major impact on the globe economy. Okay. Basically the glob economy is dead. All right. Okay. Another thing that you may not be aware of is today flying around the world. It's very very simple to do.

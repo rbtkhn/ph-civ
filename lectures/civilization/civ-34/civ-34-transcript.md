@@ -38,7 +38,7 @@ continuation of the Roman Empire in
 Western
 Europe so the um when we think about the
 
-### holy-roman-western-continuation
+### Holy Roman Western Continuation
 
 Holy Roman Empire in the west we think
 of the famous Voltaire uh quotation about
@@ -55,7 +55,7 @@ okay so um the Holy Roman Empire was
 started in the year
 800 um when the Frankish King
 
-### charlemagne-crowned
+### Charlemagne Crowned
 
 Charlemagne was crowned Holy Roman
 Emperor by Pope Leo theii in
@@ -122,7 +122,7 @@ the cathedral and the walls bounce the
 um voice back and so the parishioners
 the people who listen to the priest they
 feel they're surrounded by the voice of
-God okay the V the The Voice literally
+God okay the V the Voice literally
 enters you and makes you feel
 Transcendent it makes you feel you are
 moving towards heaven that you're
@@ -183,7 +183,7 @@ the same is true in China obviously
 right
 okay um surrounded by mountains to the
 South to the west and to the North and
-then the sea okay so for most of of its
+then the sea okay so for most of its
 history China was protected from outside
 Invaders this is all especially true in
 Humanity's greatest Empire called the
@@ -344,14 +344,14 @@ defeat them and expand okay but this is
 a process that will take centuries
 through multiple Kings and through
 multiple dynasties but
-eventually um the the Franks will expand
+eventually um the Franks will expand
 out from Germany and Conquer most of
 Europe not all of Europe they will
 conquer uh most of Europe and in the
 process what's interesting for us is
 they will make contact with the once
 isolated um Scandinavian
-countries um the the the Norsemen okay
+countries um the the Norsemen okay
 they're called the Norse we we often
 refer them to as Vikings and we will
 study them next class okay but now
@@ -434,7 +434,7 @@ to um get them to to agree to make you
 King and so the way they did that was by
 having these elections where the Kings
 got together they call Prince electors
-and they p take the the king and this is
+and they p take the king and this is
 also true for the Catholic Church where
 different Bishops would get together and
 they would elect the pope okay but but
@@ -572,7 +572,7 @@ were enslaved and sent to Rome and the
 Romans released the Jews from slavery
 because they didn't like Jews okay and
 Jews became traitors and set settle um
-in other parts of of of the Empire okay
+in other parts of of the Empire okay
 so the Romans and the Jews didn't get
 along and so there's this constant
 conflict going
@@ -818,7 +818,7 @@ okay the last thing about the church
 that's very important is
 um
 
-### catholic-church-coopt
+### Catholic Church Coopt
 
 in trying to co-op new people it
 recognizes that it must first Co-op the
@@ -831,7 +831,7 @@ moment okay so it's possible to switch
 leaders if the leaders aren't performing
 a good
 job what the church does is in exchange
-for Jing the CH the the church the
+for Jing the CH the church the
 church can make these leaders who again
 are only temporary into a hereditary
 Elite meaning their advantages and
@@ -880,7 +880,7 @@ its uh Prestige right this is where
 Jesus uh died and this is the this is
 where the uh Jewish and Christian
 religions were born okay so um
-throughout most of of this history these
+throughout most of this history these
 are the five major churches and for most
 of this history they are independent of
 each other there are other churches in
@@ -982,7 +982,7 @@ idea of the great schism which happens
 around 1,000 all right is that that
 these two churches
 
-### rome-constantinople-schism
+### Rome Constantinople Schism
 
 Rome and Conant pople
 permanently break off they refuse to
@@ -1195,7 +1195,7 @@ apparently he was illiterate every day
 he had the city of God read to him
 that's how much he love city of God and
 
-### augustine-city-of-god-blueprint
+### Augustine City Of God Blueprint
 
 he basically made city of God the
 official text of the Holy Roman
@@ -1315,7 +1315,7 @@ before um the Kings decide to assert
 their authority over
 everyone okay all right so the Holy
 
-### useful-fiction-close
+### Useful Fiction Close
 
 Roman Empire was a useful fiction for
 its time in order to um present the idea

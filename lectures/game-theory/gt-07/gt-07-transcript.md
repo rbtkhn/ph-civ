@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=ijnkCt1QK6k"
 video_id: "ijnkCt1QK6k"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,25 @@ part_role: civilization
 # Game Theory #7: America's Game
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Theory Survey
+
+
+
+### Core Model
+
+
+
+### Examples
+
+
+
+### Closing
 
 Okay. So, um let us review last class. So, last class we discussed the British Empire and how it ultimately triumphed over its main rivals who were the French, the Spanish and the Dutch because of three major uh powers. Okay. The first is the Bank of England. What made the Bank of England so important is that it could absorb foreign capital, okay, from all around the world.
 So at first it absorbed capital from the Dutch Republic, but then if you uh were a French aristocrat, if you were the Catholic Church, if you're the Habsburgs, you could all move your capital to England where it would be safe because it' be be protected by the law. Okay, that your property rights. Um and when Britain became an empire, this was important because uh local elites in China, in India, in Southeast Asia would help the British because they were incentivized to do so.

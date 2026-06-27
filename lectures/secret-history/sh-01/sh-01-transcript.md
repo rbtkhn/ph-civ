@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=lt8XLz78ZvY"
 video_id: "lt8XLz78ZvY"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #1: How Power Works (4K Re-Upload with Audio Fixed)
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 Good morning class. Welcome to our first class. And today what I want to do is provide the framework for how we will learn the semester. What are we learning? How are we learning? Why are we learning? All right. So this is a class of ideas. So, it's really important for you to pay attention and understand how these ideas connect with each other.
  If I'm not being clear, ask me a question. In fact, make it a habit to ask as many questions as possible because that way you will learn more. Learning will be more fun for you and learning will be much more clearer to you. Okay? So, let's get in the habit of asking questions. So wherever I am confusing, wherever I'm speaking too fast, wherever you don't understand, interrupt me.

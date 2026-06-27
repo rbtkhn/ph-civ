@@ -33,6 +33,29 @@ Source timestamps:
 - Pax Americana and the late lecture close: `00:37:11.079`
 ## Part I: Full transcript
 
+
+### Opening
+
+
+
+### Augustine and establishment Christianity
+
+
+
+### Reformation and dissenters
+
+
+
+### Premillennialism and dispensationalism
+
+
+
+### Inequality, Christian Zionism, and the Middle East
+
+
+
+### Pax Americana and the late lecture close
+
 okay um let's start class we're continuing the United States Iran War um as I've said in in the previous class the United States will invade Iran we don't know when it might be two years from now it might be six years from now okay but eventually it will happen and in today's class I want to go over some of the reasons why the United States will invade Iran and um I believe that there'll be three major reasons okay uh the first major reason is the United States must defend its Empire second major reason is that the United States
 will be pressured by its allies mainly Saudi Arabia and Israel into invading Iran and the third reason is um the Israel Lobby okay so in this in today's class I want to explain to you what the Israel Lobby is but first I need to I need you to understand what Christianity is okay so remember that Christianity it's a religion about a man Jesus who we know very little about okay we think that he was born in 4 BCE and then he died in 31 uh BC uh sorry CE Comm era um we know that he is from a place called Galilee we know know that the
 Romans crucified him and that's about it okay uh what his Believers say is that he is God come to Earth and he was preaching a gospel or a message that God is returning the Kingdom of Heaven is coming and after he was crucified he was resurrected and then he went to heaven and what's really important is that Jesus with will eventually return okay and this is called Second Coming okay this is the second coming of Jesus and when he comes he will bring Heaven onto Earth and we will all live forever in peace okay so that's the story of Jesus

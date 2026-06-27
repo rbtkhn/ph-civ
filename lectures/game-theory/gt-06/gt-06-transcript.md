@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=CbamEcNuDXo"
 video_id: "CbamEcNuDXo"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,25 @@ part_role: civilization
 # Game Theory #6: The World's Bank
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Theory Survey
+
+
+
+### Core Model
+
+
+
+### Examples
+
+
+
+### Closing
 
 Today I want to examine why you Chinese students behave the way you do. Okay. So believe it or not, but the way that you behave, the game that you are playing, it's strange. It's weird. So I'll point out three things that you do that don't really make any sense. The first thing that you do is you spend a lot of your time learning English.
 In fact, you probably spend more time learning English than you do learning Chinese. That's weird. And I've asked Chinese students before why they are so focused on learning English. And their answers usually are, I want to learn knowledge. I want to go abroad. I want to communicate. I want to use the internet.

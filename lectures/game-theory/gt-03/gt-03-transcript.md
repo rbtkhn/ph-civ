@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=MX93U4KzA28"
 video_id: "MX93U4KzA28"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,25 @@ part_role: civilization
 # Game Theory #3: Rich Dad, Poor Dad
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Theory Survey
+
+
+
+### Core Model
+
+
+
+### Examples
+
+
+
+### Closing
 
 Today we look at the question of success. Okay, the question is who succeeds and why? Okay, so we we've done a lot of research and we've discovered that people who who succeed um succeed for certain reasons. So there is a Colombia psychologist named Walter Mitchell and he devised a very famous experiment called the marshmallow test.
 In the marshmallow test, it's very very easy. Okay. So imagine a room and I invite a fouryear-old or 5-year-old to come into this room and have a conversation with him or her. I ask him, "How's your mother? What do you like to do?" And it's a very good conversation. Then suddenly I get up and say, "I'm really sorry, but I need to go across the hallway for another meeting, but I'll be back. Okay? So just wait for me.

@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=6PdfD44DkqA"
 video_id: "6PdfD44DkqA"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,9 @@ part_role: world-war
 # Secret History #6: The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)
 
 ## Part I: Full transcript
+
+
+### Cold Open
 
 So, um, we continue the topic of secret societies and we're going to focus on their secret weapon, which is mind control. They're able to turn you into a programmable robot that they can use as a weapon. Um, but before I start that, let's review what we discussed last class. This is a class of ideas and concepts.
 
@@ -71,6 +75,8 @@ If you have multiple personalities, you're a psychopath. All right. So I'm going
 
 Okay. So, if you look at mythology, Egyptian mythology is different from all other world mythologies. There's Greek mythology, there's Chinese mythology, there's Babylonian mythology, but Egyp Egyptian mythology, it's unique. Okay? So, I'm I'm going to explain to you the basic contours of the mythology.
 
+### Lecture Block
+
 Very simple. So, there are three main characters in the mythology. There's Rah, the sun god. There's Osiris. And there's Horus. Okay, these are the three main gods that Egyptians worship. Rah is what gave life to the universe. He's a sun god. Osiris is the god of civilization. He built Egypt.
 
 Okay? And then Horus is the god of kingship of empire. He's the one who brings stability to the throne. Okay. So there are different stories associated with Rah, Osiris, and Horus. Rah, what he does is every night he goes into the underworld and he fights the serpent, Apophis. Every night, Apophis, the serpent, he's trying to swallow the sun to prevent the sun from rising.
@@ -123,6 +129,8 @@ Would you still be the best soccer player in the world? The answer is yes, you w
 
 Because what I do is I make that person take a lot of psychedelics and then train that person to shoot someone with a gun. Okay? And then while he's shooting that person, I use the word acadabra. So what happens is the person if he's walking has a gun, all all they do is use the word acadabra. Takes a gun and shoots someone. Okay? All right.
 
+### Q and A Block
+
 So through programming, I can turn anyone to a robot. I can turn someone anyone into a sex robot, a killer robot, even a sex killer robot. Okay? Okay, I can do all this. >> And that's this great secret here. All right, so 5,000 years ago in Egypt, they were doing this. And but again, okay, it's what's really important is this is all speculation.
 
 And it's really important for you to doubt and question me because we don't actually know that this happened. All the records have been lost to us. And obviously, this would be the greatest state secret of Egypt. But from my perspective, it makes sense because the Pharaoh needs to be like this in order to survive, right? Because the Pharaoh has brothers who want his throne.
@@ -174,6 +182,8 @@ So, we we've arrested them and we punished them. But then they discovered that t
 So, what is going on here? This is not something that happened randomly. It was designed by the government by the CIA. So, why is this happening? Well, they call it enhanced interrogation. Okay, this is a book, The Dark Side by Jane Mayer, who's a fantastic reporter. I I highly recommend this book. Uh she's a reporter for New Yorker and spent years looking into why this torture happened.
 
 And what she argued is it's an experiment to change the mentality of these terrorists. And the theory is called learned helplessness. You can basically take someone like Rah, okay, the virtuous hero and turn him to Osiris through certain techniques. Okay, remember Rah, the identity is the virtuous hero who fights Apophis every day.
+
+### Closing
 
 Osiris is a person who gets tortured by Set every day. Okay. So the goal of this experiment is to turn Ra into Osiris. [Music] And the person who help learn helplessness is also the person who developed a new theory called positive psychology. His name is Martin Seligman. Okay. So positive psychology that you're learning in school is brainwashing.
 

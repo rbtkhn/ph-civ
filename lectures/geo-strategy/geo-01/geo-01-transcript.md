@@ -37,6 +37,32 @@ Source timestamps:
 ## Part I: Full transcript
 
 
+### Opening
+
+
+
+### Asymmetrical warfare and empire inflexibility
+
+
+
+### The Iran strategy matrix
+
+
+
+### Alliances, Russia, and China
+
+
+
+### Global opinion, Gaza, and weakening the enemy
+
+
+
+### Rules of engagement, strategic ambiguity, and hubris
+
+
+
+### Overextension, debt, civil unrest, and closing questions
+
 okay so um as you know from your research on April 1st the Israelis struck the Iranian Embassy in Damascus Syria killing seven people including two commanders this is an active War because the embassy is considered Iranian territory and never before has this been done intentionally okay and this follows um The Killing the assassination of their General Qasem Soleimani in 2020 right this is when the Americans launched a drone strike against him in in Baghdad and he was really the top um one of the top Iranian generals and what both of these um
 incidents show us is that the Americans and the Israelis have dominance over Iran okay so military dominance so the first thing is they have technology right so te technologically America and Israel are so much Superior to Iran um so that there's a jet that went from Israel and went to Damascus to car out the strike now if you did the research you would know that the can Embassy is right next to the Iranian Embassy and the um strike was so precise that it only hit the Iranian Embassy and didn't touch anything else okay that's a
 position strike that's how powerful the technology that the Americans and Israelis have okay but the other thing that's important is the idea of intelligence so how did the Israelis know that these commanders would be there at that time right that's intelligence and intelligence comes in two forms right right there's the idea of human and then signals signals is basically I can listen in on your cell phone I can track where you go I know where your car is right that's signals electronic intelligence the other's

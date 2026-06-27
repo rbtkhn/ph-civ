@@ -28,6 +28,20 @@ Source timestamps:
 ## Part I: Full transcript
 
 
+### Opening
+
+
+
+### Core Analysis
+
+
+
+### Strategic Implications
+
+
+
+### Closing Questions
+
 okay um let's start class so let's review where we are um we are discussing or exploring why the United States would want to invade Iran and so far we have two good reasons the first good reason is called the Israel Lobby um there are in the is Lobby millions of Christian zionists who believe that a conflict in the Middle East especially between Israel and Iran will bring Jesus back to Earth they want their God Jesus to return to Earth and they believe that a war in the Middle East will force him to return that's the first reason second
 reason is the idea of an of Empire America is an Empire and as an Empire it has a lot of privileges for example it can just print as much money as it want right US dollars right now uh America is $34 trillion dollar in debt and the debt is growing by trillion dollars every two months America can do this as long as is as it as long as it is an Empire as long as people fear America but as we discussed last class with Putin's invasion of Ukraine uh people are now starting to rebel against the empire and therefore America
 must demonstrate it still is the military hegemon of the world and therefore I can do this by um invading Iran okay today we look at the third and final force driving conflict in the Middle East and it's really the conflict between s Arabia and Iran most people think that Iran Iran's major enemy in the Middle East is Israel in fact Iran's Iran's major enemy is Saudi Arabia these two are bitter Rivals and to understand why we have to look at their history okay so the year is 1979 at the the start of of at the start

@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=E83dpuyvpiM"
 video_id: "E83dpuyvpiM"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Geo-Strategy #20: Why the West is Doomed
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Core Analysis
+
+
+
+### Strategic Implications
+
+
+
+### Closing Questions
 
 Good morning, YouTube. So, I know that you flocked to this channel because I am such a sunny and optimistic person. I bring cheer in a world of gloom. You may face some difficulties in your life, but you know that when you watch my videos, I'm going to tell you how great the world is. Unfortunately, today um it's all going to be doom and gloom.
 I'm going to talk about how the western world um is going to collapse and there's nothing anyone can do about it. So, let me start with a concrete example. I live in Canada and um these past few years I've just seen Canadian society um get worse and worse. A lot of the issue uh is this relentless immigration these past five years. Millions of people have come into this country seeking a better life.

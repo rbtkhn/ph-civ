@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=ihh1fdW4-cA"
 video_id: "ihh1fdW4-cA"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,9 @@ part_role: world-war
 # Secret History #10: The Conspiracy of Evil
 
 ## Part I: Full transcript
+
+
+### Cold Open
 
 Okay. So, uh today we we are looking at three major events in American history. Uh the moon landing, the assassination of JFK, and 911. Now, as you may know, the official story is something that a lot of people do not accept. Okay? So, we're going to look at the official story and then we'll see some of the issues with the um official story.
 
@@ -79,6 +83,8 @@ Okay, that's number two. Number three is do you see his reaction? He is a traine
 
 That's very strange. Okay, I'm not saying that this is a conspiracy, but I'm just saying how this doesn't really add up. There are lots of questions that are raised by this. Also, um JFK has a brother, Robert F. Kennedy, and in 1968, Robert F. Kennedy runs for president, and it seems as though he's about to win the Democratic nomination, and then he gets killed, too.
 
+### Lecture Block
+
 And again, the question is how did this happen? And it's a mystery how this man named Sirhan Sirhan and he does not look like a killer. Okay. Lee Harvey Oswald does not look like a killer. He does not look like a killer either. Okay. But they charge him with a crime and he's still in prison.
 
 Even today, he's saying, "I didn't do it." Okay. All right. So, now let's look at 911. And as you can see from some of the video footage, it's very suspicious what happened. There's other things that are suspicious about what happened. First of all, a month after the Twin Towers came down, all that concrete and steel were shipped to China.
@@ -139,6 +145,8 @@ Okay, so even today people are still writing books about JFK. People are still w
 
 Okay, that's the idea of branding. So that's what they're doing here. They're trying to control your reality through these events. Okay, does that make sense, guys? >> Okay, any questions? All right. Now, what I want to do is look at a question. Okay. Let's look at certain questions. Why is this happening? All right.
 
+### Q and A Block
+
 So, let's look at JFK and 911 and the moon landing. What are common characteristics about these three events? Okay, the first thing of course is that they are spectacles. You can say that they are rituals. A lot of care, a lot of attention was put into preparing these rituals. So for example, the JFK assassination, look at the location, right? Look at the um choreography.
 
 Okay, they did it purposely in front of people but also in front of cameras so that it'll be remembered forever. Okay, the moon landing as well, 911 as well. Okay. Um that's the first thing. Second thing is the idea of numerology. So when you look at these events, what you'll find is that numerology is very important. Okay.
@@ -198,6 +206,8 @@ Okay? So this is what keeps the system intact. Okay? So this is how secret socie
 Well, the problem is that bureaucracies become top-heavy. Too many managers also the idea of silos. So each department does its own thing. Okay. And as I said also bureaucrats don't want to do any work. >> So imagine if your secret society how much you can benefit from the system, right? because you want to work because you want to achieve your vision and you're able to work with other people secretly.
 
 Therefore, you're able to promote each other into position of power and because these departments are all siloed off. They're all independent. You're able to control the entire bureaucracy because you're able to coordinate but they're not. >> Okay, does that make sense? So what we learn is that in history as societies become much more mature, as they become much more bureaucratic, secret societies have much more power and in and today we are living in a heavily bureaucratic world and therefore the secret societies
+
+### Closing
 
 have more and more power. Okay? >> And um does that make sense? The other thing that we need to remember is that um there are thousands and thousands of secret societies. Okay. So, so let's name some of them. The Freemasons, the Jesuits, uh the Mormons, the Frankists. Okay, lots and lots. Okay, we'll we'll we'll go over each one later on the semester.
 

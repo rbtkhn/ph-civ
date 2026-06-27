@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=z0AwFin83lo"
 video_id: "z0AwFin83lo"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #20: The Hellenistic World
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 Good morning. So um let us review what we learned last class and then we will discuss the Greeks today. So um as I discussed last class, there are three major principles to geopolitics and once you master an understanding of these three principles then um you will see the world much more clearly. Okay. The first idea is that the competition uh within states is greater than the competition um between or among states. Okay.
 And this is the idea of elite overproduction. So the historian uh Peter Turchin he looked at the fall of the Roman Republic, the French Revolution. He looked at many similar events in human history and he discovered that what drives crisis is the fact that you have too many elite competing for limited position of status and power. Okay.

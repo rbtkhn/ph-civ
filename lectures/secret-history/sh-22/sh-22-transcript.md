@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=pp0E1gb80WQ"
 video_id: "pp0E1gb80WQ"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #22: The Divine Spark of Jesus
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 Today we uh discuss the most famous person who has ever lived. There are about two billion people in the world today who believe that Jesus is God. And so a question then is there have been many famous individuals in history. Alexander the Great, Julius Caesar, Socrates, Zarathustra, Homer, but it is Jesus that most people worship.
  And the question we will look at today is why? Okay. So, what I want to do first is discuss the religion of Christianity. And as you know, I grew up in Canada and I studied United States. And so my entire life, um, Jesus was part of the culture. It was part of the society. [clears throat] And growing up in Canada, not being Christian, I really didn't understand Christianity.

@@ -20,6 +20,9 @@ part_role: "world-war"
 
 ## Part I: Full transcript
 
+
+### Opening
+
 We have seven more classes left in the semester. What I want to do in these last seven classes is look at the game theory of World War III.
 
 In this class, I want to introduce the chessboard - the players and how the game will be played over the next 5 to 10 years. The two major players in World War III are the United States and Russia. Right now, they are fighting a proxy war in the Middle East between Israel and Iran, where the United States supports Israel and Russia supports Iran. This war in the Middle East is going to spread and engulf the entire world.
@@ -60,6 +63,8 @@ More battlefronts will break out. As this conflict increases, the conflict betwe
 
 Another trend is the rise of Germany and Japan. Historically, the most powerful nation in Europe has been Germany. Historically, the most powerful nation in East Asia has been Japan. The United States defeated both in World War II. Now that the United States is at war with Russia, it needs proxies and allies to counter both the threat of Russia and China. The United States is going to arm Israel to counter Iran, arm Germany to counter Russia, and arm Japan to counter China.
 
+### Theory Survey
+
 New players will emerge that will take advantage of these conflicts to amass more power for themselves. Think about North Korea in East Asia, because North Korea is a military society and it can threaten South Korea, Japan, and China. In Europe you have Poland. In the Middle East you have Turkey. These nations are going to try to navigate all this chaos in order to amass more power for themselves. In other words, there is going to be complete chaos in World War III. We will discuss this more concretely for the rest of the semester.
 
 Now I want to explain the grand strategy of the United States, Russia, Iran, and Israel, because these are the four major players for the first five years. Other players will come in later, but for now these are the four major players. Once you understand the grand strategy of all four countries, it will be pretty easy to predict how they will behave as this war progresses.
@@ -99,6 +104,8 @@ The pawns - the sacrificial tools - are its allies, which are essentially its va
 This is the American system. We can understand how America will fight this war in Iran and how it will proceed to fight World War III, because grand strategy is not only how a nation will go out to dominate the world but also a constraint on their behavior. They can only operate within the contours of their grand strategy.
 
 This technate idea was posted in the 1930s and is being implemented right now in America by the tech bros - people like Larry Ellison, Sam Altman, Peter Thiel, and Elon Musk. The technate is basically an AI surveillance state. This allows for cohesion and control. Once that is achieved, North America becomes invincible and it can create as much chaos as it wants throughout the world. The goal is to create chaos so that the world depends on you for weapons, resources, and financing. If the entire world is forced to buy weapons and resources from you and you can lend money to them to do that, then you get rid of the $39 trillion debt. I am not saying this strategy will work, but this is how they approach it.
+
+### Core Model
 
 A grand strategy is based on the culture of your society. Grand strategy is not something you just make up. Grand strategy is an expression and a manifestation of your political system and your cultural system. We can understand the cultural system through the books that are read in society.
 
@@ -142,6 +149,8 @@ The grand strategy for Russia is the Third Rome strategy. Russia is the heir to 
 
 The attack vectors for Russiaâ€™s grand strategy are Orthodox religion, the geography of Russia (which encompasses all Eurasia), and artillery. Russia has the worldâ€™s best land army, and we are seeing that in Ukraine.
 
+### Examples
+
 The pawns are soldiers. Russia is not afraid to lose soldiers on the battlefield.
 
 Moscow is the center of the Third Rome. Russia spreads throughout Europe and throughout Asia. Russia is trying to reunite the different religious traditions - Greek Orthodoxy, even other Orthodox branches, the Catholic Church, Israel (because Israel is also a religious tradition), and Iran, which is a very important partner of Moscow. In the future, India could also be a partner because India is Hindu.
@@ -181,6 +190,8 @@ That is why Russia and America cannot reconcile. Not only do they have geopoliti
 Iran is a theocracy. A theocracy is good in that it creates cohesion in society, and they are able to survive major calamities because of their faith. Even though Americans and Israelis are destroying a lot of Iranian infrastructure, the Iranian people are still united. The theocracy is bad because it can lead to extremism, and extremism can divide a population. It is possible that as this war continues, a small minority of the population become extremists and they alienate everyone else.
 
 The grand strategy is Shia exceptionalism. Iranians are Shia Muslims. Shia Muslims believe that only a descendant of the Prophet Muhammad can lead the Muslim world and become caliph. Sunni Muslims, who are the majority in the Muslim world, believe that anyone who is qualified can become caliph. For the longest time, Shia and Sunnis have been at war with each other. Saudi Arabia is the center of the Sunni Muslim world, and Iran is the center of the Shia Muslim world. Iran is trying to topple Saudi Arabia and become the leader of the entire Muslim world because that is their destiny.
+
+### Closing
 
 The attack vectors for Iran are the terrain, their faith, and proxies (the Houthis, Hezbollah, and Hamas), drones, and missiles. The pawns are the drones and missiles.
 

@@ -28,6 +28,20 @@ Source timestamps:
 ## Part I: Full transcript
 
 
+### Opening
+
+
+
+### Core Analysis
+
+
+
+### Strategic Implications
+
+
+
+### Closing Questions
+
 okay so let's start class and start to think about the question how and why did the Iranian president uh Ebrahim Raisi died okay so um when you do history or you when you do analysis about current events you're always going to have you're always going to encounter three major problems okay um the first major problem is that there's very little information that you can work with Okay uh truth is very limited that's the first problem second problem is that um the information that you have may not be true okay so there's also
 misinformation that's the second problem and the third problem is that there's always going to be an official narrative that the media the government publishes and it may not be true but it's the one that people people accept okay so um the challenge for us today is we know that the Iranian primary president Ibraham r basic died and we will have to use analysis okay Game Theory analysis to figure out how he died and who might have killed him does that make sense but the problem again is we are working with very
 limited information that the Iranian government chooses to disclose to the public okay so what do we know we know that as a fact that our on May 19th the Iranian president was in uh Azan for a dam opening ceremony and then he got into into his helicopter and he was flying back into the country and when he was flying back there was an accident that caused the helicopter to crash killing all nine people on board including the president the foreign minister three crew members um the governor of a province um a local religious leader uh The

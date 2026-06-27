@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=B5FtHagng8c"
 video_id: "B5FtHagng8c"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #25: Capital of Evil
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 Today we discuss the idea of capital. Now you may have learned in economics class that a capital means money or wealth. What I want to argue to you today is that capital is really a mechanism to extract energy from you. Okay. And what's important to understand is that in a universe where consciousness is the universe, then what energy is ultimately is attention and focus.
 Okay? So it's not enough for you to work at something. You also have to concentrate on it in order for capital to extract energy from you. Okay. All right. So with this in mind, um let's discuss an example. All right. Okay. So most basic example is you have a landlord class and they're trying to extract energy from the peasant class.

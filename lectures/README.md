@@ -26,3 +26,20 @@ After section rails exist (pass **A** — slug retitle, anchor split, or future 
 - **Cursor skill (this repo):** [`.cursor/skills/ph-transcript-curation/SKILL.md`](../.cursor/skills/ph-transcript-curation/SKILL.md) — repo-native; not a mirrored junction skill
 
 **Lecture shapes:** monologue + slug rails (`civ-*`), flat monologue (`geo-*`, many `gt-*`), classroom Q&A with `>>` (`gt-29`, many `gb-*` / `sh-*`). Passes **B / C / D** when dialogue exists; pure monologue often stops at pass **A** + **D**. Commit prefix **`PH-TRANSCRIPT-EDIT:`**. Reference exemplars: `gt-29` (Q&A pilot) · `civ-59` (slug rails).
+
+## Rails everywhere (pass A)
+
+**Tooling:** [`scripts/lecture_section_pass.py`](../scripts/lecture_section_pass.py) · [`scripts/verify_transcript_pin_cites.py`](../scripts/verify_transcript_pin_cites.py)
+
+```bash
+python scripts/lecture_section_pass.py audit --strict
+python scripts/verify_transcript_pin_cites.py
+```
+
+Section maps: [`data/lectures/section-maps/`](../data/lectures/section-maps/). Runbook: [`docs/runbooks/ph-transcript-curation.md`](../docs/runbooks/ph-transcript-curation.md) § Rails everywhere.
+
+| Audit (pass A complete) | Count |
+| --- | ---: |
+| Title Case rails | **149/149** |
+| Pin-cite verifier | green |
+| Orphan transcripts (no card) | `gb-11`, `gb-12` |

@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=N4cs-8mrP_s"
 video_id: "N4cs-8mrP_s"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Geo-Strategy #14: WWIII Begins, Let's Game Theory
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Core Analysis
+
+
+
+### Strategic Implications
+
+
+
+### Closing Questions
 
 As you know, last night Trump ordered the bombing of three Iranian um nuclear facilities and this will mark the beginning of World War II. So I have both good news and bad news. Uh the bad news is we are now approaching the end of the world.
 The good news is this morning I will tell you how the world will end. So um I'm going to look ahead and ask the most pivotal question of this coming war which is will the United States use ground troops? And as we discussed many times before in previous videos if the United States were to use ground troops then they would lose this war.

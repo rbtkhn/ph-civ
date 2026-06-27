@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=LvHsg5qtDs8"
 video_id: "LvHsg5qtDs8"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -19,6 +20,21 @@ civilization_support: true
 # Secret History #11: Dawn of the Human Imagination
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 So today we start a series on the entirety of human history. We'll be going very fast and again what's important is for you to understand the concepts and so if there are ideas you don't understand it's very important that you raise your hand challenge me and ask for clarification. So we start off with the dawn of humanity and um this is Charles Darwin and arguably he is the most influential thinker of the past 200 years and the reason why is he wrote a book called the origin of species and he presents to us the theory of evolution
 and you all know the theory of evolution because they teach this to you in school and is embedded in our everyday lives. And there are three main ideas to the theory of evolution. The first is that it was all accidental. So you have these genetic mutations and the mutation that is best fitted to survive in environment would win out.

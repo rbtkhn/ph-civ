@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=WFWizN3QoPg"
 video_id: "WFWizN3QoPg"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #28: Pax Judaica
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 So, we come to the end of the course and all roads lead to Jerusalem. So, um we're going to take everything we've learned so far and combine it into a narrative about today and the future. So the grand thesis of this class is that six societies control the world and this something you can never prove. Okay, but let me propose a theory of how we can approach a truth.
  Okay, theory of truth. If you have a theory or an idea or a narrative and it does these three things then it approaches the truth. The first is that it connects the past. Okay. So does it help us put the past things that we know that happened in the past into a coherent story that we can understand? Okay. That's test number one.

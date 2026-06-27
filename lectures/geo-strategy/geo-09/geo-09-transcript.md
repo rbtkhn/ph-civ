@@ -27,6 +27,21 @@ Source timestamps:
 
 ## Part I: Full transcript
 
+
+### Opening
+
+
+
+### Core Analysis
+
+
+
+### Strategic Implications
+
+
+
+### Closing Questions
+
 so this week Vladimir Putin um in a speech said to his Russian people that um all Russia must now prepare for Total War even if you are not fighting uh on the front lines in Ukraine pretend you are and uh because of the speech there are many analysts who believe that Putin is preparing Russia for Total War and Total War means that every aspect of your of your Society is geared towards winning a war and so we had La we last had total war in World War II okay uh but not after that so why is Putin doing this now um there are some people who
 believe that it's because Russia is not doing so well in Ukraine they lack Manpower and and so they need to mobilize their society to fully win the war in Ukraine okay another explanation is that PL uh Putin knows that NATO is preparing to send reinforcements to Ukraine remember that because of um last Summer's offensive Ukraine is desperately short of Manpower okay the average age of their soldiers right now is over 40 they have men in their 60s who are fighting in the front lines um emanu macron of France um have
 has publicly stated that he is considering sending French troops to Ukraine uh the British themselves are thinking of conscription drafting all young men into the army the Americans uh American politicians have said that they're considering a new law that would give CIP to illegal immigrants who join the Army okay so it seems like NATO um is only going to escalate the war in Ukraine and so Russia is preparing for that one more explanation one more possibility is that Putin wants to expand the war okay so he knows he's

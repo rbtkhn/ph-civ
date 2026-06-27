@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=rkt0HQOogHE"
 video_id: "rkt0HQOogHE"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #15: Capital and the Bronze Age Collapse
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 Okay, so let's start class. Today we are doing the Bronze Age collapse. So let's review where we are in history. Okay, so remember the four earlier civilizations are Egypt, Mesopotamia, uh Indus Valley and of course China. And as we discussed, the reason why the four they are the first four major civilizations is that they have major rivers that allow them to develop agriculture as well as trade overseas.
 And as we discussed, what will happen is that they will have a major city and this major city will have colonies along the major river. Okay? So in Egypt it's the Nile. In Mesopotamia it is the Euphrates and the Tigris and the first city is Uruk. In China it's the Yellow River right um so in this valley is in this valley uh is the Indus River and and now these different city states will go to war in order to control trade routes and this leads to a time of major innovation in human history at the same time because

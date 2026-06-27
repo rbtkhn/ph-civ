@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=4ehovUNrSrw"
 video_id: "4ehovUNrSrw"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -19,6 +20,21 @@ civilization_support: true
 # Secret History #16: The Big Bang of Greek Civilization
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 Good morning. So today we do Greek civilization. We are focusing on Homer who wrote the Iliad and the Odyssey. A couple years ago I taught the great books. So we read the Bible, uh Dante, um Paradise Lost, the Iliad and the Odyssey. And believe it or not, the students' favorite book was the Iliad. And this was written maybe 3,000 years ago by this Greek man living in a different time, different culture.
  Even today, Chinese teenagers think he's wonderful. Okay. So, Homer is, I believe, the big bang of Greek civilization. All right. So, let us summarize where we are. Okay. Let's review where we are. Okay. So remember that in the beginning you have this city emerge in a major trade route and it occupies a major river and over time what will happen is that as the city expands it will create colonies along the river and this will create warfare among the city states because they're trying to control trade.

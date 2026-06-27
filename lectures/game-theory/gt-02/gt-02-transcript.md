@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=kS-muAuq62E"
 video_id: "kS-muAuq62E"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,9 @@ part_role: civilization
 # Game Theory #2: Why Schools Suck
 
 ## Part I: Full transcript
+
+
+### Opening
 
 Okay, so welcome back to game theory and um as I discussed last class, our goal is able to is to use game theory to analyze global events to understand why they're happening as well as make certain predictions about how they should develop. But to do that, I first need to train your mind and how to and how to see the world using game theory.
 
@@ -58,6 +62,8 @@ So first thing I did was I set up a seminar system. So rather than in Chinese cl
 Students were required to read a lot of books. In fact, I established a 5,000 book English library at the school where students can just go and borrow books and read. I wanted to teach students the joy of reading. Um, and then in terms of activities, I didn't want students to do M United Nations anymore because I didn't want kids sitting around just talking.
 
 I wanted to let them do things. Okay. So, I set up two new new activities. The first is called the coffee house. And the coffee house is is the first coffee house in China in a Chinese high school. There are lots of coffee houses today, but I was the first person to set up a coffee house where students had to run a business.
+
+### Theory Survey
 
 They had to work as waiters and provide good service to customers. And it was it was a collaboration effort. As you can imagine, this is great for the students to learn collaboration, to learn finance, to learn entrepreneurship. Okay. So, that was a very successful activity. Uh, do you have a question? >> Yeah. >> Okay. >> I mean, was that like similar with our moon coffee like the coffee in the west south store? >> Okay.
 
@@ -101,6 +107,8 @@ So, I need to I don't want my kids to think critically or or be independent. I w
 
 I don't want to teach my passion because I don't have any passion. Okay, administrators are like, "Oh my god, what's important is for me to make sure the powerful parents are happy. I don't care about everyone else. I don't care about poor parents. I don't care about middle- class parents. As long as the parents who are powerful are happy, I keep my I can keep my job, right? The government is like, you know what? I don't want innovation in this country.
 
+### Core Model
+
 Even though I say I want I want it because I don't want problems in life, okay? I just want things to just stay the way they are and everyone's happy. Okay? So now we understand what happened. All right. All right. So now what I will show you is this. I will show you how a game is constructed. A game is constructed when all the different players agree on the rules and incentives of the game.
 
 All right, I was an outsider. I was not a player. I came in to construct a game in which I felt that students would thrive and they did thrive. But that's not what they want. Okay? They wanted to have control over the game. And if they lose control, well, they call you an they call you the outsider an Okay. All right.
@@ -143,6 +151,8 @@ Okay, just give parents what they want. Okay, their job is to sell the school. S
 
 They're not trying to educate students. They're just trying to get by, do the least amount of work in order to uh get by. Government is okay. They say they want innovation, creativity, technology, but really it's just like no problems, guys. Okay? As long as you don't care any problems for us, we're happy with you. Just stay away from us.
 
+### Examples
+
 We're happy to not bother you. Please don't come bother us. Yeah, that's government. Also, what they want is for students who will also be no problems in the future, right? Right. So, compliance. So, as long as schools are teaching you how to obey authority, how to comply, how to do what you're told, they're happy. You're a good school.
 
 Okay? Colleges again just want the money. Okay? That's all they care about. If you're willing to go to American College and pay how much how much is is it nowadays like 50,000 100,000 a year? That's a lot of money, guys. Okay. If you're willing to pay that, they'll take you. I guarantee you. Even even if you don't speak English, they'll take you.
@@ -184,6 +194,8 @@ Okay. Then you have lots of cheating. Okay. And high turnover where students lea
 There's lots of white faces, lots of really nice buildings, lots of fancy activities, great marketing, beautiful website, really motivate admissions officers. Then you have easy grades where everyone gets an A no matter what you do. Um, you have some top students who will get into good school so that um the the school can brag about them.
 
 You have lots of cheating going on. Okay, if you don't get a good grade, just complain and you'll get a good grade. Okay, so that happened to me at the school where I tried my first year to give um fair grades. Okay, and a fair grade is not like I I give you a 20. I give you like an 80 and students complain about me. So now, so I'm stuck giving them like a pass fail, right? So it's not hard for students to get to pass.
+
+### Closing
 
 If you don't like a teacher, just complain and then the teacher has to change. And so you now you have high ch turnover where teachers feel stressed out and where parents are never happy and where students don't care. Okay? Doesn't make sense. This is why schools suck. And I'm I'm saying they suck not just in China, not just in our schools, but in most places around the world.
 

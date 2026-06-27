@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=6XGAc_OqCbU"
 video_id: "6XGAc_OqCbU"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #23: The Organization of Evil
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 So let's review. Last class we discussed the mission of Jesus. Who is Jesus? Jesus was a messenger from the monad who reminded us that there's a divine spark in us. And how you activate the divine spark is by focusing on Jesus and repeating his words. Jesus was like Zarathustra, like Plato, like Homer, like the Yahweh, a poor prophet.
  And so if you just repeated his sayings, if you repeat his poetry, then you could activate that spark within you and you could glow. Okay? And this explains why it became so popular. It also explains to us why the Romans had to kill him. Because at this time the Roman empire the main currency the main economy is based on slavery.

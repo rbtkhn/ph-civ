@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=hk_yhi3-prw"
 video_id: "hk_yhi3-prw"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,9 @@ part_role: world-war
 # Secret History #8: Death by Bureaucracy
 
 ## Part I: Full transcript
+
+
+### Cold Open
 
 Okay, so welcome back from the break. Today I want to talk about an incident that happened in October 2015 at Yale University. What happened was this um Halloween is coming up and in Halloween people like to dress up silly, get drunk, have a good time. and a university department called the intercultural affairs committee sent an email to students saying it's Halloween you guys want to have fun that's fine but please be sensitive about the feelings of other people.
 
@@ -89,6 +93,8 @@ Okay? So another way of saying this is 20 years ago, 30 years ago when I was a s
 
 can complain to and quite honestly a lot of you do complain. Okay, so I know about this and and what this is happening is these university have become bureaucracies. Now the question then is why the bureaucracies and the answer is in the beginning as a university you have to build up your reputation right so you work hard uh you focus on teaching you focus on research so it's a struggle to become a global brand once you become that global brand there's nothing else to do there's no more ideology there's more struggle so what happens is the
 
+### Lecture Block
+
 people in charge start engaging in rent-seeking behavior they take advantage of the position in order to make their life easier and then they pass on this privilege to their friends and then to their children and this creates a bureaucracy and the university starts to exist in order to empower these people at the expense of students and professors.
 
 Okay. All right. So to show you how ridiculous this has become, here's an example. This is from CNN, okay? And this is the year 2020. A University of Southern California professor is under fire for using a Chinese expression students alleg sounds like an English slur. Okay? So, there's a Chinese word that sounds like an racial slur, >> an insult in English.
@@ -159,6 +165,8 @@ The biggest problem is the increase in generals. Okay. So you can see three and 
 
 And this is a huge problem. Why? Because if you're a fourstar general, you have a lot of privileges beyond your salary. So, uh, this is from Raymond DuBois who works in the Pentagon and he writes about the perks of a fourst star general. A fourstar has an airplane. A three star often doesn't. Can a three star get an airplane when he needs it? Not always. Okay.
 
+### Q and A Block
+
 So, a four-star general always has his own personal airplane. What is his personal airplane? It's called a G5. This is what a G5 is, guys. >> This is what a G5 is. This is his own personal plane. It's always there for him. If he if he doesn't want to fly, it's waiting on the Tarmac for him. Okay, you can see how luxurious it is.
 
 This cost 50 to $60 million per plane. Every four-star general has this plane. At the same time, guys, what's happened to soldiers? The soldiers don't have enough to eat. There's 1.2 million veterans on food stamps. Okay, that's 8% of all veterans in America. The people who actually fight, the people actually make sacrifices for their country don't have enough to eat while the generals fly around in like these really nice planes.
@@ -228,6 +236,8 @@ Okay? You're a teenage boy, which means like two years time, you can be employed
 All I care about is the fact that you are a teenage boy. and therefore I can I can exploit you for labor. Okay, that's how states think. Okay, so the bureaucratization of society. Second is the idea of high modernist ideology. So because the state is a monopoly, democracy is a monopoly. It becomes arrogant. It has hubris. It's overconfident and it it wants to impose its ideology on everyone else.
 
 It believes that through its own planning it can achieve paradise. Okay. Um so it becomes authoritarian meaning it refuses to listen to criticism to feedback to questions. It in it imposes its will on people. Okay. Which creates a weak civil society.
+
+### Closing
 
 And if if as an organization you're not getting feedback, you're not allowing for openness, then you will wither and die. Okay? And that's why states, governments will always fail in the end. Okay. So he uses two examples. The first example is what happened in the late uh 19th century Germany. So in Germany there's there's lots of forests and the state is thinking of ways how can we how can we best monetize the resource of the forest? Well, there are certain trees that you can cut down for lumber, right? The problem is that in a forest, most space is occupied by
 

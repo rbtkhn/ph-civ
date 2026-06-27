@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=VtnRA-GNKM8"
 video_id: "VtnRA-GNKM8"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #12: Heaven on Earth
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 So we continue um our run through h a run through of human history today. So last class we did cave paintings and what I will do from now on is I will highlight some YouTube comments um for for us to review what we learned last class but also um as a chance for us to better engage the YouTube audience. Okay.
  So this comment comes to us from Gary Zorakiski and he talks about the cave paintings. He says that um it is possible they created art everywhere the paintings only survived in the caves and the answer is absolutely. So back then during the ice age they made these cave paintings as a ritual as a celebration of their religion to express their imagination.

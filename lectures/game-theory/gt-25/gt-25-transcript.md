@@ -20,6 +20,9 @@ part_role: "world-war"
 
 ## Part I: Full transcript
 
+
+### Opening
+
 So, Trump is in China. This happened about um 30 minutes ago. An hour south of us. So, Trump came in last night, and this morning he met with President Xi at the Great Hall of the People. And let's just have a quick look. This is him getting out of his limousine. This was bought in from the United States by a military transport.
 
 He brought uh his entire cabinet, including uh Marco Rubio, the Secretary of State, as well as Peter Hegseth, who is the uh Secretary of War. Okay. The last time an American president visited was 9 years ago, November 2017. So, this is a very historical meeting. And as you may remember, after Trump visited Beijing, um they started the trade war.
@@ -85,6 +88,8 @@ So now, before the value of US dollars was pegged was tied to gold the gold stan
 The strategy is to turn China into a manufacturing base for the global economy. Right? So, the Middle East sells oil to the world. But China now will sell manufactured goods to the world, and China will also do so using US dollars. And these two things together create um the current global economy. All right? Okay.
 
 So, what I'm going to do now is I'm going to explain to you why America did this, okay? This is what we call the Shanghai Communique. This is published 1972. And this basically spells out the basic premise, framework for all future US-China cooperation and dialogue. And the Shanghai framework basically resolves the Taiwan question.
+
+### Theory Survey
 
 And with regard to Taiwan question, America practices should strategic ambiguity. Meaning, the United States will not be clear about the issue of Taiwan with regard to China. So, what the United States has been saying for a long time is we do not support Taiwan independence. Okay, that's a strategic ambiguity.
 
@@ -154,6 +159,8 @@ Okay? All right. So the United States used to be the world's most powerful manuf
 
 Okay, so now China is the world's most powerful manufacturing country, okay? And this this is a map that shows it better. Okay, where China is now number one, United States has moved on to number two, Japan and Germany are pretty flat. This is intentional. The The intention is to bind China to the global economy, to become dependent on the global economy, and therefore save the global economy when it's under strain.
 
+### Core Model
+
 Okay, one major consequence of this um uh all of all of China's rise is the trade deficit between America and China. Okay? Unfortunately, this trade deficit is a natural consequence of um China's manufacturing uh ascent. Okay? Why? Because the purpose is to force China to buy more US dollars. Okay? In order to support the Ponzi scheme.
 
 So, this is a system that benefits the Americans. When Trump came into power in 2016, he said, "No, no, no, no. It shows that China is taking advantage of us." And Trump doesn't really really appreciate that. No, it was designed this way. You You need to create demand for US dollars.
@@ -219,6 +226,8 @@ As people try to flee the country. Okay? So, this is not good for China.
 All right. Um another major problem in China is the household savings rate. Where it's the highest in the world. Okay? The highest in the world. Why is Chi- Why are Chinese um savers Why are they saving 40% of their income? Well, a lot of reason is because Chinese aren't that wealthy, okay? So, even though the Chinese economy has boomed these past 30 40 years, the Chinese individual has not seen a huge improvement in his um standard of living, okay?
 
 And so, there is not a great confidence in the future, and that's why Chinese save a lot of their money. And there are not that many actual that that many investment vehicles as well. So, from a US perspective, this is a great opportunity, right? If Chinese are saving all this money, if you're a financier, if you're like BlackRock or a BlackRock, you're like, "Why don't you give it to me? And I'll invest the money for you and give you bigger returns.
+
+### Examples
 
 " Right? This is why they're here in China, cuz they want this. They want all that capital stored in in Chinese banks not doing anything. Like, "Give it to us and we'll make you more money, okay?" All right. Um, so, this shows you the capital account. All All this is saying is that you can't actually convert your yuan renminbi into other currencies.
 
@@ -287,6 +296,8 @@ So now your problem is like, how do I solve this problem? You solve this problem
 The problem is they only have a certain amount of money they can borrow. So, how do you get rid of this problem? You get You get rid of this problem by getting more people to buy um US Treasuries. And who are these people? Everyone in the world. You, me, everyone in the world. Okay? This is what we call retail.
 
 So, previously, it was only institutions that want to buy US Treasuries. And what they got What What the strategy now is to get everyone to buy US Treasuries. How? You create a new financial mechanism called stablecoins. Okay? Stablecoins. And And the two most popular stablecoins are something called Tether and Circle, okay? And the ideas are simple.
+
+### Closing
 
 The idea is stablecoins are backed by US Treasuries. Meaning, Tether and Circle have to buy US Treasuries in order to sell stablecoins. And then they can sell stablecoins to anyone and everyone. Okay? Including in China, which has 40% savings rate. How? Through institutions like um Apple, BlackRock, Visa. Okay, does this make sense? Now, you get around the problem of the closed capital account.
 

@@ -35,7 +35,7 @@ Shared work:
 | **Essay** bodies | `essays/` — separate workflow |
 | Private workshop notes | not in this repo |
 
-**Pass A patch scripts** for interviews live under `scripts/patch_*_sections_asr.py` (16 interview packets today). **Lecture pass A** is manual, slug retitle via `write_slug_retitle_transcript()`, or future per-packet scripts using the same helper module. This runbook covers the **full pass ladder** for both corpora, especially **pass C** turn labeling after rails exist.
+**Pass A patch scripts** for interviews live under `scripts/patch_*_sections_asr.py` (16 interview packets today). **Lecture pass A** uses [`scripts/lecture_section_pass.py`](../../scripts/lecture_section_pass.py) + [`scripts/verify_transcript_pin_cites.py`](../../scripts/verify_transcript_pin_cites.py) — see **Rails everywhere** below.
 
 ## Edit surface
 
@@ -189,6 +189,28 @@ Do not call a pass complete unless:
 - unresolved entities in README
 - `validate` + `pytest` exit codes reported
 - commit hash + push status (or explicit defer)
+
+## Rails everywhere (lecture pass A program)
+
+**Goal:** Title Case `###` section rails under `## Part I: Full transcript` on all lecture packets.
+
+**CLI:**
+
+```bash
+python scripts/lecture_section_pass.py audit [--strict]
+python scripts/lecture_section_pass.py slug-retitle --series civilization
+python scripts/verify_transcript_pin_cites.py
+python scripts/lecture_section_pass.py draft-map --series geo-strategy --template geo-flat
+python scripts/lecture_section_pass.py geo-from-timestamps
+python scripts/lecture_section_pass.py apply --series geo-strategy
+python scripts/lecture_section_pass.py auto-section --series game-theory --template gt-monologue
+```
+
+**Pin-cite rule (T1):** slug → Title Case words only (`stalin-greatest-man-thesis` → `### Stalin Greatest Man Thesis`) — preserves commentary `#fragment` links.
+
+**Insert-tier maps:** [`data/lectures/section-maps/`](../../data/lectures/section-maps/) · templates in `_templates/`.
+
+**Commit prefix:** `PH-TRANSCRIPT-EDIT: lecture pass A {series} batch N`
 
 ## Related
 

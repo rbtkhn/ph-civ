@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=bc9adtiIN_k"
 video_id: "bc9adtiIN_k"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Geo-Strategy #15: The Messianic Calling
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Core Analysis
+
+
+
+### Strategic Implications
+
+
+
+### Closing Questions
 
 as you know there's been a ceasefire announced um in the Middle East and uh many of you are curious as to what this ceasefire means. Well, I still believe that the United States, Israel, and Iran are fully committed to war. And the ceasefire, it's really about attempting to shape the narrative around this war, trying to control the terms, trying to determine how the war war will be fought.
 Um, so for Iran, for the Ayatollah, it's very important that the Iranian people understand that Iran is forced into this war. Um, in his speech to the Iranian people right after the um, US bombing, um, he credited the economy between Iran and the United States. Iran is a nation dedicated to peace.

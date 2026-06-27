@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=VbowBTJWKBo"
 video_id: "VbowBTJWKBo"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,25 @@ part_role: world-war
 # Game Theory #17: The Great Reset
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Theory Survey
+
+
+
+### Core Model
+
+
+
+### Examples
+
+
+
+### Closing
 
 Today I want to look at how the global economy will collapse specifically how the US economy will collapse because of this war. Now the argument I want to make to you today is that financial collapse do not happen accidentally or naturally. It has to be engineered. And this is a very hard concept for us to understand. Okay.
 So uh in economics there's something called the boom bud cycle which basically states that in capitalism you have um the economy booming then suddenly for whatever reason it collapses. Okay, it's called a boom bus cycle. And the idea is that if you study economics, they teach you that this is just a natural part of capitalism because in good times, people spend too much money.
@@ -138,4 +158,3 @@ So they need capital. The third is they will control global trade because becaus
 Okay? An an economic collapse. Why? Because economic collapse not only allows you to leave with a with a with as much money as possible, but also allows you to buy up distressed assets. And when I mean distress acid, I mean resources which include uh water, oil. Okay. So you want to create as much damage as possible because then it's easier to for you to buy up these resources and Okay, does that make sense? Right.
 So these guys plan decades ahead. But transational capital, what what they're what what they do is they're trying to create as much chaos as possible because in chaos there's profit. Like everyone's sitting around doing nothing, you can't make any money. Okay? But if people are fighting each other, there's blood on the streets, you can make a lot of money, right? Does that make sense? >> Yeah.
 >> Okay. Any more questions, guys? Okay. So we'll talk about um what happens after this uh financial shift next class.
-

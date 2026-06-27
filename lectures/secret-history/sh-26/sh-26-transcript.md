@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=kULUM_eB8KI"
 video_id: "kULUM_eB8KI"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #26: Faith of Evil
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 Okay. So, um, today we will look at Jewish history. So, let's review what we learned about Jewish history so far. Now, remember that for most of human history, the um, Middle East um, has been the wealthiest part of the world. And as we discussed before, the Levant especially Jerusalem is the center of the world because it it connects all the major civilizations.
 Okay, you have Egypt, Anatolia, Mesopotamia, and over here you have the Persians and over here is the Mediterranean. Okay, as you can see, basically all roads lead to Jerusalem. So, whoever controls Jerusalem controls the major trade access point, which is the most profitable part of an empire. And so for these empires, it's always been a problem of how to keep Jerusalem under control because Jerusalem, whoever controls Jerusalem, can always choose to switch sides, right? So if Mesopotamia controls Jerusalem, what the Egyptians

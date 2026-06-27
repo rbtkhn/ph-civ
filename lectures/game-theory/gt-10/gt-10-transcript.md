@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=t5oisJiorsU"
 video_id: "t5oisJiorsU"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,25 @@ part_role: world-war
 # Game Theory #10: The Law of Asymmetry
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Theory Survey
+
+
+
+### Core Model
+
+
+
+### Examples
+
+
+
+### Closing
 
 we continue our discussion of the US Iran war that is happening right now. So um as you know I made the prediction that the United States will lose this war and last class we did an overview of the military and strategic position and today we're going to provide some theoretical framework for how to understand how this war will progress and why ultimately I believe the United States will lose this war.
  Today I present to you a very important idea in game theory. And once you understand this idea, then you understand why things will turn out the way they do. Okay? It's called a law of asymmetry. Okay? Law of asymmetry. And all this is saying is that the United States and Iran are not peers. They're not equals. United States is far stronger than Iran.

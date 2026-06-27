@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=spg58Glfz68"
 video_id: "spg58Glfz68"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,25 @@ part_role: world-war
 # Game Theory #12: The Law of Eschatological Convergence
 
 ## Part I: Full transcript
+
+
+### Opening
+
+
+
+### Theory Survey
+
+
+
+### Core Model
+
+
+
+### Examples
+
+
+
+### Closing
 
 As I mentioned last class, there are three major questions that will determine how this war is fought, what they what this war uh will end up looking like, and how the world will change. And um as I discussed last class, I'm making three predictions about this war. The first is United States will use ground troops.
  Um, and this will mean that Donald Trump will institute a national draft. Okay, that's the first prediction. Second prediction is that Israel and United States will not use tactical nuclear weapons in this war. Number three is that the Alaxic Moss, the third holiest site in the Islamic world, will be destroyed during this war. Okay.

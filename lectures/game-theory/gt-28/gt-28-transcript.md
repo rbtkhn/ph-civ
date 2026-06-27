@@ -19,6 +19,9 @@ part_role: "world-war"
 
 ## Part I: Full transcript
 
+
+### Opening
+
 So on Thursday we will do the final examination. This is an opportunity for you to question and challenge my understanding of the world. Um and so today what I'm going to do is review all that we've learned this semester and combine together into a framework of how the world works. Okay. So the main driving question of the semester is why did the US attack Iran? Right? So this is the central mystery of the world today because even today Donald Trump has yet to articulate a reason for attacking Iran.
 
 And I I do understand that right now there are ceasefire negotiations going on. But unless we can properly understand or diagnose the rationale for this war, it's very hard for us to appreciate the difficulty of coming to a ceasefire. Okay. So I'm going to present to you the three major reasons that we learn in this class as to why the United States attacked Iran. Okay.
@@ -80,6 +83,8 @@ And if you're an Israelite, what do you want to do? You want to return to Jerusa
 uh you could try to bribe them and then ultimately the solution they came up with is you know what let's just remove them from uh Israel so they went to Babylon something called the Babylon exile okay um but remember they have the Bible with them so even though they are now removed from Israel the land itself and the people the the priests still have this historical memory of Israel so they long to return to it.
 
 Then what happened was that Persia under Sith the great comes and conquers Babylon and he meets these Jewish priests who long to return to Israel. And then what the person figure out is, hey, if we insert the Jews back into Israel and now they are strangers in a strange land, they must be loyal to us only because only we can protect them because only we can protect identity. Okay.
+
+### Theory Survey
 
 So the Persians would sponsor the return of the Israelites to um Israel and now they're called the Jews. Okay? And now what's happened is not only the Jews long to return to Israel, but they also recognize that only by working with an empire against other empires can we return to Israel. Okay? And this pattern will repeat itself throughout human history.
 
@@ -143,6 +148,8 @@ Okay. Um, so the most dominant understanding of the cult is something called her
 
 So you start off with a source. We'll call it the monad or the source. And what the source does is it breathes. It emanates. It thinks it meditates. And so it vibrates. Okay. Om. Okay. And it's infinite. Okay. So it's it is it has infinite vibrations. Okay. And the higher the vibration is the faster it is. Okay. The lower it is the slower it is.
 
+### Core Model
+
 And so this gives rise to the material world. So yes. So even though the dimensions are infinite, we can roughly classify them in different categories. Okay. At the very bottom is the material world which is our world. Then you might have the emotional. Then you might have the spiritual. Then you might have the divine. Okay. All right.
 
 Now according to hermetic philosophy, there are certain characteristics about this universe. Okay. The first is that there is rhythm to it. Okay? Meaning there's a pattern to its vibrations. It's not just random chaos. There's a pattern to it. And this pattern will become the basis for astrology.
@@ -205,6 +212,8 @@ The cabala has become the most powerful mystical tradition in the world. Becomes
 
 You are moving towards a symphysis. You're moving towards a reunion with God. And the sexual aspect to the cabala is what it what energizes galvanizes people into action. Okay. The sexual nature comes from its um physicality. It's um corporality. Okay. Corporality. The fact that you can feel it that feel the fact that you can touch it.
 
+### Examples
+
 Most mystical traditions are just monks meditating. Okay. meditating and trying to to uh achieve the divine. But the cabala is about achieving the stories of the Bible. Becoming David, okay? Becoming Moses, becoming um Isaac, Joseph. All right? So, because of the Cabala, the esquetology becomes sexual in nature.
 
 Because it's sexual in nature, it energizes us. Okay? It becomes very urgent and immediate and that's help that helps us explain why things are happening so fast because the people involved these societies they're trying to climax as soon as possible. Okay? They believe that the faster I move the more I'll be able to reunite with God.
@@ -266,6 +275,8 @@ I've done a lot of research in into the AI. There's absolutely not nothing more 
 That's it. Okay. What this is all hallucination. It's just clever marketing. That's all it is. We will never get beyond this. Okay. And this is what allows for uh large language models. Okay. So you have a similar situation in that money is just being printed out of thin air and you have similation where AI doesn't actually do anything. Okay.
 
 So how you solve this problem is twofold. The first thing you do is you create omniscience. Okay, what does this mean? It means the way to solve the money problem is by making money everywhere, right? Well, the way to solve the AI problem is making having AI know everything. That means combining every single database in the world into one major database.
+
+### Closing
 
 Does it make sense? Okay, that's the idea where you're born, the hospital, your health records, it's all in one database. You go to school, how well you do in school, what what your teacher say about you, it's all in the same database. When you grow up, what job you do, what you buy, it's all in one database.
 

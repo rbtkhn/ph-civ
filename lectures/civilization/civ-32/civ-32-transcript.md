@@ -39,7 +39,7 @@ itself um out of Rome and this country
 is the United States of America the
 similarities between
 
-### rome-america-parallels
+### Rome America Parallels
 
 Rome and United States it's very
 striking um both of these societies were
@@ -253,7 +253,7 @@ today are the cultural reasons so my
 argument today is that Rome in
 opposition to its enemies developed a
 
-### cultural-military-triumph
+### Cultural Military Triumph
 
 cultural system that allowed it to
 triumph over its enemies this cultural
@@ -326,7 +326,7 @@ with uh the Romans than the Greeks when
 we think of freedom and liberty we think
 of the
 Roman idea not the Greek idea
-okay so Liberty the the Roman word for
+okay so Liberty the Roman word for
 this is of course
 libertas all right the second idea value
 U of the Greeks is the idea of
@@ -473,7 +473,7 @@ CIP and
 identity the way you organize your
 Society is basically F citizenship okay
 
-### roman-citizenship-value
+### Roman Citizenship Value
 
 who gets to be a citizen who doesn't now
 democracy
@@ -626,7 +626,7 @@ as military
 power eventually Rome comes in conflict
 with Carthage and Carthage is at this
 point um the greatest military sorry the
-greatest naval power of of the
+greatest naval power of the
 Mediterranean
 Rome did not have a Navy it doesn't know
 how to sell ships guess what it did what
@@ -724,7 +724,7 @@ okay but it's but it's impossible to
 have for your mind to hold in place two
 cons ideas
 
-### republic-empire-tension
+### Republic Empire Tension
 
 America cannot both be a
 republic and an Empire therefore it's
@@ -1043,11 +1043,11 @@ well as the famous British historian
 Edward Gibbon in his most famous work
 history of the decline and fall of the
 Roman Empire okay it's corruption it's
-because the the Romans became more like
+because the Romans became more like
 the Greeks or like the Persians they
 started to appreciate the luxury
 decadence and Corruption of Empire more
-okay and the expl and the the the
+okay and the expl and the the
 explanation is that over time you got
 all these dramatic Invaders from the
 steps remember the steps is where the Y
@@ -1080,7 +1080,7 @@ Empire okay and the way he resolved this
 issue is in
 212 the emperor Caracalla issued the idct
 
-### caracalla-rupture
+### Caracalla Rupture
 
 of Caracalla which made
 everyone in Roman Empire a citizen so he
@@ -1386,7 +1386,7 @@ Iran okay so I'm predicting within the
 next 5 years America will start a war
 against Iran probably sooner and then
 
-### america-war-civil-violence
+### America War Civil Violence
 
 America will start a Civil War as
 well so Civil War does not mean um two

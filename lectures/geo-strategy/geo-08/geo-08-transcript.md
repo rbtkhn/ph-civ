@@ -27,6 +27,21 @@ Source timestamps:
 
 ## Part I: Full transcript
 
+
+### Opening
+
+
+
+### Core Analysis
+
+
+
+### Strategic Implications
+
+
+
+### Closing Questions
+
 okay let's start class so um let us summarize and review where we are so far in the story so um there are three major interest forces that are pushing the United States towards war with Iran um the first is the Israel Lobby remember that the Israel Lobby is composed of both Jew Jewish interest as well as Christian interests right representing the Jewish interest is something called APAC uh and they have a membership of about a 100,000 but they're very wealthy there are many billionaires in this group so this group has Financial power in fact
 APAC is considered the second most powerful lobbying organization in in the United States the first is um the pensioners okay there's about 30 million of them um and their lobbying organization is the most powerful but APAC is second but also in the Israel Lobby are the Christian Zionist right so for example the organization uh Christians United for Israel has 7 million people um in its membership so together the Christian Zionist and APAC um are extremely powerful force in government and they want a war in the middle ease
 in order to advance Israel's interest also remember that America is now addicted to Empire because Empire represents easy money all money has to be uh channeled through the US and so there are many people in the US who just make make basically make their money by speculating on money okay so for example Wall Street and that has made Wall Street extremely powerful uh right now in US politics and the third um force is Saudi Arabia um remember that in our discussion of Saudi Arabia we learned that the major conflict in the Middle

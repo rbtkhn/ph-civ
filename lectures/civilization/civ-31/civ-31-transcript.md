@@ -29,7 +29,7 @@ Part I contains the full lecture transcript imported from the public import snap
 
 okay good morning so welcome to the
 
-### second-semester-frame
+### Second Semester Frame
 
 first class of the second semester this
 semester we are going to build on what
@@ -215,7 +215,7 @@ happen
 okay does that make
 sense
 okay so um what I want to talk today is
-about a new model of of historical
+about a new model of historical
 analysis how can we understand the
 movement of History why do people do
 what they do why do Nations go to war
@@ -291,7 +291,7 @@ Anarchy where the nobility is in charge
 and everyone has to do what they do what
 what they command okay but over time
 this arery becomes corrupt and the way
-and the the way they become corrupt is
+and the way they become corrupt is
 by exploiting the people through
 debt all right so in a nobility the
 Nobles own the land you have to work the
@@ -377,7 +377,7 @@ progress towards
 truth okay so that's the other competing
 model okay there are two main models
 
-### cycle-and-line-models
+### Cycle And Line Models
 
 there's a cycle and then there's a line
 and the idea of the line is Human
@@ -388,7 +388,7 @@ end okay so then this idea has been
 around for a very long time remember in
 the
 Bible the when um King David first
-sponsored the the Bible the Bible was a
+sponsored the Bible the Bible was a
 line where Yahweh the God he was looking
 for a friend he was looking for someone
 who he could trust to rule his kingdom
@@ -396,7 +396,7 @@ of heaven and he first tried Adam and
 Eve and they disobeyed him then he tried
 Noah then he tried Abraham and then he
 tried Moses and then he found his true
-friend who is David okay so the the
+friend who is David okay so the
 truth is
 David in the Hebrew
 Bible then you have the
@@ -595,7 +595,7 @@ things happen the way they do and it's
 helps us also predict what
 happen okay and this model is what I
 
-### oceanic-curve-model
+### Oceanic Curve Model
 
 call the oceanic curve of
 History imagine the world as a huge
@@ -608,7 +608,7 @@ okay so think about
 hurricanes and the thing that's really
 important about this model that I'm
 
-### no-moral-judgment
+### No Moral Judgment
 
 proposing is there's no moral
 judgment in it okay I mean obviously in
@@ -682,7 +682,7 @@ sense now let's do another experiment
 let's take a random guy from China today
 and put him in Germany today Germany
 okay what I will argue is this he will
-never ever be able to adapt to the the
+never ever be able to adapt to the
 culture he may get a job as a pizza
 delivery man who knows okay but he will
 never
@@ -775,7 +775,7 @@ Empires fall is there's usually an
 Empire okay let's just say
 R and as they expand they encounter some
 
-### borderlands-pattern
+### Borderlands Pattern
 
 called the Borderlands okay
 Borderlands Borderlands are just places
@@ -817,7 +817,7 @@ so
 Arabia uh the
 steps uh and the dramatic North okay
 what we call Scandinavia today okay the
-the the north the
+the north the
 northmen so these are all isolated Parts
 but as the Empire expands they start to
 interact with the
@@ -885,7 +885,7 @@ collapse all
 right so why is that the case in this
 class you will learn there are three
 
-### boundary-collapse-pressures
+### Boundary Collapse Pressures
 
 boundary conditions of all
 societies eventually all societies must
@@ -946,7 +946,7 @@ create a
 monopoly which
 forces people to buy whatever prices you
 charge them okay that's the ultimate
-goal of of Industry or Society or
+goal of Industry or Society or
 business okay to engage in rcking
 behavior and over time because Capital
 consolidates it's much more
@@ -1035,7 +1035,7 @@ and the Rats the male Rats start to
 dance okay they did dance really
 like um in a very strange way but that
 attracts the attention of the
-female the the male rat sees attention
+female the male rat sees attention
 to the female rat and the male rat
 starts to chase the female rat the
 female rat runs back into her burrow her
@@ -1260,7 +1260,7 @@ Independence this is true throughout the
 Borderland okay if you if we were to go
 back to the Mongolia during the time of
 Genghis Khan if we were if we were to go
-back to the the European north of the
+back to the European north of the
 time of
 Vikings these are cultures that
 emphasize freedom egalitarianism and
@@ -1312,7 +1312,7 @@ are unstoppable once they start you
 cannot stop
 them okay
 
-### conflict-zone-hurricanes
+### Conflict Zone Hurricanes
 
 this war in Ukraine it is a
 hurricane that will engulf all of Europe
@@ -1414,7 +1414,7 @@ Trump will run again in
 okay but I but I think these are two big
 Hans that are coming along the way not
 now but they're coming along the way um
-the the big scary hurricane of course is
+the big scary hurricane of course is
 Iran okay eventually United States and
 Iran will come in conf with each in will
 come in conflict with with each other

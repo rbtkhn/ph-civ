@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=dELEdxh0ceg"
 video_id: "dELEdxh0ceg"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -19,6 +20,21 @@ civilization_support: true
 # Secret History #18: Thus Spoke Zarathustra
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 So um we've done the Greeks and we've done the Israelites and today we discuss the Persians and today I introduce to you the most influential person who who has ever lived and his name is Zarathustra. Okay. And Zarathustra will create the world's first uh great religion world religion called Zarathustrastrianism.
  And this will lead to the rise of the world's first great empire called the Achaemenid Empire. Okay. So to understand uh Zarathustra, let's go back and understand how we humans have traditionally understood the world. Okay. So intuitively we've understood that the world is one of consciousness. Okay. The universe is conscious. It's constantly vibrating. Okay.

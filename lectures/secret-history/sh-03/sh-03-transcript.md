@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=0g3yo1DjiLM"
 video_id: "0g3yo1DjiLM"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #3: Death by Gerontocracy
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 So good afternoon class. Today we do death by gerontocracy. Gerontocracy just means rule by old people. Last class we discussed the decline of western society and civilization and why it's happening. We discussed the theories. Today we will look at what the reality on the ground is. What the actual trends are.
  What are the current examples of decline in the western world. All right. So let me start with this young man. Um his name is Axel Rudakubana and he was 17 years old when last year um he took a knife and he walks into a dance studio in Southport uh Britain and then he proceeds to stab the little girls inside the dance studio and they are five, six, seven.

@@ -28,6 +28,20 @@ Source timestamps:
 ## Part I: Full transcript
 
 
+### Opening
+
+
+
+### Core Analysis
+
+
+
+### Strategic Implications
+
+
+
+### Closing Questions
+
 okay so let's begin begin class and today we are discussing whether or not Trump will win in November and I'm making the prediction that he will win in November and that he will pick Nikki Haley as his vice president okay so let me make you the argument today okay so let's first discuss why Biden won in 2020 and why it's possible that he may lose this year okay so in 2020 it was a very special year in American politics because it was a large it was the largest turnout in American history since about 1900 okay so 74 million people voted for
 Trump Biden uh for Biden 81 million people voted for him and two out of every three American adults came out to vote okay so was the largest turnout uh in American history um it doesn't it sounds like a very uh lopsided victory for Biden 81 million versus 74 million but because America hasn't been called an electoral college system um which is not direct democracy actually the margin of victory was only 65,000 votes meaning that if 65 th000 people in key Battleground States flip their votes than Trump would have won
 okay so the margin of victory was very very close as is usually the case in highly contested American elections so let's understand the Coalition that brought Biden into the White House okay so the first uh major component of this Coalition are black people 91% % of All Blacks voted for Biden only 8% voted for Trump that's a huge majority for Biden so why did so many black people vote vote for Biden in 2020 well first of all it's because Biden was Obama's vice president for eight years and so a lot of older black people had a certain loyalty to

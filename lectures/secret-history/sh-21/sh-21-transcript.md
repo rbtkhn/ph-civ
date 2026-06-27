@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=Y-gXVzwbFMU"
 video_id: "Y-gXVzwbFMU"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #21: Roman Anti-Civilization
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 Today we do Rome and um so before we've done Persia um the Jews and the Greeks and these are the three um main civilizations after Bronze Age collapse and now we will emerge Rome to eclipse all three and build a world empire. Okay. And what I will argue to you today is that Rome is the great anti-civilization. Um or you can call it just the evil empire. Okay. All right.
  So what do we know about Rome? Well, like most great empires, they emerge initially at the borderlands of another cultural empire. Okay. know these are the etruscans and the etruscans are very similar to the Magna Graecia Greeks and as you can see um they are expanding throughout the uh Italian peninsula. Now the thing about empires is that eventually the people become lazy, arrogant and stupid and so what they do is they get people to fight for them.

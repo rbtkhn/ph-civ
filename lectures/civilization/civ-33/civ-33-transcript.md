@@ -34,7 +34,7 @@ the first question is why do we have the
 bantin
 Empire um historically we have
 
-### byzantine-roman-continuation
+### Byzantine Roman Continuation
 
 seen the Byzantine Empire as a
 continuation of the Roman Empire we have
@@ -65,7 +65,7 @@ questions we will we will be looking at
 um this morning and what I want to do
 first
 
-### scholarly-consensus-first
+### Scholarly Consensus First
 
 I want to present the scholarly
 consensus what is generally accepted
@@ -248,7 +248,7 @@ popular interpretations explanations is
 the idea of arianism where Jesus is a
 less Divinity to God the Council of
 
-### nicaea-trinity
+### Nicaea Trinity
 
 Nicaea Nakia established the idea of the
 Holy Trinity which is that God Jesus and
@@ -267,7 +267,7 @@ the ideaa of heresy okay especially the
 idea of
 irism um he also built something called
 
-### theodosian-walls
+### Theodosian Walls
 
 the Theodosian walls which makes Conant
 basically impenetrable okay it makes it
@@ -511,7 +511,7 @@ Roman culture I mean Romans really were
 peasants uh who built an Empire but the
 Greeks uh basically built Western
 Civilization okay you had Homer you had
-Plato you had Herodotus the the Romans
+Plato you had Herodotus the Romans
 were aware of this and this was a
 conflict within Roman culture
 civilization for a long long time
@@ -523,7 +523,7 @@ and they rebelled against this and um
 you weren't here for my lecture on the
 inad but really uh austa Caesar
 sponsored the writing of the indiat in
-response to the hemony of of Greek
+response to the hemony of Greek
 culture so even though you're right in
 that most of the Roman aristocracy they
 Embrace Greek culture uh such as like
@@ -594,7 +594,7 @@ discovered is this cultural
 shift um what the Romans just found AB
 disgusting go back to the Assassin jul
 assassination of Julius Caesar
-right the the Romans are extremely
+right the Romans are extremely
 culturally arrogant why did they
 assassinate Julius Caesar and the people
 who assassinate Julius Caesar were his
@@ -865,7 +865,7 @@ worldview the last thing is the idea in
 the Christian worldview it's an
 individual that matters the individual
 
-### pagan-christian-contrast
+### Pagan Christian Contrast
 
 individual soul is what
 matters okay but in the Pagan worldview
@@ -930,7 +930,7 @@ explains lucrecia killed herself because
 she's afraid of the shame that she would
 have to endure if she lived she was she
 was afraid that she' be laughed at by
-The Other Woman of of Rome okay and
+The Other Woman of Rome okay and
 that's the idea of community versus the
 individual all right
 okay so um this so it's a radically
@@ -1167,7 +1167,7 @@ corruption okay so centralization leads
 to corruption where just a minority
 people with all the power use it for
 their own personal benefit they're
-basically parasites the the technical
+basically parasites the technical
 word we use for this is rent seeking
 okay rent seeking so think of
 landlords who charge rent to their
@@ -1179,7 +1179,7 @@ eventually leads to
 corruption systemization leads to
 ultimately
 
-### bureaucracy-stagnation
+### Bureaucracy Stagnation
 
 stagnation okay there's nothing new
 um going on and calization leads to the
@@ -1389,7 +1389,7 @@ Empire
 uh Western Roman Empire will collapse in
 the year
 476 when the last emperor uh ramus
-Augustus is the the PO
+Augustus is the PO
 okay but when he's the
 poed people don't understand the Roman
 Empire has come to an

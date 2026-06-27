@@ -29,52 +29,52 @@ Part I contains the full lecture transcript imported from the public import snap
 
 okay good morning so
 
-### opening-dante-peak
+### Opening Dante Peak
 
 today we do Dante and Dante really is the height of civilization it does not get better than Dante um I've taught Dante for three years now this is my third time teaching Dante and what's amazing about it is that all students love Dante but also each time I teach Dante I'm able to discover new insights about Dante that I didn't realized before um my theory is that Dante is someone you can spend your entire life studying and you will never truly understand his power his truth his um Beauty okay so um we will do we will
 spend two classes on Dante um today and next Tuesday and this will end the first semester Dante is extremely complicated I can I want to give you a glimpse into how wonderful he is these next two classes all right so let me give you a quick introduction into Dante all right so his book his of poetry is called the Comedia the comedy it's not called The Divine Comedy Divine Comedy is something that we called later on okay he first refer to as the Comedia why is it called The Comedy well because um in writing epics there are two Styles there's the
-tragic or high and there's the comic or low tragic means tragic High means that it usually deals with gods and Kings and it's written in extremely sophisticated style comic LW means that it deals with ordinary people and written in a common vernacular um at this um at this period in European history this this is the year 1308 to 13 uh 21 okay those are those are the 13 years that he spends writing the the comedy and he will die after he after he finishes it um at this point in European history the high language is
+tragic or high and there's the comic or low tragic means tragic High means that it usually deals with gods and Kings and it's written in extremely sophisticated style comic LW means that it deals with ordinary people and written in a common vernacular um at this um at this period in European history this this is the year 1308 to 13 uh 21 okay those are those are the 13 years that he spends writing the comedy and he will die after he after he finishes it um at this point in European history the high language is
 Latin and what Donnie does which is very interesting is
 
-### tuscan-vernacular-epic
+### Tuscan Vernacular Epic
 
 he chooses to write it in tusin and this is the of course the um local language of Florence where he is from and because the comeda is so wonderfully produced tuskin will become the official language of the Italian Peninsula okay so in today in Italy they speak the Tusan dialect of the language The Divine Comedy it is an epic divided into three uh structures Dante goes on a spiritual journey um into the cosmos in order to seek truth to seek um God he starts off
 in with a um midlife crisis um and so he has a guy named virtual who takes him through Inferno okay and then they go to purgatory and then he goes to Paradise Paradise is heaven Inferno is hell and Purgatory is the land the mountain in between the infernal and Paradise um today we will look at the very ending of the Divine Kony CLE 33 and I want to set up the um po the poem okay give you some context and some background Dante is imper and he's trying to figure out the spiritual truth underlying the universe and then as he goes on this
 journey he concludes his journey journey by meeting God okay but the problem with God is no one knows what it is it's a mystery it's the biggest mystery in the universe what is God God is there right there but no one knows what it is God God is surrounded by a a Heavenly Host these are angels that have proved themselves worthy to be around God and these include people like Mary the mother of Jesus um as well as Rachel and um and Leah who we uh learned about when we did the Hebrew Bible and they have Absolut no idea who
 God is either okay they're in a place called The eperium and Dante is being Guided by a man named Bernard an angel okay St St Bernard and to the left to the left is God and he is this pristine ball of light no one knows what it is not even God knows what it is and over here is the host okay um and at the very center is Mary what is amazing about Divine carony is how d restructures Christian theology remember in Christian theology Jesus is the epicenter but
 
-### mary-center-theology
+### Mary Center Theology
 
 in Dante's rendering of Christian theology Mary is at the
 center and the reason why is I yourself this question is it a greater miracle that a God could come to Earth and die for our sins or is it a greater miracle that a mortal woman is able to give birth to a God okay this is something that if you think about it it's kind of shocking and beading and that's what happens during The Divine Comedy there are two uh literary devices that D will use throughout Divine Comedy
 
-### paradox-structure-jigsaw
+### Paradox Structure Jigsaw
 
 the first is the idea of paradox think of Paradox as a puzzle okay what is the hand what is the sound
 of one hand clapping okay a paradox a a truth that seems like a contradiction he will use this all the time and the other is structure okay the Divine Colony it is mathematically precise it is brilliant it is 100 Kos and there is so much mathematics Within in The Divine Comedy so to use a metaphor you can see Divine Comedy as almost as an intellectual jakea puzzle the human mind does not like contradictions the human mind does not like paradoxes so what happens is this if you are to engage to Divine Comedy you are you become infraed in it you
 become obsessed with it and then what happens is your mind will slowly over time all by itself you actually don't have to do anything okay your mind will start will start to unravel these paradoxes and create a new truth of the universe okay and so we are talking about the creation for The Divine Comedy of a new mind for Humanity if Homer was the father of Western civil oh sorry of Greek civilization then Dante is the father of modern European civilization and the reason why is the Divine Kony because it um is a jigzle that will uh
 that will unravel the tubs of the universe it becomes inal blue blint for three major movements in Europe the first is the Renaissance remember the Renaissance starts in Florence right second is the Protestant Reformation a religious Revolution against the Catholic church and the third is the Sonic Revolution okay I will show you today why that's the case how implanted or imprinted in the Poetry um are the
 
-### three-revolutions-seeds
+### Three Revolutions Seeds
 
 seeds of these three major revolutions all right okay any questions so far before I before we we look at
 Divine Comedy all right um dou could you um okay so first thing to know about Divine Comedy is that it is part of a literary genre called apocalyptic literature apocalyptic literature just means god reveals reveals the truth to us through a prophet or a poet okay so this is Ezekiel which is one of the earliest books of the Hebrew Bible and um this really starts the tradition and so what happens is Ezekiel he is an um Israelite prophet and he goes to heaven where he meets all these monsters and demons and angels and he meets God
 himself and then God gives him a scroll puts it in his mouth says eatat it and he eats it and returns to Earth to tell the Israelites the words of God and so this starts the idea that a prophet is someone who speaks the word of God okay he said to me this is God Yahweh oh mortal eat what is offered to you eat this scroll and go speak to the house of Israel so I opened my mouth and he gave me the scroll to eat in my mouth it was as sweet as honey okay so this is the idea of the apocal tradition what Dante will do is
 
-### apocalyptic-overturn
+### Apocalyptic Overturn
 
 completely overturn this tradition okay um all right okay yeah next slide all right so before we look at Divine Comedy what
 
-### augustine-review-frame
+### Augustine Review Frame
 
 let's review Augustine because as we discussed previously Augustine the city of God is what starts the um Dark Ages right because of the way that the world is presented okay so let's let's look at a few quotes from the city of God to remind ourselves of what the mentality of the Dark Ages was first when men man lives by the standard of man and not by the standard of God he is like the devil okay and the
 idea here is that the devil is within us we must constantly fight against our own nature if we are to be with God okay second is now could anything but Pride have been the start of the evil will and the idea here is if left to our own devices we will strive to be like God Pride uh in the city of God is used almost um synonymously like the word eego okay basically who we are we humans are are born proud and will strive for godhood if we are allowed to okay third is his was a venal transgression when he refused to Desert his wife's
 companion so he's talking about the story of Adam and Eve Eve was clearly the disobedient one right but Adam what did he eat the fruit because he didn't want to abandon Eve therefore love is sin okay if you love you will commit sin you cannot trust love it is because Adam loved Eve that he ate the fruit and condemned Humanity okay although the will deres it its existence as a nature from its creation by God it's falling away from its true being is due to its creation out of nothing its creation out of nothing so
-the question then is if God created us why are we so bad and the answer is because God created us out of dust he created us out of nothing that's why we are so flawed okay again we are we are a failed science experiment we say we see then that the two cities were created by two kinds of of love the Earthly city was created by self-love reaching the point of contempt for God the heavenly City by the love of God okay when we love ourselves we create evil when we love God we do good and the last one in the Heavenly City then there will
+the question then is if God created us why are we so bad and the answer is because God created us out of dust he created us out of nothing that's why we are so flawed okay again we are we are a failed science experiment we say we see then that the two cities were created by two kinds of love the Earthly city was created by self-love reaching the point of contempt for God the heavenly City by the love of God okay when we love ourselves we create evil when we love God we do good and the last one in the Heavenly City then there will
 be freedom of will okay this is a hard idea idea to understand what does it mean to have freedom of will in the city of Heaven it means that in heaven we will discard our bodies and only our souls will remain the body is flawed because it's created out out of dust out of nothing but the soul is perfect because it was breed into by God okay once we are once we are freed of our bodies we have no more desire we don't want have sex we don't want to eat we don't want to fight or tions will all be dissipated therefore we will be perfect okay and
-what what will be left are to enjoy unfailingly the the light of Eternal Joys okay we will be one with God and we will know an eternal Bliss that's what we're striving towards okay salvation everything on Earth does not matter okay so it is a negation of human will it is a contempt for human love love it it is a distress of all human agency and these ideas are what will lead to the Dark Ages
+what what will be left are to enjoy unfailingly the light of Eternal Joys okay we will be one with God and we will know an eternal Bliss that's what we're striving towards okay salvation everything on Earth does not matter okay so it is a negation of human will it is a contempt for human love love it it is a distress of all human agency and these ideas are what will lead to the Dark Ages
 
-### augustine-rebuttal
+### Augustine Rebuttal
 
 Dante is trying to rebut Augustine and free us from the Dark Ages okay so let's go to Dante and remember Dante will be a rebuttal to all these
 ideas all right so this is the Imperium the final level in the structure of the Divine Comedy and Dante has a mission his mission is to meet God and tell us who God is because God doesn't know and neither does all the other Angels around him okay and the reason why is if God is omniscient and omnipresent if he knows everything and he is everywhere then God by definition lacks in imagination okay this is hard I didn't understand but I'll explain it okay God does not know who he is because he lacks an imagination all right so what's
@@ -85,7 +85,7 @@ no that's that doesn't sense let's just say that I love this woman okay she's be
 chocolate every day I care about your health I care about your happiness that's what I care about I don't want to degrade you okay that's what Donnie is saying here love is the ultimate power all right and because she cleansed herself she has so much nobility that she was able to give birth to God okay that's where nobility is nobility is not in being free of sin but redeeming yourself from sin through sheer willower through love okay let's continue all right this man this is Dante of course who from the deepest
 Hollow in the universe he came from hell okay up to this height has seen the lives of spirits one by one now pleads okay he's been on this amazing spiritual Journey he's seen everyone through Grace to Grant him so much virtue that he may lift his vision higher still May lift it toward the ultimate salvation the UL salvation is God right but look but look at this phrase Vision higher still okay what does it mean it means hey you cannot see God
 
-### god-imagination
+### God Imagination
 
 you have to imagine God God is something that you do not see God is
 something that you imagine through your will all right next one please thank you and I who never burned for my own Vision more than I burned for this is radical this is Bernard he is the highest of the angels and he says his vision I burn for his vision I want to know the truth and only this man Dante can give us the truth even though we are angels only Dante Immortal man has access to truth we Angels do not have access to truth this is radical and revolutionary okay and honestly if the Catholic Church actually could understand any of this

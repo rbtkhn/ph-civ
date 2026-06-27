@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=0HYET47Cc-E"
 video_id: "0HYET47Cc-E"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,9 @@ part_role: world-war
 # Game Theory #19: The Hollywood-Pentagon Complex
 
 ## Part I: Full transcript
+
+
+### Opening
 
 This weekend we have reached a turning point in the war. It is possible that in a few hours or by tomorrow we will reach the point of no return. Donald Trump has threatened the Iranians saying that on Tuesday, if the Iranians still refuse to open the Strait of Humus, then the Americans will destroy the Iranian power plants and bridges and universities. Basically, the Americans will start attacking critical civil infrastructure which will force Iranians to strike hard against the GCC, the oil fields, the dissalination plants, the universities as well. And this would mean that the world would lose 20% of its energy supply.
 
@@ -57,6 +61,8 @@ This is a prelude to a national draft. Okay? And why is Germany doing this? Beca
 
 All right? So, let's talk briefly about what's going to happen over the next year. So as I said before, the United States was the global reserve currency and that mean meant basically that for every transaction that you made with US dollars, they could tax you. Okay?
 
+### Theory Survey
+
 Because they could inflate the price of the US dollar. But now that people are choosing to opt out of the US dollar, for example, in China, people are buying more gold, right? And people are using other currencies. America in order to maintain its empire has to change its strategy. Now the main source of American power is its ability to control sea lanes. Okay? Because it has military bases all around the world. Okay? So in the red these are all areas with US bases and before it used these US bases in order to maintain global trade. But with nations choosing to opt out of your system, now your option, now your strategy is to blockade them, right? Could enable blockade, starve them of resources, which forces them to come beg to you for trade access. Okay, so we've gone from a strategy where America guaranteed global trade to America basically being a mafia state, being pirates and allowing you to use um seal lanes and giving you trade access. Okay, does that make sense? And believe it or not, but America does not actually need to do that much work in order to control trade around the world.
 
 it just it just needs to control certain trade or um certain choke points. Okay. So the Panama Canal is one choke point and that's why about a third of um America's navy is deployed to the Caribbean right now. All right. And its main purpose is to block off trade um in the Western Hemisphere. So if you are China, if you are Japan and you are South Korea, if you want to access Western resources, Western hemisphere resources, you need the permission from the US government. And the um example of course is Venezuela where they remove the president and now they basically have a blockade over Venezuela. And so the Venezuelan government is very cooperative. Okay, they're basically over obedient. There's um and so what we can expect next is for Trump to exert authority over Greenland. Why? Because this is the Arctic choke point. Okay, which gives you access to Canada uh and to Europe as well. We're going to also expect um America to basically create a choke point over the straight home moves. Right? So right now the issue is that the Iranians control the st. But the Americans can also choose to blockade the shoo. Okay? Does that make sense? All right. The major choke point in the world of course is something called the straight of Malaka.
@@ -94,6 +100,8 @@ And throughout this war, the Americans have lost quite a few planes. Um the C um
 Okay. All right. So, this has led people to question whether or not the narrative is true or not. Now, you can make the argument that this narrative is true.
 
 You can make the argument that the American military prides itself on no man left behind. So, they will do whatever they can move heaven and earth to save that person. And that's something that the Americans take pride in. But again there are issues with this narrative. So this is um a man named Arnon Petron and on Twitter he explains that the story doesn't really make sense. Okay. So the first thing is how did a fighter jet American fighter jet get knocked down in Iran when the Americans have said that they have a supremacy over the country? Another issue is that um the weapons director, sorry, the weapons systems officer is a colonel. A colonel is a very high ranking individual in American military. So why would he participate in this operation?
+
+### Core Model
 
 That's very strange. Um, and even though he was injured, seriously wounded according to Trump, he still managed to hike up a 7,000 ft mountain ridge line and hide in a crib in the Zag mountains for 48 hours despite his wounds. Also, we don't know who he is.
 
@@ -133,6 +141,8 @@ Okay, economics. Second thing you want to look at is organization. The third thi
 
 All right. So, what what what do I mean by this? Well, the first thing is resource management. In other words, you're trying to win a war as cheaply and as quickly as possible.
 
+### Examples
+
 Okay? Unfortunately, right now, the Americans are not fighting a war of economics. If you're spending $300 million in military equipment in order to rescue a pilot, you're not going to win this war. Okay? So, econ economics is really m is really important. Second is idea of organization which is the implementation of strategy.
 
 Right? So you have a strategy and then you implement it. And here what's really important is the simpler the strategy the easier easier it is to implement.
@@ -170,6 +180,8 @@ That's its own that that's its mentality. Um, we know this because Jessica Lynch
 So, this is a huge problem for the American military, for the Pentagon as they fight this war. You can pull this crap when you're fighting Somalis and Iraqis, but against the Iranians, you need total war. You need to focus on economics, organization, and logistics.
 
 Stop doing this crap of optics, okay, and narrative. Unfortunately, it's it it has it is now the very mentality of the Pentagon to turn war into a Hollywood movie. All right. So this is a paper written by Kennor Merles at Brown University and what this author talks about is how the Pentagon and Hollywood are aligned together. All right. So so so can you read the three major take takeaways? Um um Amber &gt;&gt; in exchange for the use of military equipment and personnel movies and TV program producers must comply with Pantukon entertainment policy including script changes to align with military goals including recruitment and public relations.
+
+### Closing
 
 Since the inception of the Hollywood entertainment industry more than a century ago, over 2,500 war themed movies and TV programs have been made with Pentagon assistance. Pentagon assisted movies uh movies and TV shows frame US wars as necessary and glorious, downplaying the ignoring uh downplaying or ignoring the human, social, and environmental devastation war causes, particularly for civilians. US soldiers are typically cast as noble protagonists while those non US people's people's deemed enemies of America are constantly stereotyped.
 
@@ -210,4 +222,3 @@ Okay. All right. Okay. All right. So, on Thursday, we're do something really int
 Okay? So, what I want you to do is think about what we've learned this semester and try to figure out where I could be wrong or where the problems, my logic are. I want you to test me. Okay? And this is also true for YouTube where um if you think that there's something wrong with my logic, if you dispute what I say, then uh raise a question and then my wife will read the YouTube comments and then pick out questions for me to answer on Thursday. Okay? So on Thursday will be a midterm examination, but rather than me test you, you will test me. Okay? and be as hard and as harsh and as difficult as you want to be. I enjoy being questioned and examined.
 
 Okay, so Thursday will be a lot of fun. I'll see you guys then. &gt;&gt; Yeah.
-

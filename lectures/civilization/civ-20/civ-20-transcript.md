@@ -54,7 +54,7 @@ Part I contains the full lecture transcript imported from the public import snap
 ## Full transcript
 Okay, so good morning. We finished the Bronze Age today with the Indus Valley Civilization. We've done Egypt, we've done Mesopotamia, and now we're doing the Indus Valley Civilization.
 
-### three-questions-opening
+### Three Questions Opening
 
 Today I'm going to look at three questions. First of all, what is it that makes the Indus Valley Civilization distinct or different from other civilizations? Second, why did it decline? They reached their peak about 2600 to 1900 BCE, and then for the next three to four hundred years they declined and ultimately disappeared. Why did that happen?
 
@@ -62,7 +62,7 @@ The last question is: what is their legacy? What is their contribution to the de
 
 Alright, so let's look at the Indus Valley Civilization. To do so, we need to first understand the world at this time — about 2500 to 2000 BCE. This is what we call the
 
-### bronze-trade-context
+### Bronze Trade Context
 
 Middle Bronze Age, because most people were using bronze for weapons and tools.
 
@@ -100,7 +100,7 @@ This trade network is very complex, and everyone is involved in some capacity.
 
 That's the first thing that's interesting about the Indus Valley Civilization: they trade internally peacefully, and they trade externally peacefully as well. We have absolutely no evidence that they ever had organized warfare. We have actually no evidence that they had any intention of organized warfare — meaning
 
-### peaceful-egalitarian-evidence
+### Peaceful Egalitarian Evidence
 
 we have not found any weapons of war. We have found tools and hunting weapons, but we have not found armor or helmets.
 
@@ -130,7 +130,7 @@ These are people who are very concerned about the well-being of all its citizens
 
 At least half the people we think lived past the age of 55 — that was an amazing achievement back then.
 
-### urban-design-standardization
+### Urban Design Standardization
 
 In terms of sanitation, they have reservoirs. They also have public baths. They also had really amazing things called wind towers. I'm not sure if you've studied these wind towers, but they're basically air conditioners. What they do is these are high towers with a hole on top. The higher air is cooler, so this cool wind gets into the wind tower, comes down, and pushes out the hot air from the other side. This is what cools the houses in the summer. This is pretty advanced technology.
 
@@ -140,7 +140,7 @@ So this is a pretty advanced civilization.
 
 Unfortunately, we don't know what their writing system is. If they had writing — and we can't know for sure — it was like Chinese or Indic: it is not fully phonological. The spoken language is not the same as the written language. In other words, it is
 
-### unreadable-script
+### Unreadable Script
 
 impossible for us to decipher their written language. We don't have that many artifacts of writing. We have seals with characters written on them, but we don't have anything else.
 
@@ -202,7 +202,7 @@ Because of climate change, the people in the steppe culture are now forced to le
 
 This is **not** an intentional military invasion. It's not that you have a general and an army that go in and conquer it. It's more opportunistic. At first you're trading, and as the Oxus Valley Civilization declines because of
 
-### decline-multi-cause
+### Decline Multi Cause
 
 collapsing trade networks, they start to come in and push out the people.
 
@@ -220,7 +220,7 @@ These people will also push into the Indus Valley Civilization. Over time — an
 
 What's amazing about this is that this process will create two major world religions that are still influential today.
 
-### legacy-indian-religions
+### Legacy Indian Religions
 
 The first we know as **Hinduism** — the merger (synchronization) of Proto-Indo-Iranian religion with the local Indus Valley religion.
 
@@ -260,7 +260,7 @@ They will also start assimilating other religions. Most Indians believed in thei
 
 Across Hinduism, Buddhism, Jainism, and Sikhism you keep seeing the same kinds of themes — false or shifting reality, oneness, karma, dharma, reincarnation, impermanence. Those ideas are not strongly present in core Proto-Indo-European religion, but they are prominent in the Indian traditions. My speculation is that a lot of that common denominator traces back to something like a **
 
-### proto-buddhist-speculative
+### Proto Buddhist Speculative
 
 Proto-Buddhist** religion in the Indus Valley — rooted in earlier animism and sharpened by the dialectic: reacting to the warfare, inequality, and corruption they saw in Mesopotamia and Egypt.
 

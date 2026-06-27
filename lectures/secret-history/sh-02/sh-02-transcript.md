@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=K-_l9jBGo74"
 video_id: "K-_l9jBGo74"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #2: How Societies Collapse
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 Okay. So, let's start class. I'm going to review very quickly what we did last class. So, last class we learn about monotheism, which is the idea of one true God. And as I said last class, this marked a intellectual revolution in human history. And for monotheism we develop three new ideas which are money individual and the nation state.
 It's important to note that these ideas have always existed in in human history. But with monotheism, these ideas became the dominant paradigms and together they will give us modernity and create the world that we live in today. Okay, so that's what we discussed last class and remember last class we also discussed that this created a lot of problems for us.

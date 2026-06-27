@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=hE4l9WyLF3U"
 video_id: "hE4l9WyLF3U"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,9 @@ part_role: civilization
 # Game Theory #1: The Dating Game
 
 ## Part I: Full transcript
+
+
+### Opening
 
 This semester we are going to analyze a question together which is how do societies behave? Why do we do what we do? What motivates us? What drives us? And there have been different theories as to what drives human behavior. Okay. So let's go over some theories. The first theory comes to us from um religion. And the idea is that we are all driven in a war between good and evil.
 
@@ -57,6 +61,8 @@ And this requires you to actually follow the news. Okay? It's not hard to spend 
 
 We'll be looking at the relationship between United States and China. Okay? So this is relevant to your lives because you'll be you will eventually have to work and live in this really screwed up world that we live in. Okay. And the third benefit is once you understand the game you will have predictive powers.
 
+### Theory Survey
+
 You'll be able to understand how the world will develop. You'll be able to analyze your own life and understand how you will develop and that gives you control, sovereignty over your own destiny. Okay, that's my promise to you. If you actually spend the time to listen carefully in class, to participate fully, to follow the news, uh, and you spend the entire semester doing so, then these three benefits will start to acrue in you.
 
 Okay, this is a lifelong struggle to learn game theory. I'm a lot older than you are. I have a lot more experience than you. Okay, but I want to show you how to look at the world through game theory. Another phrase that you you learn in school is I'm going to teach you how to think critically about the world or I'll just teach you how to think. Okay.
@@ -94,6 +100,8 @@ girls who were like, "Okay, if I don't love him, if I'm not even attracted to hi
 In real life, what happens is this. All the girls want this one guy. Okay? And maybe number four. Look at them for number four. But 321 they don't want. And we know because just look at the world around you. Look at these billionaires, right? Like Ellen Mus. How many wives does does he have? How many children does he have? Right? All the women in the world, many, not all, but many just want to marry actors like Brad Pitt, billionaires like Ellen Musk, right? And 3, two, and one, they what do they do? Well, they watch Netflix, they watch porn, they play video games. They've given up on life, okay? They're like, "We don't care." We call these people incels, right? involuntary celibates because basically they have given up on life and life has given up on them. So this entire competition is between number five and four for all the women in the world.
 
 And this is again suicidal. This will lead to the death of humanity. And the question now is okay why are we suicidal? And so let's look at game three analysis, right? The players, the rules, and incentives. We know, we know what the players are. The players are doing stupid things. The rules, we know, okay, but incentives is something that we have to think about.
+
+### Core Model
 
 Why are they behaving like this? And the answer is because they're not interested in sex or procaration. What they're interested in is status. Okay, that's the game they're playing. Status. I don't want to marry someone to have children. I want to marry someone so I can take a picture of her and post it on Instagram so I can get a lot of likes.
 
@@ -133,6 +141,8 @@ But right now on average, women are choosing to have one kid only in China. And 
 
 How do you convince women to have more kids? And what we've discovered is it's impossible. We can pay you more money like they do in South Korea. Guess what? It doesn't work because people don't want money. They want status. And status is a zero- sum game. Okay? Money is infinite. But status power is a zero sum game. So when you have overpopulation, we have too many people competing for two status too few status positions, you have decreasing fertility rates.
 
+### Examples
+
 And there's nothing you can do about it. The moment you give women choice, they choose to improve their lives by marrying someone better. Okay? Not all but most. And so over time, what happens is your society collapses. If you look at history, the best indicator that a society is about to collapse is if the woman who are wealthy and well educated, if they refuse to have children.
 
 This is the same. This is what happened to the Romans who collapsed. This is what happened um to many empires. This is what's happening around the world today in America, in Britain, in Europe, in China. Okay? And this tells us that society is collapsing. So in other words, what this really is, okay, these superructures, it tells us the life cycle of a civilization, right? So this is when you when civilization is young then it mature it grows and then it collapses.
@@ -170,6 +180,8 @@ Okay, I understand that. But if you just analyze how the game works, okay, if yo
 Okay? But I'm saying that given the current state of things, Israel their growth trae trajectory is very very high. But then the question then is okay why is it that Israel they are different from everyone else? And the answer is because the world hates them. Okay? Because they think they are different from everyone else. and they must unite together to survive.
 
 So in Israel, fertility is status. Okay? If you are a woman and you give birth to a lot of kids, that means that you love Israel. That means that you are doing what you can in this war for survival. It means you are a patriot. Okay? Um but this has to do with religion. So what the west has done is not only um has it created a dating game where women can choose to have kids but the western world has also given up on religion and embraced materialism.
+
+### Closing
 
 Right? So what is valued in our world in the west? It's not patriotism or love of family or religious duty. It's just how many Instagram followers you have. It's how many YouTube subscribers you have. It's how many how much money you have. Okay? That's all that matters. So given the current state of state of events, it's very hard for the Western world and really for China to survive for the next 50 years. Okay.
 

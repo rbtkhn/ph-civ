@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=3t0MeVBD24I"
 video_id: "3t0MeVBD24I"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,21 @@ part_role: world-war
 # Secret History #19: Dawn of the Jews
 
 ## Part I: Full transcript
+
+
+### Cold Open
+
+
+
+### Lecture Block
+
+
+
+### Q and A Block
+
+
+
+### Closing
 
 So, we have 10 more classes left in the lecture series. Um, and in these 10 classes, what I'm going to do is I'm going to show you how the American Empire will fall. And I will show you that what will replace the American Empire is Israel, uh, what we call Pax Judaica. Um, so for these next 10 classes, I will we will do an overview of history and show you why history will lead ultimately to the uh Pax Judaica.
 Okay. All right. So, let's do some questions from YouTube that my wife has picked out. Um, she reads all the comments. She loves reading the comments and she sends comments to me to reply to. Okay. So the first comment is um how do we restore our right hemisphere or how do we become more creative and the answer is that you have to reject materialism that that's the only way okay you have to reject money you have to reject power you have to reject materialism in order to embrace your creativity and your right hemisphere um

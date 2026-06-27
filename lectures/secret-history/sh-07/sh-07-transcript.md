@@ -7,6 +7,7 @@ source_url: "https://www.youtube.com/watch?v=JU_8fJjtGxA"
 video_id: "JU_8fJjtGxA"
 transcript_status: curated_transcript
 transcript_fidelity: exact_body_match
+transcript_curation: curated_sectioned
 transcript_source: public_import_snapshot
 representation_not_endorsement: true
 review_status: source_reviewed
@@ -18,6 +19,9 @@ part_role: world-war
 # Secret History #7: Death by Meritocracy
 
 ## Part I: Full transcript
+
+
+### Cold Open
 
 Okay, good afternoon class. So, um this will be our last class before the break. We have a three-w weekek break coming up. Um I hope that during these three weeks you have a chance to reflect on what what we've learned because when we come back we'll continue to build on the ideas that we've learned so far.
 
@@ -90,6 +94,8 @@ Okay, so um if you're the Ivy League, you do this because everyone wants to go t
 Option one is I want to open a restaurant and I need a million dollars from you. Okay? But guess what, guys? My uncle works for the government. So, I can guarantee that he and his friends will come to my restaurant every single day. And so, there's no risk. There's absolutely no risk involved. I guarantee we'll make at least $500,000 a year. No risk. Five easy money. Okay.
 
 Number two is I want to start a website that that's AI and Bitcoin or and uh um all all this. Okay. problem is I don't even know how to write code. I have no experience writing doing a website and my idea isn't really fleshed out. But if it works, we can make $1 billion, guys. Okay, so option one is low risk, really good plan, solid returns, $500,000 a year.
+
+### Lecture Block
 
 Okay, option two is concept, vague idea. I have absolutely no experience doing any of this, but I but we could possibly make a billion dollars. Okay. Which option do you take? Okay. You always take this guys. Okay. Right. Cuz like you don't need $500,000. That's boring. You want a billion dollars and that's the mentality of Harvard.
 
@@ -165,6 +171,8 @@ Okay? The first system, which is a healthy system, you say to your child, I love
 
 Okay? Now you can also say to your child, I don't have time for you, but if you win the swimming competition or you place first on uh your math test or if the teacher say nice things about you, I'll take you for ice cream. Okay? And so it's a system that neglects the child while at the same time demands the child. Okay? And this is trauma.
 
+### Q and A Block
+
 And again, most kids will be traumatized by the system. But there are some kids who will thrive in the system and the trauma will encourage them or drive them to achieve and achieve and achieve so that they get into Yale so they can compete the Hunger Games so they can go on in life and compete some more.
 
 Okay? And that's how the system is set up. And this is what we call the meritocracy. And and as I'll explain to you later on, it is destroying America and the world. All right? So that's how the system is set up. And guess what, guys? Is it different in China? Not really. Okay? All right. So the concept of meritocracy has conquered the world. It started in America.
@@ -236,6 +244,8 @@ Okay? And then the critics were like, "Well, how about all these American homeow
 So, as you can see, people were angry. The banks got saved. The people got screwed over. And guess what, guys? Because because of this, who who did we get? This guy. >> Okay, this is why he won. There were millions of Americans who voted for Barack Obama because he promised hope and change. And then they voted for Donald Trump because he promised destroy the system.
 
 Okay, that's why we have Donald Trump. Now, funny story about Donald Trump and Barack Obama. So, Barack Obama and Donald Trump were always adversaries. In fact, Donald Trump led a movement uh which accused Barack Obama of not being being born in America. Um it's he's born in America, but Donald Trump is saying no, no, he he was actually born in Nigeria. His father is from Nigeria.
+
+### Closing
 
 So, Barack Obama made fun of Donald Trump. 2011 there's a big dinner, the White House correspondence dinner where where Barack Obama gets on gets on stage and he makes fun of Donald Trump. Okay? He says, "Hey, if Donald Trump ever became president, this is what the White House would look like. It'd be a casino.
 

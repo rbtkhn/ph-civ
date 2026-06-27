@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Shared helpers for PH-TRANSCRIPT-EDIT interview section patch scripts."""
+"""Shared helpers for PH-TRANSCRIPT-EDIT section patch scripts (interviews + lectures)."""
 from __future__ import annotations
 
 import re
