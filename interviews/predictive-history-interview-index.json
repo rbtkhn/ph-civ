@@ -1,9 +1,9 @@
 {
   "schema_version": 4,
   "scope": "interviews",
-  "fingerprint": "55d1212e6a06cd34",
+  "fingerprint": "dc18c671160a32a9",
   "card_count": 16,
-  "transcript_word_total": 152578,
+  "transcript_word_total": 152678,
   "ssot": "data/cards.jsonl",
   "markdown_index": "interviews/predictive-history-interview-index.md",
   "hub_index": "docs/predictive-history-index.md",
@@ -353,7 +353,7 @@
         "folder": "interviews/interview-2026-05-07-diary-of-a-ceo",
         "folder_readme": "interviews/interview-2026-05-07-diary-of-a-ceo/README.md"
       },
-      "transcript_word_count": 20226,
+      "transcript_word_count": 20326,
       "publication_date": "2026-05-07",
       "source_video_url": "https://www.youtube.com/watch?v=BTJGr78-zyw",
       "commentary_maturity": "scaffold",

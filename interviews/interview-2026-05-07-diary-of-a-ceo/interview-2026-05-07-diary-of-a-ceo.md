@@ -17,7 +17,7 @@ transcript_source: operator_paste
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-06-25
-fidelity_reviewed_at: 2026-06-25
+fidelity_reviewed_at: 2026-06-26
 part: provenance
 part_role: provenance
 series: interviews
@@ -390,75 +390,108 @@ This war, once it starts, can only lead to World War III.
 **Steven Bartlett:** Explain to me how that happens.
 
 **Jiang Xueqin:** Okay. So, we need to step back and appreciate um that there's a global dynamic going on.
-Mhm. Okay?
-And we need to appreciate the grand strategy of the different players involved. Mhm. Right? So, what I what I'm going to do is this.
-I'm going to explain to you how each nation sees itself in the world. Mhm. Okay? And to you and to that, I'm going to use a chess set, okay? Okay. All right. This is the king.
-This is the political system of the United States, which is a democracy.
-And there are certain strengths and weaknesses to a democracy. Democracy is vibrant. It's creative. It's flexible.
-But its ultimate weakness is polarization, where today um the different political factions refuse to get along, and this may bring up the civil war, okay? Mhm. So, the way you defeat the United States is not to conquer it. You can never conquer the United States. The way to defeat the United States is to force it into a civil war, which then kills the king. To get its people to rise up against the leadership. No, you want the Democrats and Republicans to form different factions and fight a civil war. Okay.
-You you want to create some political polarization and different elite factions to take up arms against each other, okay? Okay. So, this is the political system, okay?
-A democracy.
-Now, let's look at the queen. What's the queen?
-The queen is what I refer to as the grand strategy of the United States. How the United States can maintain its control over the entire world. And the grand strategy it's already outlined in the national defense strategy, right? Let's create fortress America and then create chaos throughout the entire world so that we can sell everyone weapons and resources. Okay, that's a grand strategy, all right?
-All right. Now, what is a grand strategy? You need You need to implement this grand strategy. So, you need attack vectors.
-All right, the attack vectors are the rook, the bishop, and the knight. All right, so let's go over the three major attack vectors of the United States. They are, first of all, America's technological supremacy. So, these are the basically the tools that they use to attack others. Exactly. In order to achieve the grand strategy. All right, so air supremacy, right?
-Which is the planes and the stuff like that. Then you have the US dollar.
-Right? Because the US dollar allows you to finance everything. And everyone wants the um uh US dollar, okay? Mhm. So, that is the second attack vector. Now, the third attack vector is propaganda.
-Meaning the United States controls the world's most powerful media, including New York Times, CNN. And as such, they can control the narrative of the world.
-Okay? So, these are the three major attack vectors.
-Now, they use the pawns. Now, pawns are weapons that they can sacrifice in order to achieve the grand strategy.
-And in the case of the United States, the pawn are the allies.
-Mhm. Meaning I hate to say this, but the UK, um Europe, South Korea, and Japan.
-Okay? And also, the entire Western Hemisphere.
-This is the Ameri- the Americans, okay? The people who are most opposed to this grand strategy of Americans are the Russians.
-So, let's go over to the Russian system.
-In the Russian system, the king of the political system is an autocracy.
-And an autocracy is good because it allows for coordination. It allows for decisiveness. It allows for um resolve. Long-term thinking. Exactly, right? That's Putin.
-What's bad is if this guy dies, there's a succession crisis.
-Right? So, basically, once you topple the autocrat, then the system itself breaks down. Okay, so that's the Russian system, right?
-For the Russians, the grand strategy is something called the Third Rome strategy. The Third Rome strategy?
+
+**Steven Bartlett:** Mhm.
+
+**Jiang Xueqin:** Okay?
+
+**Jiang Xueqin:** And we need to appreciate the grand strategy of the different players involved.
+
+**Steven Bartlett:** Mhm.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** So, what I what I'm going to do is this. I'm going to explain to you how each nation sees itself in the world.
+
+**Steven Bartlett:** Mhm.
+
+**Steven Bartlett:** Okay?
+
+**Jiang Xueqin:** And to you and to that, I'm going to use a chess set, okay?
+
+**Steven Bartlett:** Okay.
+
+**Steven Bartlett:** All right.
+
+**Jiang Xueqin:** This is the king. This is the political system of the United States, which is a democracy. And there are certain strengths and weaknesses to a democracy. Democracy is vibrant. It's creative. It's flexible. But its ultimate weakness is polarization, where today um the different political factions refuse to get along, and this may bring up the civil war, okay?
+
+**Steven Bartlett:** Mhm.
+
+**Jiang Xueqin:** So, the way you defeat the United States is not to conquer it. You can never conquer the United States. The way to defeat the United States is to force it into a civil war, which then kills the king.
+
+**Steven Bartlett:** To get its people to rise up against the leadership.
+
+**Jiang Xueqin:** No, you want the Democrats and Republicans to form different factions and fight a civil war. Okay? You you want to create some political polarization and different elite factions to take up arms against each other, okay?
+
+**Steven Bartlett:** Okay.
+
+**Jiang Xueqin:** So, this is the political system, okay? A democracy. Now, let's look at the queen. What's the queen? The queen is what I refer to as the grand strategy of the United States. How the United States can maintain its control over the entire world. And the grand strategy it's already outlined in the national defense strategy, right? Let's create fortress America and then create chaos throughout the entire world so that we can sell everyone weapons and resources. Okay, that's a grand strategy, all right?
+
+**Steven Bartlett:** All right.
+
+**Jiang Xueqin:** Now, what is a grand strategy? You need You need to implement this grand strategy. So, you need attack vectors. All right, the attack vectors are the rook, the bishop, and the knight. All right, so let's go over the three major attack vectors of the United States. They are, first of all, America's technological supremacy. So, these are the basically the tools that they use to attack others.
+
+**Steven Bartlett:** Exactly.
+
+**Jiang Xueqin:** In order to achieve the grand strategy. All right, so air supremacy, right? Which is the planes and the stuff like that. Then you have the US dollar.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** Because the US dollar allows you to finance everything. And everyone wants the um uh US dollar, okay?
+
+**Steven Bartlett:** Mhm.
+
+**Jiang Xueqin:** So, that is the second attack vector. Now, the third attack vector is propaganda. Meaning the United States controls the world's most powerful media, including New York Times, CNN. And as such, they can control the narrative of the world. Okay? So, these are the three major attack vectors. Now, they use the pawns. Now, pawns are weapons that they can sacrifice in order to achieve the grand strategy. And in the case of the United States, the pawn are the allies.
+
+**Steven Bartlett:** Mhm.
+
+**Jiang Xueqin:** Meaning I hate to say this, but the UK, um Europe, South Korea, and Japan. Okay? And also, the entire Western Hemisphere. This is the Ameri- the Americans, okay? The people who are most opposed to this grand strategy of Americans are the Russians. So, let's go over to the Russian system. In the Russian system, the king of the political system is an autocracy. And an autocracy is good because it allows for coordination. It allows for decisiveness. It allows for um resolve. Long-term thinking.
+
+**Steven Bartlett:** Exactly, right?
+
+**Jiang Xueqin:** That's Putin. What's bad is if this guy dies, there's a succession crisis.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** So, basically, once you topple the autocrat, then the system itself breaks down. Okay, so that's the Russian system, right? For the Russians, the grand strategy is something called the Third Rome strategy.
+
+**Steven Bartlett:** The Third Rome strategy?
+
 **Jiang Xueqin:** Yes. Okay. So, the people in Russia believe that they are the true successors to the Roman Empire. And previously, there were two Romes. There was the First Rome, then it moved to Constantinople, and Moscow is destined to the to be the Third Rome. And what makes Moscow interesting is that it wants to unite the entire Christian world under its leadership. Um the main philosopher for the Third Rome strategy is Alexander Dugin, who in 1997 wrote a wrote a book called Foundation of Geopolitics. And what he said was this. What he said that if Russia is to defeat the Americans, it needs to build alliances throughout Eurasia in order to negate American sea power and air supremacy.
-All right?
-So, what are the attack vectors for Russia? Okay.
-The first attack vector, the size of the country makes it almost invincible. So, think about the World War II, Operation Barbarossa, the Germans went into Russia with 6 7 million men, and it didn't get very far, okay? So, the terrain is very important. The geography is very important.
-Then you have the Orthodox religion.
-Which is meant to galvanize believers into supporting Russia.
-The third attack vector is artillery.
-So, Russia has the best land army in the world.
-And we we're seeing that play out in Ukraine where a combination of Russian artillery and drones it's devastating Ukrainian military in Ukraine. The pawns for Russia are are its soldiers. So, Russia is able to sustain many, many casualties in its military.
-If you actually go and interview Russian soldiers, they are probably the bravest soldiers in the world. They are literally not afraid to die for what they believe in. Okay? So, this is the um Russian third world strategy. You can see how it conflicts with the Americans.
-Mhm. Okay?
-Now, we go to the Israelis.
-Jerusalem, the capital. It's a mixed system, meaning it's both democracy as well as a theocracy.
-And it's good in that the Israelis are very creative.
-But, the fundamental weakness is the division within society.
-Where Tel Aviv and Jerusalem don't get along.
-Okay? So, that is the political system of Israel.
-The grand strategy of Israel is called the Greater Israel Project.
-So, the Israelis believe that the entire Middle East belongs to them from the Nile to the Euphrates because that's what it says in the Bible. This is what God, Yahweh, promised Abraham.
-So, their intention is to conquer the entire Middle East, including Egypt, Saudi Arabia, Lebanon, even parts of Turkey.
-Now, let's look at the attack vectors for the the Israelis.
-The first attack vector is Mossad.
-Mossad is the most powerful intelligence agency in the world in that it is able to infiltrate and undermine given political systems.
-And Mossad for anyone that doesn't know is the secret service. Basically, yes.
-Best spy system. Second attack vector for the Israelis is the Jewish diaspora.
-Because Jews do business everywhere around the world.
-And Jewish businessmen work very closely with Mossad.
-And as such, they have influence in a lot of places that they shouldn't have.
-And the um third um attack vector is the Bible.
-Why? Because if you're Christian and there are many Christians who believe this, you believe that the Jews are God's chosen people.
-So, if you look at what's happening in uh the Middle East, um all this conflict between Israel and Palestine, a lot of this conflict is being supported politically in the United States by a group of people called Christian Zionists.
-And these are Christians. They're not Jews, they're Christians who believe that Israel should achieve achieve the greater Israel project because this is part of God's plan. And the pawns for the Israelis are basically everyone else, okay?
-So, a lot of the hardware underpinning the global IT infrastructure um is being controlled by the Israelis.
-So, now we go to the fourth player in this great game, and that's Iran. So, Iran it is a theocracy. People are not afraid to die for what they believe in in Iran.
-But, the weakness is that it can alienate the majority of the population.
-It is only a minority are religious zealots in Iran.
-Most people just want to live to live a decent life. So, they feel that these mullahs, the IRGC are a threat to their peace and prosperity, then they might rise up against the mullahs. Which is what we've seen over the years, right? Exactly. So, so this is a political system of the Iranians.
-Their grand strategy is to unite the Muslim world under leadership. They have three attack vectors, okay? The first attack vector are their proxies.
-Hezbollah, Hamas, the Houthis.
-Another attack vector um is their asymmetrical warfare, meaning using drones and missiles to create as much economic damage as possible. Mhm. Okay. And the third attack vector is their geography or the topog- topography. They are a fortress, so it's almost impossible to um in- invade them.
-All right? So, that's their Shia militiamen. These religious zealots who are not afraid to die. Um essentially, they're all Many of them could be suicide bombers, okay? And and so, for them, this is a religious war. Okay. So, now we're seeing how this entire battlefield unfolds across the world.
-All right? So, I've mapped out the grand strategy of these different nation-states who will be involved in World War III.
+
+**Steven Bartlett:** All right?
+
+**Jiang Xueqin:** So, what are the attack vectors for Russia? Okay. The first attack vector, the size of the country makes it almost invincible. So, think about the World War II, Operation Barbarossa, the Germans went into Russia with 6 7 million men, and it didn't get very far, okay? So, the terrain is very important. The geography is very important. Then you have the Orthodox religion. Which is meant to galvanize believers into supporting Russia. The third attack vector is artillery. So, Russia has the best land army in the world. And we we're seeing that play out in Ukraine where a combination of Russian artillery and drones it's devastating Ukrainian military in Ukraine. The pawns for Russia are are its soldiers. So, Russia is able to sustain many, many casualties in its military. If you actually go and interview Russian soldiers, they are probably the bravest soldiers in the world. They are literally not afraid to die for what they believe in. Okay? So, this is the um Russian Third Rome strategy. You can see how it conflicts with the Americans.
+
+**Steven Bartlett:** Mhm.
+
+**Steven Bartlett:** Okay?
+
+**Jiang Xueqin:** Now, we go to the Israelis. Jerusalem, the capital. It's a mixed system, meaning it's both democracy as well as a theocracy. And it's good in that the Israelis are very creative. But, the fundamental weakness is the division within society. Where Tel Aviv and Jerusalem don't get along. Okay? So, that is the political system of Israel. The grand strategy of Israel is called the Greater Israel Project. So, the Israelis believe that the entire Middle East belongs to them from the Nile to the Euphrates because that's what it says in the Bible. This is what God, Yahweh, promised Abraham. So, their intention is to conquer the entire Middle East, including Egypt, Saudi Arabia, Lebanon, even parts of Turkey. Now, let's look at the attack vectors for the the Israelis. The first attack vector is Mossad. Mossad is the most powerful intelligence agency in the world in that it is able to infiltrate and undermine given political systems. And Mossad for anyone that doesn't know is the secret service.
+
+**Steven Bartlett:** Basically, yes.
+
+**Jiang Xueqin:** Best spy system. Second attack vector for the Israelis is the Jewish diaspora. Because Jews do business everywhere around the world. And Jewish businessmen work very closely with Mossad. And as such, they have influence in a lot of places that they shouldn't have. And the um third um attack vector is the Bible. Why? Because if you're Christian and there are many Christians who believe this, you believe that the Jews are God's chosen people. So, if you look at what's happening in uh the Middle East, um all this conflict between Israel and Palestine, a lot of this conflict is being supported politically in the United States by a group of people called Christian Zionists. And these are Christians. They're not Jews, they're Christians who believe that Israel should achieve achieve the greater Israel project because this is part of God's plan. And the pawns for the Israelis are basically everyone else, okay? So, a lot of the hardware underpinning the global IT infrastructure um is being controlled by the Israelis. So, now we go to the fourth player in this great game, and that's Iran. So, Iran it is a theocracy. People are not afraid to die for what they believe in in Iran. But, the weakness is that it can alienate the majority of the population. It is only a minority are religious zealots in Iran. Most people just want to live to live a decent life. So, they feel that these mullahs, the IRGC are a threat to their peace and prosperity, then they might rise up against the mullahs.
+
+**Steven Bartlett:** Which is what we've seen over the years, right?
+
+**Steven Bartlett:** Exactly.
+
+**Jiang Xueqin:** So, so this is a political system of the Iranians. Their grand strategy is to unite the Muslim world under leadership. They have three attack vectors, okay? The first attack vector are their proxies. Hezbollah, Hamas, the Houthis. Another attack vector um is their asymmetrical warfare, meaning using drones and missiles to create as much economic damage as possible.
+
+**Steven Bartlett:** Mhm.
+
+**Steven Bartlett:** Okay.
+
+**Jiang Xueqin:** And the third attack vector is their geography or the topog- topography. They are a fortress, so it's almost impossible to um in- invade them.
+
+**Steven Bartlett:** All right?
+
+**Jiang Xueqin:** So, that's their Shia militiamen. These religious zealots who are not afraid to die. Um essentially, they're all Many of them could be suicide bombers, okay? And and so, for them, this is a religious war. Okay. So, now we're seeing how this entire battlefield unfolds across the world.
+
+**Steven Bartlett:** All right?
+
+**Jiang Xueqin:** So, I've mapped out the grand strategy of these different nation-states who will be involved in World War III.
 ### Global Chokepoints — Russia Shadow Fleet
 
 **Jiang Xueqin:** Let's look at our present situation, okay? So, what we have so far is that the Russians are occupied with their army in Ukraine.
