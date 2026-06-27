@@ -494,76 +494,95 @@ This war, once it starts, can only lead to World War III.
 **Jiang Xueqin:** So, I've mapped out the grand strategy of these different nation-states who will be involved in World War III.
 ### Global Chokepoints — Russia Shadow Fleet
 
-**Jiang Xueqin:** Let's look at our present situation, okay? So, what we have so far is that the Russians are occupied with their army in Ukraine.
-Okay? This is where their infantry, their artillery is based.
-At the same time, Russia has something called the shadow fleet.
-And these are about a thousand um tankers that evade sanctions around the world. Okay? And this is essentially their navy.
-America is the most powerful military in the world. They have the most sophisticated air supremacy, as well as control over the sea lanes. And it tries not to use infantry uh because that creates civilian casualties and that pisses everyone off in America. Okay?
-These releases are essentially a mercenary army aligned with American Empire, doing the bidding of American Empire. It's fighting in against Lebanon as well as Iraq.
-The Iranians, they don't have much of an air force, but they use a lot of drones to threaten. So, this is where we are so far. According to the grand strategy, we can predict how they will make their moves over next few months, over next few years. America doesn't really care about this war in Iraq.
-Because what America wants to do is force entire world to become dependent on American weapons and resources.
-And you do that in two ways. The first is you control the strategic choke points of the world.
-And they include the Strait of Hormuz, but you also want to control the Strait of Malacca, over here. Because that blocks off East Asia. You also want to control the Panama Canal.
-You also want to control Greenland. You also want to control the Strait of uh Gibraltar. You can see the American Navy extending outward and occupying all these maritime choke points.
-At the same time, you You to use your technological supremacy, your air supremacy, your drones to destroy the world's critical energy infrastructure.
-Already we're seeing oil refineries being destroyed throughout the world.
-Oil refineries? Oil refineries, yes. So, you as as America, you're trying to deplete the world's energy inventory, so they're forced to beg you for to supply energy.
-Right? And once this market is created, then you can build infrastructure for Venezuela.
-You can take over Canada. You can control Mexico. You can take over take take over Greenland, okay?
-The Russians have no choice but to respond.
-Because if the Americans are controlling the strategic choke points, your shadow fleet is rendered redundant, useless.
-So, how do you ship your oil around the world? We have two options.
-I'm just going to build railways to unite the Eurasian continent, okay? And I'm I'm I'll transport my oil using pipelines and railways. The problem with that is now is now that you're vulnerable to American air supremacy, drone attacks.
-So, you have no choice but to arm your shadow fleet. And now, what's going to happen is this continent of oceans between Russian shadow fleet tankers that are trying to transport oil around the world, and these American destroyers were trying to capture or destroy the shadow tankers.
-Now, the advantage that Russia has is that America doesn't have that much naval assets anymore. It used to, but not anymore.
-The other thing is that the world really needs energy, so you can imagine China financing the militarization of the Russian shadow fleet. Why would sir, why to the US try and stop Russian boats?
-Because um in this global outlook there are two nations that could provide weapons and resources to the rest of the world.
-They are Russia and they are America.
-So, if America is to become dominant, it needs to blockade Russia. And what you do that is by seizing their shadow fleet. That could if this were to happen, that would be an act of war.
-But it's already happening. What?
-Really? Yes, it's already happening.
-Where? Iranian tankers have been seized by the Americans.
-And tankers are being seized in the Caribbean as well by the American Navy.
-Whose tankers?
-I believe they are Russian tankers.
-Yes, the United States has indeed been seizing tankers linked to Russia. A major escalation occurred earlier this year on January the 7th, 2026 when the US military and Coast Guard intercepted two sanctioned shadow fleet oil tankers.
-While one was seized directly in the Caribbean, the other involved a dramatic chase that started in the Caribbean and ended in the North Atlantic.
-US forces captured the sanctioned tanker during a pre-dawn raid directly in the Caribbean Sea. The US military described it as stateless sanctioned dark fleet vessel which was engaged in illicit activities.
-These seizures are part of operation Southern Spear, a strict enforcement of the US embargo on Venezuelan oil exports. Both vessels were targeted for violating US sanctions by transporting illicit crude oil linked to Venezuela as well as Iran and Hezbollah.
-And as you point out, this is an act of war.
-So, those were ships that didn't have a country linked to them directly. That's why they call shadow fleet tankers.
-Okay. Yes, but they're essentially Russian. But they were essentially shipping oil outside of the United States the United States wouldn't control. Is that kind of correct?
+**Jiang Xueqin:** Let's look at our present situation, okay? So, what we have so far is that the Russians are occupied with their army in Ukraine. Okay? This is where their infantry, their artillery is based. At the same time, Russia has something called the shadow fleet. And these are about a thousand um tankers that evade sanctions around the world. Okay? And this is essentially their navy. America is the most powerful military in the world. They have the most sophisticated air supremacy, as well as control over the sea lanes. And it tries not to use infantry uh because that creates civilian casualties and that pisses everyone off in America. Okay? The Israelis are essentially a mercenary army aligned with American Empire, doing the bidding of American Empire. It's fighting in against Lebanon as well as Iraq. The Iranians, they don't have much of an air force, but they use a lot of drones to threaten. So, this is where we are so far. According to the grand strategy, we can predict how they will make their moves over next few months, over next few years. America doesn't really care about this war in Iran. Because what America wants to do is force entire world to become dependent on American weapons and resources. And you do that in two ways. The first is you control the strategic choke points of the world. And they include the Strait of Hormuz, but you also want to control the Strait of Malacca, over here. Because that blocks off East Asia. You also want to control the Panama Canal. You also want to control Greenland. You also want to control the Strait of uh Gibraltar. You can see the American Navy extending outward and occupying all these maritime choke points. At the same time, you You to use your technological supremacy, your air supremacy, your drones to destroy the world's critical energy infrastructure. Already we're seeing oil refineries being destroyed throughout the world.
+
+**Steven Bartlett:** Oil refineries?
+
+**Jiang Xueqin:** Oil refineries, yes. So, you as as America, you're trying to deplete the world's energy inventory, so they're forced to beg you for to supply energy.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** And once this market is created, then you can build infrastructure for Venezuela. You can take over Canada. You can control Mexico. You can take over take take over Greenland, okay? The Russians have no choice but to respond. Because if the Americans are controlling the strategic choke points, your shadow fleet is rendered redundant, useless. So, how do you ship your oil around the world? We have two options. I'm just going to build railways to unite the Eurasian continent, okay? And I'm I'm I'll transport my oil using pipelines and railways. The problem with that is now is now that you're vulnerable to American air supremacy, drone attacks. So, you have no choice but to arm your shadow fleet. And now, what's going to happen is this continent of oceans between Russian shadow fleet tankers that are trying to transport oil around the world, and these American destroyers were trying to capture or destroy the shadow tankers. Now, the advantage that Russia has is that America doesn't have that much naval assets anymore. It used to, but not anymore. The other thing is that the world really needs energy, so you can imagine China financing the militarization of the Russian shadow fleet.
+
+**Steven Bartlett:** Why would the US try and stop Russian boats?
+
+**Jiang Xueqin:** Because um in this global outlook there are two nations that could provide weapons and resources to the rest of the world. They are Russia and they are America. So, if America is to become dominant, it needs to blockade Russia. And what you do that is by seizing their shadow fleet. That could if this were to happen, that would be an act of war.
+
+**Steven Bartlett:** But it's already happening.
+
+**Jiang Xueqin:** What?
+
+**Steven Bartlett:** Really?
+
+**Jiang Xueqin:** Yes, it's already happening.
+
+**Steven Bartlett:** Where?
+
+**Jiang Xueqin:** Iranian tankers have been seized by the Americans. And tankers are being seized in the Caribbean as well by the American Navy.
+
+**Steven Bartlett:** Whose tankers?
+
+**Jiang Xueqin:** I believe they are Russian tankers.
+
+**Steven Bartlett:** Yes, the United States has indeed been seizing tankers linked to Russia. A major escalation occurred earlier this year on January the 7th, 2026 when the US military and Coast Guard intercepted two sanctioned shadow fleet oil tankers. While one was seized directly in the Caribbean, the other involved a dramatic chase that started in the Caribbean and ended in the North Atlantic. US forces captured the sanctioned tanker during a pre-dawn raid directly in the Caribbean Sea. The US military described it as stateless sanctioned dark fleet vessel which was engaged in illicit activities. These seizures are part of operation Southern Spear, a strict enforcement of the US embargo on Venezuelan oil exports. Both vessels were targeted for violating US sanctions by transporting illicit crude oil linked to Venezuela as well as Iran and Hezbollah.
+
+**Steven Bartlett:** And as you point out, this is an act of war.
+
+**Jiang Xueqin:** So, those were ships that didn't have a country linked to them directly. That's why they call shadow fleet tankers. Okay. Yes, but they're essentially Russian. But they were essentially shipping oil outside of the United States the United States wouldn't control. Is that kind of correct?
 
 **Steven Bartlett:** That is correct, yes. Okay.
+
 **Steven Bartlett:** Yes. So if the US said, "Listen, this is our oil — get lost."
 
-**Jiang Xueqin:** That is correct, yes.
-Right? So what the US is doing is slowly expanding its global reach. And what it's doing that is by signing treaties with nations that are part of these choke points. So the Strait of Malacca, which the United States has signed a military cooperation agreement with Indonesia.
-And with the Strait of Gibraltar, uh the Americans have signed an agreement now with Morocco.
-Right? So they are looking for the legal framework and certification to control the world's choke points, which would bring them directly in conflict with the Russian shadow fleet. So at some point you think the way that the war starts is the US Navy attacks a Russian boat.
-So I personally believe that this will be a drawn-out process that and there's no real concrete flash point. Because not only are Russian shadow flanker shadow fleet tankers being seized, but remember Russian oil farmers are being destroyed by Ukrainian drones. And the Russians believe that it is NATO that is responsible for the sabotage. So what what what do you think the catalyst moment is when this all kicks off? I think we're already in the catalyst moment. I think we're we're already in World War III because this conflict it's going to expand outwards uh into a global conflict and there's nothing anyone can do to stop this, right? Because again, you have these different competing visions of how the world should work and the Russians and Americans are already at conflict with each other.
-So the next step will be the Russians come into this war on the side of the Iranians. You think that's going to happen? I think that's going to happen because according to Russian grand strategy, you have no choice but to save the Iranians.
-Because you're trying to promote this view that the world is split between the spiritual and the material. The Americans are the Antichrist. The Americans support individual hedonism, whereas we Russians, we believe in humanity. We believe in goodness. We believe in community. Right? So, if you believe if you that is your argument, if that's your grand strategy, you have a more obligation, a more imperative to help the Iranians in their time of need.
-And in fact, Prime Prime Minister Araghchi of Iran has recently visited Putin in Moscow. Putin Putin personally received him and said to Araghchi, "We, the Russian people, admire your determination, your resolve um against the Americans." And I think that is a sign that Putin has entered the chat and that the Russians will start to help the Iranians as this war progresses. So, let's go back to this map, okay?
-**Jiang Xueqin:** Okay. And the Americans have a three-pronged strategy to strangle Iran.
-The first is to use ground forces to establish forward operating bases to incite ethnic violence in the country.
-The second is to block all the shipping moves and cut off Iranian financing. The third is to strangle Iran and cause the people to rise up like against the government, okay?
-And the Russians So, if things stay the stay as they are now, America wins. Easily.
-But, if Russia were to enter the war on behalf of the Iranians, the first thing that Russia would do is provide Iran with reinforcement from the Caspian Sea. Right? Because the Americans want to knock out Iran's capacity to provide food, water, and electricity to its people. But, uh through the Caspian Sea, the Russians can support the uh Iranians. But, not only that, and this is much more important, if the Russians were to come in, they could also bring the Chinese into the war on behalf of the Iranians. And the Chinese could use the Belt and Road Initiative, basically the railway system, to reinforce Tehran from uh the east. So now you can no longer strangle Tehran because the Russians and the Chinese are reinforcing Tehran. Then what the Russians could do is provide financing to the Iranians. Basically the Iranian the Chi- sorry, the Chinese and the Russians can say to Iranians, "Don't worry about financing. We will give you enough uh financing for you to continue this war for as long as you want, and we'll use our resources as collateral for this financing." Right? And the third thing, and this is actually the most important, is that Russia could put Iran under its nuclear umbrella.
-And this would negate the use of tactical nuclear weapons.
-Israelis and Americans, if they really felt under pressure, if they were really put in a corner, they could always choose to use tactical nuclear weapons. If the Russians were involved, that negates that option.
-Right? So if the Russians get involved in this war, they bring in the Chinese, they provide they provide the resources and the financing to continue this war for as long as it takes.
-Mhm.
-Right?
-And now the Americans need to expand this war around the world to try now to topple the government in Russia.
-Because the Russians are the main backers of the Iranians.
-And you're predicting that Russia will get involved here. According to the grand strategy of Russia, the Russians have no choice but to get involved because what will happen is that if you look at this map, if Iran were to be conquered by the Americans or the Israelis, the entire southern flank of the Russians were now exposed to possible attack. And that's that's something that the Russians would never allow to happen.
-The sovereign flank, so what this from underneath?
+**Jiang Xueqin:** That is correct, yes. Right? So what the US is doing is slowly expanding its global reach. And what it's doing that is by signing treaties with nations that are part of these choke points. So the Strait of Malacca, which the United States has signed a military cooperation agreement with Indonesia. And with the Strait of Gibraltar, uh the Americans have signed an agreement now with Morocco. Right? So they are looking for the legal framework and certification to control the world's choke points, which would bring them directly in conflict with the Russian shadow fleet.
+
+**Steven Bartlett:** So at some point you think the way that the war starts is the US Navy attacks a Russian boat.
+
+**Jiang Xueqin:** So I personally believe that this will be a drawn-out process that and there's no real concrete flash point. Because not only are Russian shadow fleet tankers being seized, but remember Russian oil refineries are being destroyed by Ukrainian drones. And the Russians believe that it is NATO that is responsible for the sabotage.
+
+**Steven Bartlett:** So what do you think the catalyst moment is when this all kicks off?
+
+**Jiang Xueqin:** I think we're already in the catalyst moment. I think we're we're already in World War III because this conflict it's going to expand outwards uh into a global conflict and there's nothing anyone can do to stop this, right? Because again, you have these different competing visions of how the world should work and the Russians and Americans are already at conflict with each other. So the next step will be the Russians come into this war on the side of the Iranians.
+
+**Steven Bartlett:** You think that's going to happen?
+
+**Jiang Xueqin:** I think that's going to happen because according to Russian grand strategy, you have no choice but to save the Iranians. Because you're trying to promote this view that the world is split between the spiritual and the material. The Americans are the Antichrist. The Americans support individual hedonism, whereas we Russians, we believe in humanity. We believe in goodness. We believe in community.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** So, if you believe if you that is your argument, if that's your grand strategy, you have a more obligation, a more imperative to help the Iranians in their time of need. And in fact, Prime Minister Araghchi of Iran has recently visited Putin in Moscow. Putin Putin personally received him and said to Araghchi, "We, the Russian people, admire your determination, your resolve um against the Americans." And I think that is a sign that Putin has entered the chat and that the Russians will start to help the Iranians as this war progresses.
+
+**Steven Bartlett:** So, let's go back to this map, okay?
+
+**Jiang Xueqin:** Okay. And the Americans have a three-pronged strategy to strangle Iran. The first is to use ground forces to establish forward operating bases to incite ethnic violence in the country. The second is to block all the shipping moves and cut off Iranian financing. The third is to strangle Iran and cause the people to rise up like against the government, okay? And the Russians So, if things stay the stay as they are now, America wins. Easily. But, if Russia were to enter the war on behalf of the Iranians, the first thing that Russia would do is provide Iran with reinforcement from the Caspian Sea.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** Because the Americans want to knock out Iran's capacity to provide food, water, and electricity to its people. But, uh through the Caspian Sea, the Russians can support the uh Iranians. But, not only that, and this is much more important, if the Russians were to come in, they could also bring the Chinese into the war on behalf of the Iranians. And the Chinese could use the Belt and Road Initiative, basically the railway system, to reinforce Tehran from uh the east. So now you can no longer strangle Tehran because the Russians and the Chinese are reinforcing Tehran. Then what the Russians could do is provide financing to the Iranians. Basically the Iranian the Chi- sorry, the Chinese and the Russians can say to Iranians, "Don't worry about financing. We will give you enough uh financing for you to continue this war for as long as you want, and we'll use our resources as collateral for this financing."
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** And the third thing, and this is actually the most important, is that Russia could put Iran under its nuclear umbrella. And this would negate the use of tactical nuclear weapons. Israelis and Americans, if they really felt under pressure, if they were really put in a corner, they could always choose to use tactical nuclear weapons. If the Russians were involved, that negates that option.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** So if the Russians get involved in this war, they bring in the Chinese, they provide they provide the resources and the financing to continue this war for as long as it takes.
+
+**Steven Bartlett:** Mhm.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** And now the Americans need to expand this war around the world to try now to topple the government in Russia. Because the Russians are the main backers of the Iranians.
+
+**Steven Bartlett:** And you're predicting that Russia will get involved here.
+
+**Jiang Xueqin:** According to the grand strategy of Russia, the Russians have no choice but to get involved because what will happen is that if you look at this map, if Iran were to be conquered by the Americans or the Israelis, the entire southern flank of the Russians were now exposed to possible attack. And that's that's something that the Russians would never allow to happen.
+
+**Steven Bartlett:** The southern flank, so what this from underneath?
+
 **Steven Bartlett:** Basically, right?
-Right? But not only that, but the Americans already have close relations with Azerbaijan.
-And they already have bases in Turkmenistan as well as Uzbekistan, right? So, you can see how once the Americans control this area, they can now attack Russia from the south. But, what's most important is the issue of global trade, where like a counter to America's naval blockade is by creating a Eurasian trade block that involves Iran, Russia, and China. You look at Russia's north-south corridor, right?
-You look at China's If you look at Russia's north-south corridor, it runs through Iran. If Russia wants to have access to the Middle East as well as Africa, it has to go through Iran. Look at China's Belt and Road Initiative, it goes through Iran as well.
-So, by taking out Iran, you've blockaded both Russia and China.
+
+**Jiang Xueqin:** But not only that, the Americans already have close relations with Azerbaijan. And they already have bases in Turkmenistan as well as Uzbekistan, right? So, you can see how once the Americans control this area, they can now attack Russia from the south. But, what's most important is the issue of global trade, where like a counter to America's naval blockade is by creating a Eurasian trade block that involves Iran, Russia, and China. You look at Russia's north-south corridor, right? If you look at Russia's north-south corridor, it runs through Iran. If Russia wants to have access to the Middle East as well as Africa, it has to go through Iran. Look at China's Belt and Road Initiative, it goes through Iran as well. So, by taking out Iran, you've blockaded both Russia and China.
 70% of people who add something to their online cart never actually buy it, and that number is based on over 10 years of research. But, what I think is even more interesting is what the Baymard Institute discovered. They're a private research company that ran a study which found the average e-commerce store can increase its conversion rate by 35% just by making its checkout easier. Not better marketing or better products, but by delivering a smoother checkout experience. So, if you're looking for an easy way to make your checkout process smoother, I want you to think about moving your business onto Shopify. It's the platform we use to sell the 1% diaries and the conversation cards because it's so simple and smart to use.
 It puts all of our inventory, payments, and analytics in one place, and has so many AI tools to help us get up and running straight away. Not to mention that it grows with you, regardless of the stage that your business is at. So, if you're ready to fix your checkout process, sign up for your $1 per month trial at shopify.com/bartlet.
 That's shopify.com/bartlet, and don't tell anybody.

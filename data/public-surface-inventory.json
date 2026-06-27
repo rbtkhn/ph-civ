@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "fingerprint": "a21f4dd6a4a978de",
-  "generated_at": "2026-06-27T07:13:12Z",
+  "generated_at": "2026-06-27T07:15:40Z",
   "card_count": 206,
   "chapter_catalog": "docs/predictive-history-index.json",
   "markdown_summary": "runtime/artifacts/public-surface-inventory.md",
@@ -20,7 +20,7 @@
       "public_ready": false,
       "validation_coverage": "validate:volume-i-parts-deprecated",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "volume_i_parts_deprecated_json",
@@ -35,7 +35,7 @@
       "public_ready": false,
       "validation_coverage": "manual",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "agents_guardrails",
@@ -50,7 +50,7 @@
       "public_ready": true,
       "validation_coverage": "validate:public-boundary",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "start_here",
@@ -65,7 +65,7 @@
       "public_ready": true,
       "validation_coverage": "validate:llm-experience",
       "notes": "LLM paste URL entry; pairs with llm-experience.json",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "strategy_codex_bridge",
@@ -80,7 +80,7 @@
       "public_ready": true,
       "validation_coverage": "manual",
       "notes": "Publisher staging-mirror boundary; names private workshop explicitly",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "cards_dataset",
@@ -95,7 +95,7 @@
       "public_ready": true,
       "validation_coverage": "validate:cards",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "predictive_history_index",
@@ -110,7 +110,7 @@
       "public_ready": true,
       "validation_coverage": "validate:predictive-history-index",
       "notes": "Human mirror: docs/predictive-history-index.md",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "chapter_folders",
@@ -125,7 +125,7 @@
       "public_ready": true,
       "validation_coverage": "validate:cards",
       "notes": "163 folder-backed study doorways; full list in predictive-history-index.json [path missing at generation]",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "ph_apo_volume_ii_chapters",
@@ -140,7 +140,7 @@
       "public_ready": true,
       "validation_coverage": "docs/predictive-history-index.json",
       "notes": "ph-apo surface count: 69 [path missing at generation]",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "ph_civ_volume_i_chapters",
@@ -155,7 +155,7 @@
       "public_ready": true,
       "validation_coverage": "docs/predictive-history-index.json",
       "notes": "ph-civ surface count: 121 [path missing at generation]",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "commentary_methodology_v2",
@@ -170,7 +170,7 @@
       "public_ready": true,
       "validation_coverage": "validate:commentary-canvas",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "public_repo_contract",
@@ -185,7 +185,7 @@
       "public_ready": true,
       "validation_coverage": "manual",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "public_surface_status",
@@ -200,7 +200,7 @@
       "public_ready": true,
       "validation_coverage": "manual",
       "notes": "Surface readiness vocabulary SSOT",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "source_lattice",
@@ -215,7 +215,7 @@
       "public_ready": true,
       "validation_coverage": "manual",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "growth_goals",
@@ -230,7 +230,7 @@
       "public_ready": false,
       "validation_coverage": "manual",
       "notes": "Ambitions ≠ launch readiness",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "llm_experience",
@@ -245,7 +245,7 @@
       "public_ready": true,
       "validation_coverage": "validate:llm-experience",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "llms_full",
@@ -260,7 +260,7 @@
       "public_ready": true,
       "validation_coverage": "validate:llm-experience",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "llms_txt",
@@ -275,7 +275,7 @@
       "public_ready": true,
       "validation_coverage": "validate:llm-experience",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "patterns_dataset",
@@ -290,7 +290,7 @@
       "public_ready": true,
       "validation_coverage": "validate:patterns",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "choreography_routes",
@@ -305,7 +305,7 @@
       "public_ready": true,
       "validation_coverage": "validate:choreography",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "first_tour",
@@ -320,7 +320,7 @@
       "public_ready": true,
       "validation_coverage": "validate:first-tour",
       "notes": "Doctrine mirror: docs/onboarding/first-tour.md",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "route_seed",
@@ -335,7 +335,7 @@
       "public_ready": true,
       "validation_coverage": "validate:choreography",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "spine_tour",
@@ -350,7 +350,7 @@
       "public_ready": true,
       "validation_coverage": "manual",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "public_surface_inventory",
@@ -365,7 +365,7 @@
       "public_ready": true,
       "validation_coverage": "manual",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "public_surface_triage",
@@ -380,7 +380,7 @@
       "public_ready": true,
       "validation_coverage": "manual",
       "notes": "",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     },
     {
       "surface": "transcript_commentary_chapters",
@@ -395,7 +395,7 @@
       "public_ready": true,
       "validation_coverage": "docs/predictive-history-index.json",
       "notes": "206 chapters with transcript + commentary paths",
-      "last_checked": "2026-06-27T07:13:12Z"
+      "last_checked": "2026-06-27T07:15:40Z"
     }
   ]
 }

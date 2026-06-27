@@ -1,11 +1,11 @@
-<!-- predictive-history-index-fingerprint: a80d9b9f8024cace -->
+<!-- predictive-history-index-fingerprint: 7675fcc87d68dcc8 -->
 # Predictive History Chapter Index
 
 Canonical catalog of every public Predictive History chapter in this repository (lectures, Substack essays, and provenance interviews).
 
 - **Primary artifact:** `namespace_catalog` (namespace hub + slice indexes)
 - **Card count:** 206
-- **Transcript words (total):** 1,450,349
+- **Transcript words (total):** 1,450,413
 - **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`predictive-history-index.json`](predictive-history-index.json)
 - **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py` · auto-sync during `ph-civ validate` and publish
 
@@ -400,7 +400,7 @@ Provenance packets preserve old seven-volume source-family material (interviews 
 | `interview-2026-04-07-patrick-bet-david` | Interviews #13: Patrick Bet-David — Jiang Xueqin Finally Breaks His Silence (PBD Podcast #772) | `in_review` | 12,389 | [transcript](../interviews/interview-2026-04-07-patrick-bet-david/interview-2026-04-07-patrick-bet-david.md) | [commentary](../interviews/interview-2026-04-07-patrick-bet-david/interview-2026-04-07-patrick-bet-david-commentary.md) | [folder](../interviews/interview-2026-04-07-patrick-bet-david/README.md) | [video](https://www.youtube.com/watch?v=Wio--7_GIOs) |
 | `interview-2026-04-13-glenn-diesen` | Interviews #14: Glenn Diesen — The Iran War & the Battle for the Petrodollar | `in_review` | 6,213 | [transcript](../interviews/interview-2026-04-13-glenn-diesen/interview-2026-04-13-glenn-diesen.md) | [commentary](../interviews/interview-2026-04-13-glenn-diesen/interview-2026-04-13-glenn-diesen-commentary.md) | [folder](../interviews/interview-2026-04-13-glenn-diesen/README.md) | [video](https://www.youtube.com/watch?v=P_DHMUdOVdo) |
 | `interview-2026-04-13-sneako-dugin` | Interviews #15: Sneako — Jiang Xueqin & Aleksandr Dugin (Eschatology & Geopolitics) | `in_review` | 11,212 | [transcript](../interviews/interview-2026-04-13-sneako-dugin/interview-2026-04-13-sneako-dugin.md) | [commentary](../interviews/interview-2026-04-13-sneako-dugin/interview-2026-04-13-sneako-dugin-commentary.md) | [folder](../interviews/interview-2026-04-13-sneako-dugin/README.md) | [video](https://www.youtube.com/watch?v=n44OF1Y7zgo) |
-| `interview-2026-05-07-diary-of-a-ceo` | Interviews #16: Diary of a CEO (Steven Bartlett) — World War 3 Is About To Begin | `in_review` | 20,498 | [transcript](../interviews/interview-2026-05-07-diary-of-a-ceo/interview-2026-05-07-diary-of-a-ceo.md) | [commentary](../interviews/interview-2026-05-07-diary-of-a-ceo/interview-2026-05-07-diary-of-a-ceo-commentary.md) | [folder](../interviews/interview-2026-05-07-diary-of-a-ceo/README.md) | [video](https://www.youtube.com/watch?v=BTJGr78-zyw) |
+| `interview-2026-05-07-diary-of-a-ceo` | Interviews #16: Diary of a CEO (Steven Bartlett) — World War 3 Is About To Begin | `in_review` | 20,562 | [transcript](../interviews/interview-2026-05-07-diary-of-a-ceo/interview-2026-05-07-diary-of-a-ceo.md) | [commentary](../interviews/interview-2026-05-07-diary-of-a-ceo/interview-2026-05-07-diary-of-a-ceo-commentary.md) | [folder](../interviews/interview-2026-05-07-diary-of-a-ceo/README.md) | [video](https://www.youtube.com/watch?v=BTJGr78-zyw) |
 | `sh-01` | Secret History #1: How Power Works (4K Re-Upload with Audio Fixed) | `in_review` | 9,439 | [transcript](../lectures/secret-history/sh-01/sh-01-transcript.md) | [commentary](../lectures/secret-history/sh-01/sh-01-commentary.md) | [folder](../lectures/secret-history/sh-01/README.md) | [video](https://www.youtube.com/watch?v=lt8XLz78ZvY) |
 | `sh-02` | Secret History #2: How Societies Collapse | `in_review` | 7,200 | [transcript](../lectures/secret-history/sh-02/sh-02-transcript.md) | [commentary](../lectures/secret-history/sh-02/sh-02-commentary.md) | [folder](../lectures/secret-history/sh-02/README.md) | [video](https://www.youtube.com/watch?v=K-_l9jBGo74) |
 | `sh-03` | Secret History #3: Death by Gerontocracy | `in_review` | 7,251 | [transcript](../lectures/secret-history/sh-03/sh-03-transcript.md) | [commentary](../lectures/secret-history/sh-03/sh-03-commentary.md) | [folder](../lectures/secret-history/sh-03/README.md) | [video](https://www.youtube.com/watch?v=0g3yo1DjiLM) |
