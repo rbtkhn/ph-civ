@@ -12,7 +12,7 @@
   "deprecated_artifacts": {
     "two_volume_ph_civ": {
       "archive_doc": "docs/archive/two-volume-ph-civ-apo-deprecated.md",
-      "reader_map": "docs/two-volumes-one-reader-map.md",
+      "reader_map": "docs/archive/two-volumes-one-reader-map.md",
       "surfaces": ["ph-civ", "ph-apo"]
     }
   },
@@ -83,14 +83,14 @@
   },
   "first_tour": {
     "path": "data/routes/first-tour.json",
-    "reader_doc": "docs/first-tour.md",
+    "reader_doc": "docs/onboarding/first-tour.md",
     "opening_route": "civ-07",
     "opening_path": "homer-to-tolstoy",
     "continue_prompt": "Continue the first_tour by opening civ-07 as the Homeric memory system: explain why it matters, how to read it, what not to overclaim, and where the reader can go next."
   },
   "bilingual_bridge": {
     "path": "data/bilingual-loop.json",
-    "reader_doc": "docs/bilingual-civilizational-bridge.md",
+    "reader_doc": "docs/localization/bilingual-civilizational-bridge.md",
     "posture": "civilizational_bridge",
     "bridge_id": "trilingual_civilizational_bridge",
     "language_scope": "trilingual",
@@ -104,7 +104,7 @@
     "authority_model": "ph-civ-zh and ph-civ-ru are downstream mirrors of canonical ph-civ, not sibling sources of truth."
   },
   "chapter_folder_links": {
-    "reader_doc": "docs/chapter-folder-links.md",
+    "reader_doc": "docs/onboarding/chapter-folder-links.md",
     "default_mode": "study",
     "cli": "ph-civ link <source_id>",
     "url_pattern": "https://github.com/rbtkhn/predictive-history/tree/main/book/<volume>/<source_id>",
@@ -129,7 +129,7 @@
         "docs/predictive-history-index.md",
         "data/routes/seed.json",
         "data/routes/first-tour.json",
-        "docs/first-tour.md"
+        "docs/onboarding/first-tour.md"
       ]
     },
     {
@@ -190,7 +190,7 @@
       "start_files": [
         "data/routes/choreography.json",
         "data/patterns.json",
-        "docs/public-repo-contract.md"
+        "docs/contracts/public-repo-contract.md"
       ]
     }
   ],
@@ -219,8 +219,8 @@
     "essays/predictive-history-essay-index.md",
     "interviews/predictive-history-interview-index.md",
     "docs/archive/two-volume-ph-civ-apo-deprecated.md",
-    "docs/public-repo-contract.md",
-    "docs/export-contract.md",
+    "docs/contracts/public-repo-contract.md",
+    "docs/contracts/export-contract.md",
     "data/weave/volume-i-companions.json",
     "data/routes/volume-i-spine-tour.json",
     "data/parts/volume-i-parts.deprecated.json",
@@ -229,13 +229,13 @@
     "data/routes/seed.json",
     "data/routes/first-tour.json",
     "data/routes/choreography.json",
-    "docs/first-tour.md",
-    "docs/two-volumes-one-reader-map.md",
+    "docs/onboarding/first-tour.md",
+    "docs/archive/two-volumes-one-reader-map.md",
     "data/bilingual-loop.json",
-    "docs/bilingual-civilizational-bridge.md",
-    "docs/chapter-folder-links.md",
+    "docs/localization/bilingual-civilizational-bridge.md",
+    "docs/onboarding/chapter-folder-links.md",
     "data/public-surface-inventory.json",
-    "docs/public-surface-status.md",
+    "docs/catalogs/public-surface-status.md",
     "data/cards.jsonl",
     "data/patterns.json"
   ]

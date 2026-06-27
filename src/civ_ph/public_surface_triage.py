@@ -227,7 +227,7 @@ def render_triage_markdown(payload: dict) -> str:
         f"- **Machine SSOT:** [`{TRIAGE_JSON_REL}`](../../{TRIAGE_JSON_REL})",
         f"- **Regenerate:** `ph-civ surface-triage`",
         "",
-        "Vocabulary: [public-surface-status.md](../../docs/public-surface-status.md).",
+        "Vocabulary: [public-surface-status.md](../../docs/catalogs/public-surface-status.md).",
         "Rebuild wave queue: `ph-civ commentary-status`.",
         "",
         "## Bucket counts",

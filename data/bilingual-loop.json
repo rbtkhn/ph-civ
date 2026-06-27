@@ -115,7 +115,7 @@
     "long": "A trilingual civilizational bridge where canonical English ph-civ can support downstream Chinese and Russian mirrors through the same source-bounded route system, without propaganda, flattery, loose translation, or independent localization canons."
   },
   "start_files": [
-    "docs/bilingual-civilizational-bridge.md",
+    "docs/localization/bilingual-civilizational-bridge.md",
     "data/bilingual-loop.json",
     "data/routes/first-tour.json",
     "data/spines/homer-to-tolstoy.json"

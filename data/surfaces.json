@@ -34,7 +34,7 @@
     "two_volume": {
       "primary_artifact": "two_volume_ph_civ",
       "archive_doc": "docs/archive/two-volume-ph-civ-apo-deprecated.md",
-      "reader_map": "docs/two-volumes-one-reader-map.md",
+      "reader_map": "docs/archive/two-volumes-one-reader-map.md",
       "volumes": {
         "volume_i": {
           "surface": "ph-civ",

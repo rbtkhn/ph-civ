@@ -279,10 +279,10 @@ def test_llm_native_bootloader_contract(capsys):
     assert experience["first_response_contract"]["opening_path"] == "homer-to-tolstoy"
     assert any("Choose one:" in line for line in experience["first_response_contract"]["template"])
     assert experience["first_tour"]["path"] == "data/routes/first-tour.json"
-    assert experience["first_tour"]["reader_doc"] == "docs/first-tour.md"
+    assert experience["first_tour"]["reader_doc"] == "docs/onboarding/first-tour.md"
     assert experience["first_tour"]["opening_route"] == "civ-07"
     assert experience["bilingual_bridge"]["path"] == "data/bilingual-loop.json"
-    assert experience["bilingual_bridge"]["reader_doc"] == "docs/bilingual-civilizational-bridge.md"
+    assert experience["bilingual_bridge"]["reader_doc"] == "docs/localization/bilingual-civilizational-bridge.md"
     assert experience["bilingual_bridge"]["posture"] == "civilizational_bridge"
     assert experience["bilingual_bridge"]["bridge_id"] == "trilingual_civilizational_bridge"
     assert experience["bilingual_bridge"]["language_scope"] == "trilingual"
@@ -291,7 +291,7 @@ def test_llm_native_bootloader_contract(capsys):
     assert experience["bilingual_bridge"]["primary_wedge"] == "homer_to_tolstoy_read_from_china"
     assert experience["bilingual_bridge"]["localization_roadmap"] == ["ph-civ-zh", "ph-civ-ru"]
     assert "downstream mirrors" in experience["bilingual_bridge"]["authority_model"]
-    assert experience["chapter_folder_links"]["reader_doc"] == "docs/chapter-folder-links.md"
+    assert experience["chapter_folder_links"]["reader_doc"] == "docs/onboarding/chapter-folder-links.md"
     assert experience["chapter_folder_links"]["default_mode"] == "study"
     assert experience["chapter_folder_links"]["cli"] == "ph-civ link <source_id>"
     assert experience["chapter_catalog"]["json_path"] == "docs/predictive-history-index.json"
@@ -321,7 +321,7 @@ def test_llm_native_bootloader_contract(capsys):
     assert payload["first_response_contract"]["default_mode"] == "first_tour"
     assert payload["first_tour"]["path"] == "data/routes/first-tour.json"
     assert payload["bilingual_bridge"]["path"] == "data/bilingual-loop.json"
-    assert payload["chapter_folder_links"]["reader_doc"] == "docs/chapter-folder-links.md"
+    assert payload["chapter_folder_links"]["reader_doc"] == "docs/onboarding/chapter-folder-links.md"
     assert payload["chapter_catalog"]["json_path"] == "docs/predictive-history-index.json"
     assert payload["first_seed"]["route_ids"] == load_route_seed()["route_ids"]
 
@@ -523,7 +523,7 @@ def test_bilingual_bridge_contract(capsys):
         "downstream_localization_mirror"
     }
 
-    doc = (ROOT / "docs" / "bilingual-civilizational-bridge.md").read_text(encoding="utf-8")
+    doc = (ROOT / "docs" / "localization" / "bilingual-civilizational-bridge.md").read_text(encoding="utf-8")
     assert "Trilingual Civilizational Bridge" in doc
     assert "`ph-civ` / English / canonical public artifact" in doc
     assert "Homer to Tolstoy, read from China." in doc
@@ -600,7 +600,7 @@ def test_first_tour_contract(capsys):
     assert "Homeric memory system" in tour["continue_prompt"]
     assert "Anna Karenina coda" in "\n".join(tour["guardrails"])
 
-    first_tour_doc = ROOT / "docs" / "first-tour.md"
+    first_tour_doc = ROOT / "docs" / "onboarding" / "first-tour.md"
     text = first_tour_doc.read_text(encoding="utf-8")
     assert "First-Tour Response Shape" in text
     assert "First tour, stop 1: civ-07" in text

@@ -117,7 +117,7 @@ PUBLIC_BOUNDARY_SCAN_PATHS = [
 PUBLIC_BOUNDARY_SCAN_EXCLUDES = {
     "docs/strategy-codex-bridge.md",
     "docs/jiang-analysis-index.md",
-    "docs/public-surface-status.md",
+    "docs/catalogs/public-surface-status.md",
     "data/public-surface-inventory.json",
     "data/public-surface-triage.json",
 }
@@ -791,9 +791,9 @@ def cmd_validate(args) -> int:
         errors.append("first tour phases must cover route seed in order")
     if "civ-07" not in first_tour.get("continue_prompt", ""):
         errors.append("first tour continue prompt must open civ-07")
-    first_tour_doc = DATA_ROOT.parent / "docs" / "first-tour.md"
+    first_tour_doc = DATA_ROOT.parent / "docs" / "onboarding" / "first-tour.md"
     if not first_tour_doc.exists():
-        errors.append("docs/first-tour.md must exist")
+        errors.append("docs/onboarding/first-tour.md must exist")
     else:
         first_tour_text = first_tour_doc.read_text(encoding="utf-8")
         for marker in [
@@ -803,7 +803,7 @@ def cmd_validate(args) -> int:
             "namespace catalog hub",
         ]:
             if marker not in first_tour_text:
-                errors.append(f"docs/first-tour.md missing marker: {marker}")
+                errors.append(f"docs/onboarding/first-tour.md missing marker: {marker}")
     llm_experience = load_llm_experience()
     if not (DATA_ROOT.parent / "START-HERE.md").exists():
         errors.append("START-HERE.md must exist as the LLM bootloader")
@@ -837,13 +837,13 @@ def cmd_validate(args) -> int:
     llm_first_tour = llm_experience.get("first_tour", {})
     if llm_first_tour.get("path") != "data/routes/first-tour.json":
         errors.append("llm-experience first_tour must point to data/routes/first-tour.json")
-    if llm_first_tour.get("reader_doc") != "docs/first-tour.md":
-        errors.append("llm-experience first_tour must point to docs/first-tour.md")
+    if llm_first_tour.get("reader_doc") != "docs/onboarding/first-tour.md":
+        errors.append("llm-experience first_tour must point to docs/onboarding/first-tour.md")
     if llm_first_tour.get("opening_route") != "civ-07":
         errors.append("llm-experience first_tour must open at civ-07")
     chapter_folder_links = llm_experience.get("chapter_folder_links", {})
-    if chapter_folder_links.get("reader_doc") != "docs/chapter-folder-links.md":
-        errors.append("llm-experience chapter_folder_links must point to docs/chapter-folder-links.md")
+    if chapter_folder_links.get("reader_doc") != "docs/onboarding/chapter-folder-links.md":
+        errors.append("llm-experience chapter_folder_links must point to docs/onboarding/chapter-folder-links.md")
     if chapter_folder_links.get("default_mode") != "study":
         errors.append("llm-experience chapter_folder_links must default to study")
     if "ph-civ link" not in chapter_folder_links.get("cli", ""):
@@ -912,9 +912,9 @@ def cmd_validate(args) -> int:
         ]:
             if marker not in full_context_text:
                 errors.append(f"llms-full.txt missing marker: {marker}")
-    chapter_folder_doc = DATA_ROOT.parent / "docs" / "chapter-folder-links.md"
+    chapter_folder_doc = DATA_ROOT.parent / "docs" / "onboarding" / "chapter-folder-links.md"
     if not chapter_folder_doc.exists():
-        errors.append("docs/chapter-folder-links.md must exist")
+        errors.append("docs/onboarding/chapter-folder-links.md must exist")
     else:
         chapter_folder_text = chapter_folder_doc.read_text(encoding="utf-8")
         for marker in [
@@ -924,7 +924,7 @@ def cmd_validate(args) -> int:
             "not a replacement for `first_tour`",
         ]:
             if marker not in chapter_folder_text:
-                errors.append(f"docs/chapter-folder-links.md missing marker: {marker}")
+                errors.append(f"docs/onboarding/chapter-folder-links.md missing marker: {marker}")
     errors.extend(validate_no_legacy_chapter_indexes(repo_root=DATA_ROOT.parent))
     bilingual = load_bilingual_loop()
     if bilingual.get("loop_id") != "english_chinese_civilizational_bridge":
@@ -997,8 +997,8 @@ def cmd_validate(args) -> int:
     llm_bilingual = llm_experience.get("bilingual_bridge", {})
     if llm_bilingual.get("path") != "data/bilingual-loop.json":
         errors.append("llm-experience bilingual_bridge must point to data/bilingual-loop.json")
-    if llm_bilingual.get("reader_doc") != "docs/bilingual-civilizational-bridge.md":
-        errors.append("llm-experience bilingual_bridge must point to docs/bilingual-civilizational-bridge.md")
+    if llm_bilingual.get("reader_doc") != "docs/localization/bilingual-civilizational-bridge.md":
+        errors.append("llm-experience bilingual_bridge must point to docs/localization/bilingual-civilizational-bridge.md")
     if llm_bilingual.get("bridge_id") != "trilingual_civilizational_bridge":
         errors.append("llm-experience bilingual_bridge must expose the trilingual bridge ID")
     if llm_bilingual.get("language_scope") != "trilingual":
@@ -1009,9 +1009,9 @@ def cmd_validate(args) -> int:
         errors.append("llm-experience bilingual_bridge must keep ph-civ as canonical source")
     if "downstream mirrors" not in llm_bilingual.get("authority_model", ""):
         errors.append("llm-experience bilingual_bridge must state localization mirrors are downstream")
-    bilingual_doc = DATA_ROOT.parent / "docs" / "bilingual-civilizational-bridge.md"
+    bilingual_doc = DATA_ROOT.parent / "docs" / "localization" / "bilingual-civilizational-bridge.md"
     if not bilingual_doc.exists():
-        errors.append("docs/bilingual-civilizational-bridge.md must exist")
+        errors.append("docs/localization/bilingual-civilizational-bridge.md must exist")
     else:
         bilingual_doc_text = bilingual_doc.read_text(encoding="utf-8")
         for marker in [
@@ -1030,7 +1030,7 @@ def cmd_validate(args) -> int:
             "not become sibling authorities",
         ]:
             if marker not in bilingual_doc_text:
-                errors.append(f"docs/bilingual-civilizational-bridge.md missing marker: {marker}")
+                errors.append(f"docs/localization/bilingual-civilizational-bridge.md missing marker: {marker}")
     if llm_experience.get("first_seed", {}).get("route_ids") != seed_route_ids:
         errors.append("llm-experience route IDs must match route seed")
     llm_slices = llm_experience.get("namespace_slices", {})

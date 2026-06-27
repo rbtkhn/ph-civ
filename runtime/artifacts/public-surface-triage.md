@@ -2,11 +2,11 @@
 # Public surface triage
 
 - **Chapters:** 206
-- **Generated:** 2026-06-27T02:59:03Z
+- **Generated:** 2026-06-27T05:41:51Z
 - **Machine SSOT:** [`data/public-surface-triage.json`](../../data/public-surface-triage.json)
 - **Regenerate:** `ph-civ surface-triage`
 
-Vocabulary: [public-surface-status.md](../../docs/public-surface-status.md).
+Vocabulary: [public-surface-status.md](../../docs/catalogs/public-surface-status.md).
 Rebuild wave queue: `ph-civ commentary-status`.
 
 ## Bucket counts

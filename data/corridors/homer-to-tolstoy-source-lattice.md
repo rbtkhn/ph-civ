@@ -42,7 +42,7 @@ Open the route through the public orientation surfaces first:
 
 - [Homer to Tolstoy](homer-to-tolstoy.md)
 - [Homer to Tolstoy Support Ring](homer-to-tolstoy-support-ring.md)
-- [Two Volumes, One Reader Map](../../docs/two-volumes-one-reader-map.md)
+- [Two Volumes, One Reader Map](../../docs/archive/two-volumes-one-reader-map.md)
 - [Source-Lattice](../../docs/source-lattice.md)
 
 The doorway tells the reader what kind of object this is:

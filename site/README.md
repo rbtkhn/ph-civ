@@ -83,4 +83,4 @@ Workflow: [`.github/workflows/study-edition-pages.yml`](../.github/workflows/stu
 - `site/dist/study/<source_id>/` — HTML study pages
 - `site/assets/` — shared CSS/JS
 
-Spec: [`docs/study-edition.md`](../docs/study-edition.md)
+Spec: [`docs/onboarding/study-edition.md`](../docs/onboarding/study-edition.md)

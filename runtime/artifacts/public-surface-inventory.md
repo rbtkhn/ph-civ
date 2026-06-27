@@ -1,12 +1,12 @@
-<!-- public-surface-inventory-fingerprint: 65f57f159d24d8ad -->
+<!-- public-surface-inventory-fingerprint: 244c2a2c43890a4b -->
 # Public surface inventory
 
 - **Surfaces:** 26
-- **Generated:** 2026-06-27T03:20:00Z
+- **Generated:** 2026-06-27T05:41:51Z
 - **Machine SSOT:** [`data/public-surface-inventory.json`](../../data/public-surface-inventory.json)
 - **Regenerate:** `ph-civ surface-inventory`
 
-Per-surface status vocabulary: [public-surface-status.md](../../docs/public-surface-status.md).
+Per-surface status vocabulary: [public-surface-status.md](../../docs/catalogs/public-surface-status.md).
 
 | Surface | Class | Status | Path | Validation |
 | --- | --- | --- | --- | --- |
@@ -21,8 +21,8 @@ Per-surface status vocabulary: [public-surface-status.md](../../docs/public-surf
 | `ph_apo_volume_ii_chapters` | chapter_folder | active | lectures/* (+ ph-apo/chapters redirect stubs; book/volume… | docs/predictive-history-index.json |
 | `ph_civ_volume_i_chapters` | chapter_folder | active | lectures/* (+ ph-civ/chapters redirect stubs; book/volume… | docs/predictive-history-index.json |
 | `commentary_methodology_v2` | doctrine_doc | canonical | docs/commentary-methodology-v2.md | validate:commentary-canvas |
-| `public_repo_contract` | doctrine_doc | canonical | docs/public-repo-contract.md | manual |
-| `public_surface_status` | doctrine_doc | active | docs/public-surface-status.md | manual |
+| `public_repo_contract` | doctrine_doc | canonical | docs/contracts/public-repo-contract.md | manual |
+| `public_surface_status` | doctrine_doc | active | docs/catalogs/public-surface-status.md | manual |
 | `source_lattice` | doctrine_doc | canonical | docs/source-lattice.md | manual |
 | `growth_goals` | growth_surface | active | data/growth-goals.json | manual |
 | `llm_experience` | llm_context | active | data/llm-experience.json | validate:llm-experience |

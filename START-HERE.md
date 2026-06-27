@@ -30,10 +30,10 @@ Medium-first namespaces at the repository root (siblings to `book/`):
 2. Load `data/llm-experience.json` for the unfolding map.
 3. Use `llms-full.txt` when the chat needs a full one-shot context packet after the compact map.
 4. Use `data/routes/seed.json` for the first 10-route spine seed.
-5. Use `data/routes/first-tour.json` and `docs/first-tour.md` when the reader chooses to continue the first tour.
+5. Use `data/routes/first-tour.json` and `docs/onboarding/first-tour.md` when the reader chooses to continue the first tour.
 6. Begin with the Homer-to-Tolstoy **literary spine route**, then branch into application routes on the seed.
-7. Use [`docs/two-volumes-one-reader-map.md`](docs/two-volumes-one-reader-map.md) only for historical context (deprecated active onboarding).
-8. Treat `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` as a trilingual identity/growth layer and localization roadmap, not a replacement for `first_tour`.
+7. Use [`docs/archive/two-volumes-one-reader-map.md`](docs/archive/two-volumes-one-reader-map.md) only for historical context (deprecated active onboarding).
+8. Treat `data/bilingual-loop.json` and `docs/localization/bilingual-civilizational-bridge.md` as a trilingual identity/growth layer and localization roadmap, not a replacement for `first_tour`.
 9. If the pasted URL is a direct chapter folder, switch to `study` mode for that folder: open its `README.md`, transcript, commentary canvas, and public card.
 10. When quoting or interpreting, return to the relevant transcript and commentary under `book/` or root corpora.
 11. Use `docs/predictive-history-index.json` when the reader needs the full chapter catalog or must resolve a `source_id` to paths and source URLs.
@@ -96,8 +96,8 @@ Choose one: continue the first tour; study civ-07; study civ-07 through its chap
 - `llms-full.txt`
 - `README.md`
 - `AGENTS.md`
-- `docs/public-repo-contract.md`
-- `docs/export-contract.md`
+- `docs/contracts/public-repo-contract.md`
+- `docs/contracts/export-contract.md`
 - `data/llm-experience.json`
 - `data/routes/seed.json`
 - `data/routes/first-tour.json`
@@ -106,9 +106,9 @@ Choose one: continue the first tour; study civ-07; study civ-07 through its chap
 - `docs/predictive-history-index.json`
 - `docs/predictive-history-index.md`
 - `data/patterns.json`
-- `docs/first-tour.md`
+- `docs/onboarding/first-tour.md`
 - `docs/archive/two-volume-ph-civ-apo-deprecated.md`
 - `docs/source-lattice.md`
 - `data/bilingual-loop.json`
-- `docs/bilingual-civilizational-bridge.md`
-- `docs/chapter-folder-links.md`
+- `docs/localization/bilingual-civilizational-bridge.md`
+- `docs/onboarding/chapter-folder-links.md`

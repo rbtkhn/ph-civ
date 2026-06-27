@@ -17,13 +17,13 @@ Keep the ten-route spine seed, first tour, and spine tour aligned for LLM and hu
 - `data/routes/first-tour.json`
 - `data/routes/volume-i-spine-tour.json`
 - `data/llm-experience.json`
-- `docs/first-tour.md`
+- `docs/onboarding/first-tour.md`
 
 ## Steps
 
 1. Edit choreography only with matching seed route order (10 unique IDs).
 2. Update `first-tour.json` stops and phases to mirror seed.
-3. Sync `docs/first-tour.md` markers required by validate.
+3. Sync `docs/onboarding/first-tour.md` markers required by validate.
 4. Align `llm-experience.json` first_tour and first_response_contract fields.
 5. For provisional game-theory routes: add caveats; do not remove `review_status: provisional` without curator sign-off.
 6. Run `ph-civ tour --json` and `ph-civ validate`.

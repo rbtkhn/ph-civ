@@ -51,17 +51,17 @@ Excluded:
 - If the pasted URL is a direct chapter-folder URL under `book/`, treat it as `study` mode: open the folder `README.md`, transcript, commentary canvas, orientation payload, and public card. This is not a replacement for `first_tour`.
 - Then read `AGENTS.md` and `README.md`.
 - If the operator says `coffee`, open the `ph-civ` repo state; do not give a generic coffee greeting.
-- Use `docs/public-repo-contract.md` for repository role and boundaries.
-- Use `docs/export-contract.md` for export inclusion/exclusion rules.
+- Use `docs/contracts/public-repo-contract.md` for repository role and boundaries.
+- Use `docs/contracts/export-contract.md` for export inclusion/exclusion rules.
 - Use the public bridge and pattern calibration docs for public pattern IDs and downstream bridge usage.
 - Use `data/growth-goals.json` for public-growth ambitions. Do not treat reach metrics as directly executable agent completions; translate them into repo, publishing, analytics, asset, and distribution work.
 - Use `data/routes/seed.json`, `data/cards.jsonl`, `data/patterns.json`, and `data/routes/choreography.json` as public data sources.
-- Use `data/routes/first-tour.json` and `docs/first-tour.md` when the reader chooses `continue the first tour`.
-- Use `docs/chapter-folder-links.md` and `ph-civ link <source_id>` for YouTube comment handoffs built around exact chapter-folder URLs.
+- Use `data/routes/first-tour.json` and `docs/onboarding/first-tour.md` when the reader chooses `continue the first tour`.
+- Use `docs/onboarding/chapter-folder-links.md` and `ph-civ link <source_id>` for YouTube comment handoffs built around exact chapter-folder URLs.
 - Use [`docs/predictive-history-index.md`](docs/predictive-history-index.md) when a reader needs public Predictive History source URLs in one place (Video column; JSON: `source_video_url`).
 - Use `docs/predictive-history-index.md` when a reader needs the full catalog of all 206 public chapters (lectures, essays, and provenance interviews) with links to transcript, commentary, folder README, and source video or Substack URL.
 - Use `docs/predictive-history-index.json` when a tool needs the same catalog as structured JSON (`chapters`, `by_series`, legacy `by_surface`, paths, and video URLs).
-- Use `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` for the trilingual civilizational bridge ambition and localization roadmap: canonical English `ph-civ`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`. This is an identity/growth layer, not a `first_tour` replacement and not a translation dump. `ph-civ-zh` and `ph-civ-ru` are downstream mirrors of canonical `ph-civ`, not sibling sources of truth. `ph-civ-ru` is roadmap metadata only, not a Russian edition or command surface.
+- Use `data/bilingual-loop.json` and `docs/localization/bilingual-civilizational-bridge.md` for the trilingual civilizational bridge ambition and localization roadmap: canonical English `ph-civ`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`. This is an identity/growth layer, not a `first_tour` replacement and not a translation dump. `ph-civ-zh` and `ph-civ-ru` are downstream mirrors of canonical `ph-civ`, not sibling sources of truth. `ph-civ-ru` is roadmap metadata only, not a Russian edition or command surface.
 - Do not answer as if this repo owns live workshop editorial state.
 
 ## Useful Commands

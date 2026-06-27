@@ -164,7 +164,7 @@ def static_surface_rows() -> list[dict]:
             status="active",
             reader_mode="first_tour",
             validation_coverage="first_tour",
-            notes="Doctrine mirror: docs/first-tour.md",
+            notes="Doctrine mirror: docs/onboarding/first-tour.md",
         ),
         _row(
             surface="spine_tour",
@@ -190,13 +190,13 @@ def static_surface_rows() -> list[dict]:
         ),
         _row(
             surface="public_repo_contract",
-            path="docs/public-repo-contract.md",
+            path="docs/contracts/public-repo-contract.md",
             surface_class="doctrine_doc",
             status="canonical",
         ),
         _row(
             surface="public_surface_status",
-            path="docs/public-surface-status.md",
+            path="docs/catalogs/public-surface-status.md",
             surface_class="doctrine_doc",
             status="active",
             public_ready=True,
@@ -345,7 +345,7 @@ def render_inventory_markdown(payload: dict) -> str:
         f"- **Machine SSOT:** [`{INVENTORY_JSON_REL}`](../../{INVENTORY_JSON_REL})",
         f"- **Regenerate:** `ph-civ surface-inventory`",
         "",
-        "Per-surface status vocabulary: [public-surface-status.md](../../docs/public-surface-status.md).",
+        "Per-surface status vocabulary: [public-surface-status.md](../../docs/catalogs/public-surface-status.md).",
         "",
         "| Surface | Class | Status | Path | Validation |",
         "| --- | --- | --- | --- | --- |",

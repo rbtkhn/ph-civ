@@ -33,5 +33,5 @@ The old scaffold describes how the corpus was made. The two-volume structure des
 ## Historical chain (reader models)
 
 1. **This doc** — seven-volume source scaffold → two-volume reader rollup
-2. [`docs/two-volumes-one-reader-map.md`](../docs/two-volumes-one-reader-map.md) — two-volume reader map (retained for history; not active onboarding)
+2. [`docs/archive/two-volumes-one-reader-map.md`](../docs/archive/two-volumes-one-reader-map.md) — two-volume reader map (retained for history; not active onboarding)
 3. [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](../docs/archive/two-volume-ph-civ-apo-deprecated.md) — structural deprecation; primary artifact **`namespace_catalog`** ([`docs/predictive-history-index.md`](../docs/predictive-history-index.md) + lecture / essay / interview slice indexes)

@@ -24,7 +24,7 @@ It also contains the chapter body for each source item. In this repo, one chapte
 
 This package is independent educational infrastructure. It is not official course material, not endorsement, and not a substitute for the source lectures, transcripts, commentary, or external verification.
 
-The repo also carries a trilingual civilizational bridge ambition: English, Chinese, and Russian readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through the same source-bounded route system. This is ambition metadata, not a Chinese or Russian translation launch. Both `ph-civ-zh` and `ph-civ-ru` would be downstream mirrors of canonical `ph-civ`, not sibling sources of truth; see `docs/bilingual-civilizational-bridge.md`.
+The repo also carries a trilingual civilizational bridge ambition: English, Chinese, and Russian readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through the same source-bounded route system. This is ambition metadata, not a Chinese or Russian translation launch. Both `ph-civ-zh` and `ph-civ-ru` would be downstream mirrors of canonical `ph-civ`, not sibling sources of truth; see `docs/localization/bilingual-civilizational-bridge.md`.
 
 ## Repository Role
 
@@ -56,7 +56,7 @@ Medium-first chapter namespaces at the repository root (siblings to [`book/`](bo
 - The Homer-to-Tolstoy literary spine as the Volume I literary spine with cross-volume routing exposure.
 - The Plato-to-Hegel theological-philosophical spine as a secondary Volume I route through reality, sacred order, imagination, and philosophy of history.
 - The `ph-apo` pressure spine as the Volume II public application spine: geography, incentives, causation hinge, and infrastructure/sacred systems.
-- A compact externalization of the reader-facing restructuring at [Two Volumes, One Reader Map](docs/two-volumes-one-reader-map.md).
+- A compact externalization of the reader-facing restructuring at [Two Volumes, One Reader Map](docs/archive/two-volumes-one-reader-map.md).
 - Provider-neutral prompt templates.
 - Eight public civilizational pattern IDs for downstream strategy-facing reference.
 - 
@@ -151,7 +151,7 @@ The route now also has a public [support ring](data/corridors/homer-to-tolstoy-s
 
 Tolstoy also functions as the bridge into Volume II. The public handoff lives in [From Civilization To Apocalypse](book/parts/civilization-to-apocalypse.md), [Predictive History After Tolstoy](docs/predictive-history-after-tolstoy.md), and [The Tolstoy Question](corpus/cross-volume/tolstoy-question.md).
 
-If the question is not only "what is the route?" but "why did the old seven become two?", open [Two Volumes, One Reader Map](docs/two-volumes-one-reader-map.md).
+If the question is not only "what is the route?" but "why did the old seven become two?", open [Two Volumes, One Reader Map](docs/archive/two-volumes-one-reader-map.md).
 
 ## Theological-Philosophical Spine
 

@@ -7,7 +7,7 @@
 
 - **Volume I — Civilization (`ph-civ`)** and **Volume II — Apocalypse (`ph-apo`)** as the default way to introduce the repo
 - Treating the repository as a **two-volume semester** (law discovery vs law application) in START-HERE, LLM bootloaders, and generated catalog intros
-- Active use of [`docs/two-volumes-one-reader-map.md`](../two-volumes-one-reader-map.md) for new-reader onboarding (document retained for history)
+- Active use of [`docs/archive/two-volumes-one-reader-map.md`](./two-volumes-one-reader-map.md) for new-reader onboarding (document retained for history)
 
 Historical chain: [`book/seven-volume-to-two-volume.md`](../../book/seven-volume-to-two-volume.md) → two-volume reader map → **namespace catalog hub** (this deprecation).
 
@@ -30,7 +30,7 @@ This deprecation changes **framing and index topology**, not corpus membership.
 
 - All **206** public chapters remain in `cards.jsonl`, slice indexes, and the hub **full alphabetical index**
 - Transcripts, commentaries, routes, Homer-to-Tolstoy spine, and first-tour content are **unchanged**
-- [`docs/two-volumes-one-reader-map.md`](../two-volumes-one-reader-map.md) stays available for readers who want the old law-discovery / law-application narrative
+- [`docs/archive/two-volumes-one-reader-map.md`](./two-volumes-one-reader-map.md) stays available for readers who want the old law-discovery / law-application narrative
 
 ## What stays for compatibility
 
