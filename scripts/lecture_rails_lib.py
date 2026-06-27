@@ -390,6 +390,7 @@ def section_boundary_anchors(sections: list[dict], flat: str) -> list[str]:
     cursor = 0
     for i in range(1, len(sections)):
         sec = sections[i]
+        is_closing = sec["title"].lower().startswith("closing")
         anchor = sec.get("anchor")
         if anchor and not sec.get("anchor_missing"):
             snippet = str(anchor).strip()
@@ -400,14 +401,33 @@ def section_boundary_anchors(sections: list[dict], flat: str) -> list[str]:
                 continue
             except ValueError:
                 pass
-        derived = anchor_from_title(sec["title"], flat, cursor)
-        if not derived and sec["title"].lower().startswith("closing"):
+        if is_closing and i == len(sections) - 1:
             hay = normalize_for_anchor(flat)
-            for cue in ("any questions", "questions", "thank you"):
+            for cue in ("any questions", "questions", "thank you", "that's all"):
                 pos = hay.find(cue, cursor)
                 if pos != -1:
                     derived = flat[pos : pos + 60].split("\n")[0][:60]
+                    pos2 = find_anchor_pos(flat, derived[:40], cursor)
+                    boundaries.append(derived[:80].strip())
+                    cursor = pos2 + 1
                     break
+            else:
+                paragraphs = [p.strip() for p in re.split(r"\n\n+", flat) if p.strip()]
+                eligible = [
+                    p
+                    for p in paragraphs
+                    if flat.find(p[: min(30, len(p))], cursor) >= cursor
+                ]
+                if eligible:
+                    idx = max(0, (len(eligible) * 3) // 4)
+                    derived = eligible[idx][:70].replace("\n", " ").strip()
+                    pos2 = find_anchor_pos(flat, derived[:40], cursor)
+                    boundaries.append(derived[:80].strip())
+                    cursor = pos2 + 1
+                else:
+                    raise ValueError(f"no boundary anchor for closing section in {sec['title']!r}")
+            continue
+        derived = anchor_from_title(sec["title"], flat, cursor)
         if not derived:
             raise ValueError(f"no boundary anchor for section {i}: {sec['title']!r}")
         pos = find_anchor_pos(flat, derived[:40], cursor)

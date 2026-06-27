@@ -41,7 +41,7 @@ And so this Christian Zionist Zionist project to reach the mountain on top provi
 So, um, they're trying to do as little work as possible in order to maintain their very cushy jobs sitting somewhere in an air condition office and that's it. Now, that's the structure of their relationship with each other. They're all interested in reaching that mountain top for different reasons. But once I but once they reach that mountain top, then they'll have their disagreements.
 and how to reach that mountain top they won't be aligned with. So the example here is that the Christian Zionists and the Zionists are very much interested in using ground troops to force
 
-### Regime Change Iran The Financiers And
+### Regime Change, Financiers, and Empire Risk
 
 regime change in Iran. Um the financiers and the empire they're riskadverse. So they really don't want to use ground troops.
 um they want to achieve regime change slowly, steadily in a um in a in a in a way that contains risk. And so there's going to be that disagreement about whether or not to use ground troops. In the end, I think the Christian Zionist and the Zionist will win out. So let me explain to you why um let me explain to you using game theory why the Christian Zionists are the dominant power in this relationship even though the financial financial control of money and even though the American empire controls the armoraments.
@@ -101,12 +101,12 @@ Unfortunately, what we also know about this period is that the early followers o
 So what what I will do is in the description below, I'm going to link a really awesome paper uh written by two Jewish religious historians about this time so you can so you can have a better understanding of how Muhammad really is the Jewish Messiah. Um I'm also going to link um to have a lot of like wiki links so you can do some more background research into this period.
 It's really fascinating and I apologize I don't have enough time to go into more details about this period. Okay. Okay. So, um
 
-### Summarize According Game Theory The Universal
+### Game Theory and the Universal Law
 
 to summarize, according to game theory, the universal law of game theory, Christian Zionists will emerge as dominant power in the Middle East. Um they're the ones driving um US policy right now. uh they will eventually overwhelm both the American Empire and the global financial elite.
 Uh they will force the United States and ground troops and invade Iran in order to implement re
 
-### Regime Change And They Basically Get
+### Why the Empire Gets What It Wants
 
 regime change and um they will basically get whatever they want. So it seems as though we figure out history. It seems we're able to predict the future by using game theory properly um and systematically and honestly we're able to have a very clear insight into the trajectory of history.
 The problem though is game theory is not that easy. Okay. Why? Because according to game theory, when it seems like they structure the game, when there seems to be a trajectory, when the players are obvious in their moves, when there's certain ineability to the decision-m of certain players, what will happen is a new player will emerge who see the contours of the game being played and he will manipulate events and change the course of this game to benefit himself and his group. Okay.

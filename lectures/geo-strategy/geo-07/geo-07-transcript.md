@@ -32,19 +32,19 @@ Source timestamps:
 
 
 
-### The Motive Clear And The Problem
+### Succession Motive and the Khamenei Problem
 
 
 
-### The The Person The Real Power
+### Mojtaba Khamenei and Power Behind the Throne
 
 
 
-### The First Group Protest Was You
+### Protests, Repression, and Regime Stability
 
 
 
-### All Again Don't What Happened But
+### Game Theory and the Case for Invasion
 
 
 

@@ -21,23 +21,7 @@ part_role: world-war
 ## Part I: Full transcript
 
 
-### Opening
-
-
-
-### You There's Been Ceasefire Announced The
-
-
-
-### You There's Been Ceasefire Announced The
-
-
-
-### You There's Been Ceasefire Announced The
-
-
-
-### Closing Questions
+### Ceasefire Announcement and Narrative Control
 
 as you know there's been a ceasefire announced um in the Middle East and uh many of you are curious as to what this ceasefire means. Well, I still believe that the United States, Israel, and Iran are fully committed to war. And the ceasefire, it's really about attempting to shape the narrative around this war, trying to control the terms, trying to determine how the war war will be fought.
 Um, so for Iran, for the Ayatollah, it's very important that the Iranian people understand that Iran is forced into this war. Um, in his speech to the Iranian people right after the um, US bombing, um, he credited the economy between Iran and the United States. Iran is a nation dedicated to peace.
@@ -45,18 +29,33 @@ United States is a nation dedicated to war. The Iranian people live the truth. T
 But if an opportunity for peace presents itself, then the Iranian people, the Iranian nation, the atollah will grasp at that opportunity. Um Trump um did launch the um attacks against Iran, but he's trying to create the narrative that this is happening not because this is what he wants, but because he's forced to do so by the globalists, by the deep state, by the American empire.
 He himself is a person who only aspires for world peace. Um but these wararmongers, these neocons within his administration, um who are embedded in the deep state and who have tentacles all around the world, they are undermining him and forcing him to act against Iran. But he will fight for the American people.
 He will fight for world peace. And um that's why he is trying as hard as he can to broker a peace deal between Israel and Iran. Um both Trump and the Ayatollah can do this. um can try to be the peacemakers because they know that Netanyahu will continue to push for war that Israel will continue to be the aggressor in this uh war.
-So, Israel is really a scapegoat. But it's really important um for us to understand that um all three leaders, Trump, Ayatollah, and Netanyahu are committed to war for different reasons. So, in today's talk, I want to explain to you what's really driving these three individuals. Why are they committed to war? And what do they want from this war? And for us to understand this, I want to introduce to you a new concept.
+So, Israel is really a scapegoat. But it's really important um for us to understand that um all three leaders, Trump, Ayatollah, and Netanyahu are committed to war for different reasons. So,
+
+### Messianic Calling and War Commitment
+
+in today's talk, I want to explain to you what's really driving these three individuals. Why are they committed to war? And what do they want from this war? And for us to understand this, I want to introduce to you a new concept.
 It's called the messianic calling. Each of these individuals, Trump, the Ayatollah, and Netanyahu, see themselves as historical messianic figures. They're on a mission from God to save the world, to save their people, to deliver their people into the promised land. And if we we need to understand that this is ultimately what's driving them.
-Um not fame, not power, um nothing but this messianic calling. that's what's really um driving them. So let me explain what this meant calling is by explain explain to you it's three major characteristics. The first major characteristic is that um when you truly believe that you are on a mission from God, that you are the chosen one, that you are the prophet, that God smiles on you, you have access to divine energy.
+Um not fame, not power, um nothing but this messianic calling. that's what's really um driving them. So let me explain what this meant calling is by explain explain to you it's three major characteristics.
+
+### Divine Energy and Fearlessness
+
+The first major characteristic is that um when you truly believe that you are on a mission from God, that you are the chosen one, that you are the prophet, that God smiles on you, you have access to divine energy.
 What is divine energy? Um let me give you an example. Maybe you're a mother and you're taking your three-year-old into the forest. If you get lost and you're wandering the woods and then suddenly a black bear pounces on you. Well, as a mother, what's going to happen is and and you could be petite, you could be weak.
 What's going to happen is you suddenly when your child is under attack, under threat, you will find unlimited energy, strength, and courage to fight off this bear and you will succeed. And we know because um there's been a couple adults um like this. So a mother's love for a child is one of the strongest forces in the world.
 Now to understand divine energy just multiply this mother's love for her child by about a million and you can understand how energized how motivated how powerful um people with imaging calling feels. The classic example is Trump, right? So Trump during the campaign season, he would get about like four or five o'clock in the morning, do a lot of tweets, watch a lot of TV.
 He get he would get on on his plane and go to a campaign rally where he would talk endlessly for a couple hours. Then he would get back on the plane and then fly somewhere else and do another rally. And then he would do another rally um in front of 50,000 people. And then um he would watch the news and then he go he go to bed, sleep soundly and get up the next morning do it again for 2 3 4 months.
 Um and you have to ask yourself why is he so energetic? He's 79. Why is he so motivated? Um, I mean, he's not in the best health in the world because he he eats McDonald's all the time and he's clearly obese for his for for his age. Um but none of this matters because um his faith in his mission, the fact that he knows that he's been chosen by God to complete um his mission um that fills him with an infinite energy um and that's where his strength comes from.
+
+### Persecution Complex and Closing Themes
+
 The second characteristic um of people who are um filled with the messianic calling is that they are absolutely fearless. Um they know that because God has chosen them, God will protect them and so no bullets can harm them. Okay. So Trump um so the classic example again is Trump. Um he was um almost assassinated at at Butler, Pennsylvania.
 And remember how um even though the bullet came close to him, he was still able to get up and pump his fist and shout to the people, "Fight, fight, fight." Okay, it's this absolute fearlessness. They know that God will always protect them. But also, um even if they were to die, they would go straight to heaven and be with God.
 They're one of the elect. And then finally um their bodies no longer matter. Their bodies are just vessels for this divine energy uh to be transplanted on earth. When they die when their vessel this vessel breaks and it fills the followers with divine energy as well they become martyrs and their followers will complete the mission on their behalf.
-So they've transcended death. They've transcended this material world. They are now ideas. They are now faith. They're now um inspiration uh for their followers. And so they are and therefore they are immortal. They're eternal. And they are invincible. Um the third characteristic of people with me calling um um is the pers persecution complex.
+So they've transcended death. They've transcended this material world. They are now ideas. They are now faith. They're now um inspiration uh for their followers. And so they are and therefore they are immortal. They're eternal. And they are invincible. Um
+
+### Closing Questions
+
+the third characteristic of people with me calling um um is the pers persecution complex.
 The idea is how do you know that you are one of the elect? How do you know that God has chosen you? It's because society, the world, everyone around you persecutes you. Right? So again the classic example is Trump. Trump survived two impeachments. Um in his first term, the deep state um um filled um his cabinet. John Bolton, Mike Pompeo, Nikki Haley.
 Um everyone was part of the deep state and they undermined him. In fact, you had generals brag about how they intentionally um disobeyed Trump's orders. In fact, you had one general, Mark Millie, who um told the Chinese government, "Don't listen to Trump. He's not really in charge.
 If you have any issues, call us directly." Okay? So, they were undermining him. Uh the media every day was lambasting him, cursing him. The whole world was cursing him or laughing at him, right? The European elite was laughing at him. Remember when um Trump was talking about the Nordstream pipeline and how it it would cause German dependency on Russian oil? Those German um ambassadors were at the back of United Nations laughing their heads off at uh at Trump.

@@ -25,15 +25,15 @@ part_role: world-war
 
 
 
-### The Question How Would Iran Force
+### How Iran Could Force an American Invasion
 
 
 
-### Regime Change Iran And May Even
+### Regime Change and Ground Troops
 
 
 
-### You Last Night Trump Ordered The
+### Trump's Bombing Order and Immediate Escalation
 
 
 

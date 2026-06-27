@@ -21,32 +21,32 @@ part_role: world-war
 ## Part I: Full transcript
 
 
-### Opening
-
-
-
-### Regime Change Iran Ideally They Would
-
-
-
-### The Question Given Public Domain Knowledge
-
-
-
-### Now Some You The Comment Section
-
-
-
-### Closing Questions
+### Hybrid Warfare and the Comment Question
 
 Now, some of you in the comment section have been asking me why World War III has not started, why the conflict between the United States and Iran has abated. The answer is because modern warfare is hybrid warfare. 90% of warfare you will not see.
-So much of warfare nowadays is informationalâ€”controlling the media narrative, electronic cyber warfare, psychologicalâ€”weakening the will of the people to fight youâ€”and covert ops, economic sabotage, imposing sanctions, trying to assassinate the leaders of Iran. So the United States and Israel are committed to a policy of regime change in Iran.
+So much of warfare nowadays is informationalâ€”controlling the media narrative, electronic cyber warfare, psychologicalâ€”weakening the will of the people to fight youâ€”and covert ops, economic sabotage, imposing sanctions, trying to assassinate the leaders of Iran. So the United States and Israel are committed to a policy of
+
+### Regime Change and Water Sabotage in Iran
+
+regime change in Iran.
 Ideally they would like to assassinate the Ayatollah Khamenei because that would trigger a succession crisis in um Iran. Right now their main strategy is to decrease the legitimacy of the regime in Iran. And the best way to do that is to decrease the capacity of the state to deliver basic servicesâ€”for example water.
 So what's happening in Tehran right nowâ€”a city of 10 millionâ€”is there's a water shortage um because of heat, because of economic sanctions, because of overpopulation. Tehran is having problems ensuring water supply to its people. You can bet good money that the Israelis and Americans will take advantage of that to engage in economic sabotage.
 Basically trying to destroy as much of um Iran's critical water infrastructure as possible. Uh they would want to basically create a famine, a drought. Um now the irony of that is that by engaging in this economic sabotage the Iranian people will develop a greater resolve to resist. And once the resolve, once the will to fight has been increased to a certain level, then the Iranian government can close off the Strait of Hormuz, which would compel an American ground invasion.
-And if America were to do that, America would send in ground troops. And as I've said in multiple videos before, the American military would lose this war. Okay? So, that's how I see the war developing over the next uh few months. Today, I want to talk about what the future's going to look like next 10, 20 years.
-I want to take everything we've learned so far and combine it into a grand thesis about how the world will develop. And the argument I want to make to you today is that **eschatology drives geopolitics**. And to make this argument, I'm going to ask three questions. First question is why are eschatologies so compelling? Second question is what are the major eschatological traditions and how do they converge together? And the third question is based on these convergence points, what can we predict about the future? Right? So let's look at the first question
-which is why are eschatologies so compelling? And as I've said before, eschatologies are compelling because they are narratives that capture the human imagination. They answer three fundamental questions. Where do we come from? What are we doing here? Where are we going? It's a complete story unto itself.
+And if America were to do that, America would send in ground troops. And as I've said in multiple videos before, the American military would lose this war. Okay? So, that's how I see the war developing over the next uh few months.
+
+### Eschatology Drives Geopolitics
+
+Today, I want to talk about what the future's going to look like next 10, 20 years.
+I want to take everything we've learned so far and combine it into a grand thesis about how the world will develop. And the argument I want to make to you today is that **eschatology drives geopolitics**. And to make this argument, I'm going to ask three questions. First question is why are eschatologies so compelling? Second question is
+
+### Major Eschatological Traditions
+
+what are the major eschatological traditions and how do they converge together? And the third question is based on these convergence points, what can we predict about the future? Right? So let's look at the first question
+which is why are eschatologies so compelling? And as I've said before, eschatologies are compelling because they are narratives that capture the human imagination. They answer three fundamental
+
+### Closing Questions
+
+questions. Where do we come from? What are we doing here? Where are we going? It's a complete story unto itself.
 You can think of eschatologies as scripts reallyâ€”scripts that have a momentum of their own, scripts that allow for unconscious coordination, scripts that present roles for individuals to audition for. So just by participating in a script, you are helping the eschatology progress forward. Okay. And to understand why eschatologies are so powerful, please remember the universal law of game theory.
 Um, in a previous video, I discussed how people win in a game. And the formula that tells us who wins a game is mass times energy times coordination. As I also said in that video, conspiraciesâ€”there are plenty of conspiracies, but they're not that effective. Uh because it's very hard to maintain secrecy.
 You can't maintain plausible deniability. And because everyone has an ego, it's hard to maintain uh cooperation because everyone's fighting for his or her best self-interest. But with unconscious coordinationâ€”which is what an eschatology providesâ€”uh that allows for secrecy, plausible deniability and um frictionless cooperation.

@@ -21,26 +21,14 @@ part_role: world-war
 ## Part I: Full transcript
 
 
-### Opening
-
-
-
-### The Question What Can You Think
-
-
-
-### The Question What Can And Think
-
-
-
-### Good Morning Youtube You Flocked Channel
-
-
-
-### Closing Questions
+### Good Morning YouTube and Western Collapse
 
 Good morning, YouTube. So, I know that you flocked to this channel because I am such a sunny and optimistic person. I bring cheer in a world of gloom. You may face some difficulties in your life, but you know that when you watch my videos, I'm going to tell you how great the world is. Unfortunately, today um it's all going to be doom and gloom.
-I'm going to talk about how the western world um is going to collapse and there's nothing anyone can do about it. So, let me start with a concrete example. I live in Canada and um these past few years I've just seen Canadian society um get worse and worse. A lot of the issue uh is this relentless immigration these past five years. Millions of people have come into this country seeking a better life.
+I'm going to talk about how the western world um is going to collapse and there's nothing anyone can do about it. So,
+
+### Canada Immigration and the Personal Story
+
+let me start with a concrete example. I live in Canada and um these past few years I've just seen Canadian society um get worse and worse. A lot of the issue uh is this relentless immigration these past five years. Millions of people have come into this country seeking a better life.
 Unfortunately, they congregate in only a few cities where there are economic opportunities. And as a result, housing prices have gone up, inflation has gone up, cost of living has gone up, but wages have been stagnant or depressed because of the surge in cheap labor. And in Toronto, if you're not making at least $100,000 uh a year, it's very hard to get by.
 And quite frankly, most are not making that kind of money and most are struggling. So, crime has gone up, homelessness has gone up, drug addiction has gone up. Um, it's a very dire situation in Canada. Now, it's easy to blame the immigrants and um I don't think the reason are the immigrants. I myself am an immigrant.
 So, um maybe I'm biased, but I will say that um we came over in about 1983 and my dad was a high school teacher in a village in Canada. Uh sorry, my dad was a high school teacher in our village back in China. And we were really thankful for the opportunity to come to Canada and we felt really blessed because life back in China was just terrible.
@@ -61,7 +49,11 @@ Uh the first mechanism is to exploit resources because Canada really is the weal
 Okay, that's the first solution. The second solution uh which is much more sustainable is to unleash the entrepreneurial energy of the Canadian people uh to encourage uh more entrepreneurship, more privatization, to reduce the regulatory state uh to reduce the red tape. Okay, that's the second solution. The third solution is um immigration.
 Let's let in more immigrants. Let's let in the rich immigrants to uh pour cash into the economy. Let's let in poor immigrants so that they work as cheap labor for Canadian corporations. So of these three solutions, the Canadian government went with the third solution, increase immigration. Now, a lot of people out there believe that this is a conspiracyâ€”that there's this global international conspiracy out there to dilute national identity um to destroy the idea of the nation state to reduce uh the white gene pool. Um this is all a
 World Economic Forum white replacement theory uh conspiracy spearheaded by the Jews. And quite honestly, if the people in charge were this smart, were this well organized, the world wouldn't be in the mess that it is today. Um, you'd be surprised by how idiotic, by how uh incompetent the people in charge are.
-So, let me explain to you why immigration is increasing not just in Canada, but also throughout the western world. Okay? So to understand this we need to understand the framework of the Canadian nation. Why does Canada exist and what does Canada do? Well Canada has certain um unique characteristics.
+So,
+
+### Why Immigration Is Rising Across the West
+
+let me explain to you why immigration is increasing not just in Canada, but also throughout the western world. Okay? So to understand this we need to understand the framework of the Canadian nation. Why does Canada exist and what does Canada do? Well Canada has certain um unique characteristics.
 First of all it's a vast nation with almost infinite wealth uh surrounded by two oceansâ€”the Pacific and the Atlantic. And so Canada does not have natural predators as they would in Europe. Canadians grew up in a time of relative peace, uh, safety, and security. Um, the problem though is that Canada shares a border with the world's most powerful empire, with history's greatest empire, uh, America.
 And um so in order to prevent conflict between Canada and United Statesâ€”the last major conflict between Canada and United States was the War of 1812â€”to prevent conflict um there's almost an implicit agreement between the people of Canada and the people of America. Canadians first and foremost are not ambitious.
 If Canadians were ambitious then uh Canada would be at war with America and America would have absorbed Canada into the American empire uh a long time ago. So Canadiansâ€”the first um the core characteristic of the identityâ€”is lack of ambition in order to maintain peace and stability with uh America. And if you're not ambitious, then you're not going to industrialize, which means that you're going to maintain and safeguard the environment.
@@ -103,7 +95,11 @@ And she's holding uh the head of her son Pentheus in her right hand. And she's s
 And so finally her father, Cadmus, um has to tell her, "Agave, that's not a lion's head. That's the head of your son." So that's what an empire is. Okay, if you want to know what an empire is, remember the image of a mother holding the head of her son and proclaiming to the world, look how brave, powerful, and virtuous I am.
 An empire is a system where the old sacrifice the young for their glory. Okay, that's what an empire is. And that's what the baby boomers want. They grew up in a time of the Pax Americana. They don't want to see it die in their lifetimes. They'd rather burn down the entire empire. They'd rather sacrifice their own children and their grandchildren than to lose the idea of empire while they're alive.
 Okay. So that's why the baby boomers have basically told the American government to launch these wars around the world to save the Pax Americana because that's the system they grew up in. That's the system they want to die inâ€”the Pax Americana, the Anglo-American Empire. They want to feel virtuous, powerful, and strong.
-Okay? And they don't care if they have to burn down the world in order to do so. And so the question then is what can we do? Well, you think about it, there's nothing we can do because, as I said, the baby boomers are the most dominant political group in the Western world. They control the political system.
+Okay? And they don't care if they have to burn down the world in order to do so.
+
+### Empire, Rat Utopia, and What We Can Do
+
+And so the question then is what can we do? Well, you think about it, there's nothing we can do because, as I said, the baby boomers are the most dominant political group in the Western world. They control the political system.
 They control the financial system. They control the cultural system. They and they're our parents. They're the people um we love and honor and cherish. I I'm not going to say to my father, "Hey, Dad. Um you're paralyzed. Um your life doesn't have any meaning anymore. And maybe it's time for you to rest in peace and so that the um rest of the world uh the young can have their place."
 So one metaphor that I think best describes the world we live in is rat utopia. Uh rat utopia refers to a series of experiments conducted by James B. Calhoun in the 60s and 70s and this was a time of growing abundance in the world and this is the first time in human history when we escaped scarcityâ€”the promise of abundance.
 So you want to look at what would happen if we lived in a world of um abundance. So they created these experiments, these colonies where rats were allowed to live in a world of abundance. There were no predators. Uh there was unlimited water and food. And what happened each time he did this experiment and no matter how he tweaked the experiment, the result was the same.
@@ -115,7 +111,11 @@ And so we're living in rat utopia. And quite honestly this is why uh young peopl
 Think about the politicians in Washington DC. Um I mean like um many of them their brains aren't even functioning and they're still there. Um and so um we live in a time of rat utopia. But again, these people are the ones who gave us birth. They're the ones who nurtured us, the ones who we must honor and cherish.
 So we can never ever blame the baby boomers for what's going on. We blame the immigrants or we blame the Jews or we blame the deep state or we blame Trump or we blame Justin Trudeau, but we never blame the real culprits who are the baby boomers. Okay. So the question then is what can we do? And so I think the only thing we can do is tell the truth.
 We owe it to ourselves. We owe it to our children to let them know the truth. It was not the immigrants who destroyed the West. It was not Putin or Trump or Trudeau who destroyed um the West. It was not the Jews. It was us because we became selfish, lazy, and corrupt. That's the real reason why the West is dying and the real reason why no one can do anything about it.
-Okay? Because we refuse to admit the truth to ourselves. But the least we can do is tell the truth to our children. And that's why I do what I do. Okay. So, uh again, apologies for today. I'm sorry. I'm sorry it's such doom and gloom. Next week we go back to uh the regular programming of just cheer. Okay. Um no, I'm not going to ever be optimistic about the world because there's no reason to be optimistic about the world.
+Okay? Because we refuse to admit the truth to ourselves. But the least we can do is tell the truth to our children. And that's why I do what I do. Okay. So, uh again, apologies for today. I'm sorry. I'm sorry it's such doom and gloom.
+
+### Closing Questions
+
+Next week we go back to uh the regular programming of just cheer. Okay. Um no, I'm not going to ever be optimistic about the world because there's no reason to be optimistic about the world.
 Okay. So, next week I'm going to preview um the next academic year of classes I'll be teaching. I'll be teaching three new classesâ€”the secret history of the world. So I'll be going into the nexus of finance, intelligence, and religion. It's going to be a really interesting class.
 I'm really looking forward to teaching it. I'm really looking forward to sharing with you. I'll also be teaching the great books. I'll also be teaching game theory. Okay. So in my next video next week, I'll be sharing with youâ€”previewingâ€”these three uh classes. Um if you like what I do, please support my work by uh supporting me on buy me a coffee, the link is below.
 Uh if you want to be part of my community, the Predictive History community, please join my Discord server uh this week. I've started a Substack and um if you want to join my Substack, the link is uh below as well. So in my Substack um I'll be going into solutions for how we can rebuild a better world, how we can work together to build a better world after the world collapses. Okay.

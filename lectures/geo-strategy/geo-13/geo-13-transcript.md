@@ -26,19 +26,19 @@ part_role: world-war
 Um um as everyone knows um it seems this war in the Middle East is uh blowing up and it seems like even though the United States has yet to declare war on Iran um it will probably happen um in the next couple of days with the United States um bombing Iran.
 Um
 
-### I'm Going Share You Impressions Analysis
+### Impressions and Analysis of the Middle East War
 
 so um today I'm going to share with you my impressions, my analysis of what's happened of what's happening in the Middle East. Um and I hope that um this discussion will be clarifying and illuminating for uh many of you. So, um it's very clear what the US intention is. Um because we've seen what the United States has done to Iraq, Libya, and Syria.
 They call it
 
-### Regime Change But It's Really The
+### Regime Change as Societal Destruction
 
 regime change, but it's really the destruction of the society. Um the destruction of the capacity as a people to be a nation to work collectively. And the most glaring example of course is Iraq. um in 2003 before the Americans invaded it was a fairly well functioning society. Yeah. I mean there were sanctions that impoverished the people but overall I mean it was a fairly stable um society in middle middle east.
 United States goes in over for Osam Hussein. And at that time you had a lot of people who welcome this uh transition and this change and they believe that the Americans will implement democracy which was a state mission and it will lead to a more prosperous Iraq. But very soon afterwards the Americans implement a policy called de-Baathification uh which is to remove anyone from the Baptist party from government from the military from the police.
 And the problem with this is these are the elite of society. You remove the elite from society from the pillars of power society um ceases to function properly. And that's exactly what happened. It led to massive sectarian violence that continues even today in Iraq. So, um I can't believe that anyone's stupid to not know the consequences of this policy of deaf.
 Um and so when Americans say
 
-### Regime Change The Middle East Think
+### Iraq 2003 and the Three-Pillar Strategy
 
 regime change in the Middle East, think of Iraq 2003 and what happened afterwards. So um the question now is how will the Americans move forward? Well the American strategy in the Middle East um it's been in place for the past 20 years and regime change requires three pillars. Okay.
 The first pillar is um um decapitation of the leadership. Just remove the entire leadership. Okay. Uh second is um revolutionary um intent and you do that through economic sabotage, right? For sanctions by by destroying infrastructure that allows uh people to live normal lives which includes water supply, electricity. Um and the third pillar of the strategy is to ferment sectarian violence to divide and conquer the people to take advantage of the fact that uh within the societies there are there are these minorities of people who have have

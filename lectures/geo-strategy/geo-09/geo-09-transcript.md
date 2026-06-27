@@ -32,19 +32,19 @@ Source timestamps:
 
 
 
-### The First Major Problem Capitalism It's
+### First Major Problem of Capitalism
 
 
 
-### All For All These Reasons Capitalism
+### Why Capitalism Requires Constant Growth
 
 
 
-### The And And Was Basically The
+### Postwar Boom and the 1970s Turn
 
 
 
-### All Sounds Like Subtle Shift Going
+### Putin's Frame and the Civilizational Shift
 
 
 

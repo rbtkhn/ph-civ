@@ -29,7 +29,7 @@ But if you've been an avid follower of this channel, then you will know that thi
 This war in Ukraine is very strange because American strategy, American policy, American tactics, they've all been self-defeating. I'll give you three examples. The first example is um how aggressive American uh Ukrainian strategy and military doctrine has been. Second is um American sanctions against Russia and the third example is the blowing up of the Nordstream pipeline.
 All three of these policies have been self-defeating. So to understand why, we're going to use counterfactual. We're going to use game theory counterfactual and compare it to what actually happened. So
 
-### Let's Ukrainian Military Strategy Against Russia
+### Ukrainian Military Strategy Against Russia
 
 let's start with Ukrainian military strategy um against Russia. The counterfactual is this. The counterfactual is that America chose not to intervene.
 NATO is not involved and Ukrainians are left to fight the Russians by themselves. Well, in this in this situation, the Russians are very quickly in about 3 to six months, they're able to bulldoze their way throughout eastern Ukraine. And in about 6 months time, they're able to encircle Odessa.
@@ -94,7 +94,7 @@ It's a perfect um mechanism for him to achieve the um his ambitions. And this le
 so to answer this question and again I don't know the answer. Okay, so here I'm only speculating. To answer this question, what's really important for us to understand is the conflict between the Orthodox Christian world and Western civilization. for Orthodox um Christians, they really see Western civilization as a manifestation of the Antichrist.
 Because Western civilization, the
 
-### Three Pillars Western Civilization Capitalism Science
+### Three Pillars of Western Civilization
 
 three pillars of Western civilization are capitalism, science, and liberalism. Liberalism is a cult of the individual, the belief in hedonism, the belief that the pursuit of individual pleasure is what matters most in life. Science is a rejection of God and the worship of the material world.
 Capitalism is pure greed, pure selfishness. So for Orthodox Christians, resilization means a rejection of God, of faith, of tradition, which is what the Orthodox tradition represents. And so for Orthodox Christians, this is a war of civilization, a struggle of civilizations. And only one can survive. Only the western viewpoint can survive or the Orthodox viewpoint can survive.
@@ -102,7 +102,7 @@ And um Orthodox Christians are determined to uh win this war because if they don
 It has a greater population. It has more resources. It has more wealth. But the orthox Christians believe that God is with them. God communicates with them and God is planning on the destruction of the of the Western civilization and the Orthodox Christians are only the tool of God to achieve this. If you look at current events, then there's a lot of justification for this.
 But um let me explain this in a different way. Okay. So I believe and a lot of people will believe that there is um an underlying consciousness to the universe. Hegel calls this the Geist. Carl Jung calls this the collective unconscious because because we have thoughts, right? Well,
 
-### The Question Our Thoughts Come And
+### Where Thoughts Come From
 
 the question then is where do our thoughts come from and where do they go? So let's assume that there is a um a collective unconscious to the universe and we can call this force God.
 Well, if that's the case, then we're able to communicate with this collective unconscious. Um as long as you believe it exists, as long as you make the effort to embrace this collective unconscious, as long as as long as you have faith in God. The problem with western civilization is it denies exist existence of God.

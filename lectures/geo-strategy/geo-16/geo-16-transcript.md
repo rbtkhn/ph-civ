@@ -21,39 +21,38 @@ part_role: world-war
 ## Part I: Full transcript
 
 
-### Opening
-
-
-
-### Things Seem Quiet Down The Middle
-
-
-
-### Things Seem Quiet Down The Middle
-
-
-
-### Things Seem Quiet Down The Middle
-
-
-
-### Closing Questions
+### Quiet in the Middle East and the Ceasefire Lull
 
 So things seem to have quiet down in the Middle East. Um, but as I said, all sides, United States, Iran, and Israel have committed to war. And the ceasefire, it's really a way to attempt to control the narrative. Now, um, as you know, the Iranians have responded to the American bombing.
 Um, the Iranians notify the Americans that they would send missiles against US bases, empty US bases in Qatar. And um that seemed to be the full extent of the Iranian retaliation. And Donald Trump was very pleased with this very tet response. And um many of you might be wondering why was the Iranian response so tipp tippid and so muted.
-And um there's a lot of speculation online. And so what I'll do is I'll I'll offer you my explanation. If you're fully committed to war, why would you uh launch such a tippet response to US aggression? Well, the main reason is you want to infuriate your population. Okay, so um let me explain what I mean. uh Livy the Roman historian um he wrote the his entire history of the Roman Republic and he wrote about one incident where um a Roman legion went off to the frontier and the natives um confronted them and they were outnumbered. So the Roman
+And um there's a lot of speculation online. And so what I'll do is I'll I'll offer you my explanation. If you're fully committed to war,
+
+### Iranian Retaliation and Infuriating the Population
+
+why would you uh launch such a tippet response to US aggression? Well, the main reason is you want to infuriate your population. Okay, so um let me explain what I mean. uh Livy the Roman historian um he wrote the his entire history of the Roman Republic and he wrote about one incident where um a Roman legion went off to the frontier and the natives um confronted them and they were outnumbered. So the Roman
 legion built fortifications and every day uh the natives would come and taunt uh the Roman soldiers and at this point um the Roman soldiers really wanted to go out and fight the natives but the commanders um refused. The commanders ordered them to show restraint and to maintain defense and as a result the natives thought that the Romans were cowards.
 Um and so the tonic became worse and worse and it became so bad that the Roman soldiers were about to mutiny. And at this point the commanders agreed for the Roman legion to attack the natives and the uh Roman legion were so angry uh and so infuriated and so insulted that they slaughtered the natives.
 So that's what's happening um in Iran today. Uh the Iranian people are clearly insulted um and humiliated by this US bombing and the Iranian government is holding them back which even makes them more angry and um as US aggression as Israeli aggression increases the Iranian response will become more and more tippet more and more mute and thus angering the population to the extent that uh the population will force the Iranian regime to declare war on the United states in Israel.
 So that's the game plan moving forward. Um so I would think that um over the next month things will be a bit quiet. There's still going to be a lot of incidents. Um so the Chinese media is reporting that um the Iranian uh intelligence agency has uncovered an Israeli false flag operation in the United States.
 Um, so over the next couple weeks, we will still see some news regarding the Middle East, but I expect things to stay quiet for now. So, I will use this opportunity to provide you some, um, important background as to what's going on in the Middle East. So um last video I mentioned that um there are certain elements within the American Empire uh that want um America to lose a war against Iran in the Middle East and they want Israel to become the empire of the Middle East.
-And these people these elements are are called Christian Zionists. And so I want to today explain to you um what Christian Zionism is and how it fits into this war in the Middle East. So the tendable term for Christian Zionism is premillennial dispensationalist. Okay? So it's a very hard term um but I'm going to explain what it means.
+And these people these elements are are called Christian Zionists. And so I want to today explain to you um what
+
+### Christian Zionism and Premillennial Dispensationalism
+
+Christian Zionism is and how it fits into this war in the Middle East. So the tendable term for Christian Zionism is premillennial dispensationalist. Okay? So it's a very hard term um but I'm going to explain what it means.
 And by the way um I will explain a lot of uh new terms in this video. So I will provide u wiki wiki links and some background reading in the description below. Okay. So please check the description if you want to further your understanding of the terms I introduced today. So premillennial dispensationalism dispensationalism is premillennial is the understanding that um when Jesus returns he will initiate a thousand years of peace in the world called the messianic age.
 Okay, that's that that's why we have the term premillennial because um when Jesus returns we will have a thousand years of peace. Dispensationalist is the understanding that the world history is divided into certain stages. In each stage, the relationship between God and humans change. Um, and we are now approaching the final stage, which is the full reconciliation with God through the second coming of Jesus.
 But for this second coming to happen, certain elements need to be in place. Okay, the first major element is that Israel needs to be reconstituted as a nation which has already happened in 1948. Then all the Jews from around the world have to return to Israel. Um and then they have to destroy the Dome of the Rock which is the third holiest site in Islamic tradition and build the third temple.
 Um then there has to be a war of Gog and Magog when Israel is besieged by a fierce enemy. Um and then this will lead to Agamea sorry uh uh Arga Madan uh which is the final battle. Uh and at the very last minute when uh all hope is lost, when Israel is about to defeat it, Jesus will return um and he will initiate the Misianic age.
 He will save Israel and he will initiate the Mesic age. If you're a Christian, um upon Jesus' return, you will be immediately sent to heaven. This is called the rapture. Um, so that's the idea of Christian Zionism. And Christian Zionism, as I explained before, is one of the main drivers of this war in the Middle East. And if Christian Zionists have their way, then certain things will happen.
-Okay. The most important thing that must happen is the United States send ground troops against Iran. Because as I mentioned, if the United States were to send ground troops into Iran, the American empire would fall and uh which will give birth to the to the empire of Israel.
+Okay.
+
+### Empire of Israel and Ground Troops
+
+The most important thing that must happen is the United States send ground troops against Iran. Because as I mentioned, if the United States were to send ground troops into Iran, the American empire would fall and uh which will give birth to the to the empire of Israel.
+
+### Closing Questions
+
 This is important because in the Christian Zionist framework, America is not involved in this prophecy. So you need to take America out of this equation somehow. Okay? So that's the first thing that um must happen. Second thing that must happen um is the Dome of the Rock must be destroyed. Um if the Dome of the Rock were destroyed, um the Jews could rebuild the third temple.
 But most but more importantly, um it would unify the Islamic world against Israel, thus initiating the war of Gog and Magog. Another thing that must happen is the Jews um must return to Israel. And right now most Jews are living very nice lives in the Western world. So why would they want to return to Israel? Well, the answer is um America has been defeated uh in Iran and Americans are pissed about this loss.
 And so who do they blame? um who do they persecute and who will who who would be the scapegoats and so you have this global surge of anti-semitism and so now you have um major Jewish intellectuals coming out and say listen we should all return to Israel because that's where we'll most be saved. Okay. So um if I'm correct and and I if I'm correct in believing that Christian Zionism is a very powerful force in the world then these three things will happen over the next few years.
@@ -66,7 +65,7 @@ And once I explain these three things, then you have a much more um uh complete 
 Um because the philosopher stone promised the ex the um elixir of immortality which would grant immortality. It also promised to turn lead into gold and Newton was positive that existed. So he spent um most of his life in search of it. And we know about this because 1930s the economist John Maynard Keynes um he bought um Newton's papers on an auction and he really believed that within these papers he would discover mathematical secrets of the universe.
 Instead uh what he what he discovered was all this religious gibberish from Newton. Newton spent most of his life studying the Bible and trying to figure out um the divine messages embedded in the uh Bible. So um if you were to ask Newton like what is your profession? Newton would never say he was a scientist um or a philosopher.
 He would say first and foremost he was a theologian. He was most interested in discovering the mind of God. And that's why he developed his mathematical and physical systems in order to better decipher the mind of God. Okay. So let me give you an example of this. Um at this time in history most Christians understood that history was theological.
-Um theological comes from the Greek tilos which means purpose. So history is moving towards the end which is second coming of of of Christ. Newton's great great insight was to understand that if history is indeed theological then it has um structure and order and therefore it can be expressed mathematically and so if you can figure out the mathematical underpinnings of the world then you've proven that history is theological and therefore you've proven that God uh exists.
+Um theological comes from the Greek tilos which means purpose. So history is moving towards the end which is second coming of of Christ. Newton's great great insight was to understand that if history is indeed theological then it has um structure and order and therefore it can be expressed mathematically and so if you can figure out the mathematical underpinnings of the world then you've proven that history is theological and therefore you've proven that God uh exists.
 Newton's three laws of motions, right? Let's let let's let's re we re summarize Newton's three laws of motions. Law number one, things that are at rest stay at rest. Number two, force is force equals mass times acceleration. Number three, for every action, there must be an equal reaction. Okay? So what people don't understand is these three laws are not physical laws.
 There are first and foremost an ontological argument which proves existence of God. So the first law things that are rest must stay at rest. Okay. So we can imagine that at the beginning of time everything was at rest. If everything's at rest it can't move by itself according to the first law. Therefore something must have moved things to put things in motion.
 And this is what Aristotle calls the prime mover. Um second and third law implies that there's a structure and order and purpose to the universe. And who designed the structure, order and purpose? It must be God. Okay. So what's interesting is that these three laws of motion um they prove that God exists but much more importantly they are the basis for a new religion, a new religious movement called theism.
@@ -80,7 +79,7 @@ So for example uh Newton got a lot into a lot of trouble uh during his lifetime 
 Um so um these societies were a platform for people to discuss religious matters. Um they also had their origins uh from the Knights Templars. The night templars during the crusades were in Jerusalem. And because they were in Jerusalem, they could engage in uh world religions like Zoroastrianism, like um m like Islam, uh like Judaism, like paganism.
 And as such they uh and because these these were extremely educated men uh with deep intellectual curiosity uh they collected all the secret teachings that they were exposed to in Jerusalem and they brought it back to them in Europe and so they ran a foul of the Catholic Church which outlaw them eventually but their teachings went underground in and they became embedded in these secret societies. Okay.
 So when Newton joined the secret societies and when he was able to discover the laws of the universe, well I imagine that these men celebrate Newton as a prophet, as a messiah, as a chosen one, as someone who um reveal who would who would reveal the secret uh teachings of God to the world. And because the world was not ready for these teachings, then they would make it their mission uh to keep it secret and wait for the day when they could reveal these teachings to the world.
-Um so Newton's teachings that um God has a purpose and this purpose is literally embedded into the Bible and uh this um this purpose will lead to second coming of of Christ. It now becomes the framework for these secret societies and as they spread to America um it becomes embedded in the secret societies of America as well.
+Um so Newton's teachings that um God has a purpose and this purpose is literally embedded into the Bible and uh this um this purpose will lead to second coming of Christ. It now becomes the framework for these secret societies and as they spread to America um it becomes embedded in the secret societies of America as well.
 And guess who were members of the secret societies? The founding fathers of America. Right? So um that's second thing you need to know about Newton that he was uh a member of the secret societies who celebrated him and who treated his theological understandings as the word of God. Okay. And the third thing that you have to um understand about Newton is for 30 years he was master of the royal mint and he was in and he was his purpose was to maintain the sanctity, the value um and the credibility of royal coinage against
 counterfeits. Um and so to deal with counterfeits he set up a network of spies to identify to identify these counterfeits. um sometimes to torture them for information and for the most egregious offenders um they'll be executed. Okay. So in other words, Newton established England's very first intelligence agency, intelligence apparatus.
 In 1865, the United States Treasury Department established a secret service. What was their job? Their job was to identify um counterfeits. Why were they called Secret Service? Because the Treasury Department didn't want people to know they existed. Because if they existed, it meant that counterfeiting was a huge problem in America, which which it was at that time, which is it still is today.

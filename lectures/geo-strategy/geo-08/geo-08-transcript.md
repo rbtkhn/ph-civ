@@ -32,19 +32,19 @@ Source timestamps:
 
 
 
-### The First Reason Free Freedom And
+### Freedom and Democracy as Stated Reasons
 
 
 
-### All We'll First Historical Analysis Find
+### Historical Analysis of Regime-Change Wars
 
 
 
-### The The The Adversary Most Willing
+### Russia as the Adversary Most Willing to Fight
 
 
 
-### The Problem Zelenskyy Cared About What
+### Zelenskyy, NATO, and the Ukraine Endgame
 
 
 
