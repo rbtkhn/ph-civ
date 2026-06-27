@@ -14,9 +14,9 @@ Predictive History was originally assembled through source-family lanes. The cur
 
 ## Current Reader-Native Architecture
 
-- ook/volume-i-civilization/ = law discovery
-- ook/volume-ii-apocalypse/ = law application
-- ook/provenance/ = old source-family context
+- [`book/volume-i-civilization/`](volume-i-civilization/README.md) = law discovery
+- [`book/volume-ii-apocalypse/`](volume-ii-apocalypse/README.md) = law application
+- [`book/provenance/`](provenance/README.md) = old source-family context
 
 ## Rerouting Law
 
@@ -28,4 +28,10 @@ Predictive History was originally assembled through source-family lanes. The cur
 - Essays -> Apocalypse
 - Interviews -> provenance only, not a foregrounded public lane
 
-The old scaffold describes how the corpus was made. The current two-volume structure describes how the corpus should be read.
+The old scaffold describes how the corpus was made. The two-volume structure described how the corpus was read next; that frame is now **deprecated** for onboarding in favor of the namespace catalog hub (see chain below).
+
+## Historical chain (reader models)
+
+1. **This doc** — seven-volume source scaffold → two-volume reader rollup
+2. [`docs/two-volumes-one-reader-map.md`](../docs/two-volumes-one-reader-map.md) — two-volume reader map (retained for history; not active onboarding)
+3. [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](../docs/archive/two-volume-ph-civ-apo-deprecated.md) — structural deprecation; primary artifact **`namespace_catalog`** ([`docs/predictive-history-index.md`](../docs/predictive-history-index.md) + lecture / essay / interview slice indexes)
