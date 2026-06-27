@@ -17,7 +17,7 @@ One chapter consists of a lecture transcript, a companion commentary, and public
 
 Medium-first namespaces at the repository root (siblings to `book/`):
 
-- [`essays/`](essays/README.md) — Substack and long-form essays (`essay-01` … `essay-43`)
+- [`essays/`](essays/README.md) — Substack and long-form essays (`essay-2025-08-06-vision-mission-goals` … `essay-2026-06-19-peace-in-our-time`)
 - [`lectures/`](lectures/README.md) — reserved lecture namespace; most lecture chapters still live under `book/` until recanonicalized
 - [`interviews/`](interviews/README.md) — 15 public interview provenance packets (`interview-YYYY-MM-DD-{host-slug}`); cataloged under **Provenance** in the chapter index
 

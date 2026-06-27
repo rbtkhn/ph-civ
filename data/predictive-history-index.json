@@ -1,8 +1,8 @@
 {
   "schema_version": 3,
-  "fingerprint": "4cdd5b15ac65714e",
+  "fingerprint": "cd84fe512455118b",
   "card_count": 205,
-  "transcript_word_total": 1431377,
+  "transcript_word_total": 1431458,
   "ssot": "data/cards.jsonl",
   "markdown_index": "docs/predictive-history-index.md",
   "surfaces": {
@@ -90,7 +90,7 @@
       "series_counts": {
         "interviews": 16
       },
-      "transcript_word_total": 152402
+      "transcript_word_total": 152483
     }
   },
   "chapters": [
@@ -1358,7 +1358,7 @@
       "deprecated_part_routing": true
     },
     {
-      "source_id": "essay-01",
+      "source_id": "essay-2025-08-06-vision-mission-goals",
       "title": "Vision, Mission, Goals",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1367,10 +1367,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-01/essay-01.md",
-        "commentary": "essays/essay-01/essay-01-commentary.md",
-        "folder": "essays/essay-01",
-        "folder_readme": "essays/essay-01/README.md"
+        "transcript": "essays/essay-2025-08-06-vision-mission-goals/essay-2025-08-06-vision-mission-goals.md",
+        "commentary": "essays/essay-2025-08-06-vision-mission-goals/essay-2025-08-06-vision-mission-goals-commentary.md",
+        "folder": "essays/essay-2025-08-06-vision-mission-goals",
+        "folder_readme": "essays/essay-2025-08-06-vision-mission-goals/README.md"
       },
       "transcript_word_count": 684,
       "source_video_url": "https://predictivehistory.substack.com/p/vision-mission-goals",
@@ -1379,7 +1379,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-02",
+      "source_id": "essay-2025-08-08-continuity-of-government-is-a-joke",
       "title": "\"Continuity of Government\" is a Joke. Here's Why.",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1388,10 +1388,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-02/essay-02.md",
-        "commentary": "essays/essay-02/essay-02-commentary.md",
-        "folder": "essays/essay-02",
-        "folder_readme": "essays/essay-02/README.md"
+        "transcript": "essays/essay-2025-08-08-continuity-of-government-is-a-joke/essay-2025-08-08-continuity-of-government-is-a-joke.md",
+        "commentary": "essays/essay-2025-08-08-continuity-of-government-is-a-joke/essay-2025-08-08-continuity-of-government-is-a-joke-commentary.md",
+        "folder": "essays/essay-2025-08-08-continuity-of-government-is-a-joke",
+        "folder_readme": "essays/essay-2025-08-08-continuity-of-government-is-a-joke/README.md"
       },
       "transcript_word_count": 847,
       "source_video_url": "https://predictivehistory.substack.com/p/continuity-of-government-is-a-joke",
@@ -1400,7 +1400,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-03",
+      "source_id": "essay-2025-08-13-the-third-coming",
       "title": "The Third Coming",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1409,10 +1409,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-03/essay-03.md",
-        "commentary": "essays/essay-03/essay-03-commentary.md",
-        "folder": "essays/essay-03",
-        "folder_readme": "essays/essay-03/README.md"
+        "transcript": "essays/essay-2025-08-13-the-third-coming/essay-2025-08-13-the-third-coming.md",
+        "commentary": "essays/essay-2025-08-13-the-third-coming/essay-2025-08-13-the-third-coming-commentary.md",
+        "folder": "essays/essay-2025-08-13-the-third-coming",
+        "folder_readme": "essays/essay-2025-08-13-the-third-coming/README.md"
       },
       "transcript_word_count": 1246,
       "source_video_url": "https://predictivehistory.substack.com/p/the-third-coming",
@@ -1421,7 +1421,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-04",
+      "source_id": "essay-2025-08-20-the-secret-history-of-the-world-1",
       "title": "The Secret History of the World #1: The Cost of Money",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1430,10 +1430,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-04/essay-04.md",
-        "commentary": "essays/essay-04/essay-04-commentary.md",
-        "folder": "essays/essay-04",
-        "folder_readme": "essays/essay-04/README.md"
+        "transcript": "essays/essay-2025-08-20-the-secret-history-of-the-world-1/essay-2025-08-20-the-secret-history-of-the-world-1.md",
+        "commentary": "essays/essay-2025-08-20-the-secret-history-of-the-world-1/essay-2025-08-20-the-secret-history-of-the-world-1-commentary.md",
+        "folder": "essays/essay-2025-08-20-the-secret-history-of-the-world-1",
+        "folder_readme": "essays/essay-2025-08-20-the-secret-history-of-the-world-1/README.md"
       },
       "transcript_word_count": 1256,
       "source_video_url": "https://predictivehistory.substack.com/p/the-secret-history-of-the-world-1",
@@ -1442,7 +1442,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-05",
+      "source_id": "essay-2025-08-22-the-secret-history-of-the-world-2",
       "title": "The Secret History of the World #2: Measuring the Resilience of Societies",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1451,10 +1451,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-05/essay-05.md",
-        "commentary": "essays/essay-05/essay-05-commentary.md",
-        "folder": "essays/essay-05",
-        "folder_readme": "essays/essay-05/README.md"
+        "transcript": "essays/essay-2025-08-22-the-secret-history-of-the-world-2/essay-2025-08-22-the-secret-history-of-the-world-2.md",
+        "commentary": "essays/essay-2025-08-22-the-secret-history-of-the-world-2/essay-2025-08-22-the-secret-history-of-the-world-2-commentary.md",
+        "folder": "essays/essay-2025-08-22-the-secret-history-of-the-world-2",
+        "folder_readme": "essays/essay-2025-08-22-the-secret-history-of-the-world-2/README.md"
       },
       "transcript_word_count": 792,
       "source_video_url": "https://predictivehistory.substack.com/p/the-secret-history-of-the-world-2",
@@ -1463,7 +1463,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-06",
+      "source_id": "essay-2025-08-26-the-secret-history-of-the-world-3",
       "title": "The Secret History of the World #3: The Corporate Re-Structuring of Canada",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1472,10 +1472,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-06/essay-06.md",
-        "commentary": "essays/essay-06/essay-06-commentary.md",
-        "folder": "essays/essay-06",
-        "folder_readme": "essays/essay-06/README.md"
+        "transcript": "essays/essay-2025-08-26-the-secret-history-of-the-world-3/essay-2025-08-26-the-secret-history-of-the-world-3.md",
+        "commentary": "essays/essay-2025-08-26-the-secret-history-of-the-world-3/essay-2025-08-26-the-secret-history-of-the-world-3-commentary.md",
+        "folder": "essays/essay-2025-08-26-the-secret-history-of-the-world-3",
+        "folder_readme": "essays/essay-2025-08-26-the-secret-history-of-the-world-3/README.md"
       },
       "transcript_word_count": 1704,
       "source_video_url": "https://predictivehistory.substack.com/p/the-secret-history-of-the-world-3",
@@ -1484,7 +1484,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-07",
+      "source_id": "essay-2025-08-29-the-secret-history-of-the-world-4",
       "title": "The Secret History of the World #4: Enter Epstein Island",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1493,10 +1493,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-07/essay-07.md",
-        "commentary": "essays/essay-07/essay-07-commentary.md",
-        "folder": "essays/essay-07",
-        "folder_readme": "essays/essay-07/README.md"
+        "transcript": "essays/essay-2025-08-29-the-secret-history-of-the-world-4/essay-2025-08-29-the-secret-history-of-the-world-4.md",
+        "commentary": "essays/essay-2025-08-29-the-secret-history-of-the-world-4/essay-2025-08-29-the-secret-history-of-the-world-4-commentary.md",
+        "folder": "essays/essay-2025-08-29-the-secret-history-of-the-world-4",
+        "folder_readme": "essays/essay-2025-08-29-the-secret-history-of-the-world-4/README.md"
       },
       "transcript_word_count": 1514,
       "source_video_url": "https://predictivehistory.substack.com/p/the-secret-history-of-the-world-4",
@@ -1505,7 +1505,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-08",
+      "source_id": "essay-2025-09-05-the-secret-history-of-the-world-5",
       "title": "The Secret History of the World #5: The Poetry of Transgression",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1514,10 +1514,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-08/essay-08.md",
-        "commentary": "essays/essay-08/essay-08-commentary.md",
-        "folder": "essays/essay-08",
-        "folder_readme": "essays/essay-08/README.md"
+        "transcript": "essays/essay-2025-09-05-the-secret-history-of-the-world-5/essay-2025-09-05-the-secret-history-of-the-world-5.md",
+        "commentary": "essays/essay-2025-09-05-the-secret-history-of-the-world-5/essay-2025-09-05-the-secret-history-of-the-world-5-commentary.md",
+        "folder": "essays/essay-2025-09-05-the-secret-history-of-the-world-5",
+        "folder_readme": "essays/essay-2025-09-05-the-secret-history-of-the-world-5/README.md"
       },
       "transcript_word_count": 1656,
       "source_video_url": "https://predictivehistory.substack.com/p/the-secret-history-of-the-world-5",
@@ -1526,7 +1526,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-09",
+      "source_id": "essay-2025-09-09-the-secret-history-of-the-world-6",
       "title": "The Secret History of the World #6: Manchurian Candidates",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1535,10 +1535,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-09/essay-09.md",
-        "commentary": "essays/essay-09/essay-09-commentary.md",
-        "folder": "essays/essay-09",
-        "folder_readme": "essays/essay-09/README.md"
+        "transcript": "essays/essay-2025-09-09-the-secret-history-of-the-world-6/essay-2025-09-09-the-secret-history-of-the-world-6.md",
+        "commentary": "essays/essay-2025-09-09-the-secret-history-of-the-world-6/essay-2025-09-09-the-secret-history-of-the-world-6-commentary.md",
+        "folder": "essays/essay-2025-09-09-the-secret-history-of-the-world-6",
+        "folder_readme": "essays/essay-2025-09-09-the-secret-history-of-the-world-6/README.md"
       },
       "transcript_word_count": 1362,
       "source_video_url": "https://predictivehistory.substack.com/p/the-secret-history-of-the-world-6",
@@ -1547,7 +1547,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-10",
+      "source_id": "essay-2025-09-12-secret-history-7-the-voyage-home",
       "title": "Secret History #7: The Voyage Home",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1556,10 +1556,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-10/essay-10.md",
-        "commentary": "essays/essay-10/essay-10-commentary.md",
-        "folder": "essays/essay-10",
-        "folder_readme": "essays/essay-10/README.md"
+        "transcript": "essays/essay-2025-09-12-secret-history-7-the-voyage-home/essay-2025-09-12-secret-history-7-the-voyage-home.md",
+        "commentary": "essays/essay-2025-09-12-secret-history-7-the-voyage-home/essay-2025-09-12-secret-history-7-the-voyage-home-commentary.md",
+        "folder": "essays/essay-2025-09-12-secret-history-7-the-voyage-home",
+        "folder_readme": "essays/essay-2025-09-12-secret-history-7-the-voyage-home/README.md"
       },
       "transcript_word_count": 958,
       "source_video_url": "https://predictivehistory.substack.com/p/secret-history-7-the-voyage-home",
@@ -1568,7 +1568,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-11",
+      "source_id": "essay-2025-09-13-tipping-point-usa",
       "title": "Tipping Point USA",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1577,10 +1577,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-11/essay-11.md",
-        "commentary": "essays/essay-11/essay-11-commentary.md",
-        "folder": "essays/essay-11",
-        "folder_readme": "essays/essay-11/README.md"
+        "transcript": "essays/essay-2025-09-13-tipping-point-usa/essay-2025-09-13-tipping-point-usa.md",
+        "commentary": "essays/essay-2025-09-13-tipping-point-usa/essay-2025-09-13-tipping-point-usa-commentary.md",
+        "folder": "essays/essay-2025-09-13-tipping-point-usa",
+        "folder_readme": "essays/essay-2025-09-13-tipping-point-usa/README.md"
       },
       "transcript_word_count": 1189,
       "source_video_url": "https://predictivehistory.substack.com/p/tipping-point-usa",
@@ -1589,7 +1589,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-12",
+      "source_id": "essay-2025-09-17-i-have-questions-about-tyler-robinson",
       "title": "I Have Questions about Tyler Robinson",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1598,10 +1598,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-12/essay-12.md",
-        "commentary": "essays/essay-12/essay-12-commentary.md",
-        "folder": "essays/essay-12",
-        "folder_readme": "essays/essay-12/README.md"
+        "transcript": "essays/essay-2025-09-17-i-have-questions-about-tyler-robinson/essay-2025-09-17-i-have-questions-about-tyler-robinson.md",
+        "commentary": "essays/essay-2025-09-17-i-have-questions-about-tyler-robinson/essay-2025-09-17-i-have-questions-about-tyler-robinson-commentary.md",
+        "folder": "essays/essay-2025-09-17-i-have-questions-about-tyler-robinson",
+        "folder_readme": "essays/essay-2025-09-17-i-have-questions-about-tyler-robinson/README.md"
       },
       "transcript_word_count": 2428,
       "source_video_url": "https://predictivehistory.substack.com/p/i-have-questions-about-tyler-robinson",
@@ -1610,7 +1610,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-13",
+      "source_id": "essay-2025-09-20-predictive-history-reading-list",
       "title": "\"Predictive History\" Reading List",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1619,10 +1619,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-13/essay-13.md",
-        "commentary": "essays/essay-13/essay-13-commentary.md",
-        "folder": "essays/essay-13",
-        "folder_readme": "essays/essay-13/README.md"
+        "transcript": "essays/essay-2025-09-20-predictive-history-reading-list/essay-2025-09-20-predictive-history-reading-list.md",
+        "commentary": "essays/essay-2025-09-20-predictive-history-reading-list/essay-2025-09-20-predictive-history-reading-list-commentary.md",
+        "folder": "essays/essay-2025-09-20-predictive-history-reading-list",
+        "folder_readme": "essays/essay-2025-09-20-predictive-history-reading-list/README.md"
       },
       "transcript_word_count": 777,
       "source_video_url": "https://predictivehistory.substack.com/p/predictive-history-reading-list",
@@ -1631,7 +1631,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-14",
+      "source_id": "essay-2025-09-22-what-can-be-done",
       "title": "What Can Be Done?",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1640,10 +1640,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-14/essay-14.md",
-        "commentary": "essays/essay-14/essay-14-commentary.md",
-        "folder": "essays/essay-14",
-        "folder_readme": "essays/essay-14/README.md"
+        "transcript": "essays/essay-2025-09-22-what-can-be-done/essay-2025-09-22-what-can-be-done.md",
+        "commentary": "essays/essay-2025-09-22-what-can-be-done/essay-2025-09-22-what-can-be-done-commentary.md",
+        "folder": "essays/essay-2025-09-22-what-can-be-done",
+        "folder_readme": "essays/essay-2025-09-22-what-can-be-done/README.md"
       },
       "transcript_word_count": 1555,
       "source_video_url": "https://predictivehistory.substack.com/p/what-can-be-done",
@@ -1652,7 +1652,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-15",
+      "source_id": "essay-2025-09-27-the-empire-goes-to-war",
       "title": "The Empire Goes to War",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1661,10 +1661,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-15/essay-15.md",
-        "commentary": "essays/essay-15/essay-15-commentary.md",
-        "folder": "essays/essay-15",
-        "folder_readme": "essays/essay-15/README.md"
+        "transcript": "essays/essay-2025-09-27-the-empire-goes-to-war/essay-2025-09-27-the-empire-goes-to-war.md",
+        "commentary": "essays/essay-2025-09-27-the-empire-goes-to-war/essay-2025-09-27-the-empire-goes-to-war-commentary.md",
+        "folder": "essays/essay-2025-09-27-the-empire-goes-to-war",
+        "folder_readme": "essays/essay-2025-09-27-the-empire-goes-to-war/README.md"
       },
       "transcript_word_count": 1224,
       "source_video_url": "https://predictivehistory.substack.com/p/the-empire-goes-to-war",
@@ -1673,7 +1673,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-16",
+      "source_id": "essay-2025-10-01-war-machine-usa",
       "title": "War Machine USA",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1682,10 +1682,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-16/essay-16.md",
-        "commentary": "essays/essay-16/essay-16-commentary.md",
-        "folder": "essays/essay-16",
-        "folder_readme": "essays/essay-16/README.md"
+        "transcript": "essays/essay-2025-10-01-war-machine-usa/essay-2025-10-01-war-machine-usa.md",
+        "commentary": "essays/essay-2025-10-01-war-machine-usa/essay-2025-10-01-war-machine-usa-commentary.md",
+        "folder": "essays/essay-2025-10-01-war-machine-usa",
+        "folder_readme": "essays/essay-2025-10-01-war-machine-usa/README.md"
       },
       "transcript_word_count": 1404,
       "source_video_url": "https://predictivehistory.substack.com/p/war-machine-usa",
@@ -1694,7 +1694,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-17",
+      "source_id": "essay-2025-10-03-why-i-refuse-to-get-rich",
       "title": "Why I Refuse to Get Rich",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1703,10 +1703,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-17/essay-17.md",
-        "commentary": "essays/essay-17/essay-17-commentary.md",
-        "folder": "essays/essay-17",
-        "folder_readme": "essays/essay-17/README.md"
+        "transcript": "essays/essay-2025-10-03-why-i-refuse-to-get-rich/essay-2025-10-03-why-i-refuse-to-get-rich.md",
+        "commentary": "essays/essay-2025-10-03-why-i-refuse-to-get-rich/essay-2025-10-03-why-i-refuse-to-get-rich-commentary.md",
+        "folder": "essays/essay-2025-10-03-why-i-refuse-to-get-rich",
+        "folder_readme": "essays/essay-2025-10-03-why-i-refuse-to-get-rich/README.md"
       },
       "transcript_word_count": 1115,
       "source_video_url": "https://predictivehistory.substack.com/p/why-i-refuse-to-get-rich",
@@ -1715,7 +1715,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-18",
+      "source_id": "essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy",
       "title": "Secret History #8: The Rise of the American Kakistocracy",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1724,10 +1724,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-18/essay-18.md",
-        "commentary": "essays/essay-18/essay-18-commentary.md",
-        "folder": "essays/essay-18",
-        "folder_readme": "essays/essay-18/README.md"
+        "transcript": "essays/essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy/essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy.md",
+        "commentary": "essays/essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy/essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy-commentary.md",
+        "folder": "essays/essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy",
+        "folder_readme": "essays/essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy/README.md"
       },
       "transcript_word_count": 1052,
       "source_video_url": "https://predictivehistory.substack.com/p/secret-history-8-the-rise-of-the-american-kakistocracy",
@@ -1736,7 +1736,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-19",
+      "source_id": "essay-2025-10-12-the-limits-of-pax-judaica",
       "title": "The Limits of Pax Judaica",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1745,10 +1745,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-19/essay-19.md",
-        "commentary": "essays/essay-19/essay-19-commentary.md",
-        "folder": "essays/essay-19",
-        "folder_readme": "essays/essay-19/README.md"
+        "transcript": "essays/essay-2025-10-12-the-limits-of-pax-judaica/essay-2025-10-12-the-limits-of-pax-judaica.md",
+        "commentary": "essays/essay-2025-10-12-the-limits-of-pax-judaica/essay-2025-10-12-the-limits-of-pax-judaica-commentary.md",
+        "folder": "essays/essay-2025-10-12-the-limits-of-pax-judaica",
+        "folder_readme": "essays/essay-2025-10-12-the-limits-of-pax-judaica/README.md"
       },
       "transcript_word_count": 927,
       "source_video_url": "https://predictivehistory.substack.com/p/the-limits-of-pax-judaica",
@@ -1757,7 +1757,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-20",
+      "source_id": "essay-2025-10-15-secret-history-10-the-war-of-heaven",
       "title": "Secret History #9: The War of Heaven and Hell",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1766,10 +1766,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-20/essay-20.md",
-        "commentary": "essays/essay-20/essay-20-commentary.md",
-        "folder": "essays/essay-20",
-        "folder_readme": "essays/essay-20/README.md"
+        "transcript": "essays/essay-2025-10-15-secret-history-10-the-war-of-heaven/essay-2025-10-15-secret-history-10-the-war-of-heaven.md",
+        "commentary": "essays/essay-2025-10-15-secret-history-10-the-war-of-heaven/essay-2025-10-15-secret-history-10-the-war-of-heaven-commentary.md",
+        "folder": "essays/essay-2025-10-15-secret-history-10-the-war-of-heaven",
+        "folder_readme": "essays/essay-2025-10-15-secret-history-10-the-war-of-heaven/README.md"
       },
       "transcript_word_count": 969,
       "source_video_url": "https://predictivehistory.substack.com/p/secret-history-10-the-war-of-heaven",
@@ -1778,7 +1778,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-21",
+      "source_id": "essay-2025-10-17-secret-history-10-the-great-revealing",
       "title": "Secret History #10: The Great Revealing",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1787,10 +1787,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-21/essay-21.md",
-        "commentary": "essays/essay-21/essay-21-commentary.md",
-        "folder": "essays/essay-21",
-        "folder_readme": "essays/essay-21/README.md"
+        "transcript": "essays/essay-2025-10-17-secret-history-10-the-great-revealing/essay-2025-10-17-secret-history-10-the-great-revealing.md",
+        "commentary": "essays/essay-2025-10-17-secret-history-10-the-great-revealing/essay-2025-10-17-secret-history-10-the-great-revealing-commentary.md",
+        "folder": "essays/essay-2025-10-17-secret-history-10-the-great-revealing",
+        "folder_readme": "essays/essay-2025-10-17-secret-history-10-the-great-revealing/README.md"
       },
       "transcript_word_count": 830,
       "source_video_url": "https://predictivehistory.substack.com/p/secret-history-10-the-great-revealing",
@@ -1799,7 +1799,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-22",
+      "source_id": "essay-2026-01-03-blowback-venezuela",
       "title": "Blowback Venezuela",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1808,10 +1808,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-22/essay-22.md",
-        "commentary": "essays/essay-22/essay-22-commentary.md",
-        "folder": "essays/essay-22",
-        "folder_readme": "essays/essay-22/README.md"
+        "transcript": "essays/essay-2026-01-03-blowback-venezuela/essay-2026-01-03-blowback-venezuela.md",
+        "commentary": "essays/essay-2026-01-03-blowback-venezuela/essay-2026-01-03-blowback-venezuela-commentary.md",
+        "folder": "essays/essay-2026-01-03-blowback-venezuela",
+        "folder_readme": "essays/essay-2026-01-03-blowback-venezuela/README.md"
       },
       "transcript_word_count": 1129,
       "source_video_url": "https://predictivehistory.substack.com/p/blowback-venezuela",
@@ -1820,7 +1820,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-23",
+      "source_id": "essay-2026-01-10-minnesota-burning",
       "title": "Minnesota Burning",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1829,10 +1829,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-23/essay-23.md",
-        "commentary": "essays/essay-23/essay-23-commentary.md",
-        "folder": "essays/essay-23",
-        "folder_readme": "essays/essay-23/README.md"
+        "transcript": "essays/essay-2026-01-10-minnesota-burning/essay-2026-01-10-minnesota-burning.md",
+        "commentary": "essays/essay-2026-01-10-minnesota-burning/essay-2026-01-10-minnesota-burning-commentary.md",
+        "folder": "essays/essay-2026-01-10-minnesota-burning",
+        "folder_readme": "essays/essay-2026-01-10-minnesota-burning/README.md"
       },
       "transcript_word_count": 922,
       "source_video_url": "https://predictivehistory.substack.com/p/minnesota-burning",
@@ -1841,7 +1841,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-24",
+      "source_id": "essay-2026-01-17-iran-greenland-and-canada",
       "title": "Iran, Greenland, and Canada",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1850,10 +1850,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-24/essay-24.md",
-        "commentary": "essays/essay-24/essay-24-commentary.md",
-        "folder": "essays/essay-24",
-        "folder_readme": "essays/essay-24/README.md"
+        "transcript": "essays/essay-2026-01-17-iran-greenland-and-canada/essay-2026-01-17-iran-greenland-and-canada.md",
+        "commentary": "essays/essay-2026-01-17-iran-greenland-and-canada/essay-2026-01-17-iran-greenland-and-canada-commentary.md",
+        "folder": "essays/essay-2026-01-17-iran-greenland-and-canada",
+        "folder_readme": "essays/essay-2026-01-17-iran-greenland-and-canada/README.md"
       },
       "transcript_word_count": 775,
       "source_video_url": "https://predictivehistory.substack.com/p/iran-greenland-and-canada",
@@ -1862,7 +1862,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-25",
+      "source_id": "essay-2026-01-24-carneys-speech-and-trumps-letter",
       "title": "Carney’s Speech and Trump’s Letter",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1871,10 +1871,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-25/essay-25.md",
-        "commentary": "essays/essay-25/essay-25-commentary.md",
-        "folder": "essays/essay-25",
-        "folder_readme": "essays/essay-25/README.md"
+        "transcript": "essays/essay-2026-01-24-carneys-speech-and-trumps-letter/essay-2026-01-24-carneys-speech-and-trumps-letter.md",
+        "commentary": "essays/essay-2026-01-24-carneys-speech-and-trumps-letter/essay-2026-01-24-carneys-speech-and-trumps-letter-commentary.md",
+        "folder": "essays/essay-2026-01-24-carneys-speech-and-trumps-letter",
+        "folder_readme": "essays/essay-2026-01-24-carneys-speech-and-trumps-letter/README.md"
       },
       "transcript_word_count": 1104,
       "source_video_url": "https://predictivehistory.substack.com/p/carneys-speech-and-trumps-letter",
@@ -1883,7 +1883,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-26",
+      "source_id": "essay-2026-02-07-twilight-of-the-liberal-elite",
       "title": "Twilight of the Liberal Elite",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1892,10 +1892,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-26/essay-26.md",
-        "commentary": "essays/essay-26/essay-26-commentary.md",
-        "folder": "essays/essay-26",
-        "folder_readme": "essays/essay-26/README.md"
+        "transcript": "essays/essay-2026-02-07-twilight-of-the-liberal-elite/essay-2026-02-07-twilight-of-the-liberal-elite.md",
+        "commentary": "essays/essay-2026-02-07-twilight-of-the-liberal-elite/essay-2026-02-07-twilight-of-the-liberal-elite-commentary.md",
+        "folder": "essays/essay-2026-02-07-twilight-of-the-liberal-elite",
+        "folder_readme": "essays/essay-2026-02-07-twilight-of-the-liberal-elite/README.md"
       },
       "transcript_word_count": 1061,
       "source_video_url": "https://predictivehistory.substack.com/p/twilight-of-the-liberal-elite",
@@ -1904,7 +1904,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-27",
+      "source_id": "essay-2026-02-14-welcome-to-the-rupture",
       "title": "Welcome to the Rupture",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1913,10 +1913,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-27/essay-27.md",
-        "commentary": "essays/essay-27/essay-27-commentary.md",
-        "folder": "essays/essay-27",
-        "folder_readme": "essays/essay-27/README.md"
+        "transcript": "essays/essay-2026-02-14-welcome-to-the-rupture/essay-2026-02-14-welcome-to-the-rupture.md",
+        "commentary": "essays/essay-2026-02-14-welcome-to-the-rupture/essay-2026-02-14-welcome-to-the-rupture-commentary.md",
+        "folder": "essays/essay-2026-02-14-welcome-to-the-rupture",
+        "folder_readme": "essays/essay-2026-02-14-welcome-to-the-rupture/README.md"
       },
       "transcript_word_count": 1568,
       "source_video_url": "https://predictivehistory.substack.com/p/welcome-to-the-rupture",
@@ -1925,7 +1925,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-28",
+      "source_id": "essay-2026-02-21-countdown-to-iran",
       "title": "Countdown to Iran",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1934,10 +1934,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-28/essay-28.md",
-        "commentary": "essays/essay-28/essay-28-commentary.md",
-        "folder": "essays/essay-28",
-        "folder_readme": "essays/essay-28/README.md"
+        "transcript": "essays/essay-2026-02-21-countdown-to-iran/essay-2026-02-21-countdown-to-iran.md",
+        "commentary": "essays/essay-2026-02-21-countdown-to-iran/essay-2026-02-21-countdown-to-iran-commentary.md",
+        "folder": "essays/essay-2026-02-21-countdown-to-iran",
+        "folder_readme": "essays/essay-2026-02-21-countdown-to-iran/README.md"
       },
       "transcript_word_count": 1211,
       "source_video_url": "https://predictivehistory.substack.com/p/countdown-to-iran",
@@ -1946,7 +1946,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-29",
+      "source_id": "essay-2026-02-28-world-war-iii-begins",
       "title": "World War III Begins",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1955,10 +1955,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-29/essay-29.md",
-        "commentary": "essays/essay-29/essay-29-commentary.md",
-        "folder": "essays/essay-29",
-        "folder_readme": "essays/essay-29/README.md"
+        "transcript": "essays/essay-2026-02-28-world-war-iii-begins/essay-2026-02-28-world-war-iii-begins.md",
+        "commentary": "essays/essay-2026-02-28-world-war-iii-begins/essay-2026-02-28-world-war-iii-begins-commentary.md",
+        "folder": "essays/essay-2026-02-28-world-war-iii-begins",
+        "folder_readme": "essays/essay-2026-02-28-world-war-iii-begins/README.md"
       },
       "transcript_word_count": 932,
       "source_video_url": "https://predictivehistory.substack.com/p/world-war-iii-begins",
@@ -1967,7 +1967,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-30",
+      "source_id": "essay-2026-03-07-the-acceleration",
       "title": "The Acceleration",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1976,10 +1976,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-30/essay-30.md",
-        "commentary": "essays/essay-30/essay-30-commentary.md",
-        "folder": "essays/essay-30",
-        "folder_readme": "essays/essay-30/README.md"
+        "transcript": "essays/essay-2026-03-07-the-acceleration/essay-2026-03-07-the-acceleration.md",
+        "commentary": "essays/essay-2026-03-07-the-acceleration/essay-2026-03-07-the-acceleration-commentary.md",
+        "folder": "essays/essay-2026-03-07-the-acceleration",
+        "folder_readme": "essays/essay-2026-03-07-the-acceleration/README.md"
       },
       "transcript_word_count": 1574,
       "source_video_url": "https://predictivehistory.substack.com/p/the-acceleration",
@@ -1988,7 +1988,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-31",
+      "source_id": "essay-2026-03-14-vietnam-redux",
       "title": "Vietnam Redux",
       "part": "civilization",
       "surface": "ph-civ",
@@ -1997,10 +1997,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-31/essay-31.md",
-        "commentary": "essays/essay-31/essay-31-commentary.md",
-        "folder": "essays/essay-31",
-        "folder_readme": "essays/essay-31/README.md"
+        "transcript": "essays/essay-2026-03-14-vietnam-redux/essay-2026-03-14-vietnam-redux.md",
+        "commentary": "essays/essay-2026-03-14-vietnam-redux/essay-2026-03-14-vietnam-redux-commentary.md",
+        "folder": "essays/essay-2026-03-14-vietnam-redux",
+        "folder_readme": "essays/essay-2026-03-14-vietnam-redux/README.md"
       },
       "transcript_word_count": 1324,
       "source_video_url": "https://predictivehistory.substack.com/p/vietnam-redux",
@@ -2009,7 +2009,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-32",
+      "source_id": "essay-2026-03-21-the-us-iran-end-game",
       "title": "The US-Iran End Game",
       "part": "civilization",
       "surface": "ph-civ",
@@ -2018,10 +2018,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-32/essay-32.md",
-        "commentary": "essays/essay-32/essay-32-commentary.md",
-        "folder": "essays/essay-32",
-        "folder_readme": "essays/essay-32/README.md"
+        "transcript": "essays/essay-2026-03-21-the-us-iran-end-game/essay-2026-03-21-the-us-iran-end-game.md",
+        "commentary": "essays/essay-2026-03-21-the-us-iran-end-game/essay-2026-03-21-the-us-iran-end-game-commentary.md",
+        "folder": "essays/essay-2026-03-21-the-us-iran-end-game",
+        "folder_readme": "essays/essay-2026-03-21-the-us-iran-end-game/README.md"
       },
       "transcript_word_count": 1288,
       "source_video_url": "https://predictivehistory.substack.com/p/the-us-iran-end-game",
@@ -2030,7 +2030,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-33",
+      "source_id": "essay-2026-04-04-world-war-trump",
       "title": "World War Trump",
       "part": "civilization",
       "surface": "ph-civ",
@@ -2039,10 +2039,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-33/essay-33.md",
-        "commentary": "essays/essay-33/essay-33-commentary.md",
-        "folder": "essays/essay-33",
-        "folder_readme": "essays/essay-33/README.md"
+        "transcript": "essays/essay-2026-04-04-world-war-trump/essay-2026-04-04-world-war-trump.md",
+        "commentary": "essays/essay-2026-04-04-world-war-trump/essay-2026-04-04-world-war-trump-commentary.md",
+        "folder": "essays/essay-2026-04-04-world-war-trump",
+        "folder_readme": "essays/essay-2026-04-04-world-war-trump/README.md"
       },
       "transcript_word_count": 1300,
       "source_video_url": "https://predictivehistory.substack.com/p/world-war-trump",
@@ -2051,91 +2051,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-34",
-      "title": "The US-Iran War, Round Two",
-      "part": "civilization",
-      "surface": "ph-civ",
-      "volume_label": "Volume I — Civilization (law discovery)",
-      "series": "essays",
-      "review_status": "in_review",
-      "placement_weight": "strong",
-      "paths": {
-        "transcript": "essays/essay-34/essay-34.md",
-        "commentary": "essays/essay-34/essay-34-commentary.md",
-        "folder": "essays/essay-34",
-        "folder_readme": "essays/essay-34/README.md"
-      },
-      "transcript_word_count": 1251,
-      "source_video_url": "https://predictivehistory.substack.com/p/the-us-iran-war-round-two",
-      "commentary_maturity": "scaffold",
-      "scaffold_version": "ph_civ_commentary_canvas_v1",
-      "deprecated_part_routing": false
-    },
-    {
-      "source_id": "essay-35",
-      "title": "The Trump New Deal",
-      "part": "civilization",
-      "surface": "ph-civ",
-      "volume_label": "Volume I — Civilization (law discovery)",
-      "series": "essays",
-      "review_status": "in_review",
-      "placement_weight": "strong",
-      "paths": {
-        "transcript": "essays/essay-35/essay-35.md",
-        "commentary": "essays/essay-35/essay-35-commentary.md",
-        "folder": "essays/essay-35",
-        "folder_readme": "essays/essay-35/README.md"
-      },
-      "transcript_word_count": 1296,
-      "source_video_url": "https://predictivehistory.substack.com/p/the-trump-new-deal",
-      "commentary_maturity": "scaffold",
-      "scaffold_version": "ph_civ_commentary_canvas_v1",
-      "deprecated_part_routing": false
-    },
-    {
-      "source_id": "essay-36",
-      "title": "God Emperor Trump",
-      "part": "civilization",
-      "surface": "ph-civ",
-      "volume_label": "Volume I — Civilization (law discovery)",
-      "series": "essays",
-      "review_status": "in_review",
-      "placement_weight": "medium",
-      "paths": {
-        "transcript": "essays/essay-36/essay-36.md",
-        "commentary": "essays/essay-36/essay-36-commentary.md",
-        "folder": "essays/essay-36",
-        "folder_readme": "essays/essay-36/README.md"
-      },
-      "transcript_word_count": 1202,
-      "source_video_url": "https://predictivehistory.substack.com/p/god-emperor-trump",
-      "commentary_maturity": "scaffold",
-      "scaffold_version": "ph_civ_commentary_canvas_v1",
-      "deprecated_part_routing": false
-    },
-    {
-      "source_id": "essay-37",
-      "title": "China's Third Center Strategy",
-      "part": "civilization",
-      "surface": "ph-civ",
-      "volume_label": "Volume I — Civilization (law discovery)",
-      "series": "essays",
-      "review_status": "in_review",
-      "placement_weight": "strong",
-      "paths": {
-        "transcript": "essays/essay-37/essay-37.md",
-        "commentary": "essays/essay-37/essay-37-commentary.md",
-        "folder": "essays/essay-37",
-        "folder_readme": "essays/essay-37/README.md"
-      },
-      "transcript_word_count": 1923,
-      "source_video_url": "https://predictivehistory.substack.com/p/chinas-third-center-strategy",
-      "commentary_maturity": "scaffold",
-      "scaffold_version": "ph_civ_commentary_canvas_v1",
-      "deprecated_part_routing": false
-    },
-    {
-      "source_id": "essay-38",
+      "source_id": "essay-2026-04-11-our-wtf-years",
       "title": "Our WTF! Years",
       "part": "civilization",
       "surface": "ph-civ",
@@ -2144,10 +2060,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-38/essay-38.md",
-        "commentary": "essays/essay-38/essay-38-commentary.md",
-        "folder": "essays/essay-38",
-        "folder_readme": "essays/essay-38/README.md"
+        "transcript": "essays/essay-2026-04-11-our-wtf-years/essay-2026-04-11-our-wtf-years.md",
+        "commentary": "essays/essay-2026-04-11-our-wtf-years/essay-2026-04-11-our-wtf-years-commentary.md",
+        "folder": "essays/essay-2026-04-11-our-wtf-years",
+        "folder_readme": "essays/essay-2026-04-11-our-wtf-years/README.md"
       },
       "transcript_word_count": 1493,
       "source_video_url": "https://predictivehistory.substack.com/p/our-wtf-years",
@@ -2156,7 +2072,70 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-39",
+      "source_id": "essay-2026-04-18-the-us-iran-war-round-two",
+      "title": "The US-Iran War, Round Two",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-04-18-the-us-iran-war-round-two/essay-2026-04-18-the-us-iran-war-round-two.md",
+        "commentary": "essays/essay-2026-04-18-the-us-iran-war-round-two/essay-2026-04-18-the-us-iran-war-round-two-commentary.md",
+        "folder": "essays/essay-2026-04-18-the-us-iran-war-round-two",
+        "folder_readme": "essays/essay-2026-04-18-the-us-iran-war-round-two/README.md"
+      },
+      "transcript_word_count": 1251,
+      "source_video_url": "https://predictivehistory.substack.com/p/the-us-iran-war-round-two",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-04-25-the-trump-new-deal",
+      "title": "The Trump New Deal",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-04-25-the-trump-new-deal/essay-2026-04-25-the-trump-new-deal.md",
+        "commentary": "essays/essay-2026-04-25-the-trump-new-deal/essay-2026-04-25-the-trump-new-deal-commentary.md",
+        "folder": "essays/essay-2026-04-25-the-trump-new-deal",
+        "folder_readme": "essays/essay-2026-04-25-the-trump-new-deal/README.md"
+      },
+      "transcript_word_count": 1296,
+      "source_video_url": "https://predictivehistory.substack.com/p/the-trump-new-deal",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-05-01-god-emperor-trump",
+      "title": "God Emperor Trump",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "essays/essay-2026-05-01-god-emperor-trump/essay-2026-05-01-god-emperor-trump.md",
+        "commentary": "essays/essay-2026-05-01-god-emperor-trump/essay-2026-05-01-god-emperor-trump-commentary.md",
+        "folder": "essays/essay-2026-05-01-god-emperor-trump",
+        "folder_readme": "essays/essay-2026-05-01-god-emperor-trump/README.md"
+      },
+      "transcript_word_count": 1202,
+      "source_video_url": "https://predictivehistory.substack.com/p/god-emperor-trump",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-05-09-the-us-china-grand-bargain",
       "title": "The US-China Grand Bargain",
       "part": "civilization",
       "surface": "ph-civ",
@@ -2165,10 +2144,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-39/essay-39.md",
-        "commentary": "essays/essay-39/essay-39-commentary.md",
-        "folder": "essays/essay-39",
-        "folder_readme": "essays/essay-39/README.md"
+        "transcript": "essays/essay-2026-05-09-the-us-china-grand-bargain/essay-2026-05-09-the-us-china-grand-bargain.md",
+        "commentary": "essays/essay-2026-05-09-the-us-china-grand-bargain/essay-2026-05-09-the-us-china-grand-bargain-commentary.md",
+        "folder": "essays/essay-2026-05-09-the-us-china-grand-bargain",
+        "folder_readme": "essays/essay-2026-05-09-the-us-china-grand-bargain/README.md"
       },
       "transcript_word_count": 1815,
       "source_video_url": "https://predictivehistory.substack.com/p/the-us-china-grand-bargain",
@@ -2177,7 +2156,28 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-40",
+      "source_id": "essay-2026-05-16-chinas-third-center-strategy",
+      "title": "China's Third Center Strategy",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-05-16-chinas-third-center-strategy/essay-2026-05-16-chinas-third-center-strategy.md",
+        "commentary": "essays/essay-2026-05-16-chinas-third-center-strategy/essay-2026-05-16-chinas-third-center-strategy-commentary.md",
+        "folder": "essays/essay-2026-05-16-chinas-third-center-strategy",
+        "folder_readme": "essays/essay-2026-05-16-chinas-third-center-strategy/README.md"
+      },
+      "transcript_word_count": 1923,
+      "source_video_url": "https://predictivehistory.substack.com/p/chinas-third-center-strategy",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-05-23-the-loneliness-of-mad-king-trump",
       "title": "The Loneliness of Mad King Trump",
       "part": "civilization",
       "surface": "ph-civ",
@@ -2186,10 +2186,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-40/essay-40.md",
-        "commentary": "essays/essay-40/essay-40-commentary.md",
-        "folder": "essays/essay-40",
-        "folder_readme": "essays/essay-40/README.md"
+        "transcript": "essays/essay-2026-05-23-the-loneliness-of-mad-king-trump/essay-2026-05-23-the-loneliness-of-mad-king-trump.md",
+        "commentary": "essays/essay-2026-05-23-the-loneliness-of-mad-king-trump/essay-2026-05-23-the-loneliness-of-mad-king-trump-commentary.md",
+        "folder": "essays/essay-2026-05-23-the-loneliness-of-mad-king-trump",
+        "folder_readme": "essays/essay-2026-05-23-the-loneliness-of-mad-king-trump/README.md"
       },
       "transcript_word_count": 1634,
       "source_video_url": "https://predictivehistory.substack.com/p/the-loneliness-of-mad-king-trump",
@@ -2198,7 +2198,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-41",
+      "source_id": "essay-2026-05-30-peter-thiels-republic",
       "title": "Peter Thiel's Republic",
       "part": "civilization",
       "surface": "ph-civ",
@@ -2207,10 +2207,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-41/essay-41.md",
-        "commentary": "essays/essay-41/essay-41-commentary.md",
-        "folder": "essays/essay-41",
-        "folder_readme": "essays/essay-41/README.md"
+        "transcript": "essays/essay-2026-05-30-peter-thiels-republic/essay-2026-05-30-peter-thiels-republic.md",
+        "commentary": "essays/essay-2026-05-30-peter-thiels-republic/essay-2026-05-30-peter-thiels-republic-commentary.md",
+        "folder": "essays/essay-2026-05-30-peter-thiels-republic",
+        "folder_readme": "essays/essay-2026-05-30-peter-thiels-republic/README.md"
       },
       "transcript_word_count": 1580,
       "source_video_url": "https://predictivehistory.substack.com/p/peter-thiels-republic",
@@ -2219,7 +2219,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-42",
+      "source_id": "essay-2026-06-13-welcome-to-boomer-hell",
       "title": "Welcome to Boomer Hell",
       "part": "civilization",
       "surface": "ph-civ",
@@ -2228,10 +2228,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-42/essay-42.md",
-        "commentary": "essays/essay-42/essay-42-commentary.md",
-        "folder": "essays/essay-42",
-        "folder_readme": "essays/essay-42/README.md"
+        "transcript": "essays/essay-2026-06-13-welcome-to-boomer-hell/essay-2026-06-13-welcome-to-boomer-hell.md",
+        "commentary": "essays/essay-2026-06-13-welcome-to-boomer-hell/essay-2026-06-13-welcome-to-boomer-hell-commentary.md",
+        "folder": "essays/essay-2026-06-13-welcome-to-boomer-hell",
+        "folder_readme": "essays/essay-2026-06-13-welcome-to-boomer-hell/README.md"
       },
       "transcript_word_count": 1147,
       "source_video_url": "https://predictivehistory.substack.com/p/welcome-to-boomer-hell",
@@ -2240,7 +2240,7 @@
       "deprecated_part_routing": false
     },
     {
-      "source_id": "essay-43",
+      "source_id": "essay-2026-06-19-peace-in-our-time",
       "title": "Peace in Our Time?",
       "part": "civilization",
       "surface": "ph-civ",
@@ -2249,10 +2249,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "essays/essay-43/essay-43.md",
-        "commentary": "essays/essay-43/essay-43-commentary.md",
-        "folder": "essays/essay-43",
-        "folder_readme": "essays/essay-43/README.md"
+        "transcript": "essays/essay-2026-06-19-peace-in-our-time/essay-2026-06-19-peace-in-our-time.md",
+        "commentary": "essays/essay-2026-06-19-peace-in-our-time/essay-2026-06-19-peace-in-our-time-commentary.md",
+        "folder": "essays/essay-2026-06-19-peace-in-our-time",
+        "folder_readme": "essays/essay-2026-06-19-peace-in-our-time/README.md"
       },
       "transcript_word_count": 1089,
       "source_video_url": "https://predictivehistory.substack.com/p/peace-in-our-time",
@@ -3650,7 +3650,7 @@
         "folder": "interviews/interview-2026-03-16-endgame",
         "folder_readme": "interviews/interview-2026-03-16-endgame/README.md"
       },
-      "transcript_word_count": 21299,
+      "transcript_word_count": 21380,
       "source_video_url": "https://www.youtube.com/watch?v=rsi7cDRUrmE",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",

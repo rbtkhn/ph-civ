@@ -26,13 +26,13 @@ It should not become the large-media vault. Large media archives stay outside Gi
 
 Medium-first chapter namespaces at the repository root (siblings to [`book/`](book/), [`ph-civ/`](ph-civ/README.md), [`ph-apo/`](ph-apo/README.md)):
 
-- [`essays/`](essays/README.md) — canonical home for Substack and long-form essay chapters (`essay-01` … `essay-43`)
+- [`essays/`](essays/README.md) — canonical home for Substack and long-form essay chapters (`essay-2025-08-06-vision-mission-goals` … `essay-2026-06-19-peace-in-our-time`)
 - [`lectures/`](lectures/README.md) — reserved namespace for lecture chapter packets; most lecture chapters still live under `book/` during recanonicalization
 - [`interviews/`](interviews/README.md) — 15 public interview provenance packets (`interview-YYYY-MM-DD-{host-slug}`); cataloged under **Provenance** in the chapter index
 
 ## What Is Included
 
-- 205 public cards in `data/cards.jsonl` — lecture chapters across Volume I (`ph-civ`) and Volume II (`ph-apo`), 43 Substack essays (`essay-01` … `essay-43`), and 16 provenance interviews.
+- 205 public cards in `data/cards.jsonl` — lecture chapters across Volume I (`ph-civ`) and Volume II (`ph-apo`), 43 Substack essays (`essay-2025-08-06-vision-mission-goals` … `essay-2026-06-19-peace-in-our-time`), and 16 provenance interviews.
 - 205 public source chapters staged through a canonical two-volume `book/` reader architecture, with legacy provenance folders and direct namespaces still preserved during recanonicalization.
 - 205 chapter commentaries attached to those staged canonical homes and preserved underlying packets, each seeded as an open commentary canvas.
 - Chapter-folder `README.md` doorways for folder-backed chapters, designed for direct GitHub links in YouTube comments and LLM chats.

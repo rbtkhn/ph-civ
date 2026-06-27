@@ -83,49 +83,49 @@
       "civ-58",
       "civ-59",
       "civ-60",
-      "essay-01",
-      "essay-02",
-      "essay-03",
-      "essay-04",
-      "essay-05",
-      "essay-06",
-      "essay-07",
-      "essay-08",
-      "essay-09",
-      "essay-10",
-      "essay-11",
-      "essay-12",
-      "essay-13",
-      "essay-14",
-      "essay-15",
-      "essay-16",
-      "essay-17",
-      "essay-18",
-      "essay-19",
-      "essay-20",
-      "essay-21",
-      "essay-22",
-      "essay-23",
-      "essay-24",
-      "essay-25",
-      "essay-26",
-      "essay-27",
-      "essay-28",
-      "essay-29",
-      "essay-30",
-      "essay-31",
-      "essay-32",
-      "essay-33",
-      "essay-34",
-      "essay-35",
-      "essay-36",
-      "essay-37",
-      "essay-38",
-      "essay-39",
-      "essay-40",
-      "essay-41",
-      "essay-42",
-      "essay-43",
+      "essay-2025-08-06-vision-mission-goals",
+      "essay-2025-08-08-continuity-of-government-is-a-joke",
+      "essay-2025-08-13-the-third-coming",
+      "essay-2025-08-20-the-secret-history-of-the-world-1",
+      "essay-2025-08-22-the-secret-history-of-the-world-2",
+      "essay-2025-08-26-the-secret-history-of-the-world-3",
+      "essay-2025-08-29-the-secret-history-of-the-world-4",
+      "essay-2025-09-05-the-secret-history-of-the-world-5",
+      "essay-2025-09-09-the-secret-history-of-the-world-6",
+      "essay-2025-09-12-secret-history-7-the-voyage-home",
+      "essay-2025-09-13-tipping-point-usa",
+      "essay-2025-09-17-i-have-questions-about-tyler-robinson",
+      "essay-2025-09-20-predictive-history-reading-list",
+      "essay-2025-09-22-what-can-be-done",
+      "essay-2025-09-27-the-empire-goes-to-war",
+      "essay-2025-10-01-war-machine-usa",
+      "essay-2025-10-03-why-i-refuse-to-get-rich",
+      "essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy",
+      "essay-2025-10-12-the-limits-of-pax-judaica",
+      "essay-2025-10-15-secret-history-10-the-war-of-heaven",
+      "essay-2025-10-17-secret-history-10-the-great-revealing",
+      "essay-2026-01-03-blowback-venezuela",
+      "essay-2026-01-10-minnesota-burning",
+      "essay-2026-01-17-iran-greenland-and-canada",
+      "essay-2026-01-24-carneys-speech-and-trumps-letter",
+      "essay-2026-02-07-twilight-of-the-liberal-elite",
+      "essay-2026-02-14-welcome-to-the-rupture",
+      "essay-2026-02-21-countdown-to-iran",
+      "essay-2026-02-28-world-war-iii-begins",
+      "essay-2026-03-07-the-acceleration",
+      "essay-2026-03-14-vietnam-redux",
+      "essay-2026-03-21-the-us-iran-end-game",
+      "essay-2026-04-04-world-war-trump",
+      "essay-2026-04-11-our-wtf-years",
+      "essay-2026-04-18-the-us-iran-war-round-two",
+      "essay-2026-04-25-the-trump-new-deal",
+      "essay-2026-05-01-god-emperor-trump",
+      "essay-2026-05-09-the-us-china-grand-bargain",
+      "essay-2026-05-16-chinas-third-center-strategy",
+      "essay-2026-05-23-the-loneliness-of-mad-king-trump",
+      "essay-2026-05-30-peter-thiels-republic",
+      "essay-2026-06-13-welcome-to-boomer-hell",
+      "essay-2026-06-19-peace-in-our-time",
       "gb-01",
       "gb-03",
       "gb-04",
@@ -656,301 +656,301 @@
       "series": "civilization"
     },
     {
-      "source_id": "essay-01",
+      "source_id": "essay-2025-08-06-vision-mission-goals",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-02",
+      "source_id": "essay-2025-08-08-continuity-of-government-is-a-joke",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-03",
+      "source_id": "essay-2025-08-13-the-third-coming",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-04",
+      "source_id": "essay-2025-08-20-the-secret-history-of-the-world-1",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-05",
+      "source_id": "essay-2025-08-22-the-secret-history-of-the-world-2",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-06",
+      "source_id": "essay-2025-08-26-the-secret-history-of-the-world-3",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-07",
+      "source_id": "essay-2025-08-29-the-secret-history-of-the-world-4",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-08",
+      "source_id": "essay-2025-09-05-the-secret-history-of-the-world-5",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-09",
+      "source_id": "essay-2025-09-09-the-secret-history-of-the-world-6",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-10",
+      "source_id": "essay-2025-09-12-secret-history-7-the-voyage-home",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-11",
+      "source_id": "essay-2025-09-13-tipping-point-usa",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-12",
+      "source_id": "essay-2025-09-17-i-have-questions-about-tyler-robinson",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-13",
+      "source_id": "essay-2025-09-20-predictive-history-reading-list",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-14",
+      "source_id": "essay-2025-09-22-what-can-be-done",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-15",
+      "source_id": "essay-2025-09-27-the-empire-goes-to-war",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-16",
+      "source_id": "essay-2025-10-01-war-machine-usa",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-17",
+      "source_id": "essay-2025-10-03-why-i-refuse-to-get-rich",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-18",
+      "source_id": "essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-19",
+      "source_id": "essay-2025-10-12-the-limits-of-pax-judaica",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-20",
+      "source_id": "essay-2025-10-15-secret-history-10-the-war-of-heaven",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-21",
+      "source_id": "essay-2025-10-17-secret-history-10-the-great-revealing",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-22",
+      "source_id": "essay-2026-01-03-blowback-venezuela",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-23",
+      "source_id": "essay-2026-01-10-minnesota-burning",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-24",
+      "source_id": "essay-2026-01-17-iran-greenland-and-canada",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-25",
+      "source_id": "essay-2026-01-24-carneys-speech-and-trumps-letter",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-26",
+      "source_id": "essay-2026-02-07-twilight-of-the-liberal-elite",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-27",
+      "source_id": "essay-2026-02-14-welcome-to-the-rupture",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-28",
+      "source_id": "essay-2026-02-21-countdown-to-iran",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-29",
+      "source_id": "essay-2026-02-28-world-war-iii-begins",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-30",
+      "source_id": "essay-2026-03-07-the-acceleration",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-31",
+      "source_id": "essay-2026-03-14-vietnam-redux",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-32",
+      "source_id": "essay-2026-03-21-the-us-iran-end-game",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-33",
+      "source_id": "essay-2026-04-04-world-war-trump",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-34",
+      "source_id": "essay-2026-04-11-our-wtf-years",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-35",
+      "source_id": "essay-2026-04-18-the-us-iran-war-round-two",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-36",
+      "source_id": "essay-2026-04-25-the-trump-new-deal",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-37",
+      "source_id": "essay-2026-05-01-god-emperor-trump",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-38",
+      "source_id": "essay-2026-05-09-the-us-china-grand-bargain",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-39",
+      "source_id": "essay-2026-05-16-chinas-third-center-strategy",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-40",
+      "source_id": "essay-2026-05-23-the-loneliness-of-mad-king-trump",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-41",
+      "source_id": "essay-2026-05-30-peter-thiels-republic",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-42",
+      "source_id": "essay-2026-06-13-welcome-to-boomer-hell",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
       "series": "essays"
     },
     {
-      "source_id": "essay-43",
+      "source_id": "essay-2026-06-19-peace-in-our-time",
       "bucket": "NEEDS_COMMENTARY_REVIEW",
       "review_status": "in_review",
       "part": "civilization",
@@ -1671,8 +1671,8 @@
       "series": "secret-history"
     }
   ],
-  "fingerprint": "637de6b89d4e37ea",
-  "generated_at": "2026-06-26T00:33:47Z",
+  "fingerprint": "5ad054c425ac6919",
+  "generated_at": "2026-06-27T02:16:49Z",
   "markdown_summary": "runtime/artifacts/public-surface-triage.md",
   "inventory_json": "data/public-surface-inventory.json"
 }

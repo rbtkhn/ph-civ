@@ -188,11 +188,11 @@ Tolstoy is the named hinge from law-discovery to pressure-reading. He is not onl
 
 #### Essays
 
-- [essay-33](./volume-ii-apocalypse/sub/essay-33/README.md) - World War Trump
-- [essay-34](./volume-ii-apocalypse/sub/essay-34/README.md) - The Iranian Resurrection
-- [essay-35](./volume-ii-apocalypse/sub/essay-35/README.md) - How America Will Fall
-- [essay-36](./volume-ii-apocalypse/sub/essay-36/README.md) - The Theology of Civilization
-- [essay-37](./volume-ii-apocalypse/sub/essay-37/README.md) - The American Endgame
+- [essay-2026-04-04-world-war-trump](./volume-ii-apocalypse/sub/essay-2026-04-04-world-war-trump/README.md) - World War Trump
+- [essay-2026-04-18-the-us-iran-war-round-two](./volume-ii-apocalypse/sub/essay-2026-04-18-the-us-iran-war-round-two/README.md) - The Iranian Resurrection
+- [essay-2026-04-25-the-trump-new-deal](./volume-ii-apocalypse/sub/essay-2026-04-25-the-trump-new-deal/README.md) - How America Will Fall
+- [essay-2026-05-01-god-emperor-trump](./volume-ii-apocalypse/sub/essay-2026-05-01-god-emperor-trump/README.md) - The Theology of Civilization
+- [essay-2026-05-16-chinas-third-center-strategy](./volume-ii-apocalypse/sub/essay-2026-05-16-chinas-third-center-strategy/README.md) - The American Endgame
 
 ## Part B: Canonical Chapter Registry
 
@@ -372,11 +372,11 @@ Every current public chapter ID and title appears exactly once in this registry.
 
 #### Essays
 
-- [essay-33](./volume-ii-apocalypse/sub/essay-33/README.md) - World War Trump
-- [essay-34](./volume-ii-apocalypse/sub/essay-34/README.md) - The Iranian Resurrection
-- [essay-35](./volume-ii-apocalypse/sub/essay-35/README.md) - How America Will Fall
-- [essay-36](./volume-ii-apocalypse/sub/essay-36/README.md) - The Theology of Civilization
-- [essay-37](./volume-ii-apocalypse/sub/essay-37/README.md) - The American Endgame
+- [essay-2026-04-04-world-war-trump](./volume-ii-apocalypse/sub/essay-2026-04-04-world-war-trump/README.md) - World War Trump
+- [essay-2026-04-18-the-us-iran-war-round-two](./volume-ii-apocalypse/sub/essay-2026-04-18-the-us-iran-war-round-two/README.md) - The Iranian Resurrection
+- [essay-2026-04-25-the-trump-new-deal](./volume-ii-apocalypse/sub/essay-2026-04-25-the-trump-new-deal/README.md) - How America Will Fall
+- [essay-2026-05-01-god-emperor-trump](./volume-ii-apocalypse/sub/essay-2026-05-01-god-emperor-trump/README.md) - The Theology of Civilization
+- [essay-2026-05-16-chinas-third-center-strategy](./volume-ii-apocalypse/sub/essay-2026-05-16-chinas-third-center-strategy/README.md) - The American Endgame
 
 ## Maintenance Rule
 
