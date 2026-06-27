@@ -27,8 +27,8 @@ representation_not_endorsement: true
 canvas_status: open
 analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
-part_commentary_path: ../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#civ-32
-part_bibliography_path: ../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-06-medieval-imagination-commentary.md#civ-32
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-06-medieval-imagination-bibliography.md
 ---
 
 # Commentary - Civilization
@@ -85,8 +85,8 @@ Every claim below is tied to the transcript body in civ-32-transcript.md.
 
 Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part VI live in the Part files:
 
-- [Part VI commentary](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#civ-32) — Rome recap, citizenship, Caracalla rupture, America analogy
-- [Part VI bibliography](../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md)
+- [Part VI commentary](../../../docs/routes/volume-i-parts/part-06-medieval-imagination-commentary.md#civ-32) — Rome recap, citizenship, Caracalla rupture, America analogy
+- [Part VI bibliography](../../../docs/routes/volume-i-parts/part-06-medieval-imagination-bibliography.md)
 
 Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 

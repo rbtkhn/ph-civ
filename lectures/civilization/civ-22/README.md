@@ -15,14 +15,14 @@ Treat this chapter folder as a small source-lattice:
 3. Chapter commentary - full L0–6 commentary in the companion commentary file.
 4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
 5. Public card - orientation payload after the chapter and Part floors are open.
-6. Widened interpretation - corridors and bridges only after the above are stable. For civ-22, optional [sh-17](../../../book/volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#sh-17) secret-history deepening after Part apparatus.
+6. Widened interpretation - corridors and bridges only after the above are stable. For civ-22, optional [sh-17](../../../docs/routes/volume-i-parts/part-04-ancient-foundations-commentary.md#sh-17) secret-history deepening after Part apparatus.
 
 ## Files
 
 - [Transcript](civ-22-transcript.md)
 - [Commentary canvas](civ-22-commentary.md)
 - [Public card](../../../data/cards/civ-22.md)
-- [sh-17 companion (pointer)](../../../book/volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#sh-17)
+- [sh-17 companion (pointer)](../../../docs/routes/volume-i-parts/part-04-ancient-foundations-commentary.md#sh-17)
 
 ## Review Status
 

@@ -34,7 +34,7 @@ sacred order stabilizes civilization
 
 ## The Bridge
 
-The transition note [From Civilization To Apocalypse](../../book/parts/civilization-to-apocalypse.md) changes the scale without abandoning the thread.
+The transition note [From Civilization To Apocalypse](../../docs/routes/civilization-to-apocalypse.md) changes the scale without abandoning the thread.
 
 Civilization asks how sacred worlds organize legitimacy and meaning. Apocalypse asks what happens when those same symbolic and theological structures become active under pressure.
 

@@ -39,7 +39,7 @@ consciousness forms civilization
 
 ## The Bridge
 
-The transition note [From Civilization To Apocalypse](../../book/parts/civilization-to-apocalypse.md) changes the scale without abandoning the thread.
+The transition note [From Civilization To Apocalypse](../../docs/routes/civilization-to-apocalypse.md) changes the scale without abandoning the thread.
 
 Civilization asks how worlds are formed. Apocalypse asks how those worlds reveal themselves under pressure.
 

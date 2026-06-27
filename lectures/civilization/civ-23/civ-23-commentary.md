@@ -27,8 +27,8 @@ representation_not_endorsement: true
 canvas_status: open
 analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
-part_commentary_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-23
-part_bibliography_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-04-ancient-foundations-commentary.md#civ-23
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-04-ancient-foundations-bibliography.md
 ---
 
 # Commentary - Civilization
@@ -86,8 +86,8 @@ Every claim below is tied to the transcript body in `civ-23-transcript.md`.
 
 Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part IV live in the Part files:
 
-- [Part IV commentary](../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-23) — Cyrus/Zoroastrian merge, Christianity forward bridge
-- [Part IV bibliography](../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md)
+- [Part IV commentary](../../../docs/routes/volume-i-parts/part-04-ancient-foundations-commentary.md#civ-23) — Cyrus/Zoroastrian merge, Christianity forward bridge
+- [Part IV bibliography](../../../docs/routes/volume-i-parts/part-04-ancient-foundations-bibliography.md)
 
 Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 

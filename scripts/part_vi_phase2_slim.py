@@ -57,7 +57,7 @@ Treat this chapter folder as a small source-lattice:
 1. Doorway - this README tells you what the packet is and what limits apply.
 2. Primary source floor - read the transcript and public source capture first.
 3. Chapter commentary - thin Layer 0-2 pin-cites in the companion commentary file.
-4. Part apparatus - [Part VI commentary](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md) and [Part VI bibliography](../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md) for cross-chapter synthesis and external sources.
+4. Part apparatus - [Part VI commentary](../../../docs/routes/volume-i-parts/part-06-medieval-imagination-commentary.md) and [Part VI bibliography](../../../docs/routes/volume-i-parts/part-06-medieval-imagination-bibliography.md) for cross-chapter synthesis and external sources.
 5. Public card - orientation payload after the chapter and Part floors are open.
 6. Widened interpretation - corridors and bridges only after the above are stable.
 
@@ -65,8 +65,8 @@ Treat this chapter folder as a small source-lattice:
 
 - [Transcript]({cid}-transcript.md)
 - [Commentary canvas (thin)]({cid}-commentary.md)
-- [Part VI commentary](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#{cid})
-- [Part VI bibliography](../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md)
+- [Part VI commentary](../../../docs/routes/volume-i-parts/part-06-medieval-imagination-commentary.md#{cid})
+- [Part VI bibliography](../../../docs/routes/volume-i-parts/part-06-medieval-imagination-bibliography.md)
 - [Public card](../../../data/cards/{cid}.md)
 
 ## Review Status
@@ -105,8 +105,8 @@ def slim_commentary(cid: str) -> None:
 
 Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part VI live in the Part files:
 
-- [Part VI commentary](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#{cid}) — {meta["part_blurb"]}
-- [Part VI bibliography](../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md)
+- [Part VI commentary](../../../docs/routes/volume-i-parts/part-06-medieval-imagination-commentary.md#{cid}) — {meta["part_blurb"]}
+- [Part VI bibliography](../../../docs/routes/volume-i-parts/part-06-medieval-imagination-bibliography.md)
 
 Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
@@ -129,10 +129,10 @@ Layer 0–2 above remain the transcript pin-cite floor for this chapter.
         text = text.replace(
             "scaffold_version: ph_civ_commentary_canvas_v1\n",
             "scaffold_version: ph_civ_commentary_canvas_v1\n"
-            "part_commentary_path: ../../volume-i-civilization/parts/"
+            "part_commentary_path: ../../../docs/routes/volume-i-parts/"
             "part-06-medieval-imagination-commentary.md#"
             f"{cid}\n"
-            "part_bibliography_path: ../../volume-i-civilization/parts/"
+            "part_bibliography_path: ../../../docs/routes/volume-i-parts/"
             "part-06-medieval-imagination-bibliography.md\n",
             1,
         )

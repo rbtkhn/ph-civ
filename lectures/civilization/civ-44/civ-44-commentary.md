@@ -28,8 +28,8 @@ canvas_status: open
 analysis_depth: layer2_slimmed
 scaffold_version: ph_civ_commentary_canvas_v1
 part_id: part-08-birth-of-modernity
-part_commentary_path: ../../volume-i-civilization/parts/part-08-birth-of-modernity-commentary.md#civ-44
-part_bibliography_path: ../../volume-i-civilization/parts/part-08-birth-of-modernity-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-08-birth-of-modernity-commentary.md#civ-44
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-08-birth-of-modernity-bibliography.md
 ---
 
 # Commentary - Civilization
@@ -86,8 +86,8 @@ Every claim below is tied to the transcript body in civ-44-transcript.md.
 
 Cross-chapter synthesis, predictions, external counter-readings, and bibliography live in the Part files:
 
-- [Part commentary](../../volume-i-civilization/parts/part-08-birth-of-modernity-commentary.md#civ-44)
-- [Part bibliography](../../volume-i-civilization/parts/part-08-birth-of-modernity-bibliography.md)
+- [Part commentary](../../../docs/routes/volume-i-parts/part-08-birth-of-modernity-commentary.md#civ-44)
+- [Part bibliography](../../../docs/routes/volume-i-parts/part-08-birth-of-modernity-bibliography.md)
 
 Layer 0-2 above remain the transcript pin-cite floor for this chapter.
 

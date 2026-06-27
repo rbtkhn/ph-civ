@@ -51,7 +51,7 @@ Medium-first chapter namespaces at the repository root (siblings to [`book/`](bo
 - Chapter catalog and source URLs: [`docs/predictive-history-index.md`](docs/predictive-history-index.md) and [`docs/predictive-history-index.json`](docs/predictive-history-index.json) (`source_video_url` per chapter).
 - A full chapter catalog at `docs/predictive-history-index.md` (human) and `docs/predictive-history-index.json` (machine) listing all 206 public chapters (lectures, essays, and provenance interviews) with transcript, commentary, folder, and source URLs (regenerate: `ph-civ index`; auto-sync during `ph-civ validate` and publish).
 - Two conceptual volumes (deprecated reader frame): Volume I / `ph-civ` and Volume II / `ph-apo` — see [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](docs/archive/two-volume-ph-civ-apo-deprecated.md).
-- A canonical two-volume reader architecture under `book/volume-i-civilization/` and `book/volume-ii-apocalypse/`, with older multi-volume source provenance kept subordinate; see [From The Old Seven Volumes To The Current Two](book/seven-volume-to-two-volume.md).
+- A canonical two-volume reader architecture under `book/volume-i-civilization/` and `book/volume-ii-apocalypse/`, with older multi-volume source provenance kept subordinate; see [From The Old Seven Volumes To The Current Two](docs/archive/seven-volume-to-two-volume.md).
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, Secret History, and Essays.
 - The Homer-to-Tolstoy literary spine as the Volume I literary spine with cross-volume routing exposure.
 - The Plato-to-Hegel theological-philosophical spine as a secondary Volume I route through reality, sacred order, imagination, and philosophy of history.
@@ -149,7 +149,7 @@ Homer to Tolstoy is the Volume I literary spine, not a side corridor. It uses cr
 
 The route now also has a public [support ring](data/corridors/homer-to-tolstoy-support-ring.md), which names the nearby Volume I materials that strengthen the spine without changing its canonical author sequence or first-tour order.
 
-Tolstoy also functions as the bridge into Volume II. The public handoff lives in [From Civilization To Apocalypse](book/parts/civilization-to-apocalypse.md), [Predictive History After Tolstoy](docs/routes/predictive-history-after-tolstoy.md), and [The Tolstoy Question](corpus/cross-volume/tolstoy-question.md).
+Tolstoy also functions as the bridge into Volume II. The public handoff lives in [From Civilization To Apocalypse](docs/routes/civilization-to-apocalypse.md), [Predictive History After Tolstoy](docs/routes/predictive-history-after-tolstoy.md), and [The Tolstoy Question](corpus/cross-volume/tolstoy-question.md).
 
 If the question is not only "what is the route?" but "why did the old seven become two?", open [Two Volumes, One Reader Map](docs/archive/two-volumes-one-reader-map.md).
 

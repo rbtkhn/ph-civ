@@ -14,8 +14,8 @@ template_version: 1
 template_scope: civilization-only
 companion_transcript_path: ./civ-04-transcript.md
 part_id: part-01-dawn-of-civilization
-part_commentary_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-04
-part_bibliography_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-01-dawn-of-civilization-commentary.md#civ-04
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-01-dawn-of-civilization-bibliography.md
 completeness_state: in-review
 status: in-review
 commentary_status: in-review
@@ -102,8 +102,8 @@ Every claim below is tied to the transcript body in `civ-04-transcript.md`.
 
 Cross-chapter synthesis, predictions, external counter-readings, and bibliography live in the Part files:
 
-- [Part commentary](../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-04)
-- [Part bibliography](../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md)
+- [Part commentary](../../../docs/routes/volume-i-parts/part-01-dawn-of-civilization-commentary.md#civ-04)
+- [Part bibliography](../../../docs/routes/volume-i-parts/part-01-dawn-of-civilization-bibliography.md)
 
 Layer 0-2 above remain the transcript pin-cite floor for this chapter.
 

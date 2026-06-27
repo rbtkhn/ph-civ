@@ -70,7 +70,7 @@ This commentary seeds workshop analysis into a provenance packet. Current-event 
 ### Volume Role
 
 - Provenance-only (`part: provenance`); not an interwoven spine chapter.
-- Cross-link to [`book/provenance/`](../../book/provenance/README.md) when commentary matures.
+- Cross-link to [`book/provenance/`](../../docs/archive/book-provenance-index.md) when commentary matures.
 
 ### Strategy / Present-Day Application
 

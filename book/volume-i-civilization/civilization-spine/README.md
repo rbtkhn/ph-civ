@@ -2,7 +2,7 @@
 
 This is the main packet shelf behind the canonical interwoven reader order for Volume I.
 
-Start with the [interwoven civilization spine](../interwoven-reader/README.md) when you want the public reading sequence. Use this shelf when you want the chapter wrappers collected in one place behind that sequence.
+Start with the [interwoven civilization spine](../../archive/two-volume-reader-order-interwoven.md) when you want the public reading sequence. Use this shelf when you want the chapter wrappers collected in one place behind that sequence.
 
 ## Chapters
 

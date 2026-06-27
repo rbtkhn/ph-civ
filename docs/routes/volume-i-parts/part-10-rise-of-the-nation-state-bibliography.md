@@ -34,7 +34,7 @@ representation_not_endorsement: true
 | Bretton Woods / dollar order scholarship | civ-60 | conspiracy-adjacent claims | Reserve currency + exorbitant privilege |
 | Imperial / financial crisis historiography (Plaza, 2008, etc.) | civ-60 | easy-money monocausality | Japan/China dependency thread |
 | [plato-to-hegel](../../../data/corridors/plato-to-hegel.md) route card | civ-55, civ-60 | — | Philosophical spine cross-link |
-| [civilization-to-apocalypse](../../../book/parts/civilization-to-apocalypse.md) bridge | civ-60 | — | Volume I → II egress |
+| [civilization-to-apocalypse](../../../docs/routes/civilization-to-apocalypse.md) bridge | civ-60 | — | Volume I → II egress |
 
 ## civ-60 heavy counter-readings (Volume I close)
 

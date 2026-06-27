@@ -12,8 +12,8 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 2. Primary source floor — read the transcript and public source capture first.
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
 4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
-5. Great Books weave — after this packet, read [gb-01](../../great-books/gb-01/README.md) (interwoven @ `civ-01`); Part stub-route in [Part I § gb-01](../../../book/volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#gb-01).
-6. Secret History prologue — optional [sh-11](../../secret-history/sh-11/README.md) pointer @ `civ-01`; see [Part I § sh-11](../../../book/volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#sh-11).
+5. Great Books weave — after this packet, read [gb-01](../../great-books/gb-01/README.md) (interwoven @ `civ-01`); Part stub-route in [Part I § gb-01](../../../docs/routes/volume-i-parts/part-01-dawn-of-civilization-commentary.md#gb-01).
+6. Secret History prologue — optional [sh-11](../../secret-history/sh-11/README.md) pointer @ `civ-01`; see [Part I § sh-11](../../../docs/routes/volume-i-parts/part-01-dawn-of-civilization-commentary.md#sh-11).
 7. Public card — orientation payload after the chapter and Part floors are open.
 8. Widened interpretation — forward [civ-02](../civ-02/README.md) (religion/dawn); do not skip Part I synthesis.
 

@@ -15,7 +15,7 @@ PART_IV = (
     / "parts"
     / "part-04-ancient-foundations-commentary.md"
 )
-READINESS = ROOT / "book/volume-i-civilization/parts/PART-04-HYBRID-READINESS.md"
+READINESS = ROOT / "docs/routes/volume-i-parts/PART-04-HYBRID-READINESS.md"
 
 TRANSCRIPT_SECTIONS: dict[str, list[tuple[str, str]]] = {
     "civ-18": [

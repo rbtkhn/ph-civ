@@ -56,7 +56,7 @@ Do not widen to routes or present-day application before L0–2 are pinned to th
 | Artifact | v2 status |
 |----------|-----------|
 | `*-commentary.md` per chapter | **SSOT** — full L0–6 + Project Canvas |
-| `book/volume-i-civilization/parts/part-*-commentary.md` | **Deprecated** — archive; extract then freeze |
+| `docs/routes/volume-i-parts/part-*-commentary.md` | **Deprecated** — archive; extract then freeze |
 | `gb-*` / `sh-*` chapter files | Full commentaries; **no** permanent `stub_routed_to_part` |
 | Interwoven reader | Human reading order SSOT |
 | [`data/weave/volume-i-companions.json`](../data/weave/volume-i-companions.json) | Machine weave SSOT (gb/sh @ civ hosts) |
@@ -289,7 +289,7 @@ Grep targets before declaring Parts sunset complete:
 ```json
 {
   "schema_version": 1,
-  "spine_ssot": "book/volume-i-civilization/interwoven-reader/README.md",
+  "spine_ssot": "docs/archive/two-volume-reader-order-interwoven.md",
   "by_civ_host": {
     "civ-07": {
       "great_books": [{"gb_id": "gb-02", "role": "interwoven"}],

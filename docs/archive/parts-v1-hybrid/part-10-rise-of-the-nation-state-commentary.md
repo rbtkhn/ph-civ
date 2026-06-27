@@ -30,7 +30,7 @@ representation_not_endorsement: true
 
 **Question:** How do philosophy, ideology, and the nation-state carry Volume I to its American close?
 
-**Working answer:** Part IX [`civ-53`](./part-09-age-of-conscience.md) closes the four-modern-civs literary arc (Shakespeare/America/Russia); **`civ-54`** turns to German unity-of-will; **`civ-55`–`57`** compress Kant/Hegel → Marx → Freud/modernism; **`civ-58`** names the nation-state convergence; **`civ-59`–`60`** pair Stalin's willed Soviet pole with Bretton Woods/Pax Americana and a live American-decline forecast; **`civ-60`** returns imagination/love and exits to Volume II via [civilization-to-apocalypse](../../../book/parts/civilization-to-apocalypse.md).
+**Working answer:** Part IX [`civ-53`](./part-09-age-of-conscience.md) closes the four-modern-civs literary arc (Shakespeare/America/Russia); **`civ-54`** turns to German unity-of-will; **`civ-55`–`57`** compress Kant/Hegel → Marx → Freud/modernism; **`civ-58`** names the nation-state convergence; **`civ-59`–`60`** pair Stalin's willed Soviet pole with Bretton Woods/Pax Americana and a live American-decline forecast; **`civ-60`** returns imagination/love and exits to Volume II via [civilization-to-apocalypse](../../../docs/routes/civilization-to-apocalypse.md).
 
 ## Part prediction ledger (seed)
 
@@ -47,7 +47,7 @@ representation_not_endorsement: true
 ## Corridor placement
 
 - [Plato to Hegel](../../../data/corridors/plato-to-hegel.md) — Kant/Hegel @ `civ-55` (step 4); imagination/love return @ `civ-60`.
-- [civilization-to-apocalypse](../../../book/parts/civilization-to-apocalypse.md) — Volume I law-discovery → Volume II law-application @ `civ-60` close.
+- [civilization-to-apocalypse](../../../docs/routes/civilization-to-apocalypse.md) — Volume I law-discovery → Volume II law-application @ `civ-60` close.
 - **Ingress:** Part IX `civ-53` Dostoevsky → [`civ-54`](#civ-54) German open.
 - **Egress:** Volume II Apocalypse via civilization-to-apocalypse bridge.
 
@@ -255,7 +255,7 @@ representation_not_endorsement: true
 
 **Close-read arc:** Bretton Woods → exorbitant privilege → Pax Americana → easy-money fragility → live geopolitical forecast → imagination/love close → Apocalypse egress.
 
-**Part links:** follows [`civ-59`](#civ-59); egress [civilization-to-apocalypse](../../../book/parts/civilization-to-apocalypse.md); pairs Part IX [`civ-52`](./part-09-age-of-conscience.md) America arc + [plato-to-hegel](../../../data/corridors/plato-to-hegel.md) (**Partially supported**).
+**Part links:** follows [`civ-59`](#civ-59); egress [civilization-to-apocalypse](../../../docs/routes/civilization-to-apocalypse.md); pairs Part IX [`civ-52`](./part-09-age-of-conscience.md) America arc + [plato-to-hegel](../../../data/corridors/plato-to-hegel.md) (**Partially supported**).
 
 **Counter-readings (`civ-60`) — heavy wedge:**
 
@@ -302,7 +302,7 @@ Reader rule: complete § `civ-55` before judging `#kant-hegel-science-bridge`; t
 
 ### Corridor — civilization-to-apocalypse exit (Volume II)
 
-[civilization-to-apocalypse](../../../book/parts/civilization-to-apocalypse.md) receives Volume I at `civ-60`:
+[civilization-to-apocalypse](../../../docs/routes/civilization-to-apocalypse.md) receives Volume I at `civ-60`:
 
 | Civilization carry-forward | `civ-60` anchor | Apocalypse posture shift |
 |----------------------------|-----------------|--------------------------|

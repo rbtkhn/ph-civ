@@ -53,7 +53,7 @@ def main() -> int:
     payload = {
         "schema_version": 1,
         "generated_from": "data/parts/volume-i-parts.json",
-        "spine_ssot": parts_data.get("spine_ssot", "book/volume-i-civilization/interwoven-reader/README.md"),
+        "spine_ssot": parts_data.get("spine_ssot", "docs/archive/two-volume-reader-order-interwoven.md"),
         "deprecated_parts_registry": "data/parts/volume-i-parts.deprecated.json",
         "by_civ_host": dict(sorted(by_civ_host.items())),
         "by_companion": dict(sorted(by_companion.items())),

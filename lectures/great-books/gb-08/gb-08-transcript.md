@@ -22,8 +22,8 @@ transcript_fidelity: exact_body_match
 corpus_path: ../../../corpus/great-books/gb-08.md
 commentary_path: ./gb-08-commentary.md
 part_id: part-03-roman-imperium
-part_commentary_path: ../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md
-part_bibliography_path: ../../volume-i-civilization/parts/part-03-roman-imperium-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-03-roman-imperium-commentary.md
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-03-roman-imperium-bibliography.md
 ---
 
 # Part I - Great Books #8: The Poetry of Empire

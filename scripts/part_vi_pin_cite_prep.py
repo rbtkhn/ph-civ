@@ -8,7 +8,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 VOL2 = ROOT / "book" / "volume-ii"
-READINESS = ROOT / "book/volume-i-civilization/parts/PART-06-HYBRID-READINESS.md"
+READINESS = ROOT / "docs/routes/volume-i-parts/PART-06-HYBRID-READINESS.md"
 
 # (slug, unique substring to split BEFORE — first match wins in lecture order)
 TRANSCRIPT_SECTIONS: dict[str, list[tuple[str, str]]] = {

@@ -27,8 +27,8 @@ representation_not_endorsement: true
 canvas_status: open
 analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
-part_commentary_path: ../../volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#civ-27
-part_bibliography_path: ../../volume-i-civilization/parts/part-05-christianity-and-islam-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-05-christianity-and-islam-commentary.md#civ-27
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-05-christianity-and-islam-bibliography.md
 ---
 
 # Commentary - Civilization
@@ -88,8 +88,8 @@ Every claim below is tied to the transcript body in civ-27-transcript.md.
 
 Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part V live in the Part files:
 
-- [Part V commentary](../../volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#civ-27) — Augustine, City of God, obedience doctrine, Church out of history
-- [Part V bibliography](../../volume-i-civilization/parts/part-05-christianity-and-islam-bibliography.md)
+- [Part V commentary](../../../docs/routes/volume-i-parts/part-05-christianity-and-islam-commentary.md#civ-27) — Augustine, City of God, obedience doctrine, Church out of history
+- [Part V bibliography](../../../docs/routes/volume-i-parts/part-05-christianity-and-islam-bibliography.md)
 
 Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 

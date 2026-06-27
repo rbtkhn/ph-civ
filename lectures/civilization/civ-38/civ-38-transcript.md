@@ -7,8 +7,8 @@ episode: 38
 chapter_id: civ-38
 part: I
 part_id: part-07-world-after-rome
-part_commentary_path: ../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-38
-part_bibliography_path: ../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-07-world-after-rome-commentary.md#civ-38
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-07-world-after-rome-bibliography.md
 source_type: video
 canonical_url: https://www.youtube.com/watch?v=A2LMJerHcKM
 publication_date: 2025-03-13

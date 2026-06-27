@@ -1,8 +1,10 @@
 # Volume I — Reading Parts
 
-> **Deprecated (2026-06):** Volume I Part apparatus is retired. Use [interwoven-reader](../interwoven-reader/README.md), [volume-i-companions.json](../../../data/weave/volume-i-companions.json), and [commentary-methodology-v2.md](../../../docs/methodology/commentary-methodology-v2.md). Archive note: [parts-v1-hybrid.md](../../../docs/archive/parts-v1-hybrid.md).
+Volume I part apparatus (doorways, commentary, bibliographies). **Not the namespace catalog hub** — start at [`docs/predictive-history-index.md`](../../predictive-history-index.md).
 
-Ten **Part doorways** overlay the [interwoven civilization spine](../interwoven-reader/README.md). Each Part is a contiguous spine slice (`civ-*` chapters plus woven companions) — not a reordering of the spine.
+Interwoven reader order (historical): [`two-volume-reader-order-interwoven.md`](../../archive/two-volume-reader-order-interwoven.md)
+
+Ten **Part doorways** overlay the [interwoven civilization spine](../../archive/two-volume-reader-order-interwoven.md). Each Part is a contiguous spine slice (`civ-*` chapters plus woven companions) — not a reordering of the spine.
 
 **Registry:** [`data/parts/volume-i-parts.json`](../../../data/parts/volume-i-parts.json)
 

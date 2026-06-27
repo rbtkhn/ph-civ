@@ -7,8 +7,8 @@ episode: 4
 chapter_id: civ-04
 part: I
 part_id: part-01-dawn-of-civilization
-part_commentary_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-04
-part_bibliography_path: ../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-01-dawn-of-civilization-commentary.md#civ-04
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-01-dawn-of-civilization-bibliography.md
 source_type: video
 canonical_url: https://www.youtube.com/watch?v=RaT_ZUDjHrM
 publication_date: 2024-09-10

@@ -35,7 +35,7 @@ literary memory forms civilization
 
 ## The Bridge
 
-The transition note [From Civilization To Apocalypse](../../book/parts/civilization-to-apocalypse.md) changes the scale without abandoning the thread.
+The transition note [From Civilization To Apocalypse](../../docs/routes/civilization-to-apocalypse.md) changes the scale without abandoning the thread.
 
 Civilization asks how stories carry memory, moral grammar, and civilizational imagination. Apocalypse asks what happens when that same narrative power becomes strategic, compressed, and fought over under modern pressure.
 

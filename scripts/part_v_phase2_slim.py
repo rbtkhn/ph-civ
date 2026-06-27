@@ -52,7 +52,7 @@ Treat this chapter folder as a small source-lattice:
 1. Doorway - this README tells you what the packet is and what limits apply.
 2. Primary source floor - read the transcript and public source capture first.
 3. Chapter commentary - thin Layer 0-2 pin-cites in the companion commentary file.
-4. Part apparatus - [Part V commentary](../../volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md) and [Part V bibliography](../../volume-i-civilization/parts/part-05-christianity-and-islam-bibliography.md) for cross-chapter synthesis and external sources.
+4. Part apparatus - [Part V commentary](../../../docs/routes/volume-i-parts/part-05-christianity-and-islam-commentary.md) and [Part V bibliography](../../../docs/routes/volume-i-parts/part-05-christianity-and-islam-bibliography.md) for cross-chapter synthesis and external sources.
 5. Public card - orientation payload after the chapter and Part floors are open.
 6. Widened interpretation - corridors and bridges only after the above are stable.
 
@@ -60,8 +60,8 @@ Treat this chapter folder as a small source-lattice:
 
 - [Transcript]({cid}-transcript.md)
 - [Commentary canvas (thin)]({cid}-commentary.md)
-- [Part V commentary](../../volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#{cid})
-- [Part V bibliography](../../volume-i-civilization/parts/part-05-christianity-and-islam-bibliography.md)
+- [Part V commentary](../../../docs/routes/volume-i-parts/part-05-christianity-and-islam-commentary.md#{cid})
+- [Part V bibliography](../../../docs/routes/volume-i-parts/part-05-christianity-and-islam-bibliography.md)
 - [Public card](../../../data/cards/{cid}.md)
 
 ## Review Status
@@ -100,8 +100,8 @@ def slim_commentary(cid: str) -> None:
 
 Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part V live in the Part files:
 
-- [Part V commentary](../../volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#{cid}) — {meta["part_blurb"]}
-- [Part V bibliography](../../volume-i-civilization/parts/part-05-christianity-and-islam-bibliography.md)
+- [Part V commentary](../../../docs/routes/volume-i-parts/part-05-christianity-and-islam-commentary.md#{cid}) — {meta["part_blurb"]}
+- [Part V bibliography](../../../docs/routes/volume-i-parts/part-05-christianity-and-islam-bibliography.md)
 
 Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 
@@ -124,10 +124,10 @@ Layer 0–2 above remain the transcript pin-cite floor for this chapter.
         text = text.replace(
             "scaffold_version: ph_civ_commentary_canvas_v1\n",
             "scaffold_version: ph_civ_commentary_canvas_v1\n"
-            "part_commentary_path: ../../volume-i-civilization/parts/"
+            "part_commentary_path: ../../../docs/routes/volume-i-parts/"
             "part-05-christianity-and-islam-commentary.md#"
             f"{cid}\n"
-            "part_bibliography_path: ../../volume-i-civilization/parts/"
+            "part_bibliography_path: ../../../docs/routes/volume-i-parts/"
             "part-05-christianity-and-islam-bibliography.md\n",
             1,
         )

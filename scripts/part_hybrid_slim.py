@@ -56,8 +56,8 @@ def slim_commentary(cid: str, part_id: str, commentary_path: str, bibliography_p
 
 Cross-chapter synthesis, predictions, external counter-readings, and bibliography live in the Part files:
 
-- [Part commentary](../../volume-i-civilization/parts/{comm_base}#{cid})
-- [Part bibliography](../../volume-i-civilization/parts/{bib_base})
+- [Part commentary](../../../docs/routes/volume-i-parts/{comm_base}#{cid})
+- [Part bibliography](../../../docs/routes/volume-i-parts/{bib_base})
 
 Layer 0-2 above remain the transcript pin-cite floor for this chapter.
 
@@ -80,8 +80,8 @@ Layer 0-2 above remain the transcript pin-cite floor for this chapter.
             "scaffold_version: ph_civ_commentary_canvas_v1\n",
             "scaffold_version: ph_civ_commentary_canvas_v1\n"
             f"part_id: {part_id}\n"
-            f"part_commentary_path: ../../volume-i-civilization/parts/{comm_base}#{cid}\n"
-            f"part_bibliography_path: ../../volume-i-civilization/parts/{bib_base}\n",
+            f"part_commentary_path: ../../../docs/routes/volume-i-parts/{comm_base}#{cid}\n"
+            f"part_bibliography_path: ../../../docs/routes/volume-i-parts/{bib_base}\n",
             1,
         )
     if "analysis_depth: seed" in text:

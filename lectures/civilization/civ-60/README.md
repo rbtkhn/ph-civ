@@ -13,7 +13,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
 4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
 5. Public card — orientation payload after the chapter and Part floors are open.
-6. Widened interpretation — [Part X § civ-59](../../../book/volume-i-civilization/parts/part-10-rise-of-the-nation-state-commentary.md#civ-59) ingress; [civilization-to-apocalypse](../../parts/civilization-to-apocalypse.md) Volume II egress; [plato-to-hegel](../../../data/corridors/plato-to-hegel.md) + [homer-to-tolstoy](../../../data/corridors/homer-to-tolstoy.md) course close.
+6. Widened interpretation — [Part X § civ-59](../../../docs/routes/volume-i-parts/part-10-rise-of-the-nation-state-commentary.md#civ-59) ingress; [civilization-to-apocalypse](../../parts/civilization-to-apocalypse.md) Volume II egress; [plato-to-hegel](../../../data/corridors/plato-to-hegel.md) + [homer-to-tolstoy](../../../data/corridors/homer-to-tolstoy.md) course close.
 
 ## Files
 

@@ -20,8 +20,8 @@ transcript_fidelity: exact_body_match
 corpus_path: ../../../corpus/civilization/civ-20.md
 commentary_path: ./civ-20-commentary.md
 part_id: part-04-ancient-foundations
-part_commentary_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md
-part_bibliography_path: ../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-04-ancient-foundations-commentary.md
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-04-ancient-foundations-bibliography.md
 ---
 
 # Part I - Civilization #20: The Proto-Buddhists of the Indus Valley (Harappan) Civilization

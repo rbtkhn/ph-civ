@@ -8,8 +8,8 @@ book_chapter_id: gb-ch10
 chapter_id: gb-10
 part: I
 part_id: part-06-medieval-imagination
-part_commentary_path: ../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-10
-part_bibliography_path: ../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-06-medieval-imagination-commentary.md#gb-10
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-06-medieval-imagination-bibliography.md
 source_type: video
 canonical_url: https://www.youtube.com/watch?v=wGpdMYa2bME
 video_id: wGpdMYa2bME

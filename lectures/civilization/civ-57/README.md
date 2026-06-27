@@ -13,7 +13,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
 4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
 5. Public card — orientation payload after the chapter and Part floors are open.
-6. Widened interpretation — [Part X § civ-56](../../../book/volume-i-civilization/parts/part-10-rise-of-the-nation-state-commentary.md#civ-56) ingress; forward [civ-58](../civ-58/README.md) nation-state.
+6. Widened interpretation — [Part X § civ-56](../../../docs/routes/volume-i-parts/part-10-rise-of-the-nation-state-commentary.md#civ-56) ingress; forward [civ-58](../civ-58/README.md) nation-state.
 
 ## Files
 

@@ -33,7 +33,7 @@ Apocalypse-side reading
 Open the crossing through the reader-facing bridge surfaces first:
 
 - [Two Volumes, One Reader Map](two-volumes-one-reader-map.md)
-- [From Civilization To Apocalypse](../book/parts/civilization-to-apocalypse.md)
+- [From Civilization To Apocalypse](../docs/routes/civilization-to-apocalypse.md)
 - [Predictive History After Tolstoy](predictive-history-after-tolstoy.md)
 
 The doorway tells the reader what kind of crossing this is:
@@ -70,7 +70,7 @@ Function:
 
 ### Public transition statement
 
-- [From Civilization To Apocalypse](../book/parts/civilization-to-apocalypse.md)
+- [From Civilization To Apocalypse](../docs/routes/civilization-to-apocalypse.md)
 
 Function:
 - states the crossing in reader-facing language

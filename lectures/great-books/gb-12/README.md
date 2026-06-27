@@ -10,8 +10,8 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 
 1. Doorway — this README
 2. Primary source floor — [`gb-12-transcript.md`](./gb-12-transcript.md)
-3. Chapter commentary — [stub](./gb-12-commentary.md) → [Part VI § gb-12](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-12)
-4. Part bibliography — [Part VI](../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md)
+3. Chapter commentary — [stub](./gb-12-commentary.md) → [Part VI § gb-12](../../../docs/routes/volume-i-parts/part-06-medieval-imagination-commentary.md#gb-12)
+4. Part bibliography — [Part VI](../../../docs/routes/volume-i-parts/part-06-medieval-imagination-bibliography.md)
 5. Public card — [`data/cards/gb-12.md`](../../../data/cards/gb-12.md)
 6. Corridor — read after [`gb-11`](../gb-11/README.md); closes Dante Commedia arc in public mirror
 

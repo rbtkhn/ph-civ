@@ -7,8 +7,8 @@ episode: 50
 chapter_id: civ-50
 part: I
 part_id: part-08-birth-of-modernity
-part_commentary_path: ../../volume-i-civilization/parts/part-08-birth-of-modernity-commentary.md#civ-50
-part_bibliography_path: ../../volume-i-civilization/parts/part-08-birth-of-modernity-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-08-birth-of-modernity-commentary.md#civ-50
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-08-birth-of-modernity-bibliography.md
 source_type: video
 canonical_url: https://www.youtube.com/watch?v=laGSxfvlOfk
 publication_date: 2025-05-08

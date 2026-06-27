@@ -13,7 +13,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
 4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
 5. Public card — orientation payload after the chapter and Part floors are open.
-6. Widened interpretation — [Part VII § civ-41](../../../book/volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-41) ingress; [plato-to-hegel](../../../data/corridors/plato-to-hegel.md) Dante step 3 → modernity rupture; forward [civ-43](../civ-43/README.md).
+6. Widened interpretation — [Part VII § civ-41](../../../docs/routes/volume-i-parts/part-07-world-after-rome-commentary.md#civ-41) ingress; [plato-to-hegel](../../../data/corridors/plato-to-hegel.md) Dante step 3 → modernity rupture; forward [civ-43](../civ-43/README.md).
 
 ## Files
 

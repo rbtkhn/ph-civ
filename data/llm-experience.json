@@ -76,7 +76,7 @@
   "spine_tour": {
     "path": "data/routes/volume-i-spine-tour.json",
     "registry": "data/weave/volume-i-companions.json",
-    "reader_doc": "book/volume-i-civilization/interwoven-reader/README.md",
+    "reader_doc": "docs/archive/two-volume-reader-order-interwoven.md",
     "deprecated_registry": "data/parts/volume-i-parts.deprecated.json",
     "related_seed_id": "ten_route_spine_seed",
     "instruction": "Tour Volume I by interwoven spine stops (source_id at each legacy Part boundary). Replaces part_tour; does not replace Homer-to-Tolstoy opening at civ-07."
@@ -138,7 +138,7 @@
       "start_files": [
         "data/weave/volume-i-companions.json",
         "data/routes/volume-i-spine-tour.json",
-        "book/volume-i-civilization/interwoven-reader/README.md",
+        "docs/archive/two-volume-reader-order-interwoven.md",
         "docs/methodology/commentary-methodology-v2.md"
       ]
     },
@@ -224,7 +224,7 @@
     "data/weave/volume-i-companions.json",
     "data/routes/volume-i-spine-tour.json",
     "data/parts/volume-i-parts.deprecated.json",
-    "book/volume-i-civilization/interwoven-reader/README.md",
+    "docs/archive/two-volume-reader-order-interwoven.md",
     "docs/methodology/commentary-methodology-v2.md",
     "data/routes/seed.json",
     "data/routes/first-tour.json",

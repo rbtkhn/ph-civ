@@ -2,7 +2,7 @@
 
 This is an evidence shelf used by the canonical interwoven civilization sequence.
 
-Start with the [interwoven civilization spine](../interwoven-reader/README.md) when you want the public reading order. Use this shelf when you want the Great Books packet wrappers gathered together behind that order.
+Start with the [interwoven civilization spine](../../archive/two-volume-reader-order-interwoven.md) when you want the public reading order. Use this shelf when you want the Great Books packet wrappers gathered together behind that order.
 
 ## Chapters
 

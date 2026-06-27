@@ -106,7 +106,7 @@ Builder emits one JSON bundle per chapter (checked in under `site/_data/` or bui
   "paths": {
     "transcript": "lectures/civilization/civ-07/civ-07-transcript.md",
     "commentary": "lectures/civilization/civ-07/civ-07-commentary.md",
-    "part_commentary": "book/volume-i-civilization/parts/part-02-hellenic-world-commentary.md"
+    "part_commentary": "docs/routes/volume-i-parts/part-02-hellenic-world-commentary.md"
   }
 }
 ```
@@ -124,9 +124,9 @@ HTML pages are generated from bundles; markdown sources stay authoritative.
 | `data/pin-cite/volume-i-anchors.yaml` | Section order + claim ref SSOT | `validate_pin_cite.py` |
 | `data/parts/volume-i-parts.json` | Part ↔ chapter mapping | `validate_volume_i_parts.py` |
 | `data/spines/homer-to-tolstoy.json` | Pilot route sequence | CLI / manual |
-| `book/volume-i-civilization/parts/part-*-commentary.md` | Part notes cross-links | — |
-| `book/volume-i-civilization/parts/part-*-bibliography.md` | Footnote bibliography | — |
-| `book/volume-i-civilization/interwoven-reader/README.md` | Canonical chapter order | — |
+| `docs/routes/volume-i-parts/part-*-commentary.md` | Part notes cross-links | — |
+| `docs/routes/volume-i-parts/part-*-bibliography.md` | Footnote bibliography | — |
+| `docs/archive/two-volume-reader-order-interwoven.md` | Canonical chapter order | — |
 | `data/cards/*.md` | Orientation card (footer) | — |
 
 **Manifest gap (2026-06-12):** Part II (`civ-07`–`13`) is in the manifest. Parts III–VI chapters still parse transcript `###` + commentary L2 directly until manifest extension.

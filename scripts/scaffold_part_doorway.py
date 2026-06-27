@@ -126,7 +126,7 @@ def render_doorway(part: dict, titles: dict[str, str], by_id: dict[str, dict]) -
 
     return f"""{header}
 
-*This Part is a **spine slice** of Volume I — Civilization. It follows [interwoven-reader](../interwoven-reader/README.md) order; it is not a pure historical period box.*
+*This Part is a **spine slice** of Volume I — Civilization. It follows [interwoven-reader](../../archive/two-volume-reader-order-interwoven.md) order; it is not a pure historical period box.*
 {distinction_section}
 ## Law-discovery question
 

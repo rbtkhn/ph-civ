@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-READINESS = ROOT / "book/volume-i-civilization/parts/PART-08-HYBRID-READINESS.md"
+READINESS = ROOT / "docs/routes/volume-i-parts/PART-08-HYBRID-READINESS.md"
 MANIFEST_SCRIPT = ROOT / "scripts/part_pin_cite_from_manifest.py"
 
 

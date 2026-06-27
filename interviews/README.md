@@ -47,7 +47,7 @@ Examples: `interview-2025-11-24-glenn-diesen`, `interview-2026-05-07-diary-of-a-
 
 Cards use `part: provenance`, `series: interviews`, `derived_corpus: provenance`, `placement_weight: light`. They appear in the **Provenance** section of the chapter catalog; they are not foreground Volume I/II spine routes.
 
-Related: [`book/provenance/`](../book/provenance/README.md) · interviews slice [`predictive-history-interview-index.md`](predictive-history-interview-index.md) · full hub [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) · intake manifest [`data/interviews/manifest.json`](../data/interviews/manifest.json).
+Related: [`book/provenance/`](../docs/archive/book-provenance-index.md) · interviews slice [`predictive-history-interview-index.md`](predictive-history-interview-index.md) · full hub [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) · intake manifest [`data/interviews/manifest.json`](../data/interviews/manifest.json).
 
 ## DOAC #16 — verbatim swap + section restore
 

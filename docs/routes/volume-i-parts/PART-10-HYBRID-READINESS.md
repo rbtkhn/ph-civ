@@ -12,11 +12,11 @@ Planning doc for extending the **Part II–IX hybrid model** (thin chapter + thi
 
 **Law-discovery question (registry):** How do philosophy, ideology, and the nation-state carry Volume I to its American close?
 
-**Spine note:** `spine_slice_warning: false` — contiguous block (`civ-54`→`civ-60`). **Structural seam:** Volume I terminal Part; exits to Volume II via [civilization-to-apocalypse](../../../book/parts/civilization-to-apocalypse.md).
+**Spine note:** `spine_slice_warning: false` — contiguous block (`civ-54`→`civ-60`). **Structural seam:** Volume I terminal Part; exits to Volume II via [civilization-to-apocalypse](../../../docs/routes/civilization-to-apocalypse.md).
 
 **Cross-Part ingress:** [Part IX `civ-53`](./part-09-age-of-conscience.md) Dostoevsky/Russia soul → [`civ-54`](#civ-54) German will-to-power open; four-modern-civs comparison closes.
 
-**Corridor:** [plato-to-hegel](../../../data/corridors/plato-to-hegel.md) — Kant/Hegel @ `civ-55` completes philosophical spine; [civilization-to-apocalypse](../../../book/parts/civilization-to-apocalypse.md) @ `civ-60` close.
+**Corridor:** [plato-to-hegel](../../../data/corridors/plato-to-hegel.md) — Kant/Hegel @ `civ-55` completes philosophical spine; [civilization-to-apocalypse](../../../docs/routes/civilization-to-apocalypse.md) @ `civ-60` close.
 
 ---
 
@@ -71,7 +71,7 @@ Planning doc for extending the **Part II–IX hybrid model** (thin chapter + thi
 | Corridor | Part X role | Notes |
 |----------|-------------|-------|
 | [plato-to-hegel](../../../data/corridors/plato-to-hegel.md) | Kant/Hegel @ `civ-55`; imagination/love close @ `civ-60` | Step 4 complete; commentary synthesis close |
-| [civilization-to-apocalypse](../../../book/parts/civilization-to-apocalypse.md) | Volume I → Volume II egress @ `civ-60` | Law-discovery → law-application hinge |
+| [civilization-to-apocalypse](../../../docs/routes/civilization-to-apocalypse.md) | Volume I → Volume II egress @ `civ-60` | Law-discovery → law-application hinge |
 | [homer-to-tolstoy](../../../data/corridors/homer-to-tolstoy.md) | Course close returns Homer/Dante @ `civ-60` | Literary spine bookends |
 
 ---

@@ -177,7 +177,7 @@ That gives the reader a compact public contract:
 
 ## Best Companion Files
 
-- [From The Old Seven Volumes To The Current Two](../book/seven-volume-to-two-volume.md)
-- [From Civilization To Apocalypse](../book/parts/civilization-to-apocalypse.md)
+- [From The Old Seven Volumes To The Current Two](../docs/archive/seven-volume-to-two-volume.md)
+- [From Civilization To Apocalypse](../docs/routes/civilization-to-apocalypse.md)
 - [Predictive History After Tolstoy](predictive-history-after-tolstoy.md)
 - [Homer to Tolstoy](../data/corridors/homer-to-tolstoy.md)

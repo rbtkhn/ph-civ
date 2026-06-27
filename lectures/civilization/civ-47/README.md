@@ -13,7 +13,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
 4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
 5. Public card — orientation payload after the chapter and Part floors are open.
-6. Widened interpretation — French Revolution trilogy **middle**; follows [civ-46](../civ-46/README.md); forward [civ-48](../civ-48/README.md); pairs Part VII [civ-40](../../../book/volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-40) scapegoating grammar.
+6. Widened interpretation — French Revolution trilogy **middle**; follows [civ-46](../civ-46/README.md); forward [civ-48](../civ-48/README.md); pairs Part VII [civ-40](../../../docs/routes/volume-i-parts/part-07-world-after-rome-commentary.md#civ-40) scapegoating grammar.
 
 ## Files
 

@@ -6,7 +6,7 @@
   "volume": "I",
   "volume_display": "Volume I \u2014 Civilization",
   "spine_ssot": "docs/archive/two-volume-reader-order-interwoven.md",
-  "doorway_shelf": "book/volume-i-civilization/parts/",
+  "doorway_shelf": "docs/routes/volume-i-parts/",
   "photocopy_blocklist": [
     "The Life of Greece",
     "The Life of Rome",
@@ -34,9 +34,9 @@
         "civ-06"
       ],
       "spine_slice_warning": false,
-      "doorway_path": "book/volume-i-civilization/parts/part-01-dawn-of-civilization.md",
-      "commentary_path": "book/volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md",
-      "bibliography_path": "book/volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md",
+      "doorway_path": "docs/routes/volume-i-parts/part-01-dawn-of-civilization.md",
+      "commentary_path": "docs/routes/volume-i-parts/part-01-dawn-of-civilization-commentary.md",
+      "bibliography_path": "docs/routes/volume-i-parts/part-01-dawn-of-civilization-bibliography.md",
       "next_part_id": "part-02-hellenic-world",
       "secret_history_companions": [
         {
@@ -91,9 +91,9 @@
         "civ-13"
       ],
       "spine_slice_warning": false,
-      "doorway_path": "book/volume-i-civilization/parts/part-02-hellenic-world.md",
-      "commentary_path": "book/volume-i-civilization/parts/part-02-hellenic-world-commentary.md",
-      "bibliography_path": "book/volume-i-civilization/parts/part-02-hellenic-world-bibliography.md",
+      "doorway_path": "docs/routes/volume-i-parts/part-02-hellenic-world.md",
+      "commentary_path": "docs/routes/volume-i-parts/part-02-hellenic-world-commentary.md",
+      "bibliography_path": "docs/routes/volume-i-parts/part-02-hellenic-world-bibliography.md",
       "previous_part_id": "part-01-dawn-of-civilization",
       "next_part_id": "part-03-roman-imperium",
       "secret_history_companions": [],
@@ -151,9 +151,9 @@
         "civ-17"
       ],
       "spine_slice_warning": true,
-      "doorway_path": "book/volume-i-civilization/parts/part-03-roman-imperium.md",
-      "commentary_path": "book/volume-i-civilization/parts/part-03-roman-imperium-commentary.md",
-      "bibliography_path": "book/volume-i-civilization/parts/part-03-roman-imperium-bibliography.md",
+      "doorway_path": "docs/routes/volume-i-parts/part-03-roman-imperium.md",
+      "commentary_path": "docs/routes/volume-i-parts/part-03-roman-imperium-commentary.md",
+      "bibliography_path": "docs/routes/volume-i-parts/part-03-roman-imperium-bibliography.md",
       "previous_part_id": "part-02-hellenic-world",
       "next_part_id": "part-04-ancient-foundations",
       "secret_history_companions": [],
@@ -193,9 +193,9 @@
         "civ-23"
       ],
       "spine_slice_warning": true,
-      "doorway_path": "book/volume-i-civilization/parts/part-04-ancient-foundations.md",
-      "commentary_path": "book/volume-i-civilization/parts/part-04-ancient-foundations-commentary.md",
-      "bibliography_path": "book/volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md",
+      "doorway_path": "docs/routes/volume-i-parts/part-04-ancient-foundations.md",
+      "commentary_path": "docs/routes/volume-i-parts/part-04-ancient-foundations-commentary.md",
+      "bibliography_path": "docs/routes/volume-i-parts/part-04-ancient-foundations-bibliography.md",
       "previous_part_id": "part-03-roman-imperium",
       "next_part_id": "part-05-christianity-and-islam",
       "secret_history_companions": [
@@ -235,9 +235,9 @@
         "civ-28"
       ],
       "spine_slice_warning": false,
-      "doorway_path": "book/volume-i-civilization/parts/part-05-christianity-and-islam.md",
-      "commentary_path": "book/volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md",
-      "bibliography_path": "book/volume-i-civilization/parts/part-05-christianity-and-islam-bibliography.md",
+      "doorway_path": "docs/routes/volume-i-parts/part-05-christianity-and-islam.md",
+      "commentary_path": "docs/routes/volume-i-parts/part-05-christianity-and-islam-commentary.md",
+      "bibliography_path": "docs/routes/volume-i-parts/part-05-christianity-and-islam-bibliography.md",
       "previous_part_id": "part-04-ancient-foundations",
       "next_part_id": "part-06-medieval-imagination",
       "secret_history_companions": [
@@ -276,9 +276,9 @@
         "civ-34"
       ],
       "spine_slice_warning": false,
-      "doorway_path": "book/volume-i-civilization/parts/part-06-medieval-imagination.md",
-      "commentary_path": "book/volume-i-civilization/parts/part-06-medieval-imagination-commentary.md",
-      "bibliography_path": "book/volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md",
+      "doorway_path": "docs/routes/volume-i-parts/part-06-medieval-imagination.md",
+      "commentary_path": "docs/routes/volume-i-parts/part-06-medieval-imagination-commentary.md",
+      "bibliography_path": "docs/routes/volume-i-parts/part-06-medieval-imagination-bibliography.md",
       "previous_part_id": "part-05-christianity-and-islam",
       "next_part_id": "part-07-world-after-rome",
       "secret_history_companions": [],
@@ -332,9 +332,9 @@
         "civ-41"
       ],
       "spine_slice_warning": false,
-      "doorway_path": "book/volume-i-civilization/parts/part-07-world-after-rome.md",
-      "commentary_path": "book/volume-i-civilization/parts/part-07-world-after-rome-commentary.md",
-      "bibliography_path": "book/volume-i-civilization/parts/part-07-world-after-rome-bibliography.md",
+      "doorway_path": "docs/routes/volume-i-parts/part-07-world-after-rome.md",
+      "commentary_path": "docs/routes/volume-i-parts/part-07-world-after-rome-commentary.md",
+      "bibliography_path": "docs/routes/volume-i-parts/part-07-world-after-rome-bibliography.md",
       "previous_part_id": "part-06-medieval-imagination",
       "next_part_id": "part-08-birth-of-modernity",
       "secret_history_companions": [],
@@ -380,9 +380,9 @@
         "civ-50"
       ],
       "spine_slice_warning": false,
-      "doorway_path": "book/volume-i-civilization/parts/part-08-birth-of-modernity.md",
-      "commentary_path": "book/volume-i-civilization/parts/part-08-birth-of-modernity-commentary.md",
-      "bibliography_path": "book/volume-i-civilization/parts/part-08-birth-of-modernity-bibliography.md",
+      "doorway_path": "docs/routes/volume-i-parts/part-08-birth-of-modernity.md",
+      "commentary_path": "docs/routes/volume-i-parts/part-08-birth-of-modernity-commentary.md",
+      "bibliography_path": "docs/routes/volume-i-parts/part-08-birth-of-modernity-bibliography.md",
       "previous_part_id": "part-07-world-after-rome",
       "next_part_id": "part-09-age-of-conscience",
       "secret_history_companions": [],
@@ -417,9 +417,9 @@
         "civ-53"
       ],
       "spine_slice_warning": false,
-      "doorway_path": "book/volume-i-civilization/parts/part-09-age-of-conscience.md",
-      "commentary_path": "book/volume-i-civilization/parts/part-09-age-of-conscience-commentary.md",
-      "bibliography_path": "book/volume-i-civilization/parts/part-09-age-of-conscience-bibliography.md",
+      "doorway_path": "docs/routes/volume-i-parts/part-09-age-of-conscience.md",
+      "commentary_path": "docs/routes/volume-i-parts/part-09-age-of-conscience-commentary.md",
+      "bibliography_path": "docs/routes/volume-i-parts/part-09-age-of-conscience-bibliography.md",
       "previous_part_id": "part-08-birth-of-modernity",
       "next_part_id": "part-10-rise-of-the-nation-state",
       "secret_history_companions": [
@@ -459,9 +459,9 @@
         "civ-60"
       ],
       "spine_slice_warning": false,
-      "doorway_path": "book/volume-i-civilization/parts/part-10-rise-of-the-nation-state.md",
-      "commentary_path": "book/volume-i-civilization/parts/part-10-rise-of-the-nation-state-commentary.md",
-      "bibliography_path": "book/volume-i-civilization/parts/part-10-rise-of-the-nation-state-bibliography.md",
+      "doorway_path": "docs/routes/volume-i-parts/part-10-rise-of-the-nation-state.md",
+      "commentary_path": "docs/routes/volume-i-parts/part-10-rise-of-the-nation-state-commentary.md",
+      "bibliography_path": "docs/routes/volume-i-parts/part-10-rise-of-the-nation-state-bibliography.md",
       "previous_part_id": "part-09-age-of-conscience",
       "next_part_id": null,
       "exit_hook": "Volume II \u2014 Apocalypse (ph-apo) via civilization-to-apocalypse bridge",

@@ -12,9 +12,9 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 2. Primary source floor — read the transcript and public source capture first.
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
 4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
-5. Great Books weave — [gb-03](../../great-books/gb-03/README.md) interwoven @ `civ-02`; **dual-placement** with Part II @ `civ-07` — see [Part I § gb-03](../../../book/volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#gb-03).
+5. Great Books weave — [gb-03](../../great-books/gb-03/README.md) interwoven @ `civ-02`; **dual-placement** with Part II @ `civ-07` — see [Part I § gb-03](../../../docs/routes/volume-i-parts/part-01-dawn-of-civilization-commentary.md#gb-03).
 6. Public card — orientation payload after the chapter and Part floors are open.
-7. Widened interpretation — pairs [Part I § civ-01](../../../book/volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-01); forward [civ-03](../civ-03/README.md).
+7. Widened interpretation — pairs [Part I § civ-01](../../../docs/routes/volume-i-parts/part-01-dawn-of-civilization-commentary.md#civ-01); forward [civ-03](../civ-03/README.md).
 
 ## Files
 

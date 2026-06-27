@@ -8,7 +8,7 @@ from pathlib import Path
 
 from part_pin_cite_common import ROOT, VOL2, patch_transcript
 
-READINESS = ROOT / "book/volume-i-civilization/parts/PART-01-HYBRID-READINESS.md"
+READINESS = ROOT / "docs/routes/volume-i-parts/PART-01-HYBRID-READINESS.md"
 PART_ID = "part-01-dawn-of-civilization"
 
 TRANSCRIPT_SECTIONS: dict[str, list[tuple[str, str]]] = {
@@ -151,9 +151,9 @@ def _patch_commentary_with_part_paths(chapter_id: str) -> None:
             f"companion_transcript_path: ./{chapter_id}-transcript.md\n",
             f"companion_transcript_path: ./{chapter_id}-transcript.md\n"
             f"part_id: {PART_ID}\n"
-            f"part_commentary_path: ../../volume-i-civilization/parts/"
+            f"part_commentary_path: ../../../docs/routes/volume-i-parts/"
             f"part-01-dawn-of-civilization-commentary.md{anchor}\n"
-            f"part_bibliography_path: ../../volume-i-civilization/parts/"
+            f"part_bibliography_path: ../../../docs/routes/volume-i-parts/"
             f"part-01-dawn-of-civilization-bibliography.md\n",
         )
         path.write_text(text, encoding="utf-8")

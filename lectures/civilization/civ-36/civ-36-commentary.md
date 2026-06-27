@@ -14,8 +14,8 @@ template_version: 1
 template_scope: civilization-only
 companion_transcript_path: ./civ-36-transcript.md
 part_id: part-07-world-after-rome
-part_commentary_path: ../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-36
-part_bibliography_path: ../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-07-world-after-rome-commentary.md#civ-36
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-07-world-after-rome-bibliography.md
 completeness_state: in-review
 status: in-review
 commentary_status: in-review
@@ -86,8 +86,8 @@ Every claim below is tied to the transcript body in civ-36-transcript.md.
 
 Cross-chapter synthesis, predictions, external counter-readings, and bibliography live in the Part files:
 
-- [Part commentary](../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-36)
-- [Part bibliography](../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md)
+- [Part commentary](../../../docs/routes/volume-i-parts/part-07-world-after-rome-commentary.md#civ-36)
+- [Part bibliography](../../../docs/routes/volume-i-parts/part-07-world-after-rome-bibliography.md)
 
 Layer 0-2 above remain the transcript pin-cite floor for this chapter.
 

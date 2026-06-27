@@ -22,8 +22,8 @@ asr_normalization_note: "2026-06-09 pilot Volume II block (civ-01–18); AI-assi
 corpus_path: ../../../corpus/civilization/civ-14.md
 commentary_path: ./civ-14-commentary.md
 part_id: part-03-roman-imperium
-part_commentary_path: ../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md
-part_bibliography_path: ../../volume-i-civilization/parts/part-03-roman-imperium-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-03-roman-imperium-commentary.md
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-03-roman-imperium-bibliography.md
 ---
 
 # Part I - Civilization #14: Hannibal Barca, Lucius Brutus, and the Triumph of Rome

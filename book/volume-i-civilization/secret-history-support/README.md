@@ -2,7 +2,7 @@
 
 These are the selective Secret History support nodes that feed Volume I directly.
 
-Start with the [interwoven civilization spine](../interwoven-reader/README.md) when you want the public reading order. Use this shelf when you want the bounded Civilization-facing Secret History wrappers gathered together behind that order.
+Start with the [interwoven civilization spine](../../archive/two-volume-reader-order-interwoven.md) when you want the public reading order. Use this shelf when you want the bounded Civilization-facing Secret History wrappers gathered together behind that order.
 
 Secret History remains mostly an Apocalypse spine. This shelf is support storage, not a coequal Volume I pillar.
 

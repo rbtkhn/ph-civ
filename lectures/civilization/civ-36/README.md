@@ -12,7 +12,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 2. Primary source floor — read the transcript and public source capture first.
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
 4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
-5. Viking pair + forward — follows [civ-35](../civ-35/README.md); forward [civ-37](../civ-37/README.md) (Islamic Golden Age); pairs [Part VI § civ-29](../../../book/volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#civ-29) oral/literary imagination frame.
+5. Viking pair + forward — follows [civ-35](../civ-35/README.md); forward [civ-37](../civ-37/README.md) (Islamic Golden Age); pairs [Part VI § civ-29](../../../docs/routes/volume-i-parts/part-06-medieval-imagination-commentary.md#civ-29) oral/literary imagination frame.
 6. Public card — orientation payload after the chapter and Part floors are open.
 7. Widened interpretation — plural Eurasian orders (`civ-37`–`39`) before [Homer to Dante](../../../data/corridors/homer-to-dante.md) corridor close @ `civ-41`.
 

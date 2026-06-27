@@ -22,8 +22,8 @@ asr_normalization_note: "2026-06-09 pilot Volume II block (civ-01–18); AI-assi
 corpus_path: ../../../corpus/civilization/civ-13.md
 commentary_path: ./civ-13-commentary.md
 part_id: part-02-hellenic-world
-part_commentary_path: ../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md
-part_bibliography_path: ../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-02-hellenic-world-commentary.md
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-02-hellenic-world-bibliography.md
 ---
 
 # Part I - Civilization #13: Aristotle and the Greek Legacy

@@ -7,8 +7,8 @@ episode: 53
 chapter_id: civ-53
 part: I
 part_id: part-09-age-of-conscience
-part_commentary_path: ../../volume-i-civilization/parts/part-09-age-of-conscience-commentary.md#civ-53
-part_bibliography_path: ../../volume-i-civilization/parts/part-09-age-of-conscience-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-09-age-of-conscience-commentary.md#civ-53
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-09-age-of-conscience-bibliography.md
 source_type: video
 canonical_url: https://www.youtube.com/watch?v=0rALqcPWuH0
 publication_date: 2025-05-20

@@ -27,8 +27,8 @@ representation_not_endorsement: true
 canvas_status: open
 analysis_depth: layer2_drafted
 scaffold_version: ph_civ_commentary_canvas_v1
-part_commentary_path: ../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md#civ-16
-part_bibliography_path: ../../volume-i-civilization/parts/part-03-roman-imperium-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-03-roman-imperium-commentary.md#civ-16
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-03-roman-imperium-bibliography.md
 ---
 
 # Commentary - Civilization
@@ -86,8 +86,8 @@ Every claim below is tied to the transcript body in `civ-16-transcript.md`.
 
 Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part III live in the Part files:
 
-- [Part III commentary](../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md#civ-16) — Roman grammar, prediction ledger, `gb-08` section
-- [Part III bibliography](../../volume-i-civilization/parts/part-03-roman-imperium-bibliography.md)
+- [Part III commentary](../../../docs/routes/volume-i-parts/part-03-roman-imperium-commentary.md#civ-16) — Roman grammar, prediction ledger, `gb-08` section
+- [Part III bibliography](../../../docs/routes/volume-i-parts/part-03-roman-imperium-bibliography.md)
 
 Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 

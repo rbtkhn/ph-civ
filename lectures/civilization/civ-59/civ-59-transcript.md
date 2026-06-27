@@ -7,8 +7,8 @@ episode: 59
 chapter_id: civ-59
 part: I
 part_id: part-10-rise-of-the-nation-state
-part_commentary_path: ../../volume-i-civilization/parts/part-10-rise-of-the-nation-state-commentary.md#civ-59
-part_bibliography_path: ../../volume-i-civilization/parts/part-10-rise-of-the-nation-state-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-10-rise-of-the-nation-state-commentary.md#civ-59
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-10-rise-of-the-nation-state-bibliography.md
 source_type: video
 canonical_url: https://www.youtube.com/watch?v=QtqfIjK1GAc
 publication_date: 2025-06-10

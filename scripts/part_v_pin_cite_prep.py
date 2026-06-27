@@ -287,7 +287,7 @@ def update_part_commentary() -> None:
 
 
 def update_readiness() -> None:
-    path = ROOT / "book/volume-i-civilization/parts/PART-05-HYBRID-READINESS.md"
+    path = ROOT / "docs/routes/volume-i-parts/PART-05-HYBRID-READINESS.md"
     text = path.read_text(encoding="utf-8")
     text = text.replace(
         "**Partial** — 8 L2 claims each; **`analysis_depth: seed`**; all L2 refs **`civ-*-transcript.md:32`** (single megagraph; **no `###` transcript sections**)",

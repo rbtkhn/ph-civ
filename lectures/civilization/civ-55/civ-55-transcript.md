@@ -7,8 +7,8 @@ episode: 55
 chapter_id: civ-55
 part: I
 part_id: part-10-rise-of-the-nation-state
-part_commentary_path: ../../volume-i-civilization/parts/part-10-rise-of-the-nation-state-commentary.md#civ-55
-part_bibliography_path: ../../volume-i-civilization/parts/part-10-rise-of-the-nation-state-bibliography.md
+part_commentary_path: ../../../docs/routes/volume-i-parts/part-10-rise-of-the-nation-state-commentary.md#civ-55
+part_bibliography_path: ../../../docs/routes/volume-i-parts/part-10-rise-of-the-nation-state-bibliography.md
 source_type: video
 canonical_url: https://www.youtube.com/watch?v=_3c3FjS57x4
 publication_date: 2025-05-27

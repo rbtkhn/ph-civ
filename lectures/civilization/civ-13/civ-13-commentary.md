@@ -83,8 +83,8 @@ Every claim below is tied to the transcript body in `civ-13-transcript.md`.
 
 Cross-chapter synthesis, predictions, external counter-readings, and bibliography for Part II live in the Part files:
 
-- [Part II commentary](../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md#civ-13) — Hellenic grammar, prediction ledger, Great Books sections
-- [Part II bibliography](../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md)
+- [Part II commentary](../../../docs/routes/volume-i-parts/part-02-hellenic-world-commentary.md#civ-13) — Hellenic grammar, prediction ledger, Great Books sections
+- [Part II bibliography](../../../docs/routes/volume-i-parts/part-02-hellenic-world-bibliography.md)
 
 Layer 0–2 above remain the transcript pin-cite floor for this chapter.
 

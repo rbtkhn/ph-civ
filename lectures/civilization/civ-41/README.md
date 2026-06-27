@@ -12,7 +12,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 2. Primary source floor — read the transcript and public source capture first.
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
 4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
-5. GB close weave — after Part VII § `civ-41`, read [Part VII § gb-10 (close)](../../../book/volume-i-civilization/parts/part-07-world-after-rome-commentary.md#gb-10); Inferno depth in [Part VI § gb-10](../../../book/volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-10); full cluster `gb-09`–`gb-12`.
+5. GB close weave — after Part VII § `civ-41`, read [Part VII § gb-10 (close)](../../../docs/routes/volume-i-parts/part-07-world-after-rome-commentary.md#gb-10); Inferno depth in [Part VI § gb-10](../../../docs/routes/volume-i-parts/part-06-medieval-imagination-commentary.md#gb-10); full cluster `gb-09`–`gb-12`.
 6. Public card — orientation payload after the chapter and Part floors are open.
 7. Widened interpretation — [Homer to Dante](../../../data/corridors/homer-to-dante.md) corridor close; Part VIII egress only after above are stable.
 

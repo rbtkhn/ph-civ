@@ -20,10 +20,10 @@ PART_COMMENTARY_FILES: dict[str, str] = {
 
 def part_paths(part_id: str, chapter_id: str) -> tuple[str, str]:
     comm_path = (
-        f"../../volume-i-civilization/parts/"
+        f"../../../docs/routes/volume-i-parts/"
         f"{PART_COMMENTARY_FILES[part_id]}#{chapter_id}"
     )
-    bib_path = f"../../volume-i-civilization/parts/{part_id}-bibliography.md"
+    bib_path = f"../../../docs/routes/volume-i-parts/{part_id}-bibliography.md"
     return comm_path, bib_path
 
 

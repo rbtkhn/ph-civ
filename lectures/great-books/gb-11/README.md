@@ -10,8 +10,8 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 
 1. Doorway — this README
 2. Primary source floor — [`gb-11-transcript.md`](./gb-11-transcript.md)
-3. Chapter commentary — [stub](./gb-11-commentary.md) → [Part VI § gb-11](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-11)
-4. Part bibliography — [Part VI](../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md)
+3. Chapter commentary — [stub](./gb-11-commentary.md) → [Part VI § gb-11](../../../docs/routes/volume-i-parts/part-06-medieval-imagination-commentary.md#gb-11)
+4. Part bibliography — [Part VI](../../../docs/routes/volume-i-parts/part-06-medieval-imagination-bibliography.md)
 5. Public card — [`data/cards/gb-11.md`](../../../data/cards/gb-11.md)
 6. Corridor — read after [`gb-10`](../gb-10/README.md); forward [`gb-12`](../gb-12/README.md)
 

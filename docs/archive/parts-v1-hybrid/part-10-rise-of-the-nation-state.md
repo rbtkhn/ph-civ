@@ -1,6 +1,6 @@
 # Part X — The Rise of the Nation-State
 
-*This Part is a **spine slice** of Volume I — Civilization. It follows [interwoven-reader](../interwoven-reader/README.md) order; it is not a pure historical period box.*
+*This Part is a **spine slice** of Volume I — Civilization. It follows [interwoven-reader](../../archive/two-volume-reader-order-interwoven.md) order; it is not a pure historical period box.*
 
 ## Law-discovery question
 

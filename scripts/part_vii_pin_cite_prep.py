@@ -8,7 +8,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 VOL2 = ROOT / "book" / "volume-ii"
-READINESS = ROOT / "book/volume-i-civilization/parts/PART-07-HYBRID-READINESS.md"
+READINESS = ROOT / "docs/routes/volume-i-parts/PART-07-HYBRID-READINESS.md"
 
 TRANSCRIPT_SECTIONS: dict[str, list[tuple[str, str]]] = {
     "civ-35": [
@@ -193,9 +193,9 @@ def patch_transcript(chapter_id: str) -> None:
         head = head.replace(
             "part: I\n",
             f"part: I\npart_id: part-07-world-after-rome\n"
-            f"part_commentary_path: ../../volume-i-civilization/parts/"
+            f"part_commentary_path: ../../../docs/routes/volume-i-parts/"
             f"part-07-world-after-rome-commentary.md{anchor}\n"
-            f"part_bibliography_path: ../../volume-i-civilization/parts/"
+            f"part_bibliography_path: ../../../docs/routes/volume-i-parts/"
             f"part-07-world-after-rome-bibliography.md\n",
         )
     path.write_text(head + marker + patched, encoding="utf-8")
@@ -228,9 +228,9 @@ def update_chapter_commentary(chapter_id: str) -> None:
             f"companion_transcript_path: ./{chapter_id}-transcript.md\n",
             f"companion_transcript_path: ./{chapter_id}-transcript.md\n"
             f"part_id: part-07-world-after-rome\n"
-            f"part_commentary_path: ../../volume-i-civilization/parts/"
+            f"part_commentary_path: ../../../docs/routes/volume-i-parts/"
             f"part-07-world-after-rome-commentary.md{anchor}\n"
-            f"part_bibliography_path: ../../volume-i-civilization/parts/"
+            f"part_bibliography_path: ../../../docs/routes/volume-i-parts/"
             f"part-07-world-after-rome-bibliography.md\n",
         )
     path.write_text(text, encoding="utf-8")
