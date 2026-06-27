@@ -321,12 +321,12 @@ def render_html(bundle: dict[str, object]) -> str:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{title} · ph-civ study edition</title>
+  <title>{title} · Predictive History study edition</title>
   <link rel="stylesheet" href="../../assets/study-edition.css">
 </head>
 <body{body_class}>
   <header class="top-bar">
-    <div class="brand">ph-civ study edition</div>
+    <div class="brand">Predictive History study edition</div>
     <div class="meta">
       <span class="chip">{source_id}</span>
       <span class="chip warn">{review}</span>
@@ -391,12 +391,12 @@ def write_site_index() -> Path:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>ph-civ study edition</title>
+  <title>Predictive History study edition</title>
   <link rel="stylesheet" href="assets/study-edition.css">
 </head>
 <body>
   <header class="top-bar">
-    <div class="brand">ph-civ study edition</div>
+    <div class="brand">Predictive History study edition</div>
     <div class="meta"><span class="chip">Phase 0 · Parts I–X + civ-07 Phase 1 pilot</span></div>
   </header>
   <main class="part-index">
@@ -460,12 +460,12 @@ def render_part_index(part_key: str, bundles: list[dict[str, object]]) -> str:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{part_title} · ph-civ study edition</title>
+  <title>{part_title} · Predictive History study edition</title>
   <link rel="stylesheet" href="../../assets/study-edition.css">
 </head>
 <body>
   <header class="top-bar">
-    <div class="brand">ph-civ study edition</div>
+    <div class="brand">Predictive History study edition</div>
     <div class="meta"><span class="chip">Part {html.escape(part_key)}</span></div>
   </header>
   <main class="part-index">

@@ -1,6 +1,6 @@
 # Study edition site (Phase 0)
 
-Generated static reader skin for ph-civ. SSOT remains markdown under `lectures/`, `essays/`, `interviews/`, and `docs/`.
+Generated static reader skin for Predictive History. SSOT remains markdown under `lectures/`, `essays/`, `interviews/`, and `docs/`.
 
 ## Build
 
@@ -73,7 +73,7 @@ python scripts/validate_study_edition.py --chapter civ-07
 
 Workflow: [`.github/workflows/study-edition-pages.yml`](../.github/workflows/study-edition-pages.yml)
 
-- **URL:** `https://rbtkhn.github.io/ph-civ/` (project site)
+- **URL:** `https://rbtkhn.github.io/predictive-history/` (project site)
 - **Publish dir:** `site/dist` (Actions artifact)
 - Enable **Settings → Pages → GitHub Actions** on first deploy.
 

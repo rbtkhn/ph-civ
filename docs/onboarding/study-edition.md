@@ -49,7 +49,7 @@ LLM paste flows (`START-HERE.md`, chapter-folder URLs) remain parallel — not r
 | Part | `/parts/part-02-hellenic-world/` | `data/parts/volume-i-parts.json` + doorway md |
 | Chapter | `/study/civ-07/` | Chapter packet (three-pane) |
 
-Base path for project-site deploy: `/ph-civ/` (see [GitHub Pages](#github-pages-deploy)).
+Base path for project-site deploy: `/predictive-history/` (see [GitHub Pages](#github-pages-deploy)).
 
 ### Chapter study page (three-pane)
 
@@ -164,14 +164,14 @@ Requirements specific to ph-civ:
 - **Python-first repo** — validators, pin-cite prep, and CLI already in Python; no Node toolchain today.
 - **Custom three-pane UX** — outline | verbatim floor | bidirectional footnotes; not standard docs-sidebar markdown.
 - **Large verbatim transcripts** — pages can be long; need anchor scroll, not full SPA re-fetch per chapter.
-- **Project-site hosting** — `https://rbtkhn.github.io/ph-civ/` requires `base` path configuration.
+- **Project-site hosting** — `https://rbtkhn.github.io/predictive-history/` (repo name = Pages path prefix).
 - **Dual skin** — git markdown for LLMs; static HTML for humans. Builder must not fork content.
 
 ### Comparison
 
 | Criterion | VitePress | Eleventy (11ty) | Custom (Python → HTML) |
 | --- | --- | --- | --- |
-| **GitHub Pages** | Good; `base: '/ph-civ/'` in config | Excellent; `_site` → `gh-pages` | Excellent; output folder only |
+| **GitHub Pages** | Good; `base: '/predictive-history/'` in config | Excellent; `_site` → `gh-pages` | Excellent; output folder only |
 | **Repo alignment** | Adds Node/npm CI lane | Adds Node/npm CI lane | Matches existing Python stack |
 | **Three-pane layout** | Needs custom Vue theme components | Full control via Nunjucks/Liquid + light JS | Full control; vanilla JS for panels |
 | **Bidirectional footnotes** | Custom Vue components | Alpine.js or small module | Tailored JS in generated pages |
@@ -200,12 +200,12 @@ Requirements specific to ph-civ:
 | Setting | Value |
 | --- | --- |
 | Repo | `rbtkhn/predictive-history` |
-| URL | `https://rbtkhn.github.io/ph-civ/` |
+| URL | `https://rbtkhn.github.io/predictive-history/` |
 | Publish dir | `site/dist` (or `docs/` only if using branch docs — prefer Actions artifact) |
-| `base` / asset prefix | `/ph-civ/` |
+| `base` / asset prefix | `/predictive-history/` |
 | Branch | `gh-pages` (Actions) or Pages from Actions workflow |
 
-**Link contract:** Chapter-folder GitHub links and study-edition URLs must stay aligned. `ph-civ link civ-07` should eventually emit **both** raw folder URL and study-edition URL.
+**Link contract:** Chapter-folder GitHub links and study-edition URLs must stay aligned. `predictive-history link civ-07` should eventually emit **both** raw folder URL and study-edition URL.
 
 ---
 
