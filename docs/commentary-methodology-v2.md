@@ -12,7 +12,7 @@
 | GB/SH commentaries | `stub_routed_to_part` | **Full chapter commentaries** |
 | Bibliography | Part-scoped bib files | **L4/L6 per chapter** |
 | Pin-cite | Part ↔ chapter sync | **Chapter only**; grandfather existing `#anchor` rails |
-| Progress | `PART-*-HYBRID-READINESS` | **`commentary_maturity`** on [`predictive-history-index.json`](../data/predictive-history-index.json) |
+| Progress | `PART-*-HYBRID-READINESS` | **`commentary_maturity`** on [`predictive-history-index.json`](../docs/predictive-history-index.json) |
 | `analysis_depth` | seed / slimmed / stub | **`commentary_maturity`** ladder |
 
 ---
@@ -264,7 +264,7 @@ Use [`lectures/civilization/civ-07/civ-07-commentary.md`](../lectures/civilizati
 - Archive v1 commentary snapshots under [`docs/archive/commentary-v1/`](archive/commentary-v1/) (git tag per wave optional)  
 - Chapter README may show `commentary_maturity` badge  
 - Do not publish to `rbtkhn/predictive-history` mid-wave without explicit operator publish  
-- Progress: `ph-civ commentary status` + [`predictive-history-index.json`](../data/predictive-history-index.json)
+- Progress: `ph-civ commentary status` + [`predictive-history-index.json`](../docs/predictive-history-index.json)
 
 **Phased slices:** Outline (this doc) → A (pilot + validate) → B (ledger) → C (Parts sunset) → D (tiered waves).
 

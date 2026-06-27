@@ -26,7 +26,7 @@ VALIDATION_COVERAGE_MAP = {
     "volume_i_parts_deprecated": "validate:volume-i-parts-deprecated",
     "commentary_canvas": "validate:commentary-canvas",
     "manual": "manual",
-    "aggregate": "data/predictive-history-index.json",
+    "aggregate": "docs/predictive-history-index.json",
 }
 
 
@@ -119,7 +119,7 @@ def static_surface_rows() -> list[dict]:
         ),
         _row(
             surface="predictive_history_index",
-            path="data/predictive-history-index.json",
+            path="docs/predictive-history-index.json",
             surface_class="chapter_catalog",
             status="generated",
             generated_or_hand_authored="generated",
@@ -264,7 +264,7 @@ def aggregate_chapter_rows(cards: list[dict], repo_root: Path) -> list[dict]:
     return [
         _row(
             surface="transcript_commentary_chapters",
-            path="(per data/predictive-history-index.json chapters[].paths)",
+            path="(per docs/predictive-history-index.json chapters[].paths)",
             surface_class="transcript",
             status="canonical",
             source_floor="transcript",
@@ -327,7 +327,7 @@ def render_inventory_payload(cards: list[dict], repo_root: Path) -> dict:
         "fingerprint": fingerprint,
         "generated_at": last_checked,
         "card_count": len(cards),
-        "chapter_catalog": "data/predictive-history-index.json",
+        "chapter_catalog": "docs/predictive-history-index.json",
         "markdown_summary": INVENTORY_MD_REL,
         "surface_count": len(rows),
         "surfaces": rows,

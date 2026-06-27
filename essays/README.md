@@ -16,7 +16,7 @@ Examples: `essay-2025-08-06-vision-mission-goals`, `essay-2025-09-27-the-empire-
 | **Slug** | `substack_slug` from packet frontmatter |
 | **Essay body** | `essays/{source_id}.md` (flat file, no subfolder) |
 | **Commentary** | [`commentaries/{source_id}-commentary.md`](../commentaries/README.md) |
-| **Catalog** | ph-civ essays surface in [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) |
+| **Catalog** | [`predictive-history-essays-index.md`](predictive-history-essays-index.md) · full hub [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) |
 
 **Public today:** 43 essay bodies (`essay-2025-08-06-vision-mission-goals` … `essay-2026-06-19-peace-in-our-time`).
 

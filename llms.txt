@@ -56,7 +56,7 @@ Excluded:
 - Use `docs/chapter-folder-links.md` and `ph-civ link <source_id>` for YouTube comment handoffs built around exact chapter-folder URLs.
 - Use [`docs/predictive-history-index.md`](docs/predictive-history-index.md) when a reader needs public Predictive History source URLs in one place (Video column; JSON: `source_video_url`).
 - Use `docs/predictive-history-index.md` when a reader needs the full catalog of all 204 public chapters (lectures, essays, and provenance interviews) with links to transcript, commentary, folder README, and source video or Substack URL.
-- Use `data/predictive-history-index.json` when a tool needs the same catalog as structured JSON (`chapters`, `by_surface`, paths, and video URLs).
+- Use `docs/predictive-history-index.json` when a tool needs the same catalog as structured JSON (`chapters`, `by_surface`, paths, and video URLs).
 - Use `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` for the trilingual civilizational bridge ambition and localization roadmap: canonical English `ph-civ`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`. This is an identity/growth layer, not a `first_tour` replacement and not a translation dump. `ph-civ-zh` and `ph-civ-ru` are downstream mirrors of canonical `ph-civ`, not sibling sources of truth. `ph-civ-ru` is roadmap metadata only, not a Russian edition or command surface.
 - Do not answer as if this repo owns live workshop editorial state.
 

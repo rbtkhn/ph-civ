@@ -1,11 +1,11 @@
-<!-- predictive-history-index-fingerprint: b8fa9c8affc856a4 -->
+<!-- predictive-history-index-fingerprint: badaffbb2d6c137a -->
 # Predictive History Chapter Index
 
-Canonical catalog of every public Predictive History lecture chapter in this repository.
+Canonical catalog of every public Predictive History chapter in this repository (lectures, Substack essays, and provenance interviews).
 
 - **Card count:** 206
 - **Transcript words (total):** 1,431,564
-- **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`data/predictive-history-index.json`](../data/predictive-history-index.json)
+- **SSOT:** [`data/cards.jsonl`](../data/cards.jsonl) · [`predictive-history-index.json`](predictive-history-index.json)
 - **Regenerate:** `ph-civ index` · `python scripts/generate_ph_civ_index.py` · auto-sync during `ph-civ validate` and publish
 
 Surfaces:
@@ -16,7 +16,17 @@ Surfaces:
 
 Bridge support nodes (`sh-11`, `sh-16`, `sh-17`, `sh-18`) appear in Volume I membership but carry cross-volume routing; check each card's `part` and folder.
 
-YouTube and Substack source URLs appear in the **Video** column below and in [`data/predictive-history-index.json`](../data/predictive-history-index.json) (`source_video_url`). **Words** counts transcript body text only (YAML frontmatter excluded).
+YouTube and Substack source URLs appear in the **Video** column below and in [`predictive-history-index.json`](predictive-history-index.json) (`source_video_url`). **Words** counts transcript body text only (YAML frontmatter excluded).
+
+## Namespace slice indexes
+
+Namespace catalogs beside each corpus (lectures, essays, interviews). This page remains the full cross-surface hub.
+
+| Slice | Markdown | JSON | Cards |
+| --- | --- | --- | ---: |
+| Lectures | [lectures index](../lectures/predictive-history-lectures-index.md) | [json](../lectures/predictive-history-lectures-index.json) | 147 |
+| Essays | [essays index](../essays/predictive-history-essays-index.md) | [json](../essays/predictive-history-essays-index.json) | 43 |
+| Interviews | [interviews index](../interviews/predictive-history-interviews-index.md) | [json](../interviews/predictive-history-interviews-index.json) | 16 |
 
 ## Volume I — Civilization (law discovery)
 

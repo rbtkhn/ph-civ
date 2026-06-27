@@ -1,8 +1,8 @@
-<!-- public-surface-inventory-fingerprint: 00475d55638aac91 -->
+<!-- public-surface-inventory-fingerprint: 65f57f159d24d8ad -->
 # Public surface inventory
 
 - **Surfaces:** 26
-- **Generated:** 2026-06-27T02:59:03Z
+- **Generated:** 2026-06-27T03:20:00Z
 - **Machine SSOT:** [`data/public-surface-inventory.json`](../../data/public-surface-inventory.json)
 - **Regenerate:** `ph-civ surface-inventory`
 
@@ -16,10 +16,10 @@ Per-surface status vocabulary: [public-surface-status.md](../../docs/public-surf
 | `start_here` | bootloader | canonical | START-HERE.md | validate:llm-experience |
 | `strategy_codex_bridge` | bridge | active | docs/strategy-codex-bridge.md | manual |
 | `cards_dataset` | card_dataset | active | data/cards.jsonl | validate:cards |
-| `predictive_history_index` | chapter_catalog | generated | data/predictive-history-index.json | validate:predictive-history-index |
+| `predictive_history_index` | chapter_catalog | generated | docs/predictive-history-index.json | validate:predictive-history-index |
 | `chapter_folders` | chapter_folder | active | lectures/* · ph-civ/chapters/* · ph-apo/chapters/* · book… | validate:cards |
-| `ph_apo_volume_ii_chapters` | chapter_folder | active | lectures/* (+ ph-apo/chapters redirect stubs; book/volume… | data/predictive-history-index.json |
-| `ph_civ_volume_i_chapters` | chapter_folder | active | lectures/* (+ ph-civ/chapters redirect stubs; book/volume… | data/predictive-history-index.json |
+| `ph_apo_volume_ii_chapters` | chapter_folder | active | lectures/* (+ ph-apo/chapters redirect stubs; book/volume… | docs/predictive-history-index.json |
+| `ph_civ_volume_i_chapters` | chapter_folder | active | lectures/* (+ ph-civ/chapters redirect stubs; book/volume… | docs/predictive-history-index.json |
 | `commentary_methodology_v2` | doctrine_doc | canonical | docs/commentary-methodology-v2.md | validate:commentary-canvas |
 | `public_repo_contract` | doctrine_doc | canonical | docs/public-repo-contract.md | manual |
 | `public_surface_status` | doctrine_doc | active | docs/public-surface-status.md | manual |
@@ -35,4 +35,4 @@ Per-surface status vocabulary: [public-surface-status.md](../../docs/public-surf
 | `spine_tour` | route_dataset | active | data/routes/volume-i-spine-tour.json | manual |
 | `public_surface_inventory` | schema_prompt | generated | data/public-surface-inventory.json | manual |
 | `public_surface_triage` | schema_prompt | generated | data/public-surface-triage.json | manual |
-| `transcript_commentary_chapters` | transcript | canonical | (per data/predictive-history-index.json chapters[].paths) | data/predictive-history-index.json |
+| `transcript_commentary_chapters` | transcript | canonical | (per docs/predictive-history-index.json chapters[].paths) | docs/predictive-history-index.json |

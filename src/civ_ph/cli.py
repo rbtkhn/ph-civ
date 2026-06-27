@@ -35,7 +35,10 @@ from .commentary_v2 import (
     validate_v2_pilot,
 )
 from .ph_civ_index import (
+    INDEX_JSON_REL,
+    ensure_all_indexes,
     ensure_ph_civ_index,
+    validate_all_indexes,
     validate_no_legacy_chapter_indexes,
     validate_ph_civ_index,
 )
@@ -626,7 +629,7 @@ def cmd_path(args) -> int:
 def cmd_index(args) -> int:
     cards = load_cards()
     if args.check:
-        errors = validate_ph_civ_index(cards)
+        errors = validate_all_indexes(cards)
         if args.json:
             emit_json({"status": "current" if not errors else "stale", "errors": errors})
             return 1 if errors else 0
@@ -637,7 +640,9 @@ def cmd_index(args) -> int:
         print("status: current")
         return 0
 
-    path, json_path, written = ensure_ph_civ_index(cards, force=args.force)
+    written = ensure_all_indexes(cards, force=args.force)
+    path = DATA_ROOT.parent / "docs" / "predictive-history-index.md"
+    json_path = DATA_ROOT.parent / INDEX_JSON_REL
     payload = {
         "status": "written" if written else "unchanged",
         "markdown_path": str(path.relative_to(DATA_ROOT.parent)),
@@ -840,23 +845,23 @@ def cmd_validate(args) -> int:
     if "ph-civ link" not in chapter_folder_links.get("cli", ""):
         errors.append("llm-experience chapter_folder_links must expose ph-civ link")
     chapter_catalog = llm_experience.get("chapter_catalog", {})
-    if chapter_catalog.get("json_path") != "data/predictive-history-index.json":
-        errors.append("llm-experience chapter_catalog must point to data/predictive-history-index.json")
+    if chapter_catalog.get("json_path") != "docs/predictive-history-index.json":
+        errors.append("llm-experience chapter_catalog must point to docs/predictive-history-index.json")
     if chapter_catalog.get("markdown_path") != "docs/predictive-history-index.md":
         errors.append("llm-experience chapter_catalog must point to docs/predictive-history-index.md")
     if chapter_catalog.get("not_replacement_for") != "first_tour":
         errors.append("llm-experience chapter_catalog must not replace first_tour")
     if "ph-civ index" not in chapter_catalog.get("cli", ""):
         errors.append("llm-experience chapter_catalog must expose ph-civ index")
-    catalog_json = DATA_ROOT / "predictive-history-index.json"
+    catalog_json = DATA_ROOT.parent / "docs" / "predictive-history-index.json"
     if not catalog_json.exists():
-        errors.append("data/predictive-history-index.json must exist as the chapter catalog")
+        errors.append("docs/predictive-history-index.json must exist as the chapter catalog")
     else:
         catalog_payload = json.loads(catalog_json.read_text(encoding="utf-8"))
         if catalog_payload.get("card_count") != len(cards):
-            errors.append("data/predictive-history-index.json card_count must match cards.jsonl")
+            errors.append("docs/predictive-history-index.json card_count must match cards.jsonl")
         if len(catalog_payload.get("chapters", [])) != len(cards):
-            errors.append("data/predictive-history-index.json chapters must match cards.jsonl")
+            errors.append("docs/predictive-history-index.json chapters must match cards.jsonl")
     catalog_md = DATA_ROOT.parent / "docs" / "predictive-history-index.md"
     if not catalog_md.exists():
         errors.append("docs/predictive-history-index.md must exist as the chapter catalog")
@@ -864,23 +869,24 @@ def cmd_validate(args) -> int:
         catalog_md_text = catalog_md.read_text(encoding="utf-8")
         for marker in [
             "Predictive History Chapter Index",
+            "Namespace slice indexes",
             "Volume I — Civilization",
             "Volume II — Apocalypse",
-            "data/predictive-history-index.json",
+            "predictive-history-index.json",
         ]:
             if marker not in catalog_md_text:
                 errors.append(f"docs/predictive-history-index.md missing marker: {marker}")
     unfolding_map = llm_experience.get("unfolding_map", [])
-    for required_path in ["data/predictive-history-index.json", "docs/predictive-history-index.md"]:
+    for required_path in ["docs/predictive-history-index.json", "docs/predictive-history-index.md"]:
         if required_path not in unfolding_map:
             errors.append(f"llm-experience unfolding_map must include {required_path}")
     study_mode = next((mode for mode in llm_experience.get("modes", []) if mode.get("mode") == "study"), {})
-    if "data/predictive-history-index.json" not in study_mode.get("start_files", []):
-        errors.append("llm-experience study mode must start from data/predictive-history-index.json")
+    if "docs/predictive-history-index.json" not in study_mode.get("start_files", []):
+        errors.append("llm-experience study mode must start from docs/predictive-history-index.json")
     catalog_mode = next((mode for mode in llm_experience.get("modes", []) if mode.get("mode") == "catalog"), None)
     if catalog_mode is None:
         errors.append("llm-experience must define catalog mode")
-    elif catalog_mode.get("start_files") != ["data/predictive-history-index.json", "docs/predictive-history-index.md"]:
+    elif catalog_mode.get("start_files") != ["docs/predictive-history-index.json", "docs/predictive-history-index.md"]:
         errors.append("llm-experience catalog mode must start from chapter index files")
     full_context_text = full_context_path.read_text(encoding="utf-8") if full_context_path.exists() else ""
     if full_context_path.exists():
@@ -891,7 +897,7 @@ def cmd_validate(args) -> int:
             "Default mode: `first_tour`",
             "Homer to Tolstoy is the Volume I literary spine",
             "two-volume public artifact",
-            "data/predictive-history-index.json",
+            "docs/predictive-history-index.json",
             "Chapter Catalog",
         ]:
             if marker not in full_context_text:
@@ -1144,8 +1150,8 @@ def cmd_validate(args) -> int:
         else:
             errors.append(f"v2 pilot missing commentary file: {pilot_id}")
     errors.extend(validate_volume_i_parts(require_doorways=True, require_chapter_anchors=True))
-    ensure_ph_civ_index(cards)
-    errors.extend(validate_ph_civ_index(cards))
+    ensure_all_indexes(cards)
+    errors.extend(validate_all_indexes(cards))
     errors.extend(validate_no_legacy_chapter_indexes(repo_root=DATA_ROOT.parent))
     if getattr(args, "surfaces", False) or getattr(args, "surface_inventory", False):
         if getattr(args, "check", False):

@@ -14,15 +14,19 @@ import argparse
 import json
 import re
 import shutil
+import sys
 from dataclasses import dataclass
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+SRC = ROOT / "src"
+if str(SRC) not in sys.path:
+    sys.path.insert(0, str(SRC))
+
+from civ_ph.ph_civ_index import LECTURE_SERIES  # noqa: E402
+
 SKIP_DIRS = {".git", "__pycache__", ".pytest_cache", "node_modules", "runtime"}
 SKIP_FILES = {"relocate_lectures_to_series.py"}
-LECTURE_SERIES = frozenset(
-    {"civilization", "great-books", "geo-strategy", "game-theory", "secret-history"}
-)
 SERIES_FOLDER = {
     "civilization": "civilization",
     "great-books": "great-books",

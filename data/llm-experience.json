@@ -99,10 +99,10 @@
     "not_replacement_for": "first_tour"
   },
   "chapter_catalog": {
-    "json_path": "data/predictive-history-index.json",
+    "json_path": "docs/predictive-history-index.json",
     "markdown_path": "docs/predictive-history-index.md",
     "purpose": "full_chapter_and_lecture_catalog",
-    "instruction": "When the reader needs to browse, search, or resolve any ph-civ or ph-apo chapter by source_id, load data/predictive-history-index.json for structured paths, surfaces, series, and video URLs; use docs/predictive-history-index.md for human-readable tables.",
+    "instruction": "When the reader needs to browse, search, or resolve any ph-civ or ph-apo chapter by source_id, load docs/predictive-history-index.json for structured paths, surfaces, series, and video URLs; use docs/predictive-history-index.md for human-readable tables.",
     "cli": "ph-civ index",
     "not_replacement_for": "first_tour"
   },
@@ -132,7 +132,7 @@
       "mode": "study",
       "instruction": "Study one chapter through its card, transcript, commentary, limits, and return path.",
       "start_files": [
-        "data/predictive-history-index.json",
+        "docs/predictive-history-index.json",
         "data/cards.jsonl",
         "book/"
       ]
@@ -141,7 +141,7 @@
       "mode": "catalog",
       "instruction": "Browse or resolve chapters across both volumes using the unified chapter index.",
       "start_files": [
-        "data/predictive-history-index.json",
+        "docs/predictive-history-index.json",
         "docs/predictive-history-index.md"
       ]
     },
@@ -213,7 +213,7 @@
     "data/bilingual-loop.json",
     "docs/bilingual-civilizational-bridge.md",
     "docs/chapter-folder-links.md",
-    "data/predictive-history-index.json",
+    "docs/predictive-history-index.json",
     "docs/predictive-history-index.md",
     "data/public-surface-inventory.json",
     "docs/public-surface-status.md",

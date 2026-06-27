@@ -38,8 +38,8 @@ Medium-first chapter namespaces at the repository root (siblings to [`book/`](bo
 - 206 chapter commentaries attached to those canonical homes, each seeded as an open commentary canvas.
 - Chapter-folder `README.md` doorways for folder-backed chapters, designed for direct GitHub links in YouTube comments and LLM chats.
 - Canonical public source captures under `sources/` so the repo can function independently of outside workshop storage.
-- Chapter catalog and source URLs: [`docs/predictive-history-index.md`](docs/predictive-history-index.md) and [`data/predictive-history-index.json`](data/predictive-history-index.json) (`source_video_url` per chapter).
-- A full chapter catalog at `docs/predictive-history-index.md` (human) and `data/predictive-history-index.json` (machine) listing all 206 public chapters (lectures, essays, and provenance interviews) with transcript, commentary, folder, and source URLs (regenerate: `ph-civ index`; auto-sync during `ph-civ validate` and publish).
+- Chapter catalog and source URLs: [`docs/predictive-history-index.md`](docs/predictive-history-index.md) and [`docs/predictive-history-index.json`](docs/predictive-history-index.json) (`source_video_url` per chapter).
+- A full chapter catalog at `docs/predictive-history-index.md` (human) and `docs/predictive-history-index.json` (machine) listing all 206 public chapters (lectures, essays, and provenance interviews) with transcript, commentary, folder, and source URLs (regenerate: `ph-civ index`; auto-sync during `ph-civ validate` and publish).
 - Two conceptual volumes: Volume I / Civilization / `ph-civ`, and Volume II / Apocalypse / `ph-apo`.
 - A canonical two-volume reader architecture under `book/volume-i-civilization/` and `book/volume-ii-apocalypse/`, with older multi-volume source provenance kept subordinate; see [From The Old Seven Volumes To The Current Two](book/seven-volume-to-two-volume.md).
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, Secret History, and Essays.

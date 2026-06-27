@@ -286,14 +286,14 @@ def test_llm_native_bootloader_contract(capsys):
     assert experience["chapter_folder_links"]["reader_doc"] == "docs/chapter-folder-links.md"
     assert experience["chapter_folder_links"]["default_mode"] == "study"
     assert experience["chapter_folder_links"]["cli"] == "ph-civ link <source_id>"
-    assert experience["chapter_catalog"]["json_path"] == "data/predictive-history-index.json"
+    assert experience["chapter_catalog"]["json_path"] == "docs/predictive-history-index.json"
     assert experience["chapter_catalog"]["markdown_path"] == "docs/predictive-history-index.md"
     assert experience["chapter_catalog"]["not_replacement_for"] == "first_tour"
-    assert "data/predictive-history-index.json" in experience["unfolding_map"]
+    assert "docs/predictive-history-index.json" in experience["unfolding_map"]
     study_mode = next(mode for mode in experience["modes"] if mode["mode"] == "study")
-    assert "data/predictive-history-index.json" in study_mode["start_files"]
+    assert "docs/predictive-history-index.json" in study_mode["start_files"]
     catalog_mode = next(mode for mode in experience["modes"] if mode["mode"] == "catalog")
-    assert catalog_mode["start_files"] == ["data/predictive-history-index.json", "docs/predictive-history-index.md"]
+    assert catalog_mode["start_files"] == ["docs/predictive-history-index.json", "docs/predictive-history-index.md"]
     assert experience["public_surfaces"]["volume_i"]["surface"] == "ph-civ"
     assert experience["public_surfaces"]["volume_ii"]["surface"] == "ph-apo"
     assert "museum" not in experience["public_surfaces"]
@@ -310,7 +310,7 @@ def test_llm_native_bootloader_contract(capsys):
     assert payload["first_tour"]["path"] == "data/routes/first-tour.json"
     assert payload["bilingual_bridge"]["path"] == "data/bilingual-loop.json"
     assert payload["chapter_folder_links"]["reader_doc"] == "docs/chapter-folder-links.md"
-    assert payload["chapter_catalog"]["json_path"] == "data/predictive-history-index.json"
+    assert payload["chapter_catalog"]["json_path"] == "docs/predictive-history-index.json"
     assert payload["first_seed"]["route_ids"] == load_route_seed()["route_ids"]
 
 
@@ -339,7 +339,7 @@ def test_llms_full_context_packet_exists():
     assert "Chapter-Folder Links" in text
     assert "not a replacement for `first_tour`" in text
     assert "docs/predictive-history-index.md" in text
-    assert "data/predictive-history-index.json" in text
+    assert "docs/predictive-history-index.json" in text
     assert "Chapter Catalog" in text
 
 
@@ -349,13 +349,26 @@ def test_no_legacy_chapter_indexes():
         ROOT / "data" / "ph-civ-index.json",
         ROOT / "docs" / "source-video-index.md",
         ROOT / "data" / "index.json",
+        ROOT / "data" / "predictive-history-index.json",
     ]
     for path in legacy_paths:
         assert not path.exists(), f"legacy index must be removed: {path}"
 
 
+def test_ph_civ_index_hub_links_namespace_slices():
+    md = (ROOT / "docs" / "predictive-history-index.md").read_text(encoding="utf-8")
+    assert "## Namespace slice indexes" in md
+    assert "../lectures/predictive-history-lectures-index.md" in md
+    assert "../essays/predictive-history-essays-index.md" in md
+    assert "../interviews/predictive-history-interviews-index.md" in md
+    assert "| Lectures |" in md
+    assert "| 147 |" in md
+    assert "| 43 |" in md
+    assert "| 16 |" in md
+
+
 def test_ph_civ_index_provenance_section():
-    payload = json.loads((ROOT / "data" / "predictive-history-index.json").read_text(encoding="utf-8"))
+    payload = json.loads((ROOT / "docs" / "predictive-history-index.json").read_text(encoding="utf-8"))
     assert "provenance" in payload["by_surface"]
     md = (ROOT / "docs" / "predictive-history-index.md").read_text(encoding="utf-8")
     assert "## Provenance (source-family residue)" in md
@@ -373,7 +386,7 @@ def test_ph_civ_index_surfaces_youtube_urls():
 
 
 def test_ph_civ_index_transcript_word_counts():
-    payload = json.loads((ROOT / "data" / "predictive-history-index.json").read_text(encoding="utf-8"))
+    payload = json.loads((ROOT / "docs" / "predictive-history-index.json").read_text(encoding="utf-8"))
     chapters = payload["chapters"]
     assert payload["schema_version"] == 3
     assert len(chapters) == 206
@@ -384,6 +397,45 @@ def test_ph_civ_index_transcript_word_counts():
     civ01 = next(chapter for chapter in chapters if chapter["source_id"] == "civ-01")
     assert civ01["transcript_word_count"] > 1000
     assert payload["transcript_word_total"] > 1_000_000
+
+
+def test_lectures_index_exists_and_matches_cards():
+    payload = json.loads(
+        (ROOT / "lectures" / "predictive-history-lectures-index.json").read_text(encoding="utf-8")
+    )
+    assert payload["scope"] == "lectures"
+    assert payload["hub_index"] == "docs/predictive-history-index.md"
+    assert payload["card_count"] == 147
+    assert len(payload["chapters"]) == 147
+    md = (ROOT / "lectures" / "predictive-history-lectures-index.md").read_text(encoding="utf-8")
+    assert md.startswith("<!-- predictive-history-lectures-index-fingerprint:")
+    assert "civilization/civ-01/" in md
+
+
+def test_essays_index_exists_and_matches_cards():
+    payload = json.loads(
+        (ROOT / "essays" / "predictive-history-essays-index.json").read_text(encoding="utf-8")
+    )
+    assert payload["scope"] == "essays"
+    assert payload["hub_index"] == "docs/predictive-history-index.md"
+    assert payload["card_count"] == 43
+    assert len(payload["chapters"]) == 43
+    md = (ROOT / "essays" / "predictive-history-essays-index.md").read_text(encoding="utf-8")
+    assert md.startswith("<!-- predictive-history-essays-index-fingerprint:")
+    assert "../commentaries/" in md
+
+
+def test_interviews_index_exists_and_matches_cards():
+    payload = json.loads(
+        (ROOT / "interviews" / "predictive-history-interviews-index.json").read_text(encoding="utf-8")
+    )
+    assert payload["scope"] == "interviews"
+    assert payload["hub_index"] == "docs/predictive-history-index.md"
+    assert payload["card_count"] == 16
+    assert len(payload["chapters"]) == 16
+    md = (ROOT / "interviews" / "predictive-history-interviews-index.md").read_text(encoding="utf-8")
+    assert md.startswith("<!-- predictive-history-interviews-index-fingerprint:")
+    assert "interview-2025-10-30-cyrus-janssen/" in md
 
 
 def test_bilingual_bridge_contract(capsys):

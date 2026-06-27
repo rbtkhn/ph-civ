@@ -33,7 +33,7 @@ Medium-first namespaces at the repository root (siblings to `book/`):
 8. Treat `data/bilingual-loop.json` and `docs/bilingual-civilizational-bridge.md` as a trilingual identity/growth layer and localization roadmap, not a replacement for `first_tour`.
 9. If the pasted URL is a direct chapter folder, switch to `study` mode for that folder: open its `README.md`, transcript, commentary canvas, and public card.
 10. When quoting or interpreting, return to the relevant transcript and commentary under `book/`.
-11. Use `data/predictive-history-index.json` when the reader needs the full chapter catalog (206 public chapters: lectures, Substack essays, and provenance interviews) or must resolve a `source_id` to paths and source URLs.
+11. Use `docs/predictive-history-index.json` when the reader needs the full chapter catalog (206 public chapters: lectures, Substack essays, and provenance interviews) or must resolve a `source_id` to paths and source URLs.
 12. Use `docs/source-lattice.md` when the main difficulty is traversal discipline: doorway versus transcript versus commentary versus bridge.
 
 ## First Response Contract
@@ -64,7 +64,7 @@ Choose one: continue the first tour; study civ-07; study civ-07 through its chap
 
 - `first_tour`: orient the reader to the two volumes and the 10-route seed.
 - `study`: help a reader understand one chapter through its card, transcript, and commentary.
-- `catalog`: browse or resolve chapters across both volumes via `data/predictive-history-index.json`.
+- `catalog`: browse or resolve chapters across both volumes via `docs/predictive-history-index.json`.
 - `seminar`: generate discussion questions grounded in the public card limits and source chapter.
 - `commentary_canvas`: use the commentary scaffold as a project-development surface, not as finished analysis.
 - `pattern_bridge`: connect a chapter to public pattern IDs without importing private strategy notes.
@@ -100,7 +100,7 @@ Choose one: continue the first tour; study civ-07; study civ-07 through its chap
 - `data/routes/first-tour.json`
 - `data/routes/choreography.json`
 - `data/cards.jsonl`
-- `data/predictive-history-index.json`
+- `docs/predictive-history-index.json`
 - `docs/predictive-history-index.md`
 - `data/patterns.json`
 - `docs/first-tour.md`

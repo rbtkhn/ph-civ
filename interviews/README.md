@@ -15,7 +15,7 @@ Examples: `interview-2025-11-24-glenn-diesen`, `interview-2026-05-07-diary-of-a-
 | **Date** | YouTube upload date (pinned in [`data/interviews/manifest.json`](../data/interviews/manifest.json)) |
 | **Host slug** | Lowercase hyphenated host or show name |
 | **Folder** | `interviews/{source_id}/` with transcript, commentary canvas, and README |
-| **Catalog** | Provenance surface in [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) |
+| **Catalog** | [`predictive-history-interviews-index.md`](predictive-history-interviews-index.md) · full hub [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) |
 
 **Public today:** 16 interview chapter packets (`interview-2025-10-30-cyrus-janssen` … `interview-2026-05-07-diary-of-a-ceo`).
 
@@ -47,7 +47,7 @@ Examples: `interview-2025-11-24-glenn-diesen`, `interview-2026-05-07-diary-of-a-
 
 Cards use `part: provenance`, `series: interviews`, `derived_corpus: provenance`, `placement_weight: light`. They appear in the **Provenance** section of the chapter catalog; they are not foreground Volume I/II spine routes.
 
-Related: [`book/provenance/`](../book/provenance/README.md) · catalog [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) · intake manifest [`data/interviews/manifest.json`](../data/interviews/manifest.json).
+Related: [`book/provenance/`](../book/provenance/README.md) · interviews slice [`predictive-history-interviews-index.md`](predictive-history-interviews-index.md) · full hub [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) · intake manifest [`data/interviews/manifest.json`](../data/interviews/manifest.json).
 
 ## DOAC #16 — verbatim swap + section restore
 
@@ -75,6 +75,7 @@ Curated interview transcripts use **`### Title Case — …`** section headings,
 | Interview | Patch script |
 | --- | --- |
 | [`interview-2026-05-07-diary-of-a-ceo`](interview-2026-05-07-diary-of-a-ceo/) | `python scripts/patch_doac_sections_asr.py` |
+| [`interview-2026-03-16-endgame`](interview-2026-03-16-endgame/) | `python scripts/patch_endgame_sections_asr.py` |
 | [`interview-2026-03-20-tucker-carlson`](interview-2026-03-20-tucker-carlson/) | `python scripts/patch_tucker_sections_asr.py` |
 | [`interview-2026-03-02-breaking-points`](interview-2026-03-02-breaking-points/) | `python scripts/patch_breaking_points_sections_asr.py` |
 | [`interview-2026-04-07-patrick-bet-david`](interview-2026-04-07-patrick-bet-david/) | `python scripts/patch_pbd_sections_asr.py` |
@@ -92,11 +93,13 @@ Curated interview transcripts use **`### Title Case — …`** section headings,
 
 After any patch: `python -m civ_ph.cli index --force` and `python -m civ_ph.cli validate`.
 
+Shared helpers (`insert_sections`, `write_sectioned_transcript`, `common_asr_cleanup`, …): [`scripts/interview_transcript_sections.py`](../scripts/interview_transcript_sections.py).
+
 ### Section audit (2026-06-25)
 
 | Status | Interviews |
 | --- | --- |
-| **Curated Title Case sections** | All 16 interview packets (#1–#16): Cyrus Janssen, Glenn Diesen (Nov/Jan/Jan 26/Apr), Danny Haiphong, Dimitri Lascaris, Breaking Points, Dialogue Works, Sneako, Endgame, Tucker, Jay Shapiro, PBD, Sneako–Dugin, DOAC |
+| **Curated Title Case sections** | All 16 interview packets (#1–#16): Cyrus Janssen, Glenn Diesen (Nov/Jan/Jan 26/Apr), Danny Haiphong, Dimitri Lascaris, Breaking Points, Dialogue Works, Sneako, **Endgame (18 rails)**, Tucker, Jay Shapiro, PBD, Sneako–Dugin, DOAC |
 | **No `###` sections** (flat speaker-labeled transcript) | — (none) |
 
 No lowercase slug headers remain. PH-TRANSCRIPT-EDIT Title Case pass is **complete** for all curated interview transcripts.
