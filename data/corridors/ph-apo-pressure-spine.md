@@ -82,7 +82,7 @@ Those should be treated as later extension candidates, not as reasons to change 
 
 This spine inherits the Tolstoy bridge rather than replacing it.
 
-- [Predictive History After Tolstoy](../../docs/predictive-history-after-tolstoy.md) explains the conceptual handoff from Volume I into Volume II
+- [Predictive History After Tolstoy](../../docs/routes/predictive-history-after-tolstoy.md) explains the conceptual handoff from Volume I into Volume II
 - [The Tolstoy Question](../../corpus/cross-volume/tolstoy-question.md) supplies the causation hinge
 - `sh-16` is where that hinge becomes routed inside the application semester
 

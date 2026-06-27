@@ -32,4 +32,4 @@ The strongest immediately visible shift is the lecture's opening self-definition
 - Substack community formalization
 - long-horizon school ambition
 
-For the higher-order reading of what that change means inside `ph-apo`, see [GT29 Capstone and the School Turn](../../../docs/gt-29-capstone-and-the-school-turn.md).
+For the higher-order reading of what that change means inside `ph-apo`, see [GT29 Capstone and the School Turn](../../../docs/methodology/gt-29-capstone-and-the-school-turn.md).

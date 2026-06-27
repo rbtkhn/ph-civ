@@ -10,4 +10,4 @@ Start with the [interwoven civilization spine](../interwoven-reader/README.md) f
 - [Homer to Tolstoy Source-Lattice](../../../data/corridors/homer-to-tolstoy-source-lattice.md)
 - [Plato to Hegel](../../../data/corridors/plato-to-hegel.md)
 - [From Civilization To Apocalypse](../../../book/parts/civilization-to-apocalypse.md)
-- [Civilization to Apocalypse Bridge-Lattice](../../../docs/civilization-to-apocalypse-bridge-lattice.md)
+- [Civilization to Apocalypse Bridge-Lattice](../../../docs/routes/civilization-to-apocalypse-bridge-lattice.md)

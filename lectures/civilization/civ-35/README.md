@@ -11,7 +11,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 1. Doorway — this README tells you what the packet is and what limits apply.
 2. Primary source floor — read the transcript and public source capture first.
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
-4. Chapter commentary — full L0–6 in the companion commentary file (see docs/commentary-methodology-v2.md).
+4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
 5. Viking pair forward — after this packet, read [civ-36](../civ-36/README.md) (Norse memory / oral–literary); pairs [Part VI § civ-34](../../../book/volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#civ-34) Holy Roman fiction close → Part VII world-order open.
 6. Public card — orientation payload after the chapter and Part floors are open.
 7. Widened interpretation — plural Eurasian orders (`civ-35`–`39`) before [Homer to Dante](../../../data/corridors/homer-to-dante.md) corridor close @ `civ-41`; do not skip the world-order pause.

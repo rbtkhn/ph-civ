@@ -11,7 +11,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 1. Doorway — this README tells you what the packet is and what limits apply.
 2. Primary source floor — read the transcript and public source capture first.
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
-4. Chapter commentary — full L0–6 in the companion commentary file (see docs/commentary-methodology-v2.md).
+4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
 5. Forward bridge — after this packet, read [civ-38](../civ-38/README.md) (China twilight); follows [civ-36](../civ-36/README.md) Viking pair close.
 6. Public card — orientation payload after the chapter and Part floors are open.
 7. Widened interpretation — plural Eurasian orders (`civ-35`–`39`) before [Homer to Dante](../../../data/corridors/homer-to-dante.md) corridor close @ `civ-41`.

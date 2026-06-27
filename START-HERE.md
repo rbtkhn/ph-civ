@@ -37,7 +37,7 @@ Medium-first namespaces at the repository root (siblings to `book/`):
 9. If the pasted URL is a direct chapter folder, switch to `study` mode for that folder: open its `README.md`, transcript, commentary canvas, and public card.
 10. When quoting or interpreting, return to the relevant transcript and commentary under `book/` or root corpora.
 11. Use `docs/predictive-history-index.json` when the reader needs the full chapter catalog or must resolve a `source_id` to paths and source URLs.
-12. Use `docs/source-lattice.md` when the main difficulty is traversal discipline: doorway versus transcript versus commentary versus bridge.
+12. Use `docs/methodology/source-lattice.md` when the main difficulty is traversal discipline: doorway versus transcript versus commentary versus bridge.
 
 ## First Response Contract
 
@@ -108,7 +108,7 @@ Choose one: continue the first tour; study civ-07; study civ-07 through its chap
 - `data/patterns.json`
 - `docs/onboarding/first-tour.md`
 - `docs/archive/two-volume-ph-civ-apo-deprecated.md`
-- `docs/source-lattice.md`
+- `docs/methodology/source-lattice.md`
 - `data/bilingual-loop.json`
 - `docs/localization/bilingual-civilizational-bridge.md`
 - `docs/onboarding/chapter-folder-links.md`

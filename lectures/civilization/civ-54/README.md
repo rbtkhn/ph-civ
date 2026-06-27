@@ -11,7 +11,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 1. Doorway — this README tells you what the packet is and what limits apply.
 2. Primary source floor — read the transcript and public source capture first.
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
-4. Chapter commentary — full L0–6 in the companion commentary file (see docs/commentary-methodology-v2.md).
+4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
 5. Public card — orientation payload after the chapter and Part floors are open.
 6. Widened interpretation — [Part IX `civ-53`](../civ-53/README.md) ingress; forward [civ-55](../civ-55/README.md); [plato-to-hegel](../../../data/corridors/plato-to-hegel.md) deferred to Kant/Hegel @ `civ-55`.
 

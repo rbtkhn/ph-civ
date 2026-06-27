@@ -16,7 +16,7 @@ OLD_STEP = re.compile(
 )
 NEW_STEP = (
     "4. Chapter commentary — full L0–6 in the companion commentary file "
-    "(see docs/commentary-methodology-v2.md).\n"
+    "(see docs/methodology/commentary-methodology-v2.md).\n"
 )
 OLD_LATTICE = re.compile(
     r"Use a source-lattice reading order: README first, transcript second, "

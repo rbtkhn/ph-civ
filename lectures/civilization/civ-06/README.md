@@ -11,7 +11,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 1. Doorway — this README tells you what the packet is and what limits apply.
 2. Primary source floor — read the transcript and public source capture first.
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
-4. Chapter commentary — full L0–6 in the companion commentary file (see docs/commentary-methodology-v2.md).
+4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
 6. Part II egress — after this packet, open [Part II § civ-07](../../../book/volume-i-civilization/parts/part-02-hellenic-world-commentary.md#civ-07) (Homer / post-collapse rebirth).
 7. Public card — orientation payload after the chapter and Part floors are open.
 8. Widened interpretation — generative collapse thesis; do not skip Part I ledger close.

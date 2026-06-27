@@ -67,7 +67,7 @@ Tolstoy should be read here in two roles at once:
 - terminal author of the Volume I literary spine
 - causation hinge into the Civilization-to-Apocalypse bridge
 
-The literary route therefore does not simply stop at Tolstoy. It passes through [The Tolstoy Question](../../corpus/cross-volume/tolstoy-question.md) and the bridge note [Predictive History After Tolstoy](../../docs/predictive-history-after-tolstoy.md), where literary civilization becomes pressure analysis.
+The literary route therefore does not simply stop at Tolstoy. It passes through [The Tolstoy Question](../../corpus/cross-volume/tolstoy-question.md) and the bridge note [Predictive History After Tolstoy](../../docs/routes/predictive-history-after-tolstoy.md), where literary civilization becomes pressure analysis.
 
 ## Dante Continuation Note
 

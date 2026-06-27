@@ -11,7 +11,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 1. Doorway — this README tells you what the packet is and what limits apply.
 2. Primary source floor — read the transcript and public source capture first.
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
-4. Chapter commentary — full L0–6 in the companion commentary file (see docs/commentary-methodology-v2.md).
+4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
 5. Forward bridge — after Part VII § `civ-40`, read [Part VII § civ-41](../../../book/volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-41) (Dante quiet revolution close); pairs [Part VI § gb-09](../../../book/volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-09) anti-Church love frame.
 6. Public card — orientation payload after the chapter and Part floors are open.
 7. Widened interpretation — [Homer to Dante](../../../data/corridors/homer-to-dante.md) corridor step 9 @ `civ-41` only after above are stable; do not skip world-order pause (`civ-35`–`39`).

@@ -29,7 +29,7 @@ Full legacy ↔ dated crosswalk: [`data/essays/manifest.json`](../data/essays/ma
 - Sequential `essay-NN` folder URLs (2026-06-26 dated-ID cut)
 - Per-essay subfolder URLs `…/essays/{source_id}/` (2026-06-26 flat layout cut) — use `essays/{source_id}.md` instead
 
-Substack canonical URLs unchanged. See [`docs/essay-dated-id-migration.md`](../docs/essay-dated-id-migration.md).
+Substack canonical URLs unchanged. See [`docs/migrations/essay-dated-id-migration.md`](../docs/migrations/essay-dated-id-migration.md).
 
 ## Packet shape
 

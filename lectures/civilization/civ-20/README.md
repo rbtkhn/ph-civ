@@ -13,7 +13,7 @@ Treat this chapter folder as a small source-lattice:
 1. Doorway - this README tells you what the packet is and what limits apply.
 2. Primary source floor - read the transcript and public source capture first.
 3. Chapter commentary - full L0–6 commentary in the companion commentary file.
-4. Chapter commentary — full L0–6 in the companion commentary file (see docs/commentary-methodology-v2.md).
+4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
 5. Public card - orientation payload after the chapter and Part floors are open.
 6. Widened interpretation - corridors and bridges only after the above are stable.
 

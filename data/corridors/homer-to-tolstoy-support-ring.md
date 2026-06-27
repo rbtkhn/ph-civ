@@ -86,7 +86,7 @@ The support ring should make the Tolstoy end of the route easier to read:
 
 - `sh-16` completes the literary path as a routed modern coda
 - [The Tolstoy Question](../../corpus/cross-volume/tolstoy-question.md) turns that coda into a causation hinge
-- [Predictive History After Tolstoy](../../docs/predictive-history-after-tolstoy.md) carries the route into the Civilization-to-Apocalypse bridge
+- [Predictive History After Tolstoy](../../docs/routes/predictive-history-after-tolstoy.md) carries the route into the Civilization-to-Apocalypse bridge
 
 The support ring therefore strengthens the route, but does not blur the distinction between Volume I literary discovery and Volume II pressure application.
 

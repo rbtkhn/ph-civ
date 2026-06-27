@@ -43,7 +43,7 @@ Open the route through the public orientation surfaces first:
 - [Homer to Tolstoy](homer-to-tolstoy.md)
 - [Homer to Tolstoy Support Ring](homer-to-tolstoy-support-ring.md)
 - [Two Volumes, One Reader Map](../../docs/archive/two-volumes-one-reader-map.md)
-- [Source-Lattice](../../docs/source-lattice.md)
+- [Source-Lattice](../../docs/methodology/source-lattice.md)
 
 The doorway tells the reader what kind of object this is:
 
@@ -163,7 +163,7 @@ Use when `civ-51` needs a stronger Britain-and-empire scaffold.
 ### Tolstoy bridge support
 
 - [The Tolstoy Question](../../corpus/cross-volume/tolstoy-question.md)
-- [Predictive History After Tolstoy](../../docs/predictive-history-after-tolstoy.md)
+- [Predictive History After Tolstoy](../../docs/routes/predictive-history-after-tolstoy.md)
 
 Use when the reader is ready to cross from literary civilization into historical
 causation and Apocalypse-side pressure reading.

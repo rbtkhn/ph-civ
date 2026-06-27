@@ -74,7 +74,7 @@ Planning doc for extending the **Part II/III hybrid model** (thin chapter + thic
 | Transcript YAML `part_id` + Part paths | **Done** — `civ-18`–`23` |
 | Validator Part IV README checks | **Not started** |
 | Transcript section anchors (`civ-21`–`23`) | **Done** — Phase 1 |
-| `docs/commentary-canvas.md` / `source-lattice.md` Part IV example | **Done** — Phase 3 |
+| `docs/methodology/commentary-canvas.md` / `source-lattice.md` Part IV example | **Done** — Phase 3 |
 
 ---
 
@@ -119,7 +119,7 @@ Working mechanism chain to validate against lectures:
 
 - Extend `volume_i_parts.py` Part IV checks (mirror `part-03-roman-imperium` block)
 - Update `parts/README.md` hybrid pilot list
-- Extend `docs/commentary-canvas.md` / `docs/source-lattice.md` with Part IV `civ-18`–`23` example
+- Extend `docs/methodology/commentary-canvas.md` / `docs/methodology/source-lattice.md` with Part IV `civ-18`–`23` example
 - Section anchors on `civ-18`–`civ-20` transcripts — **deferred** (line refs sufficient for slim floor)
 
 ---

@@ -139,7 +139,7 @@ Planning doc for extending the **Part II–V hybrid model** (thin chapter + thic
 ### Phase 3 — Validator + docs (~half session) — **Done** (2026-06-09)
 
 - Extend `volume_i_parts.py` Part VI checks (mirror Part V) ✓
-- Update `parts/README.md`, `docs/commentary-canvas.md`, `docs/source-lattice.md` ✓
+- Update `parts/README.md`, `docs/methodology/commentary-canvas.md`, `docs/methodology/source-lattice.md` ✓
 - Promote `gb-12` from YouTube ASR (`scripts/promote_gb_12_mirror.py`) ✓
 
 ---

@@ -117,7 +117,7 @@ Planning doc for extending the **Part II/III/IV hybrid model** (thin chapter + t
 
 - Extend `volume_i_parts.py` Part V checks (mirror Part IV)
 - Update `parts/README.md` hybrid pilot list
-- Extend `docs/commentary-canvas.md` / `docs/source-lattice.md` with Part V `civ-24`–`28` + `sh-18` pointer example
+- Extend `docs/methodology/commentary-canvas.md` / `docs/methodology/source-lattice.md` with Part V `civ-24`–`28` + `sh-18` pointer example
 
 ---
 

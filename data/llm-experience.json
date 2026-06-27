@@ -139,7 +139,7 @@
         "data/weave/volume-i-companions.json",
         "data/routes/volume-i-spine-tour.json",
         "book/volume-i-civilization/interwoven-reader/README.md",
-        "docs/commentary-methodology-v2.md"
+        "docs/methodology/commentary-methodology-v2.md"
       ]
     },
     {
@@ -172,7 +172,7 @@
       "mode": "commentary_canvas",
       "instruction": "Use the commentary scaffold as a project-development canvas, not as finished analysis.",
       "start_files": [
-        "docs/commentary-canvas.md",
+        "docs/methodology/commentary-canvas.md",
         "book/"
       ]
     },
@@ -181,7 +181,7 @@
       "instruction": "Connect chapters to public pattern IDs without importing private strategy notes.",
       "start_files": [
         "data/patterns.json",
-        "docs/pattern-calibration.md"
+        "docs/methodology/pattern-calibration.md"
       ]
     },
     {
@@ -225,7 +225,7 @@
     "data/routes/volume-i-spine-tour.json",
     "data/parts/volume-i-parts.deprecated.json",
     "book/volume-i-civilization/interwoven-reader/README.md",
-    "docs/commentary-methodology-v2.md",
+    "docs/methodology/commentary-methodology-v2.md",
     "data/routes/seed.json",
     "data/routes/first-tour.json",
     "data/routes/choreography.json",

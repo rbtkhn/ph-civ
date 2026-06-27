@@ -216,7 +216,7 @@ def update_readiness() -> None:
         "| Chapter Layer 0–2 | All six chapters have transcript-anchored claims + line/section refs | **Met** — 6–8 L2 claims each; transcript `###` sections + `#anchor` refs (pin-cite prep 2026-06-09); chapter `analysis_depth: layer2_drafted` |",
     )
     text = text.replace(
-        "**Pin-cite debt:** **High** — all six chapters: L2 refs → `*-transcript.md:32` only; transcripts need `###` section rails per [`docs/PIN-CITE-DISCIPLINE.md`](../../../docs/PIN-CITE-DISCIPLINE.md). No Part VI sweep script yet.",
+        "**Pin-cite debt:** **High** — all six chapters: L2 refs → `*-transcript.md:32` only; transcripts need `###` section rails per [`docs/methodology/PIN-CITE-DISCIPLINE.md`](../../../docs/methodology/PIN-CITE-DISCIPLINE.md). No Part VI sweep script yet.",
         "**Pin-cite debt:** **Cleared** (2026-06-09) — `civ-29`–`34` transcripts sectioned; chapter L2 refs use `#anchor` slugs (`scripts/part_vi_pin_cite_prep.py`).",
     )
     text = text.replace(

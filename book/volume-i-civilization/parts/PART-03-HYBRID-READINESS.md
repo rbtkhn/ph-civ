@@ -21,7 +21,7 @@ Planning doc for extending the **Part II hybrid model** (thin chapter + thick Pa
 | Gate | Threshold | Current (2026-06-09) |
 |------|-----------|----------------------|
 | Chapter Layer 0–2 | All four chapters have transcript-anchored claims + line/section refs | **Met** — 8 L2 claims each; transcript `###` sections + `#anchor` refs (pin-cite sweep 2026-06-09); chapter `analysis_depth: layer2_drafted` |
-| Pin-cite (Tier A) | L2 rows use `#anchor`, not blanket `:32` | **Cleared** — `civ-14`–`17` via `part_ii_iii_pin_cite_sweep.py`; discipline: [`docs/PIN-CITE-DISCIPLINE.md`](../../../docs/PIN-CITE-DISCIPLINE.md) |
+| Pin-cite (Tier A) | L2 rows use `#anchor`, not blanket `:32` | **Cleared** — `civ-14`–`17` via `part_ii_iii_pin_cite_sweep.py`; discipline: [`docs/methodology/PIN-CITE-DISCIPLINE.md`](../../../docs/methodology/PIN-CITE-DISCIPLINE.md) |
 | Chapter slimming | Willing to move Layers 3–6 to Part apparatus | **Met** — civ-14–17 thin Layer 0–2 + Part pointer |
 | GB weave | `gb-08` @ `civ-17` interwoven; `gb-07` anti-Homer lecture matures Part link | **Met** — gb-08 Part section + transcript anchors; gb-07 Part II stub |
 | Cross-Part bridge | Part II Homer grammar ↔ Part III Virgil inversion documented | **Met** — gb-07 pointer in Part II; civ-17 ↔ Part III gb-08 |
@@ -69,7 +69,7 @@ Planning doc for extending the **Part II hybrid model** (thin chapter + thick Pa
 | `gb-08-commentary.md` stub route | **Done** |
 | Validator Part III README checks | **Done** |
 | `gb-08-transcript` section anchors | **Done** — Phase 3 |
-| `docs/commentary-canvas.md` / `docs/source-lattice.md` | **Done** — Part III + GB stub pattern |
+| `docs/methodology/commentary-canvas.md` / `docs/methodology/source-lattice.md` | **Done** — Part III + GB stub pattern |
 | Part II `gb-02`/`gb-05`/`gb-07` stub route | **Done** — cross-part with Part II |
 
 ---
@@ -106,7 +106,7 @@ Working mechanism chain to validate against lectures:
 ### Phase 3 — Validator + docs (~half session) — **Done**
 
 - Extend `volume_i_parts.py` Part III checks (mirror `part-02-hellenic-world` block)
-- Update `docs/commentary-canvas.md` / `docs/source-lattice.md` with Part III example
+- Update `docs/methodology/commentary-canvas.md` / `docs/methodology/source-lattice.md` with Part III example
 - Section anchors on `gb-08-transcript.md`
 - Stub-route Part II `gb-02`/`gb-05`/`gb-07`
 

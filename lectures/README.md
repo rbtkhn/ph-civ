@@ -16,4 +16,4 @@ Repo path: **`lectures/`** at the repository root (sibling to [`essays/`](../ess
 
 Canonical lecture packets live under `lectures/<series>/`; legacy `book/volume-*` and `ph-civ`/`ph-apo` chapter paths are compat redirect stubs.
 
-Related: [`docs/PH-LECTURES-RELOCATION.md`](../docs/PH-LECTURES-RELOCATION.md) · full hub [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) · lectures slice [`predictive-history-lecture-index.md`](predictive-history-lecture-index.md).
+Related: [`docs/migrations/PH-LECTURES-RELOCATION.md`](../docs/migrations/PH-LECTURES-RELOCATION.md) · full hub [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) · lectures slice [`predictive-history-lecture-index.md`](predictive-history-lecture-index.md).

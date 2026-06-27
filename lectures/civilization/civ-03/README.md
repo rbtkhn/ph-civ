@@ -11,7 +11,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 1. Doorway — this README tells you what the packet is and what limits apply.
 2. Primary source floor — read the transcript and public source capture first.
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
-4. Chapter commentary — full L0–6 in the companion commentary file (see docs/commentary-methodology-v2.md).
+4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
 5. Great Books weave — [gb-04](../../great-books/gb-04/README.md) @ `civ-03`; [Part I § gb-04](../../../book/volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#gb-04).
 6. Public card — orientation payload after the chapter and Part floors are open.
 7. Widened interpretation — Yamnaya preview in lecture; forward [civ-04](../civ-04/README.md) (Gimbutas hinge).

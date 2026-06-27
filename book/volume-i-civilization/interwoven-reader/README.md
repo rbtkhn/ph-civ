@@ -156,5 +156,5 @@ Tolstoy remains explicit here because the literary arc does not simply stop at D
 - [Homer to Tolstoy](../../../data/corridors/homer-to-tolstoy.md)
 - [Homer to Tolstoy Source-Lattice](../../../data/corridors/homer-to-tolstoy-source-lattice.md)
 - [From Civilization To Apocalypse](../../parts/civilization-to-apocalypse.md)
-- [Civilization to Apocalypse Bridge-Lattice](../../docs/civilization-to-apocalypse-bridge-lattice.md)
+- [Civilization to Apocalypse Bridge-Lattice](../../docs/routes/civilization-to-apocalypse-bridge-lattice.md)
 

@@ -1,9 +1,9 @@
 {
   "schema_version": 4,
   "primary_artifact": "namespace_catalog",
-  "fingerprint": "badaffbb2d6c137a",
+  "fingerprint": "1fa999507c1aeedf",
   "card_count": 206,
-  "transcript_word_total": 1431564,
+  "transcript_word_total": 1431565,
   "ssot": "data/cards.jsonl",
   "markdown_index": "docs/predictive-history-index.md",
   "catalog_hub": {
@@ -98,7 +98,7 @@
     },
     "game-theory": {
       "chapter_count": 29,
-      "transcript_word_total": 219620
+      "transcript_word_total": 219621
     },
     "geo-strategy": {
       "chapter_count": 20,
@@ -139,7 +139,7 @@
         "geo-strategy": 20,
         "secret-history": 28
       },
-      "transcript_word_total": 581810
+      "transcript_word_total": 581811
     },
     "provenance": {
       "part": "provenance",
@@ -3628,7 +3628,7 @@
         "folder": "lectures/game-theory/gt-29",
         "folder_readme": "lectures/game-theory/gt-29/README.md"
       },
-      "transcript_word_count": 106,
+      "transcript_word_count": 107,
       "source_video_url": "https://www.youtube.com/watch?v=RE2UribEFIo",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",

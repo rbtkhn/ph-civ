@@ -115,6 +115,8 @@ PUBLIC_BOUNDARY_SCAN_PATHS = [
 ]
 
 PUBLIC_BOUNDARY_SCAN_EXCLUDES = {
+    "docs/methodology/strategy-codex-bridge.md",
+    "docs/methodology/jiang-analysis-index.md",
     "docs/strategy-codex-bridge.md",
     "docs/jiang-analysis-index.md",
     "docs/catalogs/public-surface-status.md",

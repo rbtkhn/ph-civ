@@ -11,7 +11,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 1. Doorway — this README tells you what the packet is and what limits apply.
 2. Primary source floor — read the transcript and public source capture first.
 3. Chapter commentary — thin Layer 0–2 pin-cites in the companion commentary file.
-4. Chapter commentary — full L0–6 in the companion commentary file (see docs/commentary-methodology-v2.md).
+4. Chapter commentary — full L0–6 in the companion commentary file (see docs/methodology/commentary-methodology-v2.md).
 5. Public card — orientation payload after the chapter and Part floors are open.
 6. Widened interpretation — Part IX **close**; follows [civ-52](../civ-52/README.md); [homer-to-tolstoy](../../../data/corridors/homer-to-tolstoy.md) step 5 (Dostoevsky) + [`sh-16`](../../../book/volume-i-civilization/secret-history-support/sh-16/README.md) Tolstoy hinge; [civilization-to-apocalypse](../../parts/civilization-to-apocalypse.md) ingress.
 

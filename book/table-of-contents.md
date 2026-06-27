@@ -96,7 +96,7 @@ Volume I is the primary civilizational sequence. The `civ-*` line remains the ba
 Tolstoy is the named hinge from law-discovery to pressure-reading. He is not only a routed endpoint in the literary spine; he marks the transition from asking how civilizational forms are made to asking where those forms now apply pressure.
 
 - [From Civilization To Apocalypse](./parts/civilization-to-apocalypse.md)
-- [Civilization to Apocalypse Bridge-Lattice](../docs/civilization-to-apocalypse-bridge-lattice.md)
+- [Civilization to Apocalypse Bridge-Lattice](../docs/routes/civilization-to-apocalypse-bridge-lattice.md)
 - [Homer to Tolstoy](../data/corridors/homer-to-tolstoy.md)
 
 ### Volume II: Apocalypse

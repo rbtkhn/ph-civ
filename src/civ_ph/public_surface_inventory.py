@@ -175,7 +175,7 @@ def static_surface_rows() -> list[dict]:
         ),
         _row(
             surface="source_lattice",
-            path="docs/source-lattice.md",
+            path="docs/methodology/source-lattice.md",
             surface_class="doctrine_doc",
             status="canonical",
             source_floor="law",
@@ -183,7 +183,7 @@ def static_surface_rows() -> list[dict]:
         ),
         _row(
             surface="commentary_methodology_v2",
-            path="docs/commentary-methodology-v2.md",
+            path="docs/methodology/commentary-methodology-v2.md",
             surface_class="doctrine_doc",
             status="canonical",
             validation_coverage="commentary_canvas",
@@ -227,7 +227,7 @@ def static_surface_rows() -> list[dict]:
         ),
         _row(
             surface="strategy_codex_bridge",
-            path="docs/strategy-codex-bridge.md",
+            path="docs/methodology/strategy-codex-bridge.md",
             surface_class="bridge",
             status="active",
             notes="Publisher staging-mirror boundary; names private workshop explicitly",

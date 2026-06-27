@@ -121,7 +121,7 @@ All prompt and spark commands are template-only. They do not call an AI provider
 
 The chapter commentaries are the project canvas. They are seeded for all chapters, but they are not treated as complete analysis. Each commentary has a shared `Project Canvas` scaffold for later chapter-by-chapter development: project leverage, laws and patterns, volume role, strategy application, counter-readings, open questions, and build notes.
 
-See `docs/commentary-canvas.md`.
+See `docs/methodology/commentary-canvas.md`.
 
 ## Public Growth
 
@@ -137,7 +137,7 @@ The canonical growth guardrail lives in `data/growth-goals.json` and is exposed 
 ph-civ growth --json
 ```
 
-For a compact doorway into Jiang-facing interpretive notes on teaching, spread, rhetoric, platform fit, and cross-volume continuity, see [Jiang Analysis Index](docs/jiang-analysis-index.md).
+For a compact doorway into Jiang-facing interpretive notes on teaching, spread, rhetoric, platform fit, and cross-volume continuity, see [Jiang Analysis Index](docs/methodology/jiang-analysis-index.md).
 
 ## Literary Spine
 
@@ -149,7 +149,7 @@ Homer to Tolstoy is the Volume I literary spine, not a side corridor. It uses cr
 
 The route now also has a public [support ring](data/corridors/homer-to-tolstoy-support-ring.md), which names the nearby Volume I materials that strengthen the spine without changing its canonical author sequence or first-tour order.
 
-Tolstoy also functions as the bridge into Volume II. The public handoff lives in [From Civilization To Apocalypse](book/parts/civilization-to-apocalypse.md), [Predictive History After Tolstoy](docs/predictive-history-after-tolstoy.md), and [The Tolstoy Question](corpus/cross-volume/tolstoy-question.md).
+Tolstoy also functions as the bridge into Volume II. The public handoff lives in [From Civilization To Apocalypse](book/parts/civilization-to-apocalypse.md), [Predictive History After Tolstoy](docs/routes/predictive-history-after-tolstoy.md), and [The Tolstoy Question](corpus/cross-volume/tolstoy-question.md).
 
 If the question is not only "what is the route?" but "why did the old seven become two?", open [Two Volumes, One Reader Map](docs/archive/two-volumes-one-reader-map.md).
 

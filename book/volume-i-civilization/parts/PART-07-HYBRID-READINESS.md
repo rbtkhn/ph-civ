@@ -186,7 +186,7 @@ Proposed `### gb-10` (close) block in `part-07-world-after-rome-commentary.md` (
 ### Phase 3 — Validator + docs (~half session) — **Wedge done** (2026-06-09)
 
 - `volume_i_parts.py` Part VII block (wedge `civ-40`/`civ-41` README checks) ✓
-- `parts/README.md`, `docs/commentary-canvas.md`, `docs/source-lattice.md` (Part VII wedge) ✓
+- `parts/README.md`, `docs/methodology/commentary-canvas.md`, `docs/methodology/source-lattice.md` (Part VII wedge) ✓
 - Pin-cite `civ-40` + `civ-40` README 6-step ✓
 - Full `civ-35`–`39` in docs/validator — **deferred** until Phase 2
 

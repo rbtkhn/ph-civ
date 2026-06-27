@@ -1,8 +1,8 @@
-<!-- public-surface-inventory-fingerprint: 244c2a2c43890a4b -->
+<!-- public-surface-inventory-fingerprint: a21f4dd6a4a978de -->
 # Public surface inventory
 
 - **Surfaces:** 26
-- **Generated:** 2026-06-27T05:41:51Z
+- **Generated:** 2026-06-27T05:44:40Z
 - **Machine SSOT:** [`data/public-surface-inventory.json`](../../data/public-surface-inventory.json)
 - **Regenerate:** `ph-civ surface-inventory`
 
@@ -14,16 +14,16 @@ Per-surface status vocabulary: [public-surface-status.md](../../docs/catalogs/pu
 | `volume_i_parts_deprecated_json` | archive_retired | deprecated | data/parts/volume-i-parts.deprecated.json | manual |
 | `agents_guardrails` | bootloader | canonical | AGENTS.md | validate:public-boundary |
 | `start_here` | bootloader | canonical | START-HERE.md | validate:llm-experience |
-| `strategy_codex_bridge` | bridge | active | docs/strategy-codex-bridge.md | manual |
+| `strategy_codex_bridge` | bridge | active | docs/methodology/strategy-codex-bridge.md | manual |
 | `cards_dataset` | card_dataset | active | data/cards.jsonl | validate:cards |
 | `predictive_history_index` | chapter_catalog | generated | docs/predictive-history-index.json | validate:predictive-history-index |
 | `chapter_folders` | chapter_folder | active | lectures/* · ph-civ/chapters/* · ph-apo/chapters/* · book… | validate:cards |
 | `ph_apo_volume_ii_chapters` | chapter_folder | active | lectures/* (+ ph-apo/chapters redirect stubs; book/volume… | docs/predictive-history-index.json |
 | `ph_civ_volume_i_chapters` | chapter_folder | active | lectures/* (+ ph-civ/chapters redirect stubs; book/volume… | docs/predictive-history-index.json |
-| `commentary_methodology_v2` | doctrine_doc | canonical | docs/commentary-methodology-v2.md | validate:commentary-canvas |
+| `commentary_methodology_v2` | doctrine_doc | canonical | docs/methodology/commentary-methodology-v2.md | validate:commentary-canvas |
 | `public_repo_contract` | doctrine_doc | canonical | docs/contracts/public-repo-contract.md | manual |
 | `public_surface_status` | doctrine_doc | active | docs/catalogs/public-surface-status.md | manual |
-| `source_lattice` | doctrine_doc | canonical | docs/source-lattice.md | manual |
+| `source_lattice` | doctrine_doc | canonical | docs/methodology/source-lattice.md | manual |
 | `growth_goals` | growth_surface | active | data/growth-goals.json | manual |
 | `llm_experience` | llm_context | active | data/llm-experience.json | validate:llm-experience |
 | `llms_full` | llm_context | active | llms-full.txt | validate:llm-experience |
