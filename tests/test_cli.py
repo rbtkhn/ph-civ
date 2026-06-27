@@ -104,8 +104,13 @@ def test_latest_game_theory_chapters_are_provisional_source_first(capsys):
         assert (folder / f"{source_id}-orientation.yaml").exists()
         assert "public study doorway" in (folder / "README.md").read_text(encoding="utf-8")
         legacy = ROOT / "book" / "volume-iii" / source_id / "README.md"
-        assert legacy.is_file()
-        assert "legacy redirect" in legacy.read_text(encoding="utf-8").lower()
+        assert not legacy.exists(), source_id
+
+    tombstone = ROOT / "book" / "README.md"
+    assert tombstone.is_file()
+    tombstone_text = tombstone.read_text(encoding="utf-8")
+    assert "Deprecated Compatibility Namespace" in tombstone_text
+    assert "docs/predictive-history-index.md" in tombstone_text
 
     assert main(["link", "gt-24", "--json"]) == 0
     payload = json.loads(capsys.readouterr().out)

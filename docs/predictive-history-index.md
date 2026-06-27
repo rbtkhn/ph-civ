@@ -217,7 +217,7 @@ Bridge support nodes (`sh-11`, `sh-16`, `sh-17`, `sh-18`) still carry cross-part
 
 **Interview provenance:** 16 — full catalog: [`interviews/predictive-history-interview-index.md`](../interviews/predictive-history-interview-index.md) · [json](../interviews/predictive-history-interview-index.json)
 
-Provenance packets preserve old seven-volume source-family material (interviews first). They are cataloged for source review and cross-links from [`docs/archive/book-provenance-index.md`](archive/book-provenance-index.md); they are not foreground Volume I/II law-discovery routes.
+Provenance packets preserve old seven-volume source-family material (interviews first). They are cataloged for source review and cross-links from [`docs/archive/book-provenance-index.md`](../docs/archive/book-provenance-index.md); they are not foreground Volume I/II law-discovery routes.
 
 ## Full alphabetical index
 

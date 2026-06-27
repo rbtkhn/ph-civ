@@ -21,7 +21,7 @@ How do theater, democracy, and the Russian novel name conscience at the Tolstoy 
 ## Corridor cross-links
 
 - [homer-to-tolstoy](../../../data/corridors/homer-to-tolstoy.md)
-- [civilization-to-apocalypse](../../parts/civilization-to-apocalypse.md)
+- [civilization-to-apocalypse](../../docs/routes/civilization-to-apocalypse.md)
 
 ## Apparatus
 

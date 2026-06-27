@@ -42,7 +42,7 @@ representation_not_endorsement: true
 ## Corridor placement
 
 - [Homer to Tolstoy](../../../data/corridors/homer-to-tolstoy.md) — steps 4–5 @ `civ-51` (Shakespeare) and `civ-53` (Dostoevsky); Tolstoy terminal routed via [`sh-16`](#sh-16) (not a civ-lecture).
-- [Civilization to Apocalypse](../../parts/civilization-to-apocalypse.md) — Volume I literary/conscience stack (`civ-51`–`53`) **ingress** before Apocalypse law-application semester; `sh-16` as cross-volume SH hinge.
+- [Civilization to Apocalypse](../../docs/routes/civilization-to-apocalypse.md) — Volume I literary/conscience stack (`civ-51`–`53`) **ingress** before Apocalypse law-application semester; `sh-16` as cross-volume SH hinge.
 - **Ingress:** [Part VIII `civ-50`](./part-08-birth-of-modernity-commentary.md#civ-50) Rule Britannia → [`civ-51`](#civ-51).
 - **Egress:** [Part X](./part-10-rise-of-the-nation-state.md) (`civ-54` German will).
 
@@ -153,7 +153,7 @@ representation_not_endorsement: true
 
 **Read order:** `civ-51` Shakespeare (step 4) → `civ-52` democratic empire → `civ-53` Dostoevsky close → `sh-16` Tolstoy/SH hinge → Part X / Apocalypse ingress.
 
-**Part links:** do not stub-route `civ-53` commentary into SH packet; cross-link only. See [civilization-to-apocalypse](../../parts/civilization-to-apocalypse.md) for Volume I→II posture change.
+**Part links:** do not stub-route `civ-53` commentary into SH packet; cross-link only. See [civilization-to-apocalypse](../../docs/routes/civilization-to-apocalypse.md) for Volume I→II posture change.
 
 **SH predictions (lecture-local, Pending external-verify):**
 
@@ -234,7 +234,7 @@ Reader rule: complete Part VIII `civ-50` before judging `#four-modern-civilizati
 
 ### Corridor — civilization-to-apocalypse ingress
 
-[civilization-to-apocalypse](../../parts/civilization-to-apocalypse.md): Civilization semester **law-discovery** (conscience instruments: theater, democratic empire, novel) **hands off** to Apocalypse **law-application** after Part IX close.
+[civilization-to-apocalypse](../../docs/routes/civilization-to-apocalypse.md): Civilization semester **law-discovery** (conscience instruments: theater, democratic empire, novel) **hands off** to Apocalypse **law-application** after Part IX close.
 
 | Ingress signal | Part IX anchor | Notes |
 |----------------|----------------|-------|

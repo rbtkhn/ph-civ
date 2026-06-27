@@ -11,4 +11,4 @@
 
 Card `part`, route `surface`, and the **`ph-civ` CLI** name remain unchanged for compatibility.
 
-Historical chapter homes: [`book/volume-ii-apocalypse/`](../book/volume-ii-apocalypse/README.md).
+Historical chapter homes: [`lectures/`](../lectures/README.md).

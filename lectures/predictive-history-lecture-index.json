@@ -1,9 +1,9 @@
 {
   "schema_version": 4,
   "scope": "lectures",
-  "fingerprint": "3497ade63e001240",
+  "fingerprint": "875e6c03d3a35ad3",
   "card_count": 147,
-  "transcript_word_total": 1243688,
+  "transcript_word_total": 1244049,
   "ssot": "data/cards.jsonl",
   "markdown_index": "lectures/predictive-history-lecture-index.md",
   "hub_index": "docs/predictive-history-index.md",
@@ -1639,7 +1639,7 @@
         "folder": "lectures/geo-strategy/geo-04",
         "folder_readme": "lectures/geo-strategy/geo-04/README.md"
       },
-      "transcript_word_count": 4289,
+      "transcript_word_count": 4303,
       "publication_date": "2024-05-15",
       "source_video_url": "https://www.youtube.com/watch?v=LctUcVqhhns",
       "commentary_maturity": "scaffold",
@@ -1661,7 +1661,7 @@
         "folder": "lectures/geo-strategy/geo-05",
         "folder_readme": "lectures/geo-strategy/geo-05/README.md"
       },
-      "transcript_word_count": 5339,
+      "transcript_word_count": 5354,
       "publication_date": "2024-05-17",
       "source_video_url": "https://www.youtube.com/watch?v=exRK-85630k",
       "commentary_maturity": "scaffold",
@@ -1683,7 +1683,7 @@
         "folder": "lectures/geo-strategy/geo-06",
         "folder_readme": "lectures/geo-strategy/geo-06/README.md"
       },
-      "transcript_word_count": 7455,
+      "transcript_word_count": 7469,
       "publication_date": "2024-05-22",
       "source_video_url": "https://www.youtube.com/watch?v=JieFC4Yww4o",
       "commentary_maturity": "scaffold",
@@ -1705,7 +1705,7 @@
         "folder": "lectures/geo-strategy/geo-07",
         "folder_readme": "lectures/geo-strategy/geo-07/README.md"
       },
-      "transcript_word_count": 5890,
+      "transcript_word_count": 5911,
       "publication_date": "2024-05-24",
       "source_video_url": "https://www.youtube.com/watch?v=LsRGvKxfLts",
       "commentary_maturity": "scaffold",
@@ -1727,7 +1727,7 @@
         "folder": "lectures/geo-strategy/geo-08",
         "folder_readme": "lectures/geo-strategy/geo-08/README.md"
       },
-      "transcript_word_count": 8470,
+      "transcript_word_count": 8492,
       "publication_date": "2024-05-29",
       "source_video_url": "https://www.youtube.com/watch?v=7y_hbz6loEo",
       "commentary_maturity": "scaffold",
@@ -1749,7 +1749,7 @@
         "folder": "lectures/geo-strategy/geo-09",
         "folder_readme": "lectures/geo-strategy/geo-09/README.md"
       },
-      "transcript_word_count": 7996,
+      "transcript_word_count": 8014,
       "publication_date": "2024-05-31",
       "source_video_url": "https://www.youtube.com/watch?v=AEPSUC-UQ5k",
       "commentary_maturity": "scaffold",
@@ -1771,7 +1771,7 @@
         "folder": "lectures/geo-strategy/geo-10",
         "folder_readme": "lectures/geo-strategy/geo-10/README.md"
       },
-      "transcript_word_count": 8642,
+      "transcript_word_count": 8656,
       "publication_date": "2024-06-05",
       "source_video_url": "https://www.youtube.com/watch?v=B_al2wgk49Y",
       "commentary_maturity": "scaffold",
@@ -1793,7 +1793,7 @@
         "folder": "lectures/geo-strategy/geo-11",
         "folder_readme": "lectures/geo-strategy/geo-11/README.md"
       },
-      "transcript_word_count": 8867,
+      "transcript_word_count": 8887,
       "publication_date": "2024-06-07",
       "source_video_url": "https://www.youtube.com/watch?v=Go1bMQKnJBQ",
       "commentary_maturity": "scaffold",
@@ -1815,7 +1815,7 @@
         "folder": "lectures/geo-strategy/geo-12",
         "folder_readme": "lectures/geo-strategy/geo-12/README.md"
       },
-      "transcript_word_count": 8973,
+      "transcript_word_count": 8988,
       "publication_date": "2024-06-13",
       "source_video_url": "https://www.youtube.com/watch?v=s_k6esWheqA",
       "commentary_maturity": "scaffold",
@@ -1837,7 +1837,7 @@
         "folder": "lectures/geo-strategy/geo-13",
         "folder_readme": "lectures/geo-strategy/geo-13/README.md"
       },
-      "transcript_word_count": 4162,
+      "transcript_word_count": 4174,
       "publication_date": "2025-06-18",
       "source_video_url": "https://www.youtube.com/watch?v=8XdL-7tAqnU",
       "commentary_maturity": "scaffold",
@@ -1859,7 +1859,7 @@
         "folder": "lectures/geo-strategy/geo-14",
         "folder_readme": "lectures/geo-strategy/geo-14/README.md"
       },
-      "transcript_word_count": 3210,
+      "transcript_word_count": 3224,
       "publication_date": "2025-06-22",
       "source_video_url": "https://www.youtube.com/watch?v=N4cs-8mrP_s",
       "commentary_maturity": "scaffold",
@@ -1881,7 +1881,7 @@
         "folder": "lectures/geo-strategy/geo-15",
         "folder_readme": "lectures/geo-strategy/geo-15/README.md"
       },
-      "transcript_word_count": 3210,
+      "transcript_word_count": 3224,
       "publication_date": "2025-06-25",
       "source_video_url": "https://www.youtube.com/watch?v=bc9adtiIN_k",
       "commentary_maturity": "scaffold",
@@ -1903,7 +1903,7 @@
         "folder": "lectures/geo-strategy/geo-16",
         "folder_readme": "lectures/geo-strategy/geo-16/README.md"
       },
-      "transcript_word_count": 4363,
+      "transcript_word_count": 4382,
       "publication_date": "2025-06-28",
       "source_video_url": "https://www.youtube.com/watch?v=Kw-TiN6dEcM",
       "commentary_maturity": "scaffold",
@@ -1925,7 +1925,7 @@
         "folder": "lectures/geo-strategy/geo-17",
         "folder_readme": "lectures/geo-strategy/geo-17/README.md"
       },
-      "transcript_word_count": 5447,
+      "transcript_word_count": 5459,
       "publication_date": "2025-07-11",
       "source_video_url": "https://www.youtube.com/watch?v=5I2VPYPJJ68",
       "commentary_maturity": "scaffold",
@@ -1947,7 +1947,7 @@
         "folder": "lectures/geo-strategy/geo-18",
         "folder_readme": "lectures/geo-strategy/geo-18/README.md"
       },
-      "transcript_word_count": 5630,
+      "transcript_word_count": 5638,
       "publication_date": "2025-07-18",
       "source_video_url": "https://www.youtube.com/watch?v=ZgvAHZqaawA",
       "commentary_maturity": "scaffold",
@@ -1969,7 +1969,7 @@
         "folder": "lectures/geo-strategy/geo-19",
         "folder_readme": "lectures/geo-strategy/geo-19/README.md"
       },
-      "transcript_word_count": 5428,
+      "transcript_word_count": 5442,
       "publication_date": "2025-08-01",
       "source_video_url": "https://www.youtube.com/watch?v=YQ-xg1nIbMs",
       "commentary_maturity": "scaffold",
@@ -1991,7 +1991,7 @@
         "folder": "lectures/geo-strategy/geo-20",
         "folder_readme": "lectures/geo-strategy/geo-20/README.md"
       },
-      "transcript_word_count": 5243,
+      "transcript_word_count": 5265,
       "publication_date": "2025-08-08",
       "source_video_url": "https://www.youtube.com/watch?v=E83dpuyvpiM",
       "commentary_maturity": "scaffold",
@@ -2624,7 +2624,7 @@
         "folder": "lectures/game-theory/gt-29",
         "folder_readme": "lectures/game-theory/gt-29/README.md"
       },
-      "transcript_word_count": 18532,
+      "transcript_word_count": 18625,
       "source_video_url": "https://www.youtube.com/watch?v=RE2UribEFIo",
       "commentary_maturity": "scaffold",
       "scaffold_version": "ph_civ_commentary_canvas_v1",

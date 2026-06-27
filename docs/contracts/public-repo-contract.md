@@ -19,7 +19,7 @@ Canonical lecture transcripts live under `lectures/` so `ph-civ` remains indepen
 
 The current chapter corpus was imported from the maintained Predictive History workspace and keeps that snapshot as provenance. Physical source series and folder labels are provenance metadata; the public reader architecture is the two-volume ph-civ rollup.
 
-Legacy `book/volume-*` paths may remain as migration residue and provenance, but they are not the preferred growth contract for new public chapter work. New Civilization-facing chapter growth should land directly under `ph-civ/chapters/`, and new Apocalypse-facing chapter growth should land directly under `ph-apo/chapters/`.
+Legacy `book/` wrapper trees were removed (2026-06). Canonical chapter growth lands under `lectures/`, `essays/`, and `interviews/`. Compat chapter stubs may remain under `ph-civ/chapters/` and `ph-apo/chapters/`.
 
 Each public chapter consists of:
 

@@ -35,5 +35,5 @@ representation_not_endorsement: true
 | Russian / Orthodox / literary studies | civ-53 | Dostoevsky representativeness | Heart-over-reason thread |
 | Ukraine war journalism / IR (external only) | civ-53 | `#putin-ukraine-question` | Live-current — not lecture proof |
 | [homer-to-tolstoy](../../../data/corridors/homer-to-tolstoy.md) route card | civ-51, civ-53 | — | Literary spine steps 4–5 |
-| [civilization-to-apocalypse](../../parts/civilization-to-apocalypse.md) bridge | civ-53, sh-16 | — | Volume I→II ingress @ conscience hinge |
+| [civilization-to-apocalypse](../../docs/routes/civilization-to-apocalypse.md) bridge | civ-53, sh-16 | — | Volume I→II ingress @ conscience hinge |
 | `sh-16` packet (pointer only) | sh-16 | Tolstoy-as-civ-lecture | Routed Tolstoy endpoint — see Part commentary |

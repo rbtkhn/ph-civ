@@ -93,7 +93,7 @@ Layer 0-2 above remain the transcript pin-cite floor for this chapter.
 
 
 def patch_readiness(part_number: str, part_id: str) -> None:
-    readiness = ROOT / "book/volume-i-civilization/parts" / f"PART-{part_number}-HYBRID-READINESS.md"
+    readiness = ROOT / "lectures/parts" / f"PART-{part_number}-HYBRID-READINESS.md"
     if not readiness.is_file():
         return
     text = readiness.read_text(encoding="utf-8")

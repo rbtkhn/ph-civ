@@ -16,7 +16,7 @@ Planning doc for extending the **Part II–VIII hybrid model** (thin chapter + t
 
 **Cross-Part ingress:** [Part VIII `civ-50`](./part-08-birth-of-modernity-commentary.md#civ-50) Rule Britannia → [`civ-51`](#civ-51) Shakespeare language-of-empire open; [homer-to-tolstoy](../../../data/corridors/homer-to-tolstoy.md) steps 4–5 land here.
 
-**Corridors:** [homer-to-tolstoy](../../../data/corridors/homer-to-tolstoy.md) · [civilization-to-apocalypse](../../parts/civilization-to-apocalypse.md) ingress @ conscience hinge.
+**Corridors:** [homer-to-tolstoy](../../../data/corridors/homer-to-tolstoy.md) · [civilization-to-apocalypse](../../docs/routes/civilization-to-apocalypse.md) ingress @ conscience hinge.
 
 ---
 

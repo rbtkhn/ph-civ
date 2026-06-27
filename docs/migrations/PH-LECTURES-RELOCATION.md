@@ -28,7 +28,7 @@ Redirect README stubs remain at:
 - `book/volume-iii/gt-*` (duplicate dedupe)
 - `ph-civ/chapters/gt-*`, `ph-apo/chapters/gt-*`
 
-Staged book wrappers under `book/volume-i-civilization/` and `book/volume-ii-apocalypse/` now link to `lectures/` as the canonical packet.
+Staged book wrappers under `lectures/` and `lectures/` now link to `lectures/` as the canonical packet.
 
 ## Verify
 

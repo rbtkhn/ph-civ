@@ -19,7 +19,7 @@ CORRIDOR_PATHS = {
     "homer-to-tolstoy-source-lattice": "../../../data/corridors/homer-to-tolstoy-source-lattice.md",
     "homer-to-dante": "../../../data/corridors/homer-to-dante.md",
     "plato-to-hegel": "../../../data/corridors/plato-to-hegel.md",
-    "civilization-to-apocalypse": "../../parts/civilization-to-apocalypse.md",
+    "civilization-to-apocalypse": "../../docs/routes/civilization-to-apocalypse.md",
 }
 
 

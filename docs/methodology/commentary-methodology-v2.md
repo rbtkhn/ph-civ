@@ -19,7 +19,7 @@
 
 ## 1. Purpose and non-goals
 
-**Purpose:** Rules for writing and rebuilding **interpretation-bearing** chapter commentaries while **transcripts remain fidelity-bearing** ([`book/volume-ii/README.md`](../book/volume-ii/README.md)).
+**Purpose:** Rules for writing and rebuilding **interpretation-bearing** chapter commentaries while **transcripts remain fidelity-bearing** ([`book/volume-ii/README.md`](../docs/archive/two-volume-ph-civ-apo-deprecated.md)).
 
 **SSOT hierarchy:**
 
@@ -78,7 +78,7 @@ See [archive/parts-v1-hybrid.md](archive/parts-v1-hybrid.md).
 | **L6** | Open issues | Review-oriented follow-ups |
 | **Canvas** | Project leverage | Patterns, volume role, bounded application |
 
-Template: [`book/volume-ii/civ-XX-commentary.md`](../book/volume-ii/civ-XX-commentary.md) (body); v2 frontmatter uses `scaffold_version: ph_civ_commentary_canvas_v2`.
+Template: [`lectures/civilization/civ-XX/civ-XX-commentary.md`](../lectures/civilization/civ-XX/civ-XX-commentary.md) (body); v2 frontmatter uses `scaffold_version: ph_civ_commentary_canvas_v2`.
 
 ---
 

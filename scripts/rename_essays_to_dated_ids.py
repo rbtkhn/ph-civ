@@ -256,7 +256,7 @@ def main() -> int:
         rename_essay_packet(old_id, new_id)
         rename_card(old_id, new_id, {old_id: new_id})
         rename_legacy_stub(ROOT / "book/volume-vii", old_id, new_id, mapping)
-        rename_legacy_stub(ROOT / "book/volume-ii-apocalypse/sub", old_id, new_id, mapping)
+        rename_legacy_stub(ROOT / "lectures/sub", old_id, new_id, mapping)
 
     update_cards_jsonl(mapping)
     patch_tree_text_files(mapping)

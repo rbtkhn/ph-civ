@@ -25,7 +25,7 @@ _No interwoven companions in this Part._
 ## Corridor cross-links
 
 - [plato-to-hegel](../../../data/corridors/plato-to-hegel.md)
-- [civilization-to-apocalypse](../../parts/civilization-to-apocalypse.md)
+- [civilization-to-apocalypse](../../docs/routes/civilization-to-apocalypse.md)
 
 ## Apparatus
 

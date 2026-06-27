@@ -337,7 +337,7 @@ def fix_civ_readme_links(text: str) -> str:
     text = text.replace("../../volume-vi/", "../../secret-history/")
     text = text.replace(
         "../../volume-i-civilization/",
-        "../../../book/volume-i-civilization/",
+        "../../../lectures/",
     )
     return text
 
@@ -358,12 +358,12 @@ def patch_moved_readmes(moves: list[MoveSpec], *, dry_run: bool) -> None:
 def refresh_staged_wrappers(moves: list[MoveSpec], *, dry_run: bool) -> None:
     by_id = {m.source_id: m for m in moves}
     wrapper_map = [
-        ("book/volume-i-civilization/civilization-spine", "civ-", "civilization", "../../../volume-ii"),
-        ("book/volume-i-civilization/great-books-evidence", "gb-", "great-books", "../../../volume-v"),
-        ("book/volume-i-civilization/secret-history-support", "sh-", "secret-history", "../../../volume-vi"),
-        ("book/volume-ii-apocalypse/geo", "geo-", "geo-strategy", "../../../volume-i"),
-        ("book/volume-ii-apocalypse/gt", "gt-", "game-theory", None),
-        ("book/volume-ii-apocalypse/sh", "sh-", "secret-history", "../../../volume-vi"),
+        ("lectures/civilization-spine", "civ-", "civilization", "../../../volume-ii"),
+        ("lectures/great-books-evidence", "gb-", "great-books", "../../../volume-v"),
+        ("lectures/secret-history-support", "sh-", "secret-history", "../../../volume-vi"),
+        ("lectures/geo", "geo-", "geo-strategy", "../../../volume-i"),
+        ("lectures/gt", "gt-", "game-theory", None),
+        ("lectures/sh", "sh-", "secret-history", "../../../volume-vi"),
     ]
     for base, prefix, series, legacy_vol in wrapper_map:
         folder = SERIES_FOLDER[series]

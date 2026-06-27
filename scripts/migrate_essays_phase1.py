@@ -76,7 +76,7 @@ def migrate_chapter(source_id: str) -> None:
     stub_dir.mkdir(parents=True, exist_ok=True)
     (stub_dir / "README.md").write_text(legacy_stub(source_id, title), encoding="utf-8", newline="\n")
 
-    rollup = ROOT / "book/volume-ii-apocalypse/sub" / source_id / "README.md"
+    rollup = ROOT / "lectures/sub" / source_id / "README.md"
     if rollup.parent.exists() or rollup.parent.parent.exists():
         rollup.parent.mkdir(parents=True, exist_ok=True)
         rollup.write_text(rollup_stub(source_id, title), encoding="utf-8", newline="\n")

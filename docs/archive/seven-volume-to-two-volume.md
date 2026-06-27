@@ -14,11 +14,11 @@ Predictive History was originally assembled through source-family lanes. The cur
 6. Volume VI: Essays
 7. Volume VII: Interviews
 
-## Current Reader-Native Architecture
+## Current Reader-Native Architecture (historical two-volume frame — deprecated)
 
-- [`book/volume-i-civilization/`](volume-i-civilization/README.md) = law discovery
-- [`book/volume-ii-apocalypse/`](volume-ii-apocalypse/README.md) = law application
-- [`book/provenance/`](provenance/README.md) = old source-family context
+- Volume I law discovery → [`lectures/civilization/`](../../lectures/civilization/README.md) and related lecture series
+- Volume II law application → [`lectures/geo-strategy/`](../../lectures/geo-strategy/README.md), [`lectures/game-theory/`](../../lectures/game-theory/README.md), [`lectures/secret-history/`](../../lectures/secret-history/README.md)
+- Old source-family context → [`book-provenance-index.md`](book-provenance-index.md)
 
 ## Rerouting Law
 
