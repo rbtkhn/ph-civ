@@ -25,7 +25,7 @@ This repository is the public **Predictive History namespace catalog hub** (`nam
 | [`commentaries/`](../../commentaries/README.md) | Essay commentary canvases |
 | [`interviews/`](../../interviews/README.md) | Interview provenance packets (16) |
 
-Lecture transcripts canonicalize under `lectures/<series>/`. Legacy [`book/`](../../book/) paths remain compat redirect stubs.
+Lecture transcripts canonicalize under `lectures/<series>/`. [`book/`](../../book/) is a deprecated compat tombstone only.
 
 ## Catalog hub
 
@@ -53,7 +53,7 @@ See [`docs/README.md`](../README.md) for contracts, methodology, migrations, onb
 
 | Path | Role |
 | --- | --- |
-| [`book/`](../../book/) | Reader architecture wrappers and legacy redirect stubs |
+| [`book/`](../../book/) | Deprecated compat tombstone (no active reader root) |
 | [`ph-civ/`](../../ph-civ/README.md) / [`ph-apo/`](../../ph-apo/README.md) | Deprecated reader surfaces; CLI/card compat only |
 
 Two-volume onboarding is deprecated — [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](../archive/two-volume-ph-civ-apo-deprecated.md).

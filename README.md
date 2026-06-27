@@ -34,24 +34,24 @@ It should not become the large-media vault. Large media archives stay outside Gi
 
 ## Root Chapter Corpora
 
-Medium-first chapter namespaces at the repository root (siblings to [`book/`](book/), [`ph-civ/`](ph-civ/README.md), [`ph-apo/`](ph-apo/README.md)):
+Medium-first chapter namespaces at the repository root (siblings to deprecated [`book/`](book/) tombstone, [`ph-civ/`](ph-civ/README.md), [`ph-apo/`](ph-apo/README.md)):
 
 - [`essays/`](essays/README.md) — flat Substack essay bodies (`essay-YYYY-MM-DD-{slug}.md`)
 - [`commentaries/`](commentaries/README.md) — essay commentary canvases (`essay-*-commentary.md`; lectures/interviews unchanged)
-- [`lectures/`](lectures/README.md) — canonical lecture chapter packets under `lectures/<series>/` (147); legacy `book/` redirect stubs remain for compat
+- [`lectures/`](lectures/README.md) — canonical lecture chapter packets under `lectures/<series>/` (147)
 - [`interviews/`](interviews/README.md) — 16 public interview provenance packets (`interview-YYYY-MM-DD-{host-slug}`); catalog in the interview slice index
 
 ## What Is Included
 
 - 206 public cards in `data/cards.jsonl` — lecture chapters across Volume I (`ph-civ`) and Volume II (`ph-apo`), 43 Substack essays (`essay-2025-08-06-vision-mission-goals` … `essay-2026-06-19-peace-in-our-time`), and 16 provenance interviews.
-- 206 public source chapters under canonical root namespaces (`lectures/`, `essays/`, `interviews/`) with legacy `book/` redirect stubs during recanonicalization.
+- 206 public source chapters under canonical root namespaces (`lectures/`, `essays/`, `interviews/`).
 - 206 chapter commentaries attached to those canonical homes, each seeded as an open commentary canvas.
 - Chapter-folder `README.md` doorways for folder-backed chapters, designed for direct GitHub links in YouTube comments and LLM chats.
 - Full lecture transcripts under `lectures/` so the repo can function independently of outside workshop storage.
 - Chapter catalog and source URLs: [`docs/predictive-history-index.md`](docs/predictive-history-index.md) and [`docs/predictive-history-index.json`](docs/predictive-history-index.json) (`source_video_url` per chapter).
 - A full chapter catalog at `docs/predictive-history-index.md` (human) and `docs/predictive-history-index.json` (machine) listing all 206 public chapters (lectures, essays, and provenance interviews) with transcript, commentary, folder, and source URLs (regenerate: `ph-civ index`; auto-sync during `ph-civ validate` and publish).
 - Two conceptual volumes (deprecated reader frame): Volume I / `ph-civ` and Volume II / `ph-apo` — see [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](docs/archive/two-volume-ph-civ-apo-deprecated.md).
-- A canonical two-volume reader architecture under `book/volume-i-civilization/` and `book/volume-ii-apocalypse/`, with older multi-volume source provenance kept subordinate; see [From The Old Seven Volumes To The Current Two](docs/archive/seven-volume-to-two-volume.md).
+- Historical two-volume reader map archived under [`docs/archive/`](docs/archive/two-volume-reader-order.md); see [From The Old Seven Volumes To The Current Two](docs/archive/seven-volume-to-two-volume.md).
 - Series coverage: Civilization, Great Books, Geo-Strategy, Game Theory, Secret History, and Essays.
 - The Homer-to-Tolstoy literary spine as the Volume I literary spine with cross-volume routing exposure.
 - The Plato-to-Hegel theological-philosophical spine as a secondary Volume I route through reality, sacred order, imagination, and philosophy of history.

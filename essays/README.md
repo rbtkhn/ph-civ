@@ -2,7 +2,7 @@
 
 **Canonical public home** for Predictive History **Substack essay bodies** (verbatim text).
 
-Repo path: **`essays/`** at the repository root (sibling to [`commentaries/`](../commentaries/README.md), [`interviews/`](../interviews/README.md), [`lectures/`](../lectures/README.md), [`ph-civ/`](../ph-civ/README.md), [`book/`](../book/)).
+Repo path: **`essays/`** at the repository root (sibling to [`commentaries/`](../commentaries/README.md), [`interviews/`](../interviews/README.md), [`lectures/`](../lectures/README.md), [`ph-civ/`](../ph-civ/README.md); deprecated [`book/`](../book/) tombstone).
 
 ## Public ID scheme
 

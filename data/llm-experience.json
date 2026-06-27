@@ -107,7 +107,7 @@
     "reader_doc": "docs/onboarding/chapter-folder-links.md",
     "default_mode": "study",
     "cli": "ph-civ link <source_id>",
-    "url_pattern": "https://github.com/rbtkhn/predictive-history/tree/main/book/<volume>/<source_id>",
+    "url_pattern": "https://github.com/rbtkhn/predictive-history/tree/main/lectures/<series>/<source_id>",
     "purpose": "direct YouTube comment and LLM-chat handoff for one chapter folder",
     "not_replacement_for": "first_tour"
   },
@@ -148,7 +148,7 @@
       "start_files": [
         "docs/predictive-history-index.json",
         "data/cards.jsonl",
-        "book/"
+        "lectures/"
       ]
     },
     {
@@ -165,7 +165,7 @@
       "start_files": [
         "prompts/seminar.md",
         "data/cards.jsonl",
-        "book/"
+        "lectures/"
       ]
     },
     {
@@ -173,7 +173,7 @@
       "instruction": "Use the commentary scaffold as a project-development canvas, not as finished analysis.",
       "start_files": [
         "docs/methodology/commentary-canvas.md",
-        "book/"
+        "lectures/"
       ]
     },
     {

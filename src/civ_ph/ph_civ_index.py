@@ -96,7 +96,7 @@ PART_META = {
 PROVENANCE_INTRO = (
     "Provenance packets preserve old seven-volume source-family material (interviews first). "
     "They are cataloged for source review and cross-links from "
-    "[`book/provenance/`](../docs/archive/book-provenance-index.md); "
+    "[`docs/archive/book-provenance-index.md`](../docs/archive/book-provenance-index.md); "
     "they are not foreground Volume I/II law-discovery routes."
 )
 

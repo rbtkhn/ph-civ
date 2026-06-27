@@ -1,6 +1,6 @@
 # Study edition site (Phase 0)
 
-Generated static reader skin for ph-civ. SSOT remains markdown under `book/`.
+Generated static reader skin for ph-civ. SSOT remains markdown under `lectures/`, `essays/`, `interviews/`, and `docs/`.
 
 ## Build
 

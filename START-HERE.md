@@ -18,10 +18,10 @@ One chapter consists of a lecture transcript (or essay/interview body), a compan
 
 ## Root Chapter Corpora
 
-Medium-first namespaces at the repository root (siblings to `book/`):
+Medium-first namespaces at the repository root (canonical corpora; [`book/`](../book/) is a deprecated compat tombstone only):
 
 - [`essays/`](essays/README.md) — Substack and long-form essays (`essay-2025-08-06-vision-mission-goals` … `essay-2026-06-19-peace-in-our-time`)
-- [`lectures/`](lectures/README.md) — canonical lecture packets under `lectures/<series>/` (147); legacy `book/` redirect stubs for compat
+- [`lectures/`](lectures/README.md) — canonical lecture packets under `lectures/<series>/` (147)
 - [`interviews/`](interviews/README.md) — 16 public interview provenance packets (`interview-YYYY-MM-DD-{host-slug}`); full catalog in the interview slice index
 
 ## First Chat Flow
@@ -35,7 +35,7 @@ Medium-first namespaces at the repository root (siblings to `book/`):
 7. Use [`docs/archive/two-volumes-one-reader-map.md`](docs/archive/two-volumes-one-reader-map.md) only for historical context (deprecated active onboarding).
 8. Treat `data/bilingual-loop.json` and `docs/localization/bilingual-civilizational-bridge.md` as a trilingual identity/growth layer and localization roadmap, not a replacement for `first_tour`.
 9. If the pasted URL is a direct chapter folder, switch to `study` mode for that folder: open its `README.md`, transcript, commentary canvas, and public card.
-10. When quoting or interpreting, return to the relevant transcript and commentary under `book/` or root corpora.
+10. When quoting or interpreting, return to the relevant transcript and commentary under `lectures/`, `essays/`, or `interviews/`.
 11. Use `docs/predictive-history-index.json` when the reader needs the full chapter catalog or must resolve a `source_id` to paths and source URLs.
 12. Use `docs/methodology/source-lattice.md` when the main difficulty is traversal discipline: doorway versus transcript versus commentary versus bridge.
 

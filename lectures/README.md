@@ -2,7 +2,7 @@
 
 Reserved root namespace for Predictive History **lecture** chapter packets (video-sourced transcript bodies).
 
-Repo path: **`lectures/`** at the repository root (sibling to [`essays/`](../essays/README.md), [`commentaries/`](../commentaries/README.md), [`interviews/`](../interviews/README.md), [`book/`](../book/), [`ph-civ/`](../ph-civ/README.md)).
+Repo path: **`lectures/`** at the repository root (sibling to [`essays/`](../essays/README.md), [`commentaries/`](../commentaries/README.md), [`interviews/`](../interviews/README.md); deprecated [`book/`](../book/) tombstone; [`ph-civ/`](../ph-civ/README.md)).
 
 ## Series partitions
 
@@ -14,7 +14,7 @@ Repo path: **`lectures/`** at the repository root (sibling to [`essays/`](../ess
 | [`game-theory/`](game-theory/README.md) | `game-theory` | `gt-*` |
 | [`secret-history/`](secret-history/README.md) | `secret-history` | `sh-*` |
 
-Canonical lecture packets live under `lectures/<series>/`; legacy `book/volume-*` and `ph-civ`/`ph-apo` chapter paths are compat redirect stubs.
+Canonical lecture packets live under `lectures/<series>/`.
 
 Related: [`docs/migrations/PH-LECTURES-RELOCATION.md`](../docs/migrations/PH-LECTURES-RELOCATION.md) · full hub [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) · lectures slice [`predictive-history-lecture-index.md`](predictive-history-lecture-index.md).
 
