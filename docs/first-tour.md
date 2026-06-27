@@ -17,9 +17,9 @@ Explain it as the Homeric memory system: heroic action becomes a grammar of hono
 Before making chapter-specific claims, return to:
 
 - `data/cards/civ-07.md`
-- `book/volume-ii/civ-07/civ-07-transcript.md`
-- `book/volume-ii/civ-07/civ-07-commentary.md`
-- `book/volume-ii/civ-07/civ-07-commentary.md` for the commentary canvas
+- `lectures/civilization/civ-07/civ-07-transcript.md`
+- `lectures/civilization/civ-07/civ-07-commentary.md`
+- `lectures/civilization/civ-07/civ-07-commentary.md` for the commentary canvas
 
 ## Tour Phases
 

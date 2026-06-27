@@ -57,7 +57,7 @@ Planning doc for extending the **Part II–VI hybrid model** (thin chapter + thi
 
 | GB | Anchor(s) | Role | Packet | Part VII placement (draft) |
 |----|-----------|------|--------|---------------------------|
-| `gb-10` | `civ-41` (registry); also `civ-30` (Part VI) | interwoven | `book/volume-v/gb-10/` — stub → **Part VI** § `gb-10` (Inferno); **needs** Part VII § close pointer @ `civ-41` | **`### gb-10` (close)** — Renaissance/Inferno synthesis; do **not** duplicate Part VI claims table |
+| `gb-10` | `civ-41` (registry); also `civ-30` (Part VI) | interwoven | `lectures/great-books/gb-10/` — stub → **Part VI** § `gb-10` (Inferno); **needs** Part VII § close pointer @ `civ-41` | **`### gb-10` (close)** — Renaissance/Inferno synthesis; do **not** duplicate Part VI claims table |
 
 **Law:** `gb-10` is **dual-placed** by design — Inferno architecture @ Part VI open; registry close @ `civ-41`. Part VII section should **cross-link** Part VI `### gb-10` and add **close-read** rows (quiet revolution ↔ hell/spark cosmology), not fork a second canonical Inferno apparatus.
 

@@ -120,7 +120,7 @@ For a **chapter**:
 1. open the folder `README.md`
 2. open the transcript
 3. open the **chapter commentary** (full L0–6 per [`commentary-methodology-v2.md`](commentary-methodology-v2.md); pin-cites in L2)
-4. optional **weave companions** — for interwoven hosts (e.g. `civ-07` + `gb-02`), use [`data/weave/volume-i-companions.json`](../data/weave/volume-i-companions.json) and companion chapter commentaries (e.g. [`sh-17`](../book/volume-vi/sh-17/sh-17-commentary.md) deepens [`civ-22`](../book/volume-ii/civ-22/civ-22-commentary.md)) after the host chapter floor is stable
+4. optional **weave companions** — for interwoven hosts (e.g. `civ-07` + `gb-02`), use [`data/weave/volume-i-companions.json`](../data/weave/volume-i-companions.json) and companion chapter commentaries (e.g. [`sh-17`](../lectures/secret-history/sh-17/sh-17-commentary.md) deepens [`civ-22`](../lectures/civilization/civ-22/civ-22-commentary.md)) after the host chapter floor is stable
 5. open the public card only after the chapter commentary floor is clear
 6. use corridors and support notes only where confusion, bridge pressure, or route
    trouble appears

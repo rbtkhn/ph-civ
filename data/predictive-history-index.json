@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "fingerprint": "f14ff8faca195384",
+  "fingerprint": "c37f0cc4e3d147e0",
   "card_count": 205,
   "transcript_word_total": 1431458,
   "ssot": "data/cards.jsonl",
@@ -104,10 +104,10 @@
       "review_status": "calibration_seed",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-01/civ-01-transcript.md",
-        "commentary": "book/volume-ii/civ-01/civ-01-commentary.md",
-        "folder": "book/volume-ii/civ-01",
-        "folder_readme": "book/volume-ii/civ-01/README.md"
+        "transcript": "lectures/civilization/civ-01/civ-01-transcript.md",
+        "commentary": "lectures/civilization/civ-01/civ-01-commentary.md",
+        "folder": "lectures/civilization/civ-01",
+        "folder_readme": "lectures/civilization/civ-01/README.md"
       },
       "transcript_word_count": 6965,
       "source_video_url": "https://www.youtube.com/watch?v=Jjqf9T59uY0",
@@ -125,10 +125,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-02/civ-02-transcript.md",
-        "commentary": "book/volume-ii/civ-02/civ-02-commentary.md",
-        "folder": "book/volume-ii/civ-02",
-        "folder_readme": "book/volume-ii/civ-02/README.md"
+        "transcript": "lectures/civilization/civ-02/civ-02-transcript.md",
+        "commentary": "lectures/civilization/civ-02/civ-02-commentary.md",
+        "folder": "lectures/civilization/civ-02",
+        "folder_readme": "lectures/civilization/civ-02/README.md"
       },
       "transcript_word_count": 7120,
       "source_video_url": "https://www.youtube.com/watch?v=x1E5rRmCiT4",
@@ -146,10 +146,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-03/civ-03-transcript.md",
-        "commentary": "book/volume-ii/civ-03/civ-03-commentary.md",
-        "folder": "book/volume-ii/civ-03",
-        "folder_readme": "book/volume-ii/civ-03/README.md"
+        "transcript": "lectures/civilization/civ-03/civ-03-transcript.md",
+        "commentary": "lectures/civilization/civ-03/civ-03-commentary.md",
+        "folder": "lectures/civilization/civ-03",
+        "folder_readme": "lectures/civilization/civ-03/README.md"
       },
       "transcript_word_count": 7114,
       "source_video_url": "https://www.youtube.com/watch?v=VanPH0GFTsA",
@@ -167,10 +167,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-ii/civ-04/civ-04-transcript.md",
-        "commentary": "book/volume-ii/civ-04/civ-04-commentary.md",
-        "folder": "book/volume-ii/civ-04",
-        "folder_readme": "book/volume-ii/civ-04/README.md"
+        "transcript": "lectures/civilization/civ-04/civ-04-transcript.md",
+        "commentary": "lectures/civilization/civ-04/civ-04-commentary.md",
+        "folder": "lectures/civilization/civ-04",
+        "folder_readme": "lectures/civilization/civ-04/README.md"
       },
       "transcript_word_count": 7355,
       "source_video_url": "https://www.youtube.com/watch?v=RaT_ZUDjHrM",
@@ -188,10 +188,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-05/civ-05-transcript.md",
-        "commentary": "book/volume-ii/civ-05/civ-05-commentary.md",
-        "folder": "book/volume-ii/civ-05",
-        "folder_readme": "book/volume-ii/civ-05/README.md"
+        "transcript": "lectures/civilization/civ-05/civ-05-transcript.md",
+        "commentary": "lectures/civilization/civ-05/civ-05-commentary.md",
+        "folder": "lectures/civilization/civ-05",
+        "folder_readme": "lectures/civilization/civ-05/README.md"
       },
       "transcript_word_count": 5365,
       "source_video_url": "https://www.youtube.com/watch?v=J4HTFJWl5D8",
@@ -209,10 +209,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-06/civ-06-transcript.md",
-        "commentary": "book/volume-ii/civ-06/civ-06-commentary.md",
-        "folder": "book/volume-ii/civ-06",
-        "folder_readme": "book/volume-ii/civ-06/README.md"
+        "transcript": "lectures/civilization/civ-06/civ-06-transcript.md",
+        "commentary": "lectures/civilization/civ-06/civ-06-commentary.md",
+        "folder": "lectures/civilization/civ-06",
+        "folder_readme": "lectures/civilization/civ-06/README.md"
       },
       "transcript_word_count": 6814,
       "source_video_url": "https://www.youtube.com/watch?v=QwfB-vXXKWU",
@@ -230,10 +230,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-ii/civ-07/civ-07-transcript.md",
-        "commentary": "book/volume-ii/civ-07/civ-07-commentary.md",
-        "folder": "book/volume-ii/civ-07",
-        "folder_readme": "book/volume-ii/civ-07/README.md"
+        "transcript": "lectures/civilization/civ-07/civ-07-transcript.md",
+        "commentary": "lectures/civilization/civ-07/civ-07-commentary.md",
+        "folder": "lectures/civilization/civ-07",
+        "folder_readme": "lectures/civilization/civ-07/README.md"
       },
       "transcript_word_count": 6303,
       "source_video_url": "https://www.youtube.com/watch?v=677rmlRgvLQ",
@@ -252,10 +252,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-ii/civ-08/civ-08-transcript.md",
-        "commentary": "book/volume-ii/civ-08/civ-08-commentary.md",
-        "folder": "book/volume-ii/civ-08",
-        "folder_readme": "book/volume-ii/civ-08/README.md"
+        "transcript": "lectures/civilization/civ-08/civ-08-transcript.md",
+        "commentary": "lectures/civilization/civ-08/civ-08-commentary.md",
+        "folder": "lectures/civilization/civ-08",
+        "folder_readme": "lectures/civilization/civ-08/README.md"
       },
       "transcript_word_count": 9676,
       "source_video_url": "https://www.youtube.com/watch?v=NpNCQ_gNqdE",
@@ -273,10 +273,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-ii/civ-09/civ-09-transcript.md",
-        "commentary": "book/volume-ii/civ-09/civ-09-commentary.md",
-        "folder": "book/volume-ii/civ-09",
-        "folder_readme": "book/volume-ii/civ-09/README.md"
+        "transcript": "lectures/civilization/civ-09/civ-09-transcript.md",
+        "commentary": "lectures/civilization/civ-09/civ-09-commentary.md",
+        "folder": "lectures/civilization/civ-09",
+        "folder_readme": "lectures/civilization/civ-09/README.md"
       },
       "transcript_word_count": 7376,
       "source_video_url": "https://www.youtube.com/watch?v=96hzWlozdHw",
@@ -294,10 +294,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-ii/civ-10/civ-10-transcript.md",
-        "commentary": "book/volume-ii/civ-10/civ-10-commentary.md",
-        "folder": "book/volume-ii/civ-10",
-        "folder_readme": "book/volume-ii/civ-10/README.md"
+        "transcript": "lectures/civilization/civ-10/civ-10-transcript.md",
+        "commentary": "lectures/civilization/civ-10/civ-10-commentary.md",
+        "folder": "lectures/civilization/civ-10",
+        "folder_readme": "lectures/civilization/civ-10/README.md"
       },
       "transcript_word_count": 6032,
       "source_video_url": "https://www.youtube.com/watch?v=LWlTtdNww_k",
@@ -315,10 +315,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-11/civ-11-transcript.md",
-        "commentary": "book/volume-ii/civ-11/civ-11-commentary.md",
-        "folder": "book/volume-ii/civ-11",
-        "folder_readme": "book/volume-ii/civ-11/README.md"
+        "transcript": "lectures/civilization/civ-11/civ-11-transcript.md",
+        "commentary": "lectures/civilization/civ-11/civ-11-commentary.md",
+        "folder": "lectures/civilization/civ-11",
+        "folder_readme": "lectures/civilization/civ-11/README.md"
       },
       "transcript_word_count": 7664,
       "source_video_url": "https://www.youtube.com/watch?v=l6AroD58jkE",
@@ -336,10 +336,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-12/civ-12-transcript.md",
-        "commentary": "book/volume-ii/civ-12/civ-12-commentary.md",
-        "folder": "book/volume-ii/civ-12",
-        "folder_readme": "book/volume-ii/civ-12/README.md"
+        "transcript": "lectures/civilization/civ-12/civ-12-transcript.md",
+        "commentary": "lectures/civilization/civ-12/civ-12-commentary.md",
+        "folder": "lectures/civilization/civ-12",
+        "folder_readme": "lectures/civilization/civ-12/README.md"
       },
       "transcript_word_count": 7426,
       "source_video_url": "https://www.youtube.com/watch?v=iTuRB48Of9Y",
@@ -357,10 +357,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-13/civ-13-transcript.md",
-        "commentary": "book/volume-ii/civ-13/civ-13-commentary.md",
-        "folder": "book/volume-ii/civ-13",
-        "folder_readme": "book/volume-ii/civ-13/README.md"
+        "transcript": "lectures/civilization/civ-13/civ-13-transcript.md",
+        "commentary": "lectures/civilization/civ-13/civ-13-commentary.md",
+        "folder": "lectures/civilization/civ-13",
+        "folder_readme": "lectures/civilization/civ-13/README.md"
       },
       "transcript_word_count": 7015,
       "source_video_url": "https://www.youtube.com/watch?v=WoTOxE4DTFA",
@@ -378,10 +378,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-14/civ-14-transcript.md",
-        "commentary": "book/volume-ii/civ-14/civ-14-commentary.md",
-        "folder": "book/volume-ii/civ-14",
-        "folder_readme": "book/volume-ii/civ-14/README.md"
+        "transcript": "lectures/civilization/civ-14/civ-14-transcript.md",
+        "commentary": "lectures/civilization/civ-14/civ-14-commentary.md",
+        "folder": "lectures/civilization/civ-14",
+        "folder_readme": "lectures/civilization/civ-14/README.md"
       },
       "transcript_word_count": 9770,
       "source_video_url": "https://www.youtube.com/watch?v=TdcE7XGDayo",
@@ -399,10 +399,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-15/civ-15-transcript.md",
-        "commentary": "book/volume-ii/civ-15/civ-15-commentary.md",
-        "folder": "book/volume-ii/civ-15",
-        "folder_readme": "book/volume-ii/civ-15/README.md"
+        "transcript": "lectures/civilization/civ-15/civ-15-transcript.md",
+        "commentary": "lectures/civilization/civ-15/civ-15-commentary.md",
+        "folder": "lectures/civilization/civ-15",
+        "folder_readme": "lectures/civilization/civ-15/README.md"
       },
       "transcript_word_count": 9121,
       "source_video_url": "https://www.youtube.com/watch?v=F8qQgsEFGgc",
@@ -420,10 +420,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-16/civ-16-transcript.md",
-        "commentary": "book/volume-ii/civ-16/civ-16-commentary.md",
-        "folder": "book/volume-ii/civ-16",
-        "folder_readme": "book/volume-ii/civ-16/README.md"
+        "transcript": "lectures/civilization/civ-16/civ-16-transcript.md",
+        "commentary": "lectures/civilization/civ-16/civ-16-commentary.md",
+        "folder": "lectures/civilization/civ-16",
+        "folder_readme": "lectures/civilization/civ-16/README.md"
       },
       "transcript_word_count": 6835,
       "source_video_url": "https://www.youtube.com/watch?v=Dc54IquR7ik",
@@ -441,10 +441,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-ii/civ-17/civ-17-transcript.md",
-        "commentary": "book/volume-ii/civ-17/civ-17-commentary.md",
-        "folder": "book/volume-ii/civ-17",
-        "folder_readme": "book/volume-ii/civ-17/README.md"
+        "transcript": "lectures/civilization/civ-17/civ-17-transcript.md",
+        "commentary": "lectures/civilization/civ-17/civ-17-commentary.md",
+        "folder": "lectures/civilization/civ-17",
+        "folder_readme": "lectures/civilization/civ-17/README.md"
       },
       "transcript_word_count": 7619,
       "source_video_url": "https://www.youtube.com/watch?v=myTurqU7NxU",
@@ -462,10 +462,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-18/civ-18-transcript.md",
-        "commentary": "book/volume-ii/civ-18/civ-18-commentary.md",
-        "folder": "book/volume-ii/civ-18",
-        "folder_readme": "book/volume-ii/civ-18/README.md"
+        "transcript": "lectures/civilization/civ-18/civ-18-transcript.md",
+        "commentary": "lectures/civilization/civ-18/civ-18-commentary.md",
+        "folder": "lectures/civilization/civ-18",
+        "folder_readme": "lectures/civilization/civ-18/README.md"
       },
       "transcript_word_count": 7111,
       "source_video_url": "https://www.youtube.com/watch?v=KSSSCznYrGo",
@@ -483,10 +483,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-19/civ-19-transcript.md",
-        "commentary": "book/volume-ii/civ-19/civ-19-commentary.md",
-        "folder": "book/volume-ii/civ-19",
-        "folder_readme": "book/volume-ii/civ-19/README.md"
+        "transcript": "lectures/civilization/civ-19/civ-19-transcript.md",
+        "commentary": "lectures/civilization/civ-19/civ-19-commentary.md",
+        "folder": "lectures/civilization/civ-19",
+        "folder_readme": "lectures/civilization/civ-19/README.md"
       },
       "transcript_word_count": 6280,
       "source_video_url": "https://www.youtube.com/watch?v=e92jyBMmAyM",
@@ -504,10 +504,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-ii/civ-20/civ-20-transcript.md",
-        "commentary": "book/volume-ii/civ-20/civ-20-commentary.md",
-        "folder": "book/volume-ii/civ-20",
-        "folder_readme": "book/volume-ii/civ-20/README.md"
+        "transcript": "lectures/civilization/civ-20/civ-20-transcript.md",
+        "commentary": "lectures/civilization/civ-20/civ-20-commentary.md",
+        "folder": "lectures/civilization/civ-20",
+        "folder_readme": "lectures/civilization/civ-20/README.md"
       },
       "transcript_word_count": 4412,
       "source_video_url": "https://www.youtube.com/watch?v=cvI8rukoda8",
@@ -525,10 +525,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-21/civ-21-transcript.md",
-        "commentary": "book/volume-ii/civ-21/civ-21-commentary.md",
-        "folder": "book/volume-ii/civ-21",
-        "folder_readme": "book/volume-ii/civ-21/README.md"
+        "transcript": "lectures/civilization/civ-21/civ-21-transcript.md",
+        "commentary": "lectures/civilization/civ-21/civ-21-commentary.md",
+        "folder": "lectures/civilization/civ-21",
+        "folder_readme": "lectures/civilization/civ-21/README.md"
       },
       "transcript_word_count": 9303,
       "source_video_url": "https://www.youtube.com/watch?v=RkpGrRUgjnk",
@@ -546,10 +546,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-22/civ-22-transcript.md",
-        "commentary": "book/volume-ii/civ-22/civ-22-commentary.md",
-        "folder": "book/volume-ii/civ-22",
-        "folder_readme": "book/volume-ii/civ-22/README.md"
+        "transcript": "lectures/civilization/civ-22/civ-22-transcript.md",
+        "commentary": "lectures/civilization/civ-22/civ-22-commentary.md",
+        "folder": "lectures/civilization/civ-22",
+        "folder_readme": "lectures/civilization/civ-22/README.md"
       },
       "transcript_word_count": 8176,
       "source_video_url": "https://www.youtube.com/watch?v=GhLd_h1QsL4",
@@ -568,10 +568,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-23/civ-23-transcript.md",
-        "commentary": "book/volume-ii/civ-23/civ-23-commentary.md",
-        "folder": "book/volume-ii/civ-23",
-        "folder_readme": "book/volume-ii/civ-23/README.md"
+        "transcript": "lectures/civilization/civ-23/civ-23-transcript.md",
+        "commentary": "lectures/civilization/civ-23/civ-23-commentary.md",
+        "folder": "lectures/civilization/civ-23",
+        "folder_readme": "lectures/civilization/civ-23/README.md"
       },
       "transcript_word_count": 8283,
       "source_video_url": "https://www.youtube.com/watch?v=HvVTNTPzq7E",
@@ -589,10 +589,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-ii/civ-24/civ-24-transcript.md",
-        "commentary": "book/volume-ii/civ-24/civ-24-commentary.md",
-        "folder": "book/volume-ii/civ-24",
-        "folder_readme": "book/volume-ii/civ-24/README.md"
+        "transcript": "lectures/civilization/civ-24/civ-24-transcript.md",
+        "commentary": "lectures/civilization/civ-24/civ-24-commentary.md",
+        "folder": "lectures/civilization/civ-24",
+        "folder_readme": "lectures/civilization/civ-24/README.md"
       },
       "transcript_word_count": 7561,
       "source_video_url": "https://www.youtube.com/watch?v=_bXHBT5NTfc",
@@ -610,10 +610,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-25/civ-25-transcript.md",
-        "commentary": "book/volume-ii/civ-25/civ-25-commentary.md",
-        "folder": "book/volume-ii/civ-25",
-        "folder_readme": "book/volume-ii/civ-25/README.md"
+        "transcript": "lectures/civilization/civ-25/civ-25-transcript.md",
+        "commentary": "lectures/civilization/civ-25/civ-25-commentary.md",
+        "folder": "lectures/civilization/civ-25",
+        "folder_readme": "lectures/civilization/civ-25/README.md"
       },
       "transcript_word_count": 7456,
       "source_video_url": "https://www.youtube.com/watch?v=kuMhSFXnr5I",
@@ -631,10 +631,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-26/civ-26-transcript.md",
-        "commentary": "book/volume-ii/civ-26/civ-26-commentary.md",
-        "folder": "book/volume-ii/civ-26",
-        "folder_readme": "book/volume-ii/civ-26/README.md"
+        "transcript": "lectures/civilization/civ-26/civ-26-transcript.md",
+        "commentary": "lectures/civilization/civ-26/civ-26-commentary.md",
+        "folder": "lectures/civilization/civ-26",
+        "folder_readme": "lectures/civilization/civ-26/README.md"
       },
       "transcript_word_count": 7156,
       "source_video_url": "https://www.youtube.com/watch?v=za30rbC3tTg",
@@ -652,10 +652,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-27/civ-27-transcript.md",
-        "commentary": "book/volume-ii/civ-27/civ-27-commentary.md",
-        "folder": "book/volume-ii/civ-27",
-        "folder_readme": "book/volume-ii/civ-27/README.md"
+        "transcript": "lectures/civilization/civ-27/civ-27-transcript.md",
+        "commentary": "lectures/civilization/civ-27/civ-27-commentary.md",
+        "folder": "lectures/civilization/civ-27",
+        "folder_readme": "lectures/civilization/civ-27/README.md"
       },
       "transcript_word_count": 7300,
       "source_video_url": "https://www.youtube.com/watch?v=GdbZBVUIVDE",
@@ -673,10 +673,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-28/civ-28-transcript.md",
-        "commentary": "book/volume-ii/civ-28/civ-28-commentary.md",
-        "folder": "book/volume-ii/civ-28",
-        "folder_readme": "book/volume-ii/civ-28/README.md"
+        "transcript": "lectures/civilization/civ-28/civ-28-transcript.md",
+        "commentary": "lectures/civilization/civ-28/civ-28-commentary.md",
+        "folder": "lectures/civilization/civ-28",
+        "folder_readme": "lectures/civilization/civ-28/README.md"
       },
       "transcript_word_count": 5921,
       "source_video_url": "https://www.youtube.com/watch?v=C9rzPGJ0wm4",
@@ -694,10 +694,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-29/civ-29-transcript.md",
-        "commentary": "book/volume-ii/civ-29/civ-29-commentary.md",
-        "folder": "book/volume-ii/civ-29",
-        "folder_readme": "book/volume-ii/civ-29/README.md"
+        "transcript": "lectures/civilization/civ-29/civ-29-transcript.md",
+        "commentary": "lectures/civilization/civ-29/civ-29-commentary.md",
+        "folder": "lectures/civilization/civ-29",
+        "folder_readme": "lectures/civilization/civ-29/README.md"
       },
       "transcript_word_count": 6815,
       "source_video_url": "https://www.youtube.com/watch?v=GfqJi0qevok",
@@ -716,10 +716,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-30/civ-30-transcript.md",
-        "commentary": "book/volume-ii/civ-30/civ-30-commentary.md",
-        "folder": "book/volume-ii/civ-30",
-        "folder_readme": "book/volume-ii/civ-30/README.md"
+        "transcript": "lectures/civilization/civ-30/civ-30-transcript.md",
+        "commentary": "lectures/civilization/civ-30/civ-30-commentary.md",
+        "folder": "lectures/civilization/civ-30",
+        "folder_readme": "lectures/civilization/civ-30/README.md"
       },
       "transcript_word_count": 8397,
       "source_video_url": "https://www.youtube.com/watch?v=asbKjezwIJM",
@@ -737,10 +737,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-31/civ-31-transcript.md",
-        "commentary": "book/volume-ii/civ-31/civ-31-commentary.md",
-        "folder": "book/volume-ii/civ-31",
-        "folder_readme": "book/volume-ii/civ-31/README.md"
+        "transcript": "lectures/civilization/civ-31/civ-31-transcript.md",
+        "commentary": "lectures/civilization/civ-31/civ-31-commentary.md",
+        "folder": "lectures/civilization/civ-31",
+        "folder_readme": "lectures/civilization/civ-31/README.md"
       },
       "transcript_word_count": 9061,
       "source_video_url": "https://www.youtube.com/watch?v=HIoYQBbBllk",
@@ -758,10 +758,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-32/civ-32-transcript.md",
-        "commentary": "book/volume-ii/civ-32/civ-32-commentary.md",
-        "folder": "book/volume-ii/civ-32",
-        "folder_readme": "book/volume-ii/civ-32/README.md"
+        "transcript": "lectures/civilization/civ-32/civ-32-transcript.md",
+        "commentary": "lectures/civilization/civ-32/civ-32-commentary.md",
+        "folder": "lectures/civilization/civ-32",
+        "folder_readme": "lectures/civilization/civ-32/README.md"
       },
       "transcript_word_count": 8675,
       "source_video_url": "https://www.youtube.com/watch?v=_Io7-_RS8uE",
@@ -779,10 +779,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-33/civ-33-transcript.md",
-        "commentary": "book/volume-ii/civ-33/civ-33-commentary.md",
-        "folder": "book/volume-ii/civ-33",
-        "folder_readme": "book/volume-ii/civ-33/README.md"
+        "transcript": "lectures/civilization/civ-33/civ-33-transcript.md",
+        "commentary": "lectures/civilization/civ-33/civ-33-commentary.md",
+        "folder": "lectures/civilization/civ-33",
+        "folder_readme": "lectures/civilization/civ-33/README.md"
       },
       "transcript_word_count": 9009,
       "source_video_url": "https://www.youtube.com/watch?v=abs6z7VPEMc",
@@ -800,10 +800,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-34/civ-34-transcript.md",
-        "commentary": "book/volume-ii/civ-34/civ-34-commentary.md",
-        "folder": "book/volume-ii/civ-34",
-        "folder_readme": "book/volume-ii/civ-34/README.md"
+        "transcript": "lectures/civilization/civ-34/civ-34-transcript.md",
+        "commentary": "lectures/civilization/civ-34/civ-34-commentary.md",
+        "folder": "lectures/civilization/civ-34",
+        "folder_readme": "lectures/civilization/civ-34/README.md"
       },
       "transcript_word_count": 8331,
       "source_video_url": "https://www.youtube.com/watch?v=1dwvgtc7XzY",
@@ -821,10 +821,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-35/civ-35-transcript.md",
-        "commentary": "book/volume-ii/civ-35/civ-35-commentary.md",
-        "folder": "book/volume-ii/civ-35",
-        "folder_readme": "book/volume-ii/civ-35/README.md"
+        "transcript": "lectures/civilization/civ-35/civ-35-transcript.md",
+        "commentary": "lectures/civilization/civ-35/civ-35-commentary.md",
+        "folder": "lectures/civilization/civ-35",
+        "folder_readme": "lectures/civilization/civ-35/README.md"
       },
       "transcript_word_count": 9311,
       "source_video_url": "https://www.youtube.com/watch?v=7k5XoLzwmls",
@@ -842,10 +842,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-36/civ-36-transcript.md",
-        "commentary": "book/volume-ii/civ-36/civ-36-commentary.md",
-        "folder": "book/volume-ii/civ-36",
-        "folder_readme": "book/volume-ii/civ-36/README.md"
+        "transcript": "lectures/civilization/civ-36/civ-36-transcript.md",
+        "commentary": "lectures/civilization/civ-36/civ-36-commentary.md",
+        "folder": "lectures/civilization/civ-36",
+        "folder_readme": "lectures/civilization/civ-36/README.md"
       },
       "transcript_word_count": 10436,
       "source_video_url": "https://www.youtube.com/watch?v=tYMNsa83NHY",
@@ -863,10 +863,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-37/civ-37-transcript.md",
-        "commentary": "book/volume-ii/civ-37/civ-37-commentary.md",
-        "folder": "book/volume-ii/civ-37",
-        "folder_readme": "book/volume-ii/civ-37/README.md"
+        "transcript": "lectures/civilization/civ-37/civ-37-transcript.md",
+        "commentary": "lectures/civilization/civ-37/civ-37-commentary.md",
+        "folder": "lectures/civilization/civ-37",
+        "folder_readme": "lectures/civilization/civ-37/README.md"
       },
       "transcript_word_count": 10810,
       "source_video_url": "https://www.youtube.com/watch?v=2OdO8LoKuo8",
@@ -884,10 +884,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-38/civ-38-transcript.md",
-        "commentary": "book/volume-ii/civ-38/civ-38-commentary.md",
-        "folder": "book/volume-ii/civ-38",
-        "folder_readme": "book/volume-ii/civ-38/README.md"
+        "transcript": "lectures/civilization/civ-38/civ-38-transcript.md",
+        "commentary": "lectures/civilization/civ-38/civ-38-commentary.md",
+        "folder": "lectures/civilization/civ-38",
+        "folder_readme": "lectures/civilization/civ-38/README.md"
       },
       "transcript_word_count": 9114,
       "source_video_url": "https://www.youtube.com/watch?v=A2LMJerHcKM",
@@ -905,10 +905,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-39/civ-39-transcript.md",
-        "commentary": "book/volume-ii/civ-39/civ-39-commentary.md",
-        "folder": "book/volume-ii/civ-39",
-        "folder_readme": "book/volume-ii/civ-39/README.md"
+        "transcript": "lectures/civilization/civ-39/civ-39-transcript.md",
+        "commentary": "lectures/civilization/civ-39/civ-39-commentary.md",
+        "folder": "lectures/civilization/civ-39",
+        "folder_readme": "lectures/civilization/civ-39/README.md"
       },
       "transcript_word_count": 9906,
       "source_video_url": "https://www.youtube.com/watch?v=mPQzAPnjYkM",
@@ -926,10 +926,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-40/civ-40-transcript.md",
-        "commentary": "book/volume-ii/civ-40/civ-40-commentary.md",
-        "folder": "book/volume-ii/civ-40",
-        "folder_readme": "book/volume-ii/civ-40/README.md"
+        "transcript": "lectures/civilization/civ-40/civ-40-transcript.md",
+        "commentary": "lectures/civilization/civ-40/civ-40-commentary.md",
+        "folder": "lectures/civilization/civ-40",
+        "folder_readme": "lectures/civilization/civ-40/README.md"
       },
       "transcript_word_count": 10144,
       "source_video_url": "https://www.youtube.com/watch?v=3751ZjwmrBw",
@@ -947,10 +947,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-41/civ-41-transcript.md",
-        "commentary": "book/volume-ii/civ-41/civ-41-commentary.md",
-        "folder": "book/volume-ii/civ-41",
-        "folder_readme": "book/volume-ii/civ-41/README.md"
+        "transcript": "lectures/civilization/civ-41/civ-41-transcript.md",
+        "commentary": "lectures/civilization/civ-41/civ-41-commentary.md",
+        "folder": "lectures/civilization/civ-41",
+        "folder_readme": "lectures/civilization/civ-41/README.md"
       },
       "transcript_word_count": 10838,
       "source_video_url": "https://www.youtube.com/watch?v=v6CDqJnrvLk",
@@ -968,10 +968,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-42/civ-42-transcript.md",
-        "commentary": "book/volume-ii/civ-42/civ-42-commentary.md",
-        "folder": "book/volume-ii/civ-42",
-        "folder_readme": "book/volume-ii/civ-42/README.md"
+        "transcript": "lectures/civilization/civ-42/civ-42-transcript.md",
+        "commentary": "lectures/civilization/civ-42/civ-42-commentary.md",
+        "folder": "lectures/civilization/civ-42",
+        "folder_readme": "lectures/civilization/civ-42/README.md"
       },
       "transcript_word_count": 11979,
       "source_video_url": "https://www.youtube.com/watch?v=TcxlOiJz8V0",
@@ -989,10 +989,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-43/civ-43-transcript.md",
-        "commentary": "book/volume-ii/civ-43/civ-43-commentary.md",
-        "folder": "book/volume-ii/civ-43",
-        "folder_readme": "book/volume-ii/civ-43/README.md"
+        "transcript": "lectures/civilization/civ-43/civ-43-transcript.md",
+        "commentary": "lectures/civilization/civ-43/civ-43-commentary.md",
+        "folder": "lectures/civilization/civ-43",
+        "folder_readme": "lectures/civilization/civ-43/README.md"
       },
       "transcript_word_count": 11769,
       "source_video_url": "https://www.youtube.com/watch?v=CjtUnKcU1IA",
@@ -1010,10 +1010,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-44/civ-44-transcript.md",
-        "commentary": "book/volume-ii/civ-44/civ-44-commentary.md",
-        "folder": "book/volume-ii/civ-44",
-        "folder_readme": "book/volume-ii/civ-44/README.md"
+        "transcript": "lectures/civilization/civ-44/civ-44-transcript.md",
+        "commentary": "lectures/civilization/civ-44/civ-44-commentary.md",
+        "folder": "lectures/civilization/civ-44",
+        "folder_readme": "lectures/civilization/civ-44/README.md"
       },
       "transcript_word_count": 8609,
       "source_video_url": "https://www.youtube.com/watch?v=-DnfGcvZrfA",
@@ -1031,10 +1031,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-45/civ-45-transcript.md",
-        "commentary": "book/volume-ii/civ-45/civ-45-commentary.md",
-        "folder": "book/volume-ii/civ-45",
-        "folder_readme": "book/volume-ii/civ-45/README.md"
+        "transcript": "lectures/civilization/civ-45/civ-45-transcript.md",
+        "commentary": "lectures/civilization/civ-45/civ-45-commentary.md",
+        "folder": "lectures/civilization/civ-45",
+        "folder_readme": "lectures/civilization/civ-45/README.md"
       },
       "transcript_word_count": 9953,
       "source_video_url": "https://www.youtube.com/watch?v=DiRJyy-8V54",
@@ -1052,10 +1052,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-46/civ-46-transcript.md",
-        "commentary": "book/volume-ii/civ-46/civ-46-commentary.md",
-        "folder": "book/volume-ii/civ-46",
-        "folder_readme": "book/volume-ii/civ-46/README.md"
+        "transcript": "lectures/civilization/civ-46/civ-46-transcript.md",
+        "commentary": "lectures/civilization/civ-46/civ-46-commentary.md",
+        "folder": "lectures/civilization/civ-46",
+        "folder_readme": "lectures/civilization/civ-46/README.md"
       },
       "transcript_word_count": 13018,
       "source_video_url": "https://www.youtube.com/watch?v=5HwZx5kQm9o",
@@ -1073,10 +1073,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-47/civ-47-transcript.md",
-        "commentary": "book/volume-ii/civ-47/civ-47-commentary.md",
-        "folder": "book/volume-ii/civ-47",
-        "folder_readme": "book/volume-ii/civ-47/README.md"
+        "transcript": "lectures/civilization/civ-47/civ-47-transcript.md",
+        "commentary": "lectures/civilization/civ-47/civ-47-commentary.md",
+        "folder": "lectures/civilization/civ-47",
+        "folder_readme": "lectures/civilization/civ-47/README.md"
       },
       "transcript_word_count": 12461,
       "source_video_url": "https://www.youtube.com/watch?v=ef-Ch2LGDDI",
@@ -1094,10 +1094,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-48/civ-48-transcript.md",
-        "commentary": "book/volume-ii/civ-48/civ-48-commentary.md",
-        "folder": "book/volume-ii/civ-48",
-        "folder_readme": "book/volume-ii/civ-48/README.md"
+        "transcript": "lectures/civilization/civ-48/civ-48-transcript.md",
+        "commentary": "lectures/civilization/civ-48/civ-48-commentary.md",
+        "folder": "lectures/civilization/civ-48",
+        "folder_readme": "lectures/civilization/civ-48/README.md"
       },
       "transcript_word_count": 10932,
       "source_video_url": "https://www.youtube.com/watch?v=enEET_0j_Y8",
@@ -1115,10 +1115,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-49/civ-49-transcript.md",
-        "commentary": "book/volume-ii/civ-49/civ-49-commentary.md",
-        "folder": "book/volume-ii/civ-49",
-        "folder_readme": "book/volume-ii/civ-49/README.md"
+        "transcript": "lectures/civilization/civ-49/civ-49-transcript.md",
+        "commentary": "lectures/civilization/civ-49/civ-49-commentary.md",
+        "folder": "lectures/civilization/civ-49",
+        "folder_readme": "lectures/civilization/civ-49/README.md"
       },
       "transcript_word_count": 10574,
       "source_video_url": "https://www.youtube.com/watch?v=JZ8P-FZHWnQ",
@@ -1136,10 +1136,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-50/civ-50-transcript.md",
-        "commentary": "book/volume-ii/civ-50/civ-50-commentary.md",
-        "folder": "book/volume-ii/civ-50",
-        "folder_readme": "book/volume-ii/civ-50/README.md"
+        "transcript": "lectures/civilization/civ-50/civ-50-transcript.md",
+        "commentary": "lectures/civilization/civ-50/civ-50-commentary.md",
+        "folder": "lectures/civilization/civ-50",
+        "folder_readme": "lectures/civilization/civ-50/README.md"
       },
       "transcript_word_count": 10355,
       "source_video_url": "https://www.youtube.com/watch?v=laGSxfvlOfk",
@@ -1157,10 +1157,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-51/civ-51-transcript.md",
-        "commentary": "book/volume-ii/civ-51/civ-51-commentary.md",
-        "folder": "book/volume-ii/civ-51",
-        "folder_readme": "book/volume-ii/civ-51/README.md"
+        "transcript": "lectures/civilization/civ-51/civ-51-transcript.md",
+        "commentary": "lectures/civilization/civ-51/civ-51-commentary.md",
+        "folder": "lectures/civilization/civ-51",
+        "folder_readme": "lectures/civilization/civ-51/README.md"
       },
       "transcript_word_count": 11550,
       "source_video_url": "https://www.youtube.com/watch?v=Qms7trnKwqQ",
@@ -1178,10 +1178,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-52/civ-52-transcript.md",
-        "commentary": "book/volume-ii/civ-52/civ-52-commentary.md",
-        "folder": "book/volume-ii/civ-52",
-        "folder_readme": "book/volume-ii/civ-52/README.md"
+        "transcript": "lectures/civilization/civ-52/civ-52-transcript.md",
+        "commentary": "lectures/civilization/civ-52/civ-52-commentary.md",
+        "folder": "lectures/civilization/civ-52",
+        "folder_readme": "lectures/civilization/civ-52/README.md"
       },
       "transcript_word_count": 10065,
       "source_video_url": "https://www.youtube.com/watch?v=ea20aMYfT5I",
@@ -1199,10 +1199,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-53/civ-53-transcript.md",
-        "commentary": "book/volume-ii/civ-53/civ-53-commentary.md",
-        "folder": "book/volume-ii/civ-53",
-        "folder_readme": "book/volume-ii/civ-53/README.md"
+        "transcript": "lectures/civilization/civ-53/civ-53-transcript.md",
+        "commentary": "lectures/civilization/civ-53/civ-53-commentary.md",
+        "folder": "lectures/civilization/civ-53",
+        "folder_readme": "lectures/civilization/civ-53/README.md"
       },
       "transcript_word_count": 10956,
       "source_video_url": "https://www.youtube.com/watch?v=0rALqcPWuH0",
@@ -1220,10 +1220,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-54/civ-54-transcript.md",
-        "commentary": "book/volume-ii/civ-54/civ-54-commentary.md",
-        "folder": "book/volume-ii/civ-54",
-        "folder_readme": "book/volume-ii/civ-54/README.md"
+        "transcript": "lectures/civilization/civ-54/civ-54-transcript.md",
+        "commentary": "lectures/civilization/civ-54/civ-54-commentary.md",
+        "folder": "lectures/civilization/civ-54",
+        "folder_readme": "lectures/civilization/civ-54/README.md"
       },
       "transcript_word_count": 11774,
       "source_video_url": "https://www.youtube.com/watch?v=o2Nq--qU9Kc",
@@ -1241,10 +1241,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-55/civ-55-transcript.md",
-        "commentary": "book/volume-ii/civ-55/civ-55-commentary.md",
-        "folder": "book/volume-ii/civ-55",
-        "folder_readme": "book/volume-ii/civ-55/README.md"
+        "transcript": "lectures/civilization/civ-55/civ-55-transcript.md",
+        "commentary": "lectures/civilization/civ-55/civ-55-commentary.md",
+        "folder": "lectures/civilization/civ-55",
+        "folder_readme": "lectures/civilization/civ-55/README.md"
       },
       "transcript_word_count": 10376,
       "source_video_url": "https://www.youtube.com/watch?v=_3c3FjS57x4",
@@ -1262,10 +1262,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-56/civ-56-transcript.md",
-        "commentary": "book/volume-ii/civ-56/civ-56-commentary.md",
-        "folder": "book/volume-ii/civ-56",
-        "folder_readme": "book/volume-ii/civ-56/README.md"
+        "transcript": "lectures/civilization/civ-56/civ-56-transcript.md",
+        "commentary": "lectures/civilization/civ-56/civ-56-commentary.md",
+        "folder": "lectures/civilization/civ-56",
+        "folder_readme": "lectures/civilization/civ-56/README.md"
       },
       "transcript_word_count": 11894,
       "source_video_url": "https://www.youtube.com/watch?v=m24LnQ-Ksjk",
@@ -1283,10 +1283,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-57/civ-57-transcript.md",
-        "commentary": "book/volume-ii/civ-57/civ-57-commentary.md",
-        "folder": "book/volume-ii/civ-57",
-        "folder_readme": "book/volume-ii/civ-57/README.md"
+        "transcript": "lectures/civilization/civ-57/civ-57-transcript.md",
+        "commentary": "lectures/civilization/civ-57/civ-57-commentary.md",
+        "folder": "lectures/civilization/civ-57",
+        "folder_readme": "lectures/civilization/civ-57/README.md"
       },
       "transcript_word_count": 9086,
       "source_video_url": "https://www.youtube.com/watch?v=cylkQPsfFRY",
@@ -1304,10 +1304,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-58/civ-58-transcript.md",
-        "commentary": "book/volume-ii/civ-58/civ-58-commentary.md",
-        "folder": "book/volume-ii/civ-58",
-        "folder_readme": "book/volume-ii/civ-58/README.md"
+        "transcript": "lectures/civilization/civ-58/civ-58-transcript.md",
+        "commentary": "lectures/civilization/civ-58/civ-58-commentary.md",
+        "folder": "lectures/civilization/civ-58",
+        "folder_readme": "lectures/civilization/civ-58/README.md"
       },
       "transcript_word_count": 9431,
       "source_video_url": "https://www.youtube.com/watch?v=tquo1UsC5Nw",
@@ -1325,10 +1325,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-59/civ-59-transcript.md",
-        "commentary": "book/volume-ii/civ-59/civ-59-commentary.md",
-        "folder": "book/volume-ii/civ-59",
-        "folder_readme": "book/volume-ii/civ-59/README.md"
+        "transcript": "lectures/civilization/civ-59/civ-59-transcript.md",
+        "commentary": "lectures/civilization/civ-59/civ-59-commentary.md",
+        "folder": "lectures/civilization/civ-59",
+        "folder_readme": "lectures/civilization/civ-59/README.md"
       },
       "transcript_word_count": 11679,
       "source_video_url": "https://www.youtube.com/watch?v=QtqfIjK1GAc",
@@ -1346,10 +1346,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-ii/civ-60/civ-60-transcript.md",
-        "commentary": "book/volume-ii/civ-60/civ-60-commentary.md",
-        "folder": "book/volume-ii/civ-60",
-        "folder_readme": "book/volume-ii/civ-60/README.md"
+        "transcript": "lectures/civilization/civ-60/civ-60-transcript.md",
+        "commentary": "lectures/civilization/civ-60/civ-60-commentary.md",
+        "folder": "lectures/civilization/civ-60",
+        "folder_readme": "lectures/civilization/civ-60/README.md"
       },
       "transcript_word_count": 10817,
       "source_video_url": "https://www.youtube.com/watch?v=_gH4PvIni5E",
@@ -2184,10 +2184,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-v/gb-01/gb-01-transcript.md",
-        "commentary": "book/volume-v/gb-01/gb-01-commentary.md",
-        "folder": "book/volume-v/gb-01",
-        "folder_readme": "book/volume-v/gb-01/README.md"
+        "transcript": "lectures/great-books/gb-01/gb-01-transcript.md",
+        "commentary": "lectures/great-books/gb-01/gb-01-commentary.md",
+        "folder": "lectures/great-books/gb-01",
+        "folder_readme": "lectures/great-books/gb-01/README.md"
       },
       "transcript_word_count": 5914,
       "source_video_url": "https://www.youtube.com/watch?v=TsD-8FGA84A",
@@ -2205,10 +2205,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-v/gb-02/gb-02-transcript.md",
-        "commentary": "book/volume-v/gb-02/gb-02-commentary.md",
-        "folder": "book/volume-v/gb-02",
-        "folder_readme": "book/volume-v/gb-02/README.md"
+        "transcript": "lectures/great-books/gb-02/gb-02-transcript.md",
+        "commentary": "lectures/great-books/gb-02/gb-02-commentary.md",
+        "folder": "lectures/great-books/gb-02",
+        "folder_readme": "lectures/great-books/gb-02/README.md"
       },
       "transcript_word_count": 4820,
       "source_video_url": "https://www.youtube.com/watch?v=Ft2CuowGuYc",
@@ -2227,10 +2227,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-v/gb-03/gb-03-transcript.md",
-        "commentary": "book/volume-v/gb-03/gb-03-commentary.md",
-        "folder": "book/volume-v/gb-03",
-        "folder_readme": "book/volume-v/gb-03/README.md"
+        "transcript": "lectures/great-books/gb-03/gb-03-transcript.md",
+        "commentary": "lectures/great-books/gb-03/gb-03-commentary.md",
+        "folder": "lectures/great-books/gb-03",
+        "folder_readme": "lectures/great-books/gb-03/README.md"
       },
       "transcript_word_count": 6095,
       "source_video_url": "https://www.youtube.com/watch?v=XRP407WsA0w",
@@ -2249,10 +2249,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-v/gb-04/gb-04-transcript.md",
-        "commentary": "book/volume-v/gb-04/gb-04-commentary.md",
-        "folder": "book/volume-v/gb-04",
-        "folder_readme": "book/volume-v/gb-04/README.md"
+        "transcript": "lectures/great-books/gb-04/gb-04-transcript.md",
+        "commentary": "lectures/great-books/gb-04/gb-04-commentary.md",
+        "folder": "lectures/great-books/gb-04",
+        "folder_readme": "lectures/great-books/gb-04/README.md"
       },
       "transcript_word_count": 7800,
       "source_video_url": "https://www.youtube.com/watch?v=dkzr5A8IlLA",
@@ -2270,10 +2270,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-v/gb-05/gb-05-transcript.md",
-        "commentary": "book/volume-v/gb-05/gb-05-commentary.md",
-        "folder": "book/volume-v/gb-05",
-        "folder_readme": "book/volume-v/gb-05/README.md"
+        "transcript": "lectures/great-books/gb-05/gb-05-transcript.md",
+        "commentary": "lectures/great-books/gb-05/gb-05-commentary.md",
+        "folder": "lectures/great-books/gb-05",
+        "folder_readme": "lectures/great-books/gb-05/README.md"
       },
       "transcript_word_count": 6110,
       "source_video_url": "https://www.youtube.com/watch?v=gXlcR7uHHdA",
@@ -2292,10 +2292,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-v/gb-06/gb-06-transcript.md",
-        "commentary": "book/volume-v/gb-06/gb-06-commentary.md",
-        "folder": "book/volume-v/gb-06",
-        "folder_readme": "book/volume-v/gb-06/README.md"
+        "transcript": "lectures/great-books/gb-06/gb-06-transcript.md",
+        "commentary": "lectures/great-books/gb-06/gb-06-commentary.md",
+        "folder": "lectures/great-books/gb-06",
+        "folder_readme": "lectures/great-books/gb-06/README.md"
       },
       "transcript_word_count": 4714,
       "source_video_url": "https://www.youtube.com/watch?v=aS-NfPSPMu8",
@@ -2313,10 +2313,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-v/gb-07/gb-07-transcript.md",
-        "commentary": "book/volume-v/gb-07/gb-07-commentary.md",
-        "folder": "book/volume-v/gb-07",
-        "folder_readme": "book/volume-v/gb-07/README.md"
+        "transcript": "lectures/great-books/gb-07/gb-07-transcript.md",
+        "commentary": "lectures/great-books/gb-07/gb-07-commentary.md",
+        "folder": "lectures/great-books/gb-07",
+        "folder_readme": "lectures/great-books/gb-07/README.md"
       },
       "transcript_word_count": 4484,
       "source_video_url": "https://www.youtube.com/watch?v=EBWTRvjZ1dw",
@@ -2335,10 +2335,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-v/gb-08/gb-08-transcript.md",
-        "commentary": "book/volume-v/gb-08/gb-08-commentary.md",
-        "folder": "book/volume-v/gb-08",
-        "folder_readme": "book/volume-v/gb-08/README.md"
+        "transcript": "lectures/great-books/gb-08/gb-08-transcript.md",
+        "commentary": "lectures/great-books/gb-08/gb-08-commentary.md",
+        "folder": "lectures/great-books/gb-08",
+        "folder_readme": "lectures/great-books/gb-08/README.md"
       },
       "transcript_word_count": 7222,
       "source_video_url": "https://www.youtube.com/watch?v=YXTRlvFIRt8",
@@ -2357,10 +2357,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-v/gb-09/gb-09-transcript.md",
-        "commentary": "book/volume-v/gb-09/gb-09-commentary.md",
-        "folder": "book/volume-v/gb-09",
-        "folder_readme": "book/volume-v/gb-09/README.md"
+        "transcript": "lectures/great-books/gb-09/gb-09-transcript.md",
+        "commentary": "lectures/great-books/gb-09/gb-09-commentary.md",
+        "folder": "lectures/great-books/gb-09",
+        "folder_readme": "lectures/great-books/gb-09/README.md"
       },
       "transcript_word_count": 2089,
       "source_video_url": "https://www.youtube.com/watch?v=4EZUrGPgAos",
@@ -2379,10 +2379,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-v/gb-10/gb-10-transcript.md",
-        "commentary": "book/volume-v/gb-10/gb-10-commentary.md",
-        "folder": "book/volume-v/gb-10",
-        "folder_readme": "book/volume-v/gb-10/README.md"
+        "transcript": "lectures/great-books/gb-10/gb-10-transcript.md",
+        "commentary": "lectures/great-books/gb-10/gb-10-commentary.md",
+        "folder": "lectures/great-books/gb-10",
+        "folder_readme": "lectures/great-books/gb-10/README.md"
       },
       "transcript_word_count": 6313,
       "source_video_url": "https://www.youtube.com/watch?v=wGpdMYa2bME",
@@ -2401,8 +2401,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-01-transcript.md",
-        "commentary": "book/volume-i/geo-01-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-01/geo-01-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-01/geo-01-commentary.md",
+        "folder": "lectures/geo-strategy/geo-01",
+        "folder_readme": "lectures/geo-strategy/geo-01/README.md"
       },
       "transcript_word_count": 5927,
       "source_video_url": "https://www.youtube.com/watch?v=xEEpOxqdU5E",
@@ -2420,8 +2422,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-02-transcript.md",
-        "commentary": "book/volume-i/geo-02-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-02/geo-02-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-02/geo-02-commentary.md",
+        "folder": "lectures/geo-strategy/geo-02",
+        "folder_readme": "lectures/geo-strategy/geo-02/README.md"
       },
       "transcript_word_count": 5212,
       "source_video_url": "https://www.youtube.com/watch?v=lkKrZq4YdqY",
@@ -2439,8 +2443,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-03-transcript.md",
-        "commentary": "book/volume-i/geo-03-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-03/geo-03-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-03/geo-03-commentary.md",
+        "folder": "lectures/geo-strategy/geo-03",
+        "folder_readme": "lectures/geo-strategy/geo-03/README.md"
       },
       "transcript_word_count": 6237,
       "source_video_url": "https://www.youtube.com/watch?v=_blj8zKdKgA",
@@ -2458,8 +2464,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-04-transcript.md",
-        "commentary": "book/volume-i/geo-04-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-04/geo-04-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-04/geo-04-commentary.md",
+        "folder": "lectures/geo-strategy/geo-04",
+        "folder_readme": "lectures/geo-strategy/geo-04/README.md"
       },
       "transcript_word_count": 4282,
       "source_video_url": "https://www.youtube.com/watch?v=LctUcVqhhns",
@@ -2477,8 +2485,10 @@
       "review_status": "in_review",
       "placement_weight": "light",
       "paths": {
-        "transcript": "book/volume-i/geo-05-transcript.md",
-        "commentary": "book/volume-i/geo-05-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-05/geo-05-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-05/geo-05-commentary.md",
+        "folder": "lectures/geo-strategy/geo-05",
+        "folder_readme": "lectures/geo-strategy/geo-05/README.md"
       },
       "transcript_word_count": 5332,
       "source_video_url": "https://www.youtube.com/watch?v=exRK-85630k",
@@ -2496,8 +2506,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-06-transcript.md",
-        "commentary": "book/volume-i/geo-06-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-06/geo-06-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-06/geo-06-commentary.md",
+        "folder": "lectures/geo-strategy/geo-06",
+        "folder_readme": "lectures/geo-strategy/geo-06/README.md"
       },
       "transcript_word_count": 7448,
       "source_video_url": "https://www.youtube.com/watch?v=JieFC4Yww4o",
@@ -2515,8 +2527,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-i/geo-07-transcript.md",
-        "commentary": "book/volume-i/geo-07-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-07/geo-07-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-07/geo-07-commentary.md",
+        "folder": "lectures/geo-strategy/geo-07",
+        "folder_readme": "lectures/geo-strategy/geo-07/README.md"
       },
       "transcript_word_count": 5883,
       "source_video_url": "https://www.youtube.com/watch?v=LsRGvKxfLts",
@@ -2534,8 +2548,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-08-transcript.md",
-        "commentary": "book/volume-i/geo-08-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-08/geo-08-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-08/geo-08-commentary.md",
+        "folder": "lectures/geo-strategy/geo-08",
+        "folder_readme": "lectures/geo-strategy/geo-08/README.md"
       },
       "transcript_word_count": 8463,
       "source_video_url": "https://www.youtube.com/watch?v=7y_hbz6loEo",
@@ -2553,8 +2569,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-09-transcript.md",
-        "commentary": "book/volume-i/geo-09-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-09/geo-09-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-09/geo-09-commentary.md",
+        "folder": "lectures/geo-strategy/geo-09",
+        "folder_readme": "lectures/geo-strategy/geo-09/README.md"
       },
       "transcript_word_count": 7989,
       "source_video_url": "https://www.youtube.com/watch?v=AEPSUC-UQ5k",
@@ -2572,8 +2590,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-10-transcript.md",
-        "commentary": "book/volume-i/geo-10-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-10/geo-10-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-10/geo-10-commentary.md",
+        "folder": "lectures/geo-strategy/geo-10",
+        "folder_readme": "lectures/geo-strategy/geo-10/README.md"
       },
       "transcript_word_count": 8635,
       "source_video_url": "https://www.youtube.com/watch?v=B_al2wgk49Y",
@@ -2591,8 +2611,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-11-transcript.md",
-        "commentary": "book/volume-i/geo-11-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-11/geo-11-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-11/geo-11-commentary.md",
+        "folder": "lectures/geo-strategy/geo-11",
+        "folder_readme": "lectures/geo-strategy/geo-11/README.md"
       },
       "transcript_word_count": 8860,
       "source_video_url": "https://www.youtube.com/watch?v=Go1bMQKnJBQ",
@@ -2610,8 +2632,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-i/geo-12-transcript.md",
-        "commentary": "book/volume-i/geo-12-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-12/geo-12-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-12/geo-12-commentary.md",
+        "folder": "lectures/geo-strategy/geo-12",
+        "folder_readme": "lectures/geo-strategy/geo-12/README.md"
       },
       "transcript_word_count": 8966,
       "source_video_url": "https://www.youtube.com/watch?v=s_k6esWheqA",
@@ -2629,8 +2653,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-13-transcript.md",
-        "commentary": "book/volume-i/geo-13-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-13/geo-13-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-13/geo-13-commentary.md",
+        "folder": "lectures/geo-strategy/geo-13",
+        "folder_readme": "lectures/geo-strategy/geo-13/README.md"
       },
       "transcript_word_count": 4155,
       "source_video_url": "https://www.youtube.com/watch?v=8XdL-7tAqnU",
@@ -2648,8 +2674,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-14-transcript.md",
-        "commentary": "book/volume-i/geo-14-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-14/geo-14-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-14/geo-14-commentary.md",
+        "folder": "lectures/geo-strategy/geo-14",
+        "folder_readme": "lectures/geo-strategy/geo-14/README.md"
       },
       "transcript_word_count": 3203,
       "source_video_url": "https://www.youtube.com/watch?v=N4cs-8mrP_s",
@@ -2667,8 +2695,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-15-transcript.md",
-        "commentary": "book/volume-i/geo-15-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-15/geo-15-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-15/geo-15-commentary.md",
+        "folder": "lectures/geo-strategy/geo-15",
+        "folder_readme": "lectures/geo-strategy/geo-15/README.md"
       },
       "transcript_word_count": 3203,
       "source_video_url": "https://www.youtube.com/watch?v=bc9adtiIN_k",
@@ -2686,8 +2716,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-16-transcript.md",
-        "commentary": "book/volume-i/geo-16-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-16/geo-16-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-16/geo-16-commentary.md",
+        "folder": "lectures/geo-strategy/geo-16",
+        "folder_readme": "lectures/geo-strategy/geo-16/README.md"
       },
       "transcript_word_count": 4356,
       "source_video_url": "https://www.youtube.com/watch?v=Kw-TiN6dEcM",
@@ -2705,8 +2737,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-17-transcript.md",
-        "commentary": "book/volume-i/geo-17-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-17/geo-17-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-17/geo-17-commentary.md",
+        "folder": "lectures/geo-strategy/geo-17",
+        "folder_readme": "lectures/geo-strategy/geo-17/README.md"
       },
       "transcript_word_count": 5440,
       "source_video_url": "https://www.youtube.com/watch?v=5I2VPYPJJ68",
@@ -2724,8 +2758,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-18-transcript.md",
-        "commentary": "book/volume-i/geo-18-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-18/geo-18-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-18/geo-18-commentary.md",
+        "folder": "lectures/geo-strategy/geo-18",
+        "folder_readme": "lectures/geo-strategy/geo-18/README.md"
       },
       "transcript_word_count": 5623,
       "source_video_url": "https://www.youtube.com/watch?v=ZgvAHZqaawA",
@@ -2743,8 +2779,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-19-transcript.md",
-        "commentary": "book/volume-i/geo-19-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-19/geo-19-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-19/geo-19-commentary.md",
+        "folder": "lectures/geo-strategy/geo-19",
+        "folder_readme": "lectures/geo-strategy/geo-19/README.md"
       },
       "transcript_word_count": 5421,
       "source_video_url": "https://www.youtube.com/watch?v=YQ-xg1nIbMs",
@@ -2762,8 +2800,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-i/geo-20-transcript.md",
-        "commentary": "book/volume-i/geo-20-commentary.md"
+        "transcript": "lectures/geo-strategy/geo-20/geo-20-transcript.md",
+        "commentary": "lectures/geo-strategy/geo-20/geo-20-commentary.md",
+        "folder": "lectures/geo-strategy/geo-20",
+        "folder_readme": "lectures/geo-strategy/geo-20/README.md"
       },
       "transcript_word_count": 5236,
       "source_video_url": "https://www.youtube.com/watch?v=E83dpuyvpiM",
@@ -2781,10 +2821,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-civ/chapters/gt-01/gt-01-transcript.md",
-        "commentary": "ph-civ/chapters/gt-01/gt-01-commentary.md",
-        "folder": "ph-civ/chapters/gt-01",
-        "folder_readme": "ph-civ/chapters/gt-01/README.md"
+        "transcript": "lectures/game-theory/gt-01/gt-01-transcript.md",
+        "commentary": "lectures/game-theory/gt-01/gt-01-commentary.md",
+        "folder": "lectures/game-theory/gt-01",
+        "folder_readme": "lectures/game-theory/gt-01/README.md"
       },
       "transcript_word_count": 6683,
       "source_video_url": "https://www.youtube.com/watch?v=hE4l9WyLF3U",
@@ -2802,10 +2842,10 @@
       "review_status": "provisional",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "ph-civ/chapters/gt-02/gt-02-transcript.md",
-        "commentary": "ph-civ/chapters/gt-02/gt-02-commentary.md",
-        "folder": "ph-civ/chapters/gt-02",
-        "folder_readme": "ph-civ/chapters/gt-02/README.md"
+        "transcript": "lectures/game-theory/gt-02/gt-02-transcript.md",
+        "commentary": "lectures/game-theory/gt-02/gt-02-commentary.md",
+        "folder": "lectures/game-theory/gt-02",
+        "folder_readme": "lectures/game-theory/gt-02/README.md"
       },
       "transcript_word_count": 7108,
       "source_video_url": "https://www.youtube.com/watch?v=kS-muAuq62E",
@@ -2823,10 +2863,10 @@
       "review_status": "provisional",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "ph-civ/chapters/gt-03/gt-03-transcript.md",
-        "commentary": "ph-civ/chapters/gt-03/gt-03-commentary.md",
-        "folder": "ph-civ/chapters/gt-03",
-        "folder_readme": "ph-civ/chapters/gt-03/README.md"
+        "transcript": "lectures/game-theory/gt-03/gt-03-transcript.md",
+        "commentary": "lectures/game-theory/gt-03/gt-03-commentary.md",
+        "folder": "lectures/game-theory/gt-03",
+        "folder_readme": "lectures/game-theory/gt-03/README.md"
       },
       "transcript_word_count": 6886,
       "source_video_url": "https://www.youtube.com/watch?v=MX93U4KzA28",
@@ -2844,10 +2884,10 @@
       "review_status": "provisional",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "ph-civ/chapters/gt-04/gt-04-transcript.md",
-        "commentary": "ph-civ/chapters/gt-04/gt-04-commentary.md",
-        "folder": "ph-civ/chapters/gt-04",
-        "folder_readme": "ph-civ/chapters/gt-04/README.md"
+        "transcript": "lectures/game-theory/gt-04/gt-04-transcript.md",
+        "commentary": "lectures/game-theory/gt-04/gt-04-commentary.md",
+        "folder": "lectures/game-theory/gt-04",
+        "folder_readme": "lectures/game-theory/gt-04/README.md"
       },
       "transcript_word_count": 5902,
       "source_video_url": "https://www.youtube.com/watch?v=35HRPLVyF0g",
@@ -2865,10 +2905,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-civ/chapters/gt-05/gt-05-transcript.md",
-        "commentary": "ph-civ/chapters/gt-05/gt-05-commentary.md",
-        "folder": "ph-civ/chapters/gt-05",
-        "folder_readme": "ph-civ/chapters/gt-05/README.md"
+        "transcript": "lectures/game-theory/gt-05/gt-05-transcript.md",
+        "commentary": "lectures/game-theory/gt-05/gt-05-commentary.md",
+        "folder": "lectures/game-theory/gt-05",
+        "folder_readme": "lectures/game-theory/gt-05/README.md"
       },
       "transcript_word_count": 8281,
       "source_video_url": "https://www.youtube.com/watch?v=ybufqRY77PQ",
@@ -2886,10 +2926,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-civ/chapters/gt-06/gt-06-transcript.md",
-        "commentary": "ph-civ/chapters/gt-06/gt-06-commentary.md",
-        "folder": "ph-civ/chapters/gt-06",
-        "folder_readme": "ph-civ/chapters/gt-06/README.md"
+        "transcript": "lectures/game-theory/gt-06/gt-06-transcript.md",
+        "commentary": "lectures/game-theory/gt-06/gt-06-commentary.md",
+        "folder": "lectures/game-theory/gt-06",
+        "folder_readme": "lectures/game-theory/gt-06/README.md"
       },
       "transcript_word_count": 6303,
       "source_video_url": "https://www.youtube.com/watch?v=CbamEcNuDXo",
@@ -2907,10 +2947,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-civ/chapters/gt-07/gt-07-transcript.md",
-        "commentary": "ph-civ/chapters/gt-07/gt-07-commentary.md",
-        "folder": "ph-civ/chapters/gt-07",
-        "folder_readme": "ph-civ/chapters/gt-07/README.md"
+        "transcript": "lectures/game-theory/gt-07/gt-07-transcript.md",
+        "commentary": "lectures/game-theory/gt-07/gt-07-commentary.md",
+        "folder": "lectures/game-theory/gt-07",
+        "folder_readme": "lectures/game-theory/gt-07/README.md"
       },
       "transcript_word_count": 6672,
       "source_video_url": "https://www.youtube.com/watch?v=ijnkCt1QK6k",
@@ -2928,10 +2968,10 @@
       "review_status": "provisional",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "ph-civ/chapters/gt-08/gt-08-transcript.md",
-        "commentary": "ph-civ/chapters/gt-08/gt-08-commentary.md",
-        "folder": "ph-civ/chapters/gt-08",
-        "folder_readme": "ph-civ/chapters/gt-08/README.md"
+        "transcript": "lectures/game-theory/gt-08/gt-08-transcript.md",
+        "commentary": "lectures/game-theory/gt-08/gt-08-commentary.md",
+        "folder": "lectures/game-theory/gt-08",
+        "folder_readme": "lectures/game-theory/gt-08/README.md"
       },
       "transcript_word_count": 7114,
       "source_video_url": "https://www.youtube.com/watch?v=axqDLhWs93Q",
@@ -2949,10 +2989,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-09/gt-09-transcript.md",
-        "commentary": "ph-apo/chapters/gt-09/gt-09-commentary.md",
-        "folder": "ph-apo/chapters/gt-09",
-        "folder_readme": "ph-apo/chapters/gt-09/README.md"
+        "transcript": "lectures/game-theory/gt-09/gt-09-transcript.md",
+        "commentary": "lectures/game-theory/gt-09/gt-09-commentary.md",
+        "folder": "lectures/game-theory/gt-09",
+        "folder_readme": "lectures/game-theory/gt-09/README.md"
       },
       "transcript_word_count": 6282,
       "source_video_url": "https://www.youtube.com/watch?v=jIS2eB-rGv0",
@@ -2970,10 +3010,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-10/gt-10-transcript.md",
-        "commentary": "ph-apo/chapters/gt-10/gt-10-commentary.md",
-        "folder": "ph-apo/chapters/gt-10",
-        "folder_readme": "ph-apo/chapters/gt-10/README.md"
+        "transcript": "lectures/game-theory/gt-10/gt-10-transcript.md",
+        "commentary": "lectures/game-theory/gt-10/gt-10-commentary.md",
+        "folder": "lectures/game-theory/gt-10",
+        "folder_readme": "lectures/game-theory/gt-10/README.md"
       },
       "transcript_word_count": 7352,
       "source_video_url": "https://www.youtube.com/watch?v=t5oisJiorsU",
@@ -2991,10 +3031,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-11/gt-11-transcript.md",
-        "commentary": "ph-apo/chapters/gt-11/gt-11-commentary.md",
-        "folder": "ph-apo/chapters/gt-11",
-        "folder_readme": "ph-apo/chapters/gt-11/README.md"
+        "transcript": "lectures/game-theory/gt-11/gt-11-transcript.md",
+        "commentary": "lectures/game-theory/gt-11/gt-11-commentary.md",
+        "folder": "lectures/game-theory/gt-11",
+        "folder_readme": "lectures/game-theory/gt-11/README.md"
       },
       "transcript_word_count": 8590,
       "source_video_url": "https://www.youtube.com/watch?v=fz-Dan7NRss",
@@ -3012,10 +3052,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-12/gt-12-transcript.md",
-        "commentary": "ph-apo/chapters/gt-12/gt-12-commentary.md",
-        "folder": "ph-apo/chapters/gt-12",
-        "folder_readme": "ph-apo/chapters/gt-12/README.md"
+        "transcript": "lectures/game-theory/gt-12/gt-12-transcript.md",
+        "commentary": "lectures/game-theory/gt-12/gt-12-commentary.md",
+        "folder": "lectures/game-theory/gt-12",
+        "folder_readme": "lectures/game-theory/gt-12/README.md"
       },
       "transcript_word_count": 8634,
       "source_video_url": "https://www.youtube.com/watch?v=spg58Glfz68",
@@ -3033,10 +3073,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-13/gt-13-transcript.md",
-        "commentary": "ph-apo/chapters/gt-13/gt-13-commentary.md",
-        "folder": "ph-apo/chapters/gt-13",
-        "folder_readme": "ph-apo/chapters/gt-13/README.md"
+        "transcript": "lectures/game-theory/gt-13/gt-13-transcript.md",
+        "commentary": "lectures/game-theory/gt-13/gt-13-commentary.md",
+        "folder": "lectures/game-theory/gt-13",
+        "folder_readme": "lectures/game-theory/gt-13/README.md"
       },
       "transcript_word_count": 7200,
       "source_video_url": "https://www.youtube.com/watch?v=aQSDSqdlFxk",
@@ -3054,10 +3094,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-14/gt-14-transcript.md",
-        "commentary": "ph-apo/chapters/gt-14/gt-14-commentary.md",
-        "folder": "ph-apo/chapters/gt-14",
-        "folder_readme": "ph-apo/chapters/gt-14/README.md"
+        "transcript": "lectures/game-theory/gt-14/gt-14-transcript.md",
+        "commentary": "lectures/game-theory/gt-14/gt-14-commentary.md",
+        "folder": "lectures/game-theory/gt-14",
+        "folder_readme": "lectures/game-theory/gt-14/README.md"
       },
       "transcript_word_count": 6831,
       "source_video_url": "https://www.youtube.com/watch?v=nOQqGy4boBY",
@@ -3075,10 +3115,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-15/gt-15-transcript.md",
-        "commentary": "ph-apo/chapters/gt-15/gt-15-commentary.md",
-        "folder": "ph-apo/chapters/gt-15",
-        "folder_readme": "ph-apo/chapters/gt-15/README.md"
+        "transcript": "lectures/game-theory/gt-15/gt-15-transcript.md",
+        "commentary": "lectures/game-theory/gt-15/gt-15-commentary.md",
+        "folder": "lectures/game-theory/gt-15",
+        "folder_readme": "lectures/game-theory/gt-15/README.md"
       },
       "transcript_word_count": 6646,
       "source_video_url": "https://www.youtube.com/watch?v=zAer-Mqe7tQ",
@@ -3096,10 +3136,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-16/gt-16-transcript.md",
-        "commentary": "ph-apo/chapters/gt-16/gt-16-commentary.md",
-        "folder": "ph-apo/chapters/gt-16",
-        "folder_readme": "ph-apo/chapters/gt-16/README.md"
+        "transcript": "lectures/game-theory/gt-16/gt-16-transcript.md",
+        "commentary": "lectures/game-theory/gt-16/gt-16-commentary.md",
+        "folder": "lectures/game-theory/gt-16",
+        "folder_readme": "lectures/game-theory/gt-16/README.md"
       },
       "transcript_word_count": 8940,
       "source_video_url": "https://www.youtube.com/watch?v=0aASxQrJYuo",
@@ -3117,10 +3157,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-17/gt-17-transcript.md",
-        "commentary": "ph-apo/chapters/gt-17/gt-17-commentary.md",
-        "folder": "ph-apo/chapters/gt-17",
-        "folder_readme": "ph-apo/chapters/gt-17/README.md"
+        "transcript": "lectures/game-theory/gt-17/gt-17-transcript.md",
+        "commentary": "lectures/game-theory/gt-17/gt-17-commentary.md",
+        "folder": "lectures/game-theory/gt-17",
+        "folder_readme": "lectures/game-theory/gt-17/README.md"
       },
       "transcript_word_count": 8115,
       "source_video_url": "https://www.youtube.com/watch?v=VbowBTJWKBo",
@@ -3138,10 +3178,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-18/gt-18-transcript.md",
-        "commentary": "ph-apo/chapters/gt-18/gt-18-commentary.md",
-        "folder": "ph-apo/chapters/gt-18",
-        "folder_readme": "ph-apo/chapters/gt-18/README.md"
+        "transcript": "lectures/game-theory/gt-18/gt-18-transcript.md",
+        "commentary": "lectures/game-theory/gt-18/gt-18-commentary.md",
+        "folder": "lectures/game-theory/gt-18",
+        "folder_readme": "lectures/game-theory/gt-18/README.md"
       },
       "transcript_word_count": 6396,
       "source_video_url": "https://www.youtube.com/watch?v=xrmERlHUqBk",
@@ -3159,10 +3199,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-19/gt-19-transcript.md",
-        "commentary": "ph-apo/chapters/gt-19/gt-19-commentary.md",
-        "folder": "ph-apo/chapters/gt-19",
-        "folder_readme": "ph-apo/chapters/gt-19/README.md"
+        "transcript": "lectures/game-theory/gt-19/gt-19-transcript.md",
+        "commentary": "lectures/game-theory/gt-19/gt-19-commentary.md",
+        "folder": "lectures/game-theory/gt-19",
+        "folder_readme": "lectures/game-theory/gt-19/README.md"
       },
       "transcript_word_count": 7937,
       "source_video_url": "https://www.youtube.com/watch?v=0HYET47Cc-E",
@@ -3180,10 +3220,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-20/gt-20-transcript.md",
-        "commentary": "ph-apo/chapters/gt-20/gt-20-commentary.md",
-        "folder": "ph-apo/chapters/gt-20",
-        "folder_readme": "ph-apo/chapters/gt-20/README.md"
+        "transcript": "lectures/game-theory/gt-20/gt-20-transcript.md",
+        "commentary": "lectures/game-theory/gt-20/gt-20-commentary.md",
+        "folder": "lectures/game-theory/gt-20",
+        "folder_readme": "lectures/game-theory/gt-20/README.md"
       },
       "transcript_word_count": 12008,
       "source_video_url": "https://www.youtube.com/watch?v=ue8y5e3HnHE",
@@ -3201,10 +3241,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-21/gt-21-transcript.md",
-        "commentary": "ph-apo/chapters/gt-21/gt-21-commentary.md",
-        "folder": "ph-apo/chapters/gt-21",
-        "folder_readme": "ph-apo/chapters/gt-21/README.md"
+        "transcript": "lectures/game-theory/gt-21/gt-21-transcript.md",
+        "commentary": "lectures/game-theory/gt-21/gt-21-commentary.md",
+        "folder": "lectures/game-theory/gt-21",
+        "folder_readme": "lectures/game-theory/gt-21/README.md"
       },
       "transcript_word_count": 7903,
       "source_video_url": "https://www.youtube.com/watch?v=Ts-AA6LQf6I",
@@ -3222,10 +3262,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-22/gt-22-transcript.md",
-        "commentary": "ph-apo/chapters/gt-22/gt-22-commentary.md",
-        "folder": "ph-apo/chapters/gt-22",
-        "folder_readme": "ph-apo/chapters/gt-22/README.md"
+        "transcript": "lectures/game-theory/gt-22/gt-22-transcript.md",
+        "commentary": "lectures/game-theory/gt-22/gt-22-commentary.md",
+        "folder": "lectures/game-theory/gt-22",
+        "folder_readme": "lectures/game-theory/gt-22/README.md"
       },
       "transcript_word_count": 7208,
       "source_video_url": "https://www.youtube.com/watch?v=txgPfnXgzcE",
@@ -3243,10 +3283,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-23/gt-23-transcript.md",
-        "commentary": "ph-apo/chapters/gt-23/gt-23-commentary.md",
-        "folder": "ph-apo/chapters/gt-23",
-        "folder_readme": "ph-apo/chapters/gt-23/README.md"
+        "transcript": "lectures/game-theory/gt-23/gt-23-transcript.md",
+        "commentary": "lectures/game-theory/gt-23/gt-23-commentary.md",
+        "folder": "lectures/game-theory/gt-23",
+        "folder_readme": "lectures/game-theory/gt-23/README.md"
       },
       "transcript_word_count": 5864,
       "source_video_url": "https://www.youtube.com/watch?v=6aNh6sBpqvQ",
@@ -3264,10 +3304,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-24/gt-24-transcript.md",
-        "commentary": "ph-apo/chapters/gt-24/gt-24-commentary.md",
-        "folder": "ph-apo/chapters/gt-24",
-        "folder_readme": "ph-apo/chapters/gt-24/README.md"
+        "transcript": "lectures/game-theory/gt-24/gt-24-transcript.md",
+        "commentary": "lectures/game-theory/gt-24/gt-24-commentary.md",
+        "folder": "lectures/game-theory/gt-24",
+        "folder_readme": "lectures/game-theory/gt-24/README.md"
       },
       "transcript_word_count": 8802,
       "source_video_url": "https://www.youtube.com/watch?v=8nsxuB3Vsts",
@@ -3286,10 +3326,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-25/gt-25-transcript.md",
-        "commentary": "ph-apo/chapters/gt-25/gt-25-commentary.md",
-        "folder": "ph-apo/chapters/gt-25",
-        "folder_readme": "ph-apo/chapters/gt-25/README.md"
+        "transcript": "lectures/game-theory/gt-25/gt-25-transcript.md",
+        "commentary": "lectures/game-theory/gt-25/gt-25-commentary.md",
+        "folder": "lectures/game-theory/gt-25",
+        "folder_readme": "lectures/game-theory/gt-25/README.md"
       },
       "transcript_word_count": 9877,
       "source_video_url": "https://www.youtube.com/watch?v=BIl5vJn6ohI",
@@ -3307,10 +3347,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-26/gt-26-transcript.md",
-        "commentary": "ph-apo/chapters/gt-26/gt-26-commentary.md",
-        "folder": "ph-apo/chapters/gt-26",
-        "folder_readme": "ph-apo/chapters/gt-26/README.md"
+        "transcript": "lectures/game-theory/gt-26/gt-26-transcript.md",
+        "commentary": "lectures/game-theory/gt-26/gt-26-commentary.md",
+        "folder": "lectures/game-theory/gt-26",
+        "folder_readme": "lectures/game-theory/gt-26/README.md"
       },
       "transcript_word_count": 9590,
       "source_video_url": "https://www.youtube.com/watch?v=RG1clZlrfOo",
@@ -3328,10 +3368,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-27/gt-27-transcript.md",
-        "commentary": "ph-apo/chapters/gt-27/gt-27-commentary.md",
-        "folder": "ph-apo/chapters/gt-27",
-        "folder_readme": "ph-apo/chapters/gt-27/README.md"
+        "transcript": "lectures/game-theory/gt-27/gt-27-transcript.md",
+        "commentary": "lectures/game-theory/gt-27/gt-27-commentary.md",
+        "folder": "lectures/game-theory/gt-27",
+        "folder_readme": "lectures/game-theory/gt-27/README.md"
       },
       "transcript_word_count": 9851,
       "source_video_url": "https://www.youtube.com/watch?v=x83HcLWvHI8",
@@ -3349,10 +3389,10 @@
       "review_status": "provisional",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "ph-apo/chapters/gt-28/gt-28-transcript.md",
-        "commentary": "ph-apo/chapters/gt-28/gt-28-commentary.md",
-        "folder": "ph-apo/chapters/gt-28",
-        "folder_readme": "ph-apo/chapters/gt-28/README.md"
+        "transcript": "lectures/game-theory/gt-28/gt-28-transcript.md",
+        "commentary": "lectures/game-theory/gt-28/gt-28-commentary.md",
+        "folder": "lectures/game-theory/gt-28",
+        "folder_readme": "lectures/game-theory/gt-28/README.md"
       },
       "transcript_word_count": 10539,
       "source_video_url": "https://www.youtube.com/watch?v=dja6dkCfngE",
@@ -3706,10 +3746,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-01/sh-01-transcript.md",
-        "commentary": "book/volume-vi/sh-01/sh-01-commentary.md",
-        "folder": "book/volume-vi/sh-01",
-        "folder_readme": "book/volume-vi/sh-01/README.md"
+        "transcript": "lectures/secret-history/sh-01/sh-01-transcript.md",
+        "commentary": "lectures/secret-history/sh-01/sh-01-commentary.md",
+        "folder": "lectures/secret-history/sh-01",
+        "folder_readme": "lectures/secret-history/sh-01/README.md"
       },
       "transcript_word_count": 9439,
       "source_video_url": "https://www.youtube.com/watch?v=lt8XLz78ZvY",
@@ -3727,10 +3767,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-02/sh-02-transcript.md",
-        "commentary": "book/volume-vi/sh-02/sh-02-commentary.md",
-        "folder": "book/volume-vi/sh-02",
-        "folder_readme": "book/volume-vi/sh-02/README.md"
+        "transcript": "lectures/secret-history/sh-02/sh-02-transcript.md",
+        "commentary": "lectures/secret-history/sh-02/sh-02-commentary.md",
+        "folder": "lectures/secret-history/sh-02",
+        "folder_readme": "lectures/secret-history/sh-02/README.md"
       },
       "transcript_word_count": 7200,
       "source_video_url": "https://www.youtube.com/watch?v=K-_l9jBGo74",
@@ -3748,10 +3788,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-03/sh-03-transcript.md",
-        "commentary": "book/volume-vi/sh-03/sh-03-commentary.md",
-        "folder": "book/volume-vi/sh-03",
-        "folder_readme": "book/volume-vi/sh-03/README.md"
+        "transcript": "lectures/secret-history/sh-03/sh-03-transcript.md",
+        "commentary": "lectures/secret-history/sh-03/sh-03-commentary.md",
+        "folder": "lectures/secret-history/sh-03",
+        "folder_readme": "lectures/secret-history/sh-03/README.md"
       },
       "transcript_word_count": 7251,
       "source_video_url": "https://www.youtube.com/watch?v=0g3yo1DjiLM",
@@ -3769,10 +3809,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-04/sh-04-transcript.md",
-        "commentary": "book/volume-vi/sh-04/sh-04-commentary.md",
-        "folder": "book/volume-vi/sh-04",
-        "folder_readme": "book/volume-vi/sh-04/README.md"
+        "transcript": "lectures/secret-history/sh-04/sh-04-transcript.md",
+        "commentary": "lectures/secret-history/sh-04/sh-04-commentary.md",
+        "folder": "lectures/secret-history/sh-04",
+        "folder_readme": "lectures/secret-history/sh-04/README.md"
       },
       "transcript_word_count": 8949,
       "source_video_url": "https://www.youtube.com/watch?v=BtlWoqWLm9Q",
@@ -3790,10 +3830,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-05/sh-05-transcript.md",
-        "commentary": "book/volume-vi/sh-05/sh-05-commentary.md",
-        "folder": "book/volume-vi/sh-05",
-        "folder_readme": "book/volume-vi/sh-05/README.md"
+        "transcript": "lectures/secret-history/sh-05/sh-05-transcript.md",
+        "commentary": "lectures/secret-history/sh-05/sh-05-commentary.md",
+        "folder": "lectures/secret-history/sh-05",
+        "folder_readme": "lectures/secret-history/sh-05/README.md"
       },
       "transcript_word_count": 10299,
       "source_video_url": "https://www.youtube.com/watch?v=EgGfQdv_rPc",
@@ -3811,10 +3851,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-06/sh-06-transcript.md",
-        "commentary": "book/volume-vi/sh-06/sh-06-commentary.md",
-        "folder": "book/volume-vi/sh-06",
-        "folder_readme": "book/volume-vi/sh-06/README.md"
+        "transcript": "lectures/secret-history/sh-06/sh-06-transcript.md",
+        "commentary": "lectures/secret-history/sh-06/sh-06-commentary.md",
+        "folder": "lectures/secret-history/sh-06",
+        "folder_readme": "lectures/secret-history/sh-06/README.md"
       },
       "transcript_word_count": 6889,
       "source_video_url": "https://www.youtube.com/watch?v=6PdfD44DkqA",
@@ -3832,10 +3872,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-07/sh-07-transcript.md",
-        "commentary": "book/volume-vi/sh-07/sh-07-commentary.md",
-        "folder": "book/volume-vi/sh-07",
-        "folder_readme": "book/volume-vi/sh-07/README.md"
+        "transcript": "lectures/secret-history/sh-07/sh-07-transcript.md",
+        "commentary": "lectures/secret-history/sh-07/sh-07-commentary.md",
+        "folder": "lectures/secret-history/sh-07",
+        "folder_readme": "lectures/secret-history/sh-07/README.md"
       },
       "transcript_word_count": 9870,
       "source_video_url": "https://www.youtube.com/watch?v=JU_8fJjtGxA",
@@ -3853,10 +3893,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-08/sh-08-transcript.md",
-        "commentary": "book/volume-vi/sh-08/sh-08-commentary.md",
-        "folder": "book/volume-vi/sh-08",
-        "folder_readme": "book/volume-vi/sh-08/README.md"
+        "transcript": "lectures/secret-history/sh-08/sh-08-transcript.md",
+        "commentary": "lectures/secret-history/sh-08/sh-08-commentary.md",
+        "folder": "lectures/secret-history/sh-08",
+        "folder_readme": "lectures/secret-history/sh-08/README.md"
       },
       "transcript_word_count": 9257,
       "source_video_url": "https://www.youtube.com/watch?v=hk_yhi3-prw",
@@ -3874,10 +3914,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-09/sh-09-transcript.md",
-        "commentary": "book/volume-vi/sh-09/sh-09-commentary.md",
-        "folder": "book/volume-vi/sh-09",
-        "folder_readme": "book/volume-vi/sh-09/README.md"
+        "transcript": "lectures/secret-history/sh-09/sh-09-transcript.md",
+        "commentary": "lectures/secret-history/sh-09/sh-09-commentary.md",
+        "folder": "lectures/secret-history/sh-09",
+        "folder_readme": "lectures/secret-history/sh-09/README.md"
       },
       "transcript_word_count": 8860,
       "source_video_url": "https://www.youtube.com/watch?v=9MURGjjG4aA",
@@ -3895,10 +3935,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-10/sh-10-transcript.md",
-        "commentary": "book/volume-vi/sh-10/sh-10-commentary.md",
-        "folder": "book/volume-vi/sh-10",
-        "folder_readme": "book/volume-vi/sh-10/README.md"
+        "transcript": "lectures/secret-history/sh-10/sh-10-transcript.md",
+        "commentary": "lectures/secret-history/sh-10/sh-10-commentary.md",
+        "folder": "lectures/secret-history/sh-10",
+        "folder_readme": "lectures/secret-history/sh-10/README.md"
       },
       "transcript_word_count": 8053,
       "source_video_url": "https://www.youtube.com/watch?v=ihh1fdW4-cA",
@@ -3916,10 +3956,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-vi/sh-11/sh-11-transcript.md",
-        "commentary": "book/volume-vi/sh-11/sh-11-commentary.md",
-        "folder": "book/volume-vi/sh-11",
-        "folder_readme": "book/volume-vi/sh-11/README.md"
+        "transcript": "lectures/secret-history/sh-11/sh-11-transcript.md",
+        "commentary": "lectures/secret-history/sh-11/sh-11-commentary.md",
+        "folder": "lectures/secret-history/sh-11",
+        "folder_readme": "lectures/secret-history/sh-11/README.md"
       },
       "transcript_word_count": 9659,
       "source_video_url": "https://www.youtube.com/watch?v=LvHsg5qtDs8",
@@ -3937,10 +3977,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-12/sh-12-transcript.md",
-        "commentary": "book/volume-vi/sh-12/sh-12-commentary.md",
-        "folder": "book/volume-vi/sh-12",
-        "folder_readme": "book/volume-vi/sh-12/README.md"
+        "transcript": "lectures/secret-history/sh-12/sh-12-transcript.md",
+        "commentary": "lectures/secret-history/sh-12/sh-12-commentary.md",
+        "folder": "lectures/secret-history/sh-12",
+        "folder_readme": "lectures/secret-history/sh-12/README.md"
       },
       "transcript_word_count": 9272,
       "source_video_url": "https://www.youtube.com/watch?v=VtnRA-GNKM8",
@@ -3958,10 +3998,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-13/sh-13-transcript.md",
-        "commentary": "book/volume-vi/sh-13/sh-13-commentary.md",
-        "folder": "book/volume-vi/sh-13",
-        "folder_readme": "book/volume-vi/sh-13/README.md"
+        "transcript": "lectures/secret-history/sh-13/sh-13-transcript.md",
+        "commentary": "lectures/secret-history/sh-13/sh-13-commentary.md",
+        "folder": "lectures/secret-history/sh-13",
+        "folder_readme": "lectures/secret-history/sh-13/README.md"
       },
       "transcript_word_count": 8902,
       "source_video_url": "https://www.youtube.com/watch?v=FJF8oD_5c_w",
@@ -3979,10 +4019,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-14/sh-14-transcript.md",
-        "commentary": "book/volume-vi/sh-14/sh-14-commentary.md",
-        "folder": "book/volume-vi/sh-14",
-        "folder_readme": "book/volume-vi/sh-14/README.md"
+        "transcript": "lectures/secret-history/sh-14/sh-14-transcript.md",
+        "commentary": "lectures/secret-history/sh-14/sh-14-commentary.md",
+        "folder": "lectures/secret-history/sh-14",
+        "folder_readme": "lectures/secret-history/sh-14/README.md"
       },
       "transcript_word_count": 8784,
       "source_video_url": "https://www.youtube.com/watch?v=JpTI2gFYWrU",
@@ -4000,10 +4040,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-15/sh-15-transcript.md",
-        "commentary": "book/volume-vi/sh-15/sh-15-commentary.md",
-        "folder": "book/volume-vi/sh-15",
-        "folder_readme": "book/volume-vi/sh-15/README.md"
+        "transcript": "lectures/secret-history/sh-15/sh-15-transcript.md",
+        "commentary": "lectures/secret-history/sh-15/sh-15-commentary.md",
+        "folder": "lectures/secret-history/sh-15",
+        "folder_readme": "lectures/secret-history/sh-15/README.md"
       },
       "transcript_word_count": 8664,
       "source_video_url": "https://www.youtube.com/watch?v=rkt0HQOogHE",
@@ -4021,10 +4061,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-vi/sh-16/sh-16-transcript.md",
-        "commentary": "book/volume-vi/sh-16/sh-16-commentary.md",
-        "folder": "book/volume-vi/sh-16",
-        "folder_readme": "book/volume-vi/sh-16/README.md"
+        "transcript": "lectures/secret-history/sh-16/sh-16-transcript.md",
+        "commentary": "lectures/secret-history/sh-16/sh-16-commentary.md",
+        "folder": "lectures/secret-history/sh-16",
+        "folder_readme": "lectures/secret-history/sh-16/README.md"
       },
       "transcript_word_count": 10663,
       "source_video_url": "https://www.youtube.com/watch?v=4ehovUNrSrw",
@@ -4042,10 +4082,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-vi/sh-17/sh-17-transcript.md",
-        "commentary": "book/volume-vi/sh-17/sh-17-commentary.md",
-        "folder": "book/volume-vi/sh-17",
-        "folder_readme": "book/volume-vi/sh-17/README.md"
+        "transcript": "lectures/secret-history/sh-17/sh-17-transcript.md",
+        "commentary": "lectures/secret-history/sh-17/sh-17-commentary.md",
+        "folder": "lectures/secret-history/sh-17",
+        "folder_readme": "lectures/secret-history/sh-17/README.md"
       },
       "transcript_word_count": 10794,
       "source_video_url": "https://www.youtube.com/watch?v=PlMNq44tBG0",
@@ -4064,10 +4104,10 @@
       "review_status": "in_review",
       "placement_weight": "medium",
       "paths": {
-        "transcript": "book/volume-vi/sh-18/sh-18-transcript.md",
-        "commentary": "book/volume-vi/sh-18/sh-18-commentary.md",
-        "folder": "book/volume-vi/sh-18",
-        "folder_readme": "book/volume-vi/sh-18/README.md"
+        "transcript": "lectures/secret-history/sh-18/sh-18-transcript.md",
+        "commentary": "lectures/secret-history/sh-18/sh-18-commentary.md",
+        "folder": "lectures/secret-history/sh-18",
+        "folder_readme": "lectures/secret-history/sh-18/README.md"
       },
       "transcript_word_count": 10065,
       "source_video_url": "https://www.youtube.com/watch?v=dELEdxh0ceg",
@@ -4085,10 +4125,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-19/sh-19-transcript.md",
-        "commentary": "book/volume-vi/sh-19/sh-19-commentary.md",
-        "folder": "book/volume-vi/sh-19",
-        "folder_readme": "book/volume-vi/sh-19/README.md"
+        "transcript": "lectures/secret-history/sh-19/sh-19-transcript.md",
+        "commentary": "lectures/secret-history/sh-19/sh-19-commentary.md",
+        "folder": "lectures/secret-history/sh-19",
+        "folder_readme": "lectures/secret-history/sh-19/README.md"
       },
       "transcript_word_count": 11953,
       "source_video_url": "https://www.youtube.com/watch?v=3t0MeVBD24I",
@@ -4106,10 +4146,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-20/sh-20-transcript.md",
-        "commentary": "book/volume-vi/sh-20/sh-20-commentary.md",
-        "folder": "book/volume-vi/sh-20",
-        "folder_readme": "book/volume-vi/sh-20/README.md"
+        "transcript": "lectures/secret-history/sh-20/sh-20-transcript.md",
+        "commentary": "lectures/secret-history/sh-20/sh-20-commentary.md",
+        "folder": "lectures/secret-history/sh-20",
+        "folder_readme": "lectures/secret-history/sh-20/README.md"
       },
       "transcript_word_count": 12336,
       "source_video_url": "https://www.youtube.com/watch?v=z0AwFin83lo",
@@ -4127,10 +4167,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-21/sh-21-transcript.md",
-        "commentary": "book/volume-vi/sh-21/sh-21-commentary.md",
-        "folder": "book/volume-vi/sh-21",
-        "folder_readme": "book/volume-vi/sh-21/README.md"
+        "transcript": "lectures/secret-history/sh-21/sh-21-transcript.md",
+        "commentary": "lectures/secret-history/sh-21/sh-21-commentary.md",
+        "folder": "lectures/secret-history/sh-21",
+        "folder_readme": "lectures/secret-history/sh-21/README.md"
       },
       "transcript_word_count": 13965,
       "source_video_url": "https://www.youtube.com/watch?v=Y-gXVzwbFMU",
@@ -4148,10 +4188,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-22/sh-22-transcript.md",
-        "commentary": "book/volume-vi/sh-22/sh-22-commentary.md",
-        "folder": "book/volume-vi/sh-22",
-        "folder_readme": "book/volume-vi/sh-22/README.md"
+        "transcript": "lectures/secret-history/sh-22/sh-22-transcript.md",
+        "commentary": "lectures/secret-history/sh-22/sh-22-commentary.md",
+        "folder": "lectures/secret-history/sh-22",
+        "folder_readme": "lectures/secret-history/sh-22/README.md"
       },
       "transcript_word_count": 15513,
       "source_video_url": "https://www.youtube.com/watch?v=pp0E1gb80WQ",
@@ -4169,10 +4209,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-23/sh-23-transcript.md",
-        "commentary": "book/volume-vi/sh-23/sh-23-commentary.md",
-        "folder": "book/volume-vi/sh-23",
-        "folder_readme": "book/volume-vi/sh-23/README.md"
+        "transcript": "lectures/secret-history/sh-23/sh-23-transcript.md",
+        "commentary": "lectures/secret-history/sh-23/sh-23-commentary.md",
+        "folder": "lectures/secret-history/sh-23",
+        "folder_readme": "lectures/secret-history/sh-23/README.md"
       },
       "transcript_word_count": 15315,
       "source_video_url": "https://www.youtube.com/watch?v=6XGAc_OqCbU",
@@ -4190,10 +4230,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-24/sh-24-transcript.md",
-        "commentary": "book/volume-vi/sh-24/sh-24-commentary.md",
-        "folder": "book/volume-vi/sh-24",
-        "folder_readme": "book/volume-vi/sh-24/README.md"
+        "transcript": "lectures/secret-history/sh-24/sh-24-transcript.md",
+        "commentary": "lectures/secret-history/sh-24/sh-24-commentary.md",
+        "folder": "lectures/secret-history/sh-24",
+        "folder_readme": "lectures/secret-history/sh-24/README.md"
       },
       "transcript_word_count": 12350,
       "source_video_url": "https://www.youtube.com/watch?v=TEdVhyE8pO0",
@@ -4211,10 +4251,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-25/sh-25-transcript.md",
-        "commentary": "book/volume-vi/sh-25/sh-25-commentary.md",
-        "folder": "book/volume-vi/sh-25",
-        "folder_readme": "book/volume-vi/sh-25/README.md"
+        "transcript": "lectures/secret-history/sh-25/sh-25-transcript.md",
+        "commentary": "lectures/secret-history/sh-25/sh-25-commentary.md",
+        "folder": "lectures/secret-history/sh-25",
+        "folder_readme": "lectures/secret-history/sh-25/README.md"
       },
       "transcript_word_count": 10325,
       "source_video_url": "https://www.youtube.com/watch?v=B5FtHagng8c",
@@ -4232,10 +4272,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-26/sh-26-transcript.md",
-        "commentary": "book/volume-vi/sh-26/sh-26-commentary.md",
-        "folder": "book/volume-vi/sh-26",
-        "folder_readme": "book/volume-vi/sh-26/README.md"
+        "transcript": "lectures/secret-history/sh-26/sh-26-transcript.md",
+        "commentary": "lectures/secret-history/sh-26/sh-26-commentary.md",
+        "folder": "lectures/secret-history/sh-26",
+        "folder_readme": "lectures/secret-history/sh-26/README.md"
       },
       "transcript_word_count": 13914,
       "source_video_url": "https://www.youtube.com/watch?v=kULUM_eB8KI",
@@ -4253,10 +4293,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-27/sh-27-transcript.md",
-        "commentary": "book/volume-vi/sh-27/sh-27-commentary.md",
-        "folder": "book/volume-vi/sh-27",
-        "folder_readme": "book/volume-vi/sh-27/README.md"
+        "transcript": "lectures/secret-history/sh-27/sh-27-transcript.md",
+        "commentary": "lectures/secret-history/sh-27/sh-27-commentary.md",
+        "folder": "lectures/secret-history/sh-27",
+        "folder_readme": "lectures/secret-history/sh-27/README.md"
       },
       "transcript_word_count": 13607,
       "source_video_url": "https://www.youtube.com/watch?v=ZPrecJHUOUs",
@@ -4274,10 +4314,10 @@
       "review_status": "in_review",
       "placement_weight": "strong",
       "paths": {
-        "transcript": "book/volume-vi/sh-28/sh-28-transcript.md",
-        "commentary": "book/volume-vi/sh-28/sh-28-commentary.md",
-        "folder": "book/volume-vi/sh-28",
-        "folder_readme": "book/volume-vi/sh-28/README.md"
+        "transcript": "lectures/secret-history/sh-28/sh-28-transcript.md",
+        "commentary": "lectures/secret-history/sh-28/sh-28-commentary.md",
+        "folder": "lectures/secret-history/sh-28",
+        "folder_readme": "lectures/secret-history/sh-28/README.md"
       },
       "transcript_word_count": 15120,
       "source_video_url": "https://www.youtube.com/watch?v=WFWizN3QoPg",

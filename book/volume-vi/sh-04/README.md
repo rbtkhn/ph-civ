@@ -1,32 +1,11 @@
-# Secret History #4: How Evil Triumphs
+# sh-04 — legacy redirect
 
-This chapter folder is a public study doorway for `sh-04`.
+The canonical lecture packet for `sh-04` now lives under [`lectures/`](../../lectures/README.md).
 
-## Start Here
+## Canonical packet
 
-Use this folder when someone shares the GitHub chapter link in a YouTube comment or an LLM chat. Start with the transcript, then use the commentary canvas and orientation card to keep the reading bounded.
+- [lectures/secret-history/sh-04](../../lectures/secret-history/sh-04/README.md)
 
-## Source Video
+## Staged status
 
-- YouTube: https://www.youtube.com/watch?v=BtlWoqWLm9Q
-
-## Files
-
-- [Transcript](sh-04-transcript.md)
-- [Commentary canvas](sh-04-commentary.md)
-- [Orientation payload](sh-04-orientation.yaml)
-- [Public card](../../../data/cards/sh-04.md)
-
-## Review Status
-
-`in_review`. Do not treat provisional transcript text, named claims, quotations, or current-event predictions as final until review is complete.
-
-## LLM Prompt
-
-Paste this folder link into ChatGPT, Claude, or Grok and ask:
-
-> Guide me through this chapter folder as a public study packet. Start with the transcript, then use the commentary canvas and orientation/card guardrails. Keep provisional claims bounded and separate lecture representation from verification.
-
-## Guardrails
-
-This folder represents the public lecture material and companion study apparatus. It is not a private note dump, not an endorsement layer, and not a substitute for source review.
+This `book/volume-vi` path is a **compat redirect** after PH-LECTURES recanonicalization. Do not add new transcript or commentary files here.

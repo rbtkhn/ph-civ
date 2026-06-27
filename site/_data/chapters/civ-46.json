@@ -109,8 +109,8 @@
   "concepts": [],
   "layer1_summary": "The lecture begins a French Revolution sequence and presents it as one of the most significant events in human history. Jiang frames society as grounded in religious worldview, then reviews animistic, polytheistic, monotheistic, and reason-based worldviews.\n\nThe chapter treats the Enlightenment as a shift from faith toward reason, debate, and progress. Rousseau and the Social Contract become central because reason is used to deduce a civil religion and a political order that no longer depends on traditional priestly mediation.\n\nThe ending emphasizes the nation as a new sacred object. Jiang argues that the French Revolution begins a process in which religious energy is transferred into the nation-state, helping explain later willingness to die for national causes.",
   "paths": {
-    "transcript": "book/volume-ii/civ-46/civ-46-transcript.md",
-    "commentary": "book/volume-ii/civ-46/civ-46-commentary.md",
+    "transcript": "lectures/civilization/civ-46/civ-46-transcript.md",
+    "commentary": "lectures/civilization/civ-46/civ-46-commentary.md",
     "part_commentary": "../../volume-i-civilization/parts/part-08-birth-of-modernity-commentary.md#civ-46",
     "part_bibliography": "../../volume-i-civilization/parts/part-08-birth-of-modernity-bibliography.md"
   }

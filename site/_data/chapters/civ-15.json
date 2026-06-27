@@ -139,8 +139,8 @@
   "concepts": [],
   "layer1_summary": "The lecture organizes Caesar around three questions: why he acts, why he succeeds, and why he is killed. Its central concept is myth-making. Caesar does not only perform deeds; he narrates them in a way that disrupts settled Roman myths and makes his own life a political instrument.\n\nThe chapter places Caesar after 146 BCE, when Mediterranean victory intensifies land concentration, debt, triumph politics, and factional conflict. Caesar's campaigns in Gaul and Britain matter not only as military action but as self-commentary: dispatches and narrative control turn conquest into reputation, legitimacy, and identity.\n\nThe final arc moves through the First Triumvirate, civil war, clemency, reform, and the cult of personality. The lecture frames assassination as an identity crisis: Caesar threatens not only senators' interests but the republic's story about itself. Reform becomes intolerable because it makes Caesar the author of Rome's future.",
   "paths": {
-    "transcript": "book/volume-ii/civ-15/civ-15-transcript.md",
-    "commentary": "book/volume-ii/civ-15/civ-15-commentary.md",
+    "transcript": "lectures/civilization/civ-15/civ-15-transcript.md",
+    "commentary": "lectures/civilization/civ-15/civ-15-commentary.md",
     "part_commentary": "../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md",
     "part_bibliography": "../../volume-i-civilization/parts/part-03-roman-imperium-bibliography.md"
   }

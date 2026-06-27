@@ -76,22 +76,22 @@ Transcript frontmatter should carry `part_id` and Part apparatus paths when the 
 
 Part IV has no Great Books weave. The `sh-17` companion @ `civ-22` uses a **Part commentary pointer** (`### sh-17`) — same routing law as GB stub-to-Part, but the SH packet body stays in `volume-vi/sh-17/`. Chapter `civ-22` README links the pointer; do not merge SH body into Part or civ commentary.
 
-**Pilot example:** [Part IV commentary § civ-22](../book/volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-22) + [§ sh-17](../book/volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#sh-17); thin chapter: [civ-22-commentary](../book/volume-ii/civ-22/civ-22-commentary.md).
+**Pilot example:** [Part IV commentary § civ-22](../book/volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#civ-22) + [§ sh-17](../book/volume-i-civilization/parts/part-04-ancient-foundations-commentary.md#sh-17); thin chapter: [civ-22-commentary](../lectures/civilization/civ-22/civ-22-commentary.md).
 
 ## Secret History companion pointer (Part V)
 
 Part V has no Great Books weave. The `sh-18` companion @ `civ-28` uses a **Part commentary pointer** (`### sh-18`) — same routing law as Part IV `sh-17`: SH packet body stays in `volume-vi/sh-18/` and `secret-history-support/sh-18/`. Chapter `civ-28` README links Part apparatus first; do not merge SH body into Part or civ commentary.
 
-**Pilot example:** [Part V commentary § civ-28](../book/volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#civ-28) + [§ sh-18](../book/volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#sh-18); thin chapter: [civ-28-commentary](../book/volume-ii/civ-28/civ-28-commentary.md).
+**Pilot example:** [Part V commentary § civ-28](../book/volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#civ-28) + [§ sh-18](../book/volume-i-civilization/parts/part-05-christianity-and-islam-commentary.md#sh-18); thin chapter: [civ-28-commentary](../lectures/civilization/civ-28/civ-28-commentary.md).
 
 ## Great Books weave pointer (Part VI)
 
 Part VI carries the Dante GB weave (`gb-09`–`gb-12`). Volume-v chapter commentary stubs route to Part apparatus — same law as Part II `gb-02`.
 
-**Pilot example:** [Part VI commentary § civ-29](../book/volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#civ-29) + [§ gb-12](../book/volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-12); thin chapter: [civ-29-commentary](../book/volume-ii/civ-29/civ-29-commentary.md); GB stub: [gb-12-commentary](../book/volume-v/gb-12/gb-12-commentary.md).
+**Pilot example:** [Part VI commentary § civ-29](../book/volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#civ-29) + [§ gb-12](../book/volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-12); thin chapter: [civ-29-commentary](../lectures/civilization/civ-29/civ-29-commentary.md); GB stub: [gb-12-commentary](../lectures/great-books/gb-12/gb-12-commentary.md).
 
 ## Part apparatus pointer (Part VII wedge)
 
 Part VII hybrid pilot starts with the **`civ-40` bridge + `civ-41` close** wedge (`gb-10` close pointer). Volume-ii chapter READMEs for wedge chapters link Part apparatus; deferred `civ-35`–`39` sections remain stub headers until pin-cite + slim pass.
 
-**Pilot example:** [Part VII commentary § civ-40](../book/volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-40) + [§ civ-41](../book/volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-41) + [§ gb-10 (close)](../book/volume-i-civilization/parts/part-07-world-after-rome-commentary.md#gb-10); thin chapters: [civ-40-commentary](../book/volume-ii/civ-40/civ-40-commentary.md), [civ-41-commentary](../book/volume-ii/civ-41/civ-41-commentary.md); GB stub: [gb-10-commentary](../book/volume-v/gb-10/gb-10-commentary.md) (dual-route Part VI + Part VII).
+**Pilot example:** [Part VII commentary § civ-40](../book/volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-40) + [§ civ-41](../book/volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-41) + [§ gb-10 (close)](../book/volume-i-civilization/parts/part-07-world-after-rome-commentary.md#gb-10); thin chapters: [civ-40-commentary](../lectures/civilization/civ-40/civ-40-commentary.md), [civ-41-commentary](../lectures/civilization/civ-41/civ-41-commentary.md); GB stub: [gb-10-commentary](../lectures/great-books/gb-10/gb-10-commentary.md) (dual-route Part VI + Part VII).

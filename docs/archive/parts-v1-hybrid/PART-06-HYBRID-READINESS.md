@@ -56,8 +56,8 @@ Planning doc for extending the **Part II–V hybrid model** (thin chapter + thic
 
 | GB | Anchor(s) | Role | Packet | Part VI placement (draft) |
 |----|-----------|------|--------|---------------------------|
-| `gb-09` | `civ-29`, `civ-30` | interwoven | `book/volume-v/gb-09/` — **stub** → Part VI § `gb-09`; curated transcript | **`### gb-09`** — claims table live in Part commentary |
-| `gb-10` | `civ-30` | interwoven | `book/volume-v/gb-10/` — **stub** → Part VI § `gb-10`; ASR curated + 10 `#anchor` sections | **`### gb-10`** — claims table live |
+| `gb-09` | `civ-29`, `civ-30` | interwoven | `lectures/great-books/gb-09/` — **stub** → Part VI § `gb-09`; curated transcript | **`### gb-09`** — claims table live in Part commentary |
+| `gb-10` | `civ-30` | interwoven | `lectures/great-books/gb-10/` — **stub** → Part VI § `gb-10`; ASR curated + 10 `#anchor` sections | **`### gb-10`** — claims table live |
 
 **Law:** Civilization lectures own spine narrative; GB sections **pointer + close-read**, not full transcript mirror in Part file.
 
@@ -166,8 +166,8 @@ Dante continuation beyond public mirror step `gb-10`. Extended Dante source arch
 
 | GB | Title | YouTube | Archive file | Body | Promotion blockers |
 |----|-------|---------|--------------|------|-------------------|
-| `gb-11` | Dante's Revolution (Purgatory) | `otyUpKhpTYM` | `book/volume-v/gb-11/` | **Promoted** (2026-06-09) | 10 section rails; Part VI § `gb-11` |
-| `gb-12` | Dante in Paradise | `FspDllFoiDE` | `book/volume-v/gb-12/` | **Promoted** (2026-06-09) | YouTube ASR; 10 section rails; Part VI § `gb-12` |
+| `gb-11` | Dante's Revolution (Purgatory) | `otyUpKhpTYM` | `lectures/great-books/gb-11/` | **Promoted** (2026-06-09) | 10 section rails; Part VI § `gb-11` |
+| `gb-12` | Dante in Paradise | `FspDllFoiDE` | `lectures/great-books/gb-12/` | **Promoted** (2026-06-09) | YouTube ASR; 10 section rails; Part VI § `gb-12` |
 
 **Load-bearing themes (gb-11 archive):** Virgil/Augustine **human nature bad** vs Dante **divine spark + love**; Purgatory terrace sins (inverse Inferno); two-part lecture series (Purgatory then Paradise).
 

@@ -132,8 +132,8 @@
   "concepts": [],
   "layer1_summary": "The lecture begins by defining the Bible as a library rather than a single book and distinguishing Tanak, Hebrew Bible, and New Testament. It then corrects three inherited myths in the lecture's frame: Jews were not always monotheistic, Jewish history is not a simple continuous line from Israelites to later Jews, and the Bible should not be treated as straightforward historical record.\n\nThe historical arc moves through the Levant around 1200 BCE, Canaan as an Egyptian province, Sea Peoples, Philistines, Saul, David as mercenary, civil war, and the House of David. Exile then becomes the transformation point: Babylon destroys Judah, Persian release enables return, religion merges with Zoroastrianism in the lecture's account, and authority shifts from kings toward priests as polytheism becomes monotheism.\n\nThe final section reads the Bible as apology and identity construction. David needs legitimacy, differentiation, and a usable origin story; J/E/P/D schools and Persian-era merging become political-literary machinery. The lecture interprets David-sparing-Saul, Joab-Abner, and Bathsheba-Uriah as narrative spin, then compares the Hebrew Bible's apologetic function to the Aeneid's Augustan use of piety over liberty.",
   "paths": {
-    "transcript": "book/volume-ii/civ-21/civ-21-transcript.md",
-    "commentary": "book/volume-ii/civ-21/civ-21-commentary.md",
+    "transcript": "lectures/civilization/civ-21/civ-21-transcript.md",
+    "commentary": "lectures/civilization/civ-21/civ-21-commentary.md",
     "part_commentary": "../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md",
     "part_bibliography": "../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md"
   }

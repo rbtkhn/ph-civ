@@ -17,10 +17,10 @@ Treat this chapter folder as a small source-lattice:
 
 ## Current Source Packet
 
-- [Legacy source packet](../../../volume-ii/civ-08/README.md)
-- [Public card](../../../../data/cards/civ-08.md)
+- [Canonical packet](../../../../lectures/civilization/civ-08/README.md)
+- [Legacy redirect](../../../volume-ii/civ-08/README.md)
 
 
 ## Staged Status
 
-This is a non-destructive recanonicalization wrapper. The canonical placement is now declared here, while the legacy packet remains intact until a later move pass.
+This is a non-destructive recanonicalization wrapper. The canonical placement is now declared here, while the legacy packet remains intact after PH-LECTURES recanonicalization (legacy paths are redirect stubs).

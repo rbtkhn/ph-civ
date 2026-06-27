@@ -109,8 +109,8 @@
   "concepts": [],
   "layer1_summary": "The lecture begins by reviewing Dante, Renaissance, and Reformation as linked movements of modernity. Jiang frames the Scientific Revolution as asking how humans can know God, or know the laws God created, through the universe itself.\n\nThe middle of the chapter presents the Scientific Revolution as dependent on theological assumptions: one God, a designed universe, and human capacity to understand that design. Copernicus, Kepler, Galileo, and Newton are treated as stages in the shift from inherited cosmology to mathematical and experimental knowledge.\n\nThe ending turns sharply toward Newton's theology and Christian Zionism. Jiang argues that Newton's religious concerns, apocalyptic chronology, and interest in returning Jews to Jerusalem matter for later English and American history, the Balfour Declaration, and contemporary Middle East interpretation.",
   "paths": {
-    "transcript": "book/volume-ii/civ-43/civ-43-transcript.md",
-    "commentary": "book/volume-ii/civ-43/civ-43-commentary.md",
+    "transcript": "lectures/civilization/civ-43/civ-43-transcript.md",
+    "commentary": "lectures/civilization/civ-43/civ-43-commentary.md",
     "part_commentary": "../../volume-i-civilization/parts/part-08-birth-of-modernity-commentary.md#civ-43",
     "part_bibliography": "../../volume-i-civilization/parts/part-08-birth-of-modernity-bibliography.md"
   }

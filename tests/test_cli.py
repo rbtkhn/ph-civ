@@ -73,6 +73,22 @@ def test_folder_backed_chapters_have_reader_doorways():
             assert source_url in text
 
 
+def test_all_lecture_cards_under_lectures_namespace():
+    series_folder = {
+        "civilization": "civilization",
+        "great-books": "great-books",
+        "geo-strategy": "geo-strategy",
+        "game-theory": "game-theory",
+        "secret-history": "secret-history",
+    }
+    for card in load_cards():
+        series = card.get("series")
+        if series not in series_folder:
+            continue
+        transcript = card["source_paths"]["source_chapter_path"]
+        assert transcript.startswith(f"lectures/{series_folder[series]}/"), card["source_id"]
+
+
 def test_latest_game_theory_chapters_are_provisional_source_first(capsys):
     cards = {card["source_id"]: card for card in load_cards()}
     route_ids = set(load_route_seed()["route_ids"])
@@ -82,17 +98,20 @@ def test_latest_game_theory_chapters_are_provisional_source_first(capsys):
         assert card["part"] == "world-war"
         assert card["review_status"] == "provisional"
         assert source_id not in route_ids
-        folder = ROOT / "book" / "volume-iii" / source_id
+        folder = ROOT / "lectures" / "game-theory" / source_id
         assert (folder / f"{source_id}-transcript.md").exists()
         assert (folder / f"{source_id}-commentary.md").exists()
         assert (folder / f"{source_id}-orientation.yaml").exists()
-        assert "provisional" in (folder / "README.md").read_text(encoding="utf-8")
+        assert "public study doorway" in (folder / "README.md").read_text(encoding="utf-8")
+        legacy = ROOT / "book" / "volume-iii" / source_id / "README.md"
+        assert legacy.is_file()
+        assert "legacy redirect" in legacy.read_text(encoding="utf-8").lower()
 
     assert main(["link", "gt-24", "--json"]) == 0
     payload = json.loads(capsys.readouterr().out)
     assert payload["source_id"] == "gt-24"
     assert payload["folder_ready"] is True
-    assert payload["github_folder_url"].endswith("/ph-apo/chapters/gt-24")
+    assert payload["github_folder_url"].endswith("/lectures/game-theory/gt-24")
     assert payload["source_video_url"] == "https://www.youtube.com/watch?v=8nsxuB3Vsts"
     assert "ChatGPT, Claude, or Grok" in payload["suggested_youtube_comment"]
     assert "provisional" in payload["suggested_youtube_comment"]
@@ -101,7 +120,7 @@ def test_latest_game_theory_chapters_are_provisional_source_first(capsys):
     out = capsys.readouterr().out
     assert "YouTube comment:" in out
     assert "source_video: https://www.youtube.com/watch?v=8nsxuB3Vsts" in out
-    assert "https://github.com/rbtkhn/predictive-history/tree/main/ph-apo/chapters/gt-24" in out
+    assert "https://github.com/rbtkhn/predictive-history/tree/main/lectures/game-theory/gt-24" in out
     assert "public LLM-native Predictive History reader" in out
 
 
@@ -349,7 +368,7 @@ def test_ph_civ_index_surfaces_youtube_urls():
     assert "Predictive History Chapter Index" in text
     assert "| Words |" in text
     assert "https://www.youtube.com/watch?v=8nsxuB3Vsts" in text
-    assert "ph-apo/chapters/gt-24/gt-24-transcript.md" in text
+    assert "lectures/game-theory/gt-24/gt-24-transcript.md" in text
     assert "https://www.youtube.com/watch?v=RG1clZlrfOo" in text
 
 

@@ -1,8 +1,8 @@
-<!-- public-surface-inventory-fingerprint: 27792d34972ebabd -->
+<!-- public-surface-inventory-fingerprint: c963cad11e154d88 -->
 # Public surface inventory
 
 - **Surfaces:** 26
-- **Generated:** 2026-06-27T02:16:49Z
+- **Generated:** 2026-06-27T02:50:41Z
 - **Machine SSOT:** [`data/public-surface-inventory.json`](../../data/public-surface-inventory.json)
 - **Regenerate:** `ph-civ surface-inventory`
 
@@ -17,9 +17,9 @@ Per-surface status vocabulary: [public-surface-status.md](../../docs/public-surf
 | `strategy_codex_bridge` | bridge | active | docs/strategy-codex-bridge.md | manual |
 | `cards_dataset` | card_dataset | active | data/cards.jsonl | validate:cards |
 | `predictive_history_index` | chapter_catalog | generated | data/predictive-history-index.json | validate:predictive-history-index |
-| `chapter_folders` | chapter_folder | active | ph-civ/chapters/* · ph-apo/chapters/* · book/volume-*/… | validate:cards |
-| `ph_apo_volume_ii_chapters` | chapter_folder | active | ph-apo/chapters/* (+ book/volume-ii-apocalypse/) | data/predictive-history-index.json |
-| `ph_civ_volume_i_chapters` | chapter_folder | active | ph-civ/chapters/* (+ book/volume-i-civilization/) | data/predictive-history-index.json |
+| `chapter_folders` | chapter_folder | active | lectures/* · ph-civ/chapters/* · ph-apo/chapters/* · book… | validate:cards |
+| `ph_apo_volume_ii_chapters` | chapter_folder | active | lectures/* (+ ph-apo/chapters redirect stubs; book/volume… | data/predictive-history-index.json |
+| `ph_civ_volume_i_chapters` | chapter_folder | active | lectures/* (+ ph-civ/chapters redirect stubs; book/volume… | data/predictive-history-index.json |
 | `commentary_methodology_v2` | doctrine_doc | canonical | docs/commentary-methodology-v2.md | validate:commentary-canvas |
 | `public_repo_contract` | doctrine_doc | canonical | docs/public-repo-contract.md | manual |
 | `public_surface_status` | doctrine_doc | active | docs/public-surface-status.md | manual |

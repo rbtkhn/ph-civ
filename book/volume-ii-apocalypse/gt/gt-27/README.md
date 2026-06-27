@@ -17,10 +17,11 @@ Treat this chapter folder as a small source-lattice:
 
 ## Current Source Packet
 
-- [Direct namespace packet](../../../../ph-apo/chapters/gt-27/README.md)
-- [Public card](../../../../data/cards/gt-27.md)
+- [Canonical packet](../../../../lectures/game-theory/gt-27/README.md)
+- [Legacy redirect (ph-apo)](../../../../ph-apo/chapters/gt-27/README.md)
+- [Legacy redirect (ph-civ)](../../../../ph-civ/chapters/gt-27/README.md)
 
 
 ## Staged Status
 
-This is a non-destructive recanonicalization wrapper. The canonical placement is now declared here, while the legacy packet remains intact until a later move pass.
+This is a non-destructive recanonicalization wrapper. The canonical placement is now declared here, while the legacy packet remains intact after PH-LECTURES recanonicalization (legacy paths are redirect stubs).

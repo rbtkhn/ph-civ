@@ -100,6 +100,7 @@ PUBLIC_BOUNDARY_SCAN_PATHS = [
     "book",
     "data",
     "docs",
+    "lectures",
     "ph-civ",
     "ph-apo",
     "prompts",

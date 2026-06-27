@@ -1,30 +1,11 @@
-# Great Books #12: Dante in Paradise
+# gb-12 — legacy redirect
 
-This chapter folder is a public study doorway for `gb-12`.
+The canonical lecture packet for `gb-12` now lives under [`lectures/`](../../lectures/README.md).
 
-## Start Here
+## Canonical packet
 
-Use this folder when someone shares the GitHub chapter link in a YouTube comment or an LLM chat. Start with the transcript, then use the commentary canvas and orientation card to keep the reading bounded.
+- [lectures/great-books/gb-12](../../lectures/great-books/gb-12/README.md)
 
-## Source-Lattice Reading Order
+## Staged status
 
-1. Doorway — this README
-2. Primary source floor — [`gb-12-transcript.md`](./gb-12-transcript.md)
-3. Chapter commentary — [stub](./gb-12-commentary.md) → [Part VI § gb-12](../../volume-i-civilization/parts/part-06-medieval-imagination-commentary.md#gb-12)
-4. Part bibliography — [Part VI](../../volume-i-civilization/parts/part-06-medieval-imagination-bibliography.md)
-5. Public card — [`data/cards/gb-12.md`](../../../data/cards/gb-12.md)
-6. Corridor — read after [`gb-11`](../gb-11/README.md); closes Dante Commedia arc in public mirror
-
-## Files
-
-- [Transcript](gb-12-transcript.md)
-- [Commentary canvas (stub)](gb-12-commentary.md)
-- [Public card](../../../data/cards/gb-12.md)
-
-## Review Status
-
-`in_review`. Promoted from YouTube ASR 2026-06-09. Paradise lecture (part 2 of 2); completes Purgatory handoff from `gb-11`.
-
-## Guardrails
-
-This folder represents public lecture material and companion study apparatus. It is not an endorsement layer and not a substitute for source review.
+This `book/volume-v` path is a **compat redirect** after PH-LECTURES recanonicalization. Do not add new transcript or commentary files here.

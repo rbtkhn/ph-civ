@@ -94,8 +94,8 @@
   "concepts": [],
   "layer1_summary": "The lecture organizes Jewish religious history into First Temple, Second Temple, and Rabbinic periods. First Temple religion is framed as polytheistic and monarchical; Second Temple religion becomes priestly, purity-oriented, and henotheistic; Rabbinic Judaism becomes monotheistic, Bible-plus-rabbis, and diasporic.\n\nCyrus is the hinge. He conquers Babylon in 539 BCE, releases the Jews, sponsors the Second Temple and Bible project, and is described as the only foreigner called Messiah in the Bible. Persian rule is treated as federated imperial management: divide-and-rule, peace, trade, postal systems, satraps, and administrators shaped by Zoroastrian truth-versus-lie commitments.\n\nThe chapter then turns to Zoroastrianism and Ezra. Ahura Mazda, evil, eschatology, grandness, completeness, and unity are treated as filters for imperial administration and as categories that reshape Jewish religion. Ezra's divorce command, J/E/P/D unification, Moses replacing David, purity boundaries, and Samaritan conflict prepare the lecture's claim that Zoroastrian and biblical merger becomes a basis for Christianity.",
   "paths": {
-    "transcript": "book/volume-ii/civ-23/civ-23-transcript.md",
-    "commentary": "book/volume-ii/civ-23/civ-23-commentary.md",
+    "transcript": "lectures/civilization/civ-23/civ-23-transcript.md",
+    "commentary": "lectures/civilization/civ-23/civ-23-commentary.md",
     "part_commentary": "../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md",
     "part_bibliography": "../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md"
   }

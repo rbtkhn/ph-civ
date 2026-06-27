@@ -266,7 +266,7 @@ _No corridor touchpoints in Part I registry._ Literary spine begins @ [Part II `
 
 **Companion role:** prologue @ `civ-01` (registry `secret_history_companions`).
 
-**Pointer only:** Full Secret History packet — [`book/volume-vi/sh-11/`](../../volume-vi/sh-11/README.md). Part I does **not** host thick `sh-11` synthesis; prologue context belongs beside [`civ-01`](#civ-01) + [`gb-01`](#gb-01) weave.
+**Pointer only:** Full Secret History packet — [`lectures/secret-history/sh-11/`](../../volume-vi/sh-11/README.md). Part I does **not** host thick `sh-11` synthesis; prologue context belongs beside [`civ-01`](#civ-01) + [`gb-01`](#gb-01) weave.
 
 ## Counter-readings (external)
 

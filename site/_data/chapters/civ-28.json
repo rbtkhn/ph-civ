@@ -126,8 +126,8 @@
   "concepts": [],
   "layer1_summary": "The lecture begins with a source problem: Muhammad is presented as one of history's most important figures, yet the transcript emphasizes how little direct evidence the course claims to have compared with Jesus. A Christian bishop source, Abrahamic descent, Ishmael, Moses, the Quran, Hadith, Mecca, Medina, and the Constitution of Medina are used to establish the traditional and historical field.\n\nThe chapter then asks why Islam could expand so quickly. It compares early Islam to the Taiping Rebellion, Canudos, and the French Revolution, using those analogies to frame religious devotion plus revolutionary zeal as a military and social force. Arabia is reinterpreted not as backward desert but as a trade, war, mercenary, and religious-diversity zone between exhausted empires.\n\nThe lecture's strongest argument is that Muhammad becomes the leader who unites divided tribes through Abrahamic family identity, meritocratic equality, and a promise to recover land from imperial and landlord control. The final turn argues that later Islamic empire whitewashed the revolutionary origin story because successful empires do not want to teach subjects how revolutions begin.",
   "paths": {
-    "transcript": "book/volume-ii/civ-28/civ-28-transcript.md",
-    "commentary": "book/volume-ii/civ-28/civ-28-commentary.md",
+    "transcript": "lectures/civilization/civ-28/civ-28-transcript.md",
+    "commentary": "lectures/civilization/civ-28/civ-28-commentary.md",
     "part_commentary": "",
     "part_bibliography": ""
   }

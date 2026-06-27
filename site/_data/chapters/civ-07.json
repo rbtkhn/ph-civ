@@ -316,8 +316,8 @@
   ],
   "layer1_summary": "The lecture begins by calling Greek civilization the creative source of Western civilization and asking how a society that was dominant for only a short period could produce Homer, Plato, and Thucydides. It returns to the Bronze Age collapse and argues that Greece became decentralized, illiterate, and poor after Mycenaean collapse. These losses are presented not as pure setbacks but as the preconditions for later creativity.\n\nThe chapter identifies three revolutions behind Greek civilization: the polis, the alphabet, and Homer. The polis is described as a small political community formed by competition, geographic diversity, and the need for broad participation in defense. The alphabet is described as a language revolution that turns writing closer to speech, reduces dependence on scribal monopolies, and lets Greek culture combine the emotional and improvisational power of oral culture with the discipline and reflection of written culture.\n\nHomer is then presented as the intellectual revolution. Because there was no king to sponsor him, the lecture says Homer had to appeal to ordinary people through entertainment, education, and edification. The Iliad is treated as the invention of literature because it gives both Greek and Trojan perspectives, develops human psychology through Achilles and Priam, and uses metaphor as a tool for thought. The lecture closes by contrasting Greece with China: Greece elevates poets and open imagination, while China is presented as stabilizing literacy through scholar-officials and censorship.",
   "paths": {
-    "transcript": "book/volume-ii/civ-07/civ-07-transcript.md",
-    "commentary": "book/volume-ii/civ-07/civ-07-commentary.md",
+    "transcript": "lectures/civilization/civ-07/civ-07-transcript.md",
+    "commentary": "lectures/civilization/civ-07/civ-07-commentary.md",
     "part_commentary": "../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md",
     "part_bibliography": "../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md"
   },

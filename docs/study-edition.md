@@ -104,8 +104,8 @@ Builder emits one JSON bundle per chapter (checked in under `site/_data/` or bui
     }
   ],
   "paths": {
-    "transcript": "book/volume-ii/civ-07/civ-07-transcript.md",
-    "commentary": "book/volume-ii/civ-07/civ-07-commentary.md",
+    "transcript": "lectures/civilization/civ-07/civ-07-transcript.md",
+    "commentary": "lectures/civilization/civ-07/civ-07-commentary.md",
     "part_commentary": "book/volume-i-civilization/parts/part-02-hellenic-world-commentary.md"
   }
 }

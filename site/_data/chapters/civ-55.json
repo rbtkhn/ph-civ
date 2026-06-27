@@ -109,8 +109,8 @@
   "concepts": [],
   "layer1_summary": "The lecture turns from German civilization to German idealism. Kant is framed as making Dante explicit, rationalizing imagination and love into epistemology, and creating a system that changes how modernity understands knowledge, perception, space, time, and the mind.\n\nHegel is introduced as a response to unresolved Kantian problems: the thing-in-itself, the source of mind, and uniformity. Jiang presents Geist, dialectic, absolute spirit, art, religion, philosophy, Marx, God-is-dead language, and the nation-state as major Hegelian legacies.\n\nThe ending links Kant and Hegel to neuroscience, artificial intelligence, relativity, quantum mechanics, philosophy, science, and Konigsberg. These links are central to the lecture's ambition but should be bounded as interpretive and pedagogical bridges pending external review.",
   "paths": {
-    "transcript": "book/volume-ii/civ-55/civ-55-transcript.md",
-    "commentary": "book/volume-ii/civ-55/civ-55-commentary.md",
+    "transcript": "lectures/civilization/civ-55/civ-55-transcript.md",
+    "commentary": "lectures/civilization/civ-55/civ-55-commentary.md",
     "part_commentary": "../../volume-i-civilization/parts/part-10-rise-of-the-nation-state-commentary.md#civ-55",
     "part_bibliography": "../../volume-i-civilization/parts/part-10-rise-of-the-nation-state-bibliography.md"
   }

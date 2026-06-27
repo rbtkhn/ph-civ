@@ -139,8 +139,8 @@
   "concepts": [],
   "layer1_summary": "The lecture frames the Indus Valley Civilization around three questions: what made it distinct, why it declined, and what legacy it left for the West and later Indian religious worlds. It begins in global Bronze Age context, emphasizing Egypt, Mesopotamia, Arabia, trade demand, bronze, and burial wealth.\n\nThe main civilizational contrast is Indus order without obvious royal display. The lecture points to scale, urban design, sanitation, reservoirs, wind towers, standardization, graves, and the lack of royal weapon burials as evidence for a more peaceful and egalitarian pattern, while repeatedly acknowledging evidentiary limits. The unreadable script leaves religion opaque, so the chapter can only hypothesize about symbolic and religious life.\n\nThe final movement treats decline and replacement without simple invasion language. Climate, trade, internal tension, and steppe assimilation are all kept in view. The chapter then connects Indus memory to Hinduism, Buddhism, Jainism, Sikhism, Brahmins, kings, Buddhist challenge, caste hardening, and a speculative proto-Buddhist nostalgia for oneness and false reality. That claim is important to the lecture, but it must remain explicitly bounded.",
   "paths": {
-    "transcript": "book/volume-ii/civ-20/civ-20-transcript.md",
-    "commentary": "book/volume-ii/civ-20/civ-20-commentary.md",
+    "transcript": "lectures/civilization/civ-20/civ-20-transcript.md",
+    "commentary": "lectures/civilization/civ-20/civ-20-commentary.md",
     "part_commentary": "../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md",
     "part_bibliography": "../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md"
   }

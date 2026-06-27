@@ -29,4 +29,4 @@ This entry is in review and preserves the lecture's interpretive frame without t
 
 ## Return Path
 
-Return through book/volume-i/geo-07-transcript.md for exact lecture wording, book/volume-i/geo-07-commentary.md for bounded analysis, and corpus/geo-strategy/geo-07.md for source metadata.
+Return through lectures/geo-strategy/geo-07/geo-07-transcript.md for exact lecture wording, lectures/geo-strategy/geo-07/geo-07-commentary.md for bounded analysis, and corpus/geo-strategy/geo-07.md for source metadata.

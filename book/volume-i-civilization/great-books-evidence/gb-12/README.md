@@ -4,8 +4,9 @@ Staged canonical home for `gb-12` inside the two-volume public book architecture
 
 ## Current Source Packet
 
-- [Legacy source packet](../../../volume-v/gb-12/README.md)
-- [Public card](../../../../data/cards/gb-12.md)
+- [Canonical packet](../../../../lectures/great-books/gb-12/README.md)
+- [Legacy redirect](../../../volume-v/gb-12/README.md)
+
 
 ## Staged Status
 

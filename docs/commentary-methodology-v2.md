@@ -253,7 +253,7 @@ When `data/patterns.json` IDs are mandatory in L5 vs canvas-only.
 
 ### Calibration anchor: civ-07
 
-Use [`book/volume-ii/civ-07/civ-07-commentary.md`](../book/volume-ii/civ-07/civ-07-commentary.md) as the reference v2 upgrade before scaling waves.
+Use [`lectures/civilization/civ-07/civ-07-commentary.md`](../lectures/civilization/civ-07/civ-07-commentary.md) as the reference v2 upgrade before scaling waves.
 
 **Proof-object gate for `l2_pinned`:** L0 thesis + ≥2 L2 claims must reflect governing inversion + two concrete historical examples bearing argumentative weight.
 

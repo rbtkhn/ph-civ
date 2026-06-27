@@ -109,8 +109,8 @@
   "concepts": [],
   "layer1_summary": "The lecture turns from Britain and Shakespeare to America, presenting the United States as an anti-civilization designed to redeem humanity from older civilizational prejudice and atrocity. It places the American Revolution inside the course's map of modern rival civilizations.\n\nJiang develops America through colonies, Puritan literacy, religious diversity, Benjamin Franklin, self-help, Hamilton, constitutional design, risk management, expansion, manifest destiny, and democratic empire. The chapter treats America as both universal promise and imperial project.\n\nThe ending moves through Native dispossession, Mexico, Civil War, Lincoln, Tocqueville, and modern political analogy. This is one of the highest-risk orientation chapters because it compresses contested American history into a powerful interpretive frame.",
   "paths": {
-    "transcript": "book/volume-ii/civ-52/civ-52-transcript.md",
-    "commentary": "book/volume-ii/civ-52/civ-52-commentary.md",
+    "transcript": "lectures/civilization/civ-52/civ-52-transcript.md",
+    "commentary": "lectures/civilization/civ-52/civ-52-commentary.md",
     "part_commentary": "../../volume-i-civilization/parts/part-09-age-of-conscience-commentary.md#civ-52",
     "part_bibliography": "../../volume-i-civilization/parts/part-09-age-of-conscience-bibliography.md"
   }

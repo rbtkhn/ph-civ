@@ -1,32 +1,11 @@
-# Secret History #13: Mandate of Heaven
+# sh-13 — legacy redirect
 
-This chapter folder is a public study doorway for `sh-13`.
+The canonical lecture packet for `sh-13` now lives under [`lectures/`](../../lectures/README.md).
 
-## Start Here
+## Canonical packet
 
-Use this folder when someone shares the GitHub chapter link in a YouTube comment or an LLM chat. Start with the transcript, then use the commentary canvas and orientation card to keep the reading bounded.
+- [lectures/secret-history/sh-13](../../lectures/secret-history/sh-13/README.md)
 
-## Source Video
+## Staged status
 
-- YouTube: https://www.youtube.com/watch?v=FJF8oD_5c_w
-
-## Files
-
-- [Transcript](sh-13-transcript.md)
-- [Commentary canvas](sh-13-commentary.md)
-- [Orientation payload](sh-13-orientation.yaml)
-- [Public card](../../../data/cards/sh-13.md)
-
-## Review Status
-
-`in_review`. Do not treat provisional transcript text, named claims, quotations, or current-event predictions as final until review is complete.
-
-## LLM Prompt
-
-Paste this folder link into ChatGPT, Claude, or Grok and ask:
-
-> Guide me through this chapter folder as a public study packet. Start with the transcript, then use the commentary canvas and orientation/card guardrails. Keep provisional claims bounded and separate lecture representation from verification.
-
-## Guardrails
-
-This folder represents the public lecture material and companion study apparatus. It is not a private note dump, not an endorsement layer, and not a substitute for source review.
+This `book/volume-vi` path is a **compat redirect** after PH-LECTURES recanonicalization. Do not add new transcript or commentary files here.

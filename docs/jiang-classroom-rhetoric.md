@@ -7,8 +7,8 @@ It is related to [The Pedagogy of Predictive History](jiang-pedagogy-and-viralit
 Three source anchors are especially useful here:
 
 - [gt-16-transcript.md](../book/volume-iii/gt-16/gt-16-transcript.md)
-- [sh-11-transcript.md](../book/volume-vi/sh-11/sh-11-transcript.md)
-- [gb-12-transcript.md](../book/volume-v/gb-12/gb-12-transcript.md)
+- [sh-11-transcript.md](../lectures/secret-history/sh-11/sh-11-transcript.md)
+- [gb-12-transcript.md](../lectures/great-books/gb-12/gb-12-transcript.md)
 
 ## The Core Pattern
 

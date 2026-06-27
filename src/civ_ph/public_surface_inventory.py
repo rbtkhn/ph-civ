@@ -273,7 +273,7 @@ def aggregate_chapter_rows(cards: list[dict], repo_root: Path) -> list[dict]:
         ),
         _row(
             surface="chapter_folders",
-            path="ph-civ/chapters/* · ph-apo/chapters/* · book/volume-*/…",
+            path="lectures/* · ph-civ/chapters/* · ph-apo/chapters/* · book/volume-*/… (redirect stubs)",
             surface_class="chapter_folder",
             status="active",
             reader_mode="study",
@@ -282,7 +282,7 @@ def aggregate_chapter_rows(cards: list[dict], repo_root: Path) -> list[dict]:
         ),
         _row(
             surface="ph_civ_volume_i_chapters",
-            path="ph-civ/chapters/* (+ book/volume-i-civilization/)",
+            path="lectures/* (+ ph-civ/chapters redirect stubs; book/volume-i-civilization/)",
             surface_class="chapter_folder",
             status="active",
             notes=f"ph-civ surface count: {by_surface.get('ph-civ', 0)}",
@@ -290,7 +290,7 @@ def aggregate_chapter_rows(cards: list[dict], repo_root: Path) -> list[dict]:
         ),
         _row(
             surface="ph_apo_volume_ii_chapters",
-            path="ph-apo/chapters/* (+ book/volume-ii-apocalypse/)",
+            path="lectures/* (+ ph-apo/chapters redirect stubs; book/volume-ii-apocalypse/)",
             surface_class="chapter_folder",
             status="active",
             notes=f"ph-apo surface count: {by_surface.get('ph-apo', 0)}",

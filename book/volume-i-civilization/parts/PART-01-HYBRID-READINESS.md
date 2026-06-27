@@ -64,7 +64,7 @@ Planning doc for extending the **Part II–VIII hybrid model** (thin chapter + t
 
 | SH | Anchor | Role | Part I placement |
 |----|--------|------|------------------|
-| `sh-11` | `civ-01` | prologue | **`### sh-11` pointer** — prologue companion; full packet under `book/volume-vi/sh-11/` |
+| `sh-11` | `civ-01` | prologue | **`### sh-11` pointer** — prologue companion; full packet under `lectures/secret-history/sh-11/` |
 
 ---
 

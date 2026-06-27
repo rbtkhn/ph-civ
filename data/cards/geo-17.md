@@ -30,4 +30,4 @@ This entry is in review and preserves the lecture's interpretive frame without t
 
 ## Return Path
 
-Return through book/volume-i/geo-17-transcript.md for exact lecture wording, book/volume-i/geo-17-commentary.md for bounded analysis, and corpus/geo-strategy/geo-17.md for source metadata.
+Return through lectures/geo-strategy/geo-17/geo-17-transcript.md for exact lecture wording, lectures/geo-strategy/geo-17/geo-17-commentary.md for bounded analysis, and corpus/geo-strategy/geo-17.md for source metadata.

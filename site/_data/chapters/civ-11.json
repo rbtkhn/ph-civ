@@ -139,8 +139,8 @@
   "concepts": [],
   "layer1_summary": "The lecture begins by challenging a diffusion-only account of Greek cultural spread. Greek culture becomes the basis of Western civilization not simply because others freely choose it, but because Macedonian conquest carries it outward. That makes Philip II central: Alexander may become the famous expander, but Philip builds the military, fiscal, diplomatic, and loyalty system that makes expansion possible.\n\nThe chapter develops two analytic frames. The father-son business analogy distinguishes founding capacity from expansion capacity; the poor-rich state thought experiment explains why a poor, exposed, unified, obedient kingdom might outperform richer but more divided powers. Macedon is then described as geography under pressure: poor, tribal, raided, encircled, and forced to develop military discipline.\n\nPhilip's biography is read through this state-building lens. His hostage years in Thebes expose him to the Sacred Band and disciplined hoplite innovation. As regent and king, he creates a more mobile phalanx, builds Companion cavalry around merit and loyalty, uses Parmenion and shared hardship to bind the army, wins Amphipolis and gold, defeats the Greek city-states at Chaeronea, and prepares the Persian invasion before his assassination.",
   "paths": {
-    "transcript": "book/volume-ii/civ-11/civ-11-transcript.md",
-    "commentary": "book/volume-ii/civ-11/civ-11-commentary.md",
+    "transcript": "lectures/civilization/civ-11/civ-11-transcript.md",
+    "commentary": "lectures/civilization/civ-11/civ-11-commentary.md",
     "part_commentary": "../../volume-i-civilization/parts/part-02-hellenic-world-commentary.md",
     "part_bibliography": "../../volume-i-civilization/parts/part-02-hellenic-world-bibliography.md"
   }

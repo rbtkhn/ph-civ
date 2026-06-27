@@ -139,8 +139,8 @@
   "concepts": [],
   "layer1_summary": "The lecture opens with three questions about the Great Pyramid: how it was built, why it was built, and why the Egyptians eventually stopped building such monuments. The construction discussion foregrounds Jean-Pierre Houdin's inside-out hypothesis, including counterweights, an internal spiral ramp, and model-building near the site. This remains a theory in the lecture's handling, not a settled final answer.\n\nThe middle of the chapter shifts from engineering to purpose. Standard tomb or resurrection-machine readings are placed beside the lecture's own analogy: the pyramid as something like a Manhattan Project for ancient Egypt, a state-scale undertaking that produces unity, discipline, awe, and legitimacy. The comparison is meant to make state capacity visible, not to equate pyramid construction with modern weapons research.\n\nThe final movement asks why pyramid building stopped. The lecture points to climate stress, the 4.2 kiloyear event, economic costs, lost expertise, secrecy, and a darker critique of an afterlife economy that could become socially nihilistic. It closes by contrasting pre-modern cognitive style with modern academic readings and by pointing forward to Bronze Age Mesopotamia and Indus comparisons.",
   "paths": {
-    "transcript": "book/volume-ii/civ-18/civ-18-transcript.md",
-    "commentary": "book/volume-ii/civ-18/civ-18-commentary.md",
+    "transcript": "lectures/civilization/civ-18/civ-18-transcript.md",
+    "commentary": "lectures/civilization/civ-18/civ-18-commentary.md",
     "part_commentary": "../../volume-i-civilization/parts/part-04-ancient-foundations-commentary.md",
     "part_bibliography": "../../volume-i-civilization/parts/part-04-ancient-foundations-bibliography.md"
   }

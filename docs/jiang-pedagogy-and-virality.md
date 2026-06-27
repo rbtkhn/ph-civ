@@ -62,7 +62,7 @@ This is why the lectures feel less like ordinary instruction and more like guide
 The lectures usually begin with a vivid problem rather than background exposition.
 
 - In [gt-16-transcript.md](../book/volume-iii/gt-16/gt-16-transcript.md), the lecture opens with the concrete question of how a war will end, then uses clips, strategic contrast, and a system model to build upward.
-- In [sh-11-transcript.md](../book/volume-vi/sh-11/sh-11-transcript.md), the lecture opens with Darwin and the standard theory of evolution, then immediately turns the classroom toward a challenge.
+- In [sh-11-transcript.md](../lectures/secret-history/sh-11/sh-11-transcript.md), the lecture opens with Darwin and the standard theory of evolution, then immediately turns the classroom toward a challenge.
 - In the May 26, 2026 Dante lecture, the opening move is the status question: Homer, Virgil, Dante, and why one poet restores civilization after another darkens it.
 
 This creates immediate cognitive tension. The student is not passively receiving a timeline. The student is trying to solve a problem.

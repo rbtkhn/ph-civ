@@ -37,8 +37,8 @@ The public mirror corridor now runs through **`gb-12`** (Paradise). Steps 12–1
 
 | GB | Mirror path | Fidelity |
 |----|-------------|----------|
-| `gb-11` | [volume-v/gb-11/](../../book/volume-v/gb-11/README.md) | Operator-paste transcript; 10 section rails |
-| `gb-12` | [volume-v/gb-12/](../../book/volume-v/gb-12/README.md) | YouTube ASR (`en-orig`); spot-checked + sectioned 2026-06-09 |
+| `gb-11` | [volume-v/gb-11/](../../lectures/great-books/gb-11/README.md) | Operator-paste transcript; 10 section rails |
+| `gb-12` | [volume-v/gb-12/](../../lectures/great-books/gb-12/README.md) | YouTube ASR (`en-orig`); spot-checked + sectioned 2026-06-09 |
 
 Archive anchor (operator source archive): gb-12 public source capture (see Part VI hybrid readiness). See [PART-06-HYBRID-READINESS.md § GB extension](../../book/volume-i-civilization/parts/PART-06-HYBRID-READINESS.md#gb-1112-corridor-extension-inventory).
 

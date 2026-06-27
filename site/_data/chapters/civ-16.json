@@ -130,8 +130,8 @@
   "concepts": [],
   "layer1_summary": "The lecture follows the chain from Caesar's will to the birth of empire. Caesar's assassination does not restore the republic; it crystallizes his myth and gives Octavian a name, inheritance, and political weapon. The wars of the liberators, the Second Triumvirate, Philippi, partition, Lepidus's removal, Actium, and the Augustan settlement form the chapter's chronological spine.\n\nOctavian's genius is contrasted with Antony's failure. Antony imitates Caesar without becoming Caesar: Cleopatra, Parthia, eastern monarchy, and public misjudgments weaken his claim. Octavian instead turns heirship, legality, propaganda, and caution into durable authority.\n\nThe chapter also emphasizes Roman taboos and institutional theater. Caesar may not expect assassination because of Senate norms, pomerium taboos, and personal assumptions about honor; Octavian learns from this and constructs a settlement that preserves republican surfaces while concentrating power. The final note treats adoptive succession after Tiberius as a later failure point.",
   "paths": {
-    "transcript": "book/volume-ii/civ-16/civ-16-transcript.md",
-    "commentary": "book/volume-ii/civ-16/civ-16-commentary.md",
+    "transcript": "lectures/civilization/civ-16/civ-16-transcript.md",
+    "commentary": "lectures/civilization/civ-16/civ-16-commentary.md",
     "part_commentary": "../../volume-i-civilization/parts/part-03-roman-imperium-commentary.md",
     "part_bibliography": "../../volume-i-civilization/parts/part-03-roman-imperium-bibliography.md"
   }

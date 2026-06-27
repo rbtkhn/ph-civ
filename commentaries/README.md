@@ -7,7 +7,7 @@ Repo path: **`commentaries/`** at the repository root (sibling to [`essays/`](..
 ## Scope (this pass)
 
 - **Essays only:** `commentaries/essay-YYYY-MM-DD-{slug}-commentary.md` pairs with flat [`essays/essay-YYYY-MM-DD-{slug}.md`](../essays/README.md).
-- **Lectures / interviews** keep commentary beside their chapter folders under `book/` and `interviews/`.
+- **Lectures / interviews** keep commentary beside chapter folders under [`lectures/`](../lectures/README.md) and [`interviews/`](../interviews/README.md).
 
 ## Path template
 

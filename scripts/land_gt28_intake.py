@@ -62,7 +62,7 @@ def write_transcript_pair(body: str) -> None:
     payload = TRANSCRIPT_FM + body
     paths = [
         ROOT / "sources/predictive-history/game-theory/gt-28.md",
-        ROOT / "ph-apo/chapters/gt-28/gt-28-transcript.md",
+        ROOT / "lectures/game-theory/gt-28/gt-28-transcript.md",
     ]
     for path in paths:
         path.parent.mkdir(parents=True, exist_ok=True)
@@ -70,7 +70,7 @@ def write_transcript_pair(body: str) -> None:
 
 
 def write_commentary() -> None:
-    path = ROOT / "ph-apo/chapters/gt-28/gt-28-commentary.md"
+    path = ROOT / "lectures/game-theory/gt-28/gt-28-commentary.md"
     path.write_text(
         textwrap.dedent(
             f"""\
@@ -79,7 +79,7 @@ def write_commentary() -> None:
             title: "{TITLE}"
             source_series: "Game Theory"
             publication_date: "{PUB_DATE}"
-            source_chapter_path: "ph-apo/chapters/gt-28/gt-28-transcript.md"
+            source_chapter_path: "lectures/game-theory/gt-28/gt-28-transcript.md"
             source_corpus_path: "sources/predictive-history/game-theory/gt-28.md"
             commentary_status: "provisional"
             review_status: "provisional"
@@ -136,7 +136,7 @@ def write_commentary() -> None:
 
             ### Layer 0 — Source floor
 
-            - Transcript: `ph-apo/chapters/gt-28/gt-28-transcript.md`
+            - Transcript: `lectures/game-theory/gt-28/gt-28-transcript.md`
             - Canonical capture: `sources/predictive-history/game-theory/gt-28.md`
 
             ### Layer 1 — Lecture spine (seed)
@@ -165,7 +165,7 @@ def write_commentary() -> None:
 
 
 def write_orientation() -> None:
-    path = ROOT / "ph-apo/chapters/gt-28/gt-28-orientation.yaml"
+    path = ROOT / "lectures/game-theory/gt-28/gt-28-orientation.yaml"
     path.write_text(
         textwrap.dedent(
             f"""\
@@ -194,7 +194,7 @@ def write_orientation() -> None:
 
 
 def write_readme() -> None:
-    path = ROOT / "ph-apo/chapters/gt-28/README.md"
+    path = ROOT / "lectures/game-theory/gt-28/README.md"
     path.write_text(
         textwrap.dedent(
             f"""\
@@ -290,7 +290,7 @@ def write_card_md() -> None:
 
             ## Return Path
 
-            Return through `ph-apo/chapters/gt-28/`, the commentary canvas, and the canonical source capture under `sources/`. This card is a provisional doorway, not a launch claim.
+            Return through `lectures/game-theory/gt-28/`, the commentary canvas, and the canonical source capture under `sources/`. This card is a provisional doorway, not a launch claim.
             """
         ),
         encoding="utf-8",
@@ -321,7 +321,7 @@ def card_jsonl_entry() -> dict:
                 "monetary-AI civil-war diagnosis; the packet keeps those layers separate."
             ),
             "Return Path": (
-                "Return through `ph-apo/chapters/gt-28/`, the commentary canvas, and "
+                "Return through `lectures/game-theory/gt-28/`, the commentary canvas, and "
                 "the canonical source capture under `sources/`. This card is a provisional "
                 "doorway, not a launch claim."
             ),
@@ -335,9 +335,9 @@ def card_jsonl_entry() -> dict:
         "series": "game-theory",
         "source_id": SOURCE_ID,
         "source_paths": {
-            "commentary_path": "ph-apo/chapters/gt-28/gt-28-commentary.md",
-            "orientation_payload_path": "ph-apo/chapters/gt-28/gt-28-orientation.yaml",
-            "source_chapter_path": "ph-apo/chapters/gt-28/gt-28-transcript.md",
+            "commentary_path": "lectures/game-theory/gt-28/gt-28-commentary.md",
+            "orientation_payload_path": "lectures/game-theory/gt-28/gt-28-orientation.yaml",
+            "source_chapter_path": "lectures/game-theory/gt-28/gt-28-transcript.md",
             "source_corpus_path": "sources/predictive-history/game-theory/gt-28.md",
         },
         "source_snapshot": {"commit": "", "path": "data/cards/gt-28.md", "repo": "rbtkhn/ph-workshop"},

@@ -109,8 +109,8 @@
   "concepts": [],
   "layer1_summary": "The lecture asks why humanity shifted from hunter-gatherer life to agriculture and begins by rejecting the familiar progress narrative in which farming naturally produced surplus, cities, literacy, and modernity. It emphasizes that farming often increased labor, reduced nutritional quality, and increased disease exposure. The lecture then surveys four broad explanatory families: coercion, war, respect for elders, and religion. After describing why the first three are treated as weaker explanations, it presents religion as the lecture's favored account.\n\nThe rest of the lecture moves through three archaeological examples. Gobekli Tepe is presented as a ritual center with large T-pillars and shamanic leadership, possibly used for aggregation, feasting, and cosmological worship. Jericho and the Natufian world are described as sedentary hunter-gatherer communities with domesticated crops, ritual treatment of skulls, and a tower interpreted as a religious structure rather than a military one. Catalhoyuk is described as a large settlement in which religion permeated the household and symbolic life, including mother-goddess imagery, sky burial, and animal symbolism. The lecture closes by arguing that religion helped make sedentary life attractive and that resource pressure eventually pushed these communities toward full agriculture.",
   "paths": {
-    "transcript": "book/volume-ii/civ-01/civ-01-transcript.md",
-    "commentary": "book/volume-ii/civ-01/civ-01-commentary.md",
+    "transcript": "lectures/civilization/civ-01/civ-01-transcript.md",
+    "commentary": "lectures/civilization/civ-01/civ-01-commentary.md",
     "part_commentary": "../../volume-i-civilization/parts/part-01-dawn-of-civilization-commentary.md#civ-01",
     "part_bibliography": "../../volume-i-civilization/parts/part-01-dawn-of-civilization-bibliography.md"
   }

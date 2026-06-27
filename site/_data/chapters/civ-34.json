@@ -105,8 +105,8 @@
   "concepts": [],
   "layer1_summary": "The lecture begins from Voltaire's claim that the Holy Roman Empire was neither holy, Roman, nor an empire, then argues that the joke is substantially true. Jiang frames the empire as a continuation of Rome in Western Europe and asks why Charlemagne accepted coronation by Pope Leo III and why the Catholic Church had enough authority to confer legitimacy.\n\nThe chapter places Charlemagne in European geography: Europe lacked the easy river-and-boundary advantages of older river civilizations, remained divided, and required legitimacy more than direct conquest. The Catholic Church, because it inherited Roman prestige and local church infrastructure, could supply the symbolic order that military force alone could not.\n\nThe second half retells Catholic institutional history as a struggle over legitimacy, conversion, orthodoxy, Rome versus Constantinople, iconoclasm, and the Great Schism. It then links the Holy Roman Empire to Augustine's City of God: a useful fiction that gave divided Europe a shared sacred-political grammar while leaving real power dispersed among pope, emperor, bishops, and prince electors.",
   "paths": {
-    "transcript": "book/volume-ii/civ-34/civ-34-transcript.md",
-    "commentary": "book/volume-ii/civ-34/civ-34-commentary.md",
+    "transcript": "lectures/civilization/civ-34/civ-34-transcript.md",
+    "commentary": "lectures/civilization/civ-34/civ-34-commentary.md",
     "part_commentary": "",
     "part_bibliography": ""
   }

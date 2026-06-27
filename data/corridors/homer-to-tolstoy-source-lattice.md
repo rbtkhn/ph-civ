@@ -146,7 +146,7 @@ world-making language. Not a core-spine stop.
 ### Dante and theological-imagination support
 
 - [gb-11](../cards/gb-11.md)
-- [gb-12: Dante in Paradise](../../book/volume-v/gb-12/README.md)
+- [gb-12: Dante in Paradise](../../lectures/great-books/gb-12/README.md)
 - [sh-17](../cards/sh-17.md)
 - [sh-18](../cards/sh-18.md)
 - [civ-55](../cards/civ-55.md)

@@ -55,7 +55,7 @@ These support nodes strengthen the route, but they do not replace the core spine
 | Node | Role |
 | --- | --- |
 | [gb-11](../cards/gb-11.md) | Purgatory continuation — promoted to `volume-v/gb-11/` (2026-06-09). |
-| [gb-12: Dante in Paradise](../../book/volume-v/gb-12/README.md) | Paradise continuation — love, imagination, and God as causation problem toward the Tolstoy bridge. |
+| [gb-12: Dante in Paradise](../../lectures/great-books/gb-12/README.md) | Paradise continuation — love, imagination, and God as causation problem toward the Tolstoy bridge. |
 | [sh-17](../cards/sh-17.md) | Scriptural literary memory and Genesis as layered identity-making text. |
 | [sh-18](../cards/sh-18.md) | Prophetic-poetic voice through Zarathustra, Rumi, and Nietzsche. |
 | [civ-55](../cards/civ-55.md) | **Kant hinge**. The strongest non-literary reinforcement now materialized in the public mirror. It turns Dante's imagination into a problem of epistemology, philosophy, and modernity. |

@@ -109,8 +109,8 @@
   "concepts": [],
   "layer1_summary": "The lecture returns from the Mongol world-history pivot to Europe by introducing the Crusades as the bridge into Renaissance and Reformation material. Jiang first asks what the Crusades were, why they happened, and why they eventually stopped, then grounds the answer in a portrait of medieval Catholic authority.\n\nThe chapter contrasts early Christian humility and poverty with the later wealth and institutional power of the Catholic Church. It treats the church as a successor to Roman imperial form: a bureaucracy with a universal language, hierarchy, rituals, claims over salvation, and power over orthodoxy and heresy.\n\nThe ending turns to social conflict and scapegoating. Jiang links feudal tension, nobility, peasantry, and Jewish middlemen to ritualized violence, then closes by stressing that medieval Europe operated through an afterlife-centered worldview in which staying aligned with the church was central to salvation.",
   "paths": {
-    "transcript": "book/volume-ii/civ-40/civ-40-transcript.md",
-    "commentary": "book/volume-ii/civ-40/civ-40-commentary.md",
+    "transcript": "lectures/civilization/civ-40/civ-40-transcript.md",
+    "commentary": "lectures/civilization/civ-40/civ-40-commentary.md",
     "part_commentary": "../../volume-i-civilization/parts/part-07-world-after-rome-commentary.md#civ-40",
     "part_bibliography": "../../volume-i-civilization/parts/part-07-world-after-rome-bibliography.md"
   }

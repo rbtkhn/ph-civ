@@ -16,6 +16,7 @@ The staged redesign teaches a civilizational historiography directly in the file
 - Great Books function as civilizational evidence inside Volume I
 - Secret History is mostly Apocalypse, with selective Civilization support only
 - geo, gt, sh, and sub remain distinct Apocalypse spines but are all subordinate to application
+- **lecture packets** (transcript + commentary) are canonical under [`lectures/`](../lectures/README.md); legacy `book/volume-*` paths are redirect stubs after PH-LECTURES
 
 ## Source-Lattice Rule
 
