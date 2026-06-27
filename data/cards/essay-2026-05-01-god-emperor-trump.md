@@ -11,7 +11,7 @@ review_status: in_review
 
 ## Where This Sits
 
-`essay-2026-05-01-god-emperor-trump` extends the public `ph-civ` essay lane into the symbolic and constitutional dimension of crisis, where surveillance, sacralization, and executive concentration are read together.
+`essay-2026-05-01-god-emperor-trump` extends the public essays namespace into the symbolic and constitutional dimension of crisis, where surveillance, sacralization, and executive concentration are read together.
 
 ## Reading Posture
 

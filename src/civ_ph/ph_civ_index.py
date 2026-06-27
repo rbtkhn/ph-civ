@@ -13,7 +13,7 @@ from .data import PACKAGE_ROOT, load_cards
 INDEX_MD_REL = "docs/predictive-history-index.md"
 INDEX_JSON_REL = "docs/predictive-history-index.json"
 FINGERPRINT_MARKER = "<!-- predictive-history-index-fingerprint:"
-SCHEMA_VERSION = 4
+SCHEMA_VERSION = 5
 PRIMARY_ARTIFACT = "namespace_catalog"
 
 NAMESPACE_SLICE_PATHS = {

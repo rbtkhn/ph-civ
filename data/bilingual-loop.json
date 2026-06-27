@@ -4,9 +4,9 @@
   "posture": "civilizational_bridge",
   "language_scope": "trilingual",
   "status": "ambition_metadata",
-  "canonical_source": "ph-civ",
+  "canonical_source": "predictive-history",
   "canonical_language_surface": {
-    "surface": "ph-civ",
+    "surface": "predictive-history",
     "locale": "en",
     "role": "canonical_source"
   },
@@ -26,9 +26,9 @@
       "role": "downstream_localization_mirror"
     }
   ],
-  "authority_model": "ph-civ is the upstream public artifact and source of truth; ph-civ-zh and ph-civ-ru are downstream localization mirrors that inherit route IDs, guardrails, cards, transcripts, commentaries, and launch-readiness status from ph-civ.",
+  "authority_model": "predictive-history is the upstream public artifact and source of truth; ph-civ-zh and ph-civ-ru are downstream localization mirrors that inherit route IDs, guardrails, cards, transcripts, commentaries, and launch-readiness status from predictive-history.",
   "primary_wedge": "homer_to_tolstoy_read_from_china",
-  "identity": "ph-civ is an LLM-native trilingual civilizational bridge: English, Chinese, and Russian readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through a shared, source-bounded public route system.",
+  "identity": "predictive-history is an LLM-native trilingual civilizational bridge: English, Chinese, and Russian readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through a shared, source-bounded public route system.",
   "english_hook": "A Chinese civilizational-history lens can help Western readers recover the stakes of their own canon without turning that canon into nostalgia or culture-war shorthand.",
   "chinese_hook": "The Western canon can become readable as civilizational pattern without imitation or rejection, and without civilizational scoreboard thinking.",
   "reinforcement_loop": [
@@ -50,7 +50,7 @@
   ],
   "future_zh_wedge": {
     "status": "future_scaffold_only",
-    "upstream_source": "ph-civ",
+    "upstream_source": "predictive-history",
     "dependency_role": "downstream_localization_mirror",
     "first_steps": [
       "canonical glossary",
@@ -63,7 +63,7 @@
   "future_ru_wedge": {
     "status": "roadmap_candidate",
     "future_surface": "ph-civ-ru",
-    "upstream_source": "ph-civ",
+    "upstream_source": "predictive-history",
     "dependency_role": "downstream_localization_mirror",
     "primary_wedge": "homer_to_tolstoy_and_russian_literary_spine",
     "first_steps": [
@@ -79,7 +79,7 @@
       "not live war analysis",
       "not a translation dump"
     ],
-    "defer": "Do not translate all 149 source chapters or create ph-civ-ru commands before the glossary, bootloader, first-tour metadata, and Russia-specific guardrails are stable.",
+    "defer": "Do not translate all 149 source chapters or create predictive-history localization commands before the glossary, bootloader, first-tour metadata, and Russia-specific guardrails are stable.",
     "no_repo_scaffold_in_this_pass": true
   },
   "localization_roadmap": [
@@ -87,7 +87,7 @@
       "future_surface": "ph-civ-zh",
       "locale": "zh",
       "status": "future_scaffold_only",
-      "upstream_source": "ph-civ",
+      "upstream_source": "predictive-history",
       "dependency_role": "downstream_localization_mirror",
       "role": "first civilizational bridge mirror",
       "first_steps": [
@@ -100,7 +100,7 @@
       "future_surface": "ph-civ-ru",
       "locale": "ru",
       "status": "roadmap_candidate",
-      "upstream_source": "ph-civ",
+      "upstream_source": "predictive-history",
       "dependency_role": "downstream_localization_mirror",
       "role": "Russian literary-spine and civilizational-pattern mirror",
       "first_steps": [
@@ -112,7 +112,7 @@
   ],
   "public_copy": {
     "short": "Homer to Tolstoy, read from China.",
-    "long": "A trilingual civilizational bridge where canonical English ph-civ can support downstream Chinese and Russian mirrors through the same source-bounded route system, without propaganda, flattery, loose translation, or independent localization canons."
+    "long": "A trilingual civilizational bridge where canonical English predictive-history can support downstream Chinese and Russian mirrors through the same source-bounded route system, without propaganda, flattery, loose translation, or independent localization canons."
   },
   "start_files": [
     "docs/localization/bilingual-civilizational-bridge.md",

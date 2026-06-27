@@ -194,7 +194,7 @@ This is a `catalog` mode entrypoint and a study-mode lookup aid. It is not a rep
 
 
 
-The trilingual shape is canonical English `ph-civ`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`.
+The trilingual shape is canonical English `predictive-history`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`.
 
 
 

@@ -11,7 +11,7 @@ review_status: in_review
 
 ## Where This Sits
 
-`essay-2026-04-25-the-trump-new-deal` belongs to the first public `ph-civ` essay arc where maritime control, war finance, and debt absorption are read as part of a broader American imperial reset.
+`essay-2026-04-25-the-trump-new-deal` belongs to the first public essays arc where maritime control, war finance, and debt absorption are read as part of a broader American imperial reset.
 
 ## Reading Posture
 

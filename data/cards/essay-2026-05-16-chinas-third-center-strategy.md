@@ -11,7 +11,7 @@ review_status: in_review
 
 ## Where This Sits
 
-`essay-2026-05-16-chinas-third-center-strategy` carries the public `ph-civ` essay lane into great-power triangulation, where the Iran war, US-China bargaining, and Russia-China positioning are read as parts of one system crisis.
+`essay-2026-05-16-chinas-third-center-strategy` carries the public essays namespace into great-power triangulation, where the Iran war, US-China bargaining, and Russia-China positioning are read as parts of one system crisis.
 
 ## Reading Posture
 

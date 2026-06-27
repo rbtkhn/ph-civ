@@ -13,7 +13,10 @@
     "two_volume_ph_civ": {
       "archive_doc": "docs/archive/two-volume-ph-civ-apo-deprecated.md",
       "reader_map": "docs/archive/two-volumes-one-reader-map.md",
-      "surfaces": ["ph-civ", "ph-apo"]
+      "surfaces": [
+        "ph-civ",
+        "ph-apo"
+      ]
     }
   },
   "first_response_contract": {
@@ -95,18 +98,18 @@
     "bridge_id": "trilingual_civilizational_bridge",
     "language_scope": "trilingual",
     "status": "ambition_metadata",
-    "canonical_source": "ph-civ",
+    "canonical_source": "predictive-history",
     "primary_wedge": "homer_to_tolstoy_read_from_china",
     "localization_roadmap": [
       "ph-civ-zh",
       "ph-civ-ru"
     ],
-    "authority_model": "ph-civ-zh and ph-civ-ru are downstream mirrors of canonical ph-civ, not sibling sources of truth."
+    "authority_model": "ph-civ-zh and ph-civ-ru are downstream mirrors of canonical predictive-history, not sibling sources of truth."
   },
   "chapter_folder_links": {
     "reader_doc": "docs/onboarding/chapter-folder-links.md",
     "default_mode": "study",
-    "cli": "ph-civ link <source_id>",
+    "cli": "predictive-history link <source_id>",
     "url_pattern": "https://github.com/rbtkhn/predictive-history/tree/main/lectures/<series>/<source_id>",
     "purpose": "direct YouTube comment and LLM-chat handoff for one chapter folder",
     "not_replacement_for": "first_tour"
@@ -115,8 +118,8 @@
     "json_path": "docs/predictive-history-index.json",
     "markdown_path": "docs/predictive-history-index.md",
     "purpose": "full_chapter_and_lecture_catalog",
-    "instruction": "When the reader needs to browse, search, or resolve any chapter by source_id, load docs/predictive-history-index.json (namespace-first catalog with by_series primary and legacy by_surface mirror). Use slice indexes for lectures, essays, or interviews. CLI name remains ph-civ index for compatibility.",
-    "cli": "ph-civ index",
+    "instruction": "When the reader needs to browse, search, or resolve any chapter by source_id, load docs/predictive-history-index.json (namespace-first catalog with by_series primary and legacy by_surface mirror). Use slice indexes for lectures, essays, or interviews. Use predictive-history index for the namespace catalog.",
+    "cli": "predictive-history index",
     "not_replacement_for": "first_tour"
   },
   "modes": [

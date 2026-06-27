@@ -126,7 +126,7 @@ def test_latest_game_theory_chapters_are_provisional_source_first(capsys):
     assert "YouTube comment:" in out
     assert "source_video: https://www.youtube.com/watch?v=8nsxuB3Vsts" in out
     assert "https://github.com/rbtkhn/predictive-history/tree/main/lectures/game-theory/gt-24" in out
-    assert "public LLM-native Predictive History reader" in out
+    assert "Predictive History, a public LLM-native reader" in out
 
 
 def test_link_essay_emits_transcript_url(capsys):
@@ -190,7 +190,7 @@ def test_index_command_writes_fingerprinted_index():
     payload = json.loads(json_path.read_text(encoding="utf-8"))
     assert payload["card_count"] == 206
     assert len(payload["chapters"]) == 206
-    assert payload["schema_version"] == 4
+    assert payload["schema_version"] == 5
     assert payload["primary_artifact"] == "namespace_catalog"
     assert payload["transcript_word_total"] > 1_000_000
     assert validate_ph_civ_index() == []
@@ -292,13 +292,13 @@ def test_llm_native_bootloader_contract(capsys):
     assert experience["bilingual_bridge"]["bridge_id"] == "trilingual_civilizational_bridge"
     assert experience["bilingual_bridge"]["language_scope"] == "trilingual"
     assert experience["bilingual_bridge"]["status"] == "ambition_metadata"
-    assert experience["bilingual_bridge"]["canonical_source"] == "ph-civ"
+    assert experience["bilingual_bridge"]["canonical_source"] == "predictive-history"
     assert experience["bilingual_bridge"]["primary_wedge"] == "homer_to_tolstoy_read_from_china"
     assert experience["bilingual_bridge"]["localization_roadmap"] == ["ph-civ-zh", "ph-civ-ru"]
     assert "downstream mirrors" in experience["bilingual_bridge"]["authority_model"]
     assert experience["chapter_folder_links"]["reader_doc"] == "docs/onboarding/chapter-folder-links.md"
     assert experience["chapter_folder_links"]["default_mode"] == "study"
-    assert experience["chapter_folder_links"]["cli"] == "ph-civ link <source_id>"
+    assert experience["chapter_folder_links"]["cli"] == "predictive-history link <source_id>"
     assert experience["chapter_catalog"]["json_path"] == "docs/predictive-history-index.json"
     assert experience["chapter_catalog"]["markdown_path"] == "docs/predictive-history-index.md"
     assert experience["chapter_catalog"]["not_replacement_for"] == "first_tour"
@@ -346,7 +346,7 @@ def test_llms_full_context_packet_exists():
     assert "namespace catalog hub" in text
     assert "Do not claim live geopolitical certainty" in text
     assert "Trilingual Civilizational Bridge" in text
-    assert "canonical English `ph-civ`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`" in text
+    assert "canonical English `predictive-history`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`" in text
     assert "Homer to Tolstoy, read from China." in text
     assert "Default mode: `first_tour`" in text
     assert "not a translation dump" in text
@@ -409,7 +409,7 @@ def test_ph_civ_index_surfaces_youtube_urls():
 def test_ph_civ_index_transcript_word_counts():
     payload = json.loads((ROOT / "docs" / "predictive-history-index.json").read_text(encoding="utf-8"))
     chapters = payload["chapters"]
-    assert payload["schema_version"] == 4
+    assert payload["schema_version"] == 5
     assert payload["primary_artifact"] == "namespace_catalog"
     assert len(chapters) == 206
     assert all("transcript_word_count" in chapter for chapter in chapters)
@@ -467,10 +467,10 @@ def test_bilingual_bridge_contract(capsys):
     assert bridge["language_scope"] == "trilingual"
     assert bridge["posture"] == "civilizational_bridge"
     assert bridge["status"] == "ambition_metadata"
-    assert bridge["canonical_source"] == "ph-civ"
+    assert bridge["canonical_source"] == "predictive-history"
     assert "English, Chinese, and Russian readerships" in bridge["identity"]
     assert bridge["canonical_language_surface"] == {
-        "surface": "ph-civ",
+        "surface": "predictive-history",
         "locale": "en",
         "role": "canonical_source",
     }
@@ -498,13 +498,13 @@ def test_bilingual_bridge_contract(capsys):
         "Chinese bootloader",
         "Chinese first-tour metadata",
     ]
-    assert bridge["future_zh_wedge"]["upstream_source"] == "ph-civ"
+    assert bridge["future_zh_wedge"]["upstream_source"] == "predictive-history"
     assert bridge["future_zh_wedge"]["dependency_role"] == "downstream_localization_mirror"
     assert "149 source chapters" in bridge["future_zh_wedge"]["defer"]
     assert bridge["future_zh_wedge"]["no_repo_scaffold_in_this_pass"] is True
     assert bridge["future_ru_wedge"]["future_surface"] == "ph-civ-ru"
     assert bridge["future_ru_wedge"]["status"] == "roadmap_candidate"
-    assert bridge["future_ru_wedge"]["upstream_source"] == "ph-civ"
+    assert bridge["future_ru_wedge"]["upstream_source"] == "predictive-history"
     assert bridge["future_ru_wedge"]["dependency_role"] == "downstream_localization_mirror"
     assert bridge["future_ru_wedge"]["first_steps"] == [
         "Russian glossary",
@@ -517,20 +517,20 @@ def test_bilingual_bridge_contract(capsys):
     assert "not live war analysis" in ru_guardrails
     assert "not a translation dump" in ru_guardrails
     assert "149 source chapters" in bridge["future_ru_wedge"]["defer"]
-    assert "ph-civ-ru commands" in bridge["future_ru_wedge"]["defer"]
+    assert "localization commands" in bridge["future_ru_wedge"]["defer"]
     assert bridge["future_ru_wedge"]["no_repo_scaffold_in_this_pass"] is True
     assert [item["future_surface"] for item in bridge["localization_roadmap"]] == [
         "ph-civ-zh",
         "ph-civ-ru",
     ]
-    assert {item["upstream_source"] for item in bridge["localization_roadmap"]} == {"ph-civ"}
+    assert {item["upstream_source"] for item in bridge["localization_roadmap"]} == {"predictive-history"}
     assert {item["dependency_role"] for item in bridge["localization_roadmap"]} == {
         "downstream_localization_mirror"
     }
 
     doc = (ROOT / "docs" / "localization" / "bilingual-civilizational-bridge.md").read_text(encoding="utf-8")
     assert "Trilingual Civilizational Bridge" in doc
-    assert "`ph-civ` / English / canonical public artifact" in doc
+    assert "`predictive-history` / English / canonical public artifact" in doc
     assert "Homer to Tolstoy, read from China." in doc
     assert "Volume I literary spine" in doc
     assert "paired mirrors" in doc
@@ -540,14 +540,14 @@ def test_bilingual_bridge_contract(capsys):
     assert "ph-civ-ru" in doc
     assert "Russian glossary" in doc
     assert "not live war analysis" in doc
-    assert "downstream of `ph-civ`" in doc
+    assert "downstream of `predictive-history`" in doc
     assert "not become sibling authorities" in doc
 
     start_here = (ROOT / "START-HERE.md").read_text(encoding="utf-8")
     assert "Default mode: first_tour" in start_here
     assert "trilingual identity/growth layer" in start_here
     assert "not a replacement for `first_tour`" in start_here
-    assert "downstream mirrors of canonical `ph-civ`" in start_here
+    assert "downstream mirrors of canonical `predictive-history`" in start_here
     assert "chapter-folder URL is a study doorway" in start_here
 
     assert main(["bilingual", "--json"]) == 0
@@ -556,7 +556,7 @@ def test_bilingual_bridge_contract(capsys):
     assert payload["loop_id"] == "english_chinese_civilizational_bridge"
     assert payload["language_scope"] == "trilingual"
     assert payload["posture"] == "civilizational_bridge"
-    assert payload["canonical_source"] == "ph-civ"
+    assert payload["canonical_source"] == "predictive-history"
     assert payload["downstream_mirrors"] == ["ph-civ-zh", "ph-civ-ru"]
     assert payload["future_zh_wedge"]["first_steps"][0] == "canonical glossary"
     assert payload["future_ru_wedge"]["future_surface"] == "ph-civ-ru"
@@ -573,7 +573,7 @@ def test_bilingual_bridge_contract(capsys):
     assert "legacy_loop_id: english_chinese_civilizational_bridge" in out
     assert "language_scope: trilingual" in out
     assert "primary_wedge: homer_to_tolstoy_read_from_china" in out
-    assert "canonical_source: ph-civ" in out
+    assert "canonical_source: predictive-history" in out
     assert "downstream_mirrors: ph-civ-zh, ph-civ-ru" in out
     assert "English hook:" in out
     assert "Chinese hook:" in out
@@ -717,7 +717,7 @@ def test_growth_command_returns_agent_goal_policy(capsys):
 
 
 def test_surface_scoped_commands(capsys):
-    from civ_ph.cli import apo_main
+    from civ_ph.cli import deprecated_ph_apo_main as apo_main
 
     assert main(["list"]) == 0
     assert "civ-07" in capsys.readouterr().out
@@ -730,7 +730,7 @@ def test_surface_scoped_commands(capsys):
 
 
 def test_public_routes(capsys):
-    from civ_ph.cli import apo_main
+    from civ_ph.cli import deprecated_ph_apo_main as apo_main
 
     assert main(["route", "civ-07", "--json"]) == 0
     payload = json.loads(capsys.readouterr().out)

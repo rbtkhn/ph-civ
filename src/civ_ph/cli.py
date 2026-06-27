@@ -36,6 +36,7 @@ from .commentary_v2 import (
 )
 from .ph_civ_index import (
     INDEX_JSON_REL,
+    LECTURE_SERIES,
     ensure_all_indexes,
     ensure_ph_civ_index,
     validate_all_indexes,
@@ -57,8 +58,16 @@ EXPECTED_SOURCE_REPO = "rbtkhn/ph-workshop"
 GITHUB_TREE_BASE = "https://github.com/rbtkhn/predictive-history/tree/main"
 GITHUB_BLOB_BASE = "https://github.com/rbtkhn/predictive-history/blob/main"
 
+CANONICAL_PUBLIC_ID = "predictive-history"
+
+NAMESPACE_SERIES = {
+    "lectures": set(LECTURE_SERIES),
+    "essays": {"essays"},
+    "interviews": {"interviews"},
+}
+
 PROMPT_MODES = {
-    "study": "Create a study plan that helps me understand this ph-civ orientation card without treating it as a substitute for the source lecture.",
+    "study": "Create a study plan that helps me understand this Predictive History orientation card without treating it as a substitute for the source lecture.",
     "seminar": "Write seminar questions that test the card's framing, pressure points, and limits.",
     "creative": "Generate creative project prompts inspired by this card, preserving the card's limits and avoiding unsupported claims.",
     "counter-reading": "Develop counter-readings and skeptical questions that keep the card grounded in its stated limits.",
@@ -143,6 +152,22 @@ PUBLIC_BOUNDARY_FORBIDDEN_MARKERS = [
 ]
 
 ALLOWED_ROUTE_TYPES = {"spine", "paired_close_reading", "application", "coda"}
+
+
+def warn_deprecated_two_volume_part(part: str) -> None:
+    print(
+        f"warning: --part {part} is deprecated; use --series, --namespace, or full catalog. "
+        "See docs/migrations/PH-SURFACE-RETIREMENT.md",
+        file=sys.stderr,
+    )
+
+
+def warn_deprecated_cli_shim(name: str) -> None:
+    print(
+        f"warning: {name} CLI is deprecated; use predictive-history. "
+        "See docs/migrations/PH-SURFACE-RETIREMENT.md",
+        file=sys.stderr,
+    )
 
 
 def card_surface(card: dict) -> str:
@@ -340,7 +365,7 @@ def chapter_folder_link_payload(card: dict) -> dict:
             f"{share_url}\n\n"
             "Paste the link into ChatGPT, Claude, or Grok and ask it to guide you through "
             f"the essay, commentary canvas, and card guardrails.{review_note} "
-            "It is part of ph-civ, a public LLM-native Predictive History reader."
+            "It is part of Predictive History, a public LLM-native reader."
         )
     else:
         suggested_llm_prompt = (
@@ -356,7 +381,7 @@ def chapter_folder_link_payload(card: dict) -> dict:
             f"{github_folder_url or '[folder not ready]'}\n\n"
             "Paste the folder link into ChatGPT, Claude, or Grok and ask it to guide you "
             f"through the chapter using the transcript, commentary canvas, and guardrails.{review_note} "
-            "It is part of ph-civ, a public LLM-native Predictive History reader."
+            "It is part of Predictive History, a public LLM-native reader."
         )
     return {
         "source_id": card["source_id"],
@@ -412,7 +437,12 @@ def cmd_list(args) -> int:
     if args.series:
         cards = [card for card in cards if card["series"] == args.series]
     if args.part:
+        warn_deprecated_two_volume_part(args.part)
         cards = [card for card in cards if card["part"] == args.part]
+    namespace = getattr(args, "namespace", None)
+    if namespace:
+        allowed = NAMESPACE_SERIES[namespace]
+        cards = [card for card in cards if card.get("series") in allowed]
     if args.spine:
         ids = {sid for node in load_spine()["sequence"] for sid in node["source_ids"]}
         cards = [card for card in cards if card["source_id"] in ids]
@@ -446,6 +476,9 @@ def cmd_search(args) -> int:
     for card in visible_cards(getattr(args, "surface_scope", None), getattr(args, "all", False)):
         haystack = "\n".join([card["source_id"], card["title"], json.dumps(card["sections"], ensure_ascii=False)]).casefold()
         if q in haystack and (not args.series or card["series"] == args.series):
+            namespace = getattr(args, "namespace", None)
+            if namespace and card.get("series") not in NAMESPACE_SERIES[namespace]:
+                continue
             matches.append({"source_id": card["source_id"], "title": card["title"], "series": card["series"], "part": card["part"]})
     if args.json:
         return emit_json(matches)
@@ -849,8 +882,8 @@ def cmd_validate(args) -> int:
         errors.append("llm-experience chapter_folder_links must point to docs/onboarding/chapter-folder-links.md")
     if chapter_folder_links.get("default_mode") != "study":
         errors.append("llm-experience chapter_folder_links must default to study")
-    if "ph-civ link" not in chapter_folder_links.get("cli", ""):
-        errors.append("llm-experience chapter_folder_links must expose ph-civ link")
+    if "predictive-history link" not in chapter_folder_links.get("cli", ""):
+        errors.append("llm-experience chapter_folder_links must expose predictive-history link")
     chapter_catalog = llm_experience.get("chapter_catalog", {})
     if chapter_catalog.get("json_path") != "docs/predictive-history-index.json":
         errors.append("llm-experience chapter_catalog must point to docs/predictive-history-index.json")
@@ -858,8 +891,8 @@ def cmd_validate(args) -> int:
         errors.append("llm-experience chapter_catalog must point to docs/predictive-history-index.md")
     if chapter_catalog.get("not_replacement_for") != "first_tour":
         errors.append("llm-experience chapter_catalog must not replace first_tour")
-    if "ph-civ index" not in chapter_catalog.get("cli", ""):
-        errors.append("llm-experience chapter_catalog must expose ph-civ index")
+    if "predictive-history index" not in chapter_catalog.get("cli", ""):
+        errors.append("llm-experience chapter_catalog must expose predictive-history index")
     catalog_json = DATA_ROOT.parent / "docs" / "predictive-history-index.json"
     if not catalog_json.exists():
         errors.append("docs/predictive-history-index.json must exist as the chapter catalog")
@@ -940,11 +973,11 @@ def cmd_validate(args) -> int:
         errors.append("bilingual-loop.json invalid posture")
     if bilingual.get("status") != "ambition_metadata":
         errors.append("bilingual-loop.json invalid status")
-    if bilingual.get("canonical_source") != "ph-civ":
-        errors.append("bilingual-loop.json must name ph-civ as canonical_source")
+    if bilingual.get("canonical_source") != CANONICAL_PUBLIC_ID:
+        errors.append("bilingual-loop.json must name predictive-history as canonical_source")
     canonical_surface = bilingual.get("canonical_language_surface", {})
-    if canonical_surface.get("surface") != "ph-civ" or canonical_surface.get("locale") != "en":
-        errors.append("bilingual-loop.json must name English ph-civ as the canonical language surface")
+    if canonical_surface.get("surface") != CANONICAL_PUBLIC_ID or canonical_surface.get("locale") != "en":
+        errors.append("bilingual-loop.json must name English predictive-history as the canonical language surface")
     if bilingual.get("downstream_mirrors") != ["ph-civ-zh", "ph-civ-ru"]:
         errors.append("bilingual-loop.json downstream_mirrors must list ph-civ-zh then ph-civ-ru")
     downstream_language_surfaces = bilingual.get("downstream_language_surfaces", [])
@@ -955,8 +988,8 @@ def cmd_validate(args) -> int:
     ]:
         errors.append("bilingual-loop.json downstream_language_surfaces must define zh and ru downstream mirrors")
     authority_model = bilingual.get("authority_model", "")
-    if "downstream localization mirrors" not in authority_model or "source of truth" not in authority_model:
-        errors.append("bilingual-loop.json must state localization mirrors are downstream of ph-civ")
+    if "downstream localization mirrors" not in authority_model or CANONICAL_PUBLIC_ID not in authority_model:
+        errors.append("bilingual-loop.json must state localization mirrors are downstream of predictive-history")
     if bilingual.get("primary_wedge") != "homer_to_tolstoy_read_from_china":
         errors.append("bilingual-loop.json invalid primary_wedge")
     bilingual_guardrails = "\n".join(bilingual.get("guardrails", []))
@@ -964,8 +997,8 @@ def cmd_validate(args) -> int:
         if marker not in bilingual_guardrails:
             errors.append(f"bilingual-loop.json missing guardrail: {marker}")
     future_zh = bilingual.get("future_zh_wedge", {})
-    if future_zh.get("upstream_source") != "ph-civ":
-        errors.append("bilingual-loop.json future_zh_wedge must be downstream of ph-civ")
+    if future_zh.get("upstream_source") != CANONICAL_PUBLIC_ID:
+        errors.append("bilingual-loop.json future_zh_wedge must be downstream of predictive-history")
     if future_zh.get("dependency_role") != "downstream_localization_mirror":
         errors.append("bilingual-loop.json future_zh_wedge must use downstream mirror dependency role")
     future_steps = future_zh.get("first_steps", [])
@@ -974,8 +1007,8 @@ def cmd_validate(args) -> int:
     if "149 source chapters" not in future_zh.get("defer", ""):
         errors.append("bilingual-loop.json future_zh_wedge must defer transcript translation")
     future_ru = bilingual.get("future_ru_wedge", {})
-    if future_ru.get("upstream_source") != "ph-civ":
-        errors.append("bilingual-loop.json future_ru_wedge must be downstream of ph-civ")
+    if future_ru.get("upstream_source") != CANONICAL_PUBLIC_ID:
+        errors.append("bilingual-loop.json future_ru_wedge must be downstream of predictive-history")
     if future_ru.get("dependency_role") != "downstream_localization_mirror":
         errors.append("bilingual-loop.json future_ru_wedge must use downstream mirror dependency role")
     if future_ru.get("future_surface") != "ph-civ-ru":
@@ -988,15 +1021,15 @@ def cmd_validate(args) -> int:
     for marker in ["not Russian-state apologetics", "not anti-Ukrainian", "not live war analysis", "not a translation dump"]:
         if marker not in ru_guardrails:
             errors.append(f"bilingual-loop.json future_ru_wedge missing guardrail: {marker}")
-    if "149 source chapters" not in future_ru.get("defer", "") or "ph-civ-ru commands" not in future_ru.get("defer", ""):
+    if "149 source chapters" not in future_ru.get("defer", "") or "localization commands" not in future_ru.get("defer", ""):
         errors.append("bilingual-loop.json future_ru_wedge must defer transcript translation and commands")
     roadmap = bilingual.get("localization_roadmap", [])
     roadmap_surfaces = [item.get("future_surface") for item in roadmap]
     if roadmap_surfaces != ["ph-civ-zh", "ph-civ-ru"]:
         errors.append("bilingual-loop.json localization_roadmap must list ph-civ-zh then ph-civ-ru")
     for item in roadmap:
-        if item.get("upstream_source") != "ph-civ" or item.get("dependency_role") != "downstream_localization_mirror":
-            errors.append("bilingual-loop.json localization_roadmap entries must be downstream of ph-civ")
+        if item.get("upstream_source") != CANONICAL_PUBLIC_ID or item.get("dependency_role") != "downstream_localization_mirror":
+            errors.append("bilingual-loop.json localization_roadmap entries must be downstream of predictive-history")
     llm_bilingual = llm_experience.get("bilingual_bridge", {})
     if llm_bilingual.get("path") != "data/bilingual-loop.json":
         errors.append("llm-experience bilingual_bridge must point to data/bilingual-loop.json")
@@ -1008,8 +1041,8 @@ def cmd_validate(args) -> int:
         errors.append("llm-experience bilingual_bridge must expose trilingual scope")
     if llm_bilingual.get("localization_roadmap") != ["ph-civ-zh", "ph-civ-ru"]:
         errors.append("llm-experience bilingual_bridge must expose ph-civ-zh and ph-civ-ru roadmap")
-    if llm_bilingual.get("canonical_source") != "ph-civ":
-        errors.append("llm-experience bilingual_bridge must keep ph-civ as canonical source")
+    if llm_bilingual.get("canonical_source") != CANONICAL_PUBLIC_ID:
+        errors.append("llm-experience bilingual_bridge must keep predictive-history as canonical source")
     if "downstream mirrors" not in llm_bilingual.get("authority_model", ""):
         errors.append("llm-experience bilingual_bridge must state localization mirrors are downstream")
     bilingual_doc = DATA_ROOT.parent / "docs" / "localization" / "bilingual-civilizational-bridge.md"
@@ -1020,7 +1053,7 @@ def cmd_validate(args) -> int:
         for marker in [
             "Homer to Tolstoy, read from China.",
             "Trilingual Civilizational Bridge",
-            "`ph-civ` / English / canonical public artifact",
+            "`predictive-history` / English / canonical public artifact",
             "paired mirrors",
             "not propaganda",
             "not a translation dump",
@@ -1029,7 +1062,7 @@ def cmd_validate(args) -> int:
             "ph-civ-ru",
             "Russian glossary",
             "not live war analysis",
-            "downstream of `ph-civ`",
+            "downstream of `predictive-history`",
             "not become sibling authorities",
         ]:
             if marker not in bilingual_doc_text:
@@ -1566,12 +1599,20 @@ def cmd_tour(args) -> int:
 
 
 def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(prog="ph-civ", description="Provider-neutral Predictive History study cards and prompts.")
+    parser = argparse.ArgumentParser(
+        prog="predictive-history",
+        description="Provider-neutral Predictive History study cards and prompts.",
+    )
     sub = parser.add_subparsers(dest="command", required=True)
 
     p = sub.add_parser("list", help="List cards.")
     p.add_argument("--series", choices=["civilization", "great-books", "geo-strategy", "game-theory", "secret-history"])
-    p.add_argument("--part", choices=["civilization", "world-war", "provenance"])
+    p.add_argument("--part", choices=["civilization", "world-war", "provenance"], help="Deprecated two-volume filter.")
+    p.add_argument(
+        "--namespace",
+        choices=sorted(NAMESPACE_SERIES),
+        help="Filter by corpus namespace (lectures, essays, interviews).",
+    )
     p.add_argument("--spine", action="store_true", help="Limit to Homer-to-Tolstoy spine cards.")
     p.add_argument("--all", action="store_true", help="Include cards outside the current public surface.")
     p.add_argument("--json", action="store_true")
@@ -1585,6 +1626,11 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("search", help="Search cards.")
     p.add_argument("query")
     p.add_argument("--series", choices=["civilization", "great-books", "geo-strategy", "game-theory", "secret-history"])
+    p.add_argument(
+        "--namespace",
+        choices=sorted(NAMESPACE_SERIES),
+        help="Filter by corpus namespace (lectures, essays, interviews).",
+    )
     p.add_argument("--all", action="store_true", help="Include cards outside the current public surface.")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_search)
@@ -1716,11 +1762,19 @@ def build_parser() -> argparse.ArgumentParser:
 
 def main(argv: list[str] | None = None) -> int:
     args = build_parser().parse_args(argv)
+    args.surface_scope = None
+    return args.func(args)
+
+
+def deprecated_ph_civ_main(argv: list[str] | None = None) -> int:
+    warn_deprecated_cli_shim("ph-civ")
+    args = build_parser().parse_args(argv)
     args.surface_scope = "ph-civ"
     return args.func(args)
 
 
-def apo_main(argv: list[str] | None = None) -> int:
+def deprecated_ph_apo_main(argv: list[str] | None = None) -> int:
+    warn_deprecated_cli_shim("ph-apo")
     args = build_parser().parse_args(argv or ["list"])
     args.surface_scope = "ph-apo"
     return args.func(args)

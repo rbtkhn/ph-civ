@@ -2,13 +2,13 @@
 
 This is trilingual ambition metadata for future localization work. It is not a Chinese edition, not a Russian edition, and not a translation launch.
 
-`ph-civ` can become an LLM-native civilizational bridge: English, Chinese, and Russian readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through the same source-bounded public route system.
+`predictive-history` can become an LLM-native civilizational bridge: English, Chinese, and Russian readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through the same source-bounded public route system.
 
-`ph-civ` remains the upstream public artifact and source of truth. `ph-civ-zh` and `ph-civ-ru` would always be downstream localization mirrors of `ph-civ`: they inherit route IDs, guardrails, cards, transcripts, commentaries, and launch-readiness status from the canonical public repo.
+`predictive-history` remains the upstream public artifact and source of truth. `ph-civ-zh` and `ph-civ-ru` would always be downstream localization mirrors of `predictive-history`: they inherit route IDs, guardrails, cards, transcripts, commentaries, and launch-readiness status from the canonical public repo.
 
 The trilingual shape is:
 
-- `ph-civ` / English / canonical public artifact;
+- `predictive-history` / English / canonical public artifact;
 - `ph-civ-zh` / Chinese / downstream localization mirror;
 - `ph-civ-ru` / Russian / downstream localization mirror.
 
@@ -42,7 +42,7 @@ It should not begin by translating all 145 source chapters.
 
 ## Localization Roadmap
 
-Both future localization surfaces are downstream of `ph-civ`. They should not become sibling authorities, independent source repos, or alternate editorial canons.
+Both future localization surfaces are downstream of `predictive-history`. They should not become sibling authorities, independent source repos, or alternate editorial canons.
 
 `ph-civ-zh` remains the first future localization wedge because the English-Chinese loop is the clearest civilizational bridge: a Chinese civilizational-history lens can help Western readers recover the stakes of their own canon while Chinese readers study the Western canon without imitation or rejection.
 

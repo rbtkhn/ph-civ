@@ -85,7 +85,7 @@ Choose one: continue the first tour; study civ-07; study civ-07 through its chap
 - A chapter-folder URL is a study doorway, not a replacement for `first_tour`; follow the folder README and keep review status visible.
 - The trilingual bridge ambition is not propaganda, not anti-Western, not civilizational flattery, and not a translation dump.
 - `ph-civ-ru` is roadmap metadata only, not a Russian edition, not live war analysis, and not a translation dump.
-- `ph-civ-zh` and `ph-civ-ru` are downstream mirrors of canonical `ph-civ`, not sibling sources of truth.
+- `ph-civ-zh` and `ph-civ-ru` are downstream mirrors of canonical `predictive-history`, not sibling sources of truth.
 
 ## Useful Starting Files
 

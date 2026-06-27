@@ -11,7 +11,7 @@ review_status: in_review
 
 ## Where This Sits
 
-`essay-2025-10-03-why-i-refuse-to-get-rich` sits on the ph-civ essays surface (`part: civilization`). It preserves the Substack essay as a public study packet with bounded commentary.
+`essay-2025-10-03-why-i-refuse-to-get-rich` sits in the public essays namespace (`part: civilization`, legacy two-volume metadata). It preserves the Substack essay as a public study packet with bounded commentary.
 
 ## Reading Posture
 

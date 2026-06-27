@@ -11,7 +11,7 @@ review_status: in_review
 
 ## Where This Sits
 
-`essay-2026-04-18-the-us-iran-war-round-two` continues the first public `ph-civ` essay arc at the point where ceasefire, blockade, and mobilization are read as setup for a harsher second phase of war.
+`essay-2026-04-18-the-us-iran-war-round-two` continues the first public essays arc at the point where ceasefire, blockade, and mobilization are read as setup for a harsher second phase of war.
 
 ## Reading Posture
 
