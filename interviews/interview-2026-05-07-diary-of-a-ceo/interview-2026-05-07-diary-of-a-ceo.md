@@ -52,9 +52,11 @@ Professor Jiang.
 
 ### Interview Open — Predictions and Petrodollar
 
-There's so much going on in the world at the moment that it's quite confusing for an ordinary person like me, and you've blown up across the internet because you've been able to demystify all of this craziness, but also because in 2024, you made three predictions that have come perfectly true.
+**Steven Bartlett:** There's so much going on in the world at the moment that it's quite confusing for an ordinary person like me, and you've blown up across the internet because you've been able to demystify all of this craziness, but also because in 2024, you made three predictions that have come perfectly true.
 Some might say unfortunately.
-Unfortunately, yes. What were those three predictions? My first prediction was that Trump would win in November 2024.
+Unfortunately, yes. What were those three predictions?
+
+**Jiang Xueqin:** My first prediction was that Trump would win in November 2024.
 Second prediction is that he would start a war against Iran.
 And the third prediction is that the United States would lose this war, and in losing this war, this would radically reshape the geopolitical landscape. How did you know that Trump would start a war with Iran? The simple answer is this. The United States have to invaded Iran because it has no choice in the matter. If it were not to invade Iran, it would lose its empire. Its empire is based purely on US dollar, the petrodollar, which is a Ponzi scheme.
 If it did not invade Iran, then people would choose not to trade with it anymore. People would choose to not buy US Treasuries. Why? For the longest time, this system worked fine.
@@ -101,7 +103,6 @@ And he didn't realize that Iran is fundamentally different from Venezuela.
 The short answer is he is a reality TV star. He thinks in terms of optics. He doesn't think in terms of like geopolitical strategy. The long answer is that the American military has become a very corrupt and insular institution that is trying to generate as much commercial funding as possible in order to fund the military-industrial complex.
 Did he think that he was going to bomb Iran, the people would rise up, they would elect a new government, and that would be that, and then he could control Iran?
 That's exactly what he thought.
-
 ### Iran Topography, Attrition, and Hormuz
 
 **Jiang Xueqin:** So, what I want to do now is go to the map.
@@ -386,7 +387,9 @@ This war, once it starts, can only lead to World War III.
 
 ### Chess Grand Strategies and WWIII Players
 
-Explain to me how that happens. Okay. So, we need to step back and appreciate um that there's a global dynamic going on.
+**Steven Bartlett:** Explain to me how that happens.
+
+**Jiang Xueqin:** Okay. So, we need to step back and appreciate um that there's a global dynamic going on.
 Mhm. Okay?
 And we need to appreciate the grand strategy of the different players involved. Mhm. Right? So, what I what I'm going to do is this.
 I'm going to explain to you how each nation sees itself in the world. Mhm. Okay? And to you and to that, I'm going to use a chess set, okay? Okay. All right. This is the king.
@@ -414,7 +417,7 @@ And an autocracy is good because it allows for coordination. It allows for decis
 What's bad is if this guy dies, there's a succession crisis.
 Right? So, basically, once you topple the autocrat, then the system itself breaks down. Okay, so that's the Russian system, right?
 For the Russians, the grand strategy is something called the Third Rome strategy. The Third Rome strategy?
-**Steven Bartlett:** Yes. Okay. So, the people in Russia believe that they are the true successors to the Roman Empire. And previously, there were two Romes. There was the First Rome, then it moved to Constantinople, and Moscow is destined to the to be the Third Rome. And what makes Moscow interesting is that it wants to unite the entire Christian world under its leadership. Um the main philosopher for the Third Rome strategy is Alexander Dugin, who in 1997 wrote a wrote a book called Foundation of Geopolitics. And what he said was this. What he said that if Russia is to defeat the Americans, it needs to build alliances throughout Eurasia in order to negate American sea power and air supremacy.
+**Jiang Xueqin:** Yes. Okay. So, the people in Russia believe that they are the true successors to the Roman Empire. And previously, there were two Romes. There was the First Rome, then it moved to Constantinople, and Moscow is destined to the to be the Third Rome. And what makes Moscow interesting is that it wants to unite the entire Christian world under its leadership. Um the main philosopher for the Third Rome strategy is Alexander Dugin, who in 1997 wrote a wrote a book called Foundation of Geopolitics. And what he said was this. What he said that if Russia is to defeat the Americans, it needs to build alliances throughout Eurasia in order to negate American sea power and air supremacy.
 All right?
 So, what are the attack vectors for Russia? Okay.
 The first attack vector, the size of the country makes it almost invincible. So, think about the World War II, Operation Barbarossa, the Germans went into Russia with 6 7 million men, and it didn't get very far, okay? So, the terrain is very important. The geography is very important.
@@ -456,10 +459,9 @@ Hezbollah, Hamas, the Houthis.
 Another attack vector um is their asymmetrical warfare, meaning using drones and missiles to create as much economic damage as possible. Mhm. Okay. And the third attack vector is their geography or the topog- topography. They are a fortress, so it's almost impossible to um in- invade them.
 All right? So, that's their Shia militiamen. These religious zealots who are not afraid to die. Um essentially, they're all Many of them could be suicide bombers, okay? And and so, for them, this is a religious war. Okay. So, now we're seeing how this entire battlefield unfolds across the world.
 All right? So, I've mapped out the grand strategy of these different nation-states who will be involved in World War III.
-
 ### Global Chokepoints — Russia Shadow Fleet
 
-Let's look at our present situation, okay? So, what we have so far is that the Russians are occupied with their army in Ukraine.
+**Jiang Xueqin:** Let's look at our present situation, okay? So, what we have so far is that the Russians are occupied with their army in Ukraine.
 Okay? This is where their infantry, their artillery is based.
 At the same time, Russia has something called the shadow fleet.
 And these are about a thousand um tankers that evade sanctions around the world. Okay? And this is essentially their navy.
@@ -510,7 +512,7 @@ So I personally believe that this will be a drawn-out process that and there's n
 So the next step will be the Russians come into this war on the side of the Iranians. You think that's going to happen? I think that's going to happen because according to Russian grand strategy, you have no choice but to save the Iranians.
 Because you're trying to promote this view that the world is split between the spiritual and the material. The Americans are the Antichrist. The Americans support individual hedonism, whereas we Russians, we believe in humanity. We believe in goodness. We believe in community. Right? So, if you believe if you that is your argument, if that's your grand strategy, you have a more obligation, a more imperative to help the Iranians in their time of need.
 And in fact, Prime Prime Minister Araghchi of Iran has recently visited Putin in Moscow. Putin Putin personally received him and said to Araghchi, "We, the Russian people, admire your determination, your resolve um against the Americans." And I think that is a sign that Putin has entered the chat and that the Russians will start to help the Iranians as this war progresses. So, let's go back to this map, okay?
-**Steven Bartlett:** Okay. And the Americans have a three-pronged strategy to strangle um Iran.
+**Jiang Xueqin:** Okay. And the Americans have a three-pronged strategy to strangle Iran.
 The first is to use ground forces to establish forward operating bases to incite ethnic violence in the country.
 The second is to block all the shipping moves and cut off Iranian financing. The third is to strangle Iran and cause the people to rise up like against the government, okay?
 And the Russians So, if things stay the stay as they are now, America wins. Easily.
@@ -534,13 +536,15 @@ It puts all of our inventory, payments, and analytics in one place, and has so m
 That's shopify.com/bartlet, and don't tell anybody.
 I run multiple companies that have multiple sales teams. And one of the things as a founder of a company that's often confusing is you find it hard to figure out where sales are. So, about 10 years ago, I started using Pipedrive in my former company, and it's also the reason why I switched over all of my commercial teams in my current media company called steven.com to use Pipedrive as well. Not only do they sponsor this show, but they've been an incredibly effective way of scaling our sales engine over the years. Pipedrive is an easy-to-use intelligent CRM, and at its very core, it makes your sales process visible through one dashboard, a visual pipeline showing every deal, what stage it's in, what needs to happen next, and it's all in real time with no delay. It doesn't magically close the deal for you, of course, but it does replace complexity with clarity. If you want to join over 100,000 companies already using Pipedrive, you can use my link for a 30-day free trial with no credit card payment needed. Head to pipedrive.com/ceo to get started. That's pipedrive.com/ceo.
 I'll see you over there.
-
 ### Timeline — Trump Term Limits and Forever War
 
-So, when do you think this was going to happen? If you get it where to give me a timeline of events you think are going to occur.
-What timeline do you think you're operating under? I guess one of the factors here is that Trump only has what, 3 years left in power.
-So, you know, he's presumably going to leave power at some point soon. So, if you were around, you might just want to play it out and hope that there's a different leadership in place by by 20, what, be 2030?
-The political leadership in Iran believe that they can wait Trump out. So, they're waiting for the midterms, because they believe that in November, the Democrats will win in the midterms, and then they'll impeach Trump.
+**Steven Bartlett:** So, when do you think this was going to happen? If you get it where to give me a timeline of events you think are going to occur.
+
+**Steven Bartlett:** What timeline do you think you're operating under? I guess one of the factors here is that Trump only has what, 3 years left in power.
+
+**Steven Bartlett:** So, you know, he's presumably going to leave power at some point soon. So, if you were around, you might just want to play it out and hope that there's a different leadership in place by by 20, what, be 2030?
+
+**Jiang Xueqin:** The political leadership in Iran believe that they can wait Trump out. So, they're waiting for the midterms, because they believe that in November, the Democrats will win in the midterms, and then they'll impeach Trump.
 And basically constrain his capacity to fight wars.
 And worst case scenario Trump will be gone in 2020 as you point out.
 There's some problems with this. The first major problem is the national defense strategy which we looked at previously.
@@ -549,10 +553,9 @@ And so one possibility is that Trump is just creating enough chaos for America t
 And then when Biden came into power he then institutionalized the strategy uh via V China. Right? So it was Trump who launched these this terror war against China. And then Biden comes in power, he institutionalizes it.
 Right? So I think World War III, it's a much more long-term uh war of attrition. And I don't think that this war um will end anytime soon.
 You've made a series of new predictions.
-
 ### Eight Predictions — Trump Third Term and AI State
 
-You've made eight new predictions.
+**Steven Bartlett:** You've made eight new predictions.
 **Steven Bartlett:** Okay.
 And I have them in this box here. Okay.
 I'll let you review what those predictions are. Okay.
@@ -600,7 +603,9 @@ I find it really um really implausible to think that Trump would run and would r
 So, again, this is a prediction.
 **Steven Bartlett:** Yeah. And it is a test of the validity of my theoretical framework.
 I was looking at some of the constitutions and the laws, and it says that the 22nd Amendment explicitly states, "No person shall be elected to the office of the president more than twice." Some theorists have tried to argue that since the amendment says elected, a person might be able to serve a third time if they were appointed to succeed to the role.
-He's not >> If they were appointed or succeeded to the role, e.g., by being vice president first.
+**Steven Bartlett:** If they were appointed or succeeded to the role, e.g., by being vice president first.
+
+**Jiang Xueqin:** He's not.
 Legal scholars and the judicial community almost universally reject this. The 12th Amendment requires that anyone serving as vice president must be eligible to be president. Since a two-term president is ineligible to be elected again, they're legally barred from being vice president. So, the point is there's nothing explicit in the constitution that bars someone from having a third term. Mhm. And there's debate in the legal community about the spirit of the 22nd Amendment. It would go to the Supreme Court, right?
 **Steven Bartlett:** And the Supreme Court's controlled right now by the conservatives. Trump appointed three of the nine justices, and there's a possibility he gets a fourth later in the year.
 So, it's entirely up to the Supreme Court whether or not he can run. And again, there's nothing explicit in the constitution that forbids him from running as vice president. Okay.
@@ -678,10 +683,9 @@ Huh.
 What's your next prediction?
 Israel will achieve the greater Israel project. So, you think Israel are going to conquer the Middle East?
 Israel has essentially already conquered the Middle East. The only force in their way right now is America.
-
 ### Israel — Greater Israel, NATO, and Odessa
 
-So, once America leaves the Middle East, which I expect to happen, then Israel will absorb CENTCOM, which is the um Central Command, the American military bases in the Middle East, and they will achieve the greater Israel project.
+**Jiang Xueqin:** So, once America leaves the Middle East, which I expect to happen, then Israel will absorb CENTCOM, which is the um Central Command, the American military bases in the Middle East, and they will achieve the greater Israel project.
 There's no other power in in Middle East that can withstand the might and power of Israel.
 And do you have a timeline for this?
 The moment America quits this war against Iran, the moment that America leaves the Middle East, Israel will achieve the greater Israel project. And what's really interesting right now is that Israel's trying to drag this war out for as long as possible because they see this war as a way to destroy all its major enemies in the um Middle East. You know, they It's really It's already said this.
@@ -712,12 +716,13 @@ Okay. And Russia's using the Black Sea here to export. Exactly. Okay.
 What is your next prediction? This is the last one.
 Please be good.
 Okay. I was hoping for an optimistic one.
-
 ### East Asia Flashpoints — North Korea
 
-But East Asia breaks out into conflict.
-Okay, what do you mean by that? Okay.
-So, we've talked a lot about the Middle East and we've talked briefly about Europe, okay? So, now let's go into East Asia.
+**Steven Bartlett:** But East Asia breaks out into conflict.
+
+**Steven Bartlett:** Okay, what do you mean by that?
+
+**Jiang Xueqin:** Okay. So, we've talked a lot about the Middle East and we've talked briefly about Europe, okay? So, now let's go into East Asia.
 And I think there are three major sources of friction and conflict in East Asia and these could be potentially major flash points.
 The first flash point is of course over Taiwan.
 Cuz China believes that Taiwan is part of its territory and so it wants to take over uh Taiwan. The problem with this is The problem with this is that the recently Prime Minister Sanae Takaichi of Japan has said that Taiwan is core to Japanese strategic interests. What she means by this is that Japan has no resources. It's a manufacturing power that depends on resources from overseas.
@@ -726,7 +731,7 @@ And that's a policy that Japan cannot permit. So Japan would fight to ensure tha
 Would they actually? Because China is so strong, right? Can they just knock Japan straight out? Japan has no choice but to fight because again if China and Taiwan were to unify peacefully Japan would be cut off from the entirety of Southeast Asia. And Japan relies on Southeast Asia historically for resources.
 Why would it be cut off from Southeast Asia? Can't it just go go down here to through the Philippines?
 There's a lot of resources around the South China Sea. Okay. Right. Oil, minerals, all of that. Yeah.
-**Steven Bartlett:** Um so if China and Taiwan were to uh unify basically uh Japan would feel a bit threatened.
+**Steven Bartlett:** Um, so if China and Taiwan were to unify, Japan would feel a bit threatened.
 And your prediction is that there will be some kind of conflict in this region.
 Yeah, so so that's the first flashpoint, okay? Taiwan. There's another flashpoint, which is Strait of Malacca, right? Because again, America wants to control the Strait of Malacca, but China recognizes that the Strait of Malacca is key to its economic survival. And so there's a lot conflict over the Strait of Malacca, okay? That's flashpoint number two.
 The third flashpoint, which I think would be the most surprising but actually will be the most uh pressing is North Korea.
@@ -756,10 +761,9 @@ South Koreans are rich.
 They are used to democracy. They use individual rights.
 So, if I threaten to blow your city up, you're telling me you won't bribe me not to do so?
 Isn't Isn't the fastest, quickest way is to bribe me not to cause trouble for you? Okay, so you think they're going to bribe them? Extortion. This is extortion. I don't need to destroy South Korea. All I need to do is is basically threaten the South Koreans, and they'll just like bribe me not to do anything.
-
 ### Community, Hope, and Bronze Age Collapse
 
-So, what does all of this stuff mean for the average person?
+**Steven Bartlett:** So, what does all of this stuff mean for the average person?
 You know, people listening right now, they're just normal people. A lot of them. Not all of them, but a lot of them are just normal people getting on with their lives and they care about their families, their their jobs, their futures. What does What what message have you got for them?
 In this new world, we will need leaders.
 We will need average people who are able to bring hope to the to people around them.
@@ -772,7 +776,7 @@ But, don't fear because if we come together as a community, if we go and knock o
 And one of us will help everyone else figure out how to find water or how to build a better society. And we know this because historically this has always been true. When empires collapse, infrastructure collapses. Which empire do you think is collapsing? The United States empire?
 Uh the United States empire is collapsing, yes.
 And who is taking its place? No one can take the place of American empire. So, we live in a unipolar moment. And the closest historical analogy to today is something called the Bronze Age collapse. The Bronze Bronze Age.
-**Steven Bartlett:** The Bronze Age collapse. This happened um about over 3,000 years ago.
+**Jiang Xueqin:** The Bronze Age collapse. This happened about over 3,000 years ago.
 And what happened during the Bronze Age collapse is that you have these established kingdoms throughout the Middle East and Europe.
 You have Mycenaean uh Greece. You had the Hittite uh Empire in Anatolia, which is present-day Turkey. You had uh the Mesopotamian Empire and the Egyptians.
 Um and one by one they collapsed. The reason why was that a perfect storm of calamities came at the same time. There were earthquakes.
@@ -797,11 +801,11 @@ And but the moment we're presented with crisis, the moment that we find our fami
 Make sure you keep what I'm about to say to yourself. I'm inviting 10,000 of you to come even deeper into the Diary of a CEO. Welcome to my inner circle. This is a brand new private community that I'm launching to the world. We have so many incredible things that happen that you are never shown. We have the briefs that are on my iPad when I'm recording the conversation. We have clips we've never released. We have behind the scenes conversations with the guest and also the episodes that we've never ever released and so much more. In the circle, you'll have direct access to me.
 You can tell us what you want this show to be, who you want us to interview, and the types of conversations you would love us to have. But, remember, for now, we're only inviting the first 10,000 people that join before it closes. So, if you want to join our private closed community, head to the link in the description below or go to doacircle.com.
 I will speak to you then.
-
 ### Plato Cave — Reality and Financial Elite
 
-Professor, what's the most important thing we haven't talked about that we should have talked about?
-So, let's talk about the nature of reality.
+**Steven Bartlett:** Professor, what's the most important thing we haven't talked about that we should have talked about?
+
+**Jiang Xueqin:** So, let's talk about the nature of reality.
 To explain the nature of reality, um I'm going to explain Plato's allegory of the cave, which he talked about in his book, The Republic.
 Right, exactly. This book. Yes, The Republic, okay? One of the masterpieces of Greek civilization as well as Western civilization. All right. So, this is how Plato explains the nature of reality.
 And so, he uses a metaphor called the cave. So, I want you to imagine a dark cavern that is huge. Mhm. And in this cavern, there are hundreds of people lined up together.
@@ -822,7 +826,9 @@ And then you have teachers who teach about the shadows to children.
 And then over time, what happens is that these people fall in love with this reality.
 So that they are addicted to it.
 So if anyone comes along and says, "Hey guys, why don't you look behind you and see it's all just a farce?" These people will be so angry that they kill this person.
-All right? So I'm not sure if you've ever watched a Korean drama. Have you Have you watched a Korean TV drama? Not really, no.
+All right? So I'm not sure if you've ever watched a Korean drama. **Jiang Xueqin:** Have you watched a Korean TV drama?
+
+**Steven Bartlett:** Not really, no.
 **Steven Bartlett:** All right. So unfortunately, I have. And these things go on for like thousands of hours. Mhm.
 And the first first 10 hours, you're disgusted by the plot.
 Uh because it makes no sense. But by sometime by by the 20th hour, you can't stop watching it.
@@ -907,10 +913,11 @@ And what we know is that when empires decline, it's always for the same reasons.
 And um it's always because of too much debt, too much corruption, too much inequality. And we're seeing that in America today. And the other thing that we know is you can't actually stop the decline of empires. So Oswald Spengler, who is a German theoretician, he argues that we are human beings and we have natural life cycles because we're organisms.
 Well, societies are the same way where empires, they will be born, they'll rise, and they'll die. And it's And it's a good thing because that's what allows for constant human innovation. Do you think that will happen in my lifetime?
 I'm 30 years old, 33 years old.
-
 ### Hermetic Philosophy, Life Advice, and Closing Tradition
 
-It may happen in everyone's lifetime. It may happen next 5 to 10 years. We are We are seeing >> Do you think that's going to happen in the next 5 to 10 years? I think there's a very strong possibility that the American empire will collapse in the next 5 to 10 years because it is overstretched, it's in too much debt, and it is really angering the entire world. It's basically unifying the entire world against it right now. And if >> that is to be the case, what would you give me as advice as a 33-year-old? What What action should I be thinking about taking now based on what you know about history to make sure that, you know, it's not too bad for my myself? I guess I'm asking this question in light of you predicting that there might be a collapse of the sort of Western or the American empire.
+**Jiang Xueqin:** It may happen in everyone's lifetime. It may happen in the next 5 to 10 years.
+
+**Steven Bartlett:** Do you think that's going to happen in the next 5 to 10 years? I think there's a very strong possibility that the American empire will collapse in the next 5 to 10 years because it is overstretched, it's in too much debt, and it is really angering the entire world. It's basically unifying the entire world against it right now. **Steven Bartlett:** And if that is to be the case, what would you give me as advice as a 33-year-old? What What action should I be thinking about taking now based on what you know about history to make sure that, you know, it's not too bad for my myself? I guess I'm asking this question in light of you predicting that there might be a collapse of the sort of Western or the American empire.
 And in such a scenario, I was wondering what what what it would look like to be an American.
 And is there a a solution or course of behavior one should take in such a scenario? But what I guess that's the key question which is if the US empire does collapse, how does American life change or Western life change? Okay. So, one theory that's very important to understand is something called hermetic philosophy.
 And hermetic philosophy is what underpins um Plato's allegory of the cave. Mhm.
@@ -928,7 +935,9 @@ How do I become a much more creative individual that brings goodness to the peop
 If you do that, you're changing the world everyday for the better.
 That's a nice message.
 That's a very nice message.
-And I agree. And I It's really interesting. I've spoken to a couple of physicists now who say similar things regarding about consciousness, and it really has stuck with me. A lot of things people say, you know, sometimes because I I learn so much doing this that I forget them. But this idea that um that we're all part of the same consciousness, and that I think someone said to me, a physicist said to me that um it's almost like consciousness divided into lots of little pieces so that >> That's right. Fractals. Fractals. So, that it yeah, it could it could experience the world or view the world.
+And I agree. And I It's really interesting. I've spoken to a couple of physicists now who say similar things regarding about consciousness, and it really has stuck with me. A lot of things people say, you know, sometimes because I I learn so much doing this that I forget them. But this idea that um that we're all part of the same consciousness, and that I think someone said to me, a physicist said to me that um it's almost like consciousness divided into lots of little pieces so that it could experience the world or view the world.
+
+**Steven Bartlett:** That's right. Fractals. Fractals. So, that it yeah, it could it could experience the world or view the world.
 **Steven Bartlett:** Exactly. And I found that to be a really compelling idea. Weirdly, I was thinking about this the other day. I was in a European country, and I was I was driving in a taxi, and I looked out the window, and you had all of these like tourists just stood at the edge of the water, all just like looking up and looking around.
 And I just for a second thought of it thought of them as like little peach pieces of consciousness exploring the world, cuz they were like looking up and looking around and looking at mountains and looking at the ocean and looking at the floor. And it it dawned on me for a second that that might just be consciousness is manifestation for sort of I guess exploration.
 It's which is a really interesting idea.
@@ -993,7 +1002,11 @@ And so yes, I did succeed. And I think I thank the universe for letting me succe
 Are you happy?
 I'm very happy with my family because it's my wife and my children who bring me tremendous happiness in the world. The YouTube channel, if they close it down tomorrow, and they might, I wouldn't be at all uh unhappy because I can just go and create more videos. Uh what matters is the source of my creativity, which is my the love I have for my family.
 That is beautiful.
-Really beautiful. I mean, it's it's really self-evident the value you're giving to people because the amount of people that showed up in my comment section and and demanded that you come here was staggering. In fact, that's actually how I I learned about you was I just saw your name so much in the comment section. So I was like, "Who's this guy?" And I went on YouTube and looked around and then I found these videos and then I got served them because I clicked on them and then I got went down the rabbit hole like everyone >> Did they just want you? Yeah. I am a polarizing figure. Oh, it's probably because >> some people really love me, but some people also really really hate me.
-**Steven Bartlett:** It Listen, I have I sit here with people really regardless of of that stuff and I think that's important and quite rare. So I you know, I've sat with Kamala Harris or Ivanka Trump or Gavin Newsom or Michelle Obama, you know, and for me it's really about the pursuit of truth rather than being captured too much by you know, Right.
-**Steven Bartlett:** all the blocks that we have on the table. So um thank you for doing what you do because you're demystifying and you're you're giving a perspective to the world. And I think one of the things you you do that really has compelled people is you you're able to um break things down in visual ways that allow people like me who aren't the best when it comes to books and textbooks and weren't necessarily very good in school to understand concepts in a simpler way and really to bring them to life in ways that make them actionable and relevant to our lives. And so long may you carry on doing that. And that's the essential message that I hope people understand like everyone has the capacity to learn the truth for himself or herself. It's only a question of desire and will.
+Really beautiful. I mean, it's it's really self-evident the value you're giving to people because the amount of people that showed up in my comment section and and demanded that you come here was staggering. In fact, that's actually how I I learned about you was I just saw your name so much in the comment section. So I was like, "Who's this guy?" And I went on YouTube and looked around and then I found these videos and then I got served them because I clicked on them and then I got went down the rabbit hole like everyone.
+
+**Steven Bartlett:** Did they just want you?
+
+**Jiang Xueqin:** Yeah. I am a polarizing figure. **Jiang Xueqin:** Oh, it's probably because some people really love me, but some people also really really hate me.
+**Steven Bartlett:** Listen, I sit here with people regardless of of that stuff and I think that's important and quite rare. So I you know, I've sat with Kamala Harris or Ivanka Trump or Gavin Newsom or Michelle Obama, you know, and for me it's really about the pursuit of truth rather than being captured too much by you know, Right.
+all the blocks that we have on the table. So um thank you for doing what you do because you're demystifying and you're you're giving a perspective to the world. And I think one of the things you you do that really has compelled people is you you're able to um break things down in visual ways that allow people like me who aren't the best when it comes to books and textbooks and weren't necessarily very good in school to understand concepts in a simpler way and really to bring them to life in ways that make them actionable and relevant to our lives. And so long may you carry on doing that. And that's the essential message that I hope people understand like everyone has the capacity to learn the truth for himself or herself. It's only a question of desire and will.
 Thank you. Thank you. YouTube have this new crazy algorithm where they know exactly what video you would like to watch next based on AI and all of your viewing behavior. And the algorithm says that this video is the perfect video for you. It's different for everybody looking right now. Check this video out and I bet you you might love it.

@@ -33,6 +33,8 @@ Treat this chapter folder as a small source-lattice:
 
 **Transcript pass 6 (2026-06-26):** Pass **C** turn labeling in **War Phases — Ground Troops and IRGC** (~22 exchanges); fixed pass-3 mis-attributed Steven lines on IRGC/Mosaic block; light ASR (FOB/Iraq→Iran, Mosaic, Hegseth, stirring up). Three sections turn-labeled (Iran Topography, NDS, War Phases). Other sections still merged.
 
+**Transcript pass 7 (2026-06-26):** Batch pass **C** turn labeling across remaining 11 sections (Interview Open through Hermetic closing); mechanical `>>` cleanup; sponsor blocks left unlabeled. Three prior sections (Iran Topography, NDS, War Phases) unchanged. Unresolved: ambiguous merged paragraphs; Araghchi title; DOAC Circle / sponsor reads.
+
 ## LLM Prompt
 
 Paste this folder link into ChatGPT, Claude, or Grok and ask:
