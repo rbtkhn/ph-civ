@@ -169,61 +169,100 @@ And there's good evidence to support this.
 
 ### National Defense Strategy — Western Hemisphere
 
-But I want to show you something. Okay, it's it's called the National Defense Strategy. All right?
+**Jiang Xueqin:** But I want to show you something. Okay, it's called the National Defense Strategy. All right?
 And so this is a document that was published by the Department of War.
 And in it, it explains what the American strategy to maintain global dominance is.
-And in the introduction, what it says is that for too long, America has been bullied by the war world. America is a nation that protects the world.
+And in the introduction, what it says is that for too long, America has been bullied by the world. America is a nation that protects the world.
 Yet Europe, East Asia, takes advantage of American generosity.
 The Europeans don't pay for their defense.
 And so they put all this money into welfare, into a pension system.
 The Chinese have been giving America a bad trade deal. The Chinese steal American technology and then use it to make products that they sell back to the Americans.
-So, the Americans have been have been getting a really bad deal for decades. And President Donald Trump, he's going to change that by doing four things.
+So, the Americans have been getting a really bad deal for decades. And President Donald Trump, he's going to change that by doing four things.
 All right? The National Defense Strategy calls for a four-point program to put America first.
-The first thing that um America's going to do, it's going to secure the Western Hemisphere.
-Why? Because the Western Hemisphere belongs to the United States. When you say the Western Hemisphere, what do you mean? What What region is that? Is that Canada there as well and So if you look at a map, we can divide we can divide the map into the Eastern Hemisphere, okay, and the Western Hemisphere. Okay, so everything over here. Everything, including Greenland, including Canada, including Mexico. Every part of this area belongs to United States.
+The first thing that America's going to do is secure the Western Hemisphere.
+Why? Because the Western Hemisphere belongs to the United States.
+
+**Steven Bartlett:** When you say the Western Hemisphere, what do you mean? What region is that? Is that Canada as well?
+
+**Jiang Xueqin:** So if you look at a map, we can divide the map into the Eastern Hemisphere and the Western Hemisphere. Okay, so everything over here. Everything, including Greenland, including Canada, including Mexico. Every part of this area belongs to the United States.
 Therefore, you cannot trade with any of these countries without American permission or paying a tribute to the Americans.
-And that this is why that the Americans have parked 1/3 of their naval assets in the Caribbean today.
-It's to It's to tell the Chinese and the Russians back off.
+And that is why the Americans have parked one-third of their naval assets in the Caribbean today.
+It's to tell the Chinese and the Russians: back off.
 You want to come here, you either pay a tribute or you'll be attacked.
-Okay, so that's the first point of this strategy. The Western Hemisphere belongs to America. Something that they call the Don Monroe Doctrine.
+Okay, so that's the first point of this strategy. The Western Hemisphere belongs to America. Something that they call the Monroe Doctrine.
 Okay, which is Trump's corollary to the Monroe Doctrine.
 Okay, so that's point one.
 Point two is that America wants to reimagine its relationship with its allies.
 Basically, NATO needs to pay for its own defense.
 NATO needs to go fight Russia in Ukraine. America will provide support.
 It'll provide weapons and financing, but NATO needs to do more work.
-And in these Asia, South Korea and Japan need to do better job of keeping China in check.
+And in East Asia, South Korea and Japan need to do a better job of keeping China in check.
 Okay, that's point two.
 Point three is specific to China.
-And the idea is United States does not want to destroy China.
-The States does not want to humiliate China, but China needs to be put in its place.
+And the idea is the United States does not want to destroy China.
+The United States does not want to humiliate China, but China needs to be put in its place.
 China needs to respect the power and the reach of the United States. And how the United States is going to do this is by strangling China economically.
-Right? So, you look at at a map of China, most of its trade goes through something called the Strait of Malacca.
-And the Strait of Malacca is most important maritime choke point in the world. All America has to do is park naval carriers inside the Strait of Malacca, and China will lose 90% of its energy exports. But if they park them there, China could still go through, no?
-No, because you have to go for the Strait of Strait of Malacca. So, America has something called the First Island Chain.
-Okay? And the First Island Chain prevents China from reaching the Pacific Ocean. The First Island Chain includes South Korea, Japan, Taiwan, the Philippines, and Malaysia. That blocks China from reaching out into into Pacific. Mhm. So, in order for it to access trade, it has to go through the Strait of Malacca.
-And for the Strait of Malacca, it can access uh India, Africa, and the um Middle East. Okay. Right?
-And so, by positioning naval carriers inside the Strait of Malacca, it creates a blockade, and China would have to pay a toll in order to access um the Strait of Malacca.
-And the fourth one? And the fourth one is to um rejuvenate, reinvigorate Am- America's defense manufacturing sector. So, supercharge the US defense industrial base. That's exactly correct.
-Yes. All right? So, what this means is that the Pentagon, a few weeks ago went to Detroit and talked to Ford and General Motors and said, "You know what?
-Because of this war in Iran, we might need you to stop making cars and start making more munitions and drones." How do you know they said that? It's They published it. They published it, yes.
-Really? Yes.
-So, the United States went to Forbes and GM and said, "We might need you to start making weapons with your factories." Yes, and they're happy doing this because profit margins are much greater for weapons than for for cars. This is the Pentagon, so you can charge them as you can charge them as much as you want and they'll pay for it. Whereas, you make cars, it's for the consumer market and they may not buy your cars. Mhm.
-Right? So, so you're like Ford or General Motors, the best deal in the world is to go make weapons for the Pentagon to fight these wars in the East that could go on for forever.
-So, so so we're in a situation where okay, look, if you read the news, if you talk to a lot of people, Trump's an idiot and this war in Iran makes no sense at all.
-But, then if you just read the National Defense Strategy that is on the Department of War website and anyone can go there and download for free and read themselves, it's a very clear road map of what America needs to do in order to maintain imperial hegemony. And so, let's let's let's just summarize the major points. The first major point is to maintain control over the Western Hemisphere and create a fortress America. Which is why he invaded Venezuela and he said he's going to invade Cuba. Exactly. And also Greenland. Look at all the countries that he's named over the past year.
+Right? So, you look at a map of China, most of its trade goes through something called the Strait of Malacca.
+And the Strait of Malacca is the most important maritime choke point in the world. All America has to do is park naval carriers inside the Strait of Malacca, and China will lose 90% of its energy exports.
+
+**Steven Bartlett:** But if they park them there, China could still go through, no?
+
+**Jiang Xueqin:** No, because you have to go through the Strait of Malacca. So, America has something called the First Island Chain.
+Okay? And the First Island Chain prevents China from reaching the Pacific Ocean. The First Island Chain includes South Korea, Japan, Taiwan, the Philippines, and Malaysia. That blocks China from reaching out into the Pacific.
+So, in order for it to access trade, it has to go through the Strait of Malacca.
+And through the Strait of Malacca, it can access India, Africa, and the Middle East. Okay. Right?
+And so, by positioning naval carriers inside the Strait of Malacca, it creates a blockade, and China would have to pay a toll in order to access the Strait of Malacca.
+
+**Steven Bartlett:** And the fourth one?
+
+**Jiang Xueqin:** And the fourth one is to rejuvenate, reinvigorate America's defense manufacturing sector. So, supercharge the US defense industrial base.
+
+**Steven Bartlett:** That's exactly correct.
+
+**Jiang Xueqin:** Yes. All right? So, what this means is that the Pentagon, a few weeks ago went to Detroit and talked to Ford and General Motors and said, "You know what?
+Because of this war in Iran, we might need you to stop making cars and start making more munitions and drones."
+
+**Steven Bartlett:** How do you know they said that?
+
+**Jiang Xueqin:** They published it. They published it, yes.
+
+**Steven Bartlett:** Really?
+
+**Jiang Xueqin:** Yes.
+So, the United States went to Ford and GM and said, "We might need you to start making weapons with your factories." Yes, and they're happy doing this because profit margins are much greater for weapons than for cars. This is the Pentagon, so you can charge them as much as you want and they'll pay for it. Whereas, you make cars, it's for the consumer market and they may not buy your cars.
+
+**Steven Bartlett:** Mhm.
+
+**Jiang Xueqin:** Right? So, if you're Ford or General Motors, the best deal in the world is to go make weapons for the Pentagon to fight these wars in the East that could go on forever.
+So, we're in a situation where — okay, look, if you read the news, if you talk to a lot of people, Trump's an idiot and this war in Iran makes no sense at all.
+But, then if you just read the National Defense Strategy that is on the Department of War website and anyone can go there and download for free and read themselves, it's a very clear road map of what America needs to do in order to maintain imperial hegemony. And so, let's summarize the major points. The first major point is to maintain control over the Western Hemisphere and create a fortress America. Which is why he invaded Venezuela and he said he's going to invade Cuba.
+
+**Steven Bartlett:** Exactly. And also Greenland.
+
+**Jiang Xueqin:** Look at all the countries that he's named over the past year.
 Greenland, Canada, Mexico, Venezuela, Cuba, Colombia, Nicaragua, Honduras.
 It's all the Western Hemisphere.
-Right? And they're all together. Second point is to create divide and rule around the world. So, imagine a situation where in Europe, NATO fight Russia in Ukraine.
-In East Asia, China fight South Korea and Japan.
+
+**Steven Bartlett:** Right? And they're all together.
+
+**Jiang Xueqin:** Second point is to create divide and rule around the world. So, imagine a situation where in Europe, NATO fights Russia in Ukraine.
+In East Asia, China fights South Korea and Japan.
 In the Middle East, Iran fights the GCC allied with Israel.
-What does America do? America can now sell sell everyone weapons and resources and finance it. This would be back to World War II. But it makes them weaker as well, generally. That's the point.
-Yeah. Right? And then what happened is that $42 that that America has in debt, it would disappear. Because it would be absorbed by the world.
-Right? So, you can say look, Trump's an idiot, but if you actually look at a map and how America wants this map this world map to play out, it makes perfect sense.
-Hm.
-So, the war is going well for Trump.
+What does America do? America can now sell everyone weapons and resources and finance it. This would be back to World War II.
+
+**Steven Bartlett:** But it makes them weaker as well, generally.
+
+**Jiang Xueqin:** That's the point. Yeah. Right? And then what happened is that the $42 trillion that America has in debt, it would disappear. Because it would be absorbed by the world.
+Right? So, you can say look, Trump's an idiot, but if you actually look at a map and how America wants this world map to play out, it makes perfect sense.
+
+**Steven Bartlett:** Hm.
+
+**Jiang Xueqin:** So, the war is going well for Trump.
 The war is going very well for Trump.
-Really? Yes.
+
+**Steven Bartlett:** Really?
+
+**Jiang Xueqin:** Yes.
 
 ### War Phases — Ground Troops and IRGC
 
