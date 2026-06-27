@@ -266,77 +266,105 @@ The war is going very well for Trump.
 
 ### War Phases — Ground Troops and IRGC
 
-But you said in your prediction that he would lose the war.
-What is >> What's your definition of lose the war?
-Losing a war means that America would send ground troops, Iran would survive the ground invasion, and this would be so politically damaging that chaos breaks out in the United States, and the US ground invasion is forced to retreat, and the United States is forced to retreat from the Middle East. And you still think that's going to happen?
+**Steven Bartlett:** But you said in your prediction that he would lose the war.
+
+**Steven Bartlett:** What's your definition of lose the war?
+
+**Jiang Xueqin:** Losing a war means that America would send ground troops, Iran would survive the ground invasion, and this would be so politically damaging that chaos breaks out in the United States, and the US ground invasion is forced to retreat, and the United States is forced to retreat from the Middle East. And you still think that's going to happen?
+
 **Steven Bartlett:** I still think that's going to happen.
-So, you think the United States is going to put ground troops in, Iran are going to resist, and then chaos is going to break out in the United States? Yes.
+
+**Steven Bartlett:** So, you think the United States is going to put ground troops in, Iran are going to resist, and then chaos is going to break out in the United States?
+
+**Jiang Xueqin:** Yes.
 Okay. So, let me explain to you why ground troops have to be sent. I mean, all right. Okay.
-So, in phase one of this war, which started February 28th, and which lasted for about 6 weeks, the intention was to decapitate the regime. And you do that by striking Tehran, and you do that by striking the military bases and installations throughout Iran. It's It's what the Americans call shock and awe.
+So, in phase one of this war, which started February 28th, and which lasted for about 6 weeks, the intention was to decapitate the regime. And you do that by striking Tehran, and you do that by striking the military bases and installations throughout Iran. It's what the Americans call shock and awe.
 And the point is to force Iranians to call uncle.
-But that's not what happened. To To give up. To give up, basically.
+But that's not what happened. To give up. To give up, basically.
 Because what the Iranians did was they responded by attacking US bases throughout the GCC. They closed off the Strait of Hormuz, and they rallied their people, okay?
 So, rather than surrender, the Iranians basically doubled down. Okay, that's phase two of the war.
 Now we've gone to phase three of the war, where Trump has basically decided that decapitation does not work.
 And so, what Trump's going to do is he's going to impose a naval blockade on Iran's naval blockade.
 Right?
-And so, the question then is if Trump understands that decapitation does not work, then using game theory, What's game theory? Game theory is the belief that all the world is governed by rules and incentives.
+And so, the question then is if Trump understands that decapitation does not work, then using game theory —
+
+**Steven Bartlett:** What's game theory?
+
+**Jiang Xueqin:** Game theory is the belief that all the world is governed by rules and incentives.
 And when you understand the rules and incentives, you can predict how people behave. These people will always behave according to their best interests.
 So, in geopolitics, the nation-states are individual players.
-And each nation-state is trying to use its resources and um its advantages in order to pressure other nation-states to obey it.
+And each nation-state is trying to use its resources and its advantages in order to pressure other nation-states to obey it.
 Okay? So, Trump recognizes that the Iranians can close off the Strait of Hormuz, but not only that, but the Iranians can also use the Strait of Hormuz to finance the war.
-Meaning that now they're forcing ships to pay a toll, about $2 million, in order to cross in order to cross it.
-And so, this is a huge advantage for the Iranians. And so, Trump has said, "No, I'm going to blockade your blockade, negating Iran's advantage of the Strait of Hormuz." So, if you think about it, again using game theory, I want to discuss what the Americans will do in order to force uh the Iranians to capitulate.
-Okay? So, I would say there's a three- point strategy.
+Meaning that now they're forcing ships to pay a toll, about $2 million, in order to cross it.
+And so, this is a huge advantage for the Iranians. And so, Trump has said, "No, I'm going to blockade your blockade, negating Iran's advantage of the Strait of Hormuz." So, if you think about it, again using game theory, I want to discuss what the Americans will do in order to force the Iranians to capitulate.
+Okay? So, I would say there's a three-point strategy.
 The first strategy is economic strangulation.
 You basically destroy the state's capacity to finance the war.
 And there are two ways that Iran is financing the war so far.
 The first is using oil exports, right?
 90% of Iran's oil goes to China.
-And um this is Kharg Island.
-Okay? This this little spot here is Kharg Island. This is where Iran will export 90% of its oil overseas. That's the first mechanism. Second mechanism mechanism is the Strait of Hormuz, where the Iranians now can collect tolls.
+And this is Kharg Island.
+Okay? This little spot here is Kharg Island. This is where Iran will export 90% of its oil overseas. That's the first mechanism. Second mechanism is the Strait of Hormuz, where the Iranians now can collect tolls.
 Right? So, what you have to do is you have to eliminate both of these finance mechanisms.
 You can close off both with an oil blockade, okay?
 So, that's strategy one.
 Strategy two is you need to create as much chaos within Iran as possible.
-You want to turn this fortress into a prison. And the way you do that is by storing up ethnic tensions in the country. So, if you look at a map uh ethnic map of Iran, what you will discover is that the Persian people are primarily in this area, in the middle of the country.
+You want to turn this fortress into a prison. And the way you do that is by stirring up ethnic tensions in the country. So, if you look at an ethnic map of Iran, what you will discover is that the Persian people are primarily in this area, in the middle of the country.
 But, you go to the borderlands, okay?
 The border areas, it's primarily ethnic minorities. And there are two ethnic minorities in the country that have always been problematic for the government.
-The first problematic people are the called Baluchis, here.
-Uh in south east uh Iran, by the Pakistani border. They have a history of insurgency against the government, okay?
-Second people that have been problematic are the Kurds, who are primarily in the uh northwest of the country.
+The first problematic people are the Baluchis, here.
+In southeast Iran, by the Pakistani border. They have a history of insurgency against the government, okay?
+Second people that have been problematic are the Kurds, who are primarily in the northwest of the country.
 So, if you are the US government, if you are the military, your strategy is to establish forward operating bases in these areas.
-A forward operating base is uh a spearhead of the military, where you insert ground troops to hold an area Okay, so you >> in order to resupply, in or- in order to push further into the territory. Okay, so a forward operating base would be the US putting troops into the northwest and the southeast, and then using that as a way to uh move forward into Iran? No, you don't want to move forward into Iran because it's too large. You don't have enough forces to move into Iraq. What you want to do is this. You want to establish forward operating bases in these areas in order to arm and train ethnic insurgents. Okay. That you can also finance as well.
+A forward operating base is a spearhead of the military, where you insert ground troops to hold an area in order to resupply, in order to push further into the territory.
+
+**Steven Bartlett:** Okay, so a forward operating base would be the US putting troops into the northwest and the southeast, and then using that as a way to move forward into Iran?
+
+**Jiang Xueqin:** No, you don't want to move forward into Iran because it's too large. You don't have enough forces to move into Iran. What you want to do is this. You want to establish forward operating bases in these areas in order to arm and train ethnic insurgents. Okay. That you can also finance as well.
 And you do this because you want to turn them into cannon fodder.
-You force You have to force a response from the Iranian military. Right? So, if they come in with the army in order to quell these rebellions, that's great because now you can use your air power to decimate the Iranian military. Your plan right now is the Iranian Iranian military is hiding inside mountains.
+You have to force a response from the Iranian military. Right? So, if they come in with the army in order to quell these rebellions, that's great because now you can use your air power to decimate the Iranian military. Your plan right now is the Iranian military is hiding inside mountains.
 And so, you want to force them out in the open.
 And so, you want to create as many points of tension in the country as possible to force the Iranian military to respond.
 Right?
-Does that make sense? Uh-huh. Okay.
+Does that make sense?
+
+**Steven Bartlett:** Uh-huh.
+
+**Jiang Xueqin:** Okay.
 And now, your third strategy is to strangle the capital, Tehran.
-Because that's the That's where the political elite are. It's a city of 10 million people.
+Because that's where the political elite are. It's a city of 10 million people.
 And the way you strangle Tehran is you deny them three things. You deny them water, electricity, and food.
 So, you attack power plants. You attack reservoirs.
-You attack railways that bring um food into the capital.
-And when you do that, these nine These 10 million people in Iran will now oppose the government and demand a political settlement.
-Because if they need food, uh water, electricity to survive.
-Right? Is there a government?
-Right now, there's a debate as to the true extent of leadership in Iran. Cuz Trump's recent interviews, he's saying he's he's claiming that the leadership in Iran are fighting themselves, but then he's also saying in other interviews that there's They don't even know who they're dealing with. Exactly. Iran has a very unusual political system in that it's a theocracy. It's a religious government, it's run by clerics, called the mullahs, in theory.
+You attack railways that bring food into the capital.
+And when you do that, these 10 million people in Iran will now oppose the government and demand a political settlement.
+Because if they need food, water, electricity to survive.
+Right?
+
+**Steven Bartlett:** Is there a government?
+
+**Jiang Xueqin:** Right now, there's a debate as to the true extent of leadership in Iran. Because Trump's recent interviews, he's saying he's claiming that the leadership in Iran are fighting themselves, but then he's also saying in other interviews that they don't even know who they're dealing with.
+
+**Steven Bartlett:** Exactly.
+
+**Jiang Xueqin:** Iran has a very unusual political system in that it's a theocracy. It's a religious government, it's run by clerics, called the mullahs, in theory.
 And then there's a parallel system, the state apparatus, that actually takes care of day-to-day bureaucracy. Okay, and that's secular.
-Uh the mullahs control the morality of the country, they also control foreign affairs. So, basically, uh this is important because Iran has two parallel military structures. You have the military, but you also have the IRGC.
+The mullahs control the morality of the country, they also control foreign affairs. So, basically, this is important because Iran has two parallel military structures. You have the military, but you also have the IRGC.
 The IRGC are only loyal to the mullahs, which is the religious part.
-**Steven Bartlett:** Exactly. All right? So, you have this divide in the in the country where the IRGC see this as a religious war, as a crusade to kill the Great Satan, and they want to fight to the death. And the Great Satan is The Great Satan is the American Empire. Okay. Uh which is the source of the misery that Iranians have been suffering for the past few decades.
-And the IRGC, not only do they see America as the Great Satan, but they also see this as a global conflict because they have proxies that support their beliefs, including here in Lebanon, Hezbollah, including here in Yemen, the Houthis, and of course in Palestine, Hamas. Okay, and and before Syria was also part of their axis of resistance. But Syria has been toppled by the Americans and and Israelis. So, the IRGC see this as a religious crusade that is global in nature. The political leadership in Tehran sees it completely different. They see this as a classic primary between America and Iran, and they want to reach a political settlement as soon as possible.
+Exactly. All right? So, you have this divide in the country where the IRGC see this as a religious war, as a crusade to kill the Great Satan, and they want to fight to the death. And the Great Satan is the American Empire. Okay. Which is the source of the misery that Iranians have been suffering for the past few decades.
+And the IRGC, not only do they see America as the Great Satan, but they also see this as a global conflict because they have proxies that support their beliefs, including here in Lebanon, Hezbollah, including here in Yemen, the Houthis, and of course in Palestine, Hamas. Okay, and before Syria was also part of their axis of resistance. But Syria has been toppled by the Americans and Israelis. So, the IRGC see this as a religious crusade that is global in nature. The political leadership in Tehran sees it completely different. They see this as a classic rivalry between America and Iran, and they want to reach a political settlement as soon as possible.
 And so, in other words, these ceasefire negotiations, it's really all for show.
-Because, at the end of the day, even if the Americans gave the Iranians everything they wanted, the IRGC still controls um the battlefield, and they would not um surrender or or seek peace terms lightly. Another problem in this situation is the IRGC practices only called the Mosaic strategy. Mosaic.
-The idea of the Mosaic strategy is, okay, you know the Americans the most effective military ever in human history. You know that they practice shock and awe, decapitation.
+Because, at the end of the day, even if the Americans gave the Iranians everything they wanted, the IRGC still controls the battlefield, and they would not surrender or seek peace terms lightly. Another problem in this situation is the IRGC practices something called the Mosaic strategy.
+The idea of the Mosaic strategy is, okay, you know the Americans are the most effective military ever in human history. You know that they practice shock and awe, decapitation.
 So, how do you respond to that? You respond to that using decentralization.
-31 provinces in the country with where own command and control that is localized. So, basically, they have 31 different armies that have their own leadership.
-**Steven Bartlett:** That's correct, okay? And when you do this, it's a fight to the finish. Why did they do that? They did it because the Americans possess the most sophisticated surveillance technology in the world, meaning they can easily identify the leadership, and they can easily track you down and kill you.
-So, the only way around that is to decentralize the leadership and spread it around the country so that the Americans cannot kill the everyone. How does the central government orchestrate 31 different armies in Iran? How does it get a message out to them? I heard Peter Hegseth make a a comment in one of the interviews saying that it takes some time for the pigeons to get out to the armies. And what he was saying, basically, is that um when the ceasefire was called and there were still some um missiles flying, he was basically saying that's just because it takes a long time to tell the 31 different armies to stop.
-The reality is that, given the Mosaic strategy, there's actually no way to coordinate these 31 different military operations.
-Because the Mojahedin was meant to the was meant to fight to the bitter end. You do not stop until you completely control the Middle East and the Americans have been forced out of the Middle East and Israel has been humbled.
-Okay. So, let's go into the specifics of what the Mojahedin is. The idea is that they have an eschatology.
+31 provinces in the country with their own command and control that is localized. So, basically, they have 31 different armies that have their own leadership.
+That's correct, okay? And when you do this, it's a fight to the finish. Why did they do that? They did it because the Americans possess the most sophisticated surveillance technology in the world, meaning they can easily identify the leadership, and they can easily track you down and kill you.
+So, the only way around that is to decentralize the leadership and spread it around the country so that the Americans cannot kill everyone.
+
+**Steven Bartlett:** How does the central government orchestrate 31 different armies in Iran? How does it get a message out to them? I heard Pete Hegseth make a comment in one of the interviews saying that it takes some time for the pigeons to get out to the armies. And what he was saying, basically, is that when the ceasefire was called and there were still some missiles flying, he was basically saying that's just because it takes a long time to tell the 31 different armies to stop.
+
+**Jiang Xueqin:** The reality is that, given the Mosaic strategy, there's actually no way to coordinate these 31 different military operations.
+Because the IRGC was meant to fight to the bitter end. You do not stop until you completely control the Middle East and the Americans have been forced out of the Middle East and Israel has been humbled.
+Okay. So, let's go into the specifics of what the IRGC eschatology is. The idea is that they have an eschatology.
 Okay? So, eschatology is an understanding of how the world should be and how we move towards this world.
 And for the Iranians, their eschatology is that Iran, in order to reach its true potential, needs to be master of the Muslim world.
 It needs to displace Saudi Arabia.
@@ -345,13 +373,16 @@ Because why are there US military bases in Saudi Arabia?
 So, this war, from their perspective, is a great opportunity to overthrow the corrupt leadership of Saudi Arabia, but not only Saudi Arabia, but the entire GCC.
 Overthrow the corrupt governments of the entire Muslim world.
 And install governments that put God, Allah, first.
-So, they're they're not going to quit.
-Iran.
-This war, once it starts, can only to World War III.
-That's a strong statement to make. As a probability, Okay. what probability would you assign to that claim?
-I would put it pretty high, anywhere between 80 to 90% probability.
+So, they're not going to quit.
+This war, once it starts, can only lead to World War III.
+
+**Steven Bartlett:** That's a strong statement to make. As a probability, what probability would you assign to that claim?
+
+**Jiang Xueqin:** I would put it pretty high, anywhere between 80 to 90% probability.
+
 **Steven Bartlett:** So that's certainty.
-Basically certainty, yes.
+
+**Jiang Xueqin:** Basically certainty, yes.
 
 ### Chess Grand Strategies and WWIII Players
 

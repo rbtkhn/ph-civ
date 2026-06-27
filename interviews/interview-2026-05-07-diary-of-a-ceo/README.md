@@ -31,7 +31,7 @@ Treat this chapter folder as a small source-lattice:
 
 **Transcript pass 2 (2026-06-25):** Fourteen section rails under Part I; `>>` host markers → **Steven Bartlett:**; ASR/toponym repair (transcript-logic, no audio re-listen). Unresolved: merged host/guest paragraphs without turn breaks; Foreign Minister vs Prime Minister title for Araghchi; some sponsor/read blocks left unlabeled.
 
-**Transcript pass 5 (2026-06-26):** Turn-by-turn **Steven Bartlett:** / **Jiang Xueqin:** labels in **National Defense Strategy — Western Hemisphere**; light ASR (war world→world, Monroe Doctrine, Ford/GM, debt figure). Iran Topography section labeled in pass 4. Other sections still merged.
+**Transcript pass 6 (2026-06-26):** Pass **C** turn labeling in **War Phases — Ground Troops and IRGC** (~22 exchanges); fixed pass-3 mis-attributed Steven lines on IRGC/Mosaic block; light ASR (FOB/Iraq→Iran, Mosaic, Hegseth, stirring up). Three sections turn-labeled (Iran Topography, NDS, War Phases). Other sections still merged.
 
 ## LLM Prompt
 
