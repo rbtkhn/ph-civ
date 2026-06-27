@@ -61,7 +61,7 @@ def extract_body(archive_path: Path) -> str:
 def write_transcript_pair(body: str) -> None:
     payload = TRANSCRIPT_FM + body
     paths = [
-        ROOT / "sources/predictive-history/game-theory/gt-28.md",
+        ROOT / "lectures/game-theory/gt-28/gt-28-transcript.md",
         ROOT / "lectures/game-theory/gt-28/gt-28-transcript.md",
     ]
     for path in paths:
@@ -80,7 +80,7 @@ def write_commentary() -> None:
             source_series: "Game Theory"
             publication_date: "{PUB_DATE}"
             source_chapter_path: "lectures/game-theory/gt-28/gt-28-transcript.md"
-            source_corpus_path: "sources/predictive-history/game-theory/gt-28.md"
+            source_corpus_path: "lectures/game-theory/gt-28/gt-28-transcript.md"
             commentary_status: "provisional"
             review_status: "provisional"
             annotation_status: "seeded"
@@ -137,7 +137,7 @@ def write_commentary() -> None:
             ### Layer 0 — Source floor
 
             - Transcript: `lectures/game-theory/gt-28/gt-28-transcript.md`
-            - Canonical capture: `sources/predictive-history/game-theory/gt-28.md`
+            - Canonical capture: `lectures/game-theory/gt-28/gt-28-transcript.md`
 
             ### Layer 1 — Lecture spine (seed)
 
@@ -222,7 +222,7 @@ def write_readme() -> None:
 
             ## Canonical Source Capture
 
-            - [Public source capture](../../../sources/predictive-history/game-theory/gt-28.md)
+            - [Public source capture](../../../lectures/game-theory/gt-28/gt-28-transcript.md)
 
             ## Files
 
@@ -338,7 +338,7 @@ def card_jsonl_entry() -> dict:
             "commentary_path": "lectures/game-theory/gt-28/gt-28-commentary.md",
             "orientation_payload_path": "lectures/game-theory/gt-28/gt-28-orientation.yaml",
             "source_chapter_path": "lectures/game-theory/gt-28/gt-28-transcript.md",
-            "source_corpus_path": "sources/predictive-history/game-theory/gt-28.md",
+            "source_corpus_path": "lectures/game-theory/gt-28/gt-28-transcript.md",
         },
         "source_snapshot": {"commit": "", "path": "data/cards/gt-28.md", "repo": "rbtkhn/ph-workshop"},
         "title": TITLE,

@@ -11,7 +11,7 @@ Use this folder when someone shares the GitHub chapter link in a YouTube comment
 Treat this chapter folder as a small source-lattice:
 
 1. `Doorway` - this README tells you what the packet is and what limits apply.
-2. `Primary source floor` - read the transcript and public source capture first.
+2. `Primary source floor` - read the transcript first.
 3. `Secondary support` - use the commentary canvas, orientation payload, and public card only after the source floor is open.
 4. `Widened interpretation` - draw comparisons or broader claims only after keeping the review status in view.
 
@@ -20,9 +20,9 @@ Treat this chapter folder as a small source-lattice:
 
 - YouTube: https://www.youtube.com/watch?v=BIl5vJn6ohI
 
-## Canonical Source Capture
+## Canonical transcript
 
-- [Public source capture](../../../sources/predictive-history/game-theory/gt-25.md)
+- [gt-25-transcript.md](gt-25-transcript.md)
 
 ## Files
 
