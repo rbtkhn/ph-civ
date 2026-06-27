@@ -13,8 +13,6 @@ classifiers = ["Programming Language :: Python :: 3", "Topic :: Education"]
 
 [project.scripts]
 predictive-history = "civ_ph.cli:main"
-ph-civ = "civ_ph.cli:deprecated_ph_civ_main"
-ph-apo = "civ_ph.cli:deprecated_ph_apo_main"
 
 [tool.setuptools]
 package-dir = {"" = "src"}

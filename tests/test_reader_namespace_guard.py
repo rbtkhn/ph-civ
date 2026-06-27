@@ -98,3 +98,24 @@ def test_validate_detects_catalog_book_path(tmp_path, monkeypatch):
 
     errors = validate_reader_namespace(repo_root=tmp_path)
     assert any("predictive-history-index.json" in error and "book/" in error for error in errors)
+
+
+def test_derived_corpus_rejects_ph_civ(monkeypatch):
+    monkeypatch.setattr(
+        "civ_ph.reader_namespace_guard.load_cards",
+        lambda: [{"source_id": "civ-01", "derived_corpus": "ph-civ", "source_paths": {}}],
+    )
+    monkeypatch.setattr(
+        "civ_ph.reader_namespace_guard.load_llm_experience",
+        lambda: {"chapter_catalog": {"cli": "predictive-history index"}, "chapter_folder_links": {"cli": "predictive-history link x"}},
+    )
+    monkeypatch.setattr(
+        "civ_ph.reader_namespace_guard.validate_book_namespace",
+        lambda **kwargs: [],
+    )
+    monkeypatch.setattr(
+        "civ_ph.reader_namespace_guard.validate_ph_surface_namespace",
+        lambda **kwargs: [],
+    )
+    errors = validate_reader_namespace()
+    assert any("derived_corpus" in error and "ph-civ" in error for error in errors)

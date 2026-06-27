@@ -436,9 +436,6 @@ def cmd_list(args) -> int:
     cards = visible_cards(getattr(args, "surface_scope", None), getattr(args, "all", False))
     if args.series:
         cards = [card for card in cards if card["series"] == args.series]
-    if args.part:
-        warn_deprecated_two_volume_part(args.part)
-        cards = [card for card in cards if card["part"] == args.part]
     namespace = getattr(args, "namespace", None)
     if namespace:
         allowed = NAMESPACE_SERIES[namespace]
@@ -1340,6 +1337,19 @@ def cmd_surface_triage(args) -> int:
 
 
 def cmd_surface(args) -> int:
+    if args.surface is None:
+        print(
+            "Use `predictive-history status` for the namespace catalog hub. "
+            "Retired two-volume surfaces: docs/migrations/PH-SURFACE-RETIREMENT.md"
+        )
+        return 0
+    if args.surface in {"ph-civ", "ph-apo"}:
+        print(
+            f"error: surface {args.surface} is retired; use predictive-history status or the namespace catalog hub. "
+            "See docs/migrations/PH-SURFACE-RETIREMENT.md",
+            file=sys.stderr,
+        )
+        return 2
     surface = SURFACES[args.surface]
     if args.json:
         return emit_json({"surface": args.surface, **surface})
@@ -1607,13 +1617,12 @@ def build_parser() -> argparse.ArgumentParser:
 
     p = sub.add_parser("list", help="List cards.")
     p.add_argument("--series", choices=["civilization", "great-books", "geo-strategy", "game-theory", "secret-history"])
-    p.add_argument("--part", choices=["civilization", "world-war", "provenance"], help="Deprecated two-volume filter.")
+    p.add_argument("--spine", action="store_true", help="Limit to Homer-to-Tolstoy spine cards.")
     p.add_argument(
         "--namespace",
         choices=sorted(NAMESPACE_SERIES),
         help="Filter by corpus namespace (lectures, essays, interviews).",
     )
-    p.add_argument("--spine", action="store_true", help="Limit to Homer-to-Tolstoy spine cards.")
     p.add_argument("--all", action="store_true", help="Include cards outside the current public surface.")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_list)
@@ -1754,7 +1763,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.set_defaults(func=cmd_bilingual)
 
     p = sub.add_parser("surface", help="Show public surface metadata.")
-    p.add_argument("surface", choices=sorted(SURFACES), nargs="?", default="ph-civ")
+    p.add_argument("surface", choices=sorted(SURFACES), nargs="?")
     p.add_argument("--json", action="store_true")
     p.set_defaults(func=cmd_surface)
     return parser
@@ -1763,20 +1772,6 @@ def build_parser() -> argparse.ArgumentParser:
 def main(argv: list[str] | None = None) -> int:
     args = build_parser().parse_args(argv)
     args.surface_scope = None
-    return args.func(args)
-
-
-def deprecated_ph_civ_main(argv: list[str] | None = None) -> int:
-    warn_deprecated_cli_shim("ph-civ")
-    args = build_parser().parse_args(argv)
-    args.surface_scope = "ph-civ"
-    return args.func(args)
-
-
-def deprecated_ph_apo_main(argv: list[str] | None = None) -> int:
-    warn_deprecated_cli_shim("ph-apo")
-    args = build_parser().parse_args(argv or ["list"])
-    args.surface_scope = "ph-apo"
     return args.func(args)
 
 

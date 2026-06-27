@@ -4,7 +4,7 @@ import json
 from collections.abc import Callable
 from pathlib import Path
 
-from civ_ph.data import PACKAGE_ROOT, load_cards
+from civ_ph.data import PACKAGE_ROOT, load_cards, load_llm_experience
 from civ_ph.volume_i_parts import load_volume_i_parts_registry
 
 BOOK_PATH_PREFIX = "book/"
@@ -268,8 +268,37 @@ def validate_ph_surface_namespace(*, repo_root: Path | None = None) -> list[str]
     return errors
 
 
+def validate_derived_corpus_metadata(*, repo_root: Path | None = None) -> list[str]:
+    errors: list[str] = []
+    for card in load_cards():
+        corpus = card.get("derived_corpus")
+        if corpus in {"ph-civ", "ph-apo"}:
+            errors.append(
+                f"{card.get('source_id', '?')} derived_corpus must not use retired surface id: {corpus}"
+            )
+    return errors
+
+
+def validate_llm_experience_surface_retirement(*, repo_root: Path | None = None) -> list[str]:
+    errors: list[str] = []
+    llm = load_llm_experience()
+    blob = json.dumps(llm, ensure_ascii=False)
+    if "--part world-war" in blob:
+        errors.append("llm-experience.json must not document --part world-war as primary onboarding")
+    chapter_catalog = llm.get("chapter_catalog", {})
+    cli_hint = chapter_catalog.get("cli", "")
+    if cli_hint.startswith("ph-civ "):
+        errors.append("llm-experience chapter_catalog cli must not use ph-civ as primary command")
+    folder_links = llm.get("chapter_folder_links", {})
+    if folder_links.get("cli", "").startswith("ph-civ "):
+        errors.append("llm-experience chapter_folder_links cli must not use ph-civ as primary command")
+    return errors
+
+
 def validate_reader_namespace(*, repo_root: Path | None = None) -> list[str]:
     errors: list[str] = []
     errors.extend(validate_book_namespace(repo_root=repo_root))
     errors.extend(validate_ph_surface_namespace(repo_root=repo_root))
+    errors.extend(validate_derived_corpus_metadata(repo_root=repo_root))
+    errors.extend(validate_llm_experience_surface_retirement(repo_root=repo_root))
     return errors
