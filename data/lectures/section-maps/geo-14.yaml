@@ -1,7 +1,6 @@
 source_id: geo-14
 sections:
 - title: Opening
-  anchor: As you know, last night Trump ordered the bombing of th
 - title: The Question How Would Iran Force
   anchor: the question then is how would Iran force Americans to invade? What is
 - title: Regime Change Iran And May Even
@@ -9,3 +8,4 @@ sections:
 - title: You Last Night Trump Ordered The
   anchor: As you know, last night Trump ordered the bombing of three Iranian um
 - title: Closing Questions
+  anchor_missing: true

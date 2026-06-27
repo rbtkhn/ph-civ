@@ -1,7 +1,6 @@
 source_id: geo-05
 sections:
 - title: Opening
-  anchor: okay so let's begin begin class and today we are discus
 - title: The Margin Victory Was Close Usually
   anchor: okay so the margin of victory was very very close as is usually the ca
 - title: The Suburbs The Suburbs Between The
@@ -11,3 +10,4 @@ sections:
 - title: The Question Who Nikki Haly And
   anchor: the question then is okay who is Nikki haly and what will she do as vi
 - title: Closing Questions
+  anchor_missing: true

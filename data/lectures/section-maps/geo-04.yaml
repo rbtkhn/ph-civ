@@ -1,7 +1,6 @@
 source_id: geo-04
 sections:
 - title: Opening
-  anchor: okay um let's start class so let's review where we are
 - title: The Third And Final Force Driving
   anchor: today we look at the third and final force driving conflict in the Mid
 - title: Let's Map The Middle East Iran
@@ -11,3 +10,4 @@ sections:
 - title: Third And Final Conflict Geopolitical And
   anchor: third and final Conflict is geopolitical okay and geopolitical means t
 - title: Closing Questions
+  anchor_missing: true

@@ -1,7 +1,6 @@
 source_id: geo-17
 sections:
 - title: Opening
-  anchor: Good morning, YouTube. Professor Tang here um with anot
 - title: Regime Change Iran The Financiers And
   anchor: regime change in Iran. Um the financiers and the empire they're riskad
 - title: Summarize According Game Theory The Universal
@@ -9,3 +8,4 @@ sections:
 - title: Regime Change And They Basically Get
   anchor: regime change and um they will basically get whatever they want. So it
 - title: Closing Questions
+  anchor_missing: true

@@ -56,6 +56,27 @@ def test_slug_to_title_preserves_github_anchor():
     assert github_heading_anchor(title) == slug
 
 
+def test_section_boundary_anchors_opening_not_empty():
+    from interview_transcript_sections import insert_sections
+    from lecture_rails_lib import section_boundary_anchors
+
+    flat = (
+        "okay start class recap of prior week today we look at the third force "
+        "driving conflict let's look at a map of the region any questions"
+    )
+    sections = [
+        {"title": "Opening"},
+        {"title": "Third Force", "anchor": "today we look at the third force"},
+        {"title": "Map", "anchor": "let's look at a map"},
+        {"title": "Closing Questions"},
+    ]
+    anchors = section_boundary_anchors(sections, flat)
+    body = insert_sections(flat, [s["title"] for s in sections], anchors)
+    opening_chunk = body.split("### Third Force", 1)[0]
+    assert "okay start class" in opening_chunk
+    assert opening_chunk.strip().endswith("week") or "recap" in opening_chunk
+
+
 def test_pin_cite_verifier_runs():
     proc = subprocess.run(
         [sys.executable, str(SCRIPTS / "verify_transcript_pin_cites.py"), "--source-id", "civ-59"],

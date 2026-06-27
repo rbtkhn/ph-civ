@@ -1,7 +1,6 @@
 source_id: geo-09
 sections:
 - title: Opening
-  anchor: so this week Vladimir Putin um in a speech said to his
 - title: The First Major Problem Capitalism It's
   anchor: okay so the first major problem of capitalism is it's all consuming so
 - title: All For All These Reasons Capitalism
@@ -11,3 +10,4 @@ sections:
 - title: All Sounds Like Subtle Shift Going
   anchor: all right so this sounds like a subtle shift going from the worker to
 - title: Closing Questions
+  anchor_missing: true

@@ -209,6 +209,8 @@ python scripts/lecture_section_pass.py auto-section --series game-theory --templ
 
 **Pin-cite rule (T1):** slug → Title Case words only (`stalin-greatest-man-thesis` → `### Stalin Greatest Man Thesis`) — preserves commentary `#fragment` links.
 
+**Anchor semantics (insert-tier):** YAML `anchor` on a section marks where **that section’s body starts** (boundary after the prior rail). Opening has no boundary anchor — Part I text from the top through the next pivot belongs under `### Opening`.
+
 **Insert-tier maps:** [`data/lectures/section-maps/`](../../data/lectures/section-maps/) · templates in `_templates/`.
 
 **Commit prefix:** `PH-TRANSCRIPT-EDIT: lecture pass A {series} batch N`

@@ -1,7 +1,6 @@
 source_id: geo-08
 sections:
 - title: Opening
-  anchor: okay let's start class so um let us summarize and revie
 - title: The First Reason Free Freedom And
   anchor: okay so the first reason is free freedom and democracy second us intel
 - title: All We'll First Historical Analysis Find
@@ -11,3 +10,4 @@ sections:
 - title: The Problem Zelenskyy Cared About What
   anchor: okay so the problem with Zelenskyy is he cared about what looked good
 - title: Closing Questions
+  anchor_missing: true

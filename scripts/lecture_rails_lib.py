@@ -258,25 +258,27 @@ def fill_section_anchors(sections: list[dict], flat: str) -> list[dict]:
     titles = [s["title"] for s in sections]
     if sections[0].get("split") == "paragraph":
         return sections
-    filled: list[dict] = []
     try:
-        built = build_anchors_for_titles(titles, flat)
+        boundaries = build_anchors_for_titles(titles, flat)
     except ValueError:
-        built = []
+        boundaries = []
+    filled: list[dict] = []
     for i, section in enumerate(sections):
-        entry = {"title": section["title"]}
-        if i < len(sections) - 1:
-            anchor = section.get("anchor")
-            if anchor and not section.get("anchor_missing"):
-                try:
-                    find_anchor_pos(flat, str(anchor)[:40], 0)
-                    entry["anchor"] = str(anchor).strip()
-                except ValueError:
-                    anchor = None
-            if not anchor and i < len(built):
-                entry["anchor"] = built[i]
-            elif not anchor:
-                entry["anchor_missing"] = True
+        entry: dict = {"title": section["title"]}
+        if i == 0:
+            filled.append(entry)
+            continue
+        anchor = section.get("anchor")
+        if anchor and not section.get("anchor_missing"):
+            try:
+                find_anchor_pos(flat, str(anchor)[:40], 0)
+                entry["anchor"] = str(anchor).strip()
+            except ValueError:
+                anchor = None
+        if not anchor and i - 1 < len(boundaries):
+            entry["anchor"] = boundaries[i - 1]
+        elif not anchor:
+            entry["anchor_missing"] = True
         filled.append(entry)
     return filled
 
@@ -292,7 +294,7 @@ def draft_pivot_geo_map(path: Path, flat: str, *, target_sections: int = 6) -> l
         return fill_section_anchors(sections, flat)
 
     anchors = find_pivot_anchors(flat, max(4, target_sections - 1))
-    sections: list[dict] = [{"title": "Opening", "anchor": flat.strip()[:55]}]
+    sections: list[dict] = [{"title": "Opening"}]
     for anchor in anchors[1:]:
         if len(sections) >= target_sections - 1:
             break
@@ -360,21 +362,62 @@ def insert_sections_paragraph_split(body: str, titles: list[str]) -> str:
 
 
 def build_anchors_for_titles(titles: list[str], body: str) -> list[str]:
-    anchors: list[str] = []
+    """Return N−1 boundary anchors at the start of sections 1..N−1."""
+    boundaries: list[str] = []
     cursor = 0
-    for i, title in enumerate(titles[:-1]):
-        if i == 0 and title.lower().startswith("opening"):
-            snippet = body.strip()[:50]
-            anchors.append(snippet)
-            cursor = len(snippet)
-            continue
+    for title in titles[1:]:
         anchor = anchor_from_title(title, body, cursor)
+        if not anchor and title.lower().startswith("closing"):
+            hay = normalize_for_anchor(body)
+            for cue in ("any questions", "questions", "thank you", "that's all"):
+                pos = hay.find(cue, cursor)
+                if pos != -1:
+                    anchor = body[pos : pos + 60].split("\n")[0][:60]
+                    break
         if not anchor:
-            raise ValueError(f"could not derive anchor for section: {title!r}")
+            raise ValueError(f"could not derive boundary for section: {title!r}")
         pos = find_anchor_pos(body, anchor[:40], cursor)
-        anchors.append(anchor[:80].strip())
+        boundaries.append(anchor[:80].strip())
         cursor = pos + 1
-    return anchors
+    return boundaries
+
+
+def section_boundary_anchors(sections: list[dict], flat: str) -> list[str]:
+    """Map YAML section starts (sections[1:]) to insert_sections boundary anchors."""
+    titles = [s["title"] for s in sections]
+    need = len(titles) - 1
+    boundaries: list[str] = []
+    cursor = 0
+    for i in range(1, len(sections)):
+        sec = sections[i]
+        anchor = sec.get("anchor")
+        if anchor and not sec.get("anchor_missing"):
+            snippet = str(anchor).strip()
+            try:
+                pos = find_anchor_pos(flat, snippet[:40], cursor)
+                boundaries.append(snippet[:80])
+                cursor = pos + 1
+                continue
+            except ValueError:
+                pass
+        derived = anchor_from_title(sec["title"], flat, cursor)
+        if not derived and sec["title"].lower().startswith("closing"):
+            hay = normalize_for_anchor(flat)
+            for cue in ("any questions", "questions", "thank you"):
+                pos = hay.find(cue, cursor)
+                if pos != -1:
+                    derived = flat[pos : pos + 60].split("\n")[0][:60]
+                    break
+        if not derived:
+            raise ValueError(f"no boundary anchor for section {i}: {sec['title']!r}")
+        pos = find_anchor_pos(flat, derived[:40], cursor)
+        boundaries.append(derived[:80].strip())
+        cursor = pos + 1
+    if len(boundaries) != need:
+        raise ValueError(
+            f"expected {need} boundary anchors for {len(titles)} sections, got {len(boundaries)}"
+        )
+    return boundaries
 
 
 def apply_section_map(
@@ -392,20 +435,19 @@ def apply_section_map(
     if sections[0].get("split") == "paragraph":
         new_body = insert_sections_paragraph_split(flat, titles)
     else:
-        specified = [s.get("anchor") for s in sections[:-1]]
         try:
-            if specified and all(specified):
-                anchors = [str(a) for a in specified]
-                new_body = insert_sections(
-                    flat, titles, anchors, asr_cleanup_fn=common_asr_cleanup
-                )
-            else:
+            anchors = section_boundary_anchors(sections, flat)
+            new_body = insert_sections(
+                flat, titles, anchors, asr_cleanup_fn=common_asr_cleanup
+            )
+        except ValueError:
+            try:
                 anchors = build_anchors_for_titles(titles, flat)
                 new_body = insert_sections(
                     flat, titles, anchors, asr_cleanup_fn=common_asr_cleanup
                 )
-        except ValueError:
-            new_body = insert_sections_paragraph_split(flat, titles)
+            except ValueError:
+                new_body = insert_sections_paragraph_split(flat, titles)
 
     if dry_run:
         print(f"dry-run apply {path.name}: {len(titles)} sections")

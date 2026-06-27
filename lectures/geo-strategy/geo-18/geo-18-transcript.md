@@ -23,17 +23,13 @@ part_role: world-war
 
 ### Opening
 
-
-
-### Let's Ukrainian Military Strategy Against Russia
-
 two big news to report. The first big news is that there's chatter now that the Israelis will resume air strikes against Iran very very shortly. And this comes after Netanyahu's visit to Washington last week where he presumably received permission to do so from the Trump administration.
 Second big news is that NATO will resume weapon shipments to Ukraine. Trump has given Putin a 50-day ultimatum to end this war in Ukraine or else Trump will be really really angry at him. I understand that there are many who are disappointed that Trump has not been able to end this war in Ukraine in one day as he promised um during the campaign.
 But if you've been an avid follower of this channel, then you will know that this was entirely expected. We can only expect this war in Ukraine to expand. We can only expect uh the Middle East conflict to escalate. So today I want to focus on the war in Ukraine. I want to talk about Putin specifically from a game perspective.
 This war in Ukraine is very strange because American strategy, American policy, American tactics, they've all been self-defeating. I'll give you three examples. The first example is um how aggressive American uh Ukrainian strategy and military doctrine has been. Second is um American sanctions against Russia and the third example is the blowing up of the Nordstream pipeline.
 All three of these policies have been self-defeating. So to understand why, we're going to use counterfactual. We're going to use game theory counterfactual and compare it to what actually happened. So
 
-### Three Pillars Western Civilization Capitalism Science
+### Let's Ukrainian Military Strategy Against Russia
 
 let's start with Ukrainian military strategy um against Russia. The counterfactual is this. The counterfactual is that America chose not to intervene.
 NATO is not involved and Ukrainians are left to fight the Russians by themselves. Well, in this in this situation, the Russians are very quickly in about 3 to six months, they're able to bulldoze their way throughout eastern Ukraine. And in about 6 months time, they're able to encircle Odessa.
@@ -98,7 +94,7 @@ It's a perfect um mechanism for him to achieve the um his ambitions. And this le
 so to answer this question and again I don't know the answer. Okay, so here I'm only speculating. To answer this question, what's really important for us to understand is the conflict between the Orthodox Christian world and Western civilization. for Orthodox um Christians, they really see Western civilization as a manifestation of the Antichrist.
 Because Western civilization, the
 
-### The Question Our Thoughts Come And
+### Three Pillars Western Civilization Capitalism Science
 
 three pillars of Western civilization are capitalism, science, and liberalism. Liberalism is a cult of the individual, the belief in hedonism, the belief that the pursuit of individual pleasure is what matters most in life. Science is a rejection of God and the worship of the material world.
 Capitalism is pure greed, pure selfishness. So for Orthodox Christians, resilization means a rejection of God, of faith, of tradition, which is what the Orthodox tradition represents. And so for Orthodox Christians, this is a war of civilization, a struggle of civilizations. And only one can survive. Only the western viewpoint can survive or the Orthodox viewpoint can survive.
@@ -106,7 +102,7 @@ And um Orthodox Christians are determined to uh win this war because if they don
 It has a greater population. It has more resources. It has more wealth. But the orthox Christians believe that God is with them. God communicates with them and God is planning on the destruction of the of the Western civilization and the Orthodox Christians are only the tool of God to achieve this. If you look at current events, then there's a lot of justification for this.
 But um let me explain this in a different way. Okay. So I believe and a lot of people will believe that there is um an underlying consciousness to the universe. Hegel calls this the Geist. Carl Jung calls this the collective unconscious because because we have thoughts, right? Well,
 
-### Closing Questions
+### The Question Our Thoughts Come And
 
 the question then is where do our thoughts come from and where do they go? So let's assume that there is a um a collective unconscious to the universe and we can call this force God.
 Well, if that's the case, then we're able to communicate with this collective unconscious. Um as long as you believe it exists, as long as you make the effort to embrace this collective unconscious, as long as as long as you have faith in God. The problem with western civilization is it denies exist existence of God.
@@ -122,7 +118,11 @@ And the third prediction is that Russia will defend Iran. It cannot afford for I
 Okay, so those are the three big predictions. if they of all three predictions happen where um the war in Ukraine shifts to this final cataclysmic struggle in Odessa, where Russia and China are falling out and where um Russia comes to the aid of Iran, then we will have strong evidence that my hypothesis is correct and in fact Putin does see himself as the second coming of Stalin.
 Okay. So, um that's it. Um what I will do in my next video is connect all the disparate pieces together and try to predict what will happen around the world next 5 to 10 years. Quick announcement. I'm taking a break uh next week. I'm taking my kids um camping. It's something that that we've been planning for a long time.
 So, unfortunately, I won't be able to do a a video next week, but I will be back the week after. Um, also, tomorrow from 8 to 10:00 p.m., uh, East Eastern Standard Time, I'll be doing a Discord live stream. Um, where I will I can help you elaborate or explain certain issues. um um that you've been struggling with over the course of these uh videos.
-Um one last announcement is last week I announced that I have a buy me a coffee account and the support has been overwhelming. So, thank you so much for supporting my my work. It's really helpful. But again, um don't feel any pressure to support me. If you have the means, please do so. uh it's really helpful. I really appreciate it.
+Um one last announcement is last week I announced that I have a buy me a coffee account and the support has been overwhelming. So,
+
+### Closing Questions
+
+thank you so much for supporting my my work. It's really helpful. But again, um don't feel any pressure to support me. If you have the means, please do so. uh it's really helpful. I really appreciate it.
 But don't feel any pressure to do so. I see my mission as trying to educate as many people as possible. Um, I'm trying to help you understand the world. And I I understand that many of you might be confused or they might disagree with what I'm saying. But what's really important is this is a learning process and we're both trying to develop theories and hypotheses and anecdotal models to better understand the world.
 So, it's a process and there are a lot of things in which I'm I'm going to be wrong. But what's really important is there are predictions in place and if these predictions happen then that's good reason to think that the analytical model I'm proposing is correct. They don't happen then we'll just go back and change the analyical model. Okay.
 So this is a um process in which we're all trying to learn together. So that's it. Um thank you for listening to this video and I will see everyone next time.

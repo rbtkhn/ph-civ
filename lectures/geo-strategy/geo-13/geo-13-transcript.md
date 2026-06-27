@@ -23,26 +23,22 @@ part_role: world-war
 
 ### Opening
 
-
-
-### I'm Going Share You Impressions Analysis
-
 Um um as everyone knows um it seems this war in the Middle East is uh blowing up and it seems like even though the United States has yet to declare war on Iran um it will probably happen um in the next couple of days with the United States um bombing Iran.
 Um
 
-### Regime Change But It's Really The
+### I'm Going Share You Impressions Analysis
 
 so um today I'm going to share with you my impressions, my analysis of what's happened of what's happening in the Middle East. Um and I hope that um this discussion will be clarifying and illuminating for uh many of you. So, um it's very clear what the US intention is. Um because we've seen what the United States has done to Iraq, Libya, and Syria.
 They call it
 
-### Regime Change The Middle East Think
+### Regime Change But It's Really The
 
 regime change, but it's really the destruction of the society. Um the destruction of the capacity as a people to be a nation to work collectively. And the most glaring example of course is Iraq. um in 2003 before the Americans invaded it was a fairly well functioning society. Yeah. I mean there were sanctions that impoverished the people but overall I mean it was a fairly stable um society in middle middle east.
 United States goes in over for Osam Hussein. And at that time you had a lot of people who welcome this uh transition and this change and they believe that the Americans will implement democracy which was a state mission and it will lead to a more prosperous Iraq. But very soon afterwards the Americans implement a policy called de-Baathification uh which is to remove anyone from the Baptist party from government from the military from the police.
 And the problem with this is these are the elite of society. You remove the elite from society from the pillars of power society um ceases to function properly. And that's exactly what happened. It led to massive sectarian violence that continues even today in Iraq. So, um I can't believe that anyone's stupid to not know the consequences of this policy of deaf.
 Um and so when Americans say
 
-### Closing Questions
+### Regime Change The Middle East Think
 
 regime change in the Middle East, think of Iraq 2003 and what happened afterwards. So um the question now is how will the Americans move forward? Well the American strategy in the Middle East um it's been in place for the past 20 years and regime change requires three pillars. Okay.
 The first pillar is um um decapitation of the leadership. Just remove the entire leadership. Okay. Uh second is um revolutionary um intent and you do that through economic sabotage, right? For sanctions by by destroying infrastructure that allows uh people to live normal lives which includes water supply, electricity. Um and the third pillar of the strategy is to ferment sectarian violence to divide and conquer the people to take advantage of the fact that uh within the societies there are there are these minorities of people who have have
@@ -63,7 +59,11 @@ And ultimately you can make the argument that because America is not the America
 This not this does not mean that um the Americans and Israelis will not be able to inflict tremendous damage on the nation. Um I I mean if America and Israel continues its bombing campaign, which I suspect it will for the next few months, then we will see tremendous damage um and economic loss within Iran. Um but ultimately war is not decided by resources, weapons or technology.
 It's not it's really decided by a people's willingness to fight and die for what they believe in. And I think at um when it comes to this question then I think the Iranians um have a huge advantage over the Americans. Also, let's not forget that the Iranians have been studying Sorry, sorry, sorry. The Americans have been studying um the um American strategy in the Middle East for the past 20 years.
 And I'm pretty sure they developed counter strategies against an American attack. And I think the main main um counter strategy is the idea of decentralization. You've got these different militias, different cells embedded in different parts of Iran. So even though America and Israel they may be able to decapitate the leadership, they may be able to knock out the central leadership in Tran um they won't be able to occupy the country and unless they're able to occupy the country and install a military regime that's to their liking then um this war
-is not won then then then Iran is still a functioning um threat to um American Middle East interests. Okay. Um having gone through some broad analysis, let's look at questions that um viewers have been asking on my discord server. Okay, so the first big question is will nuclear weapons be used in this war at any point? And my intuition tells me it won't be okay for many many reasons.
+is not won then then then Iran is still a functioning um threat to um American Middle East interests. Okay. Um having gone through some broad analysis, let's look at
+
+### Closing Questions
+
+questions that um viewers have been asking on my discord server. Okay, so the first big question is will nuclear weapons be used in this war at any point? And my intuition tells me it won't be okay for many many reasons.
 Okay, the first major reason is this is huge taboo against the use of nuclear weapons. If America were to detonate a nuke that America would lose all credibility, all authority um um among its allies and among among the world and we we have to remember like a lot like this war is being fought to reestablish American credibility and authority in the world.
 Um Putin's invasion of Ukraine did a great deal of damage to Americans reputation and fighting this war in Ukraine is to reestablish the idea that America is still the global hedgeimon that is still a unipolar world. And so by getting a nuke it shows the desperation, anxiety um and quite honestly incompetence of the American military. Okay.
 So I so for that reason I don't think America will use nukes. Also, even though Putin has not publicly stated um that he will he will retaliate if America will use a nuke against Iran, he hasn't done this publicly because it's not to his advantage to state to say it publicly. But I'm sure that through back channels through uh inter intermediaries uh Putin has made this very clear to the Americans and Putin will tolerate an American invasion of Iran but he will not tolerate um uh nuclear weapons being used in this war. So I think we can discount

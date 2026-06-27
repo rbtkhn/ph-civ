@@ -23,10 +23,6 @@ part_role: world-war
 
 ### Opening
 
-
-
-### Regime Change Iran The Financiers And
-
 Good morning, YouTube. Professor Tang here um with another video update on the situation in the Middle East. I wanted to originally do this talk next week because I wanted to get a haircut this weekend and surprise everyone. Um but uh on Twitter, many of you um have been clamoring for the next edition in this series. So here we are.
 In my last video, I discussed how Isaac Newton built the intellectual foundations for Christian Zionism, which is driving American Middle East policy today. And today I want to explain to you why Christian Zionism is such a powerful force in the world. Um, as you know, Netanyahu is visiting Washington this week, meeting with senior lawmakers, including with President Donald Trump in the White House.
 And um this most definitely signals that um Israel and the United States will resume air strikes against Iran and we will see an increase in the escalation ladder uh in this war in the Middle East. So why is this happening? And it's happening because there are four major factions in this anti-Iran coal coalition that's driving uh this war.
@@ -45,7 +41,7 @@ And so this Christian Zionist Zionist project to reach the mountain on top provi
 So, um, they're trying to do as little work as possible in order to maintain their very cushy jobs sitting somewhere in an air condition office and that's it. Now, that's the structure of their relationship with each other. They're all interested in reaching that mountain top for different reasons. But once I but once they reach that mountain top, then they'll have their disagreements.
 and how to reach that mountain top they won't be aligned with. So the example here is that the Christian Zionists and the Zionists are very much interested in using ground troops to force
 
-### Summarize According Game Theory The Universal
+### Regime Change Iran The Financiers And
 
 regime change in Iran. Um the financiers and the empire they're riskadverse. So they really don't want to use ground troops.
 um they want to achieve regime change slowly, steadily in a um in a in a in a way that contains risk. And so there's going to be that disagreement about whether or not to use ground troops. In the end, I think the Christian Zionist and the Zionist will win out. So let me explain to you why um let me explain to you using game theory why the Christian Zionists are the dominant power in this relationship even though the financial financial control of money and even though the American empire controls the armoraments.
@@ -105,17 +101,21 @@ Unfortunately, what we also know about this period is that the early followers o
 So what what I will do is in the description below, I'm going to link a really awesome paper uh written by two Jewish religious historians about this time so you can so you can have a better understanding of how Muhammad really is the Jewish Messiah. Um I'm also going to link um to have a lot of like wiki links so you can do some more background research into this period.
 It's really fascinating and I apologize I don't have enough time to go into more details about this period. Okay. Okay. So, um
 
-### Regime Change And They Basically Get
+### Summarize According Game Theory The Universal
 
 to summarize, according to game theory, the universal law of game theory, Christian Zionists will emerge as dominant power in the Middle East. Um they're the ones driving um US policy right now. uh they will eventually overwhelm both the American Empire and the global financial elite.
 Uh they will force the United States and ground troops and invade Iran in order to implement re
 
-### Closing Questions
+### Regime Change And They Basically Get
 
 regime change and um they will basically get whatever they want. So it seems as though we figure out history. It seems we're able to predict the future by using game theory properly um and systematically and honestly we're able to have a very clear insight into the trajectory of history.
 The problem though is game theory is not that easy. Okay. Why? Because according to game theory, when it seems like they structure the game, when there seems to be a trajectory, when the players are obvious in their moves, when there's certain ineability to the decision-m of certain players, what will happen is a new player will emerge who see the contours of the game being played and he will manipulate events and change the course of this game to benefit himself and his group. Okay.
 Now, Hegel's uh name for this person, this player is the world historical figure. Um, Nietzsche's name for this player is the Uber, the Superman, the person who's able to step outside of history and control the reigns of history in order to achieve his own ends. uh and by doing so he's able to forever change the course of human history.
 Now um according to game theory now that the game um the structure of the game has um been a h is is pretty clear the Ubermensch will now emerge and in fact today we do have the ubbermans and this Ubermensch will manipulate the game in order to achieve his vision. and he will change forever change the course of human history. And this person's name is Vladimir Putin.
-So my next video I'm going to discuss who Vladimir Putin really is, what he wants, and how he will achieve his vision. So thank you for today. Um I hope you enjoy the talk and I'll continue the talk um next week. Also, I some of you in the comment section have been um telling me how much you want to support my work and I'm I'm really grateful um for it and I would really appreciate your support.
+So my next video I'm going to discuss who Vladimir Putin really is, what he wants, and how he will achieve his vision. So
+
+### Closing Questions
+
+thank you for today. Um I hope you enjoy the talk and I'll continue the talk um next week. Also, I some of you in the comment section have been um telling me how much you want to support my work and I'm I'm really grateful um for it and I would really appreciate your support.
 So, what I've done is I've set up a uh buy me a coffee account. So, you don't have to do it. Um I'm committed to educating you for free. You don't have to pay me anything. You don't have to um you don't have to be um give me anything like but I would really appreciate it if you have if you have the um means to buy me a coffee. Okay, the link is down below.
 Um so thanks a lot and I will see everyone next time.

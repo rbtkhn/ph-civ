@@ -30,14 +30,10 @@ Source timestamps:
 
 ### Opening
 
-
-
-### The Margin Victory Was Close Usually
-
 okay so let's begin begin class and today we are discussing whether or not Trump will win in November and I'm making the prediction that he will win in November and that he will pick Nikki Haley as his vice president okay so let me make you the argument today okay so let's first discuss why Biden won in 2020 and why it's possible that he may lose this year okay so in 2020 it was a very special year in American politics because it was a large it was the largest turnout in American history since about 1900 okay so 74 million people voted for
 Trump Biden uh for Biden 81 million people voted for him and two out of every three American adults came out to vote okay so was the largest turnout uh in American history um it doesn't it sounds like a very uh lopsided victory for Biden 81 million versus 74 million but because America hasn't been called an electoral college system um which is not direct democracy actually the margin of victory was only 65,000 votes meaning that if 65 th000 people in key Battleground States flip their votes than Trump would have won
 
-### The Suburbs The Suburbs Between The
+### The Margin Victory Was Close Usually
 
 okay so the margin of victory was very very close as is usually the case in highly contested American elections so let's understand the Coalition that brought Biden into the White House okay so the first uh major component of this Coalition are black people 91% % of All Blacks voted for Biden only 8% voted for Trump that's a huge majority for Biden so why did so many black people vote vote for Biden in 2020 well first of all it's because Biden was Obama's vice president for eight years and so a lot of older black people had a certain loyalty to
 him okay they felt that we owe this man because he served loyal loyally to our men Barack Obama for years and so so now we must bring him into the White House but this year the debt is paid off right so they won't feel so loyal to Biden okay also in 20120 there's something called a George Floyd protest so what happened was that um in May 2020 a black man in Minneapolis George Floyd he was strangled to death by a white police officer it was captured on video and it caused a natural uproar in fact um there were riots and protests
@@ -49,13 +45,13 @@ war in Gaza um so these young people are not going to vote for Trump but they pr
 okay Biden under Biden's watch Ukraine blew up but so did Gaza and many are starting to feel that it's because Biden comes across as too old too weak and too feeble to S against Putin okay so college educated people will still overwhelming vote Democratic that is the core democratic base but they'll be less enthusiastic about Biden and they'll vote primarily uh against Trump okay women okay so 54% of women uh voted for for Biden 44% voted for Trump okay and again um because Trump is seen as this hateful figure uh we should we expect
 that woman will still consistently vote Democratic this year okay and also because of abortion issues right so um women are very passionate about abortion and they will come out and vote for Biden to ensure that abortion rights are protected last look at let's look at sub Suburban voters
 
-### The First Major Criticism Trump You
+### The Suburbs The Suburbs Between The
 
 okay so the suburbs the suburbs are between the cities the urban areas and the rural areas okay cities urban areas overwhelmingly support the Democratic party rural areas overwhelmingly overwhelmingly support the Republican party so the
 suburbs um are where the Battleground is and so if you look at 19 uh sorry um 2016 when Trump defeated Hillary Clinton only 45% of the suburbs voted for Clinton which allowed Trump to defeat her in the election Okay now what's interesting is that in 2020 this flipped and 54% of uh Suburban voters voted for Biden that's a flip of 2 million voters okay so in elections usually it's a Suburban vote that determines the election because the swing voters okay um so for Trump to win this year he needs to win the Suburban vote he won
 that in 2016 he lost that in 2020 okay so let's examine very quickly um why the suburbs went Biden in 2020 okay and there are three major reasons the first is the media narrative so what was happening for out uh Trump's presidency is basically the entire mainstream media got together and criticize Trump
 
-### The Question Who Nikki Haly And
+### The First Major Criticism Trump You
 
 okay so the first major criticism of trump if you if you remember is he was a Russian asset okay he was a paid Putin puppet and of course course that was just a complete lie what we call rugate okay but then they start
 to say that Trump was a divisive figure okay and this idea caught the imagination of the suburbs okay because if you live in the suburbs you tend to be middle class you tend to be pretty wealthy and well educated so you like the status quo you want a leader who's conservative and who's a un fire and throughout the Trump presidency we saw the polarization of Politics the left and the right hated each other and they fought all the time and what really showed this was the George Floyd protest right so you had um
@@ -77,7 +73,7 @@ why she'll be my running mate in November how people feel about him what what wo
 hilly to be his VP then the media will be like he is a changed man he's learned his lessons he's willing to let go of grudges he's willing to listen he now has empathy therefore he should be president okay do you understand the then what happens is the suburbs switch over to Trump and then he wins so if he picks Nicki Haley in August he will win okay I'm not completely sure that he will pick Nikki haly I think that this is his best strategic move okay but Trump is not really predictable all right and who he picks as vice
 president will give us a good clue as to how he will govern when he be when he becomes president okay does that make sense all right now
 
-### Closing Questions
+### The Question Who Nikki Haly And
 
 the question then is okay who is Nikki haly and what will she do as vice president Okay now what's important to understand about Nikki Haley is that when she left office when she left Washington DC Poli office in in 2018 she had nothing in her bank account okay she had no money in her bank account now she has $1 million in her bank account and she lives in a $5 million mansion so where did she get this money
 okay she got her she got this money mainly for an organization called United against a nuclear Iran okay and this organization's primary purpose is to create conflict between United States and Iran okay they they go against any companies or individuals who support Iran United States who does business with Iran okay they are a very anti-iranian uh organization one their main donors his name is Sheldon Adelson and Sheldon Adelson is an extremely pro-israel business person okay he he owns a lot a lot of casinos okay so MGM SS uh he's he's a
@@ -100,5 +96,9 @@ suck and which means that the party with a coalition with a base that feels more
 same thing happen in same happened this year right and unfortunately because Biden is so old he's 81 he doesn't have the energy to change the way he is you understand it's much easier for him to sit around and pray that I'm not Trump will deliver another election than it is for him to go out and change who he is he can't change who he is okay does that make sense okay but but that's a great question all right any any more um questions before okay so again I am not sure who will win this year okay I think it's Trump I'm
 not sure that Nikki Haley will be his vice president I'm just making a guess so then then the question then is why are we doing this and the answer is this we try to think we have to build an analytical model right of how the world works and the only way we know if this model works or not is by making predictions and testing it against reality okay so you know what it's possible that in August um Trump will pick someone else okay possibly someone named JD Vance okay um the only thing you need you need to know about J vent is he's very loyal
 to Trump okay it's possible he picks he picks JD vents okay I think he'll pick Nicki Hy I often actually um I often think that there's a very good chance he picks JD v as well okay but I but but I'll make the bet that he picks Nikki Haley okay so it's possible in August he does not pick Nicki Nicki H picks shie Vance or someone else instead okay it's also possible that in November Trump loses okay but that's fine because because if if I'm wrong then what I do is I go back to this analysis and I make changes to anal this analysis so so that
-it's much more reflective and accurate okay does that make sense okay and and that's how we try to think critically about the World by building an an models that we can then test against reality and then ba and then based on what happens in reality we can go and refine our analytical model right any any questions Okay so next week um we discuss the war in Iran okay because if you look at uh this again if Nikki Haley becomes the uh vice president it is very likely she will agitate for War uh against Iran uh and Trump will go along okay and if that's
+it's much more reflective and accurate okay does that make sense okay and and that's how we try to think critically about the World by building an an models that we can then test against reality and then ba and then based on what happens in reality we can go and refine our analytical model right any
+
+### Closing Questions
+
+any questions Okay so next week um we discuss the war in Iran okay because if you look at uh this again if Nikki Haley becomes the uh vice president it is very likely she will agitate for War uh against Iran uh and Trump will go along okay and if that's
 the case then we we need to understand how America will fight the war and how Iran will respond and that's what what we will we will do next week okay

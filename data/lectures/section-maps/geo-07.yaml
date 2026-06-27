@@ -1,7 +1,6 @@
 source_id: geo-07
 sections:
 - title: Opening
-  anchor: okay so let's start class and start to think about the
 - title: The Motive Clear And The Problem
   anchor: okay so the motive is very clear and the problem here is it's very unc
 - title: The The Person The Real Power
@@ -11,3 +10,4 @@ sections:
 - title: All Again Don't What Happened But
   anchor: all right so again I don't know what happened but if we look at Game T
 - title: Closing Questions
+  anchor_missing: true

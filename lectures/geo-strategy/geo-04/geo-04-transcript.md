@@ -30,20 +30,16 @@ Source timestamps:
 
 ### Opening
 
-
-
-### The Third And Final Force Driving
-
 okay um let's start class so let's review where we are um we are discussing or exploring why the United States would want to invade Iran and so far we have two good reasons the first good reason is called the Israel Lobby um there are in the is Lobby millions of Christian zionists who believe that a conflict in the Middle East especially between Israel and Iran will bring Jesus back to Earth they want their God Jesus to return to Earth and they believe that a war in the Middle East will force him to return that's the first reason second
 reason is the idea of an of Empire America is an Empire and as an Empire it has a lot of privileges for example it can just print as much money as it want right US dollars right now uh America is $34 trillion dollar in debt and the debt is growing by trillion dollars every two months America can do this as long as is as it as long as it is an Empire as long as people fear America but as we discussed last class with Putin's invasion of Ukraine uh people are now starting to rebel against the empire and therefore America
 must demonstrate it still is the military hegemon of the world and therefore I can do this by um invading Iran okay
 
-### Let's Map The Middle East Iran
+### The Third And Final Force Driving
 
 today we look at the third and final force driving conflict in the Middle East and it's really the conflict between s Arabia and Iran most people think that Iran Iran's major enemy in the Middle East is Israel in fact Iran's Iran's major enemy is Saudi Arabia these two are bitter Rivals and to understand why we have to look at their history okay so the year is 1979 at the start of at the start
 of 1979 Saudi Arabia and Iran are good friends okay so
 
-### The First Source Tension Between Iran
+### Let's Map The Middle East Iran
 
 let's look at a map of the Middle East Iran is here uh it's next to Iraq uh Saudi Arabia is down here uh then this is Egypt um you have Yemen here Oman this is the Strait of Hormuz and this is the SE Canal okay uh theed SE basically and in 1979 uh Saudi Arabia and Iran were very good friends uh they had a lot of similar similarities they were both monarchies they were ruled by a king um they were secular they relied on American power to defend itself and they
 were both oil exporters both very prosperous oil oil exporters but then in 1979 a political earthquake radically changed the landscape of the Middle East in 1979 there was a bottom Up Revolution called the Islamic revolution before 1979 there was a general consensus agreement in the Middle East that religion and politics would be separated but in 1979 the people in Iran uh demanded three things okay first they demanded that um the king they will not be ruled by a king okay that's that's that's the first amand second is that the US should not
@@ -58,14 +54,14 @@ wahhabism would become the national religion of Saudi Arabia and the W wahabis w
 with the wahhabi okay now wahhabism accounts for 20 to 40% of uh all the people in Saudi Arabia so it is a very significant group more important Wabi people tend to be extremely fanatical so for example uh in 1979 the people who laid Siege to Mecca um were wahhabist and wahhabist were also responsible for terrorist attacks against tourists against foreigners in Saudi Arabia okay so Saudi Arabia has always had this problem with the wahhabis and the a way that Saudi Arabia has tried to resolve the conflict uh is to export the
 religion of wahhabism throughout the world so for example Osama bin ladin was a Saudi um citizen responsible for spreading wahhabism in Afghanistan and that's what started alqaeda okay so Saudi Arab Saudi trying to export wahhabism Iran is trying to export uh the Shia religion and so that they bring they come in conflict with with each other
 
-### Third And Final Conflict Geopolitical And
+### The First Source Tension Between Iran
 
 okay so the first source of tension between Iran and Saudi Arabia uh is over religion second is economical and what that means is that both countries or are oil exporters in fact
 Saudi Arabia is completely reliant on oil for its economy 40% of Saudi Arabia's economy GDP is based on oil exports Saudi Arabia is number one oil exporter in the world okay 75% of government revenues comes from from from its oil exports in other words Saudi Arabia does not actually collect taxes from its citizens it just sells oil okay Iran um also sells oil it's the number four oil exporter in the world but it's less reliant on oil because it has a diversified economy meaning that it has very strong human capital um it has a
 very well educated population that does all sorts of different activities okay science art um education so Saudi Arabia for the longest time has been has been trying to control the price of oil in order to maximize profits for example it wants to cut down it wants to cut back production in order to increase the price of oil which will increase profits but Iran often doesn't cooperate because Iran is trying to sell as much oil as possible in order to boister uh in order to boost its economy okay so there's economic economic
 conflict between these two countries and the
 
-### Closing Questions
+### Third And Final Conflict Geopolitical And
 
 third and final Conflict is geopolitical okay and geopolitical means that both countries are trying to exert as much influence as possible over the Middle East now Iran is trying to exert influence over the Middle East because um After the revolution in in 1979 many countries including Saudi Arabia and United States encouraged Iraq to invade Iran and this Invasion called the Iraq Iran War lasted eight years and it cost the lives of millions of um Iranians and from then on
 Iran has adopted a policy of aggressive um uh intervention in the Middle East in order to distract the United States and Israel okay so for example uh in Israel there are two groups opposing Israel Hamas and um Hezbollah and they're both financed and supported politically uh by Iran and the point of doing this is to distract Israel okay now Saudi Arabia is trying to exert influence over the Middle East because as one as number one oil exporter in to control shipping lanes okay uh it needs to control this area um and this area uh the St moves
@@ -92,5 +88,9 @@ killing Qasem Soleimani in fact when Trump made the decision to assassinate Sole
 the Pentagon thinks it's best okay so so an example is that um if I'm the military and I go to Trump I give you three choices okay the first choice is a one let's do nothing okay two is what you should do and three is let's blow up the world okay so when I present these three options to you you as a president being wise and strategic will obviously always pick option two right what you should do what the military suggest you should do okay unfortunately in this C in this instance Trump chose option three let's
 BL up the world guys and so they assassinated Kasam salaman okay so in other words it is very likely that if Trump stayed a second term the United States would have gone to war with Iran given how uh how things were progressing okay MBS was so happy about all this that he once BR privately to a friend that oh jar Kushner Trump son-in-law the man responsible for all Middle East policies well he's in my pocket meaning I own him okay and the evidence that that suggests this is that after uh Trump left office after Jared
 Kushner left office Jared Kushner set up a private Equity Fund and MBS and the stud government invested $2 billion in into the fun okay does that make sense so um we don't know how we don't know this for sure but it seems like Trump is doing exactly what the Saudis want which is to inflame tensions with Iran okay and um this suggests that if in November Trump wins a second term it is very possible that Trump will declare war on Iran or at the very least continue to escalate
-tensions with Iran okay which will very likely lead to World War II so in that respect the ele the election in November whether whether whether or not Trump comes back into office um is one of most consequential elections okay does that make sense guys okay any questions anything you want me to clarify before we end class okay so what we will do next class is is figure out if Trump will win in November and I will make the argument to you that it is almost very certain very likely that he will win in November okay so we will examine why
+tensions with Iran okay which will very likely lead to World War II so in that respect the ele the election in November whether whether whether or not Trump comes back into office um is one of most consequential elections okay does that make sense guys okay
+
+### Closing Questions
+
+any questions anything you want me to clarify before we end class okay so what we will do next class is is figure out if Trump will win in November and I will make the argument to you that it is almost very certain very likely that he will win in November okay so we will examine why
 next class

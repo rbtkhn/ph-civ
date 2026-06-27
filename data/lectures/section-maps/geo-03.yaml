@@ -1,7 +1,6 @@
 source_id: geo-03
 sections:
 - title: Opening
-  anchor_missing: true
 - title: Manufacturing, Reagan, and financialization
   anchor_missing: true
 - title: Declaration of Independence and theism
@@ -11,3 +10,4 @@ sections:
 - title: National debt, Ukraine, and reindustrialization
   anchor_missing: true
 - title: Easy money and the imperial close
+  anchor_missing: true

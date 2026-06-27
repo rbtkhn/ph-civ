@@ -1,7 +1,6 @@
 source_id: geo-11
 sections:
 - title: Opening
-  anchor: today uh we will be discussing the second um American C
 - title: The First Thing About America Country
   anchor: okay so the first thing to know about America is that it is a country
 - title: The Isolationist Meaning Like They Don't
@@ -11,3 +10,4 @@ sections:
 - title: The Question Who Special Forces Support
   anchor: the question then is who will Special Forces support and the answer is
 - title: Closing Questions
+  anchor_missing: true
