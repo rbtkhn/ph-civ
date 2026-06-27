@@ -814,119 +814,154 @@ I'll see you over there.
 **Jiang Xueqin:** Israel has essentially already conquered the Middle East. The only force in their way right now is America.
 ### Israel — Greater Israel, NATO, and Odessa
 
-**Jiang Xueqin:** So, once America leaves the Middle East, which I expect to happen, then Israel will absorb CENTCOM, which is the um Central Command, the American military bases in the Middle East, and they will achieve the greater Israel project.
-There's no other power in in Middle East that can withstand the might and power of Israel.
-And do you have a timeline for this?
-The moment America quits this war against Iran, the moment that America leaves the Middle East, Israel will achieve the greater Israel project. And what's really interesting right now is that Israel's trying to drag this war out for as long as possible because they see this war as a way to destroy all its major enemies in the um Middle East. You know, they It's really It's already said this.
-After Iran, Turkey is next.
+**Jiang Xueqin:** So, once America leaves the Middle East, which I expect to happen, then Israel will absorb CENTCOM, which is the um Central Command, the American military bases in the Middle East, and they will achieve the greater Israel project. There's no other power in in Middle East that can withstand the might and power of Israel.
+
+**Steven Bartlett:** And do you have a timeline for this?
+
+**Jiang Xueqin:** The moment America quits this war against Iran, the moment that America leaves the Middle East, Israel will achieve the greater Israel project. And what's really interesting right now is that Israel's trying to drag this war out for as long as possible because they see this war as a way to destroy all its major enemies in the um Middle East. You know, they It's really It's already said this. After Iran, Turkey is next.
+
 **Steven Bartlett:** Turkey, hm.
-Turkey is next. This war is already destroying Saudi Arabia and the GCC, right? So, the last opponent is Turkey.
-Once Turkey is brought into this war, then Israel will achieve the greater Israel project.
-And the greater Israel project covers all of this region here from Turkey, Egypt, Yemen, Oman. Is so the greater Israel project is like this, okay? So, it goes from the Nile in Egypt to the Euphrates in Iraq. And it covers part of Turkey, all Syria, all Lebanon, all Jordan, and parts of Saudi Arabia, which also includes Mecca and Medina.
-What is your next prediction?
-NATO and Russia will fight for Odessa.
-Odessa? What's Odessa?
-So, if you look at the uh Ukraine front lines, right now Russia is preoccupied in trying to control uh the Donbas, which is basically eastern Ukraine.
-Why Russia is doing this is that eastern Ukraine has historically been part of Russia, therefore most people there speak Russian and are are ethnically Russian.
-The Donbas is also the agricultural and industrial heartland of Ukraine. So, if Russia were to control east eastern in Ukraine, it doesn't really need Western Ukraine.
-And then Western Ukraine would basically become a rump state. It'd be useless, right? So, the last piece to this puzzle would be Odessa, which sits on the Black Sea. The reason why you want Odessa is that it is the major port.
-And once you control Odessa, you basically block off Ukraine from the Black Sea. You have complete control over the Black Sea. The Black Sea is that the Black Sea? This is the Black Sea and this is Odessa right here. Yes.
-Okay, so you're saying that you Russia will take take Odessa. That's correct.
-Okay, so they'll control the Black Sea.
-That's right. But NATO recognizes that if Odessa falls to the Russians, the war is over.
-And Russia will have achieved all its major strategic objectives. Why is the war over?
-Because Russia doesn't want to continue on after Odessa. It doesn't need that of Ukraine.
+
+**Jiang Xueqin:** Turkey is next. This war is already destroying Saudi Arabia and the GCC, right? So, the last opponent is Turkey. Once Turkey is brought into this war, then Israel will achieve the greater Israel project. And the greater Israel project covers all of this region here from Turkey, Egypt, Yemen, Oman. Is so the greater Israel project is like this, okay? So, it goes from the Nile in Egypt to the Euphrates in Iraq. And it covers part of Turkey, all Syria, all Lebanon, all Jordan, and parts of Saudi Arabia, which also includes Mecca and Medina.
+
+**Steven Bartlett:** What is your next prediction?
+
+**Jiang Xueqin:** NATO and Russia will fight for Odessa.
+
+**Steven Bartlett:** Odessa? What's Odessa?
+
+**Jiang Xueqin:** So, if you look at the uh Ukraine front lines, right now Russia is preoccupied in trying to control uh the Donbas, which is basically eastern Ukraine. Why Russia is doing this is that eastern Ukraine has historically been part of Russia, therefore most people there speak Russian and are are ethnically Russian. The Donbas is also the agricultural and industrial heartland of Ukraine. So, if Russia were to control east eastern in Ukraine, it doesn't really need Western Ukraine. And then Western Ukraine would basically become a rump state. It'd be useless, right? So, the last piece to this puzzle would be Odessa, which sits on the Black Sea. The reason why you want Odessa is that it is the major port. And once you control Odessa, you basically block off Ukraine from the Black Sea. You have complete control over the Black Sea.
+
+**Steven Bartlett:** The Black Sea is that the Black Sea?
+
+**Jiang Xueqin:** This is the Black Sea and this is Odessa right here. Yes.
+
+**Steven Bartlett:** Okay, so you're saying that Russia will take Odessa.
+
+**Jiang Xueqin:** That's correct.
+
+**Steven Bartlett:** Okay, so they'll control the Black Sea.
+
+**Jiang Xueqin:** That's right. But NATO recognizes that if Odessa falls to the Russians, the war is over. And Russia will have achieved all its major strategic objectives.
+
+**Steven Bartlett:** Why is the war over?
+
+**Jiang Xueqin:** Because Russia doesn't want to continue on after Odessa. It doesn't need that of Ukraine.
+
 **Steven Bartlett:** Like what does it get from taking Odessa?
-Once they take Odessa, control of 1/3 of the world's carbohydrates.
-If Russia willed it, Africa would starve to death.
-The Middle East would starve. Why?
-Because Russia and Ukraine export a lot of grain to these places. These places are not food independent. They rely on fertilizer. They rely on food imports.
-Okay. And Russia's using the Black Sea here to export. Exactly. Okay.
-What is your next prediction? This is the last one.
-Please be good.
-Okay. I was hoping for an optimistic one.
+
+**Jiang Xueqin:** Once they take Odessa, control of 1/3 of the world's carbohydrates. If Russia willed it, Africa would starve to death. The Middle East would starve. Why? Because Russia and Ukraine export a lot of grain to these places. These places are not food independent. They rely on fertilizer. They rely on food imports.
+
+**Steven Bartlett:** Okay. And Russia's using the Black Sea here to export.
+
+**Jiang Xueqin:** Exactly.
+
+**Steven Bartlett:** Okay.
+
+**Steven Bartlett:** What is your next prediction? This is the last one.
+
+**Steven Bartlett:** Please be good.
+
+**Jiang Xueqin:** Okay. I was hoping for an optimistic one.
 ### East Asia Flashpoints — North Korea
 
 **Steven Bartlett:** But East Asia breaks out into conflict.
 
 **Steven Bartlett:** Okay, what do you mean by that?
 
-**Jiang Xueqin:** Okay. So, we've talked a lot about the Middle East and we've talked briefly about Europe, okay? So, now let's go into East Asia.
-And I think there are three major sources of friction and conflict in East Asia and these could be potentially major flash points.
-The first flash point is of course over Taiwan.
-Cuz China believes that Taiwan is part of its territory and so it wants to take over uh Taiwan. The problem with this is The problem with this is that the recently Prime Minister Sanae Takaichi of Japan has said that Taiwan is core to Japanese strategic interests. What she means by this is that Japan has no resources. It's a manufacturing power that depends on resources from overseas.
-If China were to take over Taiwan, it can now block Japan from accessing the Strait of Malacca.
-And that's a policy that Japan cannot permit. So Japan would fight to ensure that Taiwan and China were never to unify.
-Would they actually? Because China is so strong, right? Can they just knock Japan straight out? Japan has no choice but to fight because again if China and Taiwan were to unify peacefully Japan would be cut off from the entirety of Southeast Asia. And Japan relies on Southeast Asia historically for resources.
-Why would it be cut off from Southeast Asia? Can't it just go go down here to through the Philippines?
-There's a lot of resources around the South China Sea. Okay. Right. Oil, minerals, all of that. Yeah.
-**Steven Bartlett:** Um, so if China and Taiwan were to unify, Japan would feel a bit threatened.
-And your prediction is that there will be some kind of conflict in this region.
-Yeah, so so that's the first flashpoint, okay? Taiwan. There's another flashpoint, which is Strait of Malacca, right? Because again, America wants to control the Strait of Malacca, but China recognizes that the Strait of Malacca is key to its economic survival. And so there's a lot conflict over the Strait of Malacca, okay? That's flashpoint number two.
-The third flashpoint, which I think would be the most surprising but actually will be the most uh pressing is North Korea.
-Okay? So, let's just use game theory.
-We are the leader, supreme leader of North Korea.
-It is a dictatorship. Everyone worships me. It is is a cult personality.
-But we're poor.
-And the rest of the world is in conflict, right? Europe is fighting with Russia, the Middle East is in flames, America's distracted trying to control the world to the best of its ability, Japan and China are fighting over the South China Sea.
-If you are North Korea now is the best opportunity to create as much havoc in the world as possible.
-There's absolutely nothing they and I can do to stop you.
-You are the brawler in high school that no one pays attention to because all the big boys are fighting each other. You can come in and dominate the school now.
-Who would they be dominating? They could dominate South Korea.
-Because if you just look at uh a population map of South Korea most of South Korean population is located in Seoul, and Seoul is about about 20 minutes artillery from North Korea. So, in 20 minutes uh North Korea could rain artillery onto Seoul and like basically they flatten their whole city.
-Why wouldn't you extort the South Koreans? Because the South Koreans are going to shoot back.
-With what? Do they not have military?
-They're being protected by the Americans right now, and Americans are busy transporting artillery and weapon systems, including the THAAD system, over to the Middle East.
-It's called THAAD. T H A A D It used to be in South Korea to protect against North Korea, and now it's over in the Middle East.
-So, Americans are cannibalizing both South Korea and Japan in order to maintain this war in the Middle East.
-Now's the time.
-Why not? It's free money. It's like taking candy from a baby.
-But South Korea have their own military, though.
-How do you defend against artillery strikes?
-Uh I don't know. You don't.
-But but they they they they would fire back, right? You'd get they'd get themselves into a pretty ugly war. South Korea have a have a big military. Well, my people are poor. They're not afraid to die. In fact, I've sent thousands of them to go to Ukraine to fight for the Russians, and they fight to the death.
-Because they're poor, and if they don't fight to the death, if they're allowed to be taken prisoner, I'll kill their families back at home.
-South Koreans are rich.
-They are used to democracy. They use individual rights.
-So, if I threaten to blow your city up, you're telling me you won't bribe me not to do so?
-Isn't Isn't the fastest, quickest way is to bribe me not to cause trouble for you? Okay, so you think they're going to bribe them? Extortion. This is extortion. I don't need to destroy South Korea. All I need to do is is basically threaten the South Koreans, and they'll just like bribe me not to do anything.
+**Jiang Xueqin:** Okay. So, we've talked a lot about the Middle East and we've talked briefly about Europe, okay? So, now let's go into East Asia. And I think there are three major sources of friction and conflict in East Asia and these could be potentially major flash points. The first flash point is of course over Taiwan. Cuz China believes that Taiwan is part of its territory and so it wants to take over uh Taiwan. The problem with this is that the recently Prime Minister Sanae Takaichi of Japan has said that Taiwan is core to Japanese strategic interests. What she means by this is that Japan has no resources. It's a manufacturing power that depends on resources from overseas. If China were to take over Taiwan, it can now block Japan from accessing the Strait of Malacca. And that's a policy that Japan cannot permit. So Japan would fight to ensure that Taiwan and China were never to unify.
+
+**Steven Bartlett:** Would they actually? Because China is so strong, right? Can they just knock Japan straight out?
+
+**Jiang Xueqin:** Japan has no choice but to fight because again if China and Taiwan were to unify peacefully Japan would be cut off from the entirety of Southeast Asia. And Japan relies on Southeast Asia historically for resources.
+
+**Steven Bartlett:** Why would it be cut off from Southeast Asia? Can't it just go go down here to through the Philippines?
+
+**Jiang Xueqin:** There's a lot of resources around the South China Sea.
+
+**Steven Bartlett:** Okay.
+
+**Steven Bartlett:** Right.
+
+**Jiang Xueqin:** Oil, minerals, all of that.
+
+**Steven Bartlett:** Yeah.
+
+**Steven Bartlett:** Um, so if China and Taiwan were to unify, Japan would feel a bit threatened. And your prediction is that there will be some kind of conflict in this region.
+
+**Jiang Xueqin:** Yeah, so so that's the first flashpoint, okay? Taiwan. There's another flashpoint, which is Strait of Malacca, right? Because again, America wants to control the Strait of Malacca, but China recognizes that the Strait of Malacca is key to its economic survival. And so there's a lot conflict over the Strait of Malacca, okay? That's flashpoint number two. The third flashpoint, which I think would be the most surprising but actually will be the most uh pressing is North Korea. Okay? So, let's just use game theory. We are the leader, supreme leader of North Korea. It is a dictatorship. Everyone worships me. It is is a cult personality. But we're poor. And the rest of the world is in conflict, right? Europe is fighting with Russia, the Middle East is in flames, America's distracted trying to control the world to the best of its ability, Japan and China are fighting over the South China Sea. If you are North Korea now is the best opportunity to create as much havoc in the world as possible. There's absolutely nothing they and I can do to stop you. You are the brawler in high school that no one pays attention to because all the big boys are fighting each other. You can come in and dominate the school now.
+
+**Steven Bartlett:** Who would they be dominating?
+
+**Jiang Xueqin:** They could dominate South Korea. Because if you just look at uh a population map of South Korea most of South Korean population is located in Seoul, and Seoul is about about 20 minutes artillery from North Korea. So, in 20 minutes uh North Korea could rain artillery onto Seoul and like basically they flatten their whole city.
+
+**Steven Bartlett:** Why wouldn't you extort the South Koreans?
+
+**Jiang Xueqin:** Because the South Koreans are going to shoot back.
+
+**Steven Bartlett:** With what? Do they not have military?
+
+**Jiang Xueqin:** They're being protected by the Americans right now, and Americans are busy transporting artillery and weapon systems, including the THAAD system, over to the Middle East. It's called THAAD. T H A A D It used to be in South Korea to protect against North Korea, and now it's over in the Middle East. So, Americans are cannibalizing both South Korea and Japan in order to maintain this war in the Middle East. Now's the time. Why not? It's free money. It's like taking candy from a baby.
+
+**Steven Bartlett:** But South Korea have their own military, though.
+
+**Jiang Xueqin:** How do you defend against artillery strikes?
+
+**Steven Bartlett:** Uh I don't know. You don't.
+
+**Jiang Xueqin:** But but they they they they would fire back, right? You'd get they'd get themselves into a pretty ugly war. South Korea have a have a big military. Well, my people are poor. They're not afraid to die. In fact, I've sent thousands of them to go to Ukraine to fight for the Russians, and they fight to the death. Because they're poor, and if they don't fight to the death, if they're allowed to be taken prisoner, I'll kill their families back at home. South Koreans are rich. They are used to democracy. They use individual rights.
+
+**Steven Bartlett:** So, if I threaten to blow your city up, you're telling me you won't bribe me not to do so?
+
+**Jiang Xueqin:** Isn't Isn't the fastest, quickest way is to bribe me not to cause trouble for you?
+
+**Steven Bartlett:** Okay, so you think they're going to bribe them?
+
+**Jiang Xueqin:** Extortion. This is extortion. I don't need to destroy South Korea. All I need to do is is basically threaten the South Koreans, and they'll just like bribe me not to do anything.
 ### Community, Hope, and Bronze Age Collapse
 
-**Steven Bartlett:** So, what does all of this stuff mean for the average person?
-You know, people listening right now, they're just normal people. A lot of them. Not all of them, but a lot of them are just normal people getting on with their lives and they care about their families, their their jobs, their futures. What does What what message have you got for them?
-In this new world, we will need leaders.
-We will need average people who are able to bring hope to the to people around them.
-Who are able to tell their neighbors, their friends, we have to come together as a community and become a family if we are to survive.
-That's what the world needs in the future.
-It will need um entrepreneurial leaders.
-It will need visionaries. It will need prophets. Those who will most thrive are those who make an effort to reach out, knock on the door of your neighbors and say, "Listen, there's a blackout.
-And there's probably no water.
-But, don't fear because if we come together as a community, if we go and knock on everyone's doors, then everyone in this apartment building, and there will be 100 of us, we just sit down and have a meeting and just discuss what's happening, one of us will come up with a solution.
-And one of us will help everyone else figure out how to find water or how to build a better society. And we know this because historically this has always been true. When empires collapse, infrastructure collapses. Which empire do you think is collapsing? The United States empire?
-Uh the United States empire is collapsing, yes.
-And who is taking its place? No one can take the place of American empire. So, we live in a unipolar moment. And the closest historical analogy to today is something called the Bronze Age collapse. The Bronze Bronze Age.
-**Jiang Xueqin:** The Bronze Age collapse. This happened about over 3,000 years ago.
-And what happened during the Bronze Age collapse is that you have these established kingdoms throughout the Middle East and Europe.
-You have Mycenaean uh Greece. You had the Hittite uh Empire in Anatolia, which is present-day Turkey. You had uh the Mesopotamian Empire and the Egyptians.
-Um and one by one they collapsed. The reason why was that a perfect storm of calamities came at the same time. There were earthquakes.
-There were famines. There was a climate crisis. There were wars. There were civil wars. There were revolutions. And so you have this massive surge of refugees, called the Sea Peoples, flowing from north and uh West Europe and sweeping the entire sweeping food to the entire entire Middle East. And the reason why is they were hungry. They didn't have any food to eat. So they organized into um you know, these large pirate armies and they overwhelmed uh entire civilizations.
-And so we're see we will see a version of this dynamic play out in the world where in the future our concern won't be wars. Our concern will be these millions of refugees who want to flood into our societies because they're hungry.
-And they're going to come from Africa.
-They're going to come from the Middle East. They'll probably come from South America as well.
-So I saw your show with Steve Keen, by the way.
-Steve Keen? Yeah. It was a great show, right? He talked about this where look the world depends on fertilizer. Mhm.
-And there's 8 billion people in the world. Without fertilizers, the world can only sustain at most two billion people.
-Well, what what are the six billion people going to do? Just starve to death? No, they're they're going to migrate.
-And they're going to want food. And it's going to create a huge global crisis throughout the world.
-I mean, one might argue that with the rise of things like AI and robotics, the cost of production is going to drop and there's going to be more, you know, Elon talks about the age of abundance and all these kinds of things. But you have to grow food out of the ground.
-And you are using fertilizer to maximize the land's capacity to grow food. So you don't have fertilizer, you can have as many robots as you want. They don't have to eat food, we have to eat food.
-So what is your um you talked about hopefulness?
-Right. Are you hopeful?
-I'm very hopeful. What are you hopeful for?
-I believe that humans are first and foremost creative and resilient.
-And our abilities have become dormant because we've become too complacent.
-Western lifestyle have made us um extremely lazy and fat.
-And but the moment we're presented with crisis, the moment that we find our families in danger, we're able to come together as a people and come up with all this tremendous imagination in order to make a better society.
+**Steven Bartlett:** So, what does all of this stuff mean for the average person? You know, people listening right now, they're just normal people. A lot of them. Not all of them, but a lot of them are just normal people getting on with their lives and they care about their families, their their jobs, their futures. What does What what message have you got for them?
+
+**Jiang Xueqin:** In this new world, we will need leaders. We will need average people who are able to bring hope to the to people around them. Who are able to tell their neighbors, their friends, we have to come together as a community and become a family if we are to survive. That's what the world needs in the future. It will need um entrepreneurial leaders. It will need visionaries. It will need prophets. Those who will most thrive are those who make an effort to reach out, knock on the door of your neighbors and say, "Listen, there's a blackout. And there's probably no water. But, don't fear because if we come together as a community, if we go and knock on everyone's doors, then everyone in this apartment building, and there will be 100 of us, we just sit down and have a meeting and just discuss what's happening, one of us will come up with a solution. And one of us will help everyone else figure out how to find water or how to build a better society. And we know this because historically this has always been true. When empires collapse, infrastructure collapses.
+
+**Steven Bartlett:** Which empire do you think is collapsing?
+
+**Jiang Xueqin:** Uh the United States empire is collapsing, yes.
+
+**Steven Bartlett:** And who is taking its place?
+
+**Jiang Xueqin:** No one can take the place of American empire. So, we live in a unipolar moment. And the closest historical analogy to today is something called the Bronze Age collapse. The Bronze Bronze Age.
+
+**Jiang Xueqin:** The Bronze Age collapse. This happened about over 3,000 years ago. And what happened during the Bronze Age collapse is that you have these established kingdoms throughout the Middle East and Europe. You have Mycenaean uh Greece. You had the Hittite uh Empire in Anatolia, which is present-day Turkey. You had uh the Mesopotamian Empire and the Egyptians. Um and one by one they collapsed. The reason why was that a perfect storm of calamities came at the same time. There were earthquakes. There were famines. There was a climate crisis. There were wars. There were civil wars. There were revolutions. And so you have this massive surge of refugees, called the Sea Peoples, flowing from north and uh West Europe and sweeping the entire sweeping food to the entire entire Middle East. And the reason why is they were hungry. They didn't have any food to eat. So they organized into um you know, these large pirate armies and they overwhelmed uh entire civilizations. And so we're see we will see a version of this dynamic play out in the world where in the future our concern won't be wars. Our concern will be these millions of refugees who want to flood into our societies because they're hungry. And they're going to come from Africa. They're going to come from the Middle East. They'll probably come from South America as well.
+
+**Jiang Xueqin:** So I saw your show with Steve Keen, by the way.
+
+**Steven Bartlett:** Steve Keen? Yeah. It was a great show, right?
+
+**Jiang Xueqin:** He talked about this where look the world depends on fertilizer.
+
+**Steven Bartlett:** Mhm.
+
+**Jiang Xueqin:** And there's 8 billion people in the world. Without fertilizers, the world can only sustain at most two billion people.
+
+**Steven Bartlett:** Well, what what are the six billion people going to do? Just starve to death?
+
+**Jiang Xueqin:** No, they're they're going to migrate. And they're going to want food. And it's going to create a huge global crisis throughout the world.
+
+**Steven Bartlett:** I mean, one might argue that with the rise of things like AI and robotics, the cost of production is going to drop and there's going to be more, you know, Elon talks about the age of abundance and all these kinds of things. But you have to grow food out of the ground. And you are using fertilizer to maximize the land's capacity to grow food. So you don't have fertilizer, you can have as many robots as you want. They don't have to eat food, we have to eat food.
+
+**Steven Bartlett:** So what is your um you talked about hopefulness?
+
+**Jiang Xueqin:** Right.
+
+**Steven Bartlett:** Are you hopeful?
+
+**Jiang Xueqin:** I'm very hopeful.
+
+**Steven Bartlett:** What are you hopeful for?
+
+**Jiang Xueqin:** I believe that humans are first and foremost creative and resilient. And our abilities have become dormant because we've become too complacent. Western lifestyle have made us um extremely lazy and fat. And but the moment we're presented with crisis, the moment that we find our families in danger, we're able to come together as a people and come up with all this tremendous imagination in order to make a better society.
+
 Make sure you keep what I'm about to say to yourself. I'm inviting 10,000 of you to come even deeper into the Diary of a CEO. Welcome to my inner circle. This is a brand new private community that I'm launching to the world. We have so many incredible things that happen that you are never shown. We have the briefs that are on my iPad when I'm recording the conversation. We have clips we've never released. We have behind the scenes conversations with the guest and also the episodes that we've never ever released and so much more. In the circle, you'll have direct access to me.
 You can tell us what you want this show to be, who you want us to interview, and the types of conversations you would love us to have. But, remember, for now, we're only inviting the first 10,000 people that join before it closes. So, if you want to join our private closed community, head to the link in the description below or go to doacircle.com.
 I will speak to you then.
@@ -1046,96 +1081,98 @@ I'm 30 years old, 33 years old.
 
 **Jiang Xueqin:** It may happen in everyone's lifetime. It may happen in the next 5 to 10 years.
 
-**Steven Bartlett:** Do you think that's going to happen in the next 5 to 10 years? I think there's a very strong possibility that the American empire will collapse in the next 5 to 10 years because it is overstretched, it's in too much debt, and it is really angering the entire world. It's basically unifying the entire world against it right now. **Steven Bartlett:** And if that is to be the case, what would you give me as advice as a 33-year-old? What What action should I be thinking about taking now based on what you know about history to make sure that, you know, it's not too bad for my myself? I guess I'm asking this question in light of you predicting that there might be a collapse of the sort of Western or the American empire.
-And in such a scenario, I was wondering what what what it would look like to be an American.
-And is there a a solution or course of behavior one should take in such a scenario? But what I guess that's the key question which is if the US empire does collapse, how does American life change or Western life change? Okay. So, one theory that's very important to understand is something called hermetic philosophy.
-And hermetic philosophy is what underpins um Plato's allegory of the cave. Mhm.
-And hermetic philosophy comes from Egypt.
-And it has certain principles, but its main principle is that reality is energy, is vibrations. Okay, so we think of it as material, but material is a consequence of energy. Mhm. Right? So, what this means is that reality is consciousness itself. Mhm.
-So, our thoughts are what's real.
-Our bodies are just vehicles to expre- to experience the world around us, but they're not real. When we die, our souls return to the source, and we come back again. And we're here primarily in order to experience things we cannot experience in the spiritual world, because in the spiritual world it's not material. Mhm.
-So, what's really important is to appreciate that every one of us is part of the source.
-And so, if we think about the totality of things, we can only become despondent. We can only give up hope.
-But if we think about how individually we can become a better person, and how we can impact the people around us, then that becomes reflected onto the reality itself.
-Because we're just part of God itself.
-Right? So, the idea is as above, so below.
-As below, so above. Meaning that we are each and every one of us fractals of God. Mhm. So, we choose to be a good person, this makes the world a better place. We choose to be a bad person, it also makes the world a worse place. So, it's not really about how can I stop these wars from happening, because you cannot. It's not really about where can I put my money to make generate more income, because that because that's not going to happen. It's really about how do I live my life to the fullest.
-How do I become a much more creative individual that brings goodness to the people around me?
-If you do that, you're changing the world everyday for the better.
-That's a nice message.
-That's a very nice message.
-And I agree. And I It's really interesting. I've spoken to a couple of physicists now who say similar things regarding about consciousness, and it really has stuck with me. A lot of things people say, you know, sometimes because I I learn so much doing this that I forget them. But this idea that um that we're all part of the same consciousness, and that I think someone said to me, a physicist said to me that um it's almost like consciousness divided into lots of little pieces so that it could experience the world or view the world.
+**Steven Bartlett:** Do you think that's going to happen in the next 5 to 10 years?
+
+**Jiang Xueqin:** I think there's a very strong possibility that the American empire will collapse in the next 5 to 10 years because it is overstretched, it's in too much debt, and it is really angering the entire world. It's basically unifying the entire world against it right now.
+
+**Steven Bartlett:** And if that is to be the case, what would you give me as advice as a 33-year-old? What What action should I be thinking about taking now based on what you know about history to make sure that, you know, it's not too bad for my myself? I guess I'm asking this question in light of you predicting that there might be a collapse of the sort of Western or the American empire. And in such a scenario, I was wondering what what what it would look like to be an American. And is there a a solution or course of behavior one should take in such a scenario? But what I guess that's the key question which is if the US empire does collapse, how does American life change or Western life change?
+
+**Jiang Xueqin:** Okay. So, one theory that's very important to understand is something called hermetic philosophy. And hermetic philosophy is what underpins um Plato's allegory of the cave.
+
+**Steven Bartlett:** Mhm.
+
+**Jiang Xueqin:** And hermetic philosophy comes from Egypt. And it has certain principles, but its main principle is that reality is energy, is vibrations. Okay, so we think of it as material, but material is a consequence of energy.
+
+**Steven Bartlett:** Mhm.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** So, what this means is that reality is consciousness itself.
+
+**Steven Bartlett:** Mhm.
+
+**Jiang Xueqin:** So, our thoughts are what's real. Our bodies are just vehicles to expre- to experience the world around us, but they're not real. When we die, our souls return to the source, and we come back again. And we're here primarily in order to experience things we cannot experience in the spiritual world, because in the spiritual world it's not material.
+
+**Steven Bartlett:** Mhm.
+
+**Jiang Xueqin:** So, what's really important is to appreciate that every one of us is part of the source. And so, if we think about the totality of things, we can only become despondent. We can only give up hope. But if we think about how individually we can become a better person, and how we can impact the people around us, then that becomes reflected onto the reality itself. Because we're just part of God itself.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** So, the idea is as above, so below. As below, so above. Meaning that we are each and every one of us fractals of God.
+
+**Steven Bartlett:** Mhm.
+
+**Jiang Xueqin:** So, we choose to be a good person, this makes the world a better place. We choose to be a bad person, it also makes the world a worse place. So, it's not really about how can I stop these wars from happening, because you cannot. It's not really about where can I put my money to make generate more income, because that because that's not going to happen. It's really about how do I live my life to the fullest. How do I become a much more creative individual that brings goodness to the people around me? If you do that, you're changing the world everyday for the better.
+
+**Steven Bartlett:** That's a nice message.
+
+**Steven Bartlett:** That's a very nice message. And I agree. And I It's really interesting. I've spoken to a couple of physicists now who say similar things regarding about consciousness, and it really has stuck with me. A lot of things people say, you know, sometimes because I I learn so much doing this that I forget them. But this idea that um that we're all part of the same consciousness, and that I think someone said to me, a physicist said to me that um it's almost like consciousness divided into lots of little pieces so that it could experience the world or view the world.
 
 **Steven Bartlett:** That's right. Fractals. Fractals. So, that it yeah, it could it could experience the world or view the world.
-**Steven Bartlett:** Exactly. And I found that to be a really compelling idea. Weirdly, I was thinking about this the other day. I was in a European country, and I was I was driving in a taxi, and I looked out the window, and you had all of these like tourists just stood at the edge of the water, all just like looking up and looking around.
-And I just for a second thought of it thought of them as like little peach pieces of consciousness exploring the world, cuz they were like looking up and looking around and looking at mountains and looking at the ocean and looking at the floor. And it it dawned on me for a second that that might just be consciousness is manifestation for sort of I guess exploration.
-It's which is a really interesting idea.
-I don't necessarily know what it means, but it does create a little lot of empathy.
+
+**Steven Bartlett:** Exactly. And I found that to be a really compelling idea. Weirdly, I was thinking about this the other day. I was in a European country, and I was I was driving in a taxi, and I looked out the window, and you had all of these like tourists just stood at the edge of the water, all just like looking up and looking around. And I just for a second thought of it thought of them as like little peach pieces of consciousness exploring the world, cuz they were like looking up and looking around and looking at mountains and looking at the ocean and looking at the floor. And it it dawned on me for a second that that might just be consciousness is manifestation for sort of I guess exploration. It's which is a really interesting idea. I don't necessarily know what it means, but it does create a little lot of empathy.
+
 **Steven Bartlett:** So, one area that you might want to explore is the Kabbalah. So, what's this Kabbalah thing?
 
-**Jiang Xueqin:** Right. It's called the Tree of Life. And in the Tree of Life, it's it's It's what I'm trying to say is that it's a certain dynamic in the world that governs all human affairs. And this dynamic is thesis, antithesis, synthesis.
-So, God is the will to bestow, creates Adam Kadmon, who is the will to receive.
-Adam Kadmon has to abandon God. This This destroys the world, but eventually, because the world is destroyed, Adam Kadmon and his and his descendants, us, recognize the folly of our ways and beg God for forgiveness, and this will redeem the world, repair the world.
-And if you think about it, okay? This is what underpins a lot of actions that is happening in the Middle East.
-Where Israelis are doing what they're doing because they're trying to force the hand of God.
-Meaning that, okay, if Israel is committing all these atrocities in the Middle East, it's creating all these wars, eventually the world will have to punish Israel the Israelis.
-Right? There'll be war between the world and Israel.
-And Israel will be humbled. But once Israel is humbled, everyone in Israel recognize the folly of his or her arrogance, hubris, and then will beg God for forgiveness.
-And once that phenomenon happens, when all people in Israel, at the same time, beg God for deliverance and for forgiveness, the world will end.
-And will return to paradise.
-That's literally what they believe.
-We're going to have to stop there, Professor. Um we have a closing tradition where the last guest leaves a question for the next guest, not knowing who they're leaving it for.
-And the question left for you is, who will you miss the most and why?
-Well, I will miss my wife the most because I met my wife about 10 years ago and this was a time in my life when I had and when I had I had hit rock bottom.
-Um I went to Yale and so I have a very um elevated sense of myself and my abilities. And so I went into the world thinking that I would conquer it.
-And after decades of failure, um I basically became very depressed.
-Failure?
-Yes, I meaning I didn't have a job, meaning I didn't have much income, meaning I didn't have much hope in my life. And so I was working as a teacher and in formal acquaintance, I met my wife.
-And I think that it was because I became so depressed that my heart I begged for relief. I begged God, even though I don't believe in God, for salvation and redemption.
-And my wife came as an angel.
-And what she did that no one else did before was she loved me unconditionally.
-She was kind to me.
-She told me to believe in myself.
-And she proved it by making the ultimate sacrifice and having a child with me.
-Right? It's one thing to for someone to say, "I believe in you. I love you." But it's another thing to have a child with that person. And so that changed me totally. And I I said to myself, "I can't despair anymore. I have to work hard. I have to provide for my family." And at this time I was thinking that maybe I could help Chinese students go to Yale. Like, you know, in China uh consulting is a huge business where if you help package your kid and you get into Yale, you get about a million dollars. That's a lot of money, right?
-And she told me, "You can't do that. You have to be true to yourself and you have to be true to our son.
-Set a good example for him." And so, what happened was that I got a job as a high school teacher.
-And then I started to make these YouTube videos.
-And then it blew up online.
-And this was not something that we expected. This is not something that we planned for. It just happened organically.
-So, it was my wife just just by saying, "I love you" to me and I knew it to be true because we had a child together, we started a family together. By loving me unconditionally, by being kind to me, it changed me forever.
-And that's what empowered me to want to share myself with other people as well.
-And so, I don't know how I will ever thank my wife. I'm I'm forever grateful for her. And I don't I don't Before I didn't really mind leaving this world, but I don't want to leave this world anymore because I don't want to separate from her.
-Could you have expected that you'd have the success you've had online? You've got to what to almost 2.5 million subscribers on YouTube alone.
-Um getting millions and millions and millions of views on your videos.
-I mean, some of your videos have almost 10 million views on on various channels that you've been on.
-You've only made 146 of these videos.
-And your your channel has grown immensely. Could could you have imagined?
-I did. You did imagine? Yes. You thought it would go like this?
-Um not this big, but I imagined, you know, I I would find people who believe in what I was doing and would be inspired by what I was doing. And I knew this because when I met my wife and I fell in love for the first time. We love each other uh unconditionally.
-My imagination start to open up. I could see and feel things that were not available to me before.
-And it was as though I became much more connected to the source. I became much more connected to the universe. The universe was giving me insights as to how to proceed.
-And so I had one day an inspiration. Let me start our YouTube channel. Let me make stupid predictions and see where where it goes.
-Because if I'm right, then then I would be pretty famous. If I'm wrong, then I'm an idiot.
-But what gave me the courage to imagine all this was again the love of my wife.
-So that's why I say kindness and love.
-So I did imagine this, but not to the extent that um you know, my YouTube channel has blown up.
-You've only been doing it about a year.
-I I don't think I've ever seen someone get two two and a half million subscribers in a year.
-Especially making a geo- geopolitics and uh It's mainly geopolitics, isn't it? And history videos. In a year, that's crazy.
-But I will tell you this.
-It has not changed me.
-Because being with my wife, having a family, I know my mission is to share myself with others.
-So I could easily um create a media education company like Jordan Peterson um and start my own university. I don't want to do that. I want to share myself with others. I want to constantly learn. I want to constantly ask questions. I want to be open-minded. I want to be brave for my wife and my family.
-And so yes, I did succeed. And I think I thank the universe for letting me succeed. And I thank most of all the fact that I succeeded at age and at time when I can focus on a mission and ignore the fame, the wealth, the status.
-Are you happy?
-I'm very happy with my family because it's my wife and my children who bring me tremendous happiness in the world. The YouTube channel, if they close it down tomorrow, and they might, I wouldn't be at all uh unhappy because I can just go and create more videos. Uh what matters is the source of my creativity, which is my the love I have for my family.
-That is beautiful.
-Really beautiful. I mean, it's it's really self-evident the value you're giving to people because the amount of people that showed up in my comment section and and demanded that you come here was staggering. In fact, that's actually how I I learned about you was I just saw your name so much in the comment section. So I was like, "Who's this guy?" And I went on YouTube and looked around and then I found these videos and then I got served them because I clicked on them and then I got went down the rabbit hole like everyone.
+**Jiang Xueqin:** Right. It's called the Tree of Life. And in the Tree of Life, it's it's It's what I'm trying to say is that it's a certain dynamic in the world that governs all human affairs. And this dynamic is thesis, antithesis, synthesis. So, God is the will to bestow, creates Adam Kadmon, who is the will to receive. Adam Kadmon has to abandon God. This This destroys the world, but eventually, because the world is destroyed, Adam Kadmon and his and his descendants, us, recognize the folly of our ways and beg God for forgiveness, and this will redeem the world, repair the world. And if you think about it, okay? This is what underpins a lot of actions that is happening in the Middle East. Where Israelis are doing what they're doing because they're trying to force the hand of God. Meaning that, okay, if Israel is committing all these atrocities in the Middle East, it's creating all these wars, eventually the world will have to punish Israel the Israelis.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** There'll be war between the world and Israel. And Israel will be humbled. But once Israel is humbled, everyone in Israel recognize the folly of his or her arrogance, hubris, and then will beg God for forgiveness. And once that phenomenon happens, when all people in Israel, at the same time, beg God for deliverance and for forgiveness, the world will end. And will return to paradise. That's literally what they believe.
+
+**Steven Bartlett:** We're going to have to stop there, Professor. Um we have a closing tradition where the last guest leaves a question for the next guest, not knowing who they're leaving it for. And the question left for you is, who will you miss the most and why?
+
+**Jiang Xueqin:** Well, I will miss my wife the most because I met my wife about 10 years ago and this was a time in my life when I had and when I had I had hit rock bottom. Um I went to Yale and so I have a very um elevated sense of myself and my abilities. And so I went into the world thinking that I would conquer it. And after decades of failure, um I basically became very depressed.
+
+**Steven Bartlett:** Failure?
+
+**Jiang Xueqin:** Yes, I meaning I didn't have a job, meaning I didn't have much income, meaning I didn't have much hope in my life. And so I was working as a teacher and in formal acquaintance, I met my wife. And I think that it was because I became so depressed that my heart I begged for relief. I begged God, even though I don't believe in God, for salvation and redemption. And my wife came as an angel. And what she did that no one else did before was she loved me unconditionally. She was kind to me. She told me to believe in myself. And she proved it by making the ultimate sacrifice and having a child with me.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** It's one thing to for someone to say, "I believe in you. I love you." But it's another thing to have a child with that person. And so that changed me totally. And I I said to myself, "I can't despair anymore. I have to work hard. I have to provide for my family." And at this time I was thinking that maybe I could help Chinese students go to Yale. Like, you know, in China uh consulting is a huge business where if you help package your kid and you get into Yale, you get about a million dollars. That's a lot of money, right? And she told me, "You can't do that. You have to be true to yourself and you have to be true to our son. Set a good example for him." And so, what happened was that I got a job as a high school teacher. And then I started to make these YouTube videos. And then it blew up online. And this was not something that we expected. This is not something that we planned for. It just happened organically. So, it was my wife just just by saying, "I love you" to me and I knew it to be true because we had a child together, we started a family together. By loving me unconditionally, by being kind to me, it changed me forever. And that's what empowered me to want to share myself with other people as well. And so, I don't know how I will ever thank my wife. I'm I'm forever grateful for her. And I don't I don't Before I didn't really mind leaving this world, but I don't want to leave this world anymore because I don't want to separate from her.
+
+**Steven Bartlett:** Could you have expected that you'd have the success you've had online? You've got to what to almost 2.5 million subscribers on YouTube alone. Um getting millions and millions and millions of views on your videos. I mean, some of your videos have almost 10 million views on on various channels that you've been on. You've only made 146 of these videos. And your your channel has grown immensely. Could could you have imagined?
+
+**Jiang Xueqin:** I did.
+
+**Steven Bartlett:** You did imagine?
+
+**Jiang Xueqin:** Yes.
+
+**Steven Bartlett:** You thought it would go like this?
+
+**Jiang Xueqin:** Um not this big, but I imagined, you know, I I would find people who believe in what I was doing and would be inspired by what I was doing. And I knew this because when I met my wife and I fell in love for the first time. We love each other uh unconditionally. My imagination start to open up. I could see and feel things that were not available to me before. And it was as though I became much more connected to the source. I became much more connected to the universe. The universe was giving me insights as to how to proceed. And so I had one day an inspiration. Let me start our YouTube channel. Let me make stupid predictions and see where where it goes. Because if I'm right, then then I would be pretty famous. If I'm wrong, then I'm an idiot. But what gave me the courage to imagine all this was again the love of my wife. So that's why I say kindness and love. So I did imagine this, but not to the extent that um you know, my YouTube channel has blown up.
+
+**Steven Bartlett:** You've only been doing it about a year. I I don't think I've ever seen someone get two two and a half million subscribers in a year. Especially making a geo- geopolitics and uh It's mainly geopolitics, isn't it? And history videos. In a year, that's crazy.
+
+**Jiang Xueqin:** But I will tell you this. It has not changed me. Because being with my wife, having a family, I know my mission is to share myself with others. So I could easily um create a media education company like Jordan Peterson um and start my own university. I don't want to do that. I want to share myself with others. I want to constantly learn. I want to constantly ask questions. I want to be open-minded. I want to be brave for my wife and my family. And so yes, I did succeed. And I think I thank the universe for letting me succeed. And I thank most of all the fact that I succeeded at age and at time when I can focus on a mission and ignore the fame, the wealth, the status.
+
+**Steven Bartlett:** Are you happy?
+
+**Jiang Xueqin:** I'm very happy with my family because it's my wife and my children who bring me tremendous happiness in the world. The YouTube channel, if they close it down tomorrow, and they might, I wouldn't be at all uh unhappy because I can just go and create more videos. Uh what matters is the source of my creativity, which is my the love I have for my family.
+
+**Steven Bartlett:** That is beautiful.
+
+**Steven Bartlett:** Really beautiful. I mean, it's it's really self-evident the value you're giving to people because the amount of people that showed up in my comment section and and demanded that you come here was staggering. In fact, that's actually how I I learned about you was I just saw your name so much in the comment section. So I was like, "Who's this guy?" And I went on YouTube and looked around and then I found these videos and then I got served them because I clicked on them and then I got went down the rabbit hole like everyone.
 
 **Steven Bartlett:** Did they just want you?
 
-**Jiang Xueqin:** Yeah. I am a polarizing figure. **Jiang Xueqin:** Oh, it's probably because some people really love me, but some people also really really hate me.
-**Steven Bartlett:** Listen, I sit here with people regardless of of that stuff and I think that's important and quite rare. So I you know, I've sat with Kamala Harris or Ivanka Trump or Gavin Newsom or Michelle Obama, you know, and for me it's really about the pursuit of truth rather than being captured too much by you know, Right.
-all the blocks that we have on the table. So um thank you for doing what you do because you're demystifying and you're you're giving a perspective to the world. And I think one of the things you you do that really has compelled people is you you're able to um break things down in visual ways that allow people like me who aren't the best when it comes to books and textbooks and weren't necessarily very good in school to understand concepts in a simpler way and really to bring them to life in ways that make them actionable and relevant to our lives. And so long may you carry on doing that. And that's the essential message that I hope people understand like everyone has the capacity to learn the truth for himself or herself. It's only a question of desire and will.
+**Jiang Xueqin:** Yeah. I am a polarizing figure. Oh, it's probably because some people really love me, but some people also really really hate me.
+
+**Steven Bartlett:** Listen, I sit here with people regardless of of that stuff and I think that's important and quite rare. So I you know, I've sat with Kamala Harris or Ivanka Trump or Gavin Newsom or Michelle Obama, you know, and for me it's really about the pursuit of truth rather than being captured too much by you know, all the blocks that we have on the table. So um thank you for doing what you do because you're demystifying and you're you're giving a perspective to the world. And I think one of the things you you do that really has compelled people is you you're able to um break things down in visual ways that allow people like me who aren't the best when it comes to books and textbooks and weren't necessarily very good in school to understand concepts in a simpler way and really to bring them to life in ways that make them actionable and relevant to our lives. And so long may you carry on doing that. And that's the essential message that I hope people understand like everyone has the capacity to learn the truth for himself or herself. It's only a question of desire and will.
+
+**Jiang Xueqin:** Thank you. Thank you.
+
 Thank you. Thank you. YouTube have this new crazy algorithm where they know exactly what video you would like to watch next based on AI and all of your viewing behavior. And the algorithm says that this video is the perfect video for you. It's different for everybody looking right now. Check this video out and I bet you you might love it.

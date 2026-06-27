@@ -1,9 +1,9 @@
 {
   "schema_version": 4,
   "primary_artifact": "namespace_catalog",
-  "fingerprint": "6e2df7219c6c76dd",
+  "fingerprint": "c021fe00b78490dd",
   "card_count": 206,
-  "transcript_word_total": 1450471,
+  "transcript_word_total": 1450665,
   "ssot": "data/cards.jsonl",
   "markdown_index": "docs/predictive-history-index.md",
   "catalog_hub": {
@@ -110,7 +110,7 @@
     },
     "interviews": {
       "chapter_count": 16,
-      "transcript_word_total": 152972
+      "transcript_word_total": 153166
     },
     "secret-history": {
       "chapter_count": 28,
@@ -148,7 +148,7 @@
       "series_counts": {
         "interviews": 16
       },
-      "transcript_word_total": 152972
+      "transcript_word_total": 153166
     }
   },
   "chapters": [
@@ -3979,7 +3979,7 @@
         "folder": "interviews/interview-2026-05-07-diary-of-a-ceo",
         "folder_readme": "interviews/interview-2026-05-07-diary-of-a-ceo/README.md"
       },
-      "transcript_word_count": 20620,
+      "transcript_word_count": 20814,
       "publication_date": "2026-05-07",
       "source_video_url": "https://www.youtube.com/watch?v=BTJGr78-zyw",
       "commentary_maturity": "scaffold",
