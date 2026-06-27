@@ -2,7 +2,7 @@
 # Public surface inventory
 
 - **Surfaces:** 26
-- **Generated:** 2026-06-27T15:51:12Z
+- **Generated:** 2026-06-27T15:53:37Z
 - **Machine SSOT:** [`data/public-surface-inventory.json`](../../data/public-surface-inventory.json)
 - **Regenerate:** `ph-civ surface-inventory`
 
