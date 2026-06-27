@@ -52,7 +52,7 @@ If the operator says `coffee` at the start of a chat, do not give a generic coff
 
 ## Start Here
 
-Read `START-HERE.md`, then `llms.txt`, then `README.md`, then `docs/contracts/public-repo-contract.md` and `docs/contracts/export-contract.md`. Root layout: [`docs/onboarding/root-directory-map.md`](docs/onboarding/root-directory-map.md). Operational runbooks: [`docs/runbooks/`](docs/runbooks/).
+Read `START-HERE.md`, then `llms.txt`, then `README.md`, then `docs/contracts/public-repo-contract.md` and `docs/contracts/export-contract.md`. Root layout: [`docs/onboarding/root-directory-map.md`](docs/onboarding/root-directory-map.md). Operational runbooks: [`docs/runbooks/`](docs/runbooks/) — transcript curation (interviews + lectures): [`docs/runbooks/ph-transcript-curation.md`](docs/runbooks/ph-transcript-curation.md).
 
 Useful checks:
 

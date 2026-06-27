@@ -20,6 +20,6 @@ Human-facing docs for [`rbtkhn/predictive-history`](https://github.com/rbtkhn/pr
 | [`migrations/`](migrations/) | Essay ID, lecture relocation, repo rename notes |
 | [`onboarding/`](onboarding/) | First tour, chapter-folder links, study edition, root map |
 | [`routes/`](routes/) | Route and bridge lattice reader docs |
-| [`runbooks/`](runbooks/) | Operator procedures |
+| [`runbooks/`](runbooks/) | Operator procedures — transcript curation: [`ph-transcript-curation.md`](runbooks/ph-transcript-curation.md) |
 
 Slice indexes live beside corpus namespaces: [`lectures/`](../lectures/) · [`essays/`](../essays/) · [`interviews/`](../interviews/).

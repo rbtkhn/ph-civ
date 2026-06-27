@@ -17,3 +17,12 @@ Repo path: **`lectures/`** at the repository root (sibling to [`essays/`](../ess
 Canonical lecture packets live under `lectures/<series>/`; legacy `book/volume-*` and `ph-civ`/`ph-apo` chapter paths are compat redirect stubs.
 
 Related: [`docs/migrations/PH-LECTURES-RELOCATION.md`](../docs/migrations/PH-LECTURES-RELOCATION.md) · full hub [`docs/predictive-history-index.md`](../docs/predictive-history-index.md) · lectures slice [`predictive-history-lecture-index.md`](predictive-history-lecture-index.md).
+
+## Transcript pass ladder (sections + turn labeling)
+
+After section rails exist (pass **A** — slug retitle, anchor split, or future per-packet scripts), use the repo-native runbook for classroom Q&A cleanup and turn labeling:
+
+- **Runbook (SSOT):** [`docs/runbooks/ph-transcript-curation.md`](../docs/runbooks/ph-transcript-curation.md)
+- **Cursor skill (this repo):** [`.cursor/skills/ph-transcript-curation/SKILL.md`](../.cursor/skills/ph-transcript-curation/SKILL.md) — repo-native; not a mirrored junction skill
+
+**Lecture shapes:** monologue + slug rails (`civ-*`), flat monologue (`geo-*`, many `gt-*`), classroom Q&A with `>>` (`gt-29`, many `gb-*` / `sh-*`). Passes **B / C / D** when dialogue exists; pure monologue often stops at pass **A** + **D**. Commit prefix **`PH-TRANSCRIPT-EDIT:`**. Reference exemplars: `gt-29` (Q&A pilot) · `civ-59` (slug rails).

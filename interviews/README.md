@@ -103,3 +103,12 @@ Shared helpers (`insert_sections`, `write_sectioned_transcript`, `common_asr_cle
 | **No `###` sections** (flat speaker-labeled transcript) | — (none) |
 
 No lowercase slug headers remain. PH-TRANSCRIPT-EDIT Title Case pass is **complete** for all curated interview transcripts.
+
+## Transcript pass ladder (sections + turn labeling)
+
+After section rails exist (pass **A**, often via `scripts/patch_*_sections_asr.py`), use the repo-native runbook for host cleanup and turn labeling:
+
+- **Runbook (SSOT):** [`docs/runbooks/ph-transcript-curation.md`](../docs/runbooks/ph-transcript-curation.md)
+- **Cursor skill (this repo):** [`.cursor/skills/ph-transcript-curation/SKILL.md`](../.cursor/skills/ph-transcript-curation/SKILL.md) — not a strategy-codex junction
+
+Passes **B / C / D:** `>>` → named host, scoped turn labels, light ASR, README **Transcript pass N** notes. Commit prefix **`PH-TRANSCRIPT-EDIT:`**. Reference exemplar: DOAC #16 pass ladder (14/14 section rails pass C · `a6f86e8`).
