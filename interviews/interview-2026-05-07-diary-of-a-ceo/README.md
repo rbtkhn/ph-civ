@@ -34,6 +34,8 @@ Treat this chapter folder as a small source-lattice:
 **Transcript pass 6 (2026-06-26):** Pass **C** turn labeling in **War Phases — Ground Troops and IRGC** (~22 exchanges); fixed pass-3 mis-attributed Steven lines on IRGC/Mosaic block; light ASR (FOB/Iraq→Iran, Mosaic, Hegseth, stirring up). Three sections turn-labeled (Iran Topography, NDS, War Phases). Other sections still merged.
 
 
+**Transcript pass 11 (2026-06-26):** Pass **C** hand turn labeling in **Interview Open — Predictions and Petrodollar** (~28 exchanges) and **Timeline — Trump Term Limits and Forever War** (~6 exchanges); petrodollar/BRICS/lose-war blocks split; light ASR (has to invade, 2030, via taking on China).
+
 **Transcript pass 10 (2026-06-26):** Pass **C** hand turn labeling in **Global Chokepoints — Russia Shadow Fleet** (~34 exchanges); shadow-fleet seizure Q&A, Russia/Iran three-prong block, southern-flank map close; light ASR (Israelis mercenary, war in Iran, oil refineries). Araghchi title still unresolved.
 
 **Transcript pass 9 (2026-06-26):** Pass **C** hand turn labeling in **Eight Predictions — Trump Third Term and AI State** (~52 exchanges); constitution/third-term, US-China bargain, draft, AI surveillance blocks split; light ASR (There are two possibilities; My second prediction).

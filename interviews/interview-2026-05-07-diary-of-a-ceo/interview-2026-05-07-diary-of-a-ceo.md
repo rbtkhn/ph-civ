@@ -53,56 +53,58 @@ Professor Jiang.
 ### Interview Open — Predictions and Petrodollar
 
 **Steven Bartlett:** There's so much going on in the world at the moment that it's quite confusing for an ordinary person like me, and you've blown up across the internet because you've been able to demystify all of this craziness, but also because in 2024, you made three predictions that have come perfectly true.
-Some might say unfortunately.
-Unfortunately, yes. What were those three predictions?
 
-**Jiang Xueqin:** My first prediction was that Trump would win in November 2024.
-Second prediction is that he would start a war against Iran.
-And the third prediction is that the United States would lose this war, and in losing this war, this would radically reshape the geopolitical landscape. How did you know that Trump would start a war with Iran? The simple answer is this. The United States have to invaded Iran because it has no choice in the matter. If it were not to invade Iran, it would lose its empire. Its empire is based purely on US dollar, the petrodollar, which is a Ponzi scheme.
-If it did not invade Iran, then people would choose not to trade with it anymore. People would choose to not buy US Treasuries. Why? For the longest time, this system worked fine.
-But then, in February 2022, Russia invaded Ukraine. Yeah. That wasn't the issue. The issue was the American response.
-The American response was to sanction Russia, and we moved Russia from the Swift global payment system. It also ordered the Europeans to freeze over 200 billion dollars in Russian assets. And this is a problem because the very basis for having the US dollar as the global reserve currency is that it would remain politically neutral.
-The Americans guaranteed seamless and politically neutral international exchange.
-So, if this trend continues, right? If you don't do anything about Russia, Russia will take over Ukraine.
-And Russia then would build an alliance with China and Iran. If you look at these three countries on a map, Russia, China, and Iran, this is the entire Asian continent. And then what they can do is this. They can say, "Okay, the United States is a bully.
-They force us to play by their rules.
-They get very angry if we don't play by their rules. So, let's not play with the United States anymore. Let's just trade amongst ourselves." And then what they can do is they can build a Eurasian railway system connecting Russia, Iran, and China together.
-And then what this would do is negate American sea power because it's American ships that patrol and protect the oceans.
-And then what happen is the world, Europe, Middle East, Africa, India, East Asia would look at this trading block and think to themselves, "Wow, these guys, the Russians, and Iranians, and Chinese, they use gold as their medium of exchange.
-Gold is valuable.
-The Americans, on the other hand, use US dollars as the medium of exchange, which is not valuable. So, am am I better off with the American system or this new BRICS system?
-What's BRICS? It's an acronym. It stands for Brazil, Russia, India, uh South Africa, China. So, am I right in thinking because Iran, Russia, and China were colluding, it threatened US dominance, which is driven by the world using the dollar as the primary currency for trading? That's correct. Okay. So, they felt they needed to invade because then they can control more of the Middle East. Right. So, by attacking Iran, certain things happened. Okay? The first thing that happened is that China is now cut off from Middle East energy.
-China receives anywhere between 50 to 60% of its energy needs from the Middle East. Not just Iran, but also Qatar and Saudi Arabia.
-A lot of people say that China today, it's reliant on renewables, solar, wind. And that's true to a certain extent. Remember that China, it is an industrial powerhouse. So, it needs energy from everywhere and everyone.
-So, the fact that China is losing all this energy from the Middle East presents China with a long-term strategic vulnerability.
-Okay, that's the first thing that happens.
-Second thing that happens is that Europe is now in trouble because remember, because of the of Russia's invasion of Ukraine, Russian energy was sanctioned.
-And so, Europe relied more on Middle E- on the Middle East for its energy needs, especially Qatar.
-And now, Europe has lost all of this oil. So, you and then you have Japan and South Korea, these two powerful East Asia economies are also reliant on the Middle East for its energy. So, now question is if you're not getting your energy from the Middle East, where can you get your energy from? And there's only two answers.
-Either Russia or the United States.
-Russia is at war. And what's happening is the Ukrainian drones are attacking Russian oil refineries and export hubs.
-So, the world in the short-term have no choice but to look to America for its energy needs.
-And what did Trump do recently? He took over He took over Venezuela.
-Which has the world's greatest oil reserves.
-He's threatening Canada. He's threatening Greenland, Mexico, Colombia.
-If Trump controls the entire Western Hemisphere, the entire world has to beg Trump for energy and resources. And this saves both the US dollar as well as American empire. So, as part of your prediction in in 2024, I believe it was, you said that the US would lose this war, right?
-Why did you predict that the US will lose this war with Iran?
-Because the American society does not does not have the political will.
-Does not have the manufac- manufacturing capacity.
-Does not have the risk tolerance to fight this war in Iran.
-Basically, America wants to fight this war as cheaply as easily and as quickly as possible.
-Right? So, Trump really thought that, you know, if I sent my airplanes to strike Iran and kill the Ayatollah, they would just surrender. That was like literally his plan going into this war.
-He paid no attention to the culture. He paid no attention to the history of the Iranian people. He had absolutely no respect for for the nation. And when you do that, when you disrespect your opponent, when you underestimate your opponent, when you yourself are not willing to commit to the fight, you're going to lose.
-So, is Iran's game just a tool to stall as long as they possibly can?
-How they, you know, cuz he's taking out the leaders. And then do you also think that Trump thought that just if I just bomb the leader, then everything will sort of regenerate itself and we'll be fine?
-What was the sort of fundamental misunderstanding? There's a lot of confusion as to how this war started.
-Even today, no one actually knows how this war started.
-But, I think that Trump, given his personality, he was convinced that if he killed the leadership of Iran, then they would have no choice but to surrender. And his proof of concept was, of course, on January 3rd of this year, Delta Force went into Venezuela, kidnapped Maduro, and they just completely surrendered.
-So, in Trump's mind, he wanted to replay this the Venezuela scenario.
-And he didn't realize that Iran is fundamentally different from Venezuela.
-The short answer is he is a reality TV star. He thinks in terms of optics. He doesn't think in terms of like geopolitical strategy. The long answer is that the American military has become a very corrupt and insular institution that is trying to generate as much commercial funding as possible in order to fund the military-industrial complex.
-Did he think that he was going to bomb Iran, the people would rise up, they would elect a new government, and that would be that, and then he could control Iran?
-That's exactly what he thought.
+**Steven Bartlett:** Some might say unfortunately.
+
+**Steven Bartlett:** Unfortunately, yes. What were those three predictions?
+
+**Jiang Xueqin:** My first prediction was that Trump would win in November 2024. Second prediction is that he would start a war against Iran. And the third prediction is that the United States would lose this war, and in losing this war, this would radically reshape the geopolitical landscape.
+
+**Steven Bartlett:** How did you know that Trump would start a war with Iran?
+
+**Jiang Xueqin:** The simple answer is this. The United States has to invade Iran because it has no choice in the matter. If it were not to invade Iran, it would lose its empire. Its empire is based purely on US dollar, the petrodollar, which is a Ponzi scheme. If it did not invade Iran, then people would choose not to trade with it anymore. People would choose to not buy US Treasuries. Why? For the longest time, this system worked fine. But then, in February 2022, Russia invaded Ukraine.
+
+**Steven Bartlett:** Yeah.
+
+**Jiang Xueqin:** That wasn't the issue. The issue was the American response. The American response was to sanction Russia, and they moved Russia from the Swift global payment system. It also ordered the Europeans to freeze over 200 billion dollars in Russian assets. And this is a problem because the very basis for having the US dollar as the global reserve currency is that it would remain politically neutral. The Americans guaranteed seamless and politically neutral international exchange.
+
+**Steven Bartlett:** So, if this trend continues, right?
+
+**Jiang Xueqin:** If you don't do anything about Russia, Russia will take over Ukraine. And Russia then would build an alliance with China and Iran. If you look at these three countries on a map, Russia, China, and Iran, this is the entire Asian continent. And then what they can do is this. They can say, "Okay, the United States is a bully. They force us to play by their rules. They get very angry if we don't play by their rules. So, let's not play with the United States anymore. Let's just trade amongst ourselves." And then what they can do is they can build a Eurasian railway system connecting Russia, Iran, and China together. And then what this would do is negate American sea power because it's American ships that patrol and protect the oceans. And then what happen is the world, Europe, Middle East, Africa, India, East Asia would look at this trading block and think to themselves, "Wow, these guys, the Russians, and Iranians, and Chinese, they use gold as their medium of exchange. Gold is valuable. The Americans, on the other hand, use US dollars as the medium of exchange, which is not valuable. So, am am I better off with the American system or this new BRICS system?
+
+**Steven Bartlett:** What's BRICS?
+
+**Jiang Xueqin:** It's an acronym. It stands for Brazil, Russia, India, uh South Africa, China.
+
+**Steven Bartlett:** So, am I right in thinking because Iran, Russia, and China were colluding, it threatened US dominance, which is driven by the world using the dollar as the primary currency for trading?
+
+**Jiang Xueqin:** That's correct.
+
+**Steven Bartlett:** Okay. So, they felt they needed to invade because then they can control more of the Middle East.
+
+**Steven Bartlett:** Right.
+
+**Jiang Xueqin:** So, by attacking Iran, certain things happened. Okay? The first thing that happened is that China is now cut off from Middle East energy. China receives anywhere between 50 to 60% of its energy needs from the Middle East. Not just Iran, but also Qatar and Saudi Arabia. A lot of people say that China today, it's reliant on renewables, solar, wind. And that's true to a certain extent. Remember that China, it is an industrial powerhouse. So, it needs energy from everywhere and everyone. So, the fact that China is losing all this energy from the Middle East presents China with a long-term strategic vulnerability. Okay, that's the first thing that happens. Second thing that happens is that Europe is now in trouble because remember, because of the of Russia's invasion of Ukraine, Russian energy was sanctioned. And so, Europe relied more on the Middle East for its energy needs, especially Qatar. And now, Europe has lost all of this oil. So, you and then you have Japan and South Korea, these two powerful East Asia economies are also reliant on the Middle East for its energy. So, now question is if you're not getting your energy from the Middle East, where can you get your energy from? And there's only two answers. Either Russia or the United States. Russia is at war. And what's happening is the Ukrainian drones are attacking Russian oil refineries and export hubs. So, the world in the short-term have no choice but to look to America for its energy needs. And what did Trump do recently? He took over He took over Venezuela. Which has the world's greatest oil reserves. He's threatening Canada. He's threatening Greenland, Mexico, Colombia. If Trump controls the entire Western Hemisphere, the entire world has to beg Trump for energy and resources. And this saves both the US dollar as well as American empire.
+
+**Steven Bartlett:** So, as part of your prediction in in 2024, I believe it was, you said that the US would lose this war, right?
+
+**Steven Bartlett:** Why did you predict that the US will lose this war with Iran?
+
+**Jiang Xueqin:** Because the American society does not does not have the political will. Does not have the manufac- manufacturing capacity. Does not have the risk tolerance to fight this war in Iran. Basically, America wants to fight this war as cheaply as easily and as quickly as possible.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** So, Trump really thought that, you know, if I sent my airplanes to strike Iran and kill the Ayatollah, they would just surrender. That was like literally his plan going into this war. He paid no attention to the culture. He paid no attention to the history of the Iranian people. He had absolutely no respect for for the nation. And when you do that, when you disrespect your opponent, when you underestimate your opponent, when you yourself are not willing to commit to the fight, you're going to lose.
+
+**Steven Bartlett:** So, is Iran's game just a tool to stall as long as they possibly can? How they, you know, cuz he's taking out the leaders. And then do you also think that Trump thought that just if I just bomb the leader, then everything will sort of regenerate itself and we'll be fine?
+
+**Steven Bartlett:** What was the sort of fundamental misunderstanding? There's a lot of confusion as to how this war started. Even today, no one actually knows how this war started.
+
+**Jiang Xueqin:** But, I think that Trump, given his personality, he was convinced that if he killed the leadership of Iran, then they would have no choice but to surrender. And his proof of concept was, of course, on January 3rd of this year, Delta Force went into Venezuela, kidnapped Maduro, and they just completely surrendered. So, in Trump's mind, he wanted to replay this the Venezuela scenario. And he didn't realize that Iran is fundamentally different from Venezuela. The short answer is he is a reality TV star. He thinks in terms of optics. He doesn't think in terms of like geopolitical strategy. The long answer is that the American military has become a very corrupt and insular institution that is trying to generate as much commercial funding as possible in order to fund the military-industrial complex.
+
+**Steven Bartlett:** Did he think that he was going to bomb Iran, the people would rise up, they would elect a new government, and that would be that, and then he could control Iran?
+
+**Jiang Xueqin:** That's exactly what he thought.
 ### Iran Topography, Attrition, and Hormuz
 
 **Jiang Xueqin:** So, what I want to do now is go to the map.
@@ -596,15 +598,17 @@ I'll see you over there.
 
 **Steven Bartlett:** So, you know, he's presumably going to leave power at some point soon. So, if you were around, you might just want to play it out and hope that there's a different leadership in place by by 20, what, be 2030?
 
-**Jiang Xueqin:** The political leadership in Iran believe that they can wait Trump out. So, they're waiting for the midterms, because they believe that in November, the Democrats will win in the midterms, and then they'll impeach Trump.
-And basically constrain his capacity to fight wars.
-And worst case scenario Trump will be gone in 2020 as you point out.
-There's some problems with this. The first major problem is the national defense strategy which we looked at previously.
-The national defense strategy, it is a long-term strategic framework for how America can control the world.
-And so one possibility is that Trump is just creating enough chaos for America to to transition. When the Democrats come to power, if they come to power, they will institutionalize the strategy. And we know this as a possibility because in Trump's first term he changed America's strategy around the world.
-And then when Biden came into power he then institutionalized the strategy uh via V China. Right? So it was Trump who launched these this terror war against China. And then Biden comes in power, he institutionalizes it.
-Right? So I think World War III, it's a much more long-term uh war of attrition. And I don't think that this war um will end anytime soon.
-You've made a series of new predictions.
+**Jiang Xueqin:** The political leadership in Iran believe that they can wait Trump out. So, they're waiting for the midterms, because they believe that in November, the Democrats will win in the midterms, and then they'll impeach Trump. And basically constrain his capacity to fight wars. And worst case scenario Trump will be gone in 2030 as you point out. There's some problems with this. The first major problem is the national defense strategy which we looked at previously. The national defense strategy, it is a long-term strategic framework for how America can control the world. And so one possibility is that Trump is just creating enough chaos for America to to transition. When the Democrats come to power, if they come to power, they will institutionalize the strategy. And we know this as a possibility because in Trump's first term he changed America's strategy around the world. And then when Biden came into power he then institutionalized the strategy uh via taking on China.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** So it was Trump who launched these this terror war against China. And then Biden comes in power, he institutionalizes it.
+
+**Steven Bartlett:** Right?
+
+**Jiang Xueqin:** So I think World War III, it's a much more long-term uh war of attrition. And I don't think that this war um will end anytime soon.
+
+**Steven Bartlett:** You've made a series of new predictions.
 ### Eight Predictions — Trump Third Term and AI State
 
 **Steven Bartlett:** You've made eight new predictions.
