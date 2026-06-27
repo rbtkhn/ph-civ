@@ -18,6 +18,8 @@ SSOT: [`data/cards.jsonl`](data/cards.jsonl). Regenerate indexes: `ph-civ index`
 
 **Deprecated (compat only):** two-volume **ph-civ / ph-apo** reader frame — see [`docs/archive/two-volume-ph-civ-apo-deprecated.md`](docs/archive/two-volume-ph-civ-apo-deprecated.md). Card `part`, route `surface`, and the `ph-civ` CLI name are unchanged.
 
+**Root layout:** [`docs/onboarding/root-directory-map.md`](docs/onboarding/root-directory-map.md)
+
 It also contains the chapter body for each source item. In this repo, one chapter consists of the lecture transcript, companion commentary, and public orientation/navigation metadata. The package lets students and AI systems explore historical placement, reading posture, pressure points, limits, return paths, and guided prompts alongside the chapter text.
 
 This package is independent educational infrastructure. It is not official course material, not endorsement, and not a substitute for the source lectures, transcripts, commentary, or external verification.
@@ -36,7 +38,7 @@ Medium-first chapter namespaces at the repository root (siblings to [`book/`](bo
 
 - [`essays/`](essays/README.md) — flat Substack essay bodies (`essay-YYYY-MM-DD-{slug}.md`)
 - [`commentaries/`](commentaries/README.md) — essay commentary canvases (`essay-*-commentary.md`; lectures/interviews unchanged)
-- [`lectures/`](lectures/README.md) — reserved namespace for lecture chapter packets; most lecture chapters still live under `book/` during recanonicalization
+- [`lectures/`](lectures/README.md) — canonical lecture chapter packets under `lectures/<series>/` (147); legacy `book/` redirect stubs remain for compat
 - [`interviews/`](interviews/README.md) — 16 public interview provenance packets (`interview-YYYY-MM-DD-{host-slug}`); catalog in the interview slice index
 
 ## What Is Included

@@ -21,7 +21,7 @@ One chapter consists of a lecture transcript (or essay/interview body), a compan
 Medium-first namespaces at the repository root (siblings to `book/`):
 
 - [`essays/`](essays/README.md) — Substack and long-form essays (`essay-2025-08-06-vision-mission-goals` … `essay-2026-06-19-peace-in-our-time`)
-- [`lectures/`](lectures/README.md) — reserved lecture namespace; most lecture chapters still live under `book/` until recanonicalized
+- [`lectures/`](lectures/README.md) — canonical lecture packets under `lectures/<series>/` (147); legacy `book/` redirect stubs for compat
 - [`interviews/`](interviews/README.md) — 16 public interview provenance packets (`interview-YYYY-MM-DD-{host-slug}`); full catalog in the interview slice index
 
 ## First Chat Flow

@@ -14,9 +14,11 @@ def test_agent_identity_contract_exists():
     text = read_text("AGENTS.md")
 
     assert "rbtkhn/predictive-history" in text
-    assert "two-volume ph-civ artifact" in text
-    assert "lecture transcript" in text
+    assert "namespace catalog hub" in text
+    assert "Compatibility" in text
+    assert "two-volume ph-civ artifact" not in text
     assert "companion commentary" in text
+    assert "transcript" in text
     assert "rbtkhn/ph-workshop" in text
     assert "generic coffee greeting" in text
 
