@@ -51,12 +51,20 @@ def extract_transcript_body(text: str) -> str:
 
 
 def main() -> None:
-    body = extract_transcript_body(SRC.read_text(encoding="utf-8"))
+    src_text = SRC.read_text(encoding="utf-8")
+    if src_text.startswith("# Moved\n"):
+        raise SystemExit(f"{SRC} is a redirect stub; read canonical body from {LEC}")
+    body = extract_transcript_body(src_text)
     payload = FRONTMATTER + body
     LEC.write_text(payload, encoding="utf-8")
-    SRC.write_text(payload, encoding="utf-8")
+    lecture_rel = "lectures/game-theory/gt-29/gt-29-transcript.md"
+    rel_link = "../../../" + lecture_rel
+    SRC.write_text(
+        f"# Moved\n\nThis capture moved to [`{lecture_rel}`]({rel_link}).\n",
+        encoding="utf-8",
+    )
     print(f"wrote {LEC.relative_to(ROOT)} ({len(payload)} chars)")
-    print(f"synced {SRC.relative_to(ROOT)}")
+    print(f"stubbed {SRC.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":
