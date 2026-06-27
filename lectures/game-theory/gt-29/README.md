@@ -33,6 +33,10 @@ Treat this chapter folder as a small source-lattice:
 
 ## Review Status
 
+**Transcript pass 2 (2026-06-26):** Pass **A** section rails (gt-qa-capstone); re-anchored Opening / Substack / YouTube / Closing (template paragraph split had empty Opening and YouTube rails).
+
+**Transcript pass 3 (2026-06-26):** Pass **B + C** classroom Q&A — 57 ``>>`` → named speaker; 9 answer blocks labeled **Jiang Xueqin:**; ~66 labeled turns in YouTube Questions + Closing. Substack block stays mostly unlabeled (Jiang reads founding-member questions inline). ``>>`` remaining: 0. Unresolved: merged Alan/Jiang paragraphs; some inline YouTube questions without ``>>``; ASR (Professor John → Jiang where touched).
+
 `provisional`. Transcript body is canonical in this folder. **YouTube ASR verification is not closed** — automated fetch hit YouTube bot-check from this environment; structural anchors pass. Run `python scripts/verify_gt29_youtube_asr.py --cookies-from-browser chrome` locally and read [`artifacts/gt-29-asr-verify.md`](../../../artifacts/gt-29-asr-verify.md). Do not upgrade `review_status` until ASR compare ≥ 0.90 or operator sign-off.
 
 ## LLM Prompt
